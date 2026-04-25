@@ -27,7 +27,7 @@ jobs:
           python-version: "3.x"
 
       - name: Fetch commit data
-        run: python3 scripts/fetch_commits.py
+        run: python3 scripts/fetch_commits.py --limit 20
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
