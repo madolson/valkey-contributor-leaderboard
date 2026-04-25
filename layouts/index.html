@@ -33,7 +33,9 @@
             <div class="contributor">
               <img src="{{ $c.avatar_url }}" alt="{{ $c.login }}" loading="lazy" width="32" height="32">
               <a href="{{ (printf "/contributors/%s/" $c.login) | relURL }}" class="profile-link">{{ $c.login }}</a>
+              {{ with $c.company }}<span class="company">({{ . }})</span>{{ end }}
               <a href="https://github.com/{{ $c.login }}" class="gh-link" title="GitHub profile">↗</a>
+              {{ with $c.name }}<span class="hidden">{{ . }}</span>{{ end }}
             </div>
           </td>
           <td class="num score">{{ $c.score }}</td>

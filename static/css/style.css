@@ -18,7 +18,7 @@ header {
   border-bottom: 2px solid #475ad2;
 }
 
-header .logo { height: 36px; }
+header .logo { height: 36px; filter: brightness(0) invert(1); }
 
 header h1 {
   font-size: 1.4rem;
@@ -46,10 +46,11 @@ footer a:hover { text-decoration: underline; }
 
 /* Table styles */
 .methodology {
-  margin-bottom: 1rem;
+  margin: 0 0 1rem 0;
   border: 1px solid #353841;
   border-radius: 6px;
   background: #24272f;
+  box-sizing: border-box;
 }
 .methodology summary {
   padding: 0.6rem 1rem;
@@ -64,7 +65,7 @@ footer a:hover { text-decoration: underline; }
   line-height: 1.6;
 }
 .methodology-body a { color: #bac7f2; }
-.methodology-body ul { margin: 0.5rem 0 0.5rem 1.2rem; }
+.methodology-body ul { margin: 0.5rem 0 0.5rem 1.2rem; padding-left: 1rem; }
 
 .search {
   width: 100%;
@@ -133,6 +134,8 @@ tr:hover td { background: #353841; }
   font-size: 0.8rem;
 }
 .contributor a.gh-link:hover { color: #bac7f2; }
+.company { color: #545861; font-size: 0.85rem; }
+.hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0,0,0,0); }
 
 .updated {
   margin-top: 1.5rem;

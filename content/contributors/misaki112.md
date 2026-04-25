@@ -12,10 +12,10 @@
   "commit_list": [
     {
       "sha": "911d87e69f",
-      "message": "911d87e69f",
+      "message": "add master link change event handler support (#215)",
       "date": "2025-10-21",
       "repo": "valkeymodule-rs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/215",
       "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/911d87e69f85922e62157604752bd8d7fe95242f"
     }
   ],

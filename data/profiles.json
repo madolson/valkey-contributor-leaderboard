@@ -1,0 +1,502 @@
+{
+  "enjoy-binbin": {
+    "name": "Binbin",
+    "company": "Tencent Cloud NoSQL"
+  },
+  "affonsov": {
+    "name": "",
+    "company": ""
+  },
+  "maxbronnikov10": {
+    "name": "Maxim Bronnikov",
+    "company": ""
+  },
+  "prashanna-frsh": {
+    "name": "Prashanna",
+    "company": "Freshworks"
+  },
+  "Frank-Gu-81": {
+    "name": "Shaopeng Gu",
+    "company": ""
+  },
+  "bauchdj": {
+    "name": "David Bauch",
+    "company": "Nimbus"
+  },
+  "bugant": {
+    "name": "Matteo Centenaro",
+    "company": ""
+  },
+  "Aryex": {
+    "name": "Alex Le",
+    "company": ""
+  },
+  "sarthakaggarwal97": {
+    "name": "Sarthak Aggarwal",
+    "company": "aws @valkey-io @opensearch-project"
+  },
+  "yang-z-o": {
+    "name": "Yang Zhao",
+    "company": "Apple"
+  },
+  "baswanth09": {
+    "name": "Baswanth",
+    "company": ""
+  },
+  "piyongcai-liucai": {
+    "name": "piyongcai",
+    "company": ""
+  },
+  "JimB123": {
+    "name": "Jim Brunner",
+    "company": "Amazon AWS ElastiCache"
+  },
+  "rainsupreme": {
+    "name": "Rain Valentine",
+    "company": "AWS"
+  },
+  "jdheyburn": {
+    "name": "Joseph Heyburn",
+    "company": "braze-inc"
+  },
+  "nesty92": {
+    "name": "",
+    "company": ""
+  },
+  "Redoubts": {
+    "name": "",
+    "company": ""
+  },
+  "arseny-kostenko": {
+    "name": "Arseny Kostenko",
+    "company": ""
+  },
+  "roshkhatri": {
+    "name": "Roshan Khatri",
+    "company": ""
+  },
+  "Ada-Church-Closure": {
+    "name": "Quanye Yang",
+    "company": ""
+  },
+  "gaiaz-iusipov": {
+    "name": "Gaiaz Iusipov",
+    "company": "\u2014"
+  },
+  "meet-bhagdev": {
+    "name": "Meet Bhagdev",
+    "company": "Amazon Web Services (AWS)"
+  },
+  "zackcam": {
+    "name": "",
+    "company": ""
+  },
+  "nassery318": {
+    "name": "",
+    "company": ""
+  },
+  "hpatro": {
+    "name": "Harkrishn Patro",
+    "company": "AWS"
+  },
+  "kurtmckee": {
+    "name": "Kurt McKee",
+    "company": ""
+  },
+  "yairgott": {
+    "name": "Yair Gottdenker",
+    "company": "Google"
+  },
+  "sachinvmurthy": {
+    "name": "Sachin Venkatesha Murthy",
+    "company": ""
+  },
+  "ysqyang": {
+    "name": "ysqyang",
+    "company": ""
+  },
+  "remicollet": {
+    "name": "Remi Collet",
+    "company": "Red Hat Inc, Fedora Project, Remi's RPM Repository"
+  },
+  "pizhenwei": {
+    "name": "zhenwei pi",
+    "company": "Tensorfer"
+  },
+  "hanxizh9910": {
+    "name": "Hanxi Zhang",
+    "company": ""
+  },
+  "eifrah-aws": {
+    "name": "",
+    "company": ""
+  },
+  "prateek-kumar-improving": {
+    "name": "",
+    "company": ""
+  },
+  "currantw": {
+    "name": "Taylor Curran",
+    "company": "Bit-Quill"
+  },
+  "jamesx-improving": {
+    "name": "James Xin",
+    "company": ""
+  },
+  "jduo": {
+    "name": "James Duong",
+    "company": ""
+  },
+  "ArgusLi": {
+    "name": "Argus Li",
+    "company": "Bit-Quill"
+  },
+  "stockholmux": {
+    "name": "Kyle J. Davis",
+    "company": "valkey-io"
+  },
+  "nmvk": {
+    "name": "Raghav Muddur",
+    "company": ""
+  },
+  "naimadswdn": {
+    "name": "",
+    "company": ""
+  },
+  "bjosv": {
+    "name": "Bj\u00f6rn Svensson",
+    "company": "Ericsson"
+  },
+  "prkomb": {
+    "name": "Khahani Mamedov",
+    "company": "mbunity"
+  },
+  "Aksha1812": {
+    "name": "AkshaThakkar1812",
+    "company": ""
+  },
+  "sonii-shivansh": {
+    "name": "Shivansh Soni",
+    "company": ""
+  },
+  "nilanshu-sharma": {
+    "name": "Nilanshu Sharma",
+    "company": "Apple"
+  },
+  "KarthikSubbarao": {
+    "name": "",
+    "company": ""
+  },
+  "AlexFilipImproving": {
+    "name": "Alex Filip",
+    "company": "https://github.com/improving"
+  },
+  "arpitbbhayani": {
+    "name": "Arpit Bhayani",
+    "company": "Razorpay"
+  },
+  "tlhunter": {
+    "name": "Thomas Hunter II",
+    "company": ""
+  },
+  "Luis729": {
+    "name": "Paul Matthew Barrameda",
+    "company": ""
+  },
+  "dvkashapov": {
+    "name": "Daniil Kashapov",
+    "company": ""
+  },
+  "louwers": {
+    "name": "Bart Louwers",
+    "company": ""
+  },
+  "arumugaraja-thirumani": {
+    "name": "",
+    "company": ""
+  },
+  "deepakpunjabi": {
+    "name": "Deepak Punjabi",
+    "company": "flipkart"
+  },
+  "bogdanp05": {
+    "name": "Bogdan Petre",
+    "company": "aiven.io"
+  },
+  "Nikhil-Manglore": {
+    "name": "Nikhil Manglore",
+    "company": ""
+  },
+  "KIvanow": {
+    "name": "Kristiyan Ivanov",
+    "company": ""
+  },
+  "zuiderkwast": {
+    "name": "Viktor S\u00f6derqvist",
+    "company": "Ericsson Software Technology"
+  },
+  "liorsve": {
+    "name": "Lior Sventitzky",
+    "company": ""
+  },
+  "Nivesh-01": {
+    "name": "Nivesh",
+    "company": "AWS"
+  },
+  "hieu2102": {
+    "name": "hieu2102",
+    "company": ""
+  },
+  "Fusl": {
+    "name": "Katie Holly",
+    "company": "The Internet"
+  },
+  "EvgeniyPatlan": {
+    "name": "EvgeniyPatlan",
+    "company": "percona"
+  },
+  "jsoref": {
+    "name": "Josh Soref",
+    "company": "GarnerCorp"
+  },
+  "edlng": {
+    "name": "Edward Liang",
+    "company": ""
+  },
+  "madolson": {
+    "name": "Madelyn Olson",
+    "company": "Amazon Web Services"
+  },
+  "yipin-chen": {
+    "name": "Yi-Pin Chen",
+    "company": "Improving"
+  },
+  "michael-grunder": {
+    "name": "Michael Grunder",
+    "company": "CacheWerk"
+  },
+  "yeoncheol-jang": {
+    "name": "Yeoncheol Jang",
+    "company": "toss"
+  },
+  "mtuteja-git": {
+    "name": "Manvika Tuteja",
+    "company": ""
+  },
+  "daanvinken": {
+    "name": "Daan Vinken",
+    "company": ""
+  },
+  "alexpota": {
+    "name": "AlexP",
+    "company": ""
+  },
+  "xdk-amz": {
+    "name": "Dante Knowles",
+    "company": ""
+  },
+  "murphyjacob4": {
+    "name": "Jacob Murphy",
+    "company": "Google"
+  },
+  "pratheep-kumar": {
+    "name": "Pratheep Kumar",
+    "company": ""
+  },
+  "alexr-bq": {
+    "name": "Alex Rehnby-Martin",
+    "company": ""
+  },
+  "lukepalmer": {
+    "name": "Luke Palmer",
+    "company": ""
+  },
+  "heckj": {
+    "name": "Joseph Heck",
+    "company": ""
+  },
+  "adam-fowler": {
+    "name": "Adam Fowler",
+    "company": ""
+  },
+  "ranshid": {
+    "name": "Ran Shidlansik",
+    "company": "Amazon Web Services"
+  },
+  "cxljs": {
+    "name": "",
+    "company": ""
+  },
+  "utdrmac": {
+    "name": "Matthew",
+    "company": ""
+  },
+  "gurgunday": {
+    "name": "G\u00fcrg\u00fcn Day\u0131o\u011flu",
+    "company": ""
+  },
+  "martinrvisser": {
+    "name": "",
+    "company": ""
+  },
+  "DerRockWolf": {
+    "name": "",
+    "company": ""
+  },
+  "bandalgomsu": {
+    "name": "",
+    "company": "Nexon"
+  },
+  "fatal10110": {
+    "name": "Artur K",
+    "company": ""
+  },
+  "Dietr1ch": {
+    "name": "Dietrich Daroch",
+    "company": ""
+  },
+  "Pratikt2312": {
+    "name": "Pratik Tonage",
+    "company": "IBM"
+  },
+  "BCathcart": {
+    "name": "Brennan",
+    "company": "Amazon"
+  },
+  "ravjotbrar": {
+    "name": "Ravjot Brar",
+    "company": "Bit Quill"
+  },
+  "SuperQ": {
+    "name": "Ben Kochie",
+    "company": "prometheus"
+  },
+  "ikolomi": {
+    "name": "",
+    "company": ""
+  },
+  "joehu21": {
+    "name": "Joe Hu",
+    "company": "Amazon Web Services"
+  },
+  "hwware": {
+    "name": "Wen Hui",
+    "company": "Huawei Technologies"
+  },
+  "jessebye": {
+    "name": "Jesse Bye",
+    "company": "Nitrogen Wealth, Inc."
+  },
+  "boda26": {
+    "name": "Miles Song",
+    "company": ""
+  },
+  "sandeepkunusoth": {
+    "name": "sandeep kunusoth",
+    "company": ""
+  },
+  "mkmkme": {
+    "name": "Mikhail Koviazin",
+    "company": "Altinity"
+  },
+  "misaki112": {
+    "name": "Chris Nie",
+    "company": ""
+  },
+  "dmitrypol": {
+    "name": "Dmitry Polyakovsky",
+    "company": "Oracle"
+  },
+  "cnuthalapati": {
+    "name": "chaitanya_nuthalapati",
+    "company": "Amazon Web Services"
+  },
+  "shohamazon": {
+    "name": "Shoham Elias",
+    "company": "Amazon Web Services"
+  },
+  "dtaivpp": {
+    "name": "David Tippett",
+    "company": "TippyBits"
+  },
+  "mcollina": {
+    "name": "Matteo Collina",
+    "company": "platformatic"
+  },
+  "deepakrn": {
+    "name": "Deepak Nandihalli",
+    "company": "Google"
+  },
+  "xShinnRyuu": {
+    "name": "Thomas Zhou",
+    "company": "Improving"
+  },
+  "allenss-amazon": {
+    "name": "Allen Samuels",
+    "company": "Amazon Web Services"
+  },
+  "Virusuki": {
+    "name": "NAM UK KIM",
+    "company": "S-Core (Samsung affiliates)"
+  },
+  "secwall": {
+    "name": "",
+    "company": ""
+  },
+  "makubo-aws": {
+    "name": "Mas",
+    "company": ""
+  },
+  "zarkash-aws": {
+    "name": "Shai Zarka",
+    "company": ""
+  },
+  "PingXie": {
+    "name": "Ping Xie",
+    "company": ""
+  },
+  "Sasidharan3094": {
+    "name": "",
+    "company": ""
+  },
+  "sfeifer": {
+    "name": "",
+    "company": ""
+  },
+  "rueian": {
+    "name": "Rueian",
+    "company": ""
+  },
+  "rlunar": {
+    "name": "Roberto Luna-Rojas",
+    "company": "Amazon Web Services"
+  },
+  "VoletiRam": {
+    "name": "",
+    "company": ""
+  },
+  "rjd15372": {
+    "name": "Ricardo Dias",
+    "company": "Percona"
+  },
+  "vmandrychenko": {
+    "name": "Vlad",
+    "company": "Garner"
+  },
+  "jeremyprime": {
+    "name": "Jeremy Parr-Pearson",
+    "company": ""
+  },
+  "yangbodong22011": {
+    "name": "bodong.ybd",
+    "company": "Alibaba"
+  },
+  "alicez0626": {
+    "name": "",
+    "company": ""
+  },
+  "charsyam": {
+    "name": "charsyam",
+    "company": ""
+  }
+}

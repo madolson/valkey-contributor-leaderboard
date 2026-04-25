@@ -21,18 +21,18 @@
     },
     {
       "sha": "427feec828",
-      "message": "427feec828",
+      "message": "updated get_client_ip to return ValkeyResult (#199)",
       "date": "2025-04-21",
       "repo": "valkeymodule-rs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/199",
       "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/427feec828f10d345109d2cc2a8205dda773f76a"
     },
     {
       "sha": "ff4a50d1fd",
-      "message": "ff4a50d1fd",
+      "message": "introduced a new optional valkey_module! preload (#191)",
       "date": "2025-04-03",
       "repo": "valkeymodule-rs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/191",
       "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/ff4a50d1fdc3226ac67d08705a08e0406036fa38"
     }
   ],

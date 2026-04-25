@@ -1,10 +1,12 @@
 {
-  "generated": "2026-04-25T21:42:30Z",
+  "generated": "2026-04-25T21:51:07Z",
   "contributors": [
     {
       "login": "roshkhatri",
       "id": 117414976,
       "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
+      "name": "Roshan Khatri",
+      "company": "",
       "commits": 34,
       "reviews": 58,
       "repos": [
@@ -23,6 +25,8 @@
       "login": "Nikhil-Manglore",
       "id": 46588759,
       "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
+      "name": "Nikhil Manglore",
+      "company": "",
       "commits": 28,
       "reviews": 43,
       "repos": [
@@ -42,6 +46,8 @@
       "login": "KarthikSubbarao",
       "id": 104098378,
       "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
+      "name": "",
+      "company": "",
       "commits": 16,
       "reviews": 37,
       "repos": [
@@ -57,6 +63,8 @@
       "login": "sarthakaggarwal97",
       "id": 25262500,
       "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "name": "Sarthak Aggarwal",
+      "company": "aws @valkey-io @opensearch-project",
       "commits": 13,
       "reviews": 27,
       "repos": [
@@ -70,6 +78,8 @@
       "login": "madolson",
       "id": 34459052,
       "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "name": "Madelyn Olson",
+      "company": "Amazon Web Services",
       "commits": 11,
       "reviews": 27,
       "repos": [
@@ -84,6 +94,8 @@
       "login": "jeremyprime",
       "id": 94406158,
       "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "name": "Jeremy Parr-Pearson",
+      "company": "",
       "commits": 7,
       "reviews": 23,
       "repos": [
@@ -96,6 +108,8 @@
       "login": "prateek-kumar-improving",
       "id": 178204713,
       "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "name": "",
+      "company": "",
       "commits": 16,
       "reviews": 13,
       "repos": [
@@ -108,6 +122,8 @@
       "login": "zackcam",
       "id": 181388575,
       "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
+      "name": "",
+      "company": "",
       "commits": 8,
       "reviews": 19,
       "repos": [
@@ -120,6 +136,8 @@
       "login": "zuiderkwast",
       "id": 273886,
       "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
+      "name": "Viktor S\u00f6derqvist",
+      "company": "Ericsson Software Technology",
       "commits": 4,
       "reviews": 20,
       "repos": [
@@ -132,6 +150,8 @@
       "login": "currantw",
       "id": 181785993,
       "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "name": "Taylor Curran",
+      "company": "Bit-Quill",
       "commits": 14,
       "reviews": 10,
       "repos": [
@@ -146,6 +166,8 @@
       "login": "xShinnRyuu",
       "id": 54688146,
       "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "name": "Thomas Zhou",
+      "company": "Improving",
       "commits": 3,
       "reviews": 20,
       "repos": [
@@ -158,6 +180,8 @@
       "login": "Aryex",
       "id": 35547559,
       "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "name": "Alex Le",
+      "company": "",
       "commits": 9,
       "reviews": 13,
       "repos": [
@@ -170,6 +194,8 @@
       "login": "pratheep-kumar",
       "id": 40911083,
       "avatar_url": "https://avatars.githubusercontent.com/u/40911083?v=4",
+      "name": "Pratheep Kumar",
+      "company": "",
       "commits": 9,
       "reviews": 12,
       "repos": [
@@ -181,6 +207,8 @@
       "login": "bjosv",
       "id": 60651423,
       "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "name": "Bj\u00f6rn Svensson",
+      "company": "Ericsson",
       "commits": 5,
       "reviews": 15,
       "repos": [
@@ -192,6 +220,8 @@
       "login": "Sasidharan3094",
       "id": 56465593,
       "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
+      "name": "",
+      "company": "",
       "commits": 10,
       "reviews": 10,
       "repos": [
@@ -203,6 +233,8 @@
       "login": "adam-fowler",
       "id": 9382567,
       "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
+      "name": "Adam Fowler",
+      "company": "",
       "commits": 15,
       "reviews": 4,
       "repos": [
@@ -215,6 +247,8 @@
       "login": "affonsov",
       "id": 67347924,
       "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
+      "name": "",
+      "company": "",
       "commits": 9,
       "reviews": 10,
       "repos": [
@@ -229,6 +263,8 @@
       "login": "alexr-bq",
       "id": 72045206,
       "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
+      "name": "Alex Rehnby-Martin",
+      "company": "",
       "commits": 4,
       "reviews": 14,
       "repos": [
@@ -241,6 +277,8 @@
       "login": "yipin-chen",
       "id": 0,
       "avatar_url": "https://github.com/yipin-chen.png?size=64",
+      "name": "Yi-Pin Chen",
+      "company": "Improving",
       "commits": 0,
       "reviews": 18,
       "repos": [],
@@ -250,6 +288,8 @@
       "login": "ikolomi",
       "id": 152477505,
       "avatar_url": "https://avatars.githubusercontent.com/u/152477505?v=4",
+      "name": "",
+      "company": "",
       "commits": 2,
       "reviews": 14,
       "repos": [
@@ -261,6 +301,8 @@
       "login": "ranshid",
       "id": 88133677,
       "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
+      "name": "Ran Shidlansik",
+      "company": "Amazon Web Services",
       "commits": 1,
       "reviews": 15,
       "repos": [
@@ -272,6 +314,8 @@
       "login": "arseny-kostenko",
       "id": 0,
       "avatar_url": "https://github.com/arseny-kostenko.png?size=64",
+      "name": "Arseny Kostenko",
+      "company": "",
       "commits": 0,
       "reviews": 16,
       "repos": [],
@@ -281,6 +325,8 @@
       "login": "nilanshu-sharma",
       "id": 220134298,
       "avatar_url": "https://avatars.githubusercontent.com/u/220134298?v=4",
+      "name": "Nilanshu Sharma",
+      "company": "Apple",
       "commits": 2,
       "reviews": 14,
       "repos": [
@@ -292,6 +338,8 @@
       "login": "enjoy-binbin",
       "id": 22811481,
       "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "name": "Binbin",
+      "company": "Tencent Cloud NoSQL",
       "commits": 6,
       "reviews": 9,
       "repos": [
@@ -306,6 +354,8 @@
       "login": "jdheyburn",
       "id": 34041368,
       "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "name": "Joseph Heyburn",
+      "company": "braze-inc",
       "commits": 4,
       "reviews": 11,
       "repos": [
@@ -317,6 +367,8 @@
       "login": "dvkashapov",
       "id": 81564730,
       "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
+      "name": "Daniil Kashapov",
+      "company": "",
       "commits": 2,
       "reviews": 12,
       "repos": [
@@ -329,6 +381,8 @@
       "login": "mcollina",
       "id": 0,
       "avatar_url": "https://github.com/mcollina.png?size=64",
+      "name": "Matteo Collina",
+      "company": "platformatic",
       "commits": 0,
       "reviews": 13,
       "repos": [],
@@ -338,6 +392,8 @@
       "login": "jduo",
       "id": 1657237,
       "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
+      "name": "James Duong",
+      "company": "",
       "commits": 2,
       "reviews": 11,
       "repos": [
@@ -350,6 +406,8 @@
       "login": "zarkash-aws",
       "id": 174019895,
       "avatar_url": "https://avatars.githubusercontent.com/u/174019895?v=4",
+      "name": "Shai Zarka",
+      "company": "",
       "commits": 13,
       "reviews": 0,
       "repos": [
@@ -362,6 +420,8 @@
       "login": "rainsupreme",
       "id": 20649182,
       "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
+      "name": "Rain Valentine",
+      "company": "AWS",
       "commits": 4,
       "reviews": 7,
       "repos": [
@@ -374,6 +434,8 @@
       "login": "hanxizh9910",
       "id": 220982061,
       "avatar_url": "https://avatars.githubusercontent.com/u/220982061?v=4",
+      "name": "Hanxi Zhang",
+      "company": "",
       "commits": 9,
       "reviews": 1,
       "repos": [
@@ -389,6 +451,8 @@
       "login": "nassery318",
       "id": 86083902,
       "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
+      "name": "",
+      "company": "",
       "commits": 9,
       "reviews": 1,
       "repos": [
@@ -400,6 +464,8 @@
       "login": "allenss-amazon",
       "id": 179737276,
       "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "name": "Allen Samuels",
+      "company": "Amazon Web Services",
       "commits": 1,
       "reviews": 9,
       "repos": [
@@ -411,6 +477,8 @@
       "login": "secwall",
       "id": 1869308,
       "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "name": "",
+      "company": "",
       "commits": 8,
       "reviews": 2,
       "repos": [
@@ -422,6 +490,8 @@
       "login": "BCathcart",
       "id": 31714723,
       "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
+      "name": "Brennan",
+      "company": "Amazon",
       "commits": 3,
       "reviews": 6,
       "repos": [
@@ -434,6 +504,8 @@
       "login": "sandeepkunusoth",
       "id": 31273507,
       "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
+      "name": "sandeep kunusoth",
+      "company": "",
       "commits": 3,
       "reviews": 6,
       "repos": [
@@ -445,6 +517,8 @@
       "login": "liorsve",
       "id": 178275844,
       "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
+      "name": "Lior Sventitzky",
+      "company": "",
       "commits": 7,
       "reviews": 1,
       "repos": [
@@ -457,6 +531,8 @@
       "login": "ArgusLi",
       "id": 43020525,
       "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
+      "name": "Argus Li",
+      "company": "Bit-Quill",
       "commits": 7,
       "reviews": 1,
       "repos": [
@@ -468,6 +544,8 @@
       "login": "kurtmckee",
       "id": 39996,
       "avatar_url": "https://avatars.githubusercontent.com/u/39996?v=4",
+      "name": "Kurt McKee",
+      "company": "",
       "commits": 7,
       "reviews": 1,
       "repos": [
@@ -480,6 +558,8 @@
       "login": "jamesx-improving",
       "id": 126831592,
       "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
+      "name": "James Xin",
+      "company": "",
       "commits": 3,
       "reviews": 5,
       "repos": [
@@ -492,6 +572,8 @@
       "login": "stockholmux",
       "id": 1152927,
       "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
+      "name": "Kyle J. Davis",
+      "company": "valkey-io",
       "commits": 2,
       "reviews": 6,
       "repos": [
@@ -503,6 +585,8 @@
       "login": "rjd15372",
       "id": 1948156,
       "avatar_url": "https://avatars.githubusercontent.com/u/1948156?v=4",
+      "name": "Ricardo Dias",
+      "company": "Percona",
       "commits": 1,
       "reviews": 6,
       "repos": [
@@ -514,6 +598,8 @@
       "login": "mkmkme",
       "id": 4062234,
       "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "name": "Mikhail Koviazin",
+      "company": "Altinity",
       "commits": 1,
       "reviews": 5,
       "repos": [
@@ -525,6 +611,8 @@
       "login": "hpatro",
       "id": 30795839,
       "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
+      "name": "Harkrishn Patro",
+      "company": "AWS",
       "commits": 1,
       "reviews": 5,
       "repos": [
@@ -536,6 +624,8 @@
       "login": "ravjotbrar",
       "id": 83892020,
       "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "name": "Ravjot Brar",
+      "company": "Bit Quill",
       "commits": 4,
       "reviews": 2,
       "repos": [
@@ -547,6 +637,8 @@
       "login": "daanvinken",
       "id": 47114744,
       "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
+      "name": "Daan Vinken",
+      "company": "",
       "commits": 5,
       "reviews": 1,
       "repos": [
@@ -558,6 +650,8 @@
       "login": "Aksha1812",
       "id": 48383029,
       "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
+      "name": "AkshaThakkar1812",
+      "company": "",
       "commits": 6,
       "reviews": 0,
       "repos": [
@@ -569,6 +663,8 @@
       "login": "boda26",
       "id": 54991825,
       "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
+      "name": "Miles Song",
+      "company": "",
       "commits": 4,
       "reviews": 2,
       "repos": [
@@ -580,6 +676,8 @@
       "login": "eifrah-aws",
       "id": 170855270,
       "avatar_url": "https://avatars.githubusercontent.com/u/170855270?v=4",
+      "name": "",
+      "company": "",
       "commits": 5,
       "reviews": 0,
       "repos": [
@@ -593,6 +691,8 @@
       "login": "rueian",
       "id": 0,
       "avatar_url": "https://github.com/rueian.png?size=64",
+      "name": "Rueian",
+      "company": "",
       "commits": 0,
       "reviews": 5,
       "repos": [],
@@ -602,6 +702,8 @@
       "login": "joehu21",
       "id": 89549026,
       "avatar_url": "https://avatars.githubusercontent.com/u/89549026?v=4",
+      "name": "Joe Hu",
+      "company": "Amazon Web Services",
       "commits": 1,
       "reviews": 4,
       "repos": [
@@ -613,6 +715,8 @@
       "login": "EvgeniyPatlan",
       "id": 18436759,
       "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
+      "name": "EvgeniyPatlan",
+      "company": "percona",
       "commits": 5,
       "reviews": 0,
       "repos": [
@@ -626,6 +730,8 @@
       "login": "jsoref",
       "id": 2119212,
       "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
+      "name": "Josh Soref",
+      "company": "GarnerCorp",
       "commits": 4,
       "reviews": 0,
       "repos": [
@@ -640,6 +746,8 @@
       "login": "tlhunter",
       "id": 551402,
       "avatar_url": "https://avatars.githubusercontent.com/u/551402?v=4",
+      "name": "Thomas Hunter II",
+      "company": "",
       "commits": 4,
       "reviews": 0,
       "repos": [
@@ -651,6 +759,8 @@
       "login": "michael-grunder",
       "id": 468149,
       "avatar_url": "https://avatars.githubusercontent.com/u/468149?v=4",
+      "name": "Michael Grunder",
+      "company": "CacheWerk",
       "commits": 1,
       "reviews": 3,
       "repos": [
@@ -662,6 +772,8 @@
       "login": "murphyjacob4",
       "id": 22739141,
       "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
+      "name": "Jacob Murphy",
+      "company": "Google",
       "commits": 1,
       "reviews": 3,
       "repos": [
@@ -673,6 +785,8 @@
       "login": "Frank-Gu-81",
       "id": 93494304,
       "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
+      "name": "Shaopeng Gu",
+      "company": "",
       "commits": 4,
       "reviews": 0,
       "repos": [
@@ -684,6 +798,8 @@
       "login": "sachinvmurthy",
       "id": 26551140,
       "avatar_url": "https://avatars.githubusercontent.com/u/26551140?v=4",
+      "name": "Sachin Venkatesha Murthy",
+      "company": "",
       "commits": 2,
       "reviews": 2,
       "repos": [
@@ -695,6 +811,8 @@
       "login": "dtaivpp",
       "id": 17506770,
       "avatar_url": "https://avatars.githubusercontent.com/u/17506770?v=4",
+      "name": "David Tippett",
+      "company": "TippyBits",
       "commits": 3,
       "reviews": 0,
       "repos": [
@@ -706,6 +824,8 @@
       "login": "bogdanp05",
       "id": 7281856,
       "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
+      "name": "Bogdan Petre",
+      "company": "aiven.io",
       "commits": 1,
       "reviews": 2,
       "repos": [
@@ -717,6 +837,8 @@
       "login": "yairgott",
       "id": 0,
       "avatar_url": "https://github.com/yairgott.png?size=64",
+      "name": "Yair Gottdenker",
+      "company": "Google",
       "commits": 0,
       "reviews": 3,
       "repos": [],
@@ -726,6 +848,8 @@
       "login": "edlng",
       "id": 76571219,
       "avatar_url": "https://avatars.githubusercontent.com/u/76571219?v=4",
+      "name": "Edward Liang",
+      "company": "",
       "commits": 3,
       "reviews": 0,
       "repos": [
@@ -738,6 +862,8 @@
       "login": "dmitrypol",
       "id": 210308,
       "avatar_url": "https://avatars.githubusercontent.com/u/210308?v=4",
+      "name": "Dmitry Polyakovsky",
+      "company": "Oracle",
       "commits": 3,
       "reviews": 0,
       "repos": [
@@ -750,6 +876,8 @@
       "login": "SuperQ",
       "id": 1320667,
       "avatar_url": "https://avatars.githubusercontent.com/u/1320667?v=4",
+      "name": "Ben Kochie",
+      "company": "prometheus",
       "commits": 3,
       "reviews": 0,
       "repos": [
@@ -761,6 +889,8 @@
       "login": "sfeifer",
       "id": 64805811,
       "avatar_url": "https://avatars.githubusercontent.com/u/64805811?v=4",
+      "name": "",
+      "company": "",
       "commits": 2,
       "reviews": 0,
       "repos": [
@@ -772,6 +902,8 @@
       "login": "JimB123",
       "id": 0,
       "avatar_url": "https://github.com/JimB123.png?size=64",
+      "name": "Jim Brunner",
+      "company": "Amazon AWS ElastiCache",
       "commits": 0,
       "reviews": 2,
       "repos": [],
@@ -781,6 +913,8 @@
       "login": "yang-z-o",
       "id": 30397795,
       "avatar_url": "https://avatars.githubusercontent.com/u/30397795?v=4",
+      "name": "Yang Zhao",
+      "company": "Apple",
       "commits": 2,
       "reviews": 0,
       "repos": [
@@ -793,6 +927,8 @@
       "login": "bandalgomsu",
       "id": 121839239,
       "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
+      "name": "",
+      "company": "Nexon",
       "commits": 2,
       "reviews": 0,
       "repos": [
@@ -805,6 +941,8 @@
       "login": "AlexFilipImproving",
       "id": 104015771,
       "avatar_url": "https://avatars.githubusercontent.com/u/104015771?v=4",
+      "name": "Alex Filip",
+      "company": "https://github.com/improving",
       "commits": 2,
       "reviews": 0,
       "repos": [
@@ -817,6 +955,8 @@
       "login": "KIvanow",
       "id": 541999,
       "avatar_url": "https://avatars.githubusercontent.com/u/541999?v=4",
+      "name": "Kristiyan Ivanov",
+      "company": "",
       "commits": 2,
       "reviews": 0,
       "repos": [
@@ -829,6 +969,8 @@
       "login": "Luis729",
       "id": 13097797,
       "avatar_url": "https://avatars.githubusercontent.com/u/13097797?v=4",
+      "name": "Paul Matthew Barrameda",
+      "company": "",
       "commits": 2,
       "reviews": 0,
       "repos": [
@@ -840,6 +982,8 @@
       "login": "piyongcai-liucai",
       "id": 168732730,
       "avatar_url": "https://avatars.githubusercontent.com/u/168732730?v=4",
+      "name": "piyongcai",
+      "company": "",
       "commits": 2,
       "reviews": 0,
       "repos": [
@@ -851,6 +995,8 @@
       "login": "makubo-aws",
       "id": 203714000,
       "avatar_url": "https://avatars.githubusercontent.com/u/203714000?v=4",
+      "name": "Mas",
+      "company": "",
       "commits": 2,
       "reviews": 0,
       "repos": [
@@ -862,6 +1008,8 @@
       "login": "utdrmac",
       "id": 4413670,
       "avatar_url": "https://avatars.githubusercontent.com/u/4413670?v=4",
+      "name": "Matthew",
+      "company": "",
       "commits": 1,
       "reviews": 1,
       "repos": [
@@ -873,6 +1021,8 @@
       "login": "VoletiRam",
       "id": 90425341,
       "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
+      "name": "",
+      "company": "",
       "commits": 2,
       "reviews": 0,
       "repos": [
@@ -885,6 +1035,8 @@
       "login": "heckj",
       "id": 43388,
       "avatar_url": "https://avatars.githubusercontent.com/u/43388?v=4",
+      "name": "Joseph Heck",
+      "company": "",
       "commits": 2,
       "reviews": 0,
       "repos": [
@@ -896,6 +1048,8 @@
       "login": "louwers",
       "id": 649392,
       "avatar_url": "https://avatars.githubusercontent.com/u/649392?v=4",
+      "name": "Bart Louwers",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -907,6 +1061,8 @@
       "login": "bauchdj",
       "id": 64243465,
       "avatar_url": "https://avatars.githubusercontent.com/u/64243465?v=4",
+      "name": "David Bauch",
+      "company": "Nimbus",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -918,6 +1074,8 @@
       "login": "Fusl",
       "id": 2349496,
       "avatar_url": "https://avatars.githubusercontent.com/u/2349496?v=4",
+      "name": "Katie Holly",
+      "company": "The Internet",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -929,6 +1087,8 @@
       "login": "prkomb",
       "id": 201654390,
       "avatar_url": "https://avatars.githubusercontent.com/u/201654390?v=4",
+      "name": "Khahani Mamedov",
+      "company": "mbunity",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -940,6 +1100,8 @@
       "login": "fatal10110",
       "id": 3122844,
       "avatar_url": "https://avatars.githubusercontent.com/u/3122844?v=4",
+      "name": "Artur K",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -951,6 +1113,8 @@
       "login": "gurgunday",
       "id": 74139498,
       "avatar_url": "https://avatars.githubusercontent.com/u/74139498?v=4",
+      "name": "G\u00fcrg\u00fcn Day\u0131o\u011flu",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -962,6 +1126,8 @@
       "login": "maxbronnikov10",
       "id": 33382129,
       "avatar_url": "https://avatars.githubusercontent.com/u/33382129?v=4",
+      "name": "Maxim Bronnikov",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -973,6 +1139,8 @@
       "login": "pizhenwei",
       "id": 5586500,
       "avatar_url": "https://avatars.githubusercontent.com/u/5586500?v=4",
+      "name": "zhenwei pi",
+      "company": "Tensorfer",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -984,6 +1152,8 @@
       "login": "Ada-Church-Closure",
       "id": 155656201,
       "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
+      "name": "Quanye Yang",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -995,6 +1165,8 @@
       "login": "charsyam",
       "id": 439301,
       "avatar_url": "https://avatars.githubusercontent.com/u/439301?v=4",
+      "name": "charsyam",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1006,6 +1178,8 @@
       "login": "xdk-amz",
       "id": 0,
       "avatar_url": "https://github.com/xdk-amz.png?size=64",
+      "name": "Dante Knowles",
+      "company": "",
       "commits": 0,
       "reviews": 1,
       "repos": [],
@@ -1015,6 +1189,8 @@
       "login": "deepakrn",
       "id": 4788274,
       "avatar_url": "https://avatars.githubusercontent.com/u/4788274?v=4",
+      "name": "Deepak Nandihalli",
+      "company": "Google",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1026,6 +1202,8 @@
       "login": "martinrvisser",
       "id": 7462581,
       "avatar_url": "https://avatars.githubusercontent.com/u/7462581?v=4",
+      "name": "",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1037,6 +1215,8 @@
       "login": "Dietr1ch",
       "id": 2096594,
       "avatar_url": "https://avatars.githubusercontent.com/u/2096594?v=4",
+      "name": "Dietrich Daroch",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1048,6 +1228,8 @@
       "login": "sonii-shivansh",
       "id": 228918650,
       "avatar_url": "https://avatars.githubusercontent.com/u/228918650?v=4",
+      "name": "Shivansh Soni",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1059,6 +1241,8 @@
       "login": "cxljs",
       "id": 24987055,
       "avatar_url": "https://avatars.githubusercontent.com/u/24987055?v=4",
+      "name": "",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1070,6 +1254,8 @@
       "login": "Virusuki",
       "id": 70243256,
       "avatar_url": "https://avatars.githubusercontent.com/u/70243256?v=4",
+      "name": "NAM UK KIM",
+      "company": "S-Core (Samsung affiliates)",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1081,6 +1267,8 @@
       "login": "Pratikt2312",
       "id": 115208162,
       "avatar_url": "https://avatars.githubusercontent.com/u/115208162?v=4",
+      "name": "Pratik Tonage",
+      "company": "IBM",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1092,6 +1280,8 @@
       "login": "DerRockWolf",
       "id": 50499906,
       "avatar_url": "https://avatars.githubusercontent.com/u/50499906?v=4",
+      "name": "",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1103,6 +1293,8 @@
       "login": "nmvk",
       "id": 1668438,
       "avatar_url": "https://avatars.githubusercontent.com/u/1668438?v=4",
+      "name": "Raghav Muddur",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1114,6 +1306,8 @@
       "login": "meet-bhagdev",
       "id": 11928821,
       "avatar_url": "https://avatars.githubusercontent.com/u/11928821?v=4",
+      "name": "Meet Bhagdev",
+      "company": "Amazon Web Services (AWS)",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1125,6 +1319,8 @@
       "login": "lukepalmer",
       "id": 4999425,
       "avatar_url": "https://avatars.githubusercontent.com/u/4999425?v=4",
+      "name": "Luke Palmer",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1136,6 +1332,8 @@
       "login": "alexpota",
       "id": 7516125,
       "avatar_url": "https://avatars.githubusercontent.com/u/7516125?v=4",
+      "name": "AlexP",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1147,6 +1345,8 @@
       "login": "yeoncheol-jang",
       "id": 65603611,
       "avatar_url": "https://avatars.githubusercontent.com/u/65603611?v=4",
+      "name": "Yeoncheol Jang",
+      "company": "toss",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1158,6 +1358,8 @@
       "login": "shohamazon",
       "id": 116083498,
       "avatar_url": "https://avatars.githubusercontent.com/u/116083498?v=4",
+      "name": "Shoham Elias",
+      "company": "Amazon Web Services",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1169,6 +1371,8 @@
       "login": "Redoubts",
       "id": 2435101,
       "avatar_url": "https://avatars.githubusercontent.com/u/2435101?v=4",
+      "name": "",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1180,6 +1384,8 @@
       "login": "prashanna-frsh",
       "id": 227337935,
       "avatar_url": "https://avatars.githubusercontent.com/u/227337935?v=4",
+      "name": "Prashanna",
+      "company": "Freshworks",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1191,6 +1397,8 @@
       "login": "arumugaraja-thirumani",
       "id": 39479623,
       "avatar_url": "https://avatars.githubusercontent.com/u/39479623?v=4",
+      "name": "",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1202,6 +1410,8 @@
       "login": "gaiaz-iusipov",
       "id": 329071,
       "avatar_url": "https://avatars.githubusercontent.com/u/329071?v=4",
+      "name": "Gaiaz Iusipov",
+      "company": "\u2014",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1213,6 +1423,8 @@
       "login": "jessebye",
       "id": 8467862,
       "avatar_url": "https://avatars.githubusercontent.com/u/8467862?v=4",
+      "name": "Jesse Bye",
+      "company": "Nitrogen Wealth, Inc.",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1224,6 +1436,8 @@
       "login": "naimadswdn",
       "id": 0,
       "avatar_url": "https://github.com/naimadswdn.png?size=64",
+      "name": "",
+      "company": "",
       "commits": 0,
       "reviews": 1,
       "repos": [],
@@ -1233,6 +1447,8 @@
       "login": "rlunar",
       "id": 2453805,
       "avatar_url": "https://avatars.githubusercontent.com/u/2453805?v=4",
+      "name": "Roberto Luna-Rojas",
+      "company": "Amazon Web Services",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1244,6 +1460,8 @@
       "login": "cnuthalapati",
       "id": 209004567,
       "avatar_url": "https://avatars.githubusercontent.com/u/209004567?v=4",
+      "name": "chaitanya_nuthalapati",
+      "company": "Amazon Web Services",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1255,6 +1473,8 @@
       "login": "mtuteja-git",
       "id": 93806838,
       "avatar_url": "https://avatars.githubusercontent.com/u/93806838?v=4",
+      "name": "Manvika Tuteja",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1266,6 +1486,8 @@
       "login": "yangbodong22011",
       "id": 13137470,
       "avatar_url": "https://avatars.githubusercontent.com/u/13137470?v=4",
+      "name": "bodong.ybd",
+      "company": "Alibaba",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1277,6 +1499,8 @@
       "login": "vmandrychenko",
       "id": 0,
       "avatar_url": "https://github.com/vmandrychenko.png?size=64",
+      "name": "Vlad",
+      "company": "Garner",
       "commits": 0,
       "reviews": 1,
       "repos": [],
@@ -1286,6 +1510,8 @@
       "login": "remicollet",
       "id": 270445,
       "avatar_url": "https://avatars.githubusercontent.com/u/270445?v=4",
+      "name": "Remi Collet",
+      "company": "Red Hat Inc, Fedora Project, Remi's RPM Repository",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1297,6 +1523,8 @@
       "login": "arpitbbhayani",
       "id": 4745789,
       "avatar_url": "https://avatars.githubusercontent.com/u/4745789?v=4",
+      "name": "Arpit Bhayani",
+      "company": "Razorpay",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1308,6 +1536,8 @@
       "login": "hieu2102",
       "id": 13182932,
       "avatar_url": "https://avatars.githubusercontent.com/u/13182932?v=4",
+      "name": "hieu2102",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1319,6 +1549,8 @@
       "login": "ysqyang",
       "id": 24786534,
       "avatar_url": "https://avatars.githubusercontent.com/u/24786534?v=4",
+      "name": "ysqyang",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1330,6 +1562,8 @@
       "login": "deepakpunjabi",
       "id": 17640076,
       "avatar_url": "https://avatars.githubusercontent.com/u/17640076?v=4",
+      "name": "Deepak Punjabi",
+      "company": "flipkart",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1341,6 +1575,8 @@
       "login": "nesty92",
       "id": 26422482,
       "avatar_url": "https://avatars.githubusercontent.com/u/26422482?v=4",
+      "name": "",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1352,6 +1588,8 @@
       "login": "bugant",
       "id": 307121,
       "avatar_url": "https://avatars.githubusercontent.com/u/307121?v=4",
+      "name": "Matteo Centenaro",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1363,6 +1601,8 @@
       "login": "hwware",
       "id": 0,
       "avatar_url": "https://github.com/hwware.png?size=64",
+      "name": "Wen Hui",
+      "company": "Huawei Technologies",
       "commits": 0,
       "reviews": 1,
       "repos": [],
@@ -1372,6 +1612,8 @@
       "login": "PingXie",
       "id": 0,
       "avatar_url": "https://github.com/PingXie.png?size=64",
+      "name": "Ping Xie",
+      "company": "",
       "commits": 0,
       "reviews": 1,
       "repos": [],
@@ -1381,6 +1623,8 @@
       "login": "baswanth09",
       "id": 122412818,
       "avatar_url": "https://avatars.githubusercontent.com/u/122412818?v=4",
+      "name": "Baswanth",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1392,6 +1636,8 @@
       "login": "Nivesh-01",
       "id": 110855046,
       "avatar_url": "https://avatars.githubusercontent.com/u/110855046?v=4",
+      "name": "Nivesh",
+      "company": "AWS",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1403,6 +1649,8 @@
       "login": "alicez0626",
       "id": 31723746,
       "avatar_url": "https://avatars.githubusercontent.com/u/31723746?v=4",
+      "name": "",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [
@@ -1414,6 +1662,8 @@
       "login": "misaki112",
       "id": 43395359,
       "avatar_url": "https://avatars.githubusercontent.com/u/43395359?v=4",
+      "name": "Chris Nie",
+      "company": "",
       "commits": 1,
       "reviews": 0,
       "repos": [

@@ -314,10 +314,10 @@
     },
     {
       "sha": "b5e641f5d0",
-      "message": "b5e641f5d0",
+      "message": "Fix error on invalid_null_arguments (#213)",
       "date": "2025-10-27",
       "repo": "valkeymodule-rs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/213",
       "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/b5e641f5d008df82a21028de1383b50776899c3d"
     },
     {
@@ -386,42 +386,42 @@
     },
     {
       "sha": "427feec828",
-      "message": "427feec828",
+      "message": "updated get_client_ip to return ValkeyResult (#199)",
       "date": "2025-04-21",
       "repo": "valkeymodule-rs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/199",
       "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/427feec828f10d345109d2cc2a8205dda773f76a"
     },
     {
       "sha": "937ab52319",
-      "message": "937ab52319",
+      "message": "Add custom auth callback support (#186)",
       "date": "2025-04-17",
       "repo": "valkeymodule-rs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/186",
       "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/937ab523199de117435037dd2db89f5926526bb8"
     },
     {
       "sha": "2478337f92",
-      "message": "2478337f92",
+      "message": "added an event handler for server_shutdown event  (#196)",
       "date": "2025-04-15",
       "repo": "valkeymodule-rs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/196",
       "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/2478337f92b7e42a5cb039185a8c6453720a6f36"
     },
     {
       "sha": "ffe13aa5ea",
-      "message": "ffe13aa5ea",
+      "message": "added key event handler support (#187)",
       "date": "2025-04-14",
       "repo": "valkeymodule-rs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/187",
       "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/ffe13aa5ea8d4a9da8034a19eea63b0416972793"
     },
     {
       "sha": "ff4a50d1fd",
-      "message": "ff4a50d1fd",
+      "message": "introduced a new optional valkey_module! preload (#191)",
       "date": "2025-04-03",
       "repo": "valkeymodule-rs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/191",
       "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/ff4a50d1fdc3226ac67d08705a08e0406036fa38"
     },
     {

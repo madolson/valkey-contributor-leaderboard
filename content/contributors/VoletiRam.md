@@ -21,10 +21,10 @@
     },
     {
       "sha": "937ab52319",
-      "message": "937ab52319",
+      "message": "Add custom auth callback support (#186)",
       "date": "2025-04-17",
       "repo": "valkeymodule-rs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/186",
       "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/937ab523199de117435037dd2db89f5926526bb8"
     }
   ],

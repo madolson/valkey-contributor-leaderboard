@@ -7861,7 +7861,9 @@
       "repo": "valkey-try-me",
       "reviewed": [
         "ranshid"
-      ]
+      ],
+      "message": "test improvements",
+      "pr_url": "https://github.com/valkey-io/valkey-try-me/pull/3"
     },
     {
       "sha": "3278d0d2b9f2c06df5f6fcd7d57ada88925ab9b5",
@@ -7872,7 +7874,9 @@
       "repo": "valkey-try-me",
       "reviewed": [
         "ranshid"
-      ]
+      ],
+      "message": "\"changed timeout for automation script\"",
+      "pr_url": "https://github.com/valkey-io/valkey-try-me/pull/3"
     },
     {
       "sha": "a53a9034e2133a0cfa4b8bc766f762a31262cbd3",
@@ -7883,7 +7887,9 @@
       "repo": "valkey-try-me",
       "reviewed": [
         "ranshid"
-      ]
+      ],
+      "message": "updated readme and created requirments.txt",
+      "pr_url": "https://github.com/valkey-io/valkey-try-me/pull/3"
     },
     {
       "sha": "2d602f2542778b19047c37a30f7238b23fea28e9",
@@ -7894,7 +7900,9 @@
       "repo": "valkey-try-me",
       "reviewed": [
         "ranshid"
-      ]
+      ],
+      "message": "added version 9.0.0 to versions.json",
+      "pr_url": "https://github.com/valkey-io/valkey-try-me/pull/3"
     },
     {
       "sha": "0c2089a71a7dc72ba655449320e5ec343f18271e",
@@ -7905,7 +7913,9 @@
       "repo": "valkey-try-me",
       "reviewed": [
         "ranshid"
-      ]
+      ],
+      "message": "added tests for automatic image creation",
+      "pr_url": "https://github.com/valkey-io/valkey-try-me/pull/3"
     },
     {
       "sha": "736f39e909ae162be12ebd8f739f09a311ca1c8f",
@@ -7916,7 +7926,9 @@
       "repo": "valkey-try-me",
       "reviewed": [
         "ranshid"
-      ]
+      ],
+      "message": "image creation automation",
+      "pr_url": "https://github.com/valkey-io/valkey-try-me/pull/3"
     },
     {
       "sha": "84e57142a2170d47fbf4a9c9fb916b94956a14db",
@@ -7936,7 +7948,9 @@
       "repo": "valkey-try-me",
       "reviewed": [
         "ranshid"
-      ]
+      ],
+      "message": "\"replaced test cdn with production cdn\"",
+      "pr_url": "https://github.com/valkey-io/valkey-try-me/pull/1"
     },
     {
       "sha": "bcb293eab207290599b7b38b2ea59f3f99c956e5",
@@ -7947,7 +7961,9 @@
       "repo": "valkey-try-me",
       "reviewed": [
         "ranshid"
-      ]
+      ],
+      "message": "\"changes after review\"",
+      "pr_url": "https://github.com/valkey-io/valkey-try-me/pull/1"
     },
     {
       "sha": "433bc5a4e407cc19dd655e24247553f2fae74267",
@@ -7958,7 +7974,9 @@
       "repo": "valkey-try-me",
       "reviewed": [
         "ranshid"
-      ]
+      ],
+      "message": "removed binaries from repo",
+      "pr_url": "https://github.com/valkey-io/valkey-try-me/pull/1"
     },
     {
       "sha": "c1682b3e76b51d07948dbd3d057e612d87657cd6",
@@ -7969,7 +7987,9 @@
       "repo": "valkey-try-me",
       "reviewed": [
         "ranshid"
-      ]
+      ],
+      "message": "added 8.1.0 binaries",
+      "pr_url": "https://github.com/valkey-io/valkey-try-me/pull/1"
     },
     {
       "sha": "9cf34feb4e2ed5b0892928bd0fae608d5e41796b",
@@ -7980,7 +8000,9 @@
       "repo": "valkey-try-me",
       "reviewed": [
         "ranshid"
-      ]
+      ],
+      "message": "changed dir name",
+      "pr_url": "https://github.com/valkey-io/valkey-try-me/pull/1"
     },
     {
       "sha": "5b6ce11236b7df4ca390cc5c8657314bfa87ccd9",
@@ -7991,7 +8013,9 @@
       "repo": "valkey-try-me",
       "reviewed": [
         "ranshid"
-      ]
+      ],
+      "message": "initial file upload",
+      "pr_url": "https://github.com/valkey-io/valkey-try-me/pull/1"
     },
     {
       "sha": "7c25cbad17b916106aa03d6a78ca5851fbe7bbf1",
@@ -8065,7 +8089,9 @@
       "repo": "valkeymodule-rs",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Fix error on invalid_null_arguments (#213)",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/213"
     },
     {
       "sha": "911d87e69f85922e62157604752bd8d7fe95242f",
@@ -8076,7 +8102,9 @@
       "repo": "valkeymodule-rs",
       "reviewed": [
         "sachinvmurthy"
-      ]
+      ],
+      "message": "add master link change event handler support (#215)",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/215"
     },
     {
       "sha": "93b86ac336c5dc7301a1ddaf81080fda65352c63",
@@ -8123,7 +8151,9 @@
       "repo": "valkeymodule-rs",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "updated get_client_ip to return ValkeyResult (#199)",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/199"
     },
     {
       "sha": "4f3c1c22bd9b0459c3b0b316e6fb5cec0ce862fd",
@@ -8152,7 +8182,9 @@
       "repo": "valkeymodule-rs",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Add custom auth callback support (#186)",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/186"
     },
     {
       "sha": "2478337f92b7e42a5cb039185a8c6453720a6f36",
@@ -8163,7 +8195,9 @@
       "repo": "valkeymodule-rs",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "added an event handler for server_shutdown event  (#196)",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/196"
     },
     {
       "sha": "ffe13aa5ea8d4a9da8034a19eea63b0416972793",
@@ -8174,7 +8208,9 @@
       "repo": "valkeymodule-rs",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "added key event handler support (#187)",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/187"
     },
     {
       "sha": "c23fe8d4369b65a19963b8b82daad32df9d3cc20",
@@ -8195,7 +8231,9 @@
       "reviewed": [
         "sachinvmurthy",
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "introduced a new optional valkey_module! preload (#191)",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/191"
     },
     {
       "sha": "490e6c1627d9eedd0f140848b89073c7b8e741b2",

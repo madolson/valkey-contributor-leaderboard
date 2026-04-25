@@ -21,6 +21,7 @@ ROOT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT_DIR / "data"
 COMMITS_FILE = DATA_DIR / "commits.json"
 LEADERBOARD_FILE = DATA_DIR / "leaderboard.json"
+PROFILES_FILE = DATA_DIR / "profiles.json"
 CONTRIBUTORS_DIR = ROOT_DIR / "content" / "contributors"
 ORG = "valkey-io"
 
@@ -172,12 +173,41 @@ def load_store():
     return {"last_fetched": SINCE_DEFAULT, "commits": []}
 
 
+def load_profiles():
+    if PROFILES_FILE.exists():
+        return json.loads(PROFILES_FILE.read_text())
+    return {}
+
+
+def fetch_profiles(logins, profiles, token):
+    """Fetch GitHub user profiles for logins not already cached."""
+    new = [l for l in logins if l not in profiles]
+    if not new:
+        return
+    log(f"Fetching {len(new)} user profiles...")
+    for i, login in enumerate(new):
+        if rate_limited:
+            break
+        data, _ = api_get(f"https://api.github.com/users/{login}", token)
+        if data is None:
+            break
+        profiles[login] = {
+            "name": data.get("name") or "",
+            "company": (data.get("company") or "").strip().lstrip("@"),
+        }
+        if (i + 1) % 50 == 0:
+            log(f"    Fetched {i + 1}/{len(new)} profiles")
+            save_json(PROFILES_FILE, profiles)
+    save_json(PROFILES_FILE, profiles)
+
+
 def save_json(path, data):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(data, indent=2) + "\n")
 
 
-def generate_leaderboard(commits):
+def generate_leaderboard(commits, profiles=None):
+    profiles = profiles or {}
     by_login = {}
 
     def is_bot(login):
@@ -185,9 +215,12 @@ def generate_leaderboard(commits):
 
     def ensure_user(login, avatar):
         if login not in by_login:
+            p = profiles.get(login, {})
             by_login[login] = {
                 "login": login, "id": 0,
                 "avatar_url": avatar or f"https://github.com/{login}.png?size=64",
+                "name": p.get("name", ""),
+                "company": p.get("company", ""),
                 "commits": 0, "reviews": 0, "repos": set(),
             }
         if avatar:
@@ -392,7 +425,18 @@ def main():
     pending = sum(1 for c in store["commits"] if needs_review_check(c))
     log(f"Commits: {reviewed} reviewed, {pending} pending check")
 
-    contributors = generate_leaderboard(store["commits"])
+    # Fetch user profiles (name, company) for leaderboard display
+    profiles = load_profiles()
+    all_logins = set()
+    for c in store["commits"]:
+        if isinstance(c.get("reviewed"), list):
+            all_logins.add(c["author_login"])
+            all_logins.update(c["reviewed"])
+    all_logins -= {l for l in all_logins if "[bot]" in l or l == "Copilot"}
+    if not rate_limited:
+        fetch_profiles(all_logins, profiles, token)
+
+    contributors = generate_leaderboard(store["commits"], profiles)
     leaderboard = {
         "generated": store["last_fetched"],
         "contributors": contributors,
