@@ -45,6 +45,20 @@ footer a { color: #475ad2; text-decoration: none; }
 footer a:hover { text-decoration: underline; }
 
 /* Table styles */
+.search {
+  width: 100%;
+  padding: 0.6rem 1rem;
+  margin-bottom: 1rem;
+  background: #24272f;
+  border: 1px solid #353841;
+  border-radius: 6px;
+  color: #eceef2;
+  font-family: inherit;
+  font-size: 0.95rem;
+}
+.search:focus { outline: none; border-color: #475ad2; }
+.search::placeholder { color: #545861; }
+
 .table-wrap { overflow-x: auto; }
 
 table {

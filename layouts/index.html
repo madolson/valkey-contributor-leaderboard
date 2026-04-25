@@ -1,5 +1,6 @@
 {{ define "main" }}
 {{ with hugo.Data.leaderboard }}
+  <input type="text" id="search" class="search" placeholder="Search contributors…" autocomplete="off">
   <div class="table-wrap">
     <table>
       <thead>
@@ -28,6 +29,14 @@
     </table>
   </div>
   <p class="updated">Last updated: {{ .generated }}</p>
+  <script>
+  document.getElementById("search").addEventListener("input", function() {
+    const q = this.value.toLowerCase();
+    document.querySelectorAll("tbody tr").forEach(function(row) {
+      row.style.display = row.textContent.toLowerCase().includes(q) ? "" : "none";
+    });
+  });
+  </script>
 {{ else }}
   <p class="empty">No data available yet. Run the fetch script to populate the leaderboard.</p>
 {{ end }}
