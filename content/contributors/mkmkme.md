@@ -3,9 +3,9 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 9,
+  "score": 10,
   "commit_count": 2,
-  "review_count": 7,
+  "review_count": 8,
   "repos": [
     "libvalkey-py",
     "valkey-py"
@@ -140,6 +140,38 @@
       "repo": "libvalkey-py",
       "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/48",
       "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/47887a1cb416af75fc6fefd8179aab05160aa2bc"
+    },
+    {
+      "sha": "ea72f483d4",
+      "message": "Rename offensive defines and members in API (#140)",
+      "date": "2024-12-18",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/140",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/ea72f483d475af44d2399807bc01caab919a89de"
+    },
+    {
+      "sha": "8d0102ef10",
+      "message": "Bump taiki-e/install-action from 2.45.14 to 2.46.4",
+      "date": "2024-12-09",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/139",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/8d0102ef100b0e3104021c9f97878bd2e8cbb8dd"
+    },
+    {
+      "sha": "5cb204d382",
+      "message": "Bump msys2/setup-msys2 from 2.25.0 to 2.26.0",
+      "date": "2024-12-09",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/138",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/5cb204d38214426376890fe68b2e68069ef84829"
+    },
+    {
+      "sha": "d19f857d30",
+      "message": "Bump jidicula/clang-format-action from 4.13.0 to 4.14.0",
+      "date": "2024-12-02",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/135",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/d19f857d30ab287b91bdbfdac04a47b5e81c68bd"
     }
   ]
 }

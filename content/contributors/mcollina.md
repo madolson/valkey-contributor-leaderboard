@@ -3,9 +3,9 @@
   "title": "mcollina",
   "login": "mcollina",
   "avatar_url": "https://github.com/mcollina.png?size=64",
-  "score": 16,
+  "score": 18,
   "commit_count": 0,
-  "review_count": 16,
+  "review_count": 18,
   "repos": [],
   "commit_list": [],
   "review_list": [
@@ -136,6 +136,22 @@
       "repo": "iovalkey",
       "pr_url": "https://github.com/valkey-io/iovalkey/pull/9",
       "commit_url": "https://github.com/valkey-io/iovalkey/commit/ae273855833176683d75363c478cd06fe60f2c33"
+    },
+    {
+      "sha": "2733aeef99",
+      "message": "fix: Improve cluster connection pool logic when disconnecting (#5)",
+      "date": "2024-06-13",
+      "repo": "iovalkey",
+      "pr_url": "https://github.com/valkey-io/iovalkey/pull/5",
+      "commit_url": "https://github.com/valkey-io/iovalkey/commit/2733aeef99715fe3648173072e261364c67d3a96"
+    },
+    {
+      "sha": "2733aeef99",
+      "message": "fix: Improve cluster connection pool logic when disconnecting (#5)",
+      "date": "2024-06-13",
+      "repo": "iovalkey",
+      "pr_url": "https://github.com/valkey-io/iovalkey/pull/5",
+      "commit_url": "https://github.com/valkey-io/iovalkey/commit/2733aeef99715fe3648173072e261364c67d3a96"
     }
   ]
 }

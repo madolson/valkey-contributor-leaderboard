@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-25T22:13:57Z",
+  "generated": "2024-03-28T00:00:00Z",
   "contributors": [
     {
       "login": "roshkhatri",
@@ -22,6 +22,20 @@
       "score": 110
     },
     {
+      "login": "bjosv",
+      "id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "name": "Bj\u00f6rn Svensson",
+      "company": "Ericsson",
+      "commits": 65,
+      "reviews": 35,
+      "repos": [
+        "libvalkey",
+        "valkey-operator"
+      ],
+      "score": 100
+    },
+    {
       "login": "Nikhil-Manglore",
       "id": 46588759,
       "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
@@ -41,6 +55,21 @@
         "valkey-test-framework"
       ],
       "score": 84
+    },
+    {
+      "login": "zuiderkwast",
+      "id": 273886,
+      "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
+      "name": "Viktor S\u00f6derqvist",
+      "company": "Ericsson Software Technology",
+      "commits": 5,
+      "reviews": 66,
+      "repos": [
+        "libvalkey",
+        "valkey",
+        "valkey-rfc"
+      ],
+      "score": 71
     },
     {
       "login": "KarthikSubbarao",
@@ -76,6 +105,19 @@
       "score": 49
     },
     {
+      "login": "michael-grunder",
+      "id": 468149,
+      "avatar_url": "https://avatars.githubusercontent.com/u/468149?v=4",
+      "name": "Michael Grunder",
+      "company": "CacheWerk",
+      "commits": 8,
+      "reviews": 39,
+      "repos": [
+        "libvalkey"
+      ],
+      "score": 47
+    },
+    {
       "login": "madolson",
       "id": 34459052,
       "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
@@ -104,21 +146,6 @@
         "valkey-glide-php"
       ],
       "score": 35
-    },
-    {
-      "login": "zuiderkwast",
-      "id": 273886,
-      "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-      "name": "Viktor S\u00f6derqvist",
-      "company": "Ericsson Software Technology",
-      "commits": 5,
-      "reviews": 27,
-      "repos": [
-        "libvalkey",
-        "valkey",
-        "valkey-rfc"
-      ],
-      "score": 32
     },
     {
       "login": "jeremyprime",
@@ -194,20 +221,6 @@
         "valkey-glide-csharp"
       ],
       "score": 27
-    },
-    {
-      "login": "bjosv",
-      "id": 60651423,
-      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-      "name": "Bj\u00f6rn Svensson",
-      "company": "Ericsson",
-      "commits": 7,
-      "reviews": 18,
-      "repos": [
-        "libvalkey",
-        "valkey-operator"
-      ],
-      "score": 25
     },
     {
       "login": "adam-fowler",
@@ -334,6 +347,17 @@
       "score": 20
     },
     {
+      "login": "mcollina",
+      "id": 0,
+      "avatar_url": "https://github.com/mcollina.png?size=64",
+      "name": "Matteo Collina",
+      "company": "platformatic",
+      "commits": 0,
+      "reviews": 18,
+      "repos": [],
+      "score": 18
+    },
+    {
       "login": "jduo",
       "id": 1657237,
       "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
@@ -346,17 +370,6 @@
         "valkey-glide-php"
       ],
       "score": 17
-    },
-    {
-      "login": "mcollina",
-      "id": 0,
-      "avatar_url": "https://github.com/mcollina.png?size=64",
-      "name": "Matteo Collina",
-      "company": "platformatic",
-      "commits": 0,
-      "reviews": 16,
-      "repos": [],
-      "score": 16
     },
     {
       "login": "ikolomi",
@@ -445,6 +458,20 @@
       "score": 11
     },
     {
+      "login": "mkmkme",
+      "id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "name": "Mikhail Koviazin",
+      "company": "Altinity",
+      "commits": 2,
+      "reviews": 8,
+      "repos": [
+        "libvalkey-py",
+        "valkey-py"
+      ],
+      "score": 10
+    },
+    {
       "login": "stockholmux",
       "id": 1152927,
       "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
@@ -482,20 +509,6 @@
         "valkey-operator"
       ],
       "score": 10
-    },
-    {
-      "login": "mkmkme",
-      "id": 4062234,
-      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-      "name": "Mikhail Koviazin",
-      "company": "Altinity",
-      "commits": 2,
-      "reviews": 7,
-      "repos": [
-        "libvalkey-py",
-        "valkey-py"
-      ],
-      "score": 9
     },
     {
       "login": "jamesx-improving",
@@ -602,6 +615,37 @@
       "score": 7
     },
     {
+      "login": "jsoref",
+      "id": 2119212,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
+      "name": "Josh Soref",
+      "company": "GarnerCorp",
+      "commits": 6,
+      "reviews": 0,
+      "repos": [
+        "iovalkey",
+        "libvalkey",
+        "valkey-bloom",
+        "valkey-hashes",
+        "valkey-release-automation",
+        "valkey-test-framework"
+      ],
+      "score": 6
+    },
+    {
+      "login": "pizhenwei",
+      "id": 5586500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/5586500?v=4",
+      "name": "zhenwei pi",
+      "company": "Tensorfer",
+      "commits": 4,
+      "reviews": 2,
+      "repos": [
+        "libvalkey"
+      ],
+      "score": 6
+    },
+    {
       "login": "ranshid",
       "id": 88133677,
       "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
@@ -652,23 +696,6 @@
         "valkey-search"
       ],
       "score": 6
-    },
-    {
-      "login": "jsoref",
-      "id": 2119212,
-      "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
-      "name": "Josh Soref",
-      "company": "GarnerCorp",
-      "commits": 5,
-      "reviews": 0,
-      "repos": [
-        "iovalkey",
-        "valkey-bloom",
-        "valkey-hashes",
-        "valkey-release-automation",
-        "valkey-test-framework"
-      ],
-      "score": 5
     },
     {
       "login": "rjd15372",
@@ -722,19 +749,6 @@
         "valkeymodule-rs"
       ],
       "score": 5
-    },
-    {
-      "login": "michael-grunder",
-      "id": 468149,
-      "avatar_url": "https://avatars.githubusercontent.com/u/468149?v=4",
-      "name": "Michael Grunder",
-      "company": "CacheWerk",
-      "commits": 1,
-      "reviews": 3,
-      "repos": [
-        "libvalkey"
-      ],
-      "score": 4
     },
     {
       "login": "murphyjacob4",
@@ -978,6 +992,20 @@
       "score": 2
     },
     {
+      "login": "cxljs",
+      "id": 24987055,
+      "avatar_url": "https://avatars.githubusercontent.com/u/24987055?v=4",
+      "name": "",
+      "company": "",
+      "commits": 2,
+      "reviews": 0,
+      "repos": [
+        "libvalkey",
+        "valkey-bloom"
+      ],
+      "score": 2
+    },
+    {
       "login": "nmvk",
       "id": 1668438,
       "avatar_url": "https://avatars.githubusercontent.com/u/1668438?v=4",
@@ -1136,6 +1164,19 @@
       "score": 2
     },
     {
+      "login": "ruihong123",
+      "id": 67431767,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67431767?v=4",
+      "name": "",
+      "company": "",
+      "commits": 2,
+      "reviews": 0,
+      "repos": [
+        "libvalkey"
+      ],
+      "score": 2
+    },
+    {
       "login": "dtaivpp",
       "id": 17506770,
       "avatar_url": "https://avatars.githubusercontent.com/u/17506770?v=4",
@@ -1240,19 +1281,6 @@
       "score": 1
     },
     {
-      "login": "pizhenwei",
-      "id": 5586500,
-      "avatar_url": "https://avatars.githubusercontent.com/u/5586500?v=4",
-      "name": "zhenwei pi",
-      "company": "Tensorfer",
-      "commits": 1,
-      "reviews": 0,
-      "repos": [
-        "libvalkey"
-      ],
-      "score": 1
-    },
-    {
       "login": "Ada-Church-Closure",
       "id": 155656201,
       "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
@@ -1331,19 +1359,6 @@
       "id": 228918650,
       "avatar_url": "https://avatars.githubusercontent.com/u/228918650?v=4",
       "name": "Shivansh Soni",
-      "company": "",
-      "commits": 1,
-      "reviews": 0,
-      "repos": [
-        "valkey-bloom"
-      ],
-      "score": 1
-    },
-    {
-      "login": "cxljs",
-      "id": 24987055,
-      "avatar_url": "https://avatars.githubusercontent.com/u/24987055?v=4",
-      "name": "",
       "company": "",
       "commits": 1,
       "reviews": 0,
@@ -1770,6 +1785,45 @@
       "reviews": 0,
       "repos": [
         "valkey-doc"
+      ],
+      "score": 1
+    },
+    {
+      "login": "martinslota",
+      "id": 46676886,
+      "avatar_url": "https://avatars.githubusercontent.com/u/46676886?v=4",
+      "name": "Martin Slota",
+      "company": "",
+      "commits": 1,
+      "reviews": 0,
+      "repos": [
+        "iovalkey"
+      ],
+      "score": 1
+    },
+    {
+      "login": "trim21",
+      "id": 13553903,
+      "avatar_url": "https://avatars.githubusercontent.com/u/13553903?v=4",
+      "name": "Trim21",
+      "company": "",
+      "commits": 1,
+      "reviews": 0,
+      "repos": [
+        "libvalkey"
+      ],
+      "score": 1
+    },
+    {
+      "login": "VyacheslavVanin",
+      "id": 3498247,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3498247?v=4",
+      "name": "Vyacheslav Vanin",
+      "company": "",
+      "commits": 1,
+      "reviews": 0,
+      "repos": [
+        "libvalkey"
       ],
       "score": 1
     }

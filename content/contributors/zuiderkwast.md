@@ -3,9 +3,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 32,
+  "score": 71,
   "commit_count": 5,
-  "review_count": 27,
+  "review_count": 66,
   "repos": [
     "libvalkey",
     "valkey",
@@ -247,12 +247,156 @@
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/5a428b36aa0dd2d115afaba402ac16f33b807ae9"
     },
     {
+      "sha": "ae341dea5f",
+      "message": "Support slotmap updates using CLUSTER NODES in RESP3 (#262)",
+      "date": "2025-11-25",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/262",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/ae341dea5f11fced6e1f835a9988154fd898177c"
+    },
+    {
+      "sha": "15974930d7",
+      "message": "Add option to select a logical database (#244)",
+      "date": "2025-10-01",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/244",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/15974930d7a43d6fdf9146b932b5432f448416c1"
+    },
+    {
       "sha": "833d4ab47b",
       "message": "LDAP authentication module (#20)",
       "date": "2025-06-14",
       "repo": "valkey-rfc",
       "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/20",
       "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/833d4ab47b462daf031b1fb480eaeef905c6206d"
+    },
+    {
+      "sha": "178e350c75",
+      "message": "Cluster code cleanup (#216)",
+      "date": "2025-06-10",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/216",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/178e350c757a15fdbe1ded697a4f051baf0388df"
+    },
+    {
+      "sha": "99aa158bcb",
+      "message": "Use existing connections for blocking slotmap updates (#199)",
+      "date": "2025-05-23",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/199",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/99aa158bcbacadd6c39992fdbd523aea43570abf"
+    },
+    {
+      "sha": "41c5911f11",
+      "message": "Remove macro UNUSED from public API (#200)",
+      "date": "2025-05-14",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/200",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/41c5911f114e2a5fad058d6075f0a4195e3d941d"
+    },
+    {
+      "sha": "969a8c546a",
+      "message": "Fix dependency issue with RDMA (#201)",
+      "date": "2025-05-09",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/201",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/969a8c546af28993f03ab6ba00744697de716fc1"
+    },
+    {
+      "sha": "abcd27fbf6",
+      "message": "Support additional client options in a cluster client (#197)",
+      "date": "2025-04-30",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/197",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/abcd27fbf62a044dce5da5255d8a161a99af23fb"
+    },
+    {
+      "sha": "a31021bd52",
+      "message": "Update and unify version tags on installed shared libraries (#196)",
+      "date": "2025-04-30",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/196",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/a31021bd5224adfa4a72bf36c765372b4a818f45"
+    },
+    {
+      "sha": "5e212e6dab",
+      "message": "Support empty endpoints in redirects (#160)",
+      "date": "2025-04-25",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/160",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/5e212e6dab44c148ec76c8936415fb86dc1a0692"
+    },
+    {
+      "sha": "c2ed4933c9",
+      "message": "Introduce MPTCP (#189)",
+      "date": "2025-04-17",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/189",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/c2ed4933c9f9067b1c91cae5d134e19efc578137"
+    },
+    {
+      "sha": "0b10912ad3",
+      "message": "Update the nodeIterator memory blob to fit Valkeys dict iterator",
+      "date": "2025-04-02",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/182",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/0b10912ad334e22e0dcbde172b413b0f8fdbabc2"
+    },
+    {
+      "sha": "136ede057c",
+      "message": "Refactor `dict` (#173)",
+      "date": "2025-03-06",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/173",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/136ede057c1088be5ca87c20a9fb32c8ac877aae"
+    },
+    {
+      "sha": "64153055ec",
+      "message": "Remove APIs for separate init and connect of async cluster contexts (#165)",
+      "date": "2025-02-07",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/165",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/64153055ecfadef6c8d790051e8b8861a81225f0"
+    },
+    {
+      "sha": "0101cf6276",
+      "message": "Introduce configuration options in the cluster API (#137)",
+      "date": "2025-02-03",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/137",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/0101cf6276189eec7e5202652219b46e72c31fd1"
+    },
+    {
+      "sha": "fb8af4c786",
+      "message": "Retry when an async slotmap update fails  (#159)",
+      "date": "2025-01-23",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/159",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/fb8af4c786c073a64264ccb478364e85502aca64"
+    },
+    {
+      "sha": "c793fa15db",
+      "message": "Handle empty addresses in `CLUSTER NODES` responses (#148)",
+      "date": "2025-01-15",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/148",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/c793fa15db433c7b9403e4cbb8c6445016e4e3ec"
+    },
+    {
+      "sha": "ca3dac9ac7",
+      "message": "Simplify API by only using non-const connect callbacks (#142)",
+      "date": "2024-12-30",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/142",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/ca3dac9ac7a45998d8c9c51d236b7214fdfa59c6"
+    },
+    {
+      "sha": "ea72f483d4",
+      "message": "Rename offensive defines and members in API (#140)",
+      "date": "2024-12-18",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/140",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/ea72f483d475af44d2399807bc01caab919a89de"
     },
     {
       "sha": "920db68229",
@@ -263,12 +407,180 @@
       "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/920db68229ba1e9be561b3ee33d74561ec58234d"
     },
     {
+      "sha": "6f2ba3af0e",
+      "message": " Refactor the internal function `parse_cluster_nodes` (#119)",
+      "date": "2024-10-28",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/119",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/6f2ba3af0e59630abbe890704a3dbff76554b21a"
+    },
+    {
+      "sha": "c95220a927",
+      "message": "Create request list when initiating valkeyClusterContext",
+      "date": "2024-10-23",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/123",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/c95220a927ede9dd1fa69f40faaa1d3abd7be890"
+    },
+    {
+      "sha": "0985c622b0",
+      "message": "Remove API valkeyClusterSetOptionAddNode",
+      "date": "2024-10-22",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/122",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/0985c622b0c004365e452fce79e5b644026dd016"
+    },
+    {
+      "sha": "a97a74e832",
+      "message": "Add unit tests for `CLUSTER NODES` parsing (#112)",
+      "date": "2024-10-14",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/112",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/a97a74e8320447d0373846be806b8405f61a8b8e"
+    },
+    {
+      "sha": "432f689663",
+      "message": "Remove `dict` from user-facing API (#87)",
+      "date": "2024-10-09",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/87",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/432f6896630e45be07496aef1efbb971bb120a38"
+    },
+    {
+      "sha": "1d9e49c2e3",
+      "message": "Refactor slotmap update functions (#107)",
+      "date": "2024-10-04",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/107",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/1d9e49c2e38b4eae9a436efaddfc3541293e32ed"
+    },
+    {
+      "sha": "1c57bf667a",
+      "message": "Replace the term SSL with TLS (#103)",
+      "date": "2024-09-26",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/103",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/1c57bf667af3d1e4c4ddd025c4ea0e404b17eb98"
+    },
+    {
+      "sha": "a79c56494a",
+      "message": "Cleanup of SSL init function in cluster context",
+      "date": "2024-09-25",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/102",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/a79c56494a7a165df2e70b84897e68748fdc794a"
+    },
+    {
+      "sha": "47956fa9b6",
+      "message": "Enable Coverity scans in CI",
+      "date": "2024-09-16",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/94",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/47956fa9b6ae248e9569eb101786f3a2d3d74ee7"
+    },
+    {
+      "sha": "fbbf80ecbd",
+      "message": "Cleanup of cluster internal error functions",
+      "date": "2024-09-13",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/93",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/fbbf80ecbd39d66c5d67ce5610ffaf26015de372"
+    },
+    {
+      "sha": "f3217e2605",
+      "message": "Cleanup of cluster free functions",
+      "date": "2024-09-10",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/91",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/f3217e260549a53f8961cd7873ac4dd4a2dc5e82"
+    },
+    {
+      "sha": "8bfb414bee",
+      "message": "Make ssl.h include order independant",
+      "date": "2024-09-08",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/88",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/8bfb414bee0aa8426677efbb0541450915257f50"
+    },
+    {
+      "sha": "01c226ecd6",
+      "message": "Add initial migration guide (#85)",
+      "date": "2024-09-05",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/85",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/01c226ecd660bf0a3348c143bd233c2ba842237d"
+    },
+    {
+      "sha": "207b95ce12",
+      "message": "Rename APIs to get a standalone context from the cluster context",
+      "date": "2024-09-03",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/38",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/207b95ce12811afbdb54cd92df68ab76b341b26d"
+    },
+    {
+      "sha": "39c564d75b",
+      "message": "Move missing information from libvalkey/README.md",
+      "date": "2024-09-02",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/83",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/39c564d75be8a66c08c38707a235a8557a61f147"
+    },
+    {
+      "sha": "e01e63c4b0",
+      "message": "Add initial CONTRIBUTING.md (#82)",
+      "date": "2024-08-30",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/82",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/e01e63c4b011e8f91b7047d73b307617d7fabc84"
+    },
+    {
+      "sha": "1ce574c28e",
+      "message": "Add initial cluster docs (#80)",
+      "date": "2024-08-28",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/80",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/1ce574c28ecf137329a410381ce03c453616a9f9"
+    },
+    {
       "sha": "c4a0d0fa8b",
       "message": "Reference RFC file (#6)",
       "date": "2024-08-27",
       "repo": "valkey-rfc",
       "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/6",
       "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/c4a0d0fa8bd4c1306fb3f0da316569155ff529c6"
+    },
+    {
+      "sha": "1afa9a67c1",
+      "message": "No slot map updates during a cluster client disconnect",
+      "date": "2024-08-23",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/73",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/1afa9a67c1c3064179a304fda56001433f6529d4"
+    },
+    {
+      "sha": "6cfbdb2506",
+      "message": "Fix possible leak when failing to send a async cluster command (#71)",
+      "date": "2024-08-23",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/71",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/6cfbdb250669fdb724b7913a3c8becb18777a8f1"
+    },
+    {
+      "sha": "219a129fb0",
+      "message": "Add file COPYING (#75)",
+      "date": "2024-08-22",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/75",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/219a129fb0a83cd54ddbd6963d5bc36a42eff283"
+    },
+    {
+      "sha": "0cbffcfd3e",
+      "message": "Add new APIs for variadic cluster commands",
+      "date": "2024-08-19",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/70",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/0cbffcfd3ea87d8ec8fbd6c16ca9b14ab4ac8802"
     }
   ]
 }

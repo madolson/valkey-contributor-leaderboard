@@ -3,11 +3,12 @@
   "title": "jsoref",
   "login": "jsoref",
   "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "iovalkey",
+    "libvalkey",
     "valkey-bloom",
     "valkey-hashes",
     "valkey-release-automation",
@@ -53,6 +54,14 @@
       "repo": "valkey-hashes",
       "pr_url": "https://github.com/valkey-io/valkey-hashes/pull/11",
       "commit_url": "https://github.com/valkey-io/valkey-hashes/commit/7dbc77db476e602e9c48cf02dcd60c7728411669"
+    },
+    {
+      "sha": "279125e220",
+      "message": "Spelling (#213)",
+      "date": "2025-06-02",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/213",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/279125e22053311586e3837800c37e9ca08aae33"
     }
   ],
   "review_list": []
