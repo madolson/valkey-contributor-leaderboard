@@ -317,7 +317,7 @@ def main():
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument("--limit", type=int, default=0,
-                        help="Max commits to fetch/check per repo (0=unlimited)")
+                        help="Max total commits to check/backfill (0=unlimited)")
     args = parser.parse_args()
 
     token = os.environ.get("GITHUB_TOKEN")
@@ -342,8 +342,6 @@ def main():
             break
         log(f"  Fetching {repo} since {since}")
         new_commits = fetch_commits(repo, since, token)
-        if args.limit:
-            new_commits = new_commits[:args.limit]
         added = 0
         for c in new_commits:
             if c["sha"] not in existing_shas:
@@ -360,12 +358,7 @@ def main():
     unchecked = [c for c in store["commits"] if needs_review_check(c)]
     if unchecked:
         if args.limit:
-            by_repo = {}
-            for c in unchecked:
-                by_repo.setdefault(c["repo"], []).append(c)
-            unchecked = []
-            for repo_commits in by_repo.values():
-                unchecked.extend(repo_commits[:args.limit])
+            unchecked = unchecked[:args.limit]
         log(f"Checking review status for {len(unchecked)} commits...")
         for i, c in enumerate(unchecked):
             if rate_limited:
@@ -386,7 +379,7 @@ def main():
                      if needs_detail_backfill(c) and isinstance(c.get("reviewed"), list)]
     if need_backfill and not rate_limited:
         if args.limit:
-            need_backfill = need_backfill[:args.limit * 5]
+            need_backfill = need_backfill[:args.limit]
         log(f"Backfilling details for {len(need_backfill)} commits...")
         for i, c in enumerate(need_backfill):
             if rate_limited:

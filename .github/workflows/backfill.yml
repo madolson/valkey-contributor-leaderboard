@@ -19,7 +19,7 @@ jobs:
           python-version: "3.x"
 
       - name: Fetch and backfill
-        run: python3 scripts/fetch_commits.py --limit 25
+        run: python3 scripts/fetch_commits.py --limit 1000
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
