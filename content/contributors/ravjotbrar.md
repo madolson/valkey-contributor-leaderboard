@@ -3,9 +3,9 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 7,
+  "score": 6,
   "commit_count": 5,
-  "review_count": 2,
+  "review_count": 1,
   "repos": [
     "valkey-admin"
   ],
@@ -59,14 +59,6 @@
       "repo": "valkey-admin",
       "pr_url": "https://github.com/valkey-io/valkey-admin/pull/307",
       "commit_url": "https://github.com/valkey-io/valkey-admin/commit/c1c2369e9c1a58020c7fc631b480e0221c6ac9af"
-    },
-    {
-      "sha": "33f6cd5aa8",
-      "message": "Set proper env access",
-      "date": "2026-04-23",
-      "repo": "valkey-admin",
-      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/307",
-      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/33f6cd5aa883a0fcae63c05da8fa4ed7d9140514"
     }
   ]
 }

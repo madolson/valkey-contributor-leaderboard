@@ -3,9 +3,9 @@
   "title": "mcollina",
   "login": "mcollina",
   "avatar_url": "https://github.com/mcollina.png?size=64",
-  "score": 17,
+  "score": 16,
   "commit_count": 0,
-  "review_count": 17,
+  "review_count": 16,
   "repos": [],
   "commit_list": [],
   "review_list": [
@@ -96,14 +96,6 @@
       "repo": "iovalkey",
       "pr_url": "https://github.com/valkey-io/iovalkey/pull/19",
       "commit_url": "https://github.com/valkey-io/iovalkey/commit/fc9037df3587fe377d1971a04fc09e6c17fc73e8"
-    },
-    {
-      "sha": "a385bd0806",
-      "message": "renaming more redis -> valkey entries",
-      "date": "2024-12-06",
-      "repo": "iovalkey",
-      "pr_url": "https://github.com/valkey-io/iovalkey/pull/19",
-      "commit_url": "https://github.com/valkey-io/iovalkey/commit/a385bd0806ed3555737d7283f0b6d0d3cf310804"
     },
     {
       "sha": "ba1c74bf7c",

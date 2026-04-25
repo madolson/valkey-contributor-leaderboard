@@ -226,12 +226,23 @@ def generate_leaderboard(commits, profiles=None):
         if avatar:
             by_login[login]["avatar_url"] = avatar
 
+    seen_prs = set()  # (author_login, pr_url) — dedup rebase-and-merge
+
     for c in commits:
         reviewers = c.get("reviewed")
         if not reviewers or not isinstance(reviewers, list):
             continue
         if is_bot(c["author_login"]):
             continue
+
+        # Deduplicate: multiple commits from same PR count as one
+        pr_url = c.get("pr_url", "")
+        pr_key = (c["author_login"], pr_url) if pr_url else None
+        if pr_key and pr_key in seen_prs:
+            continue
+        if pr_key:
+            seen_prs.add(pr_key)
+
         ensure_user(c["author_login"], c["avatar_url"])
         by_login[c["author_login"]]["id"] = c["author_id"]
         by_login[c["author_login"]]["commits"] += 1
@@ -259,10 +270,20 @@ def generate_contributor_pages(commits, contributors):
     user_commits = {}  # login -> [commit_info]
     user_reviews = {}  # login -> [commit_info]
 
+    seen_prs = set()
+
     for c in commits:
         reviewers = c.get("reviewed")
         if not reviewers or not isinstance(reviewers, list):
             continue
+
+        pr_url = c.get("pr_url", "")
+        pr_key = (c["author_login"], pr_url) if pr_url else None
+        if pr_key and pr_key in seen_prs:
+            continue
+        if pr_key:
+            seen_prs.add(pr_key)
+
         info = {
             "sha": c["sha"][:10],
             "message": c.get("message", c["sha"][:10]),

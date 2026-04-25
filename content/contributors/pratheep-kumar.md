@@ -3,8 +3,8 @@
   "title": "pratheep-kumar",
   "login": "pratheep-kumar",
   "avatar_url": "https://avatars.githubusercontent.com/u/40911083?v=4",
-  "score": 26,
-  "commit_count": 14,
+  "score": 22,
+  "commit_count": 10,
   "review_count": 12,
   "repos": [
     "valkey-glide-ruby"
@@ -89,38 +89,6 @@
       "repo": "valkey-glide-ruby",
       "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/52",
       "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/7bed3853bd1abc0c0f5d7a4dcead0d7f666d2913"
-    },
-    {
-      "sha": "1878497f28",
-      "message": "Adding new so file",
-      "date": "2025-11-28",
-      "repo": "valkey-glide-ruby",
-      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/52",
-      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/1878497f28c51e303234b39b222fe01cd7f59de7"
-    },
-    {
-      "sha": "ff8340a481",
-      "message": "Adding retries for client reset tests",
-      "date": "2025-11-28",
-      "repo": "valkey-glide-ruby",
-      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/52",
-      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ff8340a481c8de273444dbfd344cdc6bf70a16f2"
-    },
-    {
-      "sha": "e9d6d894e9",
-      "message": "Fixing rubocop issues",
-      "date": "2025-11-28",
-      "repo": "valkey-glide-ruby",
-      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/52",
-      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/e9d6d894e9802f1dbabec2ff27ff85b612d2b903"
-    },
-    {
-      "sha": "25cb12aebc",
-      "message": "Removing duplicate implementation for client commands",
-      "date": "2025-11-28",
-      "repo": "valkey-glide-ruby",
-      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/52",
-      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/25cb12aebc43de0604c253aab8a2ff64fb61d5bd"
     }
   ],
   "review_list": [

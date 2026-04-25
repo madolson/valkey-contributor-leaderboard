@@ -3,8 +3,8 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 85,
-  "commit_count": 37,
+  "score": 84,
+  "commit_count": 36,
   "review_count": 48,
   "repos": [
     "valkey-bloom",
@@ -257,14 +257,6 @@
       "repo": "valkey-ldap",
       "pr_url": "https://github.com/valkey-io/valkey-ldap/pull/50",
       "commit_url": "https://github.com/valkey-io/valkey-ldap/commit/b098550bde4ba5ca414794cb97ddadd4ca1370a6"
-    },
-    {
-      "sha": "784b126fd0",
-      "message": "Renamed component variable",
-      "date": "2025-06-19",
-      "repo": "valkey-ldap",
-      "pr_url": "https://github.com/valkey-io/valkey-ldap/pull/50",
-      "commit_url": "https://github.com/valkey-io/valkey-ldap/commit/784b126fd0d8f8fae123f67119c2b25d7ce33b05"
     },
     {
       "sha": "171aa40981",

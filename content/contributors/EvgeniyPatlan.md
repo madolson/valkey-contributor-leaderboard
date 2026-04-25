@@ -3,8 +3,8 @@
   "title": "EvgeniyPatlan",
   "login": "EvgeniyPatlan",
   "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey-ldap",
@@ -43,14 +43,6 @@
       "repo": "valkey-ldap",
       "pr_url": "https://github.com/valkey-io/valkey-ldap/pull/56",
       "commit_url": "https://github.com/valkey-io/valkey-ldap/commit/46ddd3d4d7629b3909a8bd4ef36b1e130b1ae4c6"
-    },
-    {
-      "sha": "d179737e68",
-      "message": "Add multi-distro DEB/RPM packaging and CI workflow",
-      "date": "2026-03-25",
-      "repo": "valkey-ldap",
-      "pr_url": "https://github.com/valkey-io/valkey-ldap/pull/56",
-      "commit_url": "https://github.com/valkey-io/valkey-ldap/commit/d179737e68274dcb8a408d7c9322072c5fc583cc"
     }
   ],
   "review_list": []

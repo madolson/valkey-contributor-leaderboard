@@ -3,8 +3,8 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 13,
-  "commit_count": 4,
+  "score": 12,
+  "commit_count": 3,
   "review_count": 9,
   "repos": [
     "valkey",
@@ -18,14 +18,6 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3551",
       "commit_url": "https://github.com/valkey-io/valkey/commit/a7d495352ac0ba724eeec51fd57b615e8e805f52"
-    },
-    {
-      "sha": "54980ece3a",
-      "message": "hashtable iterator safety: invalidate on exhaustion",
-      "date": "2026-04-24",
-      "repo": "valkey",
-      "pr_url": "https://github.com/valkey-io/valkey/pull/3551",
-      "commit_url": "https://github.com/valkey-io/valkey/commit/54980ece3a46a1bf83eea40870542c09c843b8fa"
     },
     {
       "sha": "8636b0c66d",

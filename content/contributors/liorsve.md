@@ -3,8 +3,8 @@
   "title": "liorsve",
   "login": "liorsve",
   "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
-  "score": 8,
-  "commit_count": 7,
+  "score": 7,
+  "commit_count": 6,
   "review_count": 1,
   "repos": [
     "spring-data-valkey",
@@ -34,14 +34,6 @@
       "repo": "spring-data-valkey",
       "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/64",
       "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/8bf581133b642ab8fccc66aee60439586b757439"
-    },
-    {
-      "sha": "653ee83128",
-      "message": "change sdv input version to receive version/commit-id",
-      "date": "2026-03-03",
-      "repo": "spring-data-valkey",
-      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/64",
-      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/653ee83128eca7089e8579442e553917f2030b62"
     },
     {
       "sha": "5c0f5b4ccb",

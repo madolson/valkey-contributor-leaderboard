@@ -3,9 +3,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 37,
+  "score": 32,
   "commit_count": 5,
-  "review_count": 32,
+  "review_count": 27,
   "repos": [
     "libvalkey",
     "valkey",
@@ -213,46 +213,6 @@
       "repo": "libvalkey",
       "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/31aa8c8aaf15882439e8d4b828926368868a3b52"
-    },
-    {
-      "sha": "a50271af6f",
-      "message": "fixup: only run CI-job solaris-developer-studio from `valkey-io/libvalkey` repo",
-      "date": "2026-01-20",
-      "repo": "libvalkey",
-      "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
-      "commit_url": "https://github.com/valkey-io/libvalkey/commit/a50271af6f7c33b6f4352dd9d323909065d5b2c9"
-    },
-    {
-      "sha": "29023eb36c",
-      "message": "Add valkey-json, valkey-bloom, valkey-search to cmddef.h",
-      "date": "2026-01-20",
-      "repo": "libvalkey",
-      "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
-      "commit_url": "https://github.com/valkey-io/libvalkey/commit/29023eb36cf7047b26ba9fecde73a683f98835d9"
-    },
-    {
-      "sha": "ae756bc89f",
-      "message": "Update cmddef.h to Valkey 9.0.0",
-      "date": "2026-01-20",
-      "repo": "libvalkey",
-      "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
-      "commit_url": "https://github.com/valkey-io/libvalkey/commit/ae756bc89fd81a8c4970110b4e4425c82af2f07a"
-    },
-    {
-      "sha": "21abd737e4",
-      "message": "Replace problematic alloca() with fixed stack alloc",
-      "date": "2026-01-20",
-      "repo": "libvalkey",
-      "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
-      "commit_url": "https://github.com/valkey-io/libvalkey/commit/21abd737e4b34052db3dfe34c225eccc7edbd5f4"
-    },
-    {
-      "sha": "1251bb9298",
-      "message": "Add unittests of parsing unknown command/subcommand",
-      "date": "2026-01-20",
-      "repo": "libvalkey",
-      "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
-      "commit_url": "https://github.com/valkey-io/libvalkey/commit/1251bb9298c2554ef2c59878198b9aed1f99efe3"
     },
     {
       "sha": "5111fb0ee8",

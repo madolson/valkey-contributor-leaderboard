@@ -3,9 +3,9 @@
   "title": "joehu21",
   "login": "joehu21",
   "avatar_url": "https://avatars.githubusercontent.com/u/89549026?v=4",
-  "score": 8,
+  "score": 7,
   "commit_count": 1,
-  "review_count": 7,
+  "review_count": 6,
   "repos": [
     "valkey-rfc"
   ],
@@ -27,14 +27,6 @@
       "repo": "valkey-json",
       "pr_url": "https://github.com/valkey-io/valkey-json/pull/69",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/6c8e7777cfe27556fd309e1a72eed21d9a3455f6"
-    },
-    {
-      "sha": "9ba9ff46fa",
-      "message": "Support building on Clang / Apple",
-      "date": "2025-06-25",
-      "repo": "valkey-json",
-      "pr_url": "https://github.com/valkey-io/valkey-json/pull/69",
-      "commit_url": "https://github.com/valkey-io/valkey-json/commit/9ba9ff46fabd9f31e375ddd7b1362c1907e9c3c2"
     },
     {
       "sha": "f584bae32e",

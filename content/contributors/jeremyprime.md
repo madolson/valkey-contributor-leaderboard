@@ -3,9 +3,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 34,
+  "score": 32,
   "commit_count": 8,
-  "review_count": 26,
+  "review_count": 24,
   "repos": [
     "spring-data-valkey",
     "valkey-glide"
@@ -284,22 +284,6 @@
       "repo": "spring-data-valkey",
       "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/68",
       "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/4dc8dbcddf25043cb15b08ec046031546b376b44"
-    },
-    {
-      "sha": "bff5a72b00",
-      "message": "Add IAM authentication support for Valkey-GLIDE (ElastiCache/MemoryDB)",
-      "date": "2026-03-12",
-      "repo": "spring-data-valkey",
-      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/68",
-      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/bff5a72b00e942dff5b3bccfe068c1220b81c3c4"
-    },
-    {
-      "sha": "bff5a72b00",
-      "message": "Add IAM authentication support for Valkey-GLIDE (ElastiCache/MemoryDB)",
-      "date": "2026-03-12",
-      "repo": "spring-data-valkey",
-      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/68",
-      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/bff5a72b00e942dff5b3bccfe068c1220b81c3c4"
     },
     {
       "sha": "bd502f98cb",

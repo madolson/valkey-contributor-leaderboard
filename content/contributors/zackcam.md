@@ -3,9 +3,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 36,
+  "score": 27,
   "commit_count": 15,
-  "review_count": 21,
+  "review_count": 12,
   "repos": [
     "valkey-bloom",
     "valkey-json",
@@ -216,84 +216,12 @@
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/928935b5adbdd71c2e48e2e7a93fc7073f30a984"
     },
     {
-      "sha": "ac0877bbd7",
-      "message": "update replication example",
-      "date": "2025-04-15",
-      "repo": "valkey-test-framework",
-      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
-      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/ac0877bbd726383ef7176274a8bea7f24fa7649a"
-    },
-    {
-      "sha": "6ab8a70caf",
-      "message": "update replication example",
-      "date": "2025-04-15",
-      "repo": "valkey-test-framework",
-      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
-      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/6ab8a70caf0b940a141544c8f07f1a6a73fdbe68"
-    },
-    {
-      "sha": "4eaa86ac0a",
-      "message": "update example",
-      "date": "2025-04-15",
-      "repo": "valkey-test-framework",
-      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
-      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/4eaa86ac0a0f4e8e69b591458191557289a42d8e"
-    },
-    {
-      "sha": "3b964a68b2",
-      "message": "update comments",
-      "date": "2025-04-15",
-      "repo": "valkey-test-framework",
-      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
-      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/3b964a68b27b66cd400abb6b0881dcf84808f421"
-    },
-    {
-      "sha": "6b5ae6d4c0",
-      "message": "update examples",
-      "date": "2025-04-15",
-      "repo": "valkey-test-framework",
-      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
-      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/6b5ae6d4c0b9912ea92cd95c34b9ac2ce091dfdd"
-    },
-    {
-      "sha": "175b0deb2e",
-      "message": "update examples",
-      "date": "2025-04-15",
-      "repo": "valkey-test-framework",
-      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
-      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/175b0deb2e9a4805256aee6808dbb8f41ca977f3"
-    },
-    {
-      "sha": "c7905808e3",
-      "message": "update example",
-      "date": "2025-04-15",
-      "repo": "valkey-test-framework",
-      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
-      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/c7905808e334b18271c5674aead722781d3778be"
-    },
-    {
-      "sha": "8c456a77fa",
-      "message": "Add examples of (1) common setup per class and serial test execution (2) replication testing",
-      "date": "2025-04-15",
-      "repo": "valkey-test-framework",
-      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
-      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/8c456a77fa5c4b036861d82d0c864e429c0ab8f1"
-    },
-    {
       "sha": "148930ed71",
       "message": "Cleaning up usage of valkey-test-framework (#57)",
       "date": "2025-03-31",
       "repo": "valkey-bloom",
       "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/59",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/148930ed71ea4ffc8d4b88ff035f6f56b4ca656f"
-    },
-    {
-      "sha": "5d514e051c",
-      "message": "Set default unstable version and update readme.md (#55)",
-      "date": "2025-03-28",
-      "repo": "valkey-bloom",
-      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/59",
-      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/5d514e051cb8ab8533a75c3d1cc295e1e52384a9"
     },
     {
       "sha": "d23399a418",

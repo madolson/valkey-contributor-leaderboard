@@ -3,9 +3,9 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 11,
+  "score": 9,
   "commit_count": 2,
-  "review_count": 9,
+  "review_count": 7,
   "repos": [
     "libvalkey-py",
     "valkey-py"
@@ -86,14 +86,6 @@
       "commit_url": "https://github.com/valkey-io/valkey-py/commit/96a9c908cf5276bd3e4e6d4942591df99d03d8d5"
     },
     {
-      "sha": "6cb1766667",
-      "message": "Fix ClusterPubSub limitation links",
-      "date": "2026-04-02",
-      "repo": "valkey-py",
-      "pr_url": "https://github.com/valkey-io/valkey-py/pull/289",
-      "commit_url": "https://github.com/valkey-io/valkey-py/commit/6cb176666720b7bd15aca1fa4a019ee78d61cf05"
-    },
-    {
       "sha": "794fd39970",
       "message": "Fix several warnings",
       "date": "2026-04-02",
@@ -116,14 +108,6 @@
       "repo": "valkey-py",
       "pr_url": "https://github.com/valkey-io/valkey-py/pull/272",
       "commit_url": "https://github.com/valkey-io/valkey-py/commit/d776cfa13a7a473d71265f8a196fa261349580d7"
-    },
-    {
-      "sha": "ff3de4f0c4",
-      "message": "Configure black to lint Jupyter notebooks",
-      "date": "2026-03-28",
-      "repo": "valkey-py",
-      "pr_url": "https://github.com/valkey-io/valkey-py/pull/272",
-      "commit_url": "https://github.com/valkey-io/valkey-py/commit/ff3de4f0c40ca02da4cb48242a6c222bd4dfef71"
     },
     {
       "sha": "baebb61b7b",
