@@ -79,10 +79,10 @@
     },
     {
       "sha": "69f77c1ddc",
-      "message": "69f77c1ddc",
+      "message": "valkey 1.2-rc1 doc update follow ups (#412)",
       "date": "2026-02-19",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/412",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/69f77c1ddcb5a8c369782fef7c85c1d31eb83b96"
     }
   ]

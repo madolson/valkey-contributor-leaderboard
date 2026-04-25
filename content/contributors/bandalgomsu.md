@@ -21,10 +21,10 @@
     },
     {
       "sha": "2cbb86b076",
-      "message": "2cbb86b076",
+      "message": "Add docs for availability-zone field in CLUSTER SHARDS/SLOTS (#420)",
       "date": "2026-03-11",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/420",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/2cbb86b0768ea0d9986f201e1f83092a1abe2a2b"
     }
   ],

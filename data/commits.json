@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-04-25T01:40:33Z",
+  "last_fetched": "2026-04-25T21:37:50Z",
   "commits": [
     {
       "sha": "d0ce310db91e84409e32c7e8e3beb16c88652e30",
@@ -1710,7 +1710,9 @@
       "reviewed": [
         "KarthikSubbarao",
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Fix typo in bf.info.json from 'TIGHTENTING' to 'TIGHTENING' (#79)",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/79"
     },
     {
       "sha": "097c2a452211a419e8a31549cbd4ea6d788a3a28",
@@ -1721,7 +1723,9 @@
       "repo": "valkey-bloom",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Fix AOF rewrite and restore BF tests (#81)",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/81"
     },
     {
       "sha": "d9998e8ce7236bbffe35f8ac24591eb620057997",
@@ -1732,7 +1736,9 @@
       "repo": "valkey-bloom",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "update build.sh to ensure POSIX compliance for dash shell (#73)",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/73"
     },
     {
       "sha": "148c86d2b595857ac05001e59f1886f394b35aa3",
@@ -1743,7 +1749,9 @@
       "repo": "valkey-bloom",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Update README to fix 8.0 build and update build.sh to support 9.0 (#76)",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/76"
     },
     {
       "sha": "1460d4f84b8bc22a5264391a077dd391b0aba4fb",
@@ -1754,7 +1762,9 @@
       "repo": "valkey-bloom",
       "reviewed": [
         "zackcam"
-      ]
+      ],
+      "message": "Adding Bloom support for external server (#72)",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/72"
     },
     {
       "sha": "450fde8c009ba731b5e0ad9e9f2bfe9adbc27c5d",
@@ -1767,7 +1777,9 @@
         "zackcam",
         "zackcam",
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "BLOOM trigger for Valkey Extension Automation (#65)",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/65"
     },
     {
       "sha": "223d780d23b76e7ddfadf800471a1d9b191bca3f",
@@ -1779,7 +1791,9 @@
       "reviewed": [
         "zackcam",
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Spelling (#68)",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/68"
     },
     {
       "sha": "bf60c40e3df671723869bb47516800cc9eb17d8b",
@@ -1790,7 +1804,9 @@
       "repo": "valkey-bloom",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Adding clean option for build script and fixing current clippy issues (#67)",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/67"
     },
     {
       "sha": "5b95585c83fc734957e7e3f204fa031c658cefcc",
@@ -1801,7 +1817,9 @@
       "repo": "valkey-bloom",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Removing failing on clippy errors in github ci (#66)",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/66"
     },
     {
       "sha": "32b02187a2835435f55a44a6c3088d0b02d85c95",
@@ -1821,7 +1839,9 @@
       "repo": "valkey-bloom",
       "reviewed": [
         "zackcam"
-      ]
+      ],
+      "message": "Cleaning up usage of valkey-test-framework (#57)",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/59"
     },
     {
       "sha": "c97e0c6da096318eb14b70aa872d3ed748e571a4",
@@ -1833,7 +1853,9 @@
       "reviewed": [
         "hpatro",
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Adding Bloom command JSON files (#47)",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/47"
     },
     {
       "sha": "d6b8763bcc79537d9752cb21a501357dba69c382",
@@ -1844,7 +1866,9 @@
       "repo": "valkey-bloom",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Updating build script and github workflow to get test framework from github and removing it locally (#56)",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/56"
     },
     {
       "sha": "5d514e051cb8ab8533a75c3d1cc295e1e52384a9",
@@ -1855,7 +1879,9 @@
       "repo": "valkey-bloom",
       "reviewed": [
         "zackcam"
-      ]
+      ],
+      "message": "Set default unstable version and update readme.md (#55)",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/59"
     },
     {
       "sha": "daf0f985da52bc80fcfee0630cc16b456bd8c8f1",
@@ -1866,7 +1892,9 @@
       "repo": "valkey-bundle",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Clone specific bloom version for tests instead of unstable (#107)",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/107"
     },
     {
       "sha": "6de673a1d527d6e04d84455b722a2d97194e0946",
@@ -1877,7 +1905,9 @@
       "repo": "valkey-bundle",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Clean up code in update-versions.py (#105)",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/105"
     },
     {
       "sha": "39aa558417d1a50f75efdb0eec83362ea8c7c8b5",
@@ -1888,7 +1918,9 @@
       "repo": "valkey-bundle",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "Fix CI version filter for schedule-triggered workflow_call (#104)",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/104"
     },
     {
       "sha": "cec104b416fcd63e21087c23655d41c7ae333cba",
@@ -1899,7 +1931,9 @@
       "repo": "valkey-bundle",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "Add version input to CI workflow and filter strategy matrix (#103)",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/103"
     },
     {
       "sha": "6175ab45e51afc20211f957f899838ebb9bcae08",
@@ -1920,7 +1954,9 @@
       "reviewed": [
         "roshkhatri",
         "roshkhatri"
-      ]
+      ],
+      "message": "Fixed Version Strategy in the Automation (#79)",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/79"
     },
     {
       "sha": "0c9cff4d8f9535e3b1937fd1683496a9c9bf201d",
@@ -1932,7 +1968,9 @@
       "reviewed": [
         "roshkhatri",
         "roshkhatri"
-      ]
+      ],
+      "message": "Use PAT Token so CI triggers (#101)",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/101"
     },
     {
       "sha": "3b4077c20434d1e44c68a8ba8b71c75a63816e48",
@@ -1952,7 +1990,9 @@
       "repo": "valkey-bundle",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "Automated Updates for Valkey Bundle for 9.1.0 -RC1  (#99)",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/99"
     },
     {
       "sha": "64086ecb47364a60bad1cc46a4e7218abf8aad3a",
@@ -1981,7 +2021,9 @@
       "repo": "valkey-bundle",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Remove Date from Dockerhub Description so CI will trigger (#97)",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/97"
     },
     {
       "sha": "83ae4787eca8553e7152e307a9992a643028a9f8",
@@ -2028,7 +2070,9 @@
       "repo": "valkey-bundle",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "fix description from wf dispatch (#96)",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/96"
     },
     {
       "sha": "4a75c5fc118cd90a9f222e8d1f21417e94500e61",
@@ -2039,7 +2083,9 @@
       "repo": "valkey-bundle",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "Release unstable with search 1.2.0-rc3 and add test as guardrails ",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/95"
     },
     {
       "sha": "4b891fe50cfae56c55307b81c0385d57b6d06bcf",
@@ -2050,7 +2096,9 @@
       "repo": "valkey-bundle",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "The Unstable Daily Build Should Pull All Module Releases. (#94)",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/94"
     },
     {
       "sha": "27f0c5894e9495138a949c54615060dba83d7204",
@@ -2061,7 +2109,9 @@
       "repo": "valkey-bundle",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Upload Valkey-Bundle Unstable Image. (#93)",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/93"
     },
     {
       "sha": "b95e9667ef7808c61c0e0045e30a6fc73b6bb253",
@@ -2100,7 +2150,9 @@
       "reviewed": [
         "sarthakaggarwal97",
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "Fix permission denied with --user flag (#132)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/132"
     },
     {
       "sha": "d9cbfb948cee3dfa9a0c72ba68bc71b79ea1f2ac",
@@ -2112,7 +2164,9 @@
       "reviewed": [
         "Nikhil-Manglore",
         "roshkhatri"
-      ]
+      ],
+      "message": "Bump the github-actions group with 2 updates (#137)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/137"
     },
     {
       "sha": "a43e0013d4a4a46bb3a9d27c2e0a6e5d180ed111",
@@ -2124,7 +2178,9 @@
       "reviewed": [
         "Nikhil-Manglore",
         "roshkhatri"
-      ]
+      ],
+      "message": "Add a Dependabot config to update GitHub actions (#134)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/134"
     },
     {
       "sha": "402ff9ca3c58ebc1efbfaf9ef87ad5bd5e6a28fb",
@@ -2135,7 +2191,9 @@
       "repo": "valkey-container",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "Update versions.json and Dockerfiles for version 9.1.0-rc1 (#135)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/135"
     },
     {
       "sha": "4427f7bc12ad594ab13a49543a4ba50373509a96",
@@ -2146,7 +2204,9 @@
       "repo": "valkey-container",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Resolve Node 20 deprecation warnings due to outdated actions (#133)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/133"
     },
     {
       "sha": "4045b397f7cdea565771e183d94865fd0f7a836e",
@@ -2157,7 +2217,9 @@
       "repo": "valkey-container",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "Change writable directory check from hard error to warning (#131)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/131"
     },
     {
       "sha": "61ee01e1e54d2f538ec2dda52634d845544eb0db",
@@ -2171,7 +2233,9 @@
         "Nikhil-Manglore",
         "roshkhatri",
         "sarthakaggarwal97"
-      ]
+      ],
+      "message": "updated docker-entrypoint.sh (#119)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/119"
     },
     {
       "sha": "a386a4df36eeaf5ce7a78f79b455d2e4d6ea0757",
@@ -2182,7 +2246,9 @@
       "repo": "valkey-container",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Update versions.json and Dockerfiles for version 7.2.12 (#125)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/125"
     },
     {
       "sha": "d1005c1b90ca615e19a180bde23a07643801f7f8",
@@ -2194,7 +2260,9 @@
       "reviewed": [
         "Nikhil-Manglore",
         "roshkhatri"
-      ]
+      ],
+      "message": "Update versions.json and Dockerfiles for version 8.0.7 (#126)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/126"
     },
     {
       "sha": "63d3c45eab8f89b8dbb86e0e98efe8f5c0b42cc7",
@@ -2205,7 +2273,9 @@
       "repo": "valkey-container",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Update versions.json and Dockerfiles for version 8.1.6 (#127)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/127"
     },
     {
       "sha": "ca08e348c92f3841db3009435e96f684bee1d311",
@@ -2216,7 +2286,9 @@
       "repo": "valkey-container",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Update versions.json and Dockerfiles for version 9.0.3 (#128)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/128"
     },
     {
       "sha": "9c2edebc010455c6941fccaecbaa1537de33b7a7",
@@ -2227,7 +2299,9 @@
       "repo": "valkey-container",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "Leave some secrets that may be in the strategies (#129)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/129"
     },
     {
       "sha": "b1bf00cf0e64a61f43d511e6f98e174e6deafd7c",
@@ -2239,7 +2313,9 @@
       "reviewed": [
         "Nikhil-Manglore",
         "zuiderkwast"
-      ]
+      ],
+      "message": "Improve logic and reduce failures on personal repos (#124)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/124"
     },
     {
       "sha": "1974cb22500261ffd62a654a821e63e9180f3858",
@@ -2250,7 +2326,9 @@
       "repo": "valkey-container",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Add ppc64le arch support (#115)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/115"
     },
     {
       "sha": "07e71ac5395338df3944a0a75df5a571835c4fe9",
@@ -2262,7 +2340,9 @@
       "reviewed": [
         "zuiderkwast",
         "sarthakaggarwal97"
-      ]
+      ],
+      "message": "Apply CVE fix for alpine versions in 8.0, 7.2 and unstable (#120)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/120"
     },
     {
       "sha": "ff39ed875a507d96d902a23286bfe0dbc9aefde8",
@@ -2274,7 +2354,9 @@
       "reviewed": [
         "sarthakaggarwal97",
         "roshkhatri"
-      ]
+      ],
+      "message": "Remove bashbrew (#122)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/122"
     },
     {
       "sha": "6f90d74bd7111d02e2de6a1e8c2362e9390700a8",
@@ -2285,7 +2367,9 @@
       "repo": "valkey-container",
       "reviewed": [
         "zuiderkwast"
-      ]
+      ],
+      "message": "Update to version 9.0.2 (#121)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/121"
     },
     {
       "sha": "19dd8ea741f58c85ba90e2b0c070c8a99d60a33f",
@@ -2297,7 +2381,9 @@
       "reviewed": [
         "Nikhil-Manglore",
         "roshkhatri"
-      ]
+      ],
+      "message": "Fix PUBLISH_IMAGE condition check in CI workflow (#116)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/116"
     },
     {
       "sha": "78ceeb3889120e33578ba57da839f6482f7796f3",
@@ -2309,7 +2395,9 @@
       "reviewed": [
         "Nikhil-Manglore",
         "roshkhatri"
-      ]
+      ],
+      "message": "Add ECR description automation and refactor template generation (#112)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/112"
     },
     {
       "sha": "9d03b656f028f1c23b1936d15074f71c8a04acae",
@@ -2320,7 +2408,9 @@
       "repo": "valkey-container",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "feat: add `org.opencontainers.image.source` label to Dockerfile (#103)",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/103"
     },
     {
       "sha": "2034f4d6246c6e503375f32194276f6870ff5783",
@@ -2340,7 +2430,9 @@
       "repo": "valkey-doc",
       "reviewed": [
         "madolson"
-      ]
+      ],
+      "message": "Documentation changes for CLUSTERSCAN (#417)",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/417"
     },
     {
       "sha": "1d636e4901afe008245559e6c2f52a33b2fe0bbf",
@@ -2351,7 +2443,9 @@
       "repo": "valkey-doc",
       "reviewed": [
         "madolson"
-      ]
+      ],
+      "message": "Update README.md (#421)",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/421"
     },
     {
       "sha": "2cbb86b0768ea0d9986f201e1f83092a1abe2a2b",
@@ -2363,7 +2457,9 @@
       "reviewed": [
         "enjoy-binbin",
         "zuiderkwast"
-      ]
+      ],
+      "message": "Add docs for availability-zone field in CLUSTER SHARDS/SLOTS (#420)",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/420"
     },
     {
       "sha": "ab0d320ef7e9abfe49df73bd87b1e1ee231c22f5",
@@ -2374,7 +2470,9 @@
       "repo": "valkey-doc",
       "reviewed": [
         "zuiderkwast"
-      ]
+      ],
+      "message": "Refine TLS and ACL docs for mTLS authentication (#418)",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/418"
     },
     {
       "sha": "a59b1feb49013b0ddfe0ce04c8921bd4fc775277",
@@ -2385,7 +2483,9 @@
       "repo": "valkey-doc",
       "reviewed": [
         "madolson"
-      ]
+      ],
+      "message": "Add new INFO field mem_total_replication_buffers and new replicas.repl.buffer MEMORY STATS field (#416)",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/416"
     },
     {
       "sha": "f23f093b78175b89fb7ebee21817fe9554a7292c",
@@ -2396,7 +2496,9 @@
       "repo": "valkey-doc",
       "reviewed": [
         "murphyjacob4"
-      ]
+      ],
+      "message": "Add the new remaining_repl_size field in CLUSTER GETSLOTMIGRATIONS (#406)",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/406"
     },
     {
       "sha": "f0567c1b9f2027aa37c9104e2447434d7f3fd4c0",
@@ -2407,7 +2509,9 @@
       "repo": "valkey-doc",
       "reviewed": [
         "madolson"
-      ]
+      ],
+      "message": "Swift client v1.0 (#415)",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/415"
     },
     {
       "sha": "1bf4fe048512589e5f7700050e5cc76d499e4321",
@@ -2428,7 +2532,9 @@
       "reviewed": [
         "allenss-amazon",
         "BCathcart"
-      ]
+      ],
+      "message": "valkey 1.2-rc1 doc update follow ups (#412)",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/412"
     },
     {
       "sha": "55344581979be4e94075097e2deaeb942409623b",
@@ -2450,7 +2556,9 @@
         "roshkhatri",
         "Nikhil-Manglore",
         "madolson"
-      ]
+      ],
+      "message": "Add automatic tag creation after merge (#398)",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/398"
     },
     {
       "sha": "e30efee80204960b68669482cec5bd6c71ea79ed",
@@ -2461,7 +2569,9 @@
       "repo": "valkey-doc",
       "reviewed": [
         "enjoy-binbin"
-      ]
+      ],
+      "message": "Cluster shard documentation fix for fail health status (#408)",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/408"
     },
     {
       "sha": "c25cae5f9be7f48cd2aa78f5c0b49e95c89d2a20",
@@ -2473,7 +2583,9 @@
       "reviewed": [
         "enjoy-binbin",
         "zuiderkwast"
-      ]
+      ],
+      "message": "COPY returns 0 when the source key does not exist (#404)",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/404"
     },
     {
       "sha": "3018efda8f218796721cc8533afb582770e8d027",
@@ -2484,7 +2596,9 @@
       "repo": "valkey-doc",
       "reviewed": [
         "zuiderkwast"
-      ]
+      ],
+      "message": "Adds documentation for HGETDEL (#389)",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/389"
     },
     {
       "sha": "4ba6ffe42e956e494453e5e089d043d26f3bccc5",
@@ -2504,7 +2618,9 @@
       "repo": "valkey-doc",
       "reviewed": [
         "ranshid"
-      ]
+      ],
+      "message": "Fix typo in HSETEX command documentation (#400)",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/400"
     },
     {
       "sha": "0d9851fda48e8d1bc8badd116ecf887ada3d9389",
@@ -2516,7 +2632,9 @@
       "reviewed": [
         "yairgott",
         "madolson"
-      ]
+      ],
+      "message": "Document SCORE and SORTABLE on FT.CREATE (#394)",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/394"
     },
     {
       "sha": "4c3f1d94d1b1079d3f364852bdcddd3520424e60",
@@ -2527,7 +2645,9 @@
       "repo": "valkey-doc",
       "reviewed": [
         "madolson"
-      ]
+      ],
+      "message": "Update maxclients example in clients.md (#390)",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/390"
     },
     {
       "sha": "38c2c1d3e2c818d853b8c546e7ba827d81db77c5",
@@ -2538,7 +2658,9 @@
       "repo": "valkey-doc",
       "reviewed": [
         "madolson"
-      ]
+      ],
+      "message": "docs: add redlock-universal to distributed locks implementations (#397)",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/397"
     },
     {
       "sha": "de169171f3ef63297099c1c14ef811892bc249cd",
@@ -2549,7 +2671,9 @@
       "repo": "valkey-fuzzer",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "Prevent chaos from breaking primary quorum (#98)",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/98"
     },
     {
       "sha": "1d30951bf72fa7a6787d074490e517327eeef9e0",
@@ -2560,7 +2684,9 @@
       "repo": "valkey-fuzzer",
       "reviewed": [
         "sarthakaggarwal97"
-      ]
+      ],
+      "message": "Bump actions/upload-artifact from 7.0.0 to 7.0.1 (#95)",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/95"
     },
     {
       "sha": "5c6b5a0f1aee2ba493a35ebd9c9032a0fbfab8f7",
@@ -2571,7 +2697,9 @@
       "repo": "valkey-fuzzer",
       "reviewed": [
         "sarthakaggarwal97"
-      ]
+      ],
+      "message": "Bump actions/github-script from 8.0.0 to 9.0.0 (#94)",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/94"
     },
     {
       "sha": "cb422ca5d884698d8ea50e6497d816ed2ddd70bb",
@@ -2582,7 +2710,9 @@
       "repo": "valkey-fuzzer",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "fix: prevent chaos from killing all members of a shard (#88)",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/88"
     },
     {
       "sha": "95fc4224bd5ff9c5f89b0ee8efe1a623c4307236",
@@ -2593,7 +2723,9 @@
       "repo": "valkey-fuzzer",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "Increase fuzzer artifact retention to 60 days",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/91"
     },
     {
       "sha": "e92f5e6acde4c3d57f50ed903af6619ddef37ae2",
@@ -2604,7 +2736,9 @@
       "repo": "valkey-fuzzer",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "Fix false positive replica disconnections when primary is killed (#89)",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/89"
     },
     {
       "sha": "d7cce7b90f67f034eece19ceafa1ed6d40abd1c0",
@@ -2624,7 +2758,9 @@
       "repo": "valkey-fuzzer",
       "reviewed": [
         "sarthakaggarwal97"
-      ]
+      ],
+      "message": "Fixed issues with False Positive Scenarios ",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/82"
     },
     {
       "sha": "fb8653b40b06bf180a4562e57f098d0eba89d017",
@@ -2671,7 +2807,9 @@
       "repo": "valkey-fuzzer",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "Accept PR Link input to simplify workflow_dispatch usage",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/79"
     },
     {
       "sha": "9d4239e3d5d8e9aa9cd60de2691dc91659f741be",
@@ -2691,7 +2829,9 @@
       "repo": "valkey-fuzzer",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "Add PR-triggered fuzzer workflow with strict validation (#68)",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/68"
     },
     {
       "sha": "654cb57b210454c44b1c28d60bd459e13c9c858f",
@@ -2702,7 +2842,9 @@
       "repo": "valkey-fuzzer",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "Upload structured artifacts from fuzzer runs",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/69"
     },
     {
       "sha": "585649ecb236a26f00f5e7501160b9dc99589575",
@@ -2722,7 +2864,9 @@
       "repo": "valkey-fuzzer",
       "reviewed": [
         "sarthakaggarwal97"
-      ]
+      ],
+      "message": "Adding New Workflow to test a PR (#65)",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/65"
     },
     {
       "sha": "1d96545aece25458c25cb04c4073e9a1ef2d9e08",
@@ -2733,7 +2877,9 @@
       "repo": "valkey-fuzzer",
       "reviewed": [
         "sarthakaggarwal97"
-      ]
+      ],
+      "message": "Fixed Logging Errors relating to Cluster Quorum (#63)",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/63"
     },
     {
       "sha": "261bc91c8eef0e57d9e86112b3b7001e61b721c3",
@@ -2754,7 +2900,9 @@
       "reviewed": [
         "jeremyprime",
         "xShinnRyuu"
-      ]
+      ],
+      "message": "chore: Clean up deny.toml (#5820)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5820"
     },
     {
       "sha": "ddb29624d8173b5f7d77e439c00c651932e99ecd",
@@ -2766,7 +2914,9 @@
       "reviewed": [
         "xShinnRyuu",
         "prateek-kumar-improving"
-      ]
+      ],
+      "message": "Fix: Python client side cache test to use anyio (#5818)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5818"
     },
     {
       "sha": "11e9206ae34c12dca475de0bd71e23f6f91910b5",
@@ -2778,7 +2928,9 @@
       "reviewed": [
         "alexr-bq",
         "prateek-kumar-improving"
-      ]
+      ],
+      "message": "JAVA: Client-Side Caching Support (#5172)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5172"
     },
     {
       "sha": "8493f3d761e898c9147ca9e8a56f9c3fb9713300",
@@ -2790,7 +2942,9 @@
       "reviewed": [
         "xShinnRyuu",
         "prateek-kumar-improving"
-      ]
+      ],
+      "message": "Fixed standalone client read strategies behavior. (#5740)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5740"
     },
     {
       "sha": "3e375344c24c31d45eeeb9f521adfe256e3bf429",
@@ -2802,7 +2956,9 @@
       "reviewed": [
         "xShinnRyuu",
         "prateek-kumar-improving"
-      ]
+      ],
+      "message": "Go: Client-Side Caching Support (#5721)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5721"
     },
     {
       "sha": "7b643fb67d5547ddcf5d6bf4eddd6a8c3f29c692",
@@ -2814,7 +2970,9 @@
       "reviewed": [
         "jduo",
         "jamesx-improving"
-      ]
+      ],
+      "message": "Add pipeline send timeout and fail pending requests during recovery (#5755)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5755"
     },
     {
       "sha": "7feb96650275d87cfef68380accfb40e6bfbfef8",
@@ -2826,7 +2984,9 @@
       "reviewed": [
         "jduo",
         "yipin-chen"
-      ]
+      ],
+      "message": "Update Compression Supported Commands and Block Unsupported Commands (#5771)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5771"
     },
     {
       "sha": "6536eb8ed5d0d4d8460e0988d51f4d7ea9f9b432",
@@ -2838,7 +2998,9 @@
       "reviewed": [
         "xShinnRyuu",
         "Aryex"
-      ]
+      ],
+      "message": "fix(java): populate actual lib-ver instead of unknown (#5741)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5741"
     },
     {
       "sha": "71671dae974386ff5d31a127a7d5951bcd7ae5c0",
@@ -2850,7 +3012,9 @@
       "reviewed": [
         "jeremyprime",
         "xShinnRyuu"
-      ]
+      ],
+      "message": "Forward-port to main: Invalidate JNI method cache on callback failure for client recovery (#5666) (#5797)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5797"
     },
     {
       "sha": "a931079f49c68cf28f41b57a93bc170b53c5adc8",
@@ -2861,7 +3025,9 @@
       "repo": "valkey-glide",
       "reviewed": [
         "ikolomi"
-      ]
+      ],
+      "message": "Core/Python: add initial client-side-caching support (#5127)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5127"
     },
     {
       "sha": "412039d18d86e59c226991bf35276743569e2c90",
@@ -2873,7 +3039,9 @@
       "reviewed": [
         "jamesx-improving",
         "jeremyprime"
-      ]
+      ],
+      "message": "Cherry pick/java cd deployment fixes to main (#5787)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5787"
     },
     {
       "sha": "7252af4c75f87d169b6e5ed0fcfda7ed2a9a5fca",
@@ -2885,7 +3053,9 @@
       "reviewed": [
         "xShinnRyuu",
         "Aryex"
-      ]
+      ],
+      "message": "Add context manager support to clients (#5693)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5693"
     },
     {
       "sha": "b72ebd1fce644df5b3ea669ec8faabf482d2f5ff",
@@ -2897,7 +3067,9 @@
       "reviewed": [
         "prateek-kumar-improving",
         "xShinnRyuu"
-      ]
+      ],
+      "message": "feat(java): Add support for cluster management and node management commands (#5503)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5503"
     },
     {
       "sha": "7d3579ceabd86ea9c5602fe2584801d579309ac8",
@@ -2909,7 +3081,9 @@
       "reviewed": [
         "xShinnRyuu",
         "jeremyprime"
-      ]
+      ],
+      "message": "Bump isort from 6.0.1 to 6.1.0 in /python (#4978)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4978"
     },
     {
       "sha": "e1a7c8ec38dbb622b35bca302478eb9f0141fdce",
@@ -2921,7 +3095,9 @@
       "reviewed": [
         "jeremyprime",
         "xShinnRyuu"
-      ]
+      ],
+      "message": "Bump the minor-updates group across 1 directory with 2 updates (#5088)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5088"
     },
     {
       "sha": "f2a6b74cc3794346a8248652f2d7dd62ec978cf6",
@@ -2933,7 +3109,9 @@
       "reviewed": [
         "jeremyprime",
         "xShinnRyuu"
-      ]
+      ],
+      "message": "build(deps): update criterion requirement from ^0.6 to ^0.8 in /glide-core (#5671)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5671"
     },
     {
       "sha": "655f28790bd8c25e51c1691aa253c8d1221e0746",
@@ -2945,7 +3123,9 @@
       "reviewed": [
         "xShinnRyuu",
         "jeremyprime"
-      ]
+      ],
+      "message": "Bump eslint-plugin-jsdoc from 57.2.1 to 62.5.5 (#5374)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5374"
     },
     {
       "sha": "75660eeeae787a59fa1d88191d26a21eb3e73ea0",
@@ -2957,7 +3137,9 @@
       "reviewed": [
         "jeremyprime",
         "xShinnRyuu"
-      ]
+      ],
+      "message": "build(deps): bump the patch-updates group across 1 directory with 2 updates (#5736)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5736"
     },
     {
       "sha": "0c9c9fd24bcb1cd846c8ed375b9015dbbff9b531",
@@ -2969,7 +3151,9 @@
       "reviewed": [
         "jeremyprime",
         "xShinnRyuu"
-      ]
+      ],
+      "message": "build(deps): update ctor requirement from 0.5 to 0.10 in /glide-core (#5738)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5738"
     },
     {
       "sha": "d6f9dcaf120f0f1fd6c73729df31627f9196aef7",
@@ -2981,7 +3165,9 @@
       "reviewed": [
         "jeremyprime",
         "xShinnRyuu"
-      ]
+      ],
+      "message": "CI: Switch Modules Test to Self-hosted Valkey Bundle Server (#5661)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5661"
     },
     {
       "sha": "d988e0fb02e093cdcf3430927868a1c924f251fb",
@@ -3020,7 +3206,9 @@
       "reviewed": [
         "xShinnRyuu",
         "alexr-bq"
-      ]
+      ],
+      "message": "Fix broken language tab references in docs URLs (#341)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/341"
     },
     {
       "sha": "bbb58220edf65dcf6ed5042c6867e5535592bcb5",
@@ -3032,7 +3220,9 @@
       "reviewed": [
         "xShinnRyuu",
         "yipin-chen"
-      ]
+      ],
+      "message": "Cherry-pick `release-1.0` changes into `main` (#339)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/339"
     },
     {
       "sha": "d6f1f8269368bc54cfc9ac5db2c4b3b7da494f3b",
@@ -3044,7 +3234,9 @@
       "reviewed": [
         "currantw",
         "alexr-bq"
-      ]
+      ],
+      "message": "Update ORT workflow to use `peter-evans/create-pull-request` (#327)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/327"
     },
     {
       "sha": "5245c559ed51f2f4913219d8159273cb168028dc",
@@ -3056,7 +3248,9 @@
       "reviewed": [
         "xShinnRyuu",
         "alexr-bq"
-      ]
+      ],
+      "message": "Add GitHub issue templates and label scheme (#338)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/338"
     },
     {
       "sha": "9fc28546557dd9e5deaf633b790e1d4e028dd77e",
@@ -3068,7 +3262,9 @@
       "reviewed": [
         "currantw",
         "xShinnRyuu"
-      ]
+      ],
+      "message": "chore(deps): bump dawidd6/action-download-artifact from 19 to 20 (#273)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/273"
     },
     {
       "sha": "61fa078bfd53000d0e318377329b3f5e5b0fd1ba",
@@ -3080,7 +3276,9 @@
       "reviewed": [
         "currantw",
         "xShinnRyuu"
-      ]
+      ],
+      "message": "chore(deps): bump lycheeverse/lychee-action from 2.7.0 to 2.8.0 in the minor-updates group across 1 directory (#272)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/272"
     },
     {
       "sha": "154344176e078356852fb66fc7922581b0611d6f",
@@ -3092,7 +3290,9 @@
       "reviewed": [
         "currantw",
         "xShinnRyuu"
-      ]
+      ],
+      "message": "Bump coverlet.collector from 8.0.1 to 10.0.0 (#335)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/335"
     },
     {
       "sha": "e8f0a82c0b931a4ca4f0e84f8ff1336db5b6080e",
@@ -7505,6 +7705,36 @@
       "date": "2026-03-15T05:27:01Z",
       "repo": "verify-provenance",
       "reviewed": false
+    },
+    {
+      "sha": "a5017885dda7a99f769cd83edd9d014d151a762e",
+      "author_login": "jamesx-improving",
+      "author_id": 126831592,
+      "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
+      "message": "Add replica discovery and static mode for standalone servers (#5724)",
+      "date": "2026-04-25T13:31:18Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        "jeremyprime",
+        "jduo"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5724"
+    },
+    {
+      "sha": "4d96e827987de27e59a2212936b6f0f0018411ae",
+      "author_login": "affonsov",
+      "author_id": 67347924,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
+      "message": "Node: Client-Side Caching Support (#5720)",
+      "date": "2026-04-25T04:38:34Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        "prateek-kumar-improving",
+        "alexr-bq",
+        "xShinnRyuu",
+        "jamesx-improving"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5720"
     }
   ]
 }

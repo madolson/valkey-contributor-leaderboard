@@ -53,18 +53,18 @@
     },
     {
       "sha": "a43e0013d4",
-      "message": "a43e0013d4",
+      "message": "Add a Dependabot config to update GitHub actions (#134)",
       "date": "2026-03-20",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/134",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/a43e0013d4a4a46bb3a9d27c2e0a6e5d180ed111"
     },
     {
       "sha": "4427f7bc12",
-      "message": "4427f7bc12",
+      "message": "Resolve Node 20 deprecation warnings due to outdated actions (#133)",
       "date": "2026-03-16",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/133",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/4427f7bc12ad594ab13a49543a4ba50373509a96"
     }
   ],

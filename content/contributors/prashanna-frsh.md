@@ -12,10 +12,10 @@
   "commit_list": [
     {
       "sha": "b72ebd1fce",
-      "message": "b72ebd1fce",
+      "message": "feat(java): Add support for cluster management and node management commands (#5503)",
       "date": "2026-04-20",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5503",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b72ebd1fce644df5b3ea669ec8faabf482d2f5ff"
     }
   ],

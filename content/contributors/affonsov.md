@@ -3,8 +3,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 18,
-  "commit_count": 8,
+  "score": 19,
+  "commit_count": 9,
   "review_count": 10,
   "repos": [
     "valkey-glide",
@@ -14,19 +14,27 @@
   ],
   "commit_list": [
     {
+      "sha": "4d96e82798",
+      "message": "Node: Client-Side Caching Support (#5720)",
+      "date": "2026-04-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5720",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4d96e827987de27e59a2212936b6f0f0018411ae"
+    },
+    {
       "sha": "11e9206ae3",
-      "message": "11e9206ae3",
+      "message": "JAVA: Client-Side Caching Support (#5172)",
       "date": "2026-04-24",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5172",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/11e9206ae34c12dca475de0bd71e23f6f91910b5"
     },
     {
       "sha": "3e375344c2",
-      "message": "3e375344c2",
+      "message": "Go: Client-Side Caching Support (#5721)",
       "date": "2026-04-24",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5721",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3e375344c24c31d45eeeb9f521adfe256e3bf429"
     },
     {

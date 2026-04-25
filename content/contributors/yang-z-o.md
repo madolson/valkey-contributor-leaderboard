@@ -21,10 +21,10 @@
     },
     {
       "sha": "ab0d320ef7",
-      "message": "ab0d320ef7",
+      "message": "Refine TLS and ACL docs for mTLS authentication (#418)",
       "date": "2026-03-10",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/418",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/ab0d320ef7e9abfe49df73bd87b1e1ee231c22f5"
     }
   ],

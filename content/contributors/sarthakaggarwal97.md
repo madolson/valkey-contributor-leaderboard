@@ -38,10 +38,10 @@
     },
     {
       "sha": "de169171f3",
-      "message": "de169171f3",
+      "message": "Prevent chaos from breaking primary quorum (#98)",
       "date": "2026-04-21",
       "repo": "valkey-fuzzer",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/98",
       "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/de169171f3ef63297099c1c14ef811892bc249cd"
     },
     {
@@ -54,50 +54,50 @@
     },
     {
       "sha": "cb422ca5d8",
-      "message": "cb422ca5d8",
+      "message": "fix: prevent chaos from killing all members of a shard (#88)",
       "date": "2026-04-09",
       "repo": "valkey-fuzzer",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/88",
       "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/cb422ca5d884698d8ea50e6497d816ed2ddd70bb"
     },
     {
       "sha": "95fc4224bd",
-      "message": "95fc4224bd",
+      "message": "Increase fuzzer artifact retention to 60 days",
       "date": "2026-04-09",
       "repo": "valkey-fuzzer",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/91",
       "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/95fc4224bd5ff9c5f89b0ee8efe1a623c4307236"
     },
     {
       "sha": "e92f5e6acd",
-      "message": "e92f5e6acd",
+      "message": "Fix false positive replica disconnections when primary is killed (#89)",
       "date": "2026-04-09",
       "repo": "valkey-fuzzer",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/89",
       "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/e92f5e6acde4c3d57f50ed903af6619ddef37ae2"
     },
     {
       "sha": "7546f90a25",
-      "message": "7546f90a25",
+      "message": "Accept PR Link input to simplify workflow_dispatch usage",
       "date": "2026-03-18",
       "repo": "valkey-fuzzer",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/79",
       "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/7546f90a250686570308e0d67c1f7d52e93d71e8"
     },
     {
       "sha": "1fdda283c7",
-      "message": "1fdda283c7",
+      "message": "Add PR-triggered fuzzer workflow with strict validation (#68)",
       "date": "2026-03-14",
       "repo": "valkey-fuzzer",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/68",
       "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/1fdda283c77839271a82653d0cb95dc2f3a6d7f9"
     },
     {
       "sha": "654cb57b21",
-      "message": "654cb57b21",
+      "message": "Upload structured artifacts from fuzzer runs",
       "date": "2026-03-12",
       "repo": "valkey-fuzzer",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/69",
       "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/654cb57b210454c44b1c28d60bd459e13c9c858f"
     },
     {
@@ -184,18 +184,18 @@
     },
     {
       "sha": "1d30951bf7",
-      "message": "1d30951bf7",
+      "message": "Bump actions/upload-artifact from 7.0.0 to 7.0.1 (#95)",
       "date": "2026-04-15",
       "repo": "valkey-fuzzer",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/95",
       "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/1d30951bf72fa7a6787d074490e517327eeef9e0"
     },
     {
       "sha": "5c6b5a0f1a",
-      "message": "5c6b5a0f1a",
+      "message": "Bump actions/github-script from 8.0.0 to 9.0.0 (#94)",
       "date": "2026-04-15",
       "repo": "valkey-fuzzer",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/94",
       "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/5c6b5a0f1aee2ba493a35ebd9c9032a0fbfab8f7"
     },
     {
@@ -216,18 +216,18 @@
     },
     {
       "sha": "f66af1c969",
-      "message": "f66af1c969",
+      "message": "Fix permission denied with --user flag (#132)",
       "date": "2026-04-02",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/132",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/f66af1c969bc940b034c2f45eee33446c73a3f31"
     },
     {
       "sha": "15a43e8fc0",
-      "message": "15a43e8fc0",
+      "message": "Fixed issues with False Positive Scenarios ",
       "date": "2026-03-20",
       "repo": "valkey-fuzzer",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/82",
       "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/15a43e8fc0b7acb1e02736e44a39b905f762c619"
     },
     {
@@ -256,42 +256,42 @@
     },
     {
       "sha": "61ee01e1e5",
-      "message": "61ee01e1e5",
+      "message": "updated docker-entrypoint.sh (#119)",
       "date": "2026-02-26",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/119",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/61ee01e1e54d2f538ec2dda52634d845544eb0db"
     },
     {
       "sha": "81aa06fb83",
-      "message": "81aa06fb83",
+      "message": "Adding New Workflow to test a PR (#65)",
       "date": "2026-02-23",
       "repo": "valkey-fuzzer",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/65",
       "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/81aa06fb83dc8df050bd0c8aa79be582b9fce2b6"
     },
     {
       "sha": "1d96545aec",
-      "message": "1d96545aec",
+      "message": "Fixed Logging Errors relating to Cluster Quorum (#63)",
       "date": "2026-02-16",
       "repo": "valkey-fuzzer",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/63",
       "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/1d96545aece25458c25cb04c4073e9a1ef2d9e08"
     },
     {
       "sha": "07e71ac539",
-      "message": "07e71ac539",
+      "message": "Apply CVE fix for alpine versions in 8.0, 7.2 and unstable (#120)",
       "date": "2026-02-04",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/120",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/07e71ac5395338df3944a0a75df5a571835c4fe9"
     },
     {
       "sha": "ff39ed875a",
-      "message": "ff39ed875a",
+      "message": "Remove bashbrew (#122)",
       "date": "2026-02-04",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/122",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/ff39ed875a507d96d902a23286bfe0dbc9aefde8"
     },
     {

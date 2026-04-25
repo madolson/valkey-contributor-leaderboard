@@ -29,10 +29,10 @@
     },
     {
       "sha": "d6f9dcaf12",
-      "message": "d6f9dcaf12",
+      "message": "CI: Switch Modules Test to Self-hosted Valkey Bundle Server (#5661)",
       "date": "2026-04-17",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5661",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d6f9dcaf120f0f1fd6c73729df31627f9196aef7"
     }
   ],

@@ -39,10 +39,10 @@
     },
     {
       "sha": "223d780d23",
-      "message": "223d780d23",
+      "message": "Spelling (#68)",
       "date": "2025-06-19",
       "repo": "valkey-bloom",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/68",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/223d780d23b76e7ddfadf800471a1d9b191bca3f"
     }
   ],

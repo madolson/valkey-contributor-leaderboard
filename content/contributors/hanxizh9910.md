@@ -40,10 +40,10 @@
     },
     {
       "sha": "ba2cb1f188",
-      "message": "ba2cb1f188",
+      "message": "Add automatic tag creation after merge (#398)",
       "date": "2026-02-17",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/398",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/ba2cb1f188a1d15f849f256e78d050dddb64c4f8"
     },
     {
@@ -56,10 +56,10 @@
     },
     {
       "sha": "19dd8ea741",
-      "message": "19dd8ea741",
+      "message": "Fix PUBLISH_IMAGE condition check in CI workflow (#116)",
       "date": "2026-01-27",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/116",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/19dd8ea741f58c85ba90e2b0c070c8a99d60a33f"
     },
     {
@@ -72,10 +72,10 @@
     },
     {
       "sha": "78ceeb3889",
-      "message": "78ceeb3889",
+      "message": "Add ECR description automation and refactor template generation (#112)",
       "date": "2026-01-06",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/112",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/78ceeb3889120e33578ba57da839f6482f7796f3"
     },
     {

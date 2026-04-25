@@ -55,50 +55,50 @@
     },
     {
       "sha": "402ff9ca3c",
-      "message": "402ff9ca3c",
+      "message": "Update versions.json and Dockerfiles for version 9.1.0-rc1 (#135)",
       "date": "2026-03-17",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/135",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/402ff9ca3c58ebc1efbfaf9ef87ad5bd5e6a28fb"
     },
     {
       "sha": "a386a4df36",
-      "message": "a386a4df36",
+      "message": "Update versions.json and Dockerfiles for version 7.2.12 (#125)",
       "date": "2026-02-24",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/125",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/a386a4df36eeaf5ce7a78f79b455d2e4d6ea0757"
     },
     {
       "sha": "d1005c1b90",
-      "message": "d1005c1b90",
+      "message": "Update versions.json and Dockerfiles for version 8.0.7 (#126)",
       "date": "2026-02-24",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/126",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/d1005c1b90ca615e19a180bde23a07643801f7f8"
     },
     {
       "sha": "63d3c45eab",
-      "message": "63d3c45eab",
+      "message": "Update versions.json and Dockerfiles for version 8.1.6 (#127)",
       "date": "2026-02-24",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/127",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/63d3c45eab8f89b8dbb86e0e98efe8f5c0b42cc7"
     },
     {
       "sha": "ca08e348c9",
-      "message": "ca08e348c9",
+      "message": "Update versions.json and Dockerfiles for version 9.0.3 (#128)",
       "date": "2026-02-24",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/128",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/ca08e348c92f3841db3009435e96f684bee1d311"
     },
     {
       "sha": "6f90d74bd7",
-      "message": "6f90d74bd7",
+      "message": "Update to version 9.0.2 (#121)",
       "date": "2026-02-03",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/121",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/6f90d74bd7111d02e2de6a1e8c2362e9390700a8"
     }
   ],
@@ -185,66 +185,66 @@
     },
     {
       "sha": "c006026043",
-      "message": "c006026043",
+      "message": "Documentation changes for CLUSTERSCAN (#417)",
       "date": "2026-03-15",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/417",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/c0060260432a6a700482c33fd2cfa036df42b1a5"
     },
     {
       "sha": "1d636e4901",
-      "message": "1d636e4901",
+      "message": "Update README.md (#421)",
       "date": "2026-03-12",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/421",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/1d636e4901afe008245559e6c2f52a33b2fe0bbf"
     },
     {
       "sha": "a59b1feb49",
-      "message": "a59b1feb49",
+      "message": "Add new INFO field mem_total_replication_buffers and new replicas.repl.buffer MEMORY STATS field (#416)",
       "date": "2026-03-03",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/416",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/a59b1feb49013b0ddfe0ce04c8921bd4fc775277"
     },
     {
       "sha": "f0567c1b9f",
-      "message": "f0567c1b9f",
+      "message": "Swift client v1.0 (#415)",
       "date": "2026-02-24",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/415",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/f0567c1b9f2027aa37c9104e2447434d7f3fd4c0"
     },
     {
       "sha": "ba2cb1f188",
-      "message": "ba2cb1f188",
+      "message": "Add automatic tag creation after merge (#398)",
       "date": "2026-02-17",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/398",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/ba2cb1f188a1d15f849f256e78d050dddb64c4f8"
     },
     {
       "sha": "0d9851fda4",
-      "message": "0d9851fda4",
+      "message": "Document SCORE and SORTABLE on FT.CREATE (#394)",
       "date": "2026-01-06",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/394",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/0d9851fda48e8d1bc8badd116ecf887ada3d9389"
     },
     {
       "sha": "4c3f1d94d1",
-      "message": "4c3f1d94d1",
+      "message": "Update maxclients example in clients.md (#390)",
       "date": "2026-01-05",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/390",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/4c3f1d94d1b1079d3f364852bdcddd3520424e60"
     },
     {
       "sha": "38c2c1d3e2",
-      "message": "38c2c1d3e2",
+      "message": "docs: add redlock-universal to distributed locks implementations (#397)",
       "date": "2026-01-03",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/397",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/38c2c1d3e2c818d853b8c546e7ba827d81db77c5"
     },
     {

@@ -13,18 +13,18 @@
   "commit_list": [
     {
       "sha": "ddb29624d8",
-      "message": "ddb29624d8",
+      "message": "Fix: Python client side cache test to use anyio (#5818)",
       "date": "2026-04-24",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5818",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ddb29624d8173b5f7d77e439c00c651932e99ecd"
     },
     {
       "sha": "8493f3d761",
-      "message": "8493f3d761",
+      "message": "Fixed standalone client read strategies behavior. (#5740)",
       "date": "2026-04-24",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5740",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8493f3d761e898c9147ca9e8a56f9c3fb9713300"
     },
     {
@@ -87,18 +87,18 @@
   "review_list": [
     {
       "sha": "6536eb8ed5",
-      "message": "6536eb8ed5",
+      "message": "fix(java): populate actual lib-ver instead of unknown (#5741)",
       "date": "2026-04-22",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5741",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6536eb8ed5d0d4d8460e0988d51f4d7ea9f9b432"
     },
     {
       "sha": "7252af4c75",
-      "message": "7252af4c75",
+      "message": "Add context manager support to clients (#5693)",
       "date": "2026-04-20",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5693",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7252af4c75f87d169b6e5ed0fcfda7ed2a9a5fca"
     },
     {

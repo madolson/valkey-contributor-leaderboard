@@ -11,18 +11,18 @@
   "review_list": [
     {
       "sha": "7feb966502",
-      "message": "7feb966502",
+      "message": "Update Compression Supported Commands and Block Unsupported Commands (#5771)",
       "date": "2026-04-22",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5771",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7feb96650275d87cfef68380accfb40e6bfbfef8"
     },
     {
       "sha": "bbb58220ed",
-      "message": "bbb58220ed",
+      "message": "Cherry-pick `release-1.0` changes into `main` (#339)",
       "date": "2026-04-22",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/339",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/bbb58220edf65dcf6ed5042c6867e5535592bcb5"
     },
     {

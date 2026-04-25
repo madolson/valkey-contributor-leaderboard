@@ -12,10 +12,10 @@
   "commit_list": [
     {
       "sha": "1d636e4901",
-      "message": "1d636e4901",
+      "message": "Update README.md (#421)",
       "date": "2026-03-12",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/421",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/1d636e4901afe008245559e6c2f52a33b2fe0bbf"
     }
   ],

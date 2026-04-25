@@ -12,10 +12,10 @@
   "commit_list": [
     {
       "sha": "c006026043",
-      "message": "c006026043",
+      "message": "Documentation changes for CLUSTERSCAN (#417)",
       "date": "2026-03-15",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/417",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/c0060260432a6a700482c33fd2cfa036df42b1a5"
     }
   ],

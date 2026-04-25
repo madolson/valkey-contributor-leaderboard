@@ -3,9 +3,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 35,
+  "score": 36,
   "commit_count": 7,
-  "review_count": 28,
+  "review_count": 29,
   "repos": [
     "spring-data-valkey",
     "valkey-glide"
@@ -13,10 +13,10 @@
   "commit_list": [
     {
       "sha": "7b643fb67d",
-      "message": "7b643fb67d",
+      "message": "Add pipeline send timeout and fail pending requests during recovery (#5755)",
       "date": "2026-04-23",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5755",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7b643fb67d5547ddcf5d6bf4eddd6a8c3f29c692"
     },
     {
@@ -70,35 +70,43 @@
   ],
   "review_list": [
     {
+      "sha": "a5017885dd",
+      "message": "Add replica discovery and static mode for standalone servers (#5724)",
+      "date": "2026-04-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5724",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a5017885dda7a99f769cd83edd9d014d151a762e"
+    },
+    {
       "sha": "53b84ab614",
-      "message": "53b84ab614",
+      "message": "chore: Clean up deny.toml (#5820)",
       "date": "2026-04-24",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5820",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/53b84ab614810e7c68dbaab9b31357005974a27a"
     },
     {
       "sha": "71671dae97",
-      "message": "71671dae97",
+      "message": "Forward-port to main: Invalidate JNI method cache on callback failure for client recovery (#5666) (#5797)",
       "date": "2026-04-21",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5797",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/71671dae974386ff5d31a127a7d5951bcd7ae5c0"
     },
     {
       "sha": "412039d18d",
-      "message": "412039d18d",
+      "message": "Cherry pick/java cd deployment fixes to main (#5787)",
       "date": "2026-04-20",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5787",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/412039d18d86e59c226991bf35276743569e2c90"
     },
     {
       "sha": "7d3579ceab",
-      "message": "7d3579ceab",
+      "message": "Bump isort from 6.0.1 to 6.1.0 in /python (#4978)",
       "date": "2026-04-20",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4978",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7d3579ceabd86ea9c5602fe2584801d579309ac8"
     },
     {
@@ -111,50 +119,50 @@
     },
     {
       "sha": "e1a7c8ec38",
-      "message": "e1a7c8ec38",
+      "message": "Bump the minor-updates group across 1 directory with 2 updates (#5088)",
       "date": "2026-04-17",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5088",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e1a7c8ec38dbb622b35bca302478eb9f0141fdce"
     },
     {
       "sha": "f2a6b74cc3",
-      "message": "f2a6b74cc3",
+      "message": "build(deps): update criterion requirement from ^0.6 to ^0.8 in /glide-core (#5671)",
       "date": "2026-04-17",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5671",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f2a6b74cc3794346a8248652f2d7dd62ec978cf6"
     },
     {
       "sha": "655f28790b",
-      "message": "655f28790b",
+      "message": "Bump eslint-plugin-jsdoc from 57.2.1 to 62.5.5 (#5374)",
       "date": "2026-04-17",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5374",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/655f28790bd8c25e51c1691aa253c8d1221e0746"
     },
     {
       "sha": "75660eeeae",
-      "message": "75660eeeae",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 2 updates (#5736)",
       "date": "2026-04-17",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5736",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/75660eeeae787a59fa1d88191d26a21eb3e73ea0"
     },
     {
       "sha": "0c9c9fd24b",
-      "message": "0c9c9fd24b",
+      "message": "build(deps): update ctor requirement from 0.5 to 0.10 in /glide-core (#5738)",
       "date": "2026-04-17",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5738",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0c9c9fd24bcb1cd846c8ed375b9015dbbff9b531"
     },
     {
       "sha": "d6f9dcaf12",
-      "message": "d6f9dcaf12",
+      "message": "CI: Switch Modules Test to Self-hosted Valkey Bundle Server (#5661)",
       "date": "2026-04-17",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5661",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d6f9dcaf120f0f1fd6c73729df31627f9196aef7"
     },
     {

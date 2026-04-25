@@ -117,18 +117,18 @@
     },
     {
       "sha": "f0567c1b9f",
-      "message": "f0567c1b9f",
+      "message": "Swift client v1.0 (#415)",
       "date": "2026-02-24",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/415",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/f0567c1b9f2027aa37c9104e2447434d7f3fd4c0"
     },
     {
       "sha": "e30efee802",
-      "message": "e30efee802",
+      "message": "Cluster shard documentation fix for fail health status (#408)",
       "date": "2026-02-15",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/408",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/e30efee80204960b68669482cec5bd6c71ea79ed"
     }
   ],

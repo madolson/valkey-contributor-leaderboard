@@ -19,74 +19,74 @@
   "commit_list": [
     {
       "sha": "7d3579ceab",
-      "message": "7d3579ceab",
+      "message": "Bump isort from 6.0.1 to 6.1.0 in /python (#4978)",
       "date": "2026-04-20",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4978",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7d3579ceabd86ea9c5602fe2584801d579309ac8"
     },
     {
       "sha": "9fc2854655",
-      "message": "9fc2854655",
+      "message": "chore(deps): bump dawidd6/action-download-artifact from 19 to 20 (#273)",
       "date": "2026-04-20",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/273",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/9fc28546557dd9e5deaf633b790e1d4e028dd77e"
     },
     {
       "sha": "61fa078bfd",
-      "message": "61fa078bfd",
+      "message": "chore(deps): bump lycheeverse/lychee-action from 2.7.0 to 2.8.0 in the minor-updates group across 1 directory (#272)",
       "date": "2026-04-20",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/272",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/61fa078bfd53000d0e318377329b3f5e5b0fd1ba"
     },
     {
       "sha": "154344176e",
-      "message": "154344176e",
+      "message": "Bump coverlet.collector from 8.0.1 to 10.0.0 (#335)",
       "date": "2026-04-20",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/335",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/154344176e078356852fb66fc7922581b0611d6f"
     },
     {
       "sha": "e1a7c8ec38",
-      "message": "e1a7c8ec38",
+      "message": "Bump the minor-updates group across 1 directory with 2 updates (#5088)",
       "date": "2026-04-17",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5088",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e1a7c8ec38dbb622b35bca302478eb9f0141fdce"
     },
     {
       "sha": "f2a6b74cc3",
-      "message": "f2a6b74cc3",
+      "message": "build(deps): update criterion requirement from ^0.6 to ^0.8 in /glide-core (#5671)",
       "date": "2026-04-17",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5671",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f2a6b74cc3794346a8248652f2d7dd62ec978cf6"
     },
     {
       "sha": "655f28790b",
-      "message": "655f28790b",
+      "message": "Bump eslint-plugin-jsdoc from 57.2.1 to 62.5.5 (#5374)",
       "date": "2026-04-17",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5374",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/655f28790bd8c25e51c1691aa253c8d1221e0746"
     },
     {
       "sha": "75660eeeae",
-      "message": "75660eeeae",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 2 updates (#5736)",
       "date": "2026-04-17",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5736",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/75660eeeae787a59fa1d88191d26a21eb3e73ea0"
     },
     {
       "sha": "0c9c9fd24b",
-      "message": "0c9c9fd24b",
+      "message": "build(deps): update ctor requirement from 0.5 to 0.10 in /glide-core (#5738)",
       "date": "2026-04-17",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5738",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0c9c9fd24bcb1cd846c8ed375b9015dbbff9b531"
     },
     {
@@ -99,18 +99,18 @@
     },
     {
       "sha": "1d30951bf7",
-      "message": "1d30951bf7",
+      "message": "Bump actions/upload-artifact from 7.0.0 to 7.0.1 (#95)",
       "date": "2026-04-15",
       "repo": "valkey-fuzzer",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/95",
       "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/1d30951bf72fa7a6787d074490e517327eeef9e0"
     },
     {
       "sha": "5c6b5a0f1a",
-      "message": "5c6b5a0f1a",
+      "message": "Bump actions/github-script from 8.0.0 to 9.0.0 (#94)",
       "date": "2026-04-15",
       "repo": "valkey-fuzzer",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/94",
       "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/5c6b5a0f1aee2ba493a35ebd9c9032a0fbfab8f7"
     },
     {
@@ -163,10 +163,10 @@
     },
     {
       "sha": "d9cbfb948c",
-      "message": "d9cbfb948c",
+      "message": "Bump the github-actions group with 2 updates (#137)",
       "date": "2026-04-01",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/137",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/d9cbfb948cee3dfa9a0c72ba68bc71b79ea1f2ac"
     },
     {

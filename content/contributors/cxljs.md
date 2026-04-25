@@ -12,10 +12,10 @@
   "commit_list": [
     {
       "sha": "d9998e8ce7",
-      "message": "d9998e8ce7",
+      "message": "update build.sh to ensure POSIX compliance for dash shell (#73)",
       "date": "2025-12-16",
       "repo": "valkey-bloom",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/73",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/d9998e8ce7236bbffe35f8ac24591eb620057997"
     }
   ],

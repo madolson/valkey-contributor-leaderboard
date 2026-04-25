@@ -38,10 +38,10 @@
     },
     {
       "sha": "8e462d4ae2",
-      "message": "8e462d4ae2",
+      "message": "Fix typo in HSETEX command documentation (#400)",
       "date": "2026-01-20",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/400",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/8e462d4ae2fbc61e3222e21b93a32a1a15691fb9"
     },
     {

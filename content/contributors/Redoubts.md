@@ -12,10 +12,10 @@
   "commit_list": [
     {
       "sha": "7252af4c75",
-      "message": "7252af4c75",
+      "message": "Add context manager support to clients (#5693)",
       "date": "2026-04-20",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5693",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7252af4c75f87d169b6e5ed0fcfda7ed2a9a5fca"
     }
   ],

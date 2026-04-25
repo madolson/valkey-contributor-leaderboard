@@ -3,9 +3,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 12,
+  "score": 13,
   "commit_count": 2,
-  "review_count": 10,
+  "review_count": 11,
   "repos": [
     "valkey-glide-csharp",
     "valkey-glide-php"
@@ -30,6 +30,14 @@
   ],
   "review_list": [
     {
+      "sha": "a5017885dd",
+      "message": "Add replica discovery and static mode for standalone servers (#5724)",
+      "date": "2026-04-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5724",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a5017885dda7a99f769cd83edd9d014d151a762e"
+    },
+    {
       "sha": "493fb83677",
       "message": "493fb83677",
       "date": "2026-04-24",
@@ -39,18 +47,18 @@
     },
     {
       "sha": "7b643fb67d",
-      "message": "7b643fb67d",
+      "message": "Add pipeline send timeout and fail pending requests during recovery (#5755)",
       "date": "2026-04-23",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5755",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7b643fb67d5547ddcf5d6bf4eddd6a8c3f29c692"
     },
     {
       "sha": "7feb966502",
-      "message": "7feb966502",
+      "message": "Update Compression Supported Commands and Block Unsupported Commands (#5771)",
       "date": "2026-04-22",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5771",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7feb96650275d87cfef68380accfb40e6bfbfef8"
     },
     {

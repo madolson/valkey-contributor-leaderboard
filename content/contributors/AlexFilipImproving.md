@@ -13,10 +13,10 @@
   "commit_list": [
     {
       "sha": "0d9851fda4",
-      "message": "0d9851fda4",
+      "message": "Document SCORE and SORTABLE on FT.CREATE (#394)",
       "date": "2026-01-06",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/394",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/0d9851fda48e8d1bc8badd116ecf887ada3d9389"
     },
     {

@@ -15,34 +15,34 @@
   "commit_list": [
     {
       "sha": "53b84ab614",
-      "message": "53b84ab614",
+      "message": "chore: Clean up deny.toml (#5820)",
       "date": "2026-04-24",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5820",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/53b84ab614810e7c68dbaab9b31357005974a27a"
     },
     {
       "sha": "c07e4cc73c",
-      "message": "c07e4cc73c",
+      "message": "Fix broken language tab references in docs URLs (#341)",
       "date": "2026-04-22",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/341",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/c07e4cc73c3e20523d21d41c49a190677314420a"
     },
     {
       "sha": "bbb58220ed",
-      "message": "bbb58220ed",
+      "message": "Cherry-pick `release-1.0` changes into `main` (#339)",
       "date": "2026-04-22",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/339",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/bbb58220edf65dcf6ed5042c6867e5535592bcb5"
     },
     {
       "sha": "5245c559ed",
-      "message": "5245c559ed",
+      "message": "Add GitHub issue templates and label scheme (#338)",
       "date": "2026-04-21",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/338",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5245c559ed51f2f4913219d8159273cb168028dc"
     },
     {
@@ -129,34 +129,34 @@
   "review_list": [
     {
       "sha": "d6f1f82693",
-      "message": "d6f1f82693",
+      "message": "Update ORT workflow to use `peter-evans/create-pull-request` (#327)",
       "date": "2026-04-22",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/327",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d6f1f8269368bc54cfc9ac5db2c4b3b7da494f3b"
     },
     {
       "sha": "9fc2854655",
-      "message": "9fc2854655",
+      "message": "chore(deps): bump dawidd6/action-download-artifact from 19 to 20 (#273)",
       "date": "2026-04-20",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/273",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/9fc28546557dd9e5deaf633b790e1d4e028dd77e"
     },
     {
       "sha": "61fa078bfd",
-      "message": "61fa078bfd",
+      "message": "chore(deps): bump lycheeverse/lychee-action from 2.7.0 to 2.8.0 in the minor-updates group across 1 directory (#272)",
       "date": "2026-04-20",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/272",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/61fa078bfd53000d0e318377329b3f5e5b0fd1ba"
     },
     {
       "sha": "154344176e",
-      "message": "154344176e",
+      "message": "Bump coverlet.collector from 8.0.1 to 10.0.0 (#335)",
       "date": "2026-04-20",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/335",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/154344176e078356852fb66fc7922581b0611d6f"
     },
     {

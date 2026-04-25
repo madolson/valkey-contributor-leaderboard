@@ -46,10 +46,10 @@
     },
     {
       "sha": "c97e0c6da0",
-      "message": "c97e0c6da0",
+      "message": "Adding Bloom command JSON files (#47)",
       "date": "2025-03-29",
       "repo": "valkey-bloom",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/47",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/c97e0c6da096318eb14b70aa872d3ed748e571a4"
     },
     {

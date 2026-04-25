@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-25T01:40:33Z",
+  "generated": "2026-04-25T21:38:28Z",
   "contributors": [
     {
       "login": "roshkhatri",
@@ -85,12 +85,12 @@
       "id": 94406158,
       "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
       "commits": 7,
-      "reviews": 28,
+      "reviews": 29,
       "repos": [
         "spring-data-valkey",
         "valkey-glide"
       ],
-      "score": 35
+      "score": 36
     },
     {
       "login": "dependabot[bot]",
@@ -115,24 +115,24 @@
       "id": 54688146,
       "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
       "commits": 3,
-      "reviews": 28,
+      "reviews": 29,
       "repos": [
         "valkey-glide",
         "valkey-glide-csharp"
       ],
-      "score": 31
+      "score": 32
     },
     {
       "login": "prateek-kumar-improving",
       "id": 178204713,
       "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
       "commits": 16,
-      "reviews": 12,
+      "reviews": 13,
       "repos": [
         "valkey-glide-docs",
         "valkey-glide-php"
       ],
-      "score": 28
+      "score": 29
     },
     {
       "login": "zackcam",
@@ -233,13 +233,25 @@
       "login": "affonsov",
       "id": 67347924,
       "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-      "commits": 8,
+      "commits": 9,
       "reviews": 10,
       "repos": [
         "valkey-glide",
         "valkey-glide-csharp",
         "valkey-glide-docs",
         "valkey-glide-php"
+      ],
+      "score": 19
+    },
+    {
+      "login": "alexr-bq",
+      "id": 72045206,
+      "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
+      "commits": 4,
+      "reviews": 14,
+      "repos": [
+        "valkey-glide",
+        "valkey-glide-csharp"
       ],
       "score": 18
     },
@@ -251,18 +263,6 @@
       "reviews": 18,
       "repos": [],
       "score": 18
-    },
-    {
-      "login": "alexr-bq",
-      "id": 72045206,
-      "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-      "commits": 4,
-      "reviews": 13,
-      "repos": [
-        "valkey-glide",
-        "valkey-glide-csharp"
-      ],
-      "score": 17
     },
     {
       "login": "ikolomi",
@@ -375,6 +375,18 @@
       "score": 13
     },
     {
+      "login": "jduo",
+      "id": 1657237,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
+      "commits": 2,
+      "reviews": 11,
+      "repos": [
+        "valkey-glide-csharp",
+        "valkey-glide-php"
+      ],
+      "score": 13
+    },
+    {
       "login": "zarkash-aws",
       "id": 174019895,
       "avatar_url": "https://avatars.githubusercontent.com/u/174019895?v=4",
@@ -394,18 +406,6 @@
       "reviews": 11,
       "repos": [
         "valkey-py"
-      ],
-      "score": 12
-    },
-    {
-      "login": "jduo",
-      "id": 1657237,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-      "commits": 2,
-      "reviews": 10,
-      "repos": [
-        "valkey-glide-csharp",
-        "valkey-glide-php"
       ],
       "score": 12
     },
@@ -517,6 +517,18 @@
       "score": 8
     },
     {
+      "login": "jamesx-improving",
+      "id": 126831592,
+      "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
+      "commits": 3,
+      "reviews": 5,
+      "repos": [
+        "valkey-glide",
+        "valkey-glide-csharp"
+      ],
+      "score": 8
+    },
+    {
       "login": "stockholmux",
       "id": 1152927,
       "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
@@ -557,18 +569,6 @@
       "reviews": 2,
       "repos": [
         "valkey-admin"
-      ],
-      "score": 6
-    },
-    {
-      "login": "jamesx-improving",
-      "id": 126831592,
-      "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-      "commits": 2,
-      "reviews": 4,
-      "repos": [
-        "valkey-glide",
-        "valkey-glide-csharp"
       ],
       "score": 6
     },

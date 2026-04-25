@@ -12,10 +12,10 @@
   "commit_list": [
     {
       "sha": "6536eb8ed5",
-      "message": "6536eb8ed5",
+      "message": "fix(java): populate actual lib-ver instead of unknown (#5741)",
       "date": "2026-04-22",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5741",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6536eb8ed5d0d4d8460e0988d51f4d7ea9f9b432"
     }
   ],

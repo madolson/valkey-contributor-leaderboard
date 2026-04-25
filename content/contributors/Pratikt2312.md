@@ -12,10 +12,10 @@
   "commit_list": [
     {
       "sha": "1974cb2250",
-      "message": "1974cb2250",
+      "message": "Add ppc64le arch support (#115)",
       "date": "2026-02-11",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/115",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/1974cb22500261ffd62a654a821e63e9180f3858"
     }
   ],

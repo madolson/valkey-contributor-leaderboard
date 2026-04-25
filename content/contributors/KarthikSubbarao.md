@@ -48,10 +48,10 @@
     },
     {
       "sha": "69f77c1ddc",
-      "message": "69f77c1ddc",
+      "message": "valkey 1.2-rc1 doc update follow ups (#412)",
       "date": "2026-02-19",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/412",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/69f77c1ddcb5a8c369782fef7c85c1d31eb83b96"
     },
     {
@@ -120,18 +120,18 @@
     },
     {
       "sha": "148930ed71",
-      "message": "148930ed71",
+      "message": "Cleaning up usage of valkey-test-framework (#57)",
       "date": "2025-03-31",
       "repo": "valkey-bloom",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/59",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/148930ed71ea4ffc8d4b88ff035f6f56b4ca656f"
     },
     {
       "sha": "5d514e051c",
-      "message": "5d514e051c",
+      "message": "Set default unstable version and update readme.md (#55)",
       "date": "2025-03-28",
       "repo": "valkey-bloom",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/59",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/5d514e051cb8ab8533a75c3d1cc295e1e52384a9"
     },
     {
@@ -274,42 +274,42 @@
     },
     {
       "sha": "9b774acd55",
-      "message": "9b774acd55",
+      "message": "Fix typo in bf.info.json from 'TIGHTENTING' to 'TIGHTENING' (#79)",
       "date": "2026-01-12",
       "repo": "valkey-bloom",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/79",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/9b774acd5563d0b78e188bc4d4013afb4ba09cef"
     },
     {
       "sha": "9b774acd55",
-      "message": "9b774acd55",
+      "message": "Fix typo in bf.info.json from 'TIGHTENTING' to 'TIGHTENING' (#79)",
       "date": "2026-01-12",
       "repo": "valkey-bloom",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/79",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/9b774acd5563d0b78e188bc4d4013afb4ba09cef"
     },
     {
       "sha": "097c2a4522",
-      "message": "097c2a4522",
+      "message": "Fix AOF rewrite and restore BF tests (#81)",
       "date": "2026-01-05",
       "repo": "valkey-bloom",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/81",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/097c2a452211a419e8a31549cbd4ea6d788a3a28"
     },
     {
       "sha": "d9998e8ce7",
-      "message": "d9998e8ce7",
+      "message": "update build.sh to ensure POSIX compliance for dash shell (#73)",
       "date": "2025-12-16",
       "repo": "valkey-bloom",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/73",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/d9998e8ce7236bbffe35f8ac24591eb620057997"
     },
     {
       "sha": "148c86d2b5",
-      "message": "148c86d2b5",
+      "message": "Update README to fix 8.0 build and update build.sh to support 9.0 (#76)",
       "date": "2025-12-16",
       "repo": "valkey-bloom",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/76",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/148c86d2b595857ac05001e59f1886f394b35aa3"
     },
     {
@@ -338,10 +338,10 @@
     },
     {
       "sha": "450fde8c00",
-      "message": "450fde8c00",
+      "message": "BLOOM trigger for Valkey Extension Automation (#65)",
       "date": "2025-08-05",
       "repo": "valkey-bloom",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/65",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/450fde8c009ba731b5e0ad9e9f2bfe9adbc27c5d"
     },
     {
@@ -362,26 +362,26 @@
     },
     {
       "sha": "223d780d23",
-      "message": "223d780d23",
+      "message": "Spelling (#68)",
       "date": "2025-06-19",
       "repo": "valkey-bloom",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/68",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/223d780d23b76e7ddfadf800471a1d9b191bca3f"
     },
     {
       "sha": "bf60c40e3d",
-      "message": "bf60c40e3d",
+      "message": "Adding clean option for build script and fixing current clippy issues (#67)",
       "date": "2025-06-13",
       "repo": "valkey-bloom",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/67",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/bf60c40e3df671723869bb47516800cc9eb17d8b"
     },
     {
       "sha": "5b95585c83",
-      "message": "5b95585c83",
+      "message": "Removing failing on clippy errors in github ci (#66)",
       "date": "2025-06-10",
       "repo": "valkey-bloom",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/66",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/5b95585c83fc734957e7e3f204fa031c658cefcc"
     },
     {
@@ -426,18 +426,18 @@
     },
     {
       "sha": "c97e0c6da0",
-      "message": "c97e0c6da0",
+      "message": "Adding Bloom command JSON files (#47)",
       "date": "2025-03-29",
       "repo": "valkey-bloom",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/47",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/c97e0c6da096318eb14b70aa872d3ed748e571a4"
     },
     {
       "sha": "d6b8763bcc",
-      "message": "d6b8763bcc",
+      "message": "Updating build script and github workflow to get test framework from github and removing it locally (#56)",
       "date": "2025-03-29",
       "repo": "valkey-bloom",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/56",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/d6b8763bcc79537d9752cb21a501357dba69c382"
     }
   ]

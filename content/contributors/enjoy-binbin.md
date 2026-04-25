@@ -23,34 +23,34 @@
     },
     {
       "sha": "a59b1feb49",
-      "message": "a59b1feb49",
+      "message": "Add new INFO field mem_total_replication_buffers and new replicas.repl.buffer MEMORY STATS field (#416)",
       "date": "2026-03-03",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/416",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/a59b1feb49013b0ddfe0ce04c8921bd4fc775277"
     },
     {
       "sha": "f23f093b78",
-      "message": "f23f093b78",
+      "message": "Add the new remaining_repl_size field in CLUSTER GETSLOTMIGRATIONS (#406)",
       "date": "2026-03-01",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/406",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/f23f093b78175b89fb7ebee21817fe9554a7292c"
     },
     {
       "sha": "4c3f1d94d1",
-      "message": "4c3f1d94d1",
+      "message": "Update maxclients example in clients.md (#390)",
       "date": "2026-01-05",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/390",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/4c3f1d94d1b1079d3f364852bdcddd3520424e60"
     },
     {
       "sha": "148c86d2b5",
-      "message": "148c86d2b5",
+      "message": "Update README to fix 8.0 build and update build.sh to support 9.0 (#76)",
       "date": "2025-12-16",
       "repo": "valkey-bloom",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/76",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/148c86d2b595857ac05001e59f1886f394b35aa3"
     },
     {
@@ -105,26 +105,26 @@
     },
     {
       "sha": "2cbb86b076",
-      "message": "2cbb86b076",
+      "message": "Add docs for availability-zone field in CLUSTER SHARDS/SLOTS (#420)",
       "date": "2026-03-11",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/420",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/2cbb86b0768ea0d9986f201e1f83092a1abe2a2b"
     },
     {
       "sha": "e30efee802",
-      "message": "e30efee802",
+      "message": "Cluster shard documentation fix for fail health status (#408)",
       "date": "2026-02-15",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/408",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/e30efee80204960b68669482cec5bd6c71ea79ed"
     },
     {
       "sha": "c25cae5f9b",
-      "message": "c25cae5f9b",
+      "message": "COPY returns 0 when the source key does not exist (#404)",
       "date": "2026-02-10",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/404",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/c25cae5f9be7f48cd2aa78f5c0b49e95c89d2a20"
     },
     {

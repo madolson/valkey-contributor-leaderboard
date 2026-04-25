@@ -111,18 +111,18 @@
     },
     {
       "sha": "2cbb86b076",
-      "message": "2cbb86b076",
+      "message": "Add docs for availability-zone field in CLUSTER SHARDS/SLOTS (#420)",
       "date": "2026-03-11",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/420",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/2cbb86b0768ea0d9986f201e1f83092a1abe2a2b"
     },
     {
       "sha": "ab0d320ef7",
-      "message": "ab0d320ef7",
+      "message": "Refine TLS and ACL docs for mTLS authentication (#418)",
       "date": "2026-03-10",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/418",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/ab0d320ef7e9abfe49df73bd87b1e1ee231c22f5"
     },
     {
@@ -135,42 +135,42 @@
     },
     {
       "sha": "b1bf00cf0e",
-      "message": "b1bf00cf0e",
+      "message": "Improve logic and reduce failures on personal repos (#124)",
       "date": "2026-02-24",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/124",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/b1bf00cf0e64a61f43d511e6f98e174e6deafd7c"
     },
     {
       "sha": "c25cae5f9b",
-      "message": "c25cae5f9b",
+      "message": "COPY returns 0 when the source key does not exist (#404)",
       "date": "2026-02-10",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/404",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/c25cae5f9be7f48cd2aa78f5c0b49e95c89d2a20"
     },
     {
       "sha": "07e71ac539",
-      "message": "07e71ac539",
+      "message": "Apply CVE fix for alpine versions in 8.0, 7.2 and unstable (#120)",
       "date": "2026-02-04",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/120",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/07e71ac5395338df3944a0a75df5a571835c4fe9"
     },
     {
       "sha": "6f90d74bd7",
-      "message": "6f90d74bd7",
+      "message": "Update to version 9.0.2 (#121)",
       "date": "2026-02-03",
       "repo": "valkey-container",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/121",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/6f90d74bd7111d02e2de6a1e8c2362e9390700a8"
     },
     {
       "sha": "3018efda8f",
-      "message": "3018efda8f",
+      "message": "Adds documentation for HGETDEL (#389)",
       "date": "2026-02-03",
       "repo": "valkey-doc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/389",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/3018efda8f218796721cc8533afb582770e8d027"
     },
     {

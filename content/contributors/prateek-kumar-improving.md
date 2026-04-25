@@ -3,9 +3,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 28,
+  "score": 29,
   "commit_count": 16,
-  "review_count": 12,
+  "review_count": 13,
   "repos": [
     "valkey-glide-docs",
     "valkey-glide-php"
@@ -142,35 +142,43 @@
   ],
   "review_list": [
     {
+      "sha": "4d96e82798",
+      "message": "Node: Client-Side Caching Support (#5720)",
+      "date": "2026-04-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5720",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4d96e827987de27e59a2212936b6f0f0018411ae"
+    },
+    {
       "sha": "ddb29624d8",
-      "message": "ddb29624d8",
+      "message": "Fix: Python client side cache test to use anyio (#5818)",
       "date": "2026-04-24",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5818",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ddb29624d8173b5f7d77e439c00c651932e99ecd"
     },
     {
       "sha": "11e9206ae3",
-      "message": "11e9206ae3",
+      "message": "JAVA: Client-Side Caching Support (#5172)",
       "date": "2026-04-24",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5172",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/11e9206ae34c12dca475de0bd71e23f6f91910b5"
     },
     {
       "sha": "8493f3d761",
-      "message": "8493f3d761",
+      "message": "Fixed standalone client read strategies behavior. (#5740)",
       "date": "2026-04-24",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5740",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8493f3d761e898c9147ca9e8a56f9c3fb9713300"
     },
     {
       "sha": "3e375344c2",
-      "message": "3e375344c2",
+      "message": "Go: Client-Side Caching Support (#5721)",
       "date": "2026-04-24",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5721",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3e375344c24c31d45eeeb9f521adfe256e3bf429"
     },
     {
@@ -191,10 +199,10 @@
     },
     {
       "sha": "b72ebd1fce",
-      "message": "b72ebd1fce",
+      "message": "feat(java): Add support for cluster management and node management commands (#5503)",
       "date": "2026-04-20",
       "repo": "valkey-glide",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5503",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b72ebd1fce644df5b3ea669ec8faabf482d2f5ff"
     },
     {
