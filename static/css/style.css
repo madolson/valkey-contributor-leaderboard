@@ -45,6 +45,27 @@ footer a { color: #475ad2; text-decoration: none; }
 footer a:hover { text-decoration: underline; }
 
 /* Table styles */
+.methodology {
+  margin-bottom: 1rem;
+  border: 1px solid #353841;
+  border-radius: 6px;
+  background: #24272f;
+}
+.methodology summary {
+  padding: 0.6rem 1rem;
+  cursor: pointer;
+  font-weight: 600;
+  color: #bac7f2;
+}
+.methodology-body {
+  padding: 0 1rem 0.8rem;
+  color: #c0c2c7;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+.methodology-body a { color: #bac7f2; }
+.methodology-body ul { margin: 0.5rem 0 0.5rem 1.2rem; }
+
 .search {
   width: 100%;
   padding: 0.6rem 1rem;

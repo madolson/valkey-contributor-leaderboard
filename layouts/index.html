@@ -1,5 +1,17 @@
 {{ define "main" }}
 {{ with hugo.Data.leaderboard }}
+  <details class="methodology">
+    <summary>Methodology</summary>
+    <div class="methodology-body">
+      <p>This leaderboard tracks contributions across all <a href="https://github.com/valkey-io">valkey-io</a> repositories since the Redis→Valkey fork (March 28, 2024).</p>
+      <ul>
+        <li><strong>Commits</strong> — only mainline commits with a merged PR that received at least one approval from a reviewer other than the author.</li>
+        <li><strong>Reviews</strong> — each approved PR review counts as one point for the reviewer.</li>
+        <li><strong>Score</strong> — commits + reviews.</li>
+      </ul>
+      <p>Bot accounts are excluded. Click a contributor's name to see their full commit and review history.</p>
+    </div>
+  </details>
   <input type="text" id="search" class="search" placeholder="Search contributors…" autocomplete="off">
   <div class="table-wrap">
     <table>
