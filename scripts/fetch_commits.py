@@ -151,7 +151,10 @@ def check_reviewed(commit, token):
         for review in reviews:
             reviewer = review.get("user", {}).get("login", "")
             if review.get("state") == "APPROVED" and reviewer != author:
-                approvers.append(reviewer)
+                approvers.append({
+                    "login": reviewer,
+                    "date": review.get("submitted_at", ""),
+                })
         if approvers:
             return approvers, pr_url
     return [], ""
@@ -206,6 +209,11 @@ def save_json(path, data):
     path.write_text(json.dumps(data, indent=2) + "\n")
 
 
+def _reviewer_login(r):
+    """Extract login from reviewer entry (str=old format, dict=new format)."""
+    return r["login"] if isinstance(r, dict) else r
+
+
 def generate_leaderboard(commits, profiles=None):
     profiles = profiles or {}
     by_login = {}
@@ -247,7 +255,7 @@ def generate_leaderboard(commits, profiles=None):
         by_login[c["author_login"]]["id"] = c["author_id"]
         by_login[c["author_login"]]["commits"] += 1
         by_login[c["author_login"]]["repos"].add(c["repo"])
-        for reviewer_login in reviewers:
+        for reviewer_login in (_reviewer_login(r) for r in reviewers):
             if is_bot(reviewer_login):
                 continue
             ensure_user(reviewer_login, None)
@@ -293,7 +301,7 @@ def generate_contributor_pages(commits, contributors):
             "commit_url": f"https://github.com/{ORG}/{c['repo']}/commit/{c['sha']}",
         }
         user_commits.setdefault(c["author_login"], []).append(info)
-        for reviewer_login in reviewers:
+        for reviewer_login in (_reviewer_login(r) for r in reviewers):
             user_reviews.setdefault(reviewer_login, []).append(info)
 
     # Clean and regenerate
