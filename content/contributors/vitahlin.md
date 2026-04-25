@@ -1,4 +1,3 @@
----
 {
   "title": "vitahlin",
   "login": "vitahlin",
@@ -165,4 +164,3 @@
   ],
   "review_list": []
 }
----

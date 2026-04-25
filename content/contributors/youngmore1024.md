@@ -1,4 +1,3 @@
----
 {
   "title": "youngmore1024",
   "login": "youngmore1024",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

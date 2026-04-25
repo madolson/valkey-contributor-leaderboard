@@ -1,4 +1,3 @@
----
 {
   "title": "gusakovy",
   "login": "gusakovy",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

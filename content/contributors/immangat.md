@@ -1,4 +1,3 @@
----
 {
   "title": "immangat",
   "login": "immangat",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

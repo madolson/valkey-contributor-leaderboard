@@ -1,4 +1,3 @@
----
 {
   "title": "rubiin",
   "login": "rubiin",
@@ -19,4 +18,3 @@
     }
   ]
 }
----

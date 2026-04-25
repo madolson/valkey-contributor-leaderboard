@@ -1,4 +1,3 @@
----
 {
   "title": "LiiNen",
   "login": "LiiNen",
@@ -37,4 +36,3 @@
   ],
   "review_list": []
 }
----

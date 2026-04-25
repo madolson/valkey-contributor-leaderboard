@@ -1,4 +1,3 @@
----
 {
   "title": "arseny-dremio",
   "login": "arseny-dremio",
@@ -85,4 +84,3 @@
   ],
   "review_list": []
 }
----

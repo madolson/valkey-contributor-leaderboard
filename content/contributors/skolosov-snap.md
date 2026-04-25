@@ -1,4 +1,3 @@
----
 {
   "title": "skolosov-snap",
   "login": "skolosov-snap",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

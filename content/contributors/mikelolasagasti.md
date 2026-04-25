@@ -1,4 +1,3 @@
----
 {
   "title": "mikelolasagasti",
   "login": "mikelolasagasti",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

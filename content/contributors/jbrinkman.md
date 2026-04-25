@@ -1,4 +1,3 @@
----
 {
   "title": "jbrinkman",
   "login": "jbrinkman",
@@ -62,4 +61,3 @@
     }
   ]
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "stydxm",
   "login": "stydxm",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

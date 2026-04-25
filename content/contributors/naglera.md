@@ -1,4 +1,3 @@
----
 {
   "title": "naglera",
   "login": "naglera",
@@ -358,4 +357,3 @@
     }
   ]
 }
----

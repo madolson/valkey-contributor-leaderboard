@@ -1,4 +1,3 @@
----
 {
   "title": "stav-bentov",
   "login": "stav-bentov",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

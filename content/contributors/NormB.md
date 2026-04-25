@@ -1,4 +1,3 @@
----
 {
   "title": "NormB",
   "login": "NormB",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

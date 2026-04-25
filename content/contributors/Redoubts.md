@@ -1,4 +1,3 @@
----
 {
   "title": "Redoubts",
   "login": "Redoubts",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "bjw-s",
   "login": "bjw-s",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

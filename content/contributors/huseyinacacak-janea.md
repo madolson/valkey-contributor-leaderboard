@@ -1,4 +1,3 @@
----
 {
   "title": "huseyinacacak-janea",
   "login": "huseyinacacak-janea",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

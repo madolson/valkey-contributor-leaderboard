@@ -1,4 +1,3 @@
----
 {
   "title": "Scut-Corgis",
   "login": "Scut-Corgis",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

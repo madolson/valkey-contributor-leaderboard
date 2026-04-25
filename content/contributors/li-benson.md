@@ -1,4 +1,3 @@
----
 {
   "title": "li-benson",
   "login": "li-benson",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "alexey-temnikov",
   "login": "alexey-temnikov",
@@ -72,4 +71,3 @@
     }
   ]
 }
----

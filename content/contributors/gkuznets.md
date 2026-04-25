@@ -1,4 +1,3 @@
----
 {
   "title": "gkuznets",
   "login": "gkuznets",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

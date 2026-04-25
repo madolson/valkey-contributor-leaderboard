@@ -1,4 +1,3 @@
----
 {
   "title": "jsoref",
   "login": "jsoref",
@@ -141,4 +140,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "mkdolan",
   "login": "mkdolan",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

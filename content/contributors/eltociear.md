@@ -1,4 +1,3 @@
----
 {
   "title": "eltociear",
   "login": "eltociear",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

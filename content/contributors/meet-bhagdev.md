@@ -1,4 +1,3 @@
----
 {
   "title": "meet-bhagdev",
   "login": "meet-bhagdev",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

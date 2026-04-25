@@ -1,4 +1,3 @@
----
 {
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
@@ -53,4 +52,3 @@
   ],
   "review_list": []
 }
----

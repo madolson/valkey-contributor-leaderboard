@@ -1,4 +1,3 @@
----
 {
   "title": "bauchdj",
   "login": "bauchdj",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

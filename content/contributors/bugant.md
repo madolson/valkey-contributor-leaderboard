@@ -1,4 +1,3 @@
----
 {
   "title": "bugant",
   "login": "bugant",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

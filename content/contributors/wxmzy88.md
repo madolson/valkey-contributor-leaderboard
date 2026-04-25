@@ -1,4 +1,3 @@
----
 {
   "title": "wxmzy88",
   "login": "wxmzy88",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
@@ -632,4 +631,3 @@
     }
   ]
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "yeoncheol-jang",
   "login": "yeoncheol-jang",
@@ -45,4 +44,3 @@
   ],
   "review_list": []
 }
----

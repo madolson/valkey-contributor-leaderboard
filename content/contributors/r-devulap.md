@@ -1,4 +1,3 @@
----
 {
   "title": "r-devulap",
   "login": "r-devulap",
@@ -19,4 +18,3 @@
     }
   ]
 }
----

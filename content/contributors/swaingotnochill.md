@@ -1,4 +1,3 @@
----
 {
   "title": "swaingotnochill",
   "login": "swaingotnochill",
@@ -19,4 +18,3 @@
     }
   ]
 }
----

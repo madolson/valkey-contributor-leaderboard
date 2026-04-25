@@ -1,4 +1,3 @@
----
 {
   "title": "gabiganam",
   "login": "gabiganam",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

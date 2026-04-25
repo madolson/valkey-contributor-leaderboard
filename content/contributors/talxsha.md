@@ -1,4 +1,3 @@
----
 {
   "title": "talxsha",
   "login": "talxsha",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

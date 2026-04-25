@@ -1,4 +1,3 @@
----
 {
   "title": "alicez0626",
   "login": "alicez0626",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

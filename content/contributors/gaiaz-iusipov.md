@@ -1,4 +1,3 @@
----
 {
   "title": "gaiaz-iusipov",
   "login": "gaiaz-iusipov",
@@ -37,4 +36,3 @@
   ],
   "review_list": []
 }
----

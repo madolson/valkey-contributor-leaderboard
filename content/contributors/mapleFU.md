@@ -1,4 +1,3 @@
----
 {
   "title": "mapleFU",
   "login": "mapleFU",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

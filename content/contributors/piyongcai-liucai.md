@@ -1,4 +1,3 @@
----
 {
   "title": "piyongcai-liucai",
   "login": "piyongcai-liucai",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

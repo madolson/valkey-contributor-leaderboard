@@ -1,4 +1,3 @@
----
 {
   "title": "curious-george-rk",
   "login": "curious-george-rk",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

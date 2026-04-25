@@ -1,4 +1,3 @@
----
 {
   "title": "NeoPhi",
   "login": "NeoPhi",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

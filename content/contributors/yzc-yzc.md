@@ -1,4 +1,3 @@
----
 {
   "title": "yzc-yzc",
   "login": "yzc-yzc",
@@ -94,4 +93,3 @@
   ],
   "review_list": []
 }
----

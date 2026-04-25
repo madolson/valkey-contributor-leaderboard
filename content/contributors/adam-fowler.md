@@ -1,4 +1,3 @@
----
 {
   "title": "adam-fowler",
   "login": "adam-fowler",
@@ -224,4 +223,3 @@
     }
   ]
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "edlng",
   "login": "edlng",
@@ -62,4 +61,3 @@
   ],
   "review_list": []
 }
----

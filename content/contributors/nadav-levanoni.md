@@ -1,4 +1,3 @@
----
 {
   "title": "nadav-levanoni",
   "login": "nadav-levanoni",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

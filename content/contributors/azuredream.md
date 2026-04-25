@@ -1,4 +1,3 @@
----
 {
   "title": "azuredream",
   "login": "azuredream",
@@ -37,4 +36,3 @@
   ],
   "review_list": []
 }
----

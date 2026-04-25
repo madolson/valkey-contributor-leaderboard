@@ -1,4 +1,3 @@
----
 {
   "title": "arpitansu",
   "login": "arpitansu",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

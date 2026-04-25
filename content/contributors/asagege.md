@@ -1,4 +1,3 @@
----
 {
   "title": "asagege",
   "login": "asagege",
@@ -85,4 +84,3 @@
   ],
   "review_list": []
 }
----

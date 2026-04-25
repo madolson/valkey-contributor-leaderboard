@@ -1,4 +1,3 @@
----
 {
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
@@ -1760,4 +1759,3 @@
     }
   ]
 }
----

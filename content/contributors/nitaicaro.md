@@ -1,4 +1,3 @@
----
 {
   "title": "nitaicaro",
   "login": "nitaicaro",
@@ -62,4 +61,3 @@
     }
   ]
 }
----

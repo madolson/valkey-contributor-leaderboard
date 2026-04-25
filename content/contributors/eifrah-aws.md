@@ -1,4 +1,3 @@
----
 {
   "title": "eifrah-aws",
   "login": "eifrah-aws",
@@ -129,4 +128,3 @@
     }
   ]
 }
----

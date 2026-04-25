@@ -1,4 +1,3 @@
----
 {
   "title": "arumugaraja-thirumani",
   "login": "arumugaraja-thirumani",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

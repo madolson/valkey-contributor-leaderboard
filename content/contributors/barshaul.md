@@ -1,4 +1,3 @@
----
 {
   "title": "barshaul",
   "login": "barshaul",
@@ -99,4 +98,3 @@
     }
   ]
 }
----

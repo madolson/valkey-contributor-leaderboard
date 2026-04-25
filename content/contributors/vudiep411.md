@@ -1,4 +1,3 @@
----
 {
   "title": "vudiep411",
   "login": "vudiep411",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

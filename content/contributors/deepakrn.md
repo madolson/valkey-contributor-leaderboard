@@ -1,4 +1,3 @@
----
 {
   "title": "deepakrn",
   "login": "deepakrn",
@@ -37,4 +36,3 @@
   ],
   "review_list": []
 }
----

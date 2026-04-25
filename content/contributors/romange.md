@@ -1,4 +1,3 @@
----
 {
   "title": "romange",
   "login": "romange",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

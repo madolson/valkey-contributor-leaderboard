@@ -1,4 +1,3 @@
----
 {
   "title": "withRiver",
   "login": "withRiver",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "frostzt",
   "login": "frostzt",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

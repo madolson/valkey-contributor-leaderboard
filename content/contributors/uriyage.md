@@ -1,4 +1,3 @@
----
 {
   "title": "uriyage",
   "login": "uriyage",
@@ -287,4 +286,3 @@
     }
   ]
 }
----

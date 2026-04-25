@@ -1,4 +1,3 @@
----
 {
   "title": "alexpota",
   "login": "alexpota",
@@ -30,4 +29,3 @@
   ],
   "review_list": []
 }
----

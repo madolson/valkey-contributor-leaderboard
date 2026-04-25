@@ -1,4 +1,3 @@
----
 {
   "title": "v3rm0n",
   "login": "v3rm0n",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

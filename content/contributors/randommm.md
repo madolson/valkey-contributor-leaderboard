@@ -1,4 +1,3 @@
----
 {
   "title": "randommm",
   "login": "randommm",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

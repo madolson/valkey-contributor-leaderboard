@@ -1,4 +1,3 @@
----
 {
   "title": "kyle-yh-kim",
   "login": "kyle-yh-kim",
@@ -70,4 +69,3 @@
   ],
   "review_list": []
 }
----

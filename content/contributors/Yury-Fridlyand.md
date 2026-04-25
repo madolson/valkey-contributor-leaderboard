@@ -1,4 +1,3 @@
----
 {
   "title": "Yury-Fridlyand",
   "login": "Yury-Fridlyand",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

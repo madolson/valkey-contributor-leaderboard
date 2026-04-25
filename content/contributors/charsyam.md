@@ -1,4 +1,3 @@
----
 {
   "title": "charsyam",
   "login": "charsyam",
@@ -61,4 +60,3 @@
   ],
   "review_list": []
 }
----

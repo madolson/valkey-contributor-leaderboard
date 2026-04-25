@@ -1,4 +1,3 @@
----
 {
   "title": "Nivesh-01",
   "login": "Nivesh-01",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "amanosme",
   "login": "amanosme",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

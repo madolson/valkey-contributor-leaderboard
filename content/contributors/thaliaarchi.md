@@ -1,4 +1,3 @@
----
 {
   "title": "thaliaarchi",
   "login": "thaliaarchi",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "eliblight",
   "login": "eliblight",
@@ -37,4 +36,3 @@
   ],
   "review_list": []
 }
----

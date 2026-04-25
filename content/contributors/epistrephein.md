@@ -1,4 +1,3 @@
----
 {
   "title": "epistrephein",
   "login": "epistrephein",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

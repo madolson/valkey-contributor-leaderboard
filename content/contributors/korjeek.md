@@ -1,4 +1,3 @@
----
 {
   "title": "korjeek",
   "login": "korjeek",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

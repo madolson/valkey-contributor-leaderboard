@@ -1,4 +1,3 @@
----
 {
   "title": "michael-grunder",
   "login": "michael-grunder",
@@ -574,4 +573,3 @@
     }
   ]
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "sonii-shivansh",
   "login": "sonii-shivansh",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "SuperQ",
   "login": "SuperQ",
@@ -37,4 +36,3 @@
   ],
   "review_list": []
 }
----

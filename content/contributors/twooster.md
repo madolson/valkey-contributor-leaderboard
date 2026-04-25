@@ -1,4 +1,3 @@
----
 {
   "title": "twooster",
   "login": "twooster",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

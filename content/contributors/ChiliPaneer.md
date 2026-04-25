@@ -1,4 +1,3 @@
----
 {
   "title": "ChiliPaneer",
   "login": "ChiliPaneer",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

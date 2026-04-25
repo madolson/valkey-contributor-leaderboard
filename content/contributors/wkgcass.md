@@ -1,4 +1,3 @@
----
 {
   "title": "wkgcass",
   "login": "wkgcass",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

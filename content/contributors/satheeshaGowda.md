@@ -1,4 +1,3 @@
----
 {
   "title": "satheeshaGowda",
   "login": "satheeshaGowda",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

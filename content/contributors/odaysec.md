@@ -1,4 +1,3 @@
----
 {
   "title": "odaysec",
   "login": "odaysec",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "prashanna-frsh",
   "login": "prashanna-frsh",
@@ -117,4 +116,3 @@
   ],
   "review_list": []
 }
----

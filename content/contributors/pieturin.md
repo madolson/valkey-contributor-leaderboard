@@ -1,4 +1,3 @@
----
 {
   "title": "pieturin",
   "login": "pieturin",
@@ -62,4 +61,3 @@
     }
   ]
 }
----

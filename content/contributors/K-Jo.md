@@ -1,4 +1,3 @@
----
 {
   "title": "K-Jo",
   "login": "K-Jo",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

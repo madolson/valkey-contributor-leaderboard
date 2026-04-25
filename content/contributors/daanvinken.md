@@ -1,4 +1,3 @@
----
 {
   "title": "daanvinken",
   "login": "daanvinken",
@@ -62,4 +61,3 @@
     }
   ]
 }
----

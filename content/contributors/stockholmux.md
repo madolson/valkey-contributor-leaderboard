@@ -1,4 +1,3 @@
----
 {
   "title": "stockholmux",
   "login": "stockholmux",
@@ -230,4 +229,3 @@
     }
   ]
 }
----

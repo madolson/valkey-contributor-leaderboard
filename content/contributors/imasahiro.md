@@ -1,4 +1,3 @@
----
 {
   "title": "imasahiro",
   "login": "imasahiro",
@@ -45,4 +44,3 @@
   ],
   "review_list": []
 }
----

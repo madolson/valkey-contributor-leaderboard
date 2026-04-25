@@ -1,4 +1,3 @@
----
 {
   "title": "zvi-code",
   "login": "zvi-code",
@@ -46,4 +45,3 @@
     }
   ]
 }
----

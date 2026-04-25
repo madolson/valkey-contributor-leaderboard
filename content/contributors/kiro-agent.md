@@ -1,4 +1,3 @@
----
 {
   "title": "kiro-agent",
   "login": "kiro-agent",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

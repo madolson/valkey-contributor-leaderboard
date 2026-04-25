@@ -1,6 +1,7 @@
 baseURL = "https://madolson.github.io/valkey-contributor-leaderboard/"
 languageCode = "en-us"
 title = "Valkey Contributor Leaderboard"
+disableKinds = ["taxonomy"]
 
 [caches.images]
   dir = ":cacheDir/images"

@@ -1,4 +1,3 @@
----
 {
   "title": "ouriamzn",
   "login": "ouriamzn",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

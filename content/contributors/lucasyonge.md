@@ -1,4 +1,3 @@
----
 {
   "title": "lucasyonge",
   "login": "lucasyonge",
@@ -54,4 +53,3 @@
     }
   ]
 }
----

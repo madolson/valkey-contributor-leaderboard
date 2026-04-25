@@ -1,4 +1,3 @@
----
 {
   "title": "inetol",
   "login": "inetol",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "flyinprogrammer",
   "login": "flyinprogrammer",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

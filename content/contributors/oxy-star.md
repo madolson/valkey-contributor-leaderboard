@@ -1,4 +1,3 @@
----
 {
   "title": "oxy-star",
   "login": "oxy-star",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

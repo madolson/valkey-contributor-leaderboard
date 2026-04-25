@@ -1,4 +1,3 @@
----
 {
   "title": "Virusuki",
   "login": "Virusuki",
@@ -71,4 +70,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "mwarzynski",
   "login": "mwarzynski",
@@ -19,4 +18,3 @@
     }
   ]
 }
----

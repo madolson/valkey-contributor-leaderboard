@@ -1,4 +1,3 @@
----
 {
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
@@ -2145,4 +2144,3 @@
     }
   ]
 }
----

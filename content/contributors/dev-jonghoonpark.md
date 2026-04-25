@@ -1,4 +1,3 @@
----
 {
   "title": "dev-jonghoonpark",
   "login": "dev-jonghoonpark",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

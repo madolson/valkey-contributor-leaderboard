@@ -1,4 +1,3 @@
----
 {
   "title": "RayaCoo",
   "login": "RayaCoo",
@@ -61,4 +60,3 @@
   ],
   "review_list": []
 }
----

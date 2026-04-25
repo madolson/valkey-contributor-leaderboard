@@ -1,4 +1,3 @@
----
 {
   "title": "danish-mehmood",
   "login": "danish-mehmood",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

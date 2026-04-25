@@ -1,4 +1,3 @@
----
 {
   "title": "alon-arenberg",
   "login": "alon-arenberg",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "muelstefamzn",
   "login": "muelstefamzn",
@@ -37,4 +36,3 @@
   ],
   "review_list": []
 }
----

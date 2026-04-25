@@ -1,4 +1,3 @@
----
 {
   "title": "0xflotus",
   "login": "0xflotus",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

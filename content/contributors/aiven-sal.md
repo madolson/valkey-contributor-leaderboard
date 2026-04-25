@@ -1,4 +1,3 @@
----
 {
   "title": "aiven-sal",
   "login": "aiven-sal",
@@ -54,4 +53,3 @@
     }
   ]
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
@@ -1398,4 +1397,3 @@
     }
   ]
 }
----

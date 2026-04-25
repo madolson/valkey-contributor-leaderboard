@@ -1,4 +1,3 @@
----
 {
   "title": "bandalgomsu",
   "login": "bandalgomsu",
@@ -71,4 +70,3 @@
   ],
   "review_list": []
 }
----

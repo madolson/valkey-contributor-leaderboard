@@ -1,4 +1,3 @@
----
 {
   "title": "misaki112",
   "login": "misaki112",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

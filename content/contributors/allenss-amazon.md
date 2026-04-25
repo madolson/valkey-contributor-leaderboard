@@ -1,4 +1,3 @@
----
 {
   "title": "allenss-amazon",
   "login": "allenss-amazon",
@@ -119,4 +118,3 @@
     }
   ]
 }
----

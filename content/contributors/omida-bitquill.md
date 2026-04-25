@@ -1,4 +1,3 @@
----
 {
   "title": "omida-bitquill",
   "login": "omida-bitquill",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

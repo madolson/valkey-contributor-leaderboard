@@ -1,4 +1,3 @@
----
 {
   "title": "rzoutm",
   "login": "rzoutm",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

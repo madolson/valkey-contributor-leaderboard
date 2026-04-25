@@ -1,4 +1,3 @@
----
 {
   "title": "shohamazon",
   "login": "shohamazon",
@@ -262,4 +261,3 @@
     }
   ]
 }
----

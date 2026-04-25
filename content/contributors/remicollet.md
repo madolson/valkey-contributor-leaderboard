@@ -1,4 +1,3 @@
----
 {
   "title": "remicollet",
   "login": "remicollet",
@@ -30,4 +29,3 @@
   ],
   "review_list": []
 }
----

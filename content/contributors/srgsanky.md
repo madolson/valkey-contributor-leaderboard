@@ -1,4 +1,3 @@
----
 {
   "title": "srgsanky",
   "login": "srgsanky",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

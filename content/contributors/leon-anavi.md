@@ -1,4 +1,3 @@
----
 {
   "title": "leon-anavi",
   "login": "leon-anavi",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

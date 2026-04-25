@@ -1,4 +1,3 @@
----
 {
   "title": "bpint",
   "login": "bpint",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

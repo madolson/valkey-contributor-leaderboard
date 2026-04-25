@@ -1,4 +1,3 @@
----
 {
   "title": "simi",
   "login": "simi",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

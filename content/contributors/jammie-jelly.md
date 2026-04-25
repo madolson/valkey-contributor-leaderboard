@@ -1,4 +1,3 @@
----
 {
   "title": "jammie-jelly",
   "login": "jammie-jelly",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

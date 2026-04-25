@@ -1,4 +1,3 @@
----
 {
   "title": "Conan-Kudo",
   "login": "Conan-Kudo",
@@ -30,4 +29,3 @@
     }
   ]
 }
----

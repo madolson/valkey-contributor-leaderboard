@@ -1,4 +1,3 @@
----
 {
   "title": "prkomb",
   "login": "prkomb",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

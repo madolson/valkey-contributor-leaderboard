@@ -1,4 +1,3 @@
----
 {
   "title": "poiuj",
   "login": "poiuj",
@@ -69,4 +68,3 @@
   ],
   "review_list": []
 }
----

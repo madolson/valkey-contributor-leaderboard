@@ -1,4 +1,3 @@
----
 {
   "title": "Romain-Geissler-1A",
   "login": "Romain-Geissler-1A",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

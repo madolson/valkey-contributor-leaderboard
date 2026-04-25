@@ -1,4 +1,3 @@
----
 {
   "title": "maxbronnikov10",
   "login": "maxbronnikov10",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

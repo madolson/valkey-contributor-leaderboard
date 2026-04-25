@@ -1,4 +1,3 @@
----
 {
   "title": "dmitrypol",
   "login": "dmitrypol",
@@ -81,4 +80,3 @@
     }
   ]
 }
----

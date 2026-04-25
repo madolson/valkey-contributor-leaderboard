@@ -1,4 +1,3 @@
----
 {
   "title": "yulazariy",
   "login": "yulazariy",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

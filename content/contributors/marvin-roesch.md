@@ -1,4 +1,3 @@
----
 {
   "title": "marvin-roesch",
   "login": "marvin-roesch",
@@ -30,4 +29,3 @@
     }
   ]
 }
----

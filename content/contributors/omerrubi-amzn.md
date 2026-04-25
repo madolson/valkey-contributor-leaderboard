@@ -1,4 +1,3 @@
----
 {
   "title": "omerrubi-amzn",
   "login": "omerrubi-amzn",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

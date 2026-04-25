@@ -1,4 +1,3 @@
----
 {
   "title": "Nicky-2000",
   "login": "Nicky-2000",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "tlhunter",
   "login": "tlhunter",
@@ -37,4 +36,3 @@
   ],
   "review_list": []
 }
----

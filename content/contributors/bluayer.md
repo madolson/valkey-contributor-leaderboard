@@ -1,4 +1,3 @@
----
 {
   "title": "bluayer",
   "login": "bluayer",
@@ -30,4 +29,3 @@
   ],
   "review_list": []
 }
----

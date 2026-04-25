@@ -1,4 +1,3 @@
----
 {
   "title": "daniel-house",
   "login": "daniel-house",
@@ -95,4 +94,3 @@
     }
   ]
 }
----

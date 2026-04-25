@@ -1,4 +1,3 @@
----
 {
   "title": "barracuda156",
   "login": "barracuda156",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

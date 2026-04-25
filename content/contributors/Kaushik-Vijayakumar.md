@@ -1,4 +1,3 @@
----
 {
   "title": "Kaushik-Vijayakumar",
   "login": "Kaushik-Vijayakumar",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

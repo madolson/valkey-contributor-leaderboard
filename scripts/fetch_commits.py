@@ -328,7 +328,7 @@ def generate_contributor_pages(commits, contributors):
         }
 
         # Write as JSON front matter so Hugo can access structured data
-        page = "---\n" + json.dumps(data, indent=2) + "\n---\n"
+        page = json.dumps(data, indent=2) + "\n"
         (CONTRIBUTORS_DIR / f"{login}.md").write_text(page)
 
     log(f"Generated {len(contributors)} contributor pages")

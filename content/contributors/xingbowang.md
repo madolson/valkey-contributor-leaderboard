@@ -1,4 +1,3 @@
----
 {
   "title": "xingbowang",
   "login": "xingbowang",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

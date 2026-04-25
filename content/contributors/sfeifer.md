@@ -1,4 +1,3 @@
----
 {
   "title": "sfeifer",
   "login": "sfeifer",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

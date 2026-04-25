@@ -1,4 +1,3 @@
----
 {
   "title": "naoki-tateyama",
   "login": "naoki-tateyama",
@@ -37,4 +36,3 @@
   ],
   "review_list": []
 }
----

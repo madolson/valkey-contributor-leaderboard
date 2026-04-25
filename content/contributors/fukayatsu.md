@@ -1,4 +1,3 @@
----
 {
   "title": "fukayatsu",
   "login": "fukayatsu",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

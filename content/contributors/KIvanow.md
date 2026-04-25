@@ -1,4 +1,3 @@
----
 {
   "title": "KIvanow",
   "login": "KIvanow",
@@ -80,4 +79,3 @@
     }
   ]
 }
----

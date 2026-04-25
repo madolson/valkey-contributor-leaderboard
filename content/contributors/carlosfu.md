@@ -1,4 +1,3 @@
----
 {
   "title": "carlosfu",
   "login": "carlosfu",
@@ -30,4 +29,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "chayim",
   "login": "chayim",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

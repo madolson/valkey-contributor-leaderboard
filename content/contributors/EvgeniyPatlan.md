@@ -1,4 +1,3 @@
----
 {
   "title": "EvgeniyPatlan",
   "login": "EvgeniyPatlan",
@@ -47,4 +46,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "gmbnomis",
   "login": "gmbnomis",
@@ -119,4 +118,3 @@
     }
   ]
 }
----

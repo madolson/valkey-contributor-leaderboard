@@ -1,4 +1,3 @@
----
 {
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
@@ -724,4 +723,3 @@
     }
   ]
 }
----

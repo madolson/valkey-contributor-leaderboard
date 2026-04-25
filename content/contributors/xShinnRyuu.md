@@ -1,4 +1,3 @@
----
 {
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
@@ -1463,4 +1462,3 @@
     }
   ]
 }
----

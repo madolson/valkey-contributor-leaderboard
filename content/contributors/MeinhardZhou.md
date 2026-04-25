@@ -1,4 +1,3 @@
----
 {
   "title": "MeinhardZhou",
   "login": "MeinhardZhou",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

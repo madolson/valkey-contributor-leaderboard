@@ -1,4 +1,3 @@
----
 {
   "title": "Shivshankar-Reddy",
   "login": "Shivshankar-Reddy",
@@ -454,4 +453,3 @@
     }
   ]
 }
----

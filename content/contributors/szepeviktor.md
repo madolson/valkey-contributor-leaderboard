@@ -1,4 +1,3 @@
----
 {
   "title": "szepeviktor",
   "login": "szepeviktor",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

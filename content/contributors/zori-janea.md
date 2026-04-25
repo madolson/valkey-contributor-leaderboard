@@ -1,4 +1,3 @@
----
 {
   "title": "zori-janea",
   "login": "zori-janea",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

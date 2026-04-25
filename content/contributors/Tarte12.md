@@ -1,4 +1,3 @@
----
 {
   "title": "Tarte12",
   "login": "Tarte12",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "artikell",
   "login": "artikell",
@@ -199,4 +198,3 @@
     }
   ]
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "vitarb",
   "login": "vitarb",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

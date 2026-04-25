@@ -1,4 +1,3 @@
----
 {
   "title": "makubo-aws",
   "login": "makubo-aws",
@@ -38,4 +37,3 @@
   ],
   "review_list": []
 }
----

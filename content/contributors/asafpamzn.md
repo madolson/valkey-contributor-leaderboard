@@ -1,4 +1,3 @@
----
 {
   "title": "asafpamzn",
   "login": "asafpamzn",
@@ -30,4 +29,3 @@
     }
   ]
 }
----

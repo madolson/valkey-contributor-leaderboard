@@ -1,4 +1,3 @@
----
 {
   "title": "Nugine",
   "login": "Nugine",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

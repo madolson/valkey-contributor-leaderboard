@@ -1,4 +1,3 @@
----
 {
   "title": "trim21",
   "login": "trim21",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

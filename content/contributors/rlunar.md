@@ -1,4 +1,3 @@
----
 {
   "title": "rlunar",
   "login": "rlunar",
@@ -30,4 +29,3 @@
   ],
   "review_list": []
 }
----

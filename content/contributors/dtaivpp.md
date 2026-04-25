@@ -1,4 +1,3 @@
----
 {
   "title": "dtaivpp",
   "login": "dtaivpp",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "zarkash-aws",
   "login": "zarkash-aws",
@@ -55,4 +54,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "mcollina",
   "login": "mcollina",
@@ -163,4 +162,3 @@
     }
   ]
 }
----

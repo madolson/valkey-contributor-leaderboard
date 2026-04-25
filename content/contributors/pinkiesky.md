@@ -1,4 +1,3 @@
----
 {
   "title": "pinkiesky",
   "login": "pinkiesky",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

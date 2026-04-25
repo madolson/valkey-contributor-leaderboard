@@ -1,4 +1,3 @@
----
 {
   "title": "Ada-Church-Closure",
   "login": "Ada-Church-Closure",
@@ -38,4 +37,3 @@
   ],
   "review_list": []
 }
----

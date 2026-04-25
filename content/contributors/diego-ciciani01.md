@@ -1,4 +1,3 @@
----
 {
   "title": "diego-ciciani01",
   "login": "diego-ciciani01",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

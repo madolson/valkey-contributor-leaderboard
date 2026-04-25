@@ -1,4 +1,3 @@
----
 {
   "title": "aveminus",
   "login": "aveminus",
@@ -29,4 +28,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "z-koki",
   "login": "z-koki",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "cxljs",
   "login": "cxljs",
@@ -79,4 +78,3 @@
   ],
   "review_list": []
 }
----

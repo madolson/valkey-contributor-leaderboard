@@ -1,4 +1,3 @@
----
 {
   "title": "secwall",
   "login": "secwall",
@@ -183,4 +182,3 @@
     }
   ]
 }
----

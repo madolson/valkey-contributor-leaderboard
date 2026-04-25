@@ -1,4 +1,3 @@
----
 {
   "title": "nesty92",
   "login": "nesty92",
@@ -38,4 +37,3 @@
   ],
   "review_list": []
 }
----

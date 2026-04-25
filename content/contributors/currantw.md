@@ -1,4 +1,3 @@
----
 {
   "title": "currantw",
   "login": "currantw",
@@ -577,4 +576,3 @@
     }
   ]
 }
----

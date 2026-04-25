@@ -1,4 +1,3 @@
----
 {
   "title": "mtuteja-git",
   "login": "mtuteja-git",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

@@ -1,4 +1,3 @@
----
 {
   "title": "bentotten",
   "login": "bentotten",
@@ -53,4 +52,3 @@
   ],
   "review_list": []
 }
----

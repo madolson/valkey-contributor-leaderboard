@@ -1,4 +1,3 @@
----
 {
   "title": "deepakpunjabi",
   "login": "deepakpunjabi",
@@ -21,4 +20,3 @@
   ],
   "review_list": []
 }
----

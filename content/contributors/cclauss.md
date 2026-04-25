@@ -1,4 +1,3 @@
----
 {
   "title": "cclauss",
   "login": "cclauss",
@@ -54,4 +53,3 @@
     }
   ]
 }
----
