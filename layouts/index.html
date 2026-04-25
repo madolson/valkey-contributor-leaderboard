@@ -7,8 +7,10 @@
         <tr>
           <th class="rank">#</th>
           <th>Contributor</th>
-          <th class="commits">Commits</th>
-          <th class="repos">Repos</th>
+          <th class="num">Score</th>
+          <th class="num">Commits</th>
+          <th class="num">Reviews</th>
+          <th class="num">Repos</th>
         </tr>
       </thead>
       <tbody>
@@ -18,11 +20,14 @@
           <td>
             <div class="contributor">
               <img src="{{ $c.avatar_url }}" alt="{{ $c.login }}" loading="lazy" width="32" height="32">
-              <a href="https://github.com/{{ $c.login }}">{{ $c.login }}</a>
+              <a href="{{ (printf "/contributors/%s/" $c.login) | relURL }}" class="profile-link">{{ $c.login }}</a>
+              <a href="https://github.com/{{ $c.login }}" class="gh-link" title="GitHub profile">↗</a>
             </div>
           </td>
-          <td class="commits">{{ $c.commits }}</td>
-          <td class="repos">{{ len $c.repos }}</td>
+          <td class="num score">{{ $c.score }}</td>
+          <td class="num">{{ $c.commits }}</td>
+          <td class="num">{{ $c.reviews }}</td>
+          <td class="num">{{ len $c.repos }}</td>
         </tr>
         {{ end }}
       </tbody>

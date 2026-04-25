@@ -85,7 +85,8 @@ tr:nth-child(even) td { background: #24272f; }
 tr:hover td { background: #353841; }
 
 .rank { width: 60px; text-align: center; font-weight: 700; color: #888b96; }
-.commits, .repos { text-align: right; }
+.num { text-align: right; }
+.score { color: #bac7f2; font-weight: 700; }
 
 .contributor {
   display: flex;
@@ -99,13 +100,18 @@ tr:hover td { background: #353841; }
   border-radius: 50%;
 }
 
-.contributor a {
+.contributor a.profile-link {
   color: #bac7f2;
   text-decoration: none;
   font-weight: 600;
 }
-
-.contributor a:hover { color: #475ad2; text-decoration: underline; }
+.contributor a.profile-link:hover { color: #475ad2; text-decoration: underline; }
+.contributor a.gh-link {
+  color: #545861;
+  text-decoration: none;
+  font-size: 0.8rem;
+}
+.contributor a.gh-link:hover { color: #bac7f2; }
 
 .updated {
   margin-top: 1.5rem;
@@ -115,3 +121,24 @@ tr:hover td { background: #353841; }
 }
 
 .empty { text-align: center; padding: 3rem; color: #545861; }
+
+/* Contributor detail page */
+.contributor-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+.avatar-lg { border-radius: 50%; }
+.contributor-header h2 { margin: 0; }
+.contributor-header h2 a { color: #bac7f2; text-decoration: none; }
+.contributor-header h2 a:hover { color: #475ad2; }
+.stats { display: flex; gap: 1.5rem; margin-top: 0.3rem; color: #888b96; }
+.stat strong { color: #eceef2; }
+h3 { margin: 1.5rem 0 0.5rem; color: #bac7f2; }
+.nowrap { white-space: nowrap; }
+td a { color: #bac7f2; text-decoration: none; }
+td a:hover { color: #475ad2; text-decoration: underline; }
+.back { margin-top: 2rem; }
+.back a { color: #475ad2; text-decoration: none; }
+.back a:hover { text-decoration: underline; }

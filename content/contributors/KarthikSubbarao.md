@@ -1,0 +1,445 @@
+---
+{
+  "title": "KarthikSubbarao",
+  "login": "KarthikSubbarao",
+  "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
+  "score": 53,
+  "commit_count": 16,
+  "review_count": 37,
+  "repos": [
+    "valkey-bloom",
+    "valkey-doc",
+    "valkey-rfc",
+    "valkey-search",
+    "valkey-test-framework"
+  ],
+  "commit_list": [
+    {
+      "sha": "523e19a984",
+      "message": "Prevalidate in BF.LOAD (#89)",
+      "date": "2026-04-23",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/89",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/523e19a98426d32dab7097ae46ddaa891148fb10"
+    },
+    {
+      "sha": "348bd9f656",
+      "message": "Add more validation in the RDB Load and BF.LOAD paths (#88)",
+      "date": "2026-04-15",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/88",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/348bd9f6560a4ca9ef6b129a5826e7eda43c7dfc"
+    },
+    {
+      "sha": "0b51c5595e",
+      "message": "0b51c5595e",
+      "date": "2026-03-27",
+      "repo": "valkey-search",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0b51c5595eaa1698bfe3424a1dfbc5314340c9b9"
+    },
+    {
+      "sha": "a68614b6e3",
+      "message": "Set ModuleOptions to Handle IO Errors (#82)",
+      "date": "2026-02-23",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/82",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/a68614b6e3845777d383b3a513cedcc08b3b7ccd"
+    },
+    {
+      "sha": "69f77c1ddc",
+      "message": "69f77c1ddc",
+      "date": "2026-02-19",
+      "repo": "valkey-doc",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/69f77c1ddcb5a8c369782fef7c85c1d31eb83b96"
+    },
+    {
+      "sha": "928935b5ad",
+      "message": "928935b5ad",
+      "date": "2025-06-18",
+      "repo": "valkey-test-framework",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/928935b5adbdd71c2e48e2e7a93fc7073f30a984"
+    },
+    {
+      "sha": "ac0877bbd7",
+      "message": "ac0877bbd7",
+      "date": "2025-04-15",
+      "repo": "valkey-test-framework",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/ac0877bbd726383ef7176274a8bea7f24fa7649a"
+    },
+    {
+      "sha": "6ab8a70caf",
+      "message": "6ab8a70caf",
+      "date": "2025-04-15",
+      "repo": "valkey-test-framework",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/6ab8a70caf0b940a141544c8f07f1a6a73fdbe68"
+    },
+    {
+      "sha": "4eaa86ac0a",
+      "message": "4eaa86ac0a",
+      "date": "2025-04-15",
+      "repo": "valkey-test-framework",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/4eaa86ac0a0f4e8e69b591458191557289a42d8e"
+    },
+    {
+      "sha": "3b964a68b2",
+      "message": "3b964a68b2",
+      "date": "2025-04-15",
+      "repo": "valkey-test-framework",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/3b964a68b27b66cd400abb6b0881dcf84808f421"
+    },
+    {
+      "sha": "6b5ae6d4c0",
+      "message": "6b5ae6d4c0",
+      "date": "2025-04-15",
+      "repo": "valkey-test-framework",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/6b5ae6d4c0b9912ea92cd95c34b9ac2ce091dfdd"
+    },
+    {
+      "sha": "175b0deb2e",
+      "message": "175b0deb2e",
+      "date": "2025-04-15",
+      "repo": "valkey-test-framework",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/175b0deb2e9a4805256aee6808dbb8f41ca977f3"
+    },
+    {
+      "sha": "c7905808e3",
+      "message": "c7905808e3",
+      "date": "2025-04-15",
+      "repo": "valkey-test-framework",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/c7905808e334b18271c5674aead722781d3778be"
+    },
+    {
+      "sha": "148930ed71",
+      "message": "148930ed71",
+      "date": "2025-03-31",
+      "repo": "valkey-bloom",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/148930ed71ea4ffc8d4b88ff035f6f56b4ca656f"
+    },
+    {
+      "sha": "5d514e051c",
+      "message": "5d514e051c",
+      "date": "2025-03-28",
+      "repo": "valkey-bloom",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/5d514e051cb8ab8533a75c3d1cc295e1e52384a9"
+    },
+    {
+      "sha": "c2e2cb4d1e",
+      "message": "c2e2cb4d1e",
+      "date": "2024-08-27",
+      "repo": "valkey-rfc",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/c2e2cb4d1e1378d37bac5ef5c6b2cb87beb7d383"
+    }
+  ],
+  "review_list": [
+    {
+      "sha": "fc06556484",
+      "message": "Adding validation on tightening_ratio and fp_rate for load (#91)",
+      "date": "2026-04-23",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/91",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/fc0655648412d79c69239430863ec4eceee21935"
+    },
+    {
+      "sha": "8a897673d8",
+      "message": "Fixing bug in bloom defrag, adding digest checks to integration test, create new unit test that catches before mentioned bug (#92)",
+      "date": "2026-04-23",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/92",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/8a897673d8f2004e71193ec1d7613e6c8b574b64"
+    },
+    {
+      "sha": "8a897673d8",
+      "message": "Fixing bug in bloom defrag, adding digest checks to integration test, create new unit test that catches before mentioned bug (#92)",
+      "date": "2026-04-23",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/92",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/8a897673d8f2004e71193ec1d7613e6c8b574b64"
+    },
+    {
+      "sha": "deab7ef9e6",
+      "message": "deab7ef9e6",
+      "date": "2026-04-20",
+      "repo": "valkey-search",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/deab7ef9e6b3dc71c14650d4b31b048263f37289"
+    },
+    {
+      "sha": "8606eb0739",
+      "message": "Fix replica crash on partial-success BF.MADD/BF.INSERT replication (#86)",
+      "date": "2026-04-17",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/86",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/8606eb07395f299c409567d28533b9457f376309"
+    },
+    {
+      "sha": "541453bb03",
+      "message": "541453bb03",
+      "date": "2026-04-09",
+      "repo": "valkey-search",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/541453bb03204f4dc95f58c00203b61ec45ce4e2"
+    },
+    {
+      "sha": "923430d2ef",
+      "message": "923430d2ef",
+      "date": "2026-04-08",
+      "repo": "valkey-search",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/923430d2efc261f5052ba0a07ba76306d37f2a53"
+    },
+    {
+      "sha": "daf685e52a",
+      "message": "daf685e52a",
+      "date": "2026-04-04",
+      "repo": "valkey-search",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/daf685e52a426bd7c740df559985e2623e933775"
+    },
+    {
+      "sha": "277940b3a9",
+      "message": "277940b3a9",
+      "date": "2026-04-03",
+      "repo": "valkey-search",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/277940b3a96df437c9a8f1bc6d842f93d646ac03"
+    },
+    {
+      "sha": "f23c3269d0",
+      "message": "f23c3269d0",
+      "date": "2026-04-03",
+      "repo": "valkey-search",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/f23c3269d048f1c57a90298fc0bac60f2e54e77a"
+    },
+    {
+      "sha": "da472e234b",
+      "message": "da472e234b",
+      "date": "2026-04-01",
+      "repo": "valkey-search",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/da472e234b6e610e6391b0554b0c8390d8ab2ab8"
+    },
+    {
+      "sha": "849fb5ac0e",
+      "message": "849fb5ac0e",
+      "date": "2026-04-01",
+      "repo": "valkey-search",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/849fb5ac0e85c5a8bde266c01602b3d5e7b1340c"
+    },
+    {
+      "sha": "dcc1214f1c",
+      "message": "dcc1214f1c",
+      "date": "2026-04-01",
+      "repo": "valkey-search",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/dcc1214f1cf3f251fc3a67096c87cf195193663a"
+    },
+    {
+      "sha": "6362bc1b08",
+      "message": "6362bc1b08",
+      "date": "2026-03-31",
+      "repo": "valkey-search",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6362bc1b08c4a607130f4f1a9f50e815928d7a06"
+    },
+    {
+      "sha": "7f15015b72",
+      "message": "7f15015b72",
+      "date": "2026-03-27",
+      "repo": "valkey-search",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7f15015b72a0a2c2ae7a3d37b592b8014ef53863"
+    },
+    {
+      "sha": "d1bf811586",
+      "message": "d1bf811586",
+      "date": "2026-03-26",
+      "repo": "valkey-search",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d1bf811586c5ab71ecffccc96d57e4aa3b1934a2"
+    },
+    {
+      "sha": "9b774acd55",
+      "message": "9b774acd55",
+      "date": "2026-01-12",
+      "repo": "valkey-bloom",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/9b774acd5563d0b78e188bc4d4013afb4ba09cef"
+    },
+    {
+      "sha": "9b774acd55",
+      "message": "9b774acd55",
+      "date": "2026-01-12",
+      "repo": "valkey-bloom",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/9b774acd5563d0b78e188bc4d4013afb4ba09cef"
+    },
+    {
+      "sha": "097c2a4522",
+      "message": "097c2a4522",
+      "date": "2026-01-05",
+      "repo": "valkey-bloom",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/097c2a452211a419e8a31549cbd4ea6d788a3a28"
+    },
+    {
+      "sha": "d9998e8ce7",
+      "message": "d9998e8ce7",
+      "date": "2025-12-16",
+      "repo": "valkey-bloom",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/d9998e8ce7236bbffe35f8ac24591eb620057997"
+    },
+    {
+      "sha": "148c86d2b5",
+      "message": "148c86d2b5",
+      "date": "2025-12-16",
+      "repo": "valkey-bloom",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/148c86d2b595857ac05001e59f1886f394b35aa3"
+    },
+    {
+      "sha": "b5e641f5d0",
+      "message": "b5e641f5d0",
+      "date": "2025-10-27",
+      "repo": "valkeymodule-rs",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/b5e641f5d008df82a21028de1383b50776899c3d"
+    },
+    {
+      "sha": "57ce5897ce",
+      "message": "57ce5897ce",
+      "date": "2025-08-12",
+      "repo": "valkey-test-framework",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/57ce5897cee9f23f7cd23c36ba77712033604ca0"
+    },
+    {
+      "sha": "b84b016514",
+      "message": "b84b016514",
+      "date": "2025-08-08",
+      "repo": "valkey-test-framework",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/b84b0165147d45877cd0494274b2e05f6e72865f"
+    },
+    {
+      "sha": "450fde8c00",
+      "message": "450fde8c00",
+      "date": "2025-08-05",
+      "repo": "valkey-bloom",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/450fde8c009ba731b5e0ad9e9f2bfe9adbc27c5d"
+    },
+    {
+      "sha": "b4cf1b077d",
+      "message": "b4cf1b077d",
+      "date": "2025-07-30",
+      "repo": "valkey-test-framework",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/b4cf1b077d50b658d67df176170ee4fdccf03ea0"
+    },
+    {
+      "sha": "ed84b0494a",
+      "message": "ed84b0494a",
+      "date": "2025-07-15",
+      "repo": "valkey-test-framework",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/ed84b0494ad759b1575c31fe486cbdc8226560d5"
+    },
+    {
+      "sha": "223d780d23",
+      "message": "223d780d23",
+      "date": "2025-06-19",
+      "repo": "valkey-bloom",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/223d780d23b76e7ddfadf800471a1d9b191bca3f"
+    },
+    {
+      "sha": "bf60c40e3d",
+      "message": "bf60c40e3d",
+      "date": "2025-06-13",
+      "repo": "valkey-bloom",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/bf60c40e3df671723869bb47516800cc9eb17d8b"
+    },
+    {
+      "sha": "5b95585c83",
+      "message": "5b95585c83",
+      "date": "2025-06-10",
+      "repo": "valkey-bloom",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/5b95585c83fc734957e7e3f204fa031c658cefcc"
+    },
+    {
+      "sha": "427feec828",
+      "message": "427feec828",
+      "date": "2025-04-21",
+      "repo": "valkeymodule-rs",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/427feec828f10d345109d2cc2a8205dda773f76a"
+    },
+    {
+      "sha": "937ab52319",
+      "message": "937ab52319",
+      "date": "2025-04-17",
+      "repo": "valkeymodule-rs",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/937ab523199de117435037dd2db89f5926526bb8"
+    },
+    {
+      "sha": "2478337f92",
+      "message": "2478337f92",
+      "date": "2025-04-15",
+      "repo": "valkeymodule-rs",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/2478337f92b7e42a5cb039185a8c6453720a6f36"
+    },
+    {
+      "sha": "ffe13aa5ea",
+      "message": "ffe13aa5ea",
+      "date": "2025-04-14",
+      "repo": "valkeymodule-rs",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/ffe13aa5ea8d4a9da8034a19eea63b0416972793"
+    },
+    {
+      "sha": "ff4a50d1fd",
+      "message": "ff4a50d1fd",
+      "date": "2025-04-03",
+      "repo": "valkeymodule-rs",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/ff4a50d1fdc3226ac67d08705a08e0406036fa38"
+    },
+    {
+      "sha": "c97e0c6da0",
+      "message": "c97e0c6da0",
+      "date": "2025-03-29",
+      "repo": "valkey-bloom",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/c97e0c6da096318eb14b70aa872d3ed748e571a4"
+    },
+    {
+      "sha": "d6b8763bcc",
+      "message": "d6b8763bcc",
+      "date": "2025-03-29",
+      "repo": "valkey-bloom",
+      "pr_url": "",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/d6b8763bcc79537d9752cb21a501357dba69c382"
+    }
+  ]
+}
+---
