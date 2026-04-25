@@ -3,10 +3,11 @@
   "title": "utdrmac",
   "login": "utdrmac",
   "avatar_url": "https://avatars.githubusercontent.com/u/4413670?v=4",
-  "score": 2,
-  "commit_count": 1,
+  "score": 3,
+  "commit_count": 2,
   "review_count": 1,
   "repos": [
+    "valkey",
     "valkey-operator"
   ],
   "commit_list": [
@@ -17,6 +18,14 @@
       "repo": "valkey-operator",
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/44",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/4f3e468600bb73ed1ddfc23227e2abc1dea6024f"
+    },
+    {
+      "sha": "8df8c84ffe",
+      "message": "Same number of hyphens for summary output (#2397)",
+      "date": "2025-07-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2397",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8df8c84ffe45194d1763d0262d565c3113c8e40c"
     }
   ],
   "review_list": [

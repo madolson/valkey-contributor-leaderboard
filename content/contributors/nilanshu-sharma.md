@@ -3,9 +3,9 @@
   "title": "nilanshu-sharma",
   "login": "nilanshu-sharma",
   "avatar_url": "https://avatars.githubusercontent.com/u/220134298?v=4",
-  "score": 21,
+  "score": 22,
   "commit_count": 2,
-  "review_count": 19,
+  "review_count": 20,
   "repos": [
     "valkey-swift"
   ],
@@ -179,6 +179,14 @@
       "repo": "valkey-swift",
       "pr_url": "https://github.com/valkey-io/valkey-swift/pull/353",
       "commit_url": "https://github.com/valkey-io/valkey-swift/commit/b327d64a40bd5a958f00f724823c7953d67c4790"
+    },
+    {
+      "sha": "5bbbc6bd9a",
+      "message": "Add shard id field to CLUSTER SHARDS response (#2568)",
+      "date": "2025-10-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2568",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5bbbc6bd9a3ec44c9a47b0cbb91219370e798088"
     }
   ]
 }

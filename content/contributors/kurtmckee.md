@@ -3,10 +3,11 @@
   "title": "kurtmckee",
   "login": "kurtmckee",
   "avatar_url": "https://avatars.githubusercontent.com/u/39996?v=4",
-  "score": 8,
-  "commit_count": 7,
+  "score": 9,
+  "commit_count": 8,
   "review_count": 1,
   "repos": [
+    "valkey",
     "valkey-container",
     "valkey-py"
   ],
@@ -66,6 +67,14 @@
       "repo": "valkey-container",
       "pr_url": "https://github.com/valkey-io/valkey-container/pull/133",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/4427f7bc12ad594ab13a49543a4ba50373509a96"
+    },
+    {
+      "sha": "d49eac9cad",
+      "message": "Update the CodeQL action to resolve v3 deprecation warnings (#3310)",
+      "date": "2026-03-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3310",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d49eac9cada3b605fd6968e0d7377566ce801c67"
     }
   ],
   "review_list": [

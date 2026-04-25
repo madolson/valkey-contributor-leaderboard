@@ -3,10 +3,11 @@
   "title": "KIvanow",
   "login": "KIvanow",
   "avatar_url": "https://avatars.githubusercontent.com/u/541999?v=4",
-  "score": 4,
-  "commit_count": 4,
-  "review_count": 0,
+  "score": 8,
+  "commit_count": 7,
+  "review_count": 1,
   "repos": [
+    "valkey-admin",
     "valkey-glide-php",
     "valkey-io.github.io"
   ],
@@ -42,8 +43,41 @@
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/110",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/eb79b9dce419f88706f0e472396a53d22c480ae4"
+    },
+    {
+      "sha": "7c9f60a5af",
+      "message": "Linting issues fixed",
+      "date": "2026-01-05",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/160",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/7c9f60a5af41ec3552f3ba713ee04a6cdb44c1c8"
+    },
+    {
+      "sha": "85a9747dfe",
+      "message": "Show loading state when refreshing hot keys",
+      "date": "2026-01-05",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/157",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/85a9747dfec1b49853d2139b5f63e378f727bacf"
+    },
+    {
+      "sha": "bbefb51d36",
+      "message": "Added border bottom styling",
+      "date": "2026-01-01",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/158",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/bbefb51d3649d784f7a2c5a7e2f80628a2a96792"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "8a4a7b25dc",
+      "message": "CLUSTERSCAN Command (#2934)",
+      "date": "2026-03-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2934",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8a4a7b25dc6e2ef62819029019254f70e9433774"
+    }
+  ]
 }
 ---

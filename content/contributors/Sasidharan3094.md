@@ -3,10 +3,11 @@
   "title": "Sasidharan3094",
   "login": "Sasidharan3094",
   "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
-  "score": 21,
-  "commit_count": 10,
+  "score": 25,
+  "commit_count": 14,
   "review_count": 11,
   "repos": [
+    "valkey-glide",
     "valkey-glide-ruby"
   ],
   "commit_list": [
@@ -27,6 +28,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/08a78e379569c3b19fd5d07c719c2568021f8df6"
     },
     {
+      "sha": "c06beea50e",
+      "message": "Fixes for opentelemetry metrics (#5383)",
+      "date": "2026-03-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5383",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c06beea50e4f4e30b47787e71f9d509b1c6cc67f"
+    },
+    {
       "sha": "cf6f1bf2ee",
       "message": "Implementing support for eval_ro, evalsha_ro, script_debug (#82)",
       "date": "2026-02-17",
@@ -41,6 +50,30 @@
       "repo": "valkey-glide-ruby",
       "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/84",
       "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/07ea67ca156cec714e3747eeb2bbe8c0f72369bf"
+    },
+    {
+      "sha": "7a6992f7c1",
+      "message": "feat(java): add support for KEYS, MIGRATE, and WAITAOF commands (#5107)",
+      "date": "2026-01-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5107",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7a6992f7c1ce243caac3057b152fc06c3af1f79f"
+    },
+    {
+      "sha": "8c5240aebf",
+      "message": "feat(Java): Implement server management acl commands (#5132)",
+      "date": "2026-01-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5132",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8c5240aebfe136601ed477eff56d46a6d1f92857"
+    },
+    {
+      "sha": "59744fdcda",
+      "message": "feat(java): Implement missing eval & script commands (#5125)",
+      "date": "2026-01-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5125",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/59744fdcdab4a707e96b3f708a6052346a75e89f"
     },
     {
       "sha": "d643948d72",

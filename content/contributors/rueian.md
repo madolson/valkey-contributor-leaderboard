@@ -2,12 +2,56 @@
 {
   "title": "rueian",
   "login": "rueian",
-  "avatar_url": "https://github.com/rueian.png?size=64",
-  "score": 7,
-  "commit_count": 0,
+  "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
+  "score": 12,
+  "commit_count": 5,
   "review_count": 7,
-  "repos": [],
-  "commit_list": [],
+  "repos": [
+    "valkey",
+    "valkey-doc"
+  ],
+  "commit_list": [
+    {
+      "sha": "c6af7b1ba4",
+      "message": "Update valkey-go's client_capa_redirect feature (#369)",
+      "date": "2025-10-13",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/369",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/c6af7b1ba4faca99df13ae3e9627037543a1e6f1"
+    },
+    {
+      "sha": "0a89571dcc",
+      "message": "Skip logreqres on tests for the HELLO command (#1528)",
+      "date": "2025-01-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/1528",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0a89571dccc5ac007a9fbbda99c5e47dff615227"
+    },
+    {
+      "sha": "dc4628d444",
+      "message": "Add `availability_zone` to the HELLO command history (#1524)",
+      "date": "2025-01-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/1524",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/dc4628d444cdc871b2e009b8de523451d17c795a"
+    },
+    {
+      "sha": "5453dd4814",
+      "message": "Add availability_zone to the HELLO command documentation (#208)",
+      "date": "2025-01-08",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/208",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/5453dd48146e73d77bdc2c5433c14e179515a3e9"
+    },
+    {
+      "sha": "3b52186b6a",
+      "message": "Add `availability_zone` to the HELLO response (#1487)",
+      "date": "2025-01-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/1487",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3b52186b6a6199884edf447c52828d5ca882142f"
+    }
+  ],
   "review_list": [
     {
       "sha": "a87459a484",

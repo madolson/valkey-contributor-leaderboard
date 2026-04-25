@@ -3,9 +3,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 32,
-  "commit_count": 16,
-  "review_count": 16,
+  "score": 56,
+  "commit_count": 22,
+  "review_count": 34,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -118,6 +118,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/3b70239754327b55fdb5a0980f4abdaea7db2796"
     },
     {
+      "sha": "45b7106c89",
+      "message": "feat(test): Improve DNS and IP address tests consistency (#5513)",
+      "date": "2026-04-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5513",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/45b7106c894f9d7189b4963dd0ef6281db6d6ec3"
+    },
+    {
       "sha": "00f95e35df",
       "message": "Add \"Coming Soon\" pre-release indicators for C# client documentation (#183)",
       "date": "2026-03-27",
@@ -140,6 +148,46 @@
       "repo": "valkey-glide-docs",
       "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/172",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/cada2c03b84217d3295d4f4c82e7564a1147cda9"
+    },
+    {
+      "sha": "a8b02643a0",
+      "message": "feat(go): Add DNS, TLS, and IP address tests (#5479)",
+      "date": "2026-03-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5479",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a8b02643a0500cb293662cd1bc01a8c957e24cb6"
+    },
+    {
+      "sha": "585929499f",
+      "message": "feat(node): Add DNS, TLS, and IP address tests (#5497)",
+      "date": "2026-03-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5497",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/585929499f6697ed12fc03fff39198743cd76d76"
+    },
+    {
+      "sha": "169f46965f",
+      "message": "feat(python): Add DNS, TLS, and IP address tests (#5465)",
+      "date": "2026-03-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5465",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/169f46965f6f0b69964678eecdae9053e5dfa258"
+    },
+    {
+      "sha": "8f1f2740ac",
+      "message": "feat(rust): Add DNS and TLS tests (#5436)",
+      "date": "2026-03-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5436",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8f1f2740acc92834b1c635f02567b1d379c5fd65"
+    },
+    {
+      "sha": "7e260b4d4f",
+      "message": "feat(java): Add DNS and TLS tests (#5419)",
+      "date": "2026-02-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5419",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7e260b4d4fd37f0fe46442861c845fa2b8b172f1"
     }
   ],
   "review_list": [
@@ -248,12 +296,28 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/befc8f97c8e41b67aa36821038ca9e02fa3dfb56"
     },
     {
+      "sha": "5e34a0bc41",
+      "message": "Fix broken links (#5734)",
+      "date": "2026-04-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5734",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5e34a0bc41d3ab295769bc7e66aab1debc1adffe"
+    },
+    {
       "sha": "607128e55f",
       "message": "PHP: Update approved license for aws-lc-sys:0.39.0 (#176)",
       "date": "2026-03-27",
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/176",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/607128e55feefa01f5e38ac8d3e3efc298fd6ccc"
+    },
+    {
+      "sha": "f838e3af09",
+      "message": "Update CHANGELOG.md after release of 2.3 (#5636)",
+      "date": "2026-03-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5636",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f838e3af093985bcca759f126e6729bb23e6efc3"
     },
     {
       "sha": "3603d033cb",
@@ -272,6 +336,78 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/7278a6a343c1d3ee60fcb71d57bd23bd2c21159e"
     },
     {
+      "sha": "8014a8657d",
+      "message": "Fix/go/python cicd test-container tests (#5560)",
+      "date": "2026-03-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5560",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8014a8657da86cb0fbd8957e96ce941ad5e1ee83"
+    },
+    {
+      "sha": "cfe7ab4b23",
+      "message": "Ignore test_cluster_connection_fails_with_permission_denied due to flaky behavior (#5504)",
+      "date": "2026-03-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5504",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cfe7ab4b23dfa3c9c429bf60e7e52d74cf7bebfc"
+    },
+    {
+      "sha": "9d786bfaf6",
+      "message": "Updated attribution files for commit 868398adcc8303307e13460faa3868b55f1b57f5 (#5461)",
+      "date": "2026-03-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5461",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9d786bfaf6865adab4e1a8aed9ed50b9392f8c94"
+    },
+    {
+      "sha": "d79fb55998",
+      "message": "Go: Support statistics and dynamic pubsub (#5280)",
+      "date": "2026-02-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5280",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d79fb559982f58ee4486f402cc760073be8c4a11"
+    },
+    {
+      "sha": "28c58dcccc",
+      "message": "Python: Add dynamic PubSub support to sync client (#5272)",
+      "date": "2026-02-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5272",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/28c58dcccccdefe1f6df57766e43c2597e107124"
+    },
+    {
+      "sha": "28c58dcccc",
+      "message": "Python: Add dynamic PubSub support to sync client (#5272)",
+      "date": "2026-02-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5272",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/28c58dcccccdefe1f6df57766e43c2597e107124"
+    },
+    {
+      "sha": "c84ad14a30",
+      "message": "Enable Windows integration test in workflow through WSL (#5112)",
+      "date": "2026-01-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5112",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c84ad14a30884ee226dc50922d71f7393c4043c1"
+    },
+    {
+      "sha": "5496b40d1f",
+      "message": "Enhance pull request template with additional sections (#5171)",
+      "date": "2026-01-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5171",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5496b40d1f3cf528d9aed324778833bfb329b458"
+    },
+    {
+      "sha": "706a7499e0",
+      "message": "Core: Fix unnecessary unwrap() warning in connection.rs (#5215)",
+      "date": "2026-01-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5215",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/706a7499e014d1261376c0a3c3599664411d76f2"
+    },
+    {
       "sha": "33067647a6",
       "message": "PHP: Remove ValkeyGlideClusterException (#127)",
       "date": "2026-01-22",
@@ -280,12 +416,76 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/33067647a602a13958deef75fd2932745a6fd101"
     },
     {
+      "sha": "65ff249cb4",
+      "message": "Core: Fix unnecessary unwrap() warning in test utilities (#5214)",
+      "date": "2026-01-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5214",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/65ff249cb4ec3ee062d73cb9dd7ad620ace15162"
+    },
+    {
+      "sha": "a5085fc0e7",
+      "message": "Re-enable tests that were skipped due to issue #2277 (#5208)",
+      "date": "2026-01-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5208",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a5085fc0e76e3afcb19a66de451d3f7348fde994"
+    },
+    {
+      "sha": "b798b46d46",
+      "message": "Make sure we handle IPV6 properly when extracting host and port. (#5104)",
+      "date": "2026-01-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5104",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b798b46d4617bd2c791404f2118f4d6d6f94dbf5"
+    },
+    {
+      "sha": "608facc85b",
+      "message": "[Python] Fix flaky test `test_tls_with_self_signed_certificate_succeeds` #4946 (#5054)",
+      "date": "2026-01-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5054",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/608facc85b9a7adb357b55b6396d9f5e8fd95753"
+    },
+    {
+      "sha": "003e35765d",
+      "message": "[Python] Fix flaky test `test_tls_with_multiple_certificates_succeeds` #4950 (#5055)",
+      "date": "2026-01-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5055",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/003e35765d0ed233d553e50e2f3961b3abc192ab"
+    },
+    {
+      "sha": "61fb0e3e6b",
+      "message": "[Python] Fix flaky test `test_zscan` assertion logic #4952 (#5056)",
+      "date": "2026-01-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5056",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/61fb0e3e6b937fd0f26640b71938d9fae014b6b0"
+    },
+    {
       "sha": "82bff0b45a",
       "message": "perf(php): optimize struct member ordering to reduce padding (#111)",
       "date": "2026-01-09",
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/111",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/82bff0b45a1ade28aefa00627ecde7f3d8f58672"
+    },
+    {
+      "sha": "b576f80b12",
+      "message": "Fix/node zscan assertion logic (#5144)",
+      "date": "2026-01-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5144",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b576f80b12984f22402857dc0155703dbf21bbee"
+    },
+    {
+      "sha": "0031ed0392",
+      "message": "Add RUSTSEC-2025-0141 to ignore list in deny.toml (#5137)",
+      "date": "2026-01-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5137",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0031ed039272a6ae31cbfc15b000acce7b9aa6c3"
     },
     {
       "sha": "eb79b9dce4",

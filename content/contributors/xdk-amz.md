@@ -2,12 +2,23 @@
 {
   "title": "xdk-amz",
   "login": "xdk-amz",
-  "avatar_url": "https://github.com/xdk-amz.png?size=64",
-  "score": 1,
-  "commit_count": 0,
+  "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
+  "score": 2,
+  "commit_count": 1,
   "review_count": 1,
-  "repos": [],
-  "commit_list": [],
+  "repos": [
+    "valkey-glide"
+  ],
+  "commit_list": [
+    {
+      "sha": "db3da42c77",
+      "message": "[Go] Implement Go bindings for Transparent Compression (#5359)",
+      "date": "2026-02-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5359",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/db3da42c778b7af57a1bf2e298be1c620b9e9e0b"
+    }
+  ],
   "review_list": [
     {
       "sha": "651c40a89e",

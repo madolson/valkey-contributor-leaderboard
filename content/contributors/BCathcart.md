@@ -3,10 +3,11 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 11,
-  "commit_count": 3,
+  "score": 13,
+  "commit_count": 5,
   "review_count": 8,
   "repos": [
+    "valkey",
     "valkey-io.github.io",
     "valkey-search"
   ],
@@ -34,6 +35,22 @@
       "repo": "valkey-io.github.io",
       "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/481",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/7d1e799382f0f59a80ba8ca2384f0a82d8d72167"
+    },
+    {
+      "sha": "34649bd034",
+      "message": "Configurable cluster blacklist TTL (#738)",
+      "date": "2024-07-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/738",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/34649bd034b6780989bf05b97fa9bde2b7cec243"
+    },
+    {
+      "sha": "6a5a11f21c",
+      "message": "Fix ULong config boundary checking (#752)",
+      "date": "2024-07-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/752",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6a5a11f21c6b6a5c8678c50e96b559919962ba10"
     }
   ],
   "review_list": [

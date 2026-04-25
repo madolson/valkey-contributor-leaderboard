@@ -3,9 +3,9 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 10,
-  "commit_count": 2,
-  "review_count": 8,
+  "score": 18,
+  "commit_count": 6,
+  "review_count": 12,
   "repos": [
     "libvalkey-py",
     "valkey-py"
@@ -26,6 +26,38 @@
       "repo": "libvalkey-py",
       "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/49",
       "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/52efa00d1291235c2b10bc96acc17becebd0e37c"
+    },
+    {
+      "sha": "720ac12f99",
+      "message": "Merge pull request #44 from valkey-io/mkmkme/add-dependabot",
+      "date": "2025-11-04",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/44",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/720ac12f99eb0790b20f470160716ce9020fac5c"
+    },
+    {
+      "sha": "9c6f3e113a",
+      "message": "Merge pull request #41 from valkey-io/mkmkme/4.0.2rc1",
+      "date": "2025-11-03",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/41",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/9c6f3e113a59bac353172e88fa0dc5f476edb3e1"
+    },
+    {
+      "sha": "53dab3a668",
+      "message": "github: added HOWTO to wordlist.txt (#37)",
+      "date": "2025-10-20",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/37",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/53dab3a668119f4a568837686675d1b04ca15e0f"
+    },
+    {
+      "sha": "7e897d7277",
+      "message": "Merge pull request #34 from valkey-io/mkmkme/update-libvalkey",
+      "date": "2025-07-10",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/34",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/7e897d7277a1166de432fa01f146950cdf703a94"
     }
   ],
   "review_list": [
@@ -142,6 +174,46 @@
       "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/47887a1cb416af75fc6fefd8179aab05160aa2bc"
     },
     {
+      "sha": "b3d49850a3",
+      "message": "Bump pypa/cibuildwheel from 2.21.3 to 3.2.1",
+      "date": "2025-11-05",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/49",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/b3d49850a3774396c03f8c84964816a296472ac7"
+    },
+    {
+      "sha": "45172bea87",
+      "message": "Bump actions/download-artifact from 4 to 6",
+      "date": "2025-11-05",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/46",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/45172bea8757c2abddf1dde7f4ba8cd32daa4e89"
+    },
+    {
+      "sha": "b917e4a3b1",
+      "message": "Bump actions/upload-artifact from 4 to 5",
+      "date": "2025-11-04",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/45",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/b917e4a3b1877821b38095b7cd4b41ee15eb577b"
+    },
+    {
+      "sha": "adddc31e4c",
+      "message": "Add Python 3.14, 3.14t, and PyPy-3.11 to the testing",
+      "date": "2025-10-20",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/35",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/adddc31e4c04f0bf3ac972962d076f3ffa048671"
+    },
+    {
+      "sha": "634c70d795",
+      "message": "Spelling (#30)",
+      "date": "2025-10-19",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/30",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/634c70d79564b0b94f47b9a74598da8f0bc7f58b"
+    },
+    {
       "sha": "ea72f483d4",
       "message": "Rename offensive defines and members in API (#140)",
       "date": "2024-12-18",
@@ -172,6 +244,22 @@
       "repo": "libvalkey",
       "pr_url": "https://github.com/valkey-io/libvalkey/pull/135",
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/d19f857d30ab287b91bdbfdac04a47b5e81c68bd"
+    },
+    {
+      "sha": "06ccd5bc12",
+      "message": "fix reply map value memory leak",
+      "date": "2024-10-31",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/25",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/06ccd5bc122e955ab4ba0d77106a3b648388092b"
+    },
+    {
+      "sha": "f3776bd781",
+      "message": "Rebranding of code in libvalkeycluster (#15)",
+      "date": "2024-06-20",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/15",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/f3776bd7818035ba4c6f330894b94456f5fb5981"
     }
   ]
 }

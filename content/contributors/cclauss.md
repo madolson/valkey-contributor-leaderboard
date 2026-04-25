@@ -3,8 +3,8 @@
   "title": "cclauss",
   "login": "cclauss",
   "avatar_url": "https://avatars.githubusercontent.com/u/3709715?v=4",
-  "score": 3,
-  "commit_count": 2,
+  "score": 4,
+  "commit_count": 3,
   "review_count": 1,
   "repos": [
     "libvalkey-py"
@@ -25,6 +25,14 @@
       "repo": "libvalkey-py",
       "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/51",
       "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/4104da6b022f02d2830ac2fc1a8997e0b33b52a9"
+    },
+    {
+      "sha": "adddc31e4c",
+      "message": "Add Python 3.14, 3.14t, and PyPy-3.11 to the testing",
+      "date": "2025-10-20",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/35",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/adddc31e4c04f0bf3ac972962d076f3ffa048671"
     }
   ],
   "review_list": [
@@ -35,6 +43,14 @@
       "repo": "libvalkey-py",
       "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/49",
       "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/52efa00d1291235c2b10bc96acc17becebd0e37c"
+    },
+    {
+      "sha": "b3d49850a3",
+      "message": "Bump pypa/cibuildwheel from 2.21.3 to 3.2.1",
+      "date": "2025-11-05",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/49",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/b3d49850a3774396c03f8c84964816a296472ac7"
     }
   ]
 }

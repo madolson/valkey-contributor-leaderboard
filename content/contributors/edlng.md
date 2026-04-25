@@ -3,8 +3,8 @@
   "title": "edlng",
   "login": "edlng",
   "avatar_url": "https://avatars.githubusercontent.com/u/76571219?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "valkey-glide",
@@ -42,6 +42,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5590",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/75eb40a96957298a9f83a16c6cce1883ce717f1e"
+    },
+    {
+      "sha": "1d495581fa",
+      "message": "feat(python, java, node): Add Valkey Search 1.2 arguments to `FT.*` commands (#5571)",
+      "date": "2026-04-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5571",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1d495581fa1442f50cc5fe78a2c278a563b433a7"
+    },
+    {
+      "sha": "1ea3106852",
+      "message": "fix(python,java,node,rust): add missing vector search 1.1 args (#5550)",
+      "date": "2026-04-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5550",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1ea3106852123afd0e44b7144c8592e464442d55"
     }
   ],
   "review_list": []

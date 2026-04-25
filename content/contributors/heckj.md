@@ -3,10 +3,11 @@
   "title": "heckj",
   "login": "heckj",
   "avatar_url": "https://avatars.githubusercontent.com/u/43388?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
+    "valkey",
     "valkey-swift"
   ],
   "commit_list": [
@@ -17,6 +18,14 @@
       "repo": "valkey-swift",
       "pr_url": "https://github.com/valkey-io/valkey-swift/pull/374",
       "commit_url": "https://github.com/valkey-io/valkey-swift/commit/05fee0e5d2b570b34db1501cf688291ba9e7f2f6"
+    },
+    {
+      "sha": "ecba3e3123",
+      "message": "Grammar, spelling, and punctuation fixes across the summary fields for Valkey commands. (#3309)",
+      "date": "2026-04-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3309",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ecba3e312300a12fa3bbd4718aedcab3e26ff425"
     },
     {
       "sha": "27d56ef613",

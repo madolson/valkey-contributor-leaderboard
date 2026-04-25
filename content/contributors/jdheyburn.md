@@ -3,10 +3,11 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 20,
-  "commit_count": 5,
+  "score": 21,
+  "commit_count": 6,
   "review_count": 15,
   "repos": [
+    "valkey",
     "valkey-operator"
   ],
   "commit_list": [
@@ -49,6 +50,14 @@
       "repo": "valkey-operator",
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/94",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/41e9a48972bbb148d2907a4f6508459e31960264"
+    },
+    {
+      "sha": "130befc812",
+      "message": "Dual-channel-replication announces itself at replica-announce-ip if configured (#2846)",
+      "date": "2026-02-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2846",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/130befc8123b0cb98e3c2c87f604aca0e50755be"
     }
   ],
   "review_list": [

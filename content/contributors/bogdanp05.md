@@ -3,11 +3,12 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 3,
-  "commit_count": 1,
-  "review_count": 2,
+  "score": 8,
+  "commit_count": 2,
+  "review_count": 6,
   "repos": [
-    "libvalkey-py"
+    "libvalkey-py",
+    "valkey"
   ],
   "commit_list": [
     {
@@ -17,6 +18,14 @@
       "repo": "libvalkey-py",
       "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/68",
       "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/2c72b6477d486315cf3994011f3d132fc6d837d3"
+    },
+    {
+      "sha": "1a975faf79",
+      "message": "Fix ACL LOAD crash on replica since the primary client don't has a user (#1842)",
+      "date": "2025-03-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/1842",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1a975faf79c35cbbd6c846b118b3060af4ccf559"
     }
   ],
   "review_list": [
@@ -123,6 +132,46 @@
       "repo": "libvalkey-py",
       "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/55",
       "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/baebb61b7b24023100c947949d47b2a3efde92ef"
+    },
+    {
+      "sha": "22c923b6e5",
+      "message": "Bump actions/checkout from 4 to 5 (#47)",
+      "date": "2025-11-05",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/47",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/22c923b6e5b4298cebdc8e741234ac712a356f98"
+    },
+    {
+      "sha": "720ac12f99",
+      "message": "Merge pull request #44 from valkey-io/mkmkme/add-dependabot",
+      "date": "2025-11-04",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/44",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/720ac12f99eb0790b20f470160716ce9020fac5c"
+    },
+    {
+      "sha": "9c6f3e113a",
+      "message": "Merge pull request #41 from valkey-io/mkmkme/4.0.2rc1",
+      "date": "2025-11-03",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/41",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/9c6f3e113a59bac353172e88fa0dc5f476edb3e1"
+    },
+    {
+      "sha": "53dab3a668",
+      "message": "github: added HOWTO to wordlist.txt (#37)",
+      "date": "2025-10-20",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/37",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/53dab3a668119f4a568837686675d1b04ca15e0f"
+    },
+    {
+      "sha": "7e897d7277",
+      "message": "Merge pull request #34 from valkey-io/mkmkme/update-libvalkey",
+      "date": "2025-07-10",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/34",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/7e897d7277a1166de432fa01f146950cdf703a94"
     }
   ]
 }

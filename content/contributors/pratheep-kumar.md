@@ -3,10 +3,11 @@
   "title": "pratheep-kumar",
   "login": "pratheep-kumar",
   "avatar_url": "https://avatars.githubusercontent.com/u/40911083?v=4",
-  "score": 22,
-  "commit_count": 10,
+  "score": 25,
+  "commit_count": 13,
   "review_count": 12,
   "repos": [
+    "valkey-glide",
     "valkey-glide-ruby"
   ],
   "commit_list": [
@@ -17,6 +18,14 @@
       "repo": "valkey-glide-ruby",
       "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/87",
       "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/bab3cb3884e720428c3848595b395f94d2ab9985"
+    },
+    {
+      "sha": "926d59bc27",
+      "message": "Enabling support to create connection requests from uris directly (#5620)",
+      "date": "2026-04-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5620",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/926d59bc272f511dfe902d9c38d7749341639b48"
     },
     {
       "sha": "9c4d2af843",
@@ -33,6 +42,22 @@
       "repo": "valkey-glide-ruby",
       "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/80",
       "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/58c81d657934998ad6f1c668e105b7b09b2a5b62"
+    },
+    {
+      "sha": "7f4dc03452",
+      "message": "Enabling support for missing sorted set commands (#5379)",
+      "date": "2026-02-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5379",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7f4dc0345298b6cab80a12a1f28a3890ca779f31"
+    },
+    {
+      "sha": "6f96c84f34",
+      "message": "CORE: Track HELLO and AUTH state for reconnection (#5145)",
+      "date": "2026-02-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5145",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6f96c84f34dfc2981fe5ee0f87b7784ec3407b7e"
     },
     {
       "sha": "b265c986e1",

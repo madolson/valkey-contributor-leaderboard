@@ -3,10 +3,11 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 3,
-  "commit_count": 2,
+  "score": 5,
+  "commit_count": 4,
   "review_count": 1,
   "repos": [
+    "valkey",
     "valkey-perf-benchmark",
     "valkeymodule-rs"
   ],
@@ -26,6 +27,22 @@
       "repo": "valkeymodule-rs",
       "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/186",
       "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/937ab523199de117435037dd2db89f5926526bb8"
+    },
+    {
+      "sha": "d588bb3bee",
+      "message": "Fix raxRemove crash at memcpy() due to key size exceeds max Rax size (#1722)",
+      "date": "2025-02-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/1722",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d588bb3bee0122ead9671647c34b7452bee81381"
+    },
+    {
+      "sha": "d89ef06ce5",
+      "message": "Wait for cluster fully online in cluster_config_consistent (#272)",
+      "date": "2024-04-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/272",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d89ef06ce5c377e5bcba5703ac138ccdfffb89e4"
     }
   ],
   "review_list": [

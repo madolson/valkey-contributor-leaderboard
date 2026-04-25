@@ -3,9 +3,9 @@
   "title": "mcollina",
   "login": "mcollina",
   "avatar_url": "https://github.com/mcollina.png?size=64",
-  "score": 18,
+  "score": 19,
   "commit_count": 0,
-  "review_count": 18,
+  "review_count": 19,
   "repos": [],
   "commit_list": [],
   "review_list": [
@@ -72,6 +72,14 @@
       "repo": "iovalkey",
       "pr_url": "https://github.com/valkey-io/iovalkey/pull/34",
       "commit_url": "https://github.com/valkey-io/iovalkey/commit/b3b884c8efcf62e872afe09b9b2cb8406cfef49c"
+    },
+    {
+      "sha": "2af1a9bff4",
+      "message": "Introduce Valkey client overview (#164)",
+      "date": "2025-02-11",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/164",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/2af1a9bff4f08276cf0f3bc5cd3d240e2077a96b"
     },
     {
       "sha": "7e8fbf8527",

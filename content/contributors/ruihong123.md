@@ -3,11 +3,12 @@
   "title": "ruihong123",
   "login": "ruihong123",
   "avatar_url": "https://avatars.githubusercontent.com/u/67431767?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
-    "libvalkey"
+    "libvalkey",
+    "valkey"
   ],
   "commit_list": [
     {
@@ -25,6 +26,14 @@
       "repo": "libvalkey",
       "pr_url": "https://github.com/valkey-io/libvalkey/pull/229",
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/9e10acbf7fddd83245cde01a35256e0290be16ce"
+    },
+    {
+      "sha": "58f5562d22",
+      "message": "Fix duplicate Acks for RDMA events and fix extremely large max latency for RDMA benchmark. (#2430)",
+      "date": "2025-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2430",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/58f5562d221d74ab85624a11ac330d9c5f69ae78"
     }
   ],
   "review_list": []

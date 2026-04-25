@@ -3,10 +3,11 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 11,
-  "commit_count": 1,
+  "score": 13,
+  "commit_count": 3,
   "review_count": 10,
   "repos": [
+    "valkey",
     "valkey-json"
   ],
   "commit_list": [
@@ -17,6 +18,22 @@
       "repo": "valkey-json",
       "pr_url": "https://github.com/valkey-io/valkey-json/pull/71",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/fe9b048582a88a3b4d3c8701394c85f1ca7490a0"
+    },
+    {
+      "sha": "d2eee78a15",
+      "message": "Module API: Add READONLY flag to ClientInfo.flags output structure (#2522)",
+      "date": "2025-08-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2522",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d2eee78a151884518441572c53fc378bf6689e81"
+    },
+    {
+      "sha": "7d63bc5bab",
+      "message": "Increase TID count to accomodate valkey-search reader/writer pools (#2417)",
+      "date": "2025-08-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2417",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7d63bc5babc936402573f067ecd36a4e4557f534"
     }
   ],
   "review_list": [

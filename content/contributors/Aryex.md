@@ -3,9 +3,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 28,
-  "commit_count": 14,
-  "review_count": 14,
+  "score": 49,
+  "commit_count": 21,
+  "review_count": 28,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -45,6 +45,30 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/f48a350688bff7a66e0226f8692c669e15b06425"
     },
     {
+      "sha": "5e34a0bc41",
+      "message": "Fix broken links (#5734)",
+      "date": "2026-04-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5734",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5e34a0bc41d3ab295769bc7e66aab1debc1adffe"
+    },
+    {
+      "sha": "140d1110e4",
+      "message": "[Core] Fixed flaky tests: test_pipeline_can_reconnect and test_pipeline_reconnect_after_kill_all_connections (#5707)",
+      "date": "2026-04-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5707",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/140d1110e4c6a18b0f6569912b58ebd8a2f09811"
+    },
+    {
+      "sha": "f1126f0608",
+      "message": "Fix flaky Rust core tests due to checking client id (#5667)",
+      "date": "2026-04-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5667",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f1126f0608c9ad9357f12a004eb1c35cebc9fcdb"
+    },
+    {
       "sha": "b4d34bab1f",
       "message": "Fixed formatter issues escaping square brackets (#175)",
       "date": "2026-03-20",
@@ -67,6 +91,38 @@
       "repo": "valkey-glide-docs",
       "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/176",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/7278a6a343c1d3ee60fcb71d57bd23bd2c21159e"
+    },
+    {
+      "sha": "8f8c3f76ff",
+      "message": "Added PermissionDenied and AuthenticationError error to fail fast during topology calculation (#5515)",
+      "date": "2026-03-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5515",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8f8c3f76ffdc8bcefd140ac1b8e70bb165fcd53b"
+    },
+    {
+      "sha": "cfe7ab4b23",
+      "message": "Ignore test_cluster_connection_fails_with_permission_denied due to flaky behavior (#5504)",
+      "date": "2026-03-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5504",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cfe7ab4b23dfa3c9c429bf60e7e52d74cf7bebfc"
+    },
+    {
+      "sha": "ebe0fc6402",
+      "message": "Fixed topology discovery flow not surfacing NOPERM errors (#5486)",
+      "date": "2026-03-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5486",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ebe0fc6402dc67db0e555d1713a79f0d40a89fc3"
+    },
+    {
+      "sha": "6fc8ed1c74",
+      "message": "Update wiki links to documentation site (#5396)",
+      "date": "2026-03-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5396",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6fc8ed1c74127334492d8968bf229e9a10d248e4"
     },
     {
       "sha": "7f5c4e873d",
@@ -167,12 +223,52 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/4bc59c8114e67274bf8df44a9a71b9f18d08a86d"
     },
     {
+      "sha": "77c77bf453",
+      "message": "feat(Java): Task/add cluster slot commands (#5434)",
+      "date": "2026-04-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5434",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/77c77bf453075aa951269c8a41f88db6faa3202e"
+    },
+    {
       "sha": "d0a00634ac",
       "message": "Java: Add uber jar installation option for Valkey GLIDE (#181)",
       "date": "2026-04-10",
       "repo": "valkey-glide-docs",
       "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/181",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/d0a00634acc977aa871f9c9e14fa9e950e6faf1a"
+    },
+    {
+      "sha": "327504aae3",
+      "message": "GO: Add JSON TOGGLE, RESP, DEBUG, numeric, string and object commands (#5711)",
+      "date": "2026-04-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5711",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/327504aae3abbde20148ce57eb0075e0bf6cf075"
+    },
+    {
+      "sha": "5ee911e673",
+      "message": "Go: add JSON - DEL, FORGET, CLEAR, MGET, TYPE, and array commands (#5691)",
+      "date": "2026-04-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5691",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5ee911e673d58b78628b5ca1481bd632e811e8f5"
+    },
+    {
+      "sha": "1ea3106852",
+      "message": "fix(python,java,node,rust): add missing vector search 1.1 args (#5550)",
+      "date": "2026-04-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5550",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1ea3106852123afd0e44b7144c8592e464442d55"
+    },
+    {
+      "sha": "745946b61d",
+      "message": "Go: Add JSON.SET and JSON.GET commands (#5662)",
+      "date": "2026-04-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5662",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/745946b61daf15f5540395de2a28c47ce10efe30"
     },
     {
       "sha": "00f95e35df",
@@ -223,6 +319,62 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/cada2c03b84217d3295d4f4c82e7564a1147cda9"
     },
     {
+      "sha": "5df234c056",
+      "message": "refactor(java): rename unsubscribe methods to lazy variants (#5532)",
+      "date": "2026-03-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5532",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5df234c056668c52b352b9d36ed5143706dd980a"
+    },
+    {
+      "sha": "79d2fc119e",
+      "message": "feat(jedis-compatibility):add support for  connection and tx commands (#5422)",
+      "date": "2026-03-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5422",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/79d2fc119ec99a34a299a3ad50fce24811ef646e"
+    },
+    {
+      "sha": "a8b02643a0",
+      "message": "feat(go): Add DNS, TLS, and IP address tests (#5479)",
+      "date": "2026-03-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5479",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a8b02643a0500cb293662cd1bc01a8c957e24cb6"
+    },
+    {
+      "sha": "169f46965f",
+      "message": "feat(python): Add DNS, TLS, and IP address tests (#5465)",
+      "date": "2026-03-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5465",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/169f46965f6f0b69964678eecdae9053e5dfa258"
+    },
+    {
+      "sha": "8f1f2740ac",
+      "message": "feat(rust): Add DNS and TLS tests (#5436)",
+      "date": "2026-03-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5436",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8f1f2740acc92834b1c635f02567b1d379c5fd65"
+    },
+    {
+      "sha": "ea8c44c853",
+      "message": "Java: Add uber JAR support for multi-platform builds (#5484)",
+      "date": "2026-03-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5484",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ea8c44c853bc29bab3646a879c1c91e184d49a49"
+    },
+    {
+      "sha": "2e759e7350",
+      "message": "Fix/fcall_readonly_function flaky test by using WAIT command to ensure function replication to replicas before asserting for errors (#5417)",
+      "date": "2026-03-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5417",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2e759e735013665c6b8ed7d1b06ee98eada7185d"
+    },
+    {
       "sha": "bd502f98cb",
       "message": "PHP: Add reference section (#160)",
       "date": "2026-02-28",
@@ -231,12 +383,28 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/bd502f98cb9f83c857cc2859f0e458e27447e528"
     },
     {
+      "sha": "b00feb20fd",
+      "message": "feat(jedis-compatibility): add server management commands (#5346)",
+      "date": "2026-02-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5346",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b00feb20fd33e87b15e2d2ef40fc36fbd9d6af49"
+    },
+    {
       "sha": "5948973fa9",
       "message": "PHP: Add how to section (#158)",
       "date": "2026-02-26",
       "repo": "valkey-glide-docs",
       "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/158",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/5948973fa9ec9f11b7c39c00ae34c63ca5dfc70c"
+    },
+    {
+      "sha": "ed1d12bddf",
+      "message": "Fix/Replace sleep with retry-polling loop in TestScriptKillWithRoute to fix race condition (#5423)",
+      "date": "2026-02-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5423",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ed1d12bddf5b9c64d81a8dfd946a9a7e2e5d1ea3"
     }
   ]
 }

@@ -3,10 +3,12 @@
   "title": "dmitrypol",
   "login": "dmitrypol",
   "avatar_url": "https://avatars.githubusercontent.com/u/210308?v=4",
-  "score": 5,
-  "commit_count": 4,
+  "score": 8,
+  "commit_count": 7,
   "review_count": 1,
   "repos": [
+    "valkey",
+    "valkey-doc",
     "valkey-json",
     "valkeymodule-rs"
   ],
@@ -42,6 +44,30 @@
       "repo": "valkeymodule-rs",
       "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/188",
       "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/70facf92ce42cfd747be1bc83cb57704de770b97"
+    },
+    {
+      "sha": "e2de3a4c22",
+      "message": "updated module docs to reference Valkey (#67)",
+      "date": "2024-04-29",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/67",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/e2de3a4c222a0daa98f71299ba8c82293e5ffd7a"
+    },
+    {
+      "sha": "f0e1edc273",
+      "message": "Updated modules examples and tests to use valkey vs redis (#349)",
+      "date": "2024-04-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/349",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f0e1edc2734a4e76aabb430e19e9220de5be02ae"
+    },
+    {
+      "sha": "a989ee5c05",
+      "message": "Updated modules examples to reference Valkey* (#342)",
+      "date": "2024-04-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/342",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a989ee5c0544dc58d853c814c28dd3c103bee15b"
     }
   ],
   "review_list": [

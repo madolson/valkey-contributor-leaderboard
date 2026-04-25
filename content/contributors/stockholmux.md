@@ -3,9 +3,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 10,
+  "score": 26,
   "commit_count": 2,
-  "review_count": 8,
+  "review_count": 24,
   "repos": [
     "valkey-io.github.io"
   ],
@@ -53,6 +53,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f491ea26334c736988da9b4f56e26050130dbd9f"
     },
     {
+      "sha": "ecba3e3123",
+      "message": "Grammar, spelling, and punctuation fixes across the summary fields for Valkey commands. (#3309)",
+      "date": "2026-04-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3309",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ecba3e312300a12fa3bbd4718aedcab3e26ff425"
+    },
+    {
       "sha": "38f3caeda0",
       "message": "Add Valkey Meetup Groups Charter and Issue Template for new Meetup Groups (#478)",
       "date": "2026-04-02",
@@ -91,6 +99,134 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/382",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/7539f2b98784068b1dda4f75bb6444efef5ce934"
+    },
+    {
+      "sha": "0d55dbc0f9",
+      "message": "Add valkey-swift to list of clients (#352)",
+      "date": "2025-09-02",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/352",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/0d55dbc0f97719790e8c8cc992e40f1a9c71a707"
+    },
+    {
+      "sha": "451d2c22ca",
+      "message": "Merge pull request #88 from valkey-io/update-9.0.0-rc1",
+      "date": "2025-08-14",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/88",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/451d2c22ca1452548bcd02ba34a5e5e7a3b7f883"
+    },
+    {
+      "sha": "2b0bad60a9",
+      "message": "Update tags in the docker description for version 9.0.0-rc1",
+      "date": "2025-08-14",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/88",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/2b0bad60a9362ca009c80587ec3420fd9fb99bbc"
+    },
+    {
+      "sha": "f4665fb458",
+      "message": "Add title to Valkey Bundle Getting Started Guide. (#334)",
+      "date": "2025-07-16",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/334",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/f4665fb4580cd5fefd039a8ea4a21c8f11847f88"
+    },
+    {
+      "sha": "d6f25543cf",
+      "message": "No valkey in titles (#193)",
+      "date": "2024-11-28",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/193",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/d6f25543cfcf3063920b7fc54698fb33c354aec0"
+    },
+    {
+      "sha": "ea16d859d7",
+      "message": "Doc review fixes part 2 (#155)",
+      "date": "2024-07-08",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/155",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/ea16d859d7d0eba98430a41110bfd75a1e3c5d1a"
+    },
+    {
+      "sha": "1cba52cbc7",
+      "message": "Doc review fixes (#153)",
+      "date": "2024-07-03",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/153",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/1cba52cbc7875f00d5230aadea6f47759879eccd"
+    },
+    {
+      "sha": "4c00bbbfb0",
+      "message": "Change a few remaining occurrences of Redis (#64)",
+      "date": "2024-04-25",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/64",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/4c00bbbfb0a5c366fb54c64d84bcc4eb2a4834d4"
+    },
+    {
+      "sha": "baffe05703",
+      "message": "Restored topics structure (#61)",
+      "date": "2024-04-24",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/61",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/baffe057033edd8ae830111e37c995cd2f37b1d7"
+    },
+    {
+      "sha": "ff5517fd03",
+      "message": "Delete stup pages (#59)",
+      "date": "2024-04-24",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/59",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/ff5517fd0336e0b5f09e52f8e797c54125923999"
+    },
+    {
+      "sha": "70bbdc94a0",
+      "message": "Rebranding docs/management/ (#38)",
+      "date": "2024-04-24",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/38",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/70bbdc94a0ae60ea0cb231198b37b4e26bb78cf2"
+    },
+    {
+      "sha": "93ebe821e2",
+      "message": "rebrand [Rr]edis->[Vv]alkey, docs/management/_index.md (#25)",
+      "date": "2024-04-11",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/25",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/93ebe821e264c32ddf5ad3d487e9e662b895fadc"
+    },
+    {
+      "sha": "bafd139142",
+      "message": "rebrand [Rr]edis->[Vv]alkey, docs/management/config-file.md (#26)",
+      "date": "2024-04-11",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/26",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/bafd13914230c666055d93bd02336056aa8162f0"
+    },
+    {
+      "sha": "8f8e4bfbe9",
+      "message": "Remove all of Redis corporate branded references (#17)",
+      "date": "2024-04-09",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/17",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/8f8e4bfbe9a2cd94a94d9da436e8b17a5c304087"
+    },
+    {
+      "sha": "6d85b22a9d",
+      "message": "rebrand [Rr]edis->[Vv]alkey (#24)",
+      "date": "2024-04-09",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/24",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/6d85b22a9dd4b1ce2bf6305324df7f02b15a6ce7"
+    },
+    {
+      "sha": "41364a0e3e",
+      "message": "Update valkey cli doc (#13)",
+      "date": "2024-04-09",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/13",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/41364a0e3e34ea1327a27aa566b889379a96ddaa"
     }
   ]
 }

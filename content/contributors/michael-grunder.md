@@ -3,9 +3,9 @@
   "title": "michael-grunder",
   "login": "michael-grunder",
   "avatar_url": "https://avatars.githubusercontent.com/u/468149?v=4",
-  "score": 47,
-  "commit_count": 8,
-  "review_count": 39,
+  "score": 70,
+  "commit_count": 17,
+  "review_count": 53,
   "repos": [
     "libvalkey"
   ],
@@ -73,6 +73,78 @@
       "repo": "libvalkey",
       "pr_url": "https://github.com/valkey-io/libvalkey/pull/166",
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/4e4160848bd458e61671163a3a68c3a5d77b1719"
+    },
+    {
+      "sha": "9188dbdb60",
+      "message": "Fix timing based macOS CI failure.",
+      "date": "2024-08-13",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/66",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/9188dbdb60be8968abfa465e1e4e70de2c5e2791"
+    },
+    {
+      "sha": "80ceb19115",
+      "message": "Whitelist a few words for spellcheck.",
+      "date": "2024-08-13",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/65",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/80ceb1911522e4a0f7adfb586c61b8b2ddb9449d"
+    },
+    {
+      "sha": "3fde85aea1",
+      "message": "Initial project readme.",
+      "date": "2024-08-12",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/61",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/3fde85aea19be1d6520241d8251c868547938d12"
+    },
+    {
+      "sha": "c535911d35",
+      "message": "Import updated license header for macos adapter and example.",
+      "date": "2024-08-09",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/63",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/c535911d35f30ff370f0185c26a01c95ba45a966"
+    },
+    {
+      "sha": "90f6b97c63",
+      "message": "Minor Makefile cleanup",
+      "date": "2024-07-01",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/40",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/90f6b97c63c69a58e97ed5854a363e3f8ba736b1"
+    },
+    {
+      "sha": "b3713d3a55",
+      "message": "Fix Windows builds and CI",
+      "date": "2024-06-27",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/31",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/b3713d3a55fd7bfd2924b215d83e97c5f83c3620"
+    },
+    {
+      "sha": "75da159aa4",
+      "message": "Minor makefile update",
+      "date": "2024-06-26",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/27",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/75da159aa40d015b3398a7a2e2e76cc239a2c4b1"
+    },
+    {
+      "sha": "e28f811f5a",
+      "message": "Build and CI fixes.",
+      "date": "2024-06-24",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/24",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/e28f811f5a7ab39ac1e48acbabd46cfefdae0d28"
+    },
+    {
+      "sha": "cd45a7c015",
+      "message": "Rebranding code in libvalkey (#18)",
+      "date": "2024-06-20",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/18",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/cd45a7c015bd3a7a0ac4c96cb1b6089b72c63a70"
     }
   ],
   "review_list": [
@@ -387,6 +459,118 @@
       "repo": "libvalkey",
       "pr_url": "https://github.com/valkey-io/libvalkey/pull/74",
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/2561649589d17dc002e7b8001a89c524000084e3"
+    },
+    {
+      "sha": "ba319233f5",
+      "message": "Converge the warning-flags in Makefile and CMake builds     (#67)",
+      "date": "2024-08-14",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/67",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/ba319233f5d139d8c345977747296d91fa0b0692"
+    },
+    {
+      "sha": "e861276818",
+      "message": "CI corrections (#60)",
+      "date": "2024-08-02",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/60",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/e861276818e2ad4c1248ccf5ddb2ba0a98463b23"
+    },
+    {
+      "sha": "ec4fff9e29",
+      "message": "Use SSL when verifying an installation in CI",
+      "date": "2024-08-02",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/59",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/ec4fff9e290d99809f4cbb57fe44e1cc2ea8436e"
+    },
+    {
+      "sha": "35e0ec2a9d",
+      "message": "Add cmake support for RDMA",
+      "date": "2024-08-01",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/55",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/35e0ec2a9d3681f968a03a9b03d8b48442d4c4ca"
+    },
+    {
+      "sha": "2e4e6e692a",
+      "message": "Replace CentOS7 with AlmaLinux 8 in CI",
+      "date": "2024-07-31",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/58",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/2e4e6e692a2342fa7fde514de4be865ecc44f504"
+    },
+    {
+      "sha": "0713e816b0",
+      "message": "Typo fix in test.sh",
+      "date": "2024-07-19",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/50",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/0713e816b0968bc65aca6498593bfd7fb350675b"
+    },
+    {
+      "sha": "0713e816b0",
+      "message": "Typo fix in test.sh",
+      "date": "2024-07-19",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/50",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/0713e816b0968bc65aca6498593bfd7fb350675b"
+    },
+    {
+      "sha": "5cd9bafa35",
+      "message": "Misc fixes (#47)",
+      "date": "2024-07-15",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/47",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/5cd9bafa35b483fa52f10411ae52c2e9ccc2a344"
+    },
+    {
+      "sha": "a84615c8bd",
+      "message": "Pin Github Action versions in CI  (#34)",
+      "date": "2024-06-28",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/34",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/a84615c8bdfef135bb8a7f0744c07b08bddca748"
+    },
+    {
+      "sha": "fd3358b717",
+      "message": "Fix issues in CI (#32)",
+      "date": "2024-06-27",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/32",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/fd3358b71718c3b1b1c88a988ea2c81bf5c7298e"
+    },
+    {
+      "sha": "53015864c9",
+      "message": "Add installation tests to CI (#30)",
+      "date": "2024-06-26",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/30",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/53015864c9257c9a0564f1f75b59a227ee87617e"
+    },
+    {
+      "sha": "cdd5d81236",
+      "message": "Move libvalkeycluster examples to new file structure (#28)",
+      "date": "2024-06-26",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/28",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/cdd5d812362c1418fc6022e623c3db99b573933c"
+    },
+    {
+      "sha": "4b601d9fe3",
+      "message": "Fix CI issues (#29)",
+      "date": "2024-06-26",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/29",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/4b601d9fe34b21d3a41d747c8cb64ce810ef971a"
+    },
+    {
+      "sha": "8cd807df5f",
+      "message": "Move remaining tests and build/run all legacy tests using CMake (#26)",
+      "date": "2024-06-25",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/26",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/8cd807df5f423741947fddcac1373bfc15a64683"
     }
   ]
 }

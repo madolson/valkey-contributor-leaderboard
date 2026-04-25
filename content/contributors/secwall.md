@@ -3,10 +3,11 @@
   "title": "secwall",
   "login": "secwall",
   "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
-  "score": 10,
-  "commit_count": 8,
+  "score": 15,
+  "commit_count": 13,
   "review_count": 2,
   "repos": [
+    "valkey",
     "valkey-luajit"
   ],
   "commit_list": [
@@ -73,6 +74,46 @@
       "repo": "valkey-luajit",
       "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/2",
       "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/2f3ac16240e8b37aeb060b7780e690242c4e9bfc"
+    },
+    {
+      "sha": "ac5e44cfdc",
+      "message": "Make scripting debug test skippable (#3368)",
+      "date": "2026-03-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3368",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ac5e44cfdc7061180a3807063fdeeb607f1dadb2"
+    },
+    {
+      "sha": "7a2d50a154",
+      "message": "Drop lua object files on clean (#1812)",
+      "date": "2025-03-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/1812",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7a2d50a1544cdb2e6ff027bb9c283e03e3ae0d6d"
+    },
+    {
+      "sha": "be9d9487bd",
+      "message": "Fix murmur32 on large strings (#1748)",
+      "date": "2025-02-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/1748",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/be9d9487bd6ba5d5c5d6d6ca351e020fb33268a1"
+    },
+    {
+      "sha": "fdc89c56b7",
+      "message": "Escape unix socket group in unit tests (#1554)",
+      "date": "2025-01-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/1554",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fdc89c56b74372d1d3c0008397df77ac85ef56fe"
+    },
+    {
+      "sha": "103365fe0e",
+      "message": "Log unexpected $ENDOFF responses in dual channel replication (#839)",
+      "date": "2024-08-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/839",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/103365fe0e37b91be20992afd047ba4e3aa3ad47"
     }
   ],
   "review_list": [

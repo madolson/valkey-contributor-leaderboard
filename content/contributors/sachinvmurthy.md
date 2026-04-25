@@ -3,13 +3,22 @@
   "title": "sachinvmurthy",
   "login": "sachinvmurthy",
   "avatar_url": "https://avatars.githubusercontent.com/u/26551140?v=4",
-  "score": 5,
-  "commit_count": 3,
+  "score": 6,
+  "commit_count": 4,
   "review_count": 2,
   "repos": [
+    "valkey",
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "385895a965",
+      "message": "[BUG][issue-2797] Block module unload when ACL references module subcommands (#3160)",
+      "date": "2026-02-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3160",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/385895a965fb0c9e586a253e7ffcb9b6a5c8c7b6"
+    },
     {
       "sha": "2478337f92",
       "message": "added an event handler for server_shutdown event  (#196)",

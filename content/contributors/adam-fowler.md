@@ -3,10 +3,11 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 24,
-  "commit_count": 20,
+  "score": 26,
+  "commit_count": 22,
   "review_count": 4,
   "repos": [
+    "valkey",
     "valkey-doc",
     "valkey-swift"
   ],
@@ -170,6 +171,22 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/408",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/e30efee80204960b68669482cec5bd6c71ea79ed"
+    },
+    {
+      "sha": "0d55dbc0f9",
+      "message": "Add valkey-swift to list of clients (#352)",
+      "date": "2025-09-02",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/352",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/0d55dbc0f97719790e8c8cc992e40f1a9c71a707"
+    },
+    {
+      "sha": "3086e61d4b",
+      "message": "Update reply schema for LMOVE and BLMOVE (#2541)",
+      "date": "2025-08-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2541",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3086e61d4b06a81602fc74163eb7d4eb6b6bfe41"
     }
   ],
   "review_list": [
