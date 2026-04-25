@@ -3,12 +3,13 @@
   "title": "alexey-temnikov",
   "login": "alexey-temnikov",
   "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
-  "score": 6,
-  "commit_count": 3,
+  "score": 7,
+  "commit_count": 4,
   "review_count": 3,
   "repos": [
     "valkey-admin",
-    "valkey-doc"
+    "valkey-doc",
+    "valkey-glide"
   ],
   "commit_list": [
     {
@@ -34,6 +35,14 @@
       "repo": "valkey-admin",
       "pr_url": "https://github.com/valkey-io/valkey-admin/pull/58",
       "commit_url": "https://github.com/valkey-io/valkey-admin/commit/a9d17e9809e8585084e727f685abd89c1b7980c0"
+    },
+    {
+      "sha": "74e7fbf4ed",
+      "message": "[DOC] Fix minor grammatical issue in README.md (#4938)",
+      "date": "2025-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4938",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/74e7fbf4ed58312ea3a527d8444a4957cb8e507d"
     }
   ],
   "review_list": [

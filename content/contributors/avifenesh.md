@@ -3,9 +3,9 @@
   "title": "avifenesh",
   "login": "avifenesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
-  "score": 14,
-  "commit_count": 12,
-  "review_count": 2,
+  "score": 18,
+  "commit_count": 13,
+  "review_count": 5,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -93,6 +93,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/aab55f03462a05ff51fd2dee3e1a3b3adff16233"
     },
     {
+      "sha": "0aeddbdfa6",
+      "message": "Java/jni migration (#4742)",
+      "date": "2025-09-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4742",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0aeddbdfa6f6915dbbe7f226662fd48bee9fcae2"
+    },
+    {
       "sha": "6e24028f7b",
       "message": "Change default values of valkey-cli to use valkey naming, and added fallback to old values (#2334)",
       "date": "2025-07-09",
@@ -133,6 +141,158 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4735",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/818f5d517e3eae5c447990dc04cacac03c613295"
+    },
+    {
+      "sha": "e038dc8db1",
+      "message": "Fix for CI build on MUSL (#4819)",
+      "date": "2025-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4819",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e038dc8db185c944a55d48679e8fd383091c3ec1"
+    },
+    {
+      "sha": "a1e2e5f55d",
+      "message": "Bump org.apache.commons:commons-math3 from 3.5 to 3.6.1 in /java (#4787)",
+      "date": "2025-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4787",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a1e2e5f55d8dc50814bf143c8685f4ee5cf3d9c5"
+    },
+    {
+      "sha": "2f1d89540c",
+      "message": "Bump commons-cli:commons-cli from 1.5.0 to 1.10.0 in /java (#4790)",
+      "date": "2025-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4790",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2f1d89540c726e6f08a2ae8bfe9371ff310b5a29"
+    },
+    {
+      "sha": "2cbaeb2fb5",
+      "message": "Update tokio-retry2 requirement from 0.5 to 0.6 in /glide-core (#4784)",
+      "date": "2025-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4784",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2cbaeb2fb564acaaa6c70a8f83f1c50c86dd47c1"
+    },
+    {
+      "sha": "ccc2735cd5",
+      "message": "Bump eslint-plugin-jsdoc from 54.7.0 to 57.0.8 (#4736)",
+      "date": "2025-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4736",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ccc2735cd522defefbd4aa0af6acfadeb2f2ef62"
+    },
+    {
+      "sha": "ccc2735cd5",
+      "message": "Bump eslint-plugin-jsdoc from 54.7.0 to 57.0.8 (#4736)",
+      "date": "2025-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4736",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ccc2735cd522defefbd4aa0af6acfadeb2f2ef62"
+    },
+    {
+      "sha": "f359915d09",
+      "message": "Bump com.github.spotbugs from 6.0.18 to 6.4.2 in /java (#4791)",
+      "date": "2025-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4791",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f359915d096093d51fcda82f9acb5527cb4bca07"
+    },
+    {
+      "sha": "0ac7751207",
+      "message": "Bump com.diffplug.spotless from 7.1.0 to 7.2.1 in /java (#4792)",
+      "date": "2025-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4792",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0ac7751207c6e71a1c8eb57893a019f7e83d713f"
+    },
+    {
+      "sha": "d1504a71e2",
+      "message": "Bump io.lettuce:lettuce-core from 6.2.6.RELEASE to 6.8.1.RELEASE in /java (#4793)",
+      "date": "2025-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4793",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d1504a71e2dc892cd0f9e5dac94f584efa6bfc89"
+    },
+    {
+      "sha": "f6c9e6bc20",
+      "message": "Bump com.google.guava:guava from 33.4.8-jre to 33.5.0-jre in /java (#4795)",
+      "date": "2025-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4795",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f6c9e6bc2044d04be8418806c51bf297a915f1e6"
+    },
+    {
+      "sha": "72cad54ef4",
+      "message": "Bump com.google.code.gson:gson from 2.10.1 to 2.13.2 in /java (#4796)",
+      "date": "2025-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4796",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/72cad54ef4eb408080be507a64cb050b77da52d9"
+    },
+    {
+      "sha": "b6a40ad613",
+      "message": "Update ctor requirement from 0.4 to 0.5 in /glide-core (#4781)",
+      "date": "2025-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4781",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b6a40ad6133b26425d1f6d84369c913a30819704"
+    },
+    {
+      "sha": "2d8dc5f2b2",
+      "message": "Update rstest requirement from ^0.25 to ^0.26 in /glide-core (#4782)",
+      "date": "2025-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4782",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2d8dc5f2b21df91f98b623ae41eb598f42948cb9"
+    },
+    {
+      "sha": "e458b004fd",
+      "message": "Bump @types/uuid from 10.0.0 to 11.0.0 in /node (#4774)",
+      "date": "2025-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4774",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e458b004fdf34f662f97e59c84221b027d5cf44d"
+    },
+    {
+      "sha": "527e088e8b",
+      "message": "Bump actions/setup-node from 4 to 5 (#4779)",
+      "date": "2025-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4779",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/527e088e8b15054002bc68515da6d8a4cd194b6c"
+    },
+    {
+      "sha": "e8f8e250a9",
+      "message": "Bump actions/github-script from 7 to 8 (#4785)",
+      "date": "2025-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4785",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e8f8e250a965d08cb5e87fed4e10a05d0d2a5c53"
+    },
+    {
+      "sha": "0599e1de9e",
+      "message": "Bump the patch-updates group across 1 directory with 2 updates (#4690)",
+      "date": "2025-09-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4690",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0599e1de9edb797eb5dee60079776b095fafda84"
+    },
+    {
+      "sha": "c66bda393e",
+      "message": "Node: Adding Iam auth config and refreshIamToken (#4761)",
+      "date": "2025-09-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4761",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c66bda393e4d0445dff7d092fdce67f47cc7a575"
+    },
+    {
+      "sha": "9f0afdfd31",
+      "message": " Support IAM auth in Core (#4525)",
+      "date": "2025-09-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4525",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9f0afdfd3153a4d96bcc6e59abce919bc774cf05"
     }
   ]
 }

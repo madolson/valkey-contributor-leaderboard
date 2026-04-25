@@ -3,8 +3,8 @@
   "title": "Sasidharan3094",
   "login": "Sasidharan3094",
   "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
-  "score": 25,
-  "commit_count": 14,
+  "score": 28,
+  "commit_count": 17,
   "review_count": 11,
   "repos": [
     "valkey-glide",
@@ -84,12 +84,28 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d643948d72e8e1d50a162a9933a760729642d43f"
     },
     {
+      "sha": "265b09347b",
+      "message": "Adding remaining server commands, transaction commands in request_type.rs (#5079)",
+      "date": "2025-12-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5079",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/265b09347b38f3de3342e16d5587d350f4433ae9"
+    },
+    {
       "sha": "d3f90a90f9",
       "message": "Implementing remaining server commands (#71)",
       "date": "2025-12-18",
       "repo": "valkey-glide-ruby",
       "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/71",
       "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d3f90a90f9e35288caa736c77593f9be1e887461"
+    },
+    {
+      "sha": "fae1488066",
+      "message": "Add ACL commands in request_type.rs (#5027)",
+      "date": "2025-12-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5027",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fae1488066cbbe4b7121750273c2e9c2244f8009"
     },
     {
       "sha": "23e5f9746c",
@@ -122,6 +138,14 @@
       "repo": "valkey-glide-ruby",
       "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/59",
       "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/fc6a8a4daabeeb1e1d16e9b115ea8a0d027b1890"
+    },
+    {
+      "sha": "af22b77bcd",
+      "message": "Adding support for module commands (#5004)",
+      "date": "2025-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5004",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/af22b77bcd812411d495766f0c403fccaee3de1a"
     }
   ],
   "review_list": [

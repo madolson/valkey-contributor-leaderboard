@@ -3,8 +3,8 @@
   "title": "pratheep-kumar",
   "login": "pratheep-kumar",
   "avatar_url": "https://avatars.githubusercontent.com/u/40911083?v=4",
-  "score": 25,
-  "commit_count": 13,
+  "score": 27,
+  "commit_count": 15,
   "review_count": 12,
   "repos": [
     "valkey-glide",
@@ -108,12 +108,28 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/46f7e135c3eb84a06e4ef549df09ff6471fcfa53"
     },
     {
+      "sha": "050bc2e179",
+      "message": "Enabling client and connection commands in request_type.rs (#5013)",
+      "date": "2025-12-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5013",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/050bc2e17948ff42e39284598b531e9789db4506"
+    },
+    {
       "sha": "7bed3853bd",
       "message": "Merge pull request #52 from valkey-io/implementing-client-commands",
       "date": "2025-11-28",
       "repo": "valkey-glide-ruby",
       "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/52",
       "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/7bed3853bd1abc0c0f5d7a4dcead0d7f666d2913"
+    },
+    {
+      "sha": "7951f3073f",
+      "message": "Enabling cluster commands in request_type file (#5010)",
+      "date": "2025-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5010",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7951f3073fbe29d39535f4ae3bdf42108c38b631"
     }
   ],
   "review_list": [

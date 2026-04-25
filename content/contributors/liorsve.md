@@ -3,9 +3,9 @@
   "title": "liorsve",
   "login": "liorsve",
   "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
-  "score": 28,
-  "commit_count": 18,
-  "review_count": 10,
+  "score": 44,
+  "commit_count": 29,
+  "review_count": 15,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -116,6 +116,94 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5156",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dc02d024e43576ad7c55facec4228382dff52389"
+    },
+    {
+      "sha": "a687a2e334",
+      "message": "Docs: redirect existing docs site to the new site  (#4858)",
+      "date": "2025-12-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4858",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a687a2e3342c046e3582ca17b8b2c6020e3f0913"
+    },
+    {
+      "sha": "641f3f2beb",
+      "message": "Python sync: Fix wheel build failure due to missing README.md (#4931)",
+      "date": "2025-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4931",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/641f3f2beb769995657b5a8058406621807027b0"
+    },
+    {
+      "sha": "c00b97a4a0",
+      "message": "CI/CD: fix full matrix sweeper workflow (#4912)",
+      "date": "2025-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4912",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c00b97a4a0072a9e92e0ed0938f4eb987dd396e4"
+    },
+    {
+      "sha": "7cc4ff6985",
+      "message": "CI/CD: Fix Python sync client Docker build container image (#4901)",
+      "date": "2025-10-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4901",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7cc4ff698595bcc25b09348f50763bdf53050401"
+    },
+    {
+      "sha": "2996f861f9",
+      "message": "CI/CD: Add self hosted mac runners (#4899)",
+      "date": "2025-10-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4899",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2996f861f9546c9dabdb8046f32db952f069bcb5"
+    },
+    {
+      "sha": "215b9ed14b",
+      "message": "Python sync/FFI: added pubsub, handling for push responses (#4602)",
+      "date": "2025-10-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4602",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/215b9ed14b219ce9e78c8c72d38d989d8ac66ac5"
+    },
+    {
+      "sha": "4ea37ea28f",
+      "message": "Python sync: added cluster scan (#4823)",
+      "date": "2025-10-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4823",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4ea37ea28f47a461c58c48f2b22a9398c88ae413"
+    },
+    {
+      "sha": "b81712b75f",
+      "message": "Python benchmarks: add sync benchmarks and connection warm up (#4704)",
+      "date": "2025-09-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4704",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b81712b75fa28715a498864b33db5f191b20d7c8"
+    },
+    {
+      "sha": "2e40c0b8de",
+      "message": "Python CD: updated testing to run on ephemeral runners (#4771)",
+      "date": "2025-09-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4771",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2e40c0b8de3d7bc5842681db91c6c0e95dffd3d2"
+    },
+    {
+      "sha": "52084a5eaf",
+      "message": "Python: improve UDS socket error handling (#4733)",
+      "date": "2025-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4733",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/52084a5eafa8c2beae9e1ec9a0c21306cc3c0dae"
+    },
+    {
+      "sha": "85b579329f",
+      "message": "Python Sync: revert license format (#4731)",
+      "date": "2025-09-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4731",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/85b579329f0ee07a034c810c952e4ca53a6f99bb"
     },
     {
       "sha": "21eee0e67d",
@@ -238,6 +326,46 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5201",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b04287640856483aea2d8e03d651a8f86e26342a"
+    },
+    {
+      "sha": "700d52f801",
+      "message": "Java: fix ReadFrom.AZ_AFFINITY_REPLICAS_AND_PRIMARY issue (#5084)",
+      "date": "2025-12-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5084",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/700d52f8010433078a7fa7c1aa325931cbf7e78c"
+    },
+    {
+      "sha": "266f58bd5b",
+      "message": "fix typo (#4894)",
+      "date": "2025-10-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4894",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/266f58bd5bae8ad8046b748138553e019416740c"
+    },
+    {
+      "sha": "ab92d9887d",
+      "message": "Python: add refresh topology from initial nodes config (#4855)",
+      "date": "2025-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4855",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ab92d9887df1827ea4cec7b7fba9fc3bbcfd502c"
+    },
+    {
+      "sha": "c66bda393e",
+      "message": "Node: Adding Iam auth config and refreshIamToken (#4761)",
+      "date": "2025-09-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4761",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c66bda393e4d0445dff7d092fdce67f47cc7a575"
+    },
+    {
+      "sha": "9f0afdfd31",
+      "message": " Support IAM auth in Core (#4525)",
+      "date": "2025-09-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4525",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9f0afdfd3153a4d96bcc6e59abce919bc774cf05"
     }
   ]
 }

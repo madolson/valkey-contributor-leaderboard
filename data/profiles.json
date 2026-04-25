@@ -1418,5 +1418,37 @@
   "stav-bentov": {
     "name": "Stav Ben-Tov",
     "company": "Amazon"
+  },
+  "invokermain": {
+    "name": "Tim OSullivan",
+    "company": ""
+  },
+  "mo-amzn": {
+    "name": "Muhammad Awawdi",
+    "company": "Software Developer Engineer @ Amazon"
+  },
+  "BoazBD": {
+    "name": "",
+    "company": ""
+  },
+  "jbrinkman": {
+    "name": "Joe Brinkman",
+    "company": "Improving"
+  },
+  "v3rm0n": {
+    "name": "Maido K\u00e4\u00e4ra",
+    "company": ""
+  },
+  "jh1231223": {
+    "name": "Jessica Hsiao",
+    "company": "University of Illinois Urbana-Champaign"
+  },
+  "manz": {
+    "name": "Emmanuel Peralta",
+    "company": ""
+  },
+  "omida-bitquill": {
+    "name": "Omid A",
+    "company": ""
   }
 }

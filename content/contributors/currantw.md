@@ -3,9 +3,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 56,
-  "commit_count": 22,
-  "review_count": 34,
+  "score": 66,
+  "commit_count": 23,
+  "review_count": 43,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -188,6 +188,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5419",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7e260b4d4fd37f0fe46442861c845fa2b8b172f1"
+    },
+    {
+      "sha": "8b555e6ace",
+      "message": "Add `git-secrets-scan` workflow (#4983)",
+      "date": "2025-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4983",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8b555e6aceeb04270d1047a515444bde27f24fb0"
     }
   ],
   "review_list": [
@@ -494,6 +502,78 @@
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/110",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/eb79b9dce419f88706f0e472396a53d22c480ae4"
+    },
+    {
+      "sha": "6cfe24682b",
+      "message": "CI: Update NPM CD with Trusted Publishing (#5110)",
+      "date": "2026-01-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5110",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6cfe24682bf7e232246db3c855cbaf6894a4cd55"
+    },
+    {
+      "sha": "318953483b",
+      "message": "Rust: Rust 2024 compatibility fix (#5101)",
+      "date": "2025-12-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5101",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/318953483ba64f18c2d7fad7c633339fe9fadb6f"
+    },
+    {
+      "sha": "c83607e19c",
+      "message": "Fix flaky PUBSUB pattern tests by making channel names deterministic (#4994)",
+      "date": "2025-12-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4994",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c83607e19c3be9b36a782e3cea9466529398670b"
+    },
+    {
+      "sha": "265b09347b",
+      "message": "Adding remaining server commands, transaction commands in request_type.rs (#5079)",
+      "date": "2025-12-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5079",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/265b09347b38f3de3342e16d5587d350f4433ae9"
+    },
+    {
+      "sha": "fae1488066",
+      "message": "Add ACL commands in request_type.rs (#5027)",
+      "date": "2025-12-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5027",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fae1488066cbbe4b7121750273c2e9c2244f8009"
+    },
+    {
+      "sha": "c1ada99b75",
+      "message": "Update compatibility table with checkmarks (#5014)",
+      "date": "2025-12-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5014",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c1ada99b75b919e9df214a7dac421051f1d9eaee"
+    },
+    {
+      "sha": "a46313f05a",
+      "message": "Fix the skip for unsupported HGETDEL test (#5062)",
+      "date": "2025-12-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5062",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a46313f05a7580533737723926ea39c430379d64"
+    },
+    {
+      "sha": "a24c9a64d5",
+      "message": "Cherry-pick from 2.2: Node: Fix build time type error #5052 (#5058)",
+      "date": "2025-12-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5058",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a24c9a64d574fd0f38903df0d745a12b5608ba7f"
+    },
+    {
+      "sha": "ec2ca115d2",
+      "message": "Core: Fix rust benchmark formatting (#5009)",
+      "date": "2025-11-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5009",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ec2ca115d2cb1c9a818721387413545ca8750929"
     }
   ]
 }

@@ -3,9 +3,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 52,
-  "commit_count": 22,
-  "review_count": 30,
+  "score": 72,
+  "commit_count": 35,
+  "review_count": 37,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -188,6 +188,110 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5215",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/706a7499e014d1261376c0a3c3599664411d76f2"
+    },
+    {
+      "sha": "7eed47a22e",
+      "message": "Cherry-picking: #5019 and #5022 from release-2.2 branch to main (#5025)",
+      "date": "2025-12-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5025",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7eed47a22ec56fcc903b2b7df759cf56f9ec9002"
+    },
+    {
+      "sha": "d933d2fd10",
+      "message": "GO: Add TLS Custom Root Certificate Support for Go Client (#4921)",
+      "date": "2025-11-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4921",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d933d2fd10561f3c38f067475eeec306d9ee5964"
+    },
+    {
+      "sha": "22efa8c12c",
+      "message": "Python: Add Custom Root Certificate Support for Python TLS Connections (#4930)",
+      "date": "2025-11-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4930",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/22efa8c12c23dac41214cf68168a554df9796554"
+    },
+    {
+      "sha": "3b7c158cc2",
+      "message": "PYTHON: Add IAM authentication support with manual token refresh (#4890)",
+      "date": "2025-10-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4890",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3b7c158cc22a998e1b19abf7b9d2ed4695e57a4a"
+    },
+    {
+      "sha": "d99bff3546",
+      "message": "JAVA: Add IAM authentication support for ElastiCache/MemoryDB (#4891)",
+      "date": "2025-10-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4891",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d99bff3546074dd9d9ba115532334266d90890b1"
+    },
+    {
+      "sha": "afe3ac34f9",
+      "message": " Fix: LOLWUT Tests and Add Version 9 Support (#4907)",
+      "date": "2025-10-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4907",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/afe3ac34f9bf1227e599bf5adcdce1380be96752"
+    },
+    {
+      "sha": "afdc005fa7",
+      "message": "FFI/GO: Add IAM authentication support with automatic token refresh (#4892)",
+      "date": "2025-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4892",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/afdc005fa7d4e1fd194095d7b608f11fd3578586"
+    },
+    {
+      "sha": "1d0bcc6172",
+      "message": "Update engine-matrix.json for Valkey 9 release (#4904)",
+      "date": "2025-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4904",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1d0bcc6172770b2793a4c9d8f2ceec37e66c59d8"
+    },
+    {
+      "sha": "6bddb83365",
+      "message": "Backport 2.1 to main (#4889)",
+      "date": "2025-10-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4889",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6bddb833650e09df747426a531bdf66fec59c1b7"
+    },
+    {
+      "sha": "1d6f82e508",
+      "message": "JAVA: Add `refreshTopologyFromInitialNodes` Configuration Option (#4870)",
+      "date": "2025-10-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4870",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1d6f82e50817f39715bc10fb49fc11aaf46ffab0"
+    },
+    {
+      "sha": "8df3235b35",
+      "message": "Node: add refreshTopologyFromInitialNodes configuration option (#4872)",
+      "date": "2025-10-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4872",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8df3235b35774e5769b8313298ac9506a8712bb4"
+    },
+    {
+      "sha": "79ff9c0d39",
+      "message": "GO: add RefreshTopologyFromInitialNodes configuration option (#4871)",
+      "date": "2025-10-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4871",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/79ff9c0d39956fb6a3ba981d3eaeb3cd72c80c26"
+    },
+    {
+      "sha": "53b9fe2a93",
+      "message": "Node: flaky tests (#4710)",
+      "date": "2025-09-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4710",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/53b9fe2a939a80fbdad53e3c9e19c881d43a9efb"
     }
   ],
   "review_list": [
@@ -430,6 +534,62 @@
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/121",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/5bfb7222495f03c56797da192677111519522607"
+    },
+    {
+      "sha": "b2c96790da",
+      "message": "Add parameters to set mtls client cert and key (#5093)",
+      "date": "2026-01-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5093",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b2c96790da1639ff23d68977c895548a5cdde9e9"
+    },
+    {
+      "sha": "5b5184f5d9",
+      "message": "fix(node): Increase TTL in SharedTests to prevent flaky set with options (#5063)",
+      "date": "2026-01-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5063",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5b5184f5d95ef0a29307184ebd4622979ccec314"
+    },
+    {
+      "sha": "9e64c59cc3",
+      "message": "[Python] Fix flaky test `test_sync_pubsub_exact_happy_path` (#5057)",
+      "date": "2026-01-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5057",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9e64c59cc31d188e21dd03f0adb4d4c47d9b8525"
+    },
+    {
+      "sha": "297cfdeb08",
+      "message": "Java: Change gradle to use JAVA_HOME when available (#5040)",
+      "date": "2025-12-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5040",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/297cfdeb0869467ebf29cfb63f940f86b9c8d8af"
+    },
+    {
+      "sha": "8b555e6ace",
+      "message": "Add `git-secrets-scan` workflow (#4983)",
+      "date": "2025-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4983",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8b555e6aceeb04270d1047a515444bde27f24fb0"
+    },
+    {
+      "sha": "885c9f1f54",
+      "message": "Java Cross-Platform Compatibility Fixes (#4965)",
+      "date": "2025-11-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4965",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/885c9f1f5472e293183c7fe8b7571f94aba766bf"
+    },
+    {
+      "sha": "455c60d27a",
+      "message": "Python: Add Python 3.14 support (#4897)",
+      "date": "2025-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4897",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/455c60d27ae4724f74336563c9bfee957d030a91"
     }
   ]
 }

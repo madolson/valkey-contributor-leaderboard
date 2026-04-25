@@ -3,9 +3,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 56,
-  "commit_count": 17,
-  "review_count": 39,
+  "score": 61,
+  "commit_count": 19,
+  "review_count": 42,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -147,6 +147,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5178",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/181310e39ce84727dceaba4a7880413b1d7000be"
+    },
+    {
+      "sha": "d396317e80",
+      "message": "Core support for custom certs (#4909)",
+      "date": "2025-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4909",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d396317e805a594128f272718bb1d0524caedf30"
+    },
+    {
+      "sha": "e038dc8db1",
+      "message": "Fix for CI build on MUSL (#4819)",
+      "date": "2025-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4819",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e038dc8db185c944a55d48679e8fd383091c3ec1"
     }
   ],
   "review_list": [
@@ -461,6 +477,30 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5418",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dd4e413f21b660154b9b11fdfbc5297c2023d920"
+    },
+    {
+      "sha": "356848543a",
+      "message": "connection timeout value fix for clients (#4966)",
+      "date": "2025-11-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4966",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/356848543af8dae85994f1b6b95ff66bdf89c64c"
+    },
+    {
+      "sha": "3b7c158cc2",
+      "message": "PYTHON: Add IAM authentication support with manual token refresh (#4890)",
+      "date": "2025-10-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4890",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3b7c158cc22a998e1b19abf7b9d2ed4695e57a4a"
+    },
+    {
+      "sha": "d99bff3546",
+      "message": "JAVA: Add IAM authentication support for ElastiCache/MemoryDB (#4891)",
+      "date": "2025-10-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4891",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d99bff3546074dd9d9ba115532334266d90890b1"
     }
   ]
 }

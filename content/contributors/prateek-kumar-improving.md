@@ -3,9 +3,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 70,
-  "commit_count": 23,
-  "review_count": 47,
+  "score": 76,
+  "commit_count": 24,
+  "review_count": 52,
   "repos": [
     "valkey-glide",
     "valkey-glide-docs",
@@ -195,6 +195,14 @@
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/127",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/33067647a602a13958deef75fd2932745a6fd101"
+    },
+    {
+      "sha": "15c535e8b4",
+      "message": "Java: Add lib name to configuration (#4869)",
+      "date": "2025-10-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4869",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/15c535e8b4b75226b705171a63392a559c606aa3"
     }
   ],
   "review_list": [
@@ -581,6 +589,46 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5159",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9cfcd3edf55b5ee2a46a551ead4773be6cbc3a56"
+    },
+    {
+      "sha": "6cfe24682b",
+      "message": "CI: Update NPM CD with Trusted Publishing (#5110)",
+      "date": "2026-01-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5110",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6cfe24682bf7e232246db3c855cbaf6894a4cd55"
+    },
+    {
+      "sha": "a46313f05a",
+      "message": "Fix the skip for unsupported HGETDEL test (#5062)",
+      "date": "2025-12-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5062",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a46313f05a7580533737723926ea39c430379d64"
+    },
+    {
+      "sha": "c00c452c73",
+      "message": "Java: Make shutdown hook optional (#4935)",
+      "date": "2025-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4935",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c00c452c73623c1134b6593b6fd22910ebb10979"
+    },
+    {
+      "sha": "6bddb83365",
+      "message": "Backport 2.1 to main (#4889)",
+      "date": "2025-10-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4889",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6bddb833650e09df747426a531bdf66fec59c1b7"
+    },
+    {
+      "sha": "7664ec08ab",
+      "message": "feat: add AGENTS.md files for agentic tools across language bindings (#4739)",
+      "date": "2025-10-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4739",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7664ec08ab718b541d8c6590eeadc75d28282231"
     }
   ]
 }

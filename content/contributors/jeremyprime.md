@@ -3,9 +3,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 86,
+  "score": 89,
   "commit_count": 27,
-  "review_count": 59,
+  "review_count": 62,
   "repos": [
     "spring-data-valkey",
     "valkey-glide"
@@ -764,6 +764,30 @@
       "repo": "spring-data-valkey",
       "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/44",
       "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/f4529e4dc99cf42b27a4451d3ec91dfe7760d01c"
+    },
+    {
+      "sha": "ec2ca115d2",
+      "message": "Core: Fix rust benchmark formatting (#5009)",
+      "date": "2025-11-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5009",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ec2ca115d2cb1c9a818721387413545ca8750929"
+    },
+    {
+      "sha": "d677f1635f",
+      "message": "Core: Fix rust benchmark for unmaintained advisory (#5000)",
+      "date": "2025-11-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5000",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d677f1635fcd5ce3351a98fffd0c17c25b39e206"
+    },
+    {
+      "sha": "0494236513",
+      "message": "Node: fix circular dependencies (#4611)",
+      "date": "2025-09-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4611",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0494236513e0061a88fad405df9a888b0449aee3"
     }
   ]
 }

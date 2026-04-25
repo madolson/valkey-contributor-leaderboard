@@ -3,9 +3,9 @@
   "title": "ikolomi",
   "login": "ikolomi",
   "avatar_url": "https://avatars.githubusercontent.com/u/152477505?v=4",
-  "score": 35,
+  "score": 41,
   "commit_count": 1,
-  "review_count": 34,
+  "review_count": 40,
   "repos": [
     "spring-data-valkey"
   ],
@@ -213,6 +213,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dc02d024e43576ad7c55facec4228382dff52389"
     },
     {
+      "sha": "7aef5691c8",
+      "message": "[All clients] Add TCPNoDelay option (#5100)",
+      "date": "2026-01-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5100",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7aef5691c8d83efe474cec34ef8ba32abf248776"
+    },
+    {
       "sha": "37005108dc",
       "message": "Update performance POM",
       "date": "2025-11-28",
@@ -285,12 +293,52 @@
       "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/15d687501d3e9b40ffe467cd3fbcb66ab97a8a2c"
     },
     {
+      "sha": "d396317e80",
+      "message": "Core support for custom certs (#4909)",
+      "date": "2025-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4909",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d396317e805a594128f272718bb1d0524caedf30"
+    },
+    {
       "sha": "25eff6ddaa",
       "message": "Rebrand Spring Data Code from Redis to Valkey (#9)",
       "date": "2025-10-22",
       "repo": "spring-data-valkey",
       "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/9",
       "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/25eff6ddaa3c71bf989d4d2b7a107d5446232c75"
+    },
+    {
+      "sha": "2996f861f9",
+      "message": "CI/CD: Add self hosted mac runners (#4899)",
+      "date": "2025-10-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4899",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2996f861f9546c9dabdb8046f32db952f069bcb5"
+    },
+    {
+      "sha": "ab92d9887d",
+      "message": "Python: add refresh topology from initial nodes config (#4855)",
+      "date": "2025-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4855",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ab92d9887df1827ea4cec7b7fba9fc3bbcfd502c"
+    },
+    {
+      "sha": "30fee5f2d3",
+      "message": "Core: refresh topology from initial nodes (#4669)",
+      "date": "2025-10-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4669",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/30fee5f2d38bf53409fb0f81e7a91c007b17e01d"
+    },
+    {
+      "sha": "2e40c0b8de",
+      "message": "Python CD: updated testing to run on ephemeral runners (#4771)",
+      "date": "2025-09-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4771",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2e40c0b8de3d7bc5842681db91c6c0e95dffd3d2"
     }
   ]
 }

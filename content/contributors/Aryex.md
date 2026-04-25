@@ -3,9 +3,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 49,
-  "commit_count": 21,
-  "review_count": 28,
+  "score": 52,
+  "commit_count": 23,
+  "review_count": 29,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -173,12 +173,28 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/c760c162b75eaa78b875b485a145275fafac36ea"
     },
     {
+      "sha": "8097a71957",
+      "message": "Add links to the new GLIDE documentation site. (#5002)",
+      "date": "2025-12-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5002",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8097a7195723ad8aa1185f7f36365a6ed8454a99"
+    },
+    {
       "sha": "7539f2b987",
       "message": "Add GLIDE website to glide clients and update their latest versions (#382)",
       "date": "2025-12-04",
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/382",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/7539f2b98784068b1dda4f75bb6444efef5ce934"
+    },
+    {
+      "sha": "00397f3b29",
+      "message": "Add support for engine version 9.0 in README (#4968)",
+      "date": "2025-11-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4968",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/00397f3b29fdca3674990d7d293dd8c55d3be3e7"
     }
   ],
   "review_list": [
@@ -405,6 +421,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5423",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ed1d12bddf5b9c64d81a8dfd946a9a7e2e5d1ea3"
+    },
+    {
+      "sha": "67c98c3197",
+      "message": "Update README.md with v2.2 release notes (#5076)",
+      "date": "2025-12-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5076",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67c98c3197422b69fed83ffe7f4d720a9e5ef329"
     }
   ]
 }

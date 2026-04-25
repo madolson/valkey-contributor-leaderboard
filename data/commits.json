@@ -54075,7 +54075,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
       "message": "[All clients] Add TCPNoDelay option (#5100)",
       "date": "2026-01-06T17:56:00Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "ikolomi",
+        "jduo"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5100"
     },
     {
       "sha": "849e98ad60a7aa39fa5f9dbb3aa094b029b47f7f",
@@ -54084,7 +54089,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/7516125?v=4",
       "message": "docs: add redlock-universal to ecosystem (#5111)",
       "date": "2026-01-06T01:10:22Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "yipin-chen",
+        "xShinnRyuu"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5111"
     },
     {
       "sha": "0b9163bbafc60c4300520e968bc50d97655295e8",
@@ -54093,7 +54103,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
       "message": "[Python] Enforce connection_timeout for initial standalone connection failures (#5082)",
       "date": "2026-01-05T23:27:40Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "jduo",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5082"
     },
     {
       "sha": "b2c96790da1639ff23d68977c895548a5cdde9e9",
@@ -54102,7 +54117,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/101326713?v=4",
       "message": "Add parameters to set mtls client cert and key (#5093)",
       "date": "2026-01-05T21:57:54Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "affonsov"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5093"
     },
     {
       "sha": "5b5184f5d95ef0a29307184ebd4622979ccec314",
@@ -54111,7 +54131,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/80030194?v=4",
       "message": "fix(node): Increase TTL in SharedTests to prevent flaky set with options (#5063)",
       "date": "2026-01-05T21:57:25Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "affonsov"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5063"
     },
     {
       "sha": "9e64c59cc31d188e21dd03f0adb4d4c47d9b8525",
@@ -54120,7 +54145,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/80030194?v=4",
       "message": "[Python] Fix flaky test `test_sync_pubsub_exact_happy_path` (#5057)",
       "date": "2026-01-05T21:57:16Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "affonsov"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5057"
     },
     {
       "sha": "aec33ddf16ff095edbb3ef601b90ac3b96376795",
@@ -54129,7 +54159,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/1155022?v=4",
       "message": "Set options binary (#5047)",
       "date": "2026-01-05T16:43:11Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5047"
     },
     {
       "sha": "a4957c9ae0fb0fd8304ed858923ec436e07e6a5c",
@@ -54138,7 +54173,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/44192816?v=4",
       "message": "fix (python): handle cancelled requests gracefully (#5080)",
       "date": "2026-01-05T06:17:52Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "jduo",
+        "xShinnRyuu"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5080"
     },
     {
       "sha": "6cfe24682bf7e232246db3c855cbaf6894a4cd55",
@@ -54147,7 +54187,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
       "message": "CI: Update NPM CD with Trusted Publishing (#5110)",
       "date": "2026-01-02T23:32:00Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "prateek-kumar-improving",
+        "currantw",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5110"
     },
     {
       "sha": "318953483ba64f18c2d7fad7c633339fe9fadb6f",
@@ -54156,7 +54202,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
       "message": "Rust: Rust 2024 compatibility fix (#5101)",
       "date": "2025-12-27T04:04:31Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "currantw",
+        "shohamazon",
+        "jduo"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5101"
     },
     {
       "sha": "700d52f8010433078a7fa7c1aa325931cbf7e78c",
@@ -54165,7 +54217,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/116083498?v=4",
       "message": "Java: fix ReadFrom.AZ_AFFINITY_REPLICAS_AND_PRIMARY issue (#5084)",
       "date": "2025-12-21T14:28:00Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "liorsve",
+        "mo-amzn"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5084"
     },
     {
       "sha": "c83607e19c3be9b36a782e3cea9466529398670b",
@@ -54174,7 +54231,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/136421644?v=4",
       "message": "Fix flaky PUBSUB pattern tests by making channel names deterministic (#4994)",
       "date": "2025-12-19T22:37:17Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "currantw"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4994"
     },
     {
       "sha": "265b09347b38f3de3342e16d5587d350f4433ae9",
@@ -54183,7 +54245,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
       "message": "Adding remaining server commands, transaction commands in request_type.rs (#5079)",
       "date": "2025-12-19T18:40:01Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "currantw"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5079"
     },
     {
       "sha": "969fbd342a6db68715af6d2a78bd20c11a662cc2",
@@ -54192,7 +54259,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
       "message": "Transparent Compression Feature (#4759)",
       "date": "2025-12-18T17:57:26Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "mo-amzn",
+        "asafpamzn"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4759"
     },
     {
       "sha": "67c98c3197422b69fed83ffe7f4d720a9e5ef329",
@@ -54201,7 +54273,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
       "message": "Update README.md with v2.2 release notes (#5076)",
       "date": "2025-12-17T23:36:44Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "Aryex",
+        "jduo"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5076"
     },
     {
       "sha": "a687a2e3342c046e3582ca17b8b2c6020e3f0913",
@@ -54210,7 +54287,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
       "message": "Docs: redirect existing docs site to the new site  (#4858)",
       "date": "2025-12-17T13:02:50Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "shohamazon",
+        "Maayanshani25"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4858"
     },
     {
       "sha": "fae1488066cbbe4b7121750273c2e9c2244f8009",
@@ -54219,7 +54301,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
       "message": "Add ACL commands in request_type.rs (#5027)",
       "date": "2025-12-16T06:49:21Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "currantw"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5027"
     },
     {
       "sha": "c1ada99b75b919e9df214a7dac421051f1d9eaee",
@@ -54228,7 +54315,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/649392?v=4",
       "message": "Update compatibility table with checkmarks (#5014)",
       "date": "2025-12-16T01:40:37Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "currantw"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5014"
     },
     {
       "sha": "a46313f05a7580533737723926ea39c430379d64",
@@ -54237,7 +54329,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
       "message": "Fix the skip for unsupported HGETDEL test (#5062)",
       "date": "2025-12-15T20:35:02Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "prateek-kumar-improving",
+        "currantw"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5062"
     },
     {
       "sha": "a24c9a64d574fd0f38903df0d745a12b5608ba7f",
@@ -54246,7 +54343,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
       "message": "Cherry-pick from 2.2: Node: Fix build time type error #5052 (#5058)",
       "date": "2025-12-12T19:08:54Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "jamesx-improving",
+        "currantw"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5058"
     },
     {
       "sha": "8097a7195723ad8aa1185f7f36365a6ed8454a99",
@@ -54255,7 +54357,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
       "message": "Add links to the new GLIDE documentation site. (#5002)",
       "date": "2025-12-12T00:35:09Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "yipin-chen",
+        "xShinnRyuu"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5002"
     },
     {
       "sha": "34d035677b9c774ebc363d2f05901da2d5c2b85e",
@@ -54264,7 +54371,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
       "message": "Core: Migrate from `rustls-pemfile` usage to `rustls-pki-types` (#5037)",
       "date": "2025-12-09T21:09:32Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "yipin-chen",
+        "jduo"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5037"
     },
     {
       "sha": "297cfdeb0869467ebf29cfb63f940f86b9c8d8af",
@@ -54273,7 +54385,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
       "message": "Java: Change gradle to use JAVA_HOME when available (#5040)",
       "date": "2025-12-09T19:05:37Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "jamesx-improving",
+        "affonsov"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5040"
     },
     {
       "sha": "8654ea83f59f3018ed02b4555c7f2493470f8212",
@@ -54282,7 +54399,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
       "message": "Python: Add missing dependency `sniffio` (#5018)",
       "date": "2025-12-08T23:21:29Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5018"
     },
     {
       "sha": "7eed47a22ec56fcc903b2b7df759cf56f9ec9002",
@@ -54291,7 +54413,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
       "message": "Cherry-picking: #5019 and #5022 from release-2.2 branch to main (#5025)",
       "date": "2025-12-04T00:32:42Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "jduo",
+        "xShinnRyuu",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5025"
     },
     {
       "sha": "050bc2e17948ff42e39284598b531e9789db4506",
@@ -54300,7 +54428,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/40911083?v=4",
       "message": "Enabling client and connection commands in request_type.rs (#5013)",
       "date": "2025-12-01T18:21:35Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "jamesx-improving"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5013"
     },
     {
       "sha": "7951f3073fbe29d39535f4ae3bdf42108c38b631",
@@ -54309,7 +54442,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/40911083?v=4",
       "message": "Enabling cluster commands in request_type file (#5010)",
       "date": "2025-11-27T20:02:54Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "jamesx-improving"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5010"
     },
     {
       "sha": "af22b77bcd812411d495766f0c403fccaee3de1a",
@@ -54318,7 +54456,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
       "message": "Adding support for module commands (#5004)",
       "date": "2025-11-26T18:57:07Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "jamesx-improving"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5004"
     },
     {
       "sha": "8b555e6aceeb04270d1047a515444bde27f24fb0",
@@ -54327,7 +54470,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
       "message": "Add `git-secrets-scan` workflow (#4983)",
       "date": "2025-11-26T01:38:41Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "yipin-chen",
+        "affonsov"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4983"
     },
     {
       "sha": "ec2ca115d2cb1c9a818721387413545ca8750929",
@@ -54336,7 +54485,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
       "message": "Core: Fix rust benchmark formatting (#5009)",
       "date": "2025-11-24T22:54:07Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "currantw",
+        "jeremyprime"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5009"
     },
     {
       "sha": "d677f1635fcd5ce3351a98fffd0c17c25b39e206",
@@ -54345,7 +54499,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
       "message": "Core: Fix rust benchmark for unmaintained advisory (#5000)",
       "date": "2025-11-21T21:42:05Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "jeremyprime"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5000"
     },
     {
       "sha": "19aa5ba9b9cc5250beb520a373472c54c25b979a",
@@ -54354,7 +54513,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
       "message": "Fix java applications from hanging after logic completion (#4984)",
       "date": "2025-11-18T17:51:57Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "jduo",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4984"
     },
     {
       "sha": "00397f3b29fdca3674990d7d293dd8c55d3be3e7",
@@ -54363,7 +54527,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
       "message": "Add support for engine version 9.0 in README (#4968)",
       "date": "2025-11-13T20:42:21Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "yipin-chen",
+        "xShinnRyuu"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4968"
     },
     {
       "sha": "13a481747afeac4f720e013bc23a484bb5d4ac42",
@@ -54372,7 +54541,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/80030194?v=4",
       "message": "fix(go/test): Stabilize TestScriptKill by replacing sleep with polling loop (#4908)",
       "date": "2025-11-13T19:15:48Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "jamesx-improving"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4908"
     },
     {
       "sha": "e279f881db1bce8cc2ec13a21e30c6f90fdc27b6",
@@ -54381,7 +54555,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
       "message": "README.md - remove extraneous whitespace (#4967)",
       "date": "2025-11-13T00:39:36Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4967"
     },
     {
       "sha": "356848543af8dae85994f1b6b95ff66bdf89c64c",
@@ -54390,7 +54569,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
       "message": "connection timeout value fix for clients (#4966)",
       "date": "2025-11-13T00:34:41Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "alexr-bq",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4966"
     },
     {
       "sha": "885c9f1f5472e293183c7fe8b7571f94aba766bf",
@@ -54399,7 +54583,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
       "message": "Java Cross-Platform Compatibility Fixes (#4965)",
       "date": "2025-11-12T18:27:02Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "affonsov",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4965"
     },
     {
       "sha": "92ec81bc6b2918981a5a0938201f552b7a76bc6f",
@@ -54408,7 +54597,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
       "message": "CI: Increase timeout (#4943)",
       "date": "2025-11-05T18:07:45Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4943"
     },
     {
       "sha": "d933d2fd10561f3c38f067475eeec306d9ee5964",
@@ -54417,7 +54611,14 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
       "message": "GO: Add TLS Custom Root Certificate Support for Go Client (#4921)",
       "date": "2025-11-03T21:34:18Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "yipin-chen",
+        "xShinnRyuu",
+        "xShinnRyuu",
+        "jduo"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4921"
     },
     {
       "sha": "22efa8c12c23dac41214cf68168a554df9796554",
@@ -54426,7 +54627,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
       "message": "Python: Add Custom Root Certificate Support for Python TLS Connections (#4930)",
       "date": "2025-11-01T01:21:12Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "yipin-chen",
+        "xShinnRyuu"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4930"
     },
     {
       "sha": "2935e69a702b401b4e813144473a6a47c636fb3a",
@@ -54435,7 +54641,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
       "message": "Implement TLS support for Java client (#4905)",
       "date": "2025-11-01T00:55:28Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "jduo",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4905"
     },
     {
       "sha": "698324aae7aeac0100e28f8fb6e8245a539df7ff",
@@ -54444,7 +54655,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
       "message": "Implement TLS support for Node client (#4911)",
       "date": "2025-10-31T19:03:10Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "yipin-chen",
+        "jduo"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4911"
     },
     {
       "sha": "c00c452c73623c1134b6593b6fd22910ebb10979",
@@ -54453,7 +54669,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
       "message": "Java: Make shutdown hook optional (#4935)",
       "date": "2025-10-30T22:32:48Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "yipin-chen",
+        "jduo",
+        "prateek-kumar-improving"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4935"
     },
     {
       "sha": "455c60d27ae4724f74336563c9bfee957d030a91",
@@ -54462,7 +54684,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
       "message": "Python: Add Python 3.14 support (#4897)",
       "date": "2025-10-30T22:29:34Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "yipin-chen",
+        "affonsov"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4897"
     },
     {
       "sha": "6ac8b6a22cdffc49b6137306c844e9f8dc956269",
@@ -54471,7 +54698,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/136421644?v=4",
       "message": "tests(pubsub): deflake test_pubsub_combined_exact_and_pattern_one_client by making channel names unique per index (#4880)",
       "date": "2025-10-30T18:42:30Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "jamesx-improving"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4880"
     },
     {
       "sha": "d396317e805a594128f272718bb1d0524caedf30",
@@ -54480,7 +54712,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
       "message": "Core support for custom certs (#4909)",
       "date": "2025-10-30T15:53:22Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "ikolomi"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4909"
     },
     {
       "sha": "641f3f2beb769995657b5a8058406621807027b0",
@@ -54489,7 +54726,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
       "message": "Python sync: Fix wheel build failure due to missing README.md (#4931)",
       "date": "2025-10-30T07:18:00Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "barshaul",
+        "shohamazon"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4931"
     },
     {
       "sha": "74e7fbf4ed58312ea3a527d8444a4957cb8e507d",
@@ -54498,7 +54740,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
       "message": "[DOC] Fix minor grammatical issue in README.md (#4938)",
       "date": "2025-10-30T04:11:01Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "jamesx-improving",
+        "xShinnRyuu"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4938"
     },
     {
       "sha": "79bed22e96b1dc21428e963f3be08b14cd5bfc7f",
@@ -54507,7 +54754,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/80030194?v=4",
       "message": "Stabilize flaky PUBSUB multi-client test by waiting for subscriptions (#4888)",
       "date": "2025-10-28T22:01:49Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "jamesx-improving"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4888"
     },
     {
       "sha": "c00b97a4a0072a9e92e0ed0938f4eb987dd396e4",
@@ -54516,7 +54768,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
       "message": "CI/CD: fix full matrix sweeper workflow (#4912)",
       "date": "2025-10-26T07:27:02Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "BoazBD",
+        "shohamazon"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4912"
     },
     {
       "sha": "3b7c158cc22a998e1b19abf7b9d2ed4695e57a4a",
@@ -54525,7 +54782,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
       "message": "PYTHON: Add IAM authentication support with manual token refresh (#4890)",
       "date": "2025-10-24T21:40:15Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "alexr-bq",
+        "jduo",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4890"
     },
     {
       "sha": "d99bff3546074dd9d9ba115532334266d90890b1",
@@ -54534,7 +54797,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
       "message": "JAVA: Add IAM authentication support for ElastiCache/MemoryDB (#4891)",
       "date": "2025-10-24T20:36:32Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "alexr-bq",
+        "jduo",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4891"
     },
     {
       "sha": "afe3ac34f9bf1227e599bf5adcdce1380be96752",
@@ -54543,7 +54812,15 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
       "message": " Fix: LOLWUT Tests and Add Version 9 Support (#4907)",
       "date": "2025-10-24T19:54:38Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "yipin-chen",
+        "xShinnRyuu",
+        "xShinnRyuu",
+        "xShinnRyuu",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4907"
     },
     {
       "sha": "afdc005fa7d4e1fd194095d7b608f11fd3578586",
@@ -54552,7 +54829,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
       "message": "FFI/GO: Add IAM authentication support with automatic token refresh (#4892)",
       "date": "2025-10-23T20:29:49Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "jbrinkman",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4892"
     },
     {
       "sha": "1d0bcc6172770b2793a4c9d8f2ceec37e66c59d8",
@@ -54561,7 +54843,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
       "message": "Update engine-matrix.json for Valkey 9 release (#4904)",
       "date": "2025-10-23T18:34:20Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "yipin-chen",
+        "jamesx-improving"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4904"
     },
     {
       "sha": "7cc4ff698595bcc25b09348f50763bdf53050401",
@@ -54570,7 +54857,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
       "message": "CI/CD: Fix Python sync client Docker build container image (#4901)",
       "date": "2025-10-22T11:02:22Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "barshaul",
+        "shohamazon"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4901"
     },
     {
       "sha": "2996f861f9546c9dabdb8046f32db952f069bcb5",
@@ -54579,7 +54871,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
       "message": "CI/CD: Add self hosted mac runners (#4899)",
       "date": "2025-10-22T10:49:10Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "shohamazon",
+        "ikolomi"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4899"
     },
     {
       "sha": "6bddb833650e09df747426a531bdf66fec59c1b7",
@@ -54588,7 +54885,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
       "message": "Backport 2.1 to main (#4889)",
       "date": "2025-10-21T21:37:09Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "jduo",
+        "yipin-chen",
+        "prateek-kumar-improving"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4889"
     },
     {
       "sha": "215b9ed14b219ce9e78c8c72d38d989d8ac66ac5",
@@ -54597,7 +54900,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
       "message": "Python sync/FFI: added pubsub, handling for push responses (#4602)",
       "date": "2025-10-21T13:43:16Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "shohamazon",
+        "BoazBD"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4602"
     },
     {
       "sha": "4ea37ea28f47a461c58c48f2b22a9398c88ae413",
@@ -54606,7 +54914,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
       "message": "Python sync: added cluster scan (#4823)",
       "date": "2025-10-21T06:21:41Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "shohamazon",
+        "BoazBD"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4823"
     },
     {
       "sha": "266f58bd5bae8ad8046b748138553e019416740c",
@@ -54615,7 +54928,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/116083498?v=4",
       "message": "fix typo (#4894)",
       "date": "2025-10-20T08:33:40Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "liorsve"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4894"
     },
     {
       "sha": "1d6f82e50817f39715bc10fb49fc11aaf46ffab0",
@@ -54624,7 +54941,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
       "message": "JAVA: Add `refreshTopologyFromInitialNodes` Configuration Option (#4870)",
       "date": "2025-10-16T03:23:27Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "yipin-chen",
+        "shohamazon"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4870"
     },
     {
       "sha": "8df3235b35774e5769b8313298ac9506a8712bb4",
@@ -54633,7 +54955,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
       "message": "Node: add refreshTopologyFromInitialNodes configuration option (#4872)",
       "date": "2025-10-16T02:39:57Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "yipin-chen",
+        "shohamazon"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4872"
     },
     {
       "sha": "79ff9c0d39956fb6a3ba981d3eaeb3cd72c80c26",
@@ -54642,7 +54969,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
       "message": "GO: add RefreshTopologyFromInitialNodes configuration option (#4871)",
       "date": "2025-10-16T01:36:29Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "yipin-chen",
+        "shohamazon"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4871"
     },
     {
       "sha": "15c535e8b4b75226b705171a63392a559c606aa3",
@@ -54651,7 +54983,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
       "message": "Java: Add lib name to configuration (#4869)",
       "date": "2025-10-16T00:31:23Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "jamesx-improving",
+        "jduo"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4869"
     },
     {
       "sha": "7ddb780aef9a85c5379bae27f742376dc804c079",
@@ -54660,7 +54997,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/582706?v=4",
       "message": "Python: Fix adds missing py.typed markers to python modules (#4873)",
       "date": "2025-10-10T19:36:29Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "jamesx-improving",
+        "xShinnRyuu"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4873"
     },
     {
       "sha": "ab92d9887df1827ea4cec7b7fba9fc3bbcfd502c",
@@ -54669,7 +55011,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/116083498?v=4",
       "message": "Python: add refresh topology from initial nodes config (#4855)",
       "date": "2025-10-06T12:45:07Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "liorsve",
+        "ikolomi"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4855"
     },
     {
       "sha": "30fee5f2d38bf53409fb0f81e7a91c007b17e01d",
@@ -54678,7 +55025,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/116083498?v=4",
       "message": "Core: refresh topology from initial nodes (#4669)",
       "date": "2025-10-05T12:44:04Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "ikolomi"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4669"
     },
     {
       "sha": "7664ec08ab718b541d8c6590eeadc75d28282231",
@@ -54687,7 +55038,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/862921?v=4",
       "message": "feat: add AGENTS.md files for agentic tools across language bindings (#4739)",
       "date": "2025-10-03T16:19:20Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "yipin-chen",
+        "jamesx-improving",
+        "prateek-kumar-improving"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4739"
     },
     {
       "sha": "81079af701e6d1d24028d4414736709fc342acd1",
@@ -54696,7 +55053,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
       "message": "Add documentation to how to use Lua scripts with Glide (#4811)",
       "date": "2025-10-01T18:24:49Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "jbrinkman",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4811"
     },
     {
       "sha": "b81712b75fa28715a498864b33db5f191b20d7c8",
@@ -54705,7 +55067,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
       "message": "Python benchmarks: add sync benchmarks and connection warm up (#4704)",
       "date": "2025-09-30T10:48:20Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "shohamazon",
+        "mo-amzn"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4704"
     },
     {
       "sha": "e038dc8db185c944a55d48679e8fd383091c3ec1",
@@ -54714,7 +55081,15 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
       "message": "Fix for CI build on MUSL (#4819)",
       "date": "2025-09-29T21:51:30Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "yipin-chen",
+        "jduo",
+        "avifenesh",
+        "jamesx-improving"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4819"
     },
     {
       "sha": "2e40c0b8de3d7bc5842681db91c6c0e95dffd3d2",
@@ -54723,7 +55098,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
       "message": "Python CD: updated testing to run on ephemeral runners (#4771)",
       "date": "2025-09-28T07:14:17Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "ikolomi",
+        "mo-amzn"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4771"
     },
     {
       "sha": "24c47d1f3650e772a872f22d4a9cc168a4a07754",
@@ -54732,7 +55112,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
       "message": "Add explicit rustfmt and clippy components to install-rust-and-protoc action (#4817)",
       "date": "2025-09-26T19:29:08Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "jamesx-improving",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4817"
     },
     {
       "sha": "0494236513e0061a88fad405df9a888b0449aee3",
@@ -54741,7 +55126,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/83984921?v=4",
       "message": "Node: fix circular dependencies (#4611)",
       "date": "2025-09-23T20:32:31Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "jduo",
+        "jeremyprime",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4611"
     },
     {
       "sha": "a1e2e5f55d8dc50814bf143c8685f4ee5cf3d9c5",
@@ -54750,7 +55141,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
       "message": "Bump org.apache.commons:commons-math3 from 3.5 to 3.6.1 in /java (#4787)",
       "date": "2025-09-22T18:04:40Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "avifenesh"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4787"
     },
     {
       "sha": "2f1d89540c726e6f08a2ae8bfe9371ff310b5a29",
@@ -54759,7 +55154,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
       "message": "Bump commons-cli:commons-cli from 1.5.0 to 1.10.0 in /java (#4790)",
       "date": "2025-09-22T18:04:08Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "avifenesh"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4790"
     },
     {
       "sha": "2cbaeb2fb564acaaa6c70a8f83f1c50c86dd47c1",
@@ -54768,7 +55167,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
       "message": "Update tokio-retry2 requirement from 0.5 to 0.6 in /glide-core (#4784)",
       "date": "2025-09-22T18:03:41Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "avifenesh"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4784"
     },
     {
       "sha": "73f678406d4fb980022005cf623ff775ba9e2bf8",
@@ -54777,7 +55180,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/862921?v=4",
       "message": "README updates for 2.1 release (#4763)",
       "date": "2025-09-22T15:40:45Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4763"
     },
     {
       "sha": "ccc2735cd522defefbd4aa0af6acfadeb2f2ef62",
@@ -54786,7 +55194,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
       "message": "Bump eslint-plugin-jsdoc from 54.7.0 to 57.0.8 (#4736)",
       "date": "2025-09-22T15:28:07Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "avifenesh",
+        "avifenesh"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4736"
     },
     {
       "sha": "f359915d096093d51fcda82f9acb5527cb4bca07",
@@ -54795,7 +55208,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
       "message": "Bump com.github.spotbugs from 6.0.18 to 6.4.2 in /java (#4791)",
       "date": "2025-09-22T15:27:40Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "avifenesh"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4791"
     },
     {
       "sha": "0ac7751207c6e71a1c8eb57893a019f7e83d713f",
@@ -54804,7 +55221,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
       "message": "Bump com.diffplug.spotless from 7.1.0 to 7.2.1 in /java (#4792)",
       "date": "2025-09-22T15:22:38Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "avifenesh"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4792"
     },
     {
       "sha": "d1504a71e2dc892cd0f9e5dac94f584efa6bfc89",
@@ -54813,7 +55234,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
       "message": "Bump io.lettuce:lettuce-core from 6.2.6.RELEASE to 6.8.1.RELEASE in /java (#4793)",
       "date": "2025-09-22T15:22:09Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "avifenesh"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4793"
     },
     {
       "sha": "f6c9e6bc2044d04be8418806c51bf297a915f1e6",
@@ -54822,7 +55247,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
       "message": "Bump com.google.guava:guava from 33.4.8-jre to 33.5.0-jre in /java (#4795)",
       "date": "2025-09-22T15:21:44Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "avifenesh"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4795"
     },
     {
       "sha": "72cad54ef4eb408080be507a64cb050b77da52d9",
@@ -54831,7 +55260,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
       "message": "Bump com.google.code.gson:gson from 2.10.1 to 2.13.2 in /java (#4796)",
       "date": "2025-09-22T15:21:20Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "avifenesh"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4796"
     },
     {
       "sha": "b6a40ad6133b26425d1f6d84369c913a30819704",
@@ -54840,7 +55273,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
       "message": "Update ctor requirement from 0.4 to 0.5 in /glide-core (#4781)",
       "date": "2025-09-22T15:20:38Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "avifenesh"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4781"
     },
     {
       "sha": "2d8dc5f2b21df91f98b623ae41eb598f42948cb9",
@@ -54849,7 +55286,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
       "message": "Update rstest requirement from ^0.25 to ^0.26 in /glide-core (#4782)",
       "date": "2025-09-22T15:20:13Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "avifenesh"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4782"
     },
     {
       "sha": "e458b004fdf34f662f97e59c84221b027d5cf44d",
@@ -54858,7 +55299,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
       "message": "Bump @types/uuid from 10.0.0 to 11.0.0 in /node (#4774)",
       "date": "2025-09-22T10:19:09Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "avifenesh"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4774"
     },
     {
       "sha": "527e088e8b15054002bc68515da6d8a4cd194b6c",
@@ -54867,7 +55312,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
       "message": "Bump actions/setup-node from 4 to 5 (#4779)",
       "date": "2025-09-22T10:17:37Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "avifenesh"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4779"
     },
     {
       "sha": "e8f8e250a965d08cb5e87fed4e10a05d0d2a5c53",
@@ -54876,7 +55325,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
       "message": "Bump actions/github-script from 7 to 8 (#4785)",
       "date": "2025-09-22T10:16:23Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "avifenesh"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4785"
     },
     {
       "sha": "0599e1de9edb797eb5dee60079776b095fafda84",
@@ -54885,7 +55338,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
       "message": "Bump the patch-updates group across 1 directory with 2 updates (#4690)",
       "date": "2025-09-21T14:17:47Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "avifenesh"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4690"
     },
     {
       "sha": "0aeddbdfa6f6915dbbe7f226662fd48bee9fcae2",
@@ -54894,7 +55351,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
       "message": "Java/jni migration (#4742)",
       "date": "2025-09-21T11:24:12Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "jduo"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4742"
     },
     {
       "sha": "b3f638f790449974aec24d83da7da23dce0e0a0f",
@@ -54903,7 +55364,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
       "message": "Util: Fix cluster manager flaky function `is_address_already_in_use()` (#4727)",
       "date": "2025-09-19T18:33:33Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "yipin-chen",
+        "xShinnRyuu"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4727"
     },
     {
       "sha": "c66bda393e4d0445dff7d092fdce67f47cc7a575",
@@ -54912,7 +55378,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/161942026?v=4",
       "message": "Node: Adding Iam auth config and refreshIamToken (#4761)",
       "date": "2025-09-19T14:10:49Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "liorsve",
+        "avifenesh"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4761"
     },
     {
       "sha": "9f0afdfd3153a4d96bcc6e59abce919bc774cf05",
@@ -54921,7 +55392,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/161942026?v=4",
       "message": " Support IAM auth in Core (#4525)",
       "date": "2025-09-19T13:30:32Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "avifenesh",
+        "liorsve"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4525"
     },
     {
       "sha": "53b9fe2a939a80fbdad53e3c9e19c881d43a9efb",
@@ -54930,7 +55406,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
       "message": "Node: flaky tests (#4710)",
       "date": "2025-09-18T23:01:10Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "jamesx-improving",
+        "yipin-chen"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4710"
     },
     {
       "sha": "db24ca450d28a0aac58741ad90a1556b087031ec",
@@ -54939,7 +55420,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/862921?v=4",
       "message": "Resolve Rust lint issues (#4758)",
       "date": "2025-09-18T22:34:02Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "xShinnRyuu",
+        "jamesx-improving"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4758"
     },
     {
       "sha": "ba1bcd7a6ca7922971f229a8dcefedba9757b25b",
@@ -54948,7 +55434,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/862921?v=4",
       "message": "[BACKPORT 2.1] Merge Release 2.1 back into Main (#4753)",
       "date": "2025-09-18T18:55:30Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "yipin-chen",
+        "jamesx-improving"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4753"
     },
     {
       "sha": "52084a5eafa8c2beae9e1ec9a0c21306cc3c0dae",
@@ -54957,7 +55448,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
       "message": "Python: improve UDS socket error handling (#4733)",
       "date": "2025-09-16T08:58:24Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "barshaul",
+        "BoazBD"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4733"
     },
     {
       "sha": "85b579329f0ee07a034c810c952e4ca53a6f99bb",
@@ -54966,7 +55462,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
       "message": "Python Sync: revert license format (#4731)",
       "date": "2025-09-14T09:55:57Z",
-      "repo": "valkey-glide"
+      "repo": "valkey-glide",
+      "reviewed": [
+        "shohamazon",
+        "Maayanshani25"
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4731"
     },
     {
       "sha": "7a031e5310c8b82b718e568ace245b81db557825",
@@ -100102,6 +100603,24 @@
       "message": "Merge pull request #8 from dmitrypol/main",
       "date": "2024-04-30T16:07:24Z",
       "repo": "valkeymodule-rs"
+    },
+    {
+      "sha": "194abd5e24fd136bc7ab34d593bc9cafabf80548",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "Add C# Valkey GLIDE client definition and fix GLIDE website links (#430)",
+      "date": "2026-04-25T23:27:43Z",
+      "repo": "valkey-doc"
+    },
+    {
+      "sha": "bafaca2205bd41a483931d0f7a63284515e19032",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "Add Valkey GLIDE C# client to clients page (#506)",
+      "date": "2026-04-25T23:31:10Z",
+      "repo": "valkey-io.github.io"
     }
   ]
 }
