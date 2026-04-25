@@ -411,7 +411,9 @@ def main():
         backfilled = sum(1 for c in need_backfill if not needs_detail_backfill(c))
         log(f"    Backfilled {backfilled}/{len(need_backfill)}")
 
-    store["last_fetched"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    # Only advance last_fetched if we're not rate-limited (got everything)
+    if not rate_limited and not args.limit:
+        store["last_fetched"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     save_json(COMMITS_FILE, store)
 
     reviewed = sum(1 for c in store["commits"] if isinstance(c.get("reviewed"), list))
