@@ -3,7 +3,7 @@ name: Backfill data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */4 * * *"
+    - cron: "0 6 * * *"
 
 permissions:
   contents: write
@@ -19,7 +19,7 @@ jobs:
           python-version: "3.x"
 
       - name: Fetch and backfill
-        run: python3 scripts/fetch_commits.py --limit 100
+        run: python3 scripts/fetch_commits.py --limit 1000
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
