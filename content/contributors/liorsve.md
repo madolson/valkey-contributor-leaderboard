@@ -13,10 +13,10 @@
   "commit_list": [
     {
       "sha": "19e16f5018",
-      "message": "19e16f5018",
+      "message": "Add dynamic pubsub docs (#170)",
       "date": "2026-03-22",
       "repo": "valkey-glide-docs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/170",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/19e16f5018d87fcafc26c7ed331c1ba11edb0709"
     },
     {

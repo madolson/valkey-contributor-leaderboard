@@ -21,10 +21,10 @@
     },
     {
       "sha": "93941191fd",
-      "message": "93941191fd",
+      "message": "Tests for EVAL/EVALSHA/SCRIPT LOAD in coexistence mode (#6)",
       "date": "2026-03-26",
       "repo": "valkey-luajit",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/6",
       "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/93941191fdd3b4721fb8bfa0e009707dd027c750"
     }
   ],
@@ -55,74 +55,74 @@
     },
     {
       "sha": "2a8dfd6b05",
-      "message": "2a8dfd6b05",
+      "message": "Fix nightly package tests",
       "date": "2026-04-02",
       "repo": "valkey-luajit",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/18",
       "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/2a8dfd6b0513034df037fe26f5e451552384cfca"
     },
     {
       "sha": "e81bc7cfa7",
-      "message": "e81bc7cfa7",
+      "message": "Simplify VKM wrappers (#17)",
       "date": "2026-04-01",
       "repo": "valkey-luajit",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/17",
       "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/e81bc7cfa754693160d28d594cdff7e08bef8489"
     },
     {
       "sha": "362a94dc6e",
-      "message": "362a94dc6e",
+      "message": "Fix built-in type() shadowing (#16)",
       "date": "2026-04-01",
       "repo": "valkey-luajit",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/16",
       "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/362a94dc6e49e48870f8d6f975ad2b7b102b433b"
     },
     {
       "sha": "53c039753f",
-      "message": "53c039753f",
+      "message": "Add multi-engine register support",
       "date": "2026-03-27",
       "repo": "valkey-luajit",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/8",
       "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/53c039753f5be8f97f801dc4e6f35ae401941847"
     },
     {
       "sha": "53c039753f",
-      "message": "53c039753f",
+      "message": "Add multi-engine register support",
       "date": "2026-03-27",
       "repo": "valkey-luajit",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/8",
       "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/53c039753f5be8f97f801dc4e6f35ae401941847"
     },
     {
       "sha": "2a93707820",
-      "message": "2a93707820",
+      "message": "Simplify running tests (#7)",
       "date": "2026-03-26",
       "repo": "valkey-luajit",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/7",
       "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/2a93707820d954b5413197e129384858e5f24901"
     },
     {
       "sha": "7581a8876f",
-      "message": "7581a8876f",
+      "message": "Allow luajit to coexist with built-in lua",
       "date": "2026-03-25",
       "repo": "valkey-luajit",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/5",
       "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/7581a8876f616e18257c3bd97af8e7c530e29b5a"
     },
     {
       "sha": "2be43e2d9f",
-      "message": "2be43e2d9f",
+      "message": "Set enable ffi config immutable",
       "date": "2026-03-25",
       "repo": "valkey-luajit",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/4",
       "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/2be43e2d9f60badf66ff4916175c750e3268fabf"
     },
     {
       "sha": "2f3ac16240",
-      "message": "2f3ac16240",
+      "message": "Add functions isolation tests (#2)",
       "date": "2026-03-24",
       "repo": "valkey-luajit",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/2",
       "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/2f3ac16240e8b37aeb060b7780e690242c4e9bfc"
     }
   ]

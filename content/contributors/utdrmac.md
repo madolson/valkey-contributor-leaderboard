@@ -12,20 +12,20 @@
   "commit_list": [
     {
       "sha": "4f3e468600",
-      "message": "4f3e468600",
+      "message": "(feat): Extra Valkey config (#44)",
       "date": "2026-04-23",
       "repo": "valkey-operator",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/44",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/4f3e468600bb73ed1ddfc23227e2abc1dea6024f"
     }
   ],
   "review_list": [
     {
       "sha": "6b6047f06f",
-      "message": "6b6047f06f",
+      "message": "feat: Add type in ACL Secret (#117)",
       "date": "2026-03-27",
       "repo": "valkey-operator",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/117",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6b6047f06f5e20ba72318fc697e53537d6d8ecc6"
     }
   ]

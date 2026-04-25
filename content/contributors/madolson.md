@@ -39,18 +39,18 @@
     },
     {
       "sha": "f491ea2633",
-      "message": "f491ea2633",
+      "message": "Add blog post type tags with filtering and build-time validation (#488)",
       "date": "2026-04-07",
       "repo": "valkey-io.github.io",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/488",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f491ea26334c736988da9b4f56e26050130dbd9f"
     },
     {
       "sha": "bbe7a24781",
-      "message": "bbe7a24781",
+      "message": "Events calendar page (#477)",
       "date": "2026-03-27",
       "repo": "valkey-io.github.io",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/477",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/bbe7a247817f43c0c85dd22d2c4a588ca93145e1"
     },
     {
@@ -105,10 +105,10 @@
   "review_list": [
     {
       "sha": "7a480bb96c",
-      "message": "7a480bb96c",
+      "message": "adds Leadership page with TSC (#510)",
       "date": "2026-04-24",
       "repo": "valkey-io.github.io",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/510",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/7a480bb96cd42113fd3213663b255591a96b4339"
     },
     {
@@ -121,10 +121,10 @@
     },
     {
       "sha": "0905aba147",
-      "message": "0905aba147",
+      "message": "changes to updated link (#507)",
       "date": "2026-04-23",
       "repo": "valkey-io.github.io",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/507",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/0905aba14791bcd0d1ba3f137c8a20d4d26fce9b"
     },
     {
@@ -153,34 +153,34 @@
     },
     {
       "sha": "d2c95efa70",
-      "message": "d2c95efa70",
+      "message": "Set featured banner for Valkey Search 1.2 blog post (#493)",
       "date": "2026-04-06",
       "repo": "valkey-io.github.io",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/493",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/d2c95efa70383583c3e43f9e4d92fe703a4015d9"
     },
     {
       "sha": "38f3caeda0",
-      "message": "38f3caeda0",
+      "message": "Add Valkey Meetup Groups Charter and Issue Template for new Meetup Groups (#478)",
       "date": "2026-04-02",
       "repo": "valkey-io.github.io",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/478",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/38f3caeda086e6b2f2cc24d6119f2d8900d5f9c6"
     },
     {
       "sha": "45e70a7d67",
-      "message": "45e70a7d67",
+      "message": "Add blog post: Announcing Spring Data Valkey (#476)",
       "date": "2026-04-01",
       "repo": "valkey-io.github.io",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/476",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/45e70a7d671508cb11f4a7895d91f3d7ab5ec1c9"
     },
     {
       "sha": "7d1e799382",
-      "message": "7d1e799382",
+      "message": "Brennan bio (#481)",
       "date": "2026-03-18",
       "repo": "valkey-io.github.io",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/481",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/7d1e799382f0f59a80ba8ca2384f0a82d8d72167"
     },
     {
@@ -249,50 +249,50 @@
     },
     {
       "sha": "833d4ab47b",
-      "message": "833d4ab47b",
+      "message": "LDAP authentication module (#20)",
       "date": "2025-06-14",
       "repo": "valkey-rfc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/20",
       "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/833d4ab47b462daf031b1fb480eaeef905c6206d"
     },
     {
       "sha": "fcbd66c355",
-      "message": "fcbd66c355",
+      "message": "Update the clause regarding RDB compatibility of ValkeyJSON (#19)",
       "date": "2025-02-25",
       "repo": "valkey-rfc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/19",
       "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/fcbd66c35508a0d06a4dfaec00fec6d1d485f7bb"
     },
     {
       "sha": "920db68229",
-      "message": "920db68229",
+      "message": "Addresses open question for ValkeyJSON rfc (#13)",
       "date": "2024-11-18",
       "repo": "valkey-rfc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/13",
       "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/920db68229ba1e9be561b3ee33d74561ec58234d"
     },
     {
       "sha": "c2e2cb4d1e",
-      "message": "c2e2cb4d1e",
+      "message": "BloomFilter Module support for Valkey RFC (#4)",
       "date": "2024-08-27",
       "repo": "valkey-rfc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/4",
       "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/c2e2cb4d1e1378d37bac5ef5c6b2cb87beb7d383"
     },
     {
       "sha": "c4a0d0fa8b",
-      "message": "c4a0d0fa8b",
+      "message": "Reference RFC file (#6)",
       "date": "2024-08-27",
       "repo": "valkey-rfc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/6",
       "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/c4a0d0fa8bd4c1306fb3f0da316569155ff529c6"
     },
     {
       "sha": "657f83c93d",
-      "message": "657f83c93d",
+      "message": "Add information about RFC process (#1)",
       "date": "2024-06-15",
       "repo": "valkey-rfc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/1",
       "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/657f83c93d187f41cb3886aeeb384d59dd32498c"
     },
     {

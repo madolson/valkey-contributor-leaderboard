@@ -3304,7 +3304,9 @@
       "reviewed": [
         "alexr-bq",
         "yipin-chen"
-      ]
+      ],
+      "message": "Stream command API cleanup: enable core commands, disable pending ones (#324)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/324"
     },
     {
       "sha": "4b4a35a8c94a74c05dbc1ade3a05aa420fb6ac44",
@@ -3316,7 +3318,9 @@
       "reviewed": [
         "yipin-chen",
         "jeremyprime"
-      ]
+      ],
+      "message": "CD: Fix 2 minor issues in the CD workflow (#320)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/320"
     },
     {
       "sha": "3fb20a63083a3451001e1a8b2a6f50e3896adcfe",
@@ -3329,7 +3333,9 @@
         "alexr-bq",
         "yipin-chen",
         "currantw"
-      ]
+      ],
+      "message": "Expand server management command API  (#315)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/315"
     },
     {
       "sha": "65580e85439395e0e679dee2b5844ca494f86ee0",
@@ -3341,7 +3347,9 @@
       "reviewed": [
         "jeremyprime",
         "yipin-chen"
-      ]
+      ],
+      "message": "Stream command API cleanup (#303)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/303"
     },
     {
       "sha": "9c9964289466341e8e9137c9727de07736ae25bc",
@@ -3354,7 +3362,9 @@
         "alexr-bq",
         "yipin-chen",
         "jeremyprime"
-      ]
+      ],
+      "message": "refactor(string): string command API cleanup (#319)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/319"
     },
     {
       "sha": "246247b12d8272038aefd867cd7ab43645a7c852",
@@ -3366,7 +3376,9 @@
       "reviewed": [
         "currantw",
         "alexr-bq"
-      ]
+      ],
+      "message": "perf: Reduce per-request GC allocation overhead (#310)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/310"
     },
     {
       "sha": "aca68251d42d661683db9a813b440693e995ce92",
@@ -3378,7 +3390,9 @@
       "reviewed": [
         "jeremyprime",
         "affonsov"
-      ]
+      ],
+      "message": "refactor: Sorted set command API cleanup (#314)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/314"
     },
     {
       "sha": "3f0748996290ca9e24897a6a1aae4c094628562a",
@@ -3391,7 +3405,9 @@
         "currantw",
         "yipin-chen",
         "affonsov"
-      ]
+      ],
+      "message": "Scan Command Refactor (#316)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/316"
     },
     {
       "sha": "1f946c562974a9ad89858e6990e4fb1c7d7e100b",
@@ -3403,7 +3419,9 @@
       "reviewed": [
         "affonsov",
         "currantw"
-      ]
+      ],
+      "message": "Scripting/Functions command refactor (#306)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/306"
     },
     {
       "sha": "1204c22867372c601b018c5f1808a4780afbc8ac",
@@ -3415,7 +3433,9 @@
       "reviewed": [
         "alexr-bq",
         "affonsov"
-      ]
+      ],
+      "message": "refactor(set): split Set command API across GLIDE and SER tiers (#307)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/307"
     },
     {
       "sha": "f46ceb821642ae0e45aed6da10e228c77f16766b",
@@ -3427,7 +3447,9 @@
       "reviewed": [
         "affonsov",
         "currantw"
-      ]
+      ],
+      "message": "List command refactor (#301)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/301"
     },
     {
       "sha": "df5345bf545855a668414ccfccaa94ea43ff5913",
@@ -3441,7 +3463,9 @@
         "currantw",
         "jamesx-improving",
         "alexr-bq"
-      ]
+      ],
+      "message": "Disable CICD due to flakiness (#309)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/309"
     },
     {
       "sha": "37ffa082f90ffd45fbf57e715e56229831a33766",
@@ -3453,7 +3477,9 @@
       "reviewed": [
         "xShinnRyuu",
         "alexr-bq"
-      ]
+      ],
+      "message": "fix(pubsub): implement SER pub/sub commands and make API binary-safe with ValkeyKey/ValkeyValue (#296)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/296"
     },
     {
       "sha": "d6ac8e1933093642f91c0c35880bdc1b770c28a4",
@@ -3464,7 +3490,9 @@
       "repo": "valkey-glide-docs",
       "reviewed": [
         "xShinnRyuu"
-      ]
+      ],
+      "message": "Remove \"Coming Soon\" pre-release indicators for C# client (#192)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/192"
     },
     {
       "sha": "33809dd9131d1248ddd8a7141447d51e81f43d75",
@@ -3476,7 +3504,9 @@
       "reviewed": [
         "jeremyprime",
         "xShinnRyuu"
-      ]
+      ],
+      "message": "Fixed Modules and IAM docs (#189)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/189"
     },
     {
       "sha": "5d49823d37d9e9d83c10181518dfc7cd7fe974f6",
@@ -3505,7 +3535,9 @@
       "repo": "valkey-glide-docs",
       "reviewed": [
         "xShinnRyuu"
-      ]
+      ],
+      "message": "Fixed Python API reference docs with auto docs generation (#187)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/187"
     },
     {
       "sha": "d0a00634acc977aa871f9c9e14fa9e950e6faf1a",
@@ -3516,7 +3548,9 @@
       "repo": "valkey-glide-docs",
       "reviewed": [
         "Aryex"
-      ]
+      ],
+      "message": "Java: Add uber jar installation option for Valkey GLIDE (#181)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/181"
     },
     {
       "sha": "00f95e35dfc704910d370d46b315d5d2e51a7075",
@@ -3527,7 +3561,9 @@
       "repo": "valkey-glide-docs",
       "reviewed": [
         "Aryex"
-      ]
+      ],
+      "message": "Add \"Coming Soon\" pre-release indicators for C# client documentation (#183)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/183"
     },
     {
       "sha": "df3bfb26902067e938bcfbfa9d2c9695e38f988e",
@@ -3540,7 +3576,9 @@
         "jeremyprime",
         "Aryex",
         "Aryex"
-      ]
+      ],
+      "message": "Add comprehensive C# documentation and cross-language improvements (#173)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/173"
     },
     {
       "sha": "19e16f5018d87fcafc26c7ed331c1ba11edb0709",
@@ -3551,7 +3589,9 @@
       "repo": "valkey-glide-docs",
       "reviewed": [
         "ikolomi"
-      ]
+      ],
+      "message": "Add dynamic pubsub docs (#170)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/170"
     },
     {
       "sha": "b4d34bab1f06696f808da8eba733a115a5a4f083",
@@ -3562,7 +3602,9 @@
       "repo": "valkey-glide-docs",
       "reviewed": [
         "jeremyprime"
-      ]
+      ],
+      "message": "Fixed formatter issues escaping square brackets (#175)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/175"
     },
     {
       "sha": "bdc037e47a4ee8a6f76b75d1ad95fe2f3abdcd94",
@@ -3574,7 +3616,9 @@
       "reviewed": [
         "affonsov",
         "Aryex"
-      ]
+      ],
+      "message": "PHP: Update PECL install steps (#178)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/178"
     },
     {
       "sha": "07612a56e73ace9fa1523bf51c1f3290d6b231cf",
@@ -3585,7 +3629,9 @@
       "repo": "valkey-glide-docs",
       "reviewed": [
         "Aryex"
-      ]
+      ],
+      "message": "Update IAM integration documentation for clarity (#177)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/177"
     },
     {
       "sha": "3603d033cba1732181aef0aa6145c755136b9a24",
@@ -3596,7 +3642,9 @@
       "repo": "valkey-glide-docs",
       "reviewed": [
         "currantw"
-      ]
+      ],
+      "message": "Remove `languages/` folder (#174)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/174"
     },
     {
       "sha": "7278a6a343c1d3ee60fcb71d57bd23bd2c21159e",
@@ -3607,7 +3655,9 @@
       "repo": "valkey-glide-docs",
       "reviewed": [
         "currantw"
-      ]
+      ],
+      "message": "Removed placeholder pages (#176)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/176"
     },
     {
       "sha": "cada2c03b84217d3295d4f4c82e7564a1147cda9",
@@ -3618,7 +3668,9 @@
       "repo": "valkey-glide-docs",
       "reviewed": [
         "Aryex"
-      ]
+      ],
+      "message": "Fix GithubReleases JSX syntax, apply codebase formatting, and add CI format check (#172)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/172"
     },
     {
       "sha": "bd502f98cb9f83c857cc2859f0e458e27447e528",
@@ -3630,7 +3682,9 @@
       "reviewed": [
         "Aryex",
         "jeremyprime"
-      ]
+      ],
+      "message": "PHP: Add reference section (#160)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/160"
     },
     {
       "sha": "5948973fa9ec9f11b7c39c00ae34c63ca5dfc70c",
@@ -3642,7 +3696,9 @@
       "reviewed": [
         "Aryex",
         "jeremyprime"
-      ]
+      ],
+      "message": "PHP: Add how to section (#158)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/158"
     },
     {
       "sha": "7f5c4e873db733e740db0e0ac5c0e12d38c60588",
@@ -3653,7 +3709,9 @@
       "repo": "valkey-glide-docs",
       "reviewed": [
         "jeremyprime"
-      ]
+      ],
+      "message": "Fixed broken links on overview page. (#162)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/162"
     },
     {
       "sha": "171fbfa674da94788ee5d81527e99bb24dbc31ba",
@@ -3664,7 +3722,9 @@
       "repo": "valkey-glide-docs",
       "reviewed": [
         "ikolomi"
-      ]
+      ],
+      "message": "Fixed pip install command for TLS tutorial (#152)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/152"
     },
     {
       "sha": "5bbf23a36d5971d46265af5bd096ad147e7cad7b",
@@ -3685,7 +3745,9 @@
       "reviewed": [
         "affonsov",
         "prateek-kumar-improving"
-      ]
+      ],
+      "message": "CI: Add Modules Testing (#173)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/173"
     },
     {
       "sha": "493fb83677e9de55a5085508fe7809c8936aab99",
@@ -3697,7 +3759,9 @@
       "reviewed": [
         "prateek-kumar-improving",
         "jduo"
-      ]
+      ],
+      "message": "feat(php): Add Core Valkey Search commands (#171)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/171"
     },
     {
       "sha": "212197e1d9de2fe9de748a7904660b29016e76c3",
@@ -3709,7 +3773,9 @@
       "reviewed": [
         "jeremyprime",
         "Aryex"
-      ]
+      ],
+      "message": "PHP: Add JSON commands (#185)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/185"
     },
     {
       "sha": "4bc59c8114e67274bf8df44a9a71b9f18d08a86d",
@@ -3723,7 +3789,9 @@
         "Aryex",
         "xShinnRyuu",
         "yipin-chen"
-      ]
+      ],
+      "message": "PHP: Add JSON_GET and JSON_SET commands (#184)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/184"
     },
     {
       "sha": "8c37b0668686bb866e830ef81ad3e56fdc9ed211",
@@ -3735,7 +3803,9 @@
       "reviewed": [
         "jeremyprime",
         "prateek-kumar-improving"
-      ]
+      ],
+      "message": "test: refactor IAM authentication tests (#151)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/151"
     },
     {
       "sha": "3b70239754327b55fdb5a0980f4abdaea7db2796",
@@ -3747,7 +3817,9 @@
       "reviewed": [
         "prateek-kumar-improving",
         "alexr-bq"
-      ]
+      ],
+      "message": "Add DNS, TLS, and IP address tests (#157)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/157"
     },
     {
       "sha": "607128e55feefa01f5e38ac8d3e3efc298fd6ccc",
@@ -3759,7 +3831,9 @@
       "reviewed": [
         "xShinnRyuu",
         "currantw"
-      ]
+      ],
+      "message": "PHP: Update approved license for aws-lc-sys:0.39.0 (#176)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/176"
     },
     {
       "sha": "786537a70fba5239db74c05302d554401187923f",
@@ -3771,7 +3845,9 @@
       "reviewed": [
         "yipin-chen",
         "affonsov"
-      ]
+      ],
+      "message": "PHP: Update PECL installation readme (#160)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/160"
     },
     {
       "sha": "327dc505cbc17376d30df614b55a0010074aff23",
@@ -3783,7 +3859,9 @@
       "reviewed": [
         "yipin-chen",
         "prateek-kumar-improving"
-      ]
+      ],
+      "message": "Update valkey-glide submodule to latest main (#154)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/154"
     },
     {
       "sha": "60a5994c84964740159a0a3c2767089768c5d66a",
@@ -3795,7 +3873,9 @@
       "reviewed": [
         "alexr-bq",
         "jduo"
-      ]
+      ],
+      "message": "PHP implement transparent compression feature (#150)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/150"
     },
     {
       "sha": "2c23ec02a9a7813414737f6670ea6de204d96d94",
@@ -3807,7 +3887,9 @@
       "reviewed": [
         "jduo",
         "prateek-kumar-improving"
-      ]
+      ],
+      "message": "feat(php): add OPT_REPLY_LITERAL option for OK response handling (#120)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/120"
     },
     {
       "sha": "313a01d95f332cdea8e2f85725217154578dcc22",
@@ -3819,7 +3901,9 @@
       "reviewed": [
         "yipin-chen",
         "jeremyprime"
-      ]
+      ],
+      "message": "PHP: Update PHP readme, composer.json and NOTICE (#149)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/149"
     },
     {
       "sha": "1e70cb80eb3c7240d358e0b0315a33f8de512408",
@@ -3831,7 +3915,9 @@
       "reviewed": [
         "affonsov",
         "xShinnRyuu"
-      ]
+      ],
+      "message": "PHP: Update readme.md (#145)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/145"
     },
     {
       "sha": "f0d069014ca401608eeebc910eb0c8318541116b",
@@ -3843,7 +3929,9 @@
       "reviewed": [
         "jduo",
         "yipin-chen"
-      ]
+      ],
+      "message": "PHP: Add soak tests (#130)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/130"
     },
     {
       "sha": "6c56068cd6b4deae3bfbd7d9f644e76726a060dd",
@@ -3855,7 +3943,9 @@
       "reviewed": [
         "affonsov",
         "yipin-chen"
-      ]
+      ],
+      "message": "PHP: Update change logs and package.xml notes (#144)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/144"
     },
     {
       "sha": "db741489610581df4e31d2a73952782eb4461d64",
@@ -3867,7 +3957,9 @@
       "reviewed": [
         "jduo",
         "yipin-chen"
-      ]
+      ],
+      "message": "Php: update main with release 1.0 (#143)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/143"
     },
     {
       "sha": "bd4399dc3a73c8d8ca7fe61016bff38011eda7af",
@@ -3879,7 +3971,9 @@
       "reviewed": [
         "yipin-chen",
         "jduo"
-      ]
+      ],
+      "message": "PHP: Update pull request template (#141)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/141"
     },
     {
       "sha": "a5738614d8246d3ae42ea26c16d0078386ef77d8",
@@ -3890,7 +3984,9 @@
       "repo": "valkey-glide-php",
       "reviewed": [
         "jduo"
-      ]
+      ],
+      "message": "PHP: Add benchmarks (#124)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/124"
     },
     {
       "sha": "34f88d5f01ef69ddd67da7c45f5788619a507d5f",
@@ -3902,7 +3998,9 @@
       "reviewed": [
         "jduo",
         "yipin-chen"
-      ]
+      ],
+      "message": "PHP: Add connect method for ValkeyGlide client (#131)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/131"
     },
     {
       "sha": "a3eaa967089045e87a573d029ced652aaeaedccb",
@@ -3914,7 +4012,9 @@
       "reviewed": [
         "yipin-chen",
         "prateek-kumar-improving"
-      ]
+      ],
+      "message": "Add aliases to PHPRedis-compatible class names (#126)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/126"
     },
     {
       "sha": "0729035605d780076fb6ba68c6e7e1cdc3b27445",
@@ -3925,7 +4025,9 @@
       "repo": "valkey-glide-ruby",
       "reviewed": [
         "pratheep-kumar"
-      ]
+      ],
+      "message": "Adding support for GETSET command (#90)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/90"
     },
     {
       "sha": "bab3cb3884e720428c3848595b395f94d2ab9985",
@@ -3936,7 +4038,9 @@
       "repo": "valkey-glide-ruby",
       "reviewed": [
         "Sasidharan3094"
-      ]
+      ],
+      "message": "Removing protobuf layer in connection creation (#87)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/87"
     },
     {
       "sha": "08a78e379569c3b19fd5d07c719c2568021f8df6",
@@ -3947,7 +4051,9 @@
       "repo": "valkey-glide-ruby",
       "reviewed": [
         "pratheep-kumar"
-      ]
+      ],
+      "message": "Updating gemspec and version (#86)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/86"
     },
     {
       "sha": "9c4d2af8436db82653de7be6d0eb29fdd88fe8fb",
@@ -3958,7 +4064,9 @@
       "repo": "valkey-glide-ruby",
       "reviewed": [
         "Sasidharan3094"
-      ]
+      ],
+      "message": "Adding support for missing sorted set commands (#83)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/83"
     },
     {
       "sha": "cf6f1bf2ee2676fe0fdb3ae2e6f39bd837649cab",
@@ -3969,7 +4077,9 @@
       "repo": "valkey-glide-ruby",
       "reviewed": [
         "pratheep-kumar"
-      ]
+      ],
+      "message": "Implementing support for eval_ro, evalsha_ro, script_debug (#82)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/82"
     },
     {
       "sha": "07ea67ca156cec714e3747eeb2bbe8c0f72369bf",
@@ -3980,7 +4090,9 @@
       "repo": "valkey-glide-ruby",
       "reviewed": [
         "pratheep-kumar"
-      ]
+      ],
+      "message": "Implement keys migrate waitaof (#84)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/84"
     },
     {
       "sha": "58c81d657934998ad6f1c668e105b7b09b2a5b62",
@@ -3991,7 +4103,9 @@
       "repo": "valkey-glide-ruby",
       "reviewed": [
         "Sasidharan3094"
-      ]
+      ],
+      "message": "Adding support for opentelemetry (#80)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/80"
     },
     {
       "sha": "b265c986e1fee855e361dfc3c8af0ebc983cb6bc",
@@ -4003,7 +4117,9 @@
       "reviewed": [
         "Sasidharan3094",
         "Sasidharan3094"
-      ]
+      ],
+      "message": "Enable support for client options (#78)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/78"
     },
     {
       "sha": "a1ee4a805b7e9b32284b0027597caa415ac61e4f",
@@ -4015,7 +4131,9 @@
       "reviewed": [
         "pratheep-kumar",
         "pratheep-kumar"
-      ]
+      ],
+      "message": "Implement eval and evalsha commands for Lua script execution (#76)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/76"
     },
     {
       "sha": "d643948d72e8e1d50a162a9933a760729642d43f",
@@ -4026,7 +4144,9 @@
       "repo": "valkey-glide-ruby",
       "reviewed": [
         "pratheep-kumar"
-      ]
+      ],
+      "message": "Fix: Pipeline commands returning nil instead of array (#77)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/77"
     },
     {
       "sha": "1f846f52d0a7152072f2a59430b249e782aed634",
@@ -4037,7 +4157,9 @@
       "repo": "valkey-glide-ruby",
       "reviewed": [
         "Sasidharan3094"
-      ]
+      ],
+      "message": "Adding support for transaction commands (#74)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/74"
     },
     {
       "sha": "d3f90a90f9e35288caa736c77593f9be1e887461",
@@ -4048,7 +4170,9 @@
       "repo": "valkey-glide-ruby",
       "reviewed": [
         "pratheep-kumar"
-      ]
+      ],
+      "message": "Implementing remaining server commands (#71)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/71"
     },
     {
       "sha": "f5fe2a5cdfa7b9ba6d2a0ba0035d03968288d0d0",
@@ -4059,7 +4183,9 @@
       "repo": "valkey-glide-ruby",
       "reviewed": [
         "Sasidharan3094"
-      ]
+      ],
+      "message": "Implement server commands (#70)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/70"
     },
     {
       "sha": "23e5f9746c776dbdf46dcefb2cdfb26f2b2a693f",
@@ -4070,7 +4196,9 @@
       "repo": "valkey-glide-ruby",
       "reviewed": [
         "pratheep-kumar"
-      ]
+      ],
+      "message": "Implement ACL command (#69)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/69"
     },
     {
       "sha": "1af94432f7b1e48bc7b1d822a60c1f2461d33873",
@@ -4081,7 +4209,9 @@
       "repo": "valkey-glide-ruby",
       "reviewed": [
         "pratheep-kumar"
-      ]
+      ],
+      "message": "Implementing remaining sorted set commands (#68)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/68"
     },
     {
       "sha": "99d091f57fc869e7ca4436592ae3c5b5f425ac56",
@@ -4092,7 +4222,9 @@
       "repo": "valkey-glide-ruby",
       "reviewed": [
         "Sasidharan3094"
-      ]
+      ],
+      "message": "Implementing stream commands (#61)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/61"
     },
     {
       "sha": "942747338ca8f04c99da2f59612a796974f865c2",
@@ -4103,7 +4235,9 @@
       "repo": "valkey-glide-ruby",
       "reviewed": [
         "Sasidharan3094"
-      ]
+      ],
+      "message": "Implementing hash commands (#66)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/66"
     },
     {
       "sha": "63af9aa8604447dc555f98c9bd22d8de01638563",
@@ -4114,7 +4248,9 @@
       "repo": "valkey-glide-ruby",
       "reviewed": [
         "pratheep-kumar"
-      ]
+      ],
+      "message": "Implement JSON commands (#67)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/67"
     },
     {
       "sha": "46f7e135c3eb84a06e4ef549df09ff6471fcfa53",
@@ -4125,7 +4261,9 @@
       "repo": "valkey-glide-ruby",
       "reviewed": [
         "Sasidharan3094"
-      ]
+      ],
+      "message": "Implementing vector search commands (#65)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/65"
     },
     {
       "sha": "fc6a8a4daabeeb1e1d16e9b115ea8a0d027b1890",
@@ -4136,7 +4274,9 @@
       "repo": "valkey-glide-ruby",
       "reviewed": [
         "pratheep-kumar"
-      ]
+      ],
+      "message": "Implementing pubsub commands (#59)",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/59"
     },
     {
       "sha": "244d6108f38802fe5818e53dd884bfb59f1de395",
@@ -4156,7 +4296,9 @@
       "repo": "valkey-go",
       "reviewed": [
         "rueian"
-      ]
+      ],
+      "message": "Call hmset from valkeycompat hmset (#128)",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/128"
     },
     {
       "sha": "85d8d1f2a3fb79fce6c485725c54a4fe87b5dad9",
@@ -4194,7 +4336,9 @@
       "repo": "valkey-go",
       "reviewed": [
         "rueian"
-      ]
+      ],
+      "message": "Make Pipeliner be a Cmdable instead of CoreCmdable (#126)",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/126"
     },
     {
       "sha": "2843b4988deafb8033e08a1d15bcbbd106517155",
@@ -4268,7 +4412,9 @@
       "repo": "valkey-go",
       "reviewed": [
         "rueian"
-      ]
+      ],
+      "message": "Unify CacheCompat to use value receivers. (#120)",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/120"
     },
     {
       "sha": "85e158763e37e0da08894e62c1b009380592ca36",
@@ -4297,7 +4443,9 @@
       "repo": "valkey-go",
       "reviewed": [
         "rueian"
-      ]
+      ],
+      "message": "fix: #111 #112 (#116)",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/116"
     },
     {
       "sha": "26cbb11b7f95af6f5e4b7ba795e624fc37f3fd60",
@@ -4317,7 +4465,9 @@
       "repo": "valkey-go",
       "reviewed": [
         "rueian"
-      ]
+      ],
+      "message": "feat(otel): Reduce cache hit/miss allocs (#117)",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/117"
     },
     {
       "sha": "3daa822d2efc4a83b7843d60cb44160a2540bb8a",
@@ -4472,7 +4622,9 @@
       "repo": "valkey-hashes",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Edited grammar in README file (#12)",
+      "pr_url": "https://github.com/valkey-io/valkey-hashes/pull/12"
     },
     {
       "sha": "058cfd40978a9d95044301a05ca18c600f321eed",
@@ -4528,7 +4680,9 @@
       "repo": "valkey-helm",
       "reviewed": [
         "naimadswdn"
-      ]
+      ],
+      "message": "fix: pass REDIS_PASSWORD to metrics exporter when auth is enabled (#141)",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/141"
     },
     {
       "sha": "11d0f610454761c9aecb380207aca7710e32ee27",
@@ -4720,7 +4874,9 @@
       "reviewed": [
         "enjoy-binbin",
         "madolson"
-      ]
+      ],
+      "message": "adds Leadership page with TSC (#510)",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/510"
     },
     {
       "sha": "e15f8629e5b307d610725e9ac8dc9e121e2892ea",
@@ -4731,7 +4887,9 @@
       "repo": "valkey-io.github.io",
       "reviewed": [
         "stockholmux"
-      ]
+      ],
+      "message": "Add blog post: Valkey at Laracon India 2026 (#513)",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/513"
     },
     {
       "sha": "0905aba14791bcd0d1ba3f137c8a20d4d26fce9b",
@@ -4742,7 +4900,9 @@
       "repo": "valkey-io.github.io",
       "reviewed": [
         "madolson"
-      ]
+      ],
+      "message": "changes to updated link (#507)",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/507"
     },
     {
       "sha": "94028e44d098760a19cc9c04de2db8429f5ba8e2",
@@ -4798,7 +4958,9 @@
       "repo": "valkey-io.github.io",
       "reviewed": [
         "stockholmux"
-      ]
+      ],
+      "message": "Update Spring Data Valkey blog post (#496)",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/496"
     },
     {
       "sha": "f491ea26334c736988da9b4f56e26050130dbd9f",
@@ -4809,7 +4971,9 @@
       "repo": "valkey-io.github.io",
       "reviewed": [
         "stockholmux"
-      ]
+      ],
+      "message": "Add blog post type tags with filtering and build-time validation (#488)",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/488"
     },
     {
       "sha": "11b9e219cddf8c716551afe0e59960eb4c60911f",
@@ -4829,7 +4993,9 @@
       "repo": "valkey-io.github.io",
       "reviewed": [
         "madolson"
-      ]
+      ],
+      "message": "Set featured banner for Valkey Search 1.2 blog post (#493)",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/493"
     },
     {
       "sha": "38f3caeda086e6b2f2cc24d6119f2d8900d5f9c6",
@@ -4841,7 +5007,9 @@
       "reviewed": [
         "madolson",
         "stockholmux"
-      ]
+      ],
+      "message": "Add Valkey Meetup Groups Charter and Issue Template for new Meetup Groups (#478)",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/478"
     },
     {
       "sha": "45e70a7d671508cb11f4a7895d91f3d7ab5ec1c9",
@@ -4852,7 +5020,9 @@
       "repo": "valkey-io.github.io",
       "reviewed": [
         "madolson"
-      ]
+      ],
+      "message": "Add blog post: Announcing Spring Data Valkey (#476)",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/476"
     },
     {
       "sha": "bbe7a247817f43c0c85dd22d2c4a588ca93145e1",
@@ -4863,7 +5033,9 @@
       "repo": "valkey-io.github.io",
       "reviewed": [
         "stockholmux"
-      ]
+      ],
+      "message": "Events calendar page (#477)",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/477"
     },
     {
       "sha": "96b2cf2ed1e9a9a1acc27f514ccead4d3ba44bc6",
@@ -4874,7 +5046,9 @@
       "repo": "valkey-io.github.io",
       "reviewed": [
         "stockholmux"
-      ]
+      ],
+      "message": "Blog post: What Valkey's new primitives tell us about the tools we need (#473)",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/473"
     },
     {
       "sha": "b3fddaa9562c621baa4c61cfe961c89ca82c83b6",
@@ -4894,7 +5068,9 @@
       "repo": "valkey-io.github.io",
       "reviewed": [
         "madolson"
-      ]
+      ],
+      "message": "Brennan bio (#481)",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/481"
     },
     {
       "sha": "7ecf7ecf919291b67f2aeb23aac0946dfbec420c",
@@ -4977,7 +5153,9 @@
       "repo": "valkey-java",
       "reviewed": [
         "vmandrychenko"
-      ]
+      ],
+      "message": "fix #12, Add doc for nil (#14)",
+      "pr_url": "https://github.com/valkey-io/valkey-java/pull/14"
     },
     {
       "sha": "b32fc0542780f49f478357840aba4ca4075219eb",
@@ -5088,7 +5266,9 @@
       "reviewed": [
         "Nikhil-Manglore",
         "roshkhatri"
-      ]
+      ],
+      "message": "Fix build for failure with GCC 16 for maybe_unused var",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/97"
     },
     {
       "sha": "6f08bbf02caef7ec7430f8613e566a1348053a02",
@@ -5100,7 +5280,9 @@
       "reviewed": [
         "sarthakaggarwal97",
         "roshkhatri"
-      ]
+      ],
+      "message": "Fix build on mac by using correct format specifier (#92)",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/92"
     },
     {
       "sha": "fb9e9ec7a2e4975dff1b1baecde3eae62332c6e4",
@@ -5111,7 +5293,9 @@
       "repo": "valkey-json",
       "reviewed": [
         "allenss-amazon"
-      ]
+      ],
+      "message": "Revert \"Simplify offline build (#73)\" (#93)",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/93"
     },
     {
       "sha": "ac5a0e42b5f475c9c6d51712f04d455fe55ecd55",
@@ -5122,7 +5306,9 @@
       "repo": "valkey-json",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Simplify offline build (#73)",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/73"
     },
     {
       "sha": "3a29d8a429ac5ce6d5d5ca18b4d36af0eb03c477",
@@ -5133,7 +5319,9 @@
       "repo": "valkey-json",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Fix typo in tst/integration/README.md (#90)",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/90"
     },
     {
       "sha": "0998b2380f311267d29c7a8c5e46e6f3b6b8e12d",
@@ -5144,7 +5332,9 @@
       "repo": "valkey-json",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Fix #86: Upgrade pytest and add setuptools to fix test suite (#88)",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/88"
     },
     {
       "sha": "fd2753d8c6c87274f47b6ba814d78e92424e41e5",
@@ -5155,7 +5345,9 @@
       "repo": "valkey-json",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "added VALKEYMODULE_OPTIONS_HANDLE_REPL_ASYNC_LOAD (#89)",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/89"
     },
     {
       "sha": "2114576374c82b0ca2ff800aff36564acb39d923",
@@ -5166,7 +5358,9 @@
       "repo": "valkey-json",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Fixes redhat-linux-build for build failure (#85)",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/85"
     },
     {
       "sha": "fe9b048582a88a3b4d3c8701394c85f1ca7490a0",
@@ -5179,7 +5373,9 @@
         "yairgott",
         "yairgott",
         "roshkhatri"
-      ]
+      ],
+      "message": "Implement SharedAPI interface that mimics JSON.GET (#71)",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/71"
     },
     {
       "sha": "560859a0a63cd3f85edd4714d7cc3c0895e4ebd6",
@@ -5190,7 +5386,9 @@
       "repo": "valkey-json",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "Add 9..0 for CI tests (#77)",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/77"
     },
     {
       "sha": "af935432195b4c1852d11e3c503154b51cf5f061",
@@ -5202,7 +5400,9 @@
       "reviewed": [
         "Nikhil-Manglore",
         "roshkhatri"
-      ]
+      ],
+      "message": "Spell Check Workflow for Valkey JSON (#76)",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/76"
     },
     {
       "sha": "7e63587f338645ee9d458d1f03d8f3400c115a6d",
@@ -5213,7 +5413,9 @@
       "repo": "valkey-json",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Modify JSON Tests to allow connection to external server. (#70)",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/70"
     },
     {
       "sha": "4990f212beeaef13acbd8d4060d9841245f78d6c",
@@ -5224,7 +5426,9 @@
       "repo": "valkey-json",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Adds workflow trigger for valkey-bundle release (#64)",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/64"
     },
     {
       "sha": "6c8e7777cfe27556fd309e1a72eed21d9a3455f6",
@@ -5235,7 +5439,9 @@
       "repo": "valkey-json",
       "reviewed": [
         "joehu21"
-      ]
+      ],
+      "message": "Force clang on macOS",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/69"
     },
     {
       "sha": "9ba9ff46fabd9f31e375ddd7b1362c1907e9c3c2",
@@ -5246,7 +5452,9 @@
       "repo": "valkey-json",
       "reviewed": [
         "joehu21"
-      ]
+      ],
+      "message": "Support building on Clang / Apple",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/69"
     },
     {
       "sha": "5b2f3db24c0135a8d8b8e5cf434c7a3d42bd91f0",
@@ -5257,7 +5465,9 @@
       "repo": "valkey-json",
       "reviewed": [
         "sarthakaggarwal97"
-      ]
+      ],
+      "message": "Improve build script (#67)",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/67"
     },
     {
       "sha": "e4e29dedc1f0a2620f00884a8f06b3aaa0121d37",
@@ -5268,7 +5478,9 @@
       "repo": "valkey-json",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Adding a clean option for build script (#66)",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/66"
     },
     {
       "sha": "83f4a7e24c3aedfabb87ca56ed40c468b013b7d5",
@@ -5288,7 +5500,9 @@
       "repo": "valkey-json",
       "reviewed": [
         "joehu21"
-      ]
+      ],
+      "message": "update rapidjson and trim debug cmd summary (#58)",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/58"
     },
     {
       "sha": "bd0cfcff9de042c70af46e6d42b988adacc22d92",
@@ -5308,7 +5522,9 @@
       "repo": "valkey-ldap",
       "reviewed": [
         "rjd15372"
-      ]
+      ],
+      "message": "Fix build and test script reliability",
+      "pr_url": "https://github.com/valkey-io/valkey-ldap/pull/56"
     },
     {
       "sha": "d179737e68274dcb8a408d7c9322072c5fc583cc",
@@ -5319,7 +5535,9 @@
       "repo": "valkey-ldap",
       "reviewed": [
         "rjd15372"
-      ]
+      ],
+      "message": "Add multi-distro DEB/RPM packaging and CI workflow",
+      "pr_url": "https://github.com/valkey-io/valkey-ldap/pull/56"
     },
     {
       "sha": "bc46f7258aa1f9b1338e6971a5750111eec34e00",
@@ -5348,7 +5566,9 @@
       "repo": "valkey-ldap",
       "reviewed": [
         "rjd15372"
-      ]
+      ],
+      "message": "Update trigger_ldap_release.yml",
+      "pr_url": "https://github.com/valkey-io/valkey-ldap/pull/50"
     },
     {
       "sha": "784b126fd0d8f8fae123f67119c2b25d7ce33b05",
@@ -5359,7 +5579,9 @@
       "repo": "valkey-ldap",
       "reviewed": [
         "rjd15372"
-      ]
+      ],
+      "message": "Renamed component variable",
+      "pr_url": "https://github.com/valkey-io/valkey-ldap/pull/50"
     },
     {
       "sha": "171aa4098126baf45f6c328453d9f617b7b17d2f",
@@ -5370,7 +5592,9 @@
       "repo": "valkey-ldap",
       "reviewed": [
         "rjd15372"
-      ]
+      ],
+      "message": "Adding trigger to automate extensions",
+      "pr_url": "https://github.com/valkey-io/valkey-ldap/pull/49"
     },
     {
       "sha": "20d18876a2b8dd1d7c062a6d109d9a6544d8f496",
@@ -5498,7 +5722,9 @@
       "repo": "valkey-luajit",
       "reviewed": [
         "secwall"
-      ]
+      ],
+      "message": "Bump actions/upload-artifact from 7.0.0 to 7.0.1 (#20)",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/20"
     },
     {
       "sha": "2a8dfd6b0513034df037fe26f5e451552384cfca",
@@ -5509,7 +5735,9 @@
       "repo": "valkey-luajit",
       "reviewed": [
         "dvkashapov"
-      ]
+      ],
+      "message": "Fix nightly package tests",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/18"
     },
     {
       "sha": "e81bc7cfa754693160d28d594cdff7e08bef8489",
@@ -5520,7 +5748,9 @@
       "repo": "valkey-luajit",
       "reviewed": [
         "dvkashapov"
-      ]
+      ],
+      "message": "Simplify VKM wrappers (#17)",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/17"
     },
     {
       "sha": "362a94dc6e49e48870f8d6f975ad2b7b102b433b",
@@ -5531,7 +5761,9 @@
       "repo": "valkey-luajit",
       "reviewed": [
         "dvkashapov"
-      ]
+      ],
+      "message": "Fix built-in type() shadowing (#16)",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/16"
     },
     {
       "sha": "c4de79fb277f1e0d3a24406d922ccb295e775979",
@@ -5542,7 +5774,9 @@
       "repo": "valkey-luajit",
       "reviewed": [
         "secwall"
-      ]
+      ],
+      "message": "Bump actions/upload-artifact from 4.6.2 to 7.0.0 (#12)",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/12"
     },
     {
       "sha": "38799b5ff60a07f83d9efb1e0af19b1522cb58ca",
@@ -5553,7 +5787,9 @@
       "repo": "valkey-luajit",
       "reviewed": [
         "secwall"
-      ]
+      ],
+      "message": "Bump actions/checkout from 4.3.1 to 6.0.2 (#13)",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/13"
     },
     {
       "sha": "5fae283df32496ae5b2db93f0689cd36ae5f30c1",
@@ -5564,7 +5800,9 @@
       "repo": "valkey-luajit",
       "reviewed": [
         "secwall"
-      ]
+      ],
+      "message": "Bump actions/download-artifact from 4.3.0 to 8.0.1 (#14)",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/14"
     },
     {
       "sha": "d7be30a770bf948462c5355c4120b304c5798a86",
@@ -5575,7 +5813,9 @@
       "repo": "valkey-luajit",
       "reviewed": [
         "secwall"
-      ]
+      ],
+      "message": "Bump deps/luajit from `fbb36bb` to `18b087c` (#15)",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/15"
     },
     {
       "sha": "8fd6c033bf70e842f5c63bc8fcfae43398b14b6e",
@@ -5586,7 +5826,9 @@
       "repo": "valkey-luajit",
       "reviewed": [
         "secwall"
-      ]
+      ],
+      "message": "Add multi-distro DEB/RPM packaging and CI workflows (#10)",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/10"
     },
     {
       "sha": "0bf39f4177a5d35dd6aaeca7533f182cf08cc978",
@@ -5597,7 +5839,9 @@
       "repo": "valkey-luajit",
       "reviewed": [
         "secwall"
-      ]
+      ],
+      "message": "Bump deps/luajit from `659a616` to `fbb36bb` (#11)",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/11"
     },
     {
       "sha": "53c039753f5be8f97f801dc4e6f35ae401941847",
@@ -5610,7 +5854,9 @@
         "zuiderkwast",
         "dvkashapov",
         "dvkashapov"
-      ]
+      ],
+      "message": "Add multi-engine register support",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/8"
     },
     {
       "sha": "2a93707820d954b5413197e129384858e5f24901",
@@ -5621,7 +5867,9 @@
       "repo": "valkey-luajit",
       "reviewed": [
         "dvkashapov"
-      ]
+      ],
+      "message": "Simplify running tests (#7)",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/7"
     },
     {
       "sha": "93941191fdd3b4721fb8bfa0e009707dd027c750",
@@ -5632,7 +5880,9 @@
       "repo": "valkey-luajit",
       "reviewed": [
         "secwall"
-      ]
+      ],
+      "message": "Tests for EVAL/EVALSHA/SCRIPT LOAD in coexistence mode (#6)",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/6"
     },
     {
       "sha": "7581a8876f616e18257c3bd97af8e7c530e29b5a",
@@ -5643,7 +5893,9 @@
       "repo": "valkey-luajit",
       "reviewed": [
         "dvkashapov"
-      ]
+      ],
+      "message": "Allow luajit to coexist with built-in lua",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/5"
     },
     {
       "sha": "2be43e2d9f60badf66ff4916175c750e3268fabf",
@@ -5654,7 +5906,9 @@
       "repo": "valkey-luajit",
       "reviewed": [
         "dvkashapov"
-      ]
+      ],
+      "message": "Set enable ffi config immutable",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/4"
     },
     {
       "sha": "2f3ac16240e8b37aeb060b7780e690242c4e9bfc",
@@ -5665,7 +5919,9 @@
       "repo": "valkey-luajit",
       "reviewed": [
         "dvkashapov"
-      ]
+      ],
+      "message": "Add functions isolation tests (#2)",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/2"
     },
     {
       "sha": "cccb5946cf943efe4ff74c6d6ad9c07b19d1b0c2",
@@ -5739,7 +5995,9 @@
       "repo": "valkey-operator",
       "reviewed": [
         "jdheyburn"
-      ]
+      ],
+      "message": "fix: allow MEET against isolated shard primaries during scale-up (#147)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/147"
     },
     {
       "sha": "e356730264bc8e9368a8e85c8ea6546ca707424d",
@@ -5752,7 +6010,9 @@
         "sandeepkunusoth",
         "jdheyburn",
         "bjosv"
-      ]
+      ],
+      "message": "Update Go build (#150)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/150"
     },
     {
       "sha": "4f3e468600bb73ed1ddfc23227e2abc1dea6024f",
@@ -5764,7 +6024,9 @@
       "reviewed": [
         "sandeepkunusoth",
         "sandeepkunusoth"
-      ]
+      ],
+      "message": "(feat): Extra Valkey config (#44)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/44"
     },
     {
       "sha": "ddc13a8417366b5ade6c8d72f87d8c1b42e19d4e",
@@ -5775,7 +6037,9 @@
       "repo": "valkey-operator",
       "reviewed": [
         "bjosv"
-      ]
+      ],
+      "message": "Setup container image publishing (#102)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/102"
     },
     {
       "sha": "815b166ab195f257a8f00c9c41641b329c7384b4",
@@ -5786,7 +6050,9 @@
       "repo": "valkey-operator",
       "reviewed": [
         "jdheyburn"
-      ]
+      ],
+      "message": "fix: allow slot assignment for single-node clusters (#131) (#135)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/135"
     },
     {
       "sha": "097c7f06abfe308d5e580f1533074637b6f158eb",
@@ -5797,7 +6063,9 @@
       "repo": "valkey-operator",
       "reviewed": [
         "jdheyburn"
-      ]
+      ],
+      "message": "fix: pass cluster arg to getValkeyClusterState in proactive failover (#145)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/145"
     },
     {
       "sha": "7ef0469849b3ba7ea5860656a3fe9cb90bad03ce",
@@ -5808,7 +6076,9 @@
       "repo": "valkey-operator",
       "reviewed": [
         "jdheyburn"
-      ]
+      ],
+      "message": "fix: surface reconcileUsersAcl errors in cluster status (#140)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/140"
     },
     {
       "sha": "2e20665efbe7103184fc8b53f1c9c10ff872f7f5",
@@ -5820,7 +6090,9 @@
       "reviewed": [
         "sandeepkunusoth",
         "jdheyburn"
-      ]
+      ],
+      "message": "fix: tighten _operator user ACL permissions (#132) (#136)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/136"
     },
     {
       "sha": "7c9bad6c134e6600d98137f68889b8e2c669528b",
@@ -5831,7 +6103,9 @@
       "repo": "valkey-operator",
       "reviewed": [
         "bjosv"
-      ]
+      ],
+      "message": "feat: proactive failovers before cluster rolls (#128)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/128"
     },
     {
       "sha": "2b3718a3e5aa5f25d008cbeee0836e6822aa0399",
@@ -5843,7 +6117,9 @@
       "reviewed": [
         "daanvinken",
         "bjosv"
-      ]
+      ],
+      "message": "feat: initial tls support for valkey cluster (#133)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/133"
     },
     {
       "sha": "5b9adec6e8277c11a4523031165c7258b216e47a",
@@ -5854,7 +6130,9 @@
       "repo": "valkey-operator",
       "reviewed": [
         "jdheyburn"
-      ]
+      ],
+      "message": "Add default system users (#110) (#129)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/129"
     },
     {
       "sha": "7f72484c3ed4c926f8783f13d78b9217c400f7cb",
@@ -5865,7 +6143,9 @@
       "repo": "valkey-operator",
       "reviewed": [
         "jdheyburn"
-      ]
+      ],
+      "message": "pre-commit hooks for local validation (#115)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/115"
     },
     {
       "sha": "2042a47274473054beb8d19114f5ce4ec770052e",
@@ -5876,7 +6156,9 @@
       "repo": "valkey-operator",
       "reviewed": [
         "jdheyburn"
-      ]
+      ],
+      "message": "fix race condition between forget and failover (#105)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/105"
     },
     {
       "sha": "54ad6dd1fb30aecbbaab1108a5182f5210dbca04",
@@ -5887,7 +6169,9 @@
       "repo": "valkey-operator",
       "reviewed": [
         "sandeepkunusoth"
-      ]
+      ],
+      "message": "chore: split IMG use for vars (#130)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/130"
     },
     {
       "sha": "3943c459e344ed6cf7566e9dda65f817f554346a",
@@ -5898,7 +6182,9 @@
       "repo": "valkey-operator",
       "reviewed": [
         "bjosv"
-      ]
+      ],
+      "message": "Add build info metric (#106)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/106"
     },
     {
       "sha": "e1183a066fb12962da305678609c9ed8c10ea690",
@@ -5909,7 +6195,9 @@
       "repo": "valkey-operator",
       "reviewed": [
         "sandeepkunusoth"
-      ]
+      ],
+      "message": "Bump actions/setup-go from 6.3.0 to 6.4.0 (#126)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/126"
     },
     {
       "sha": "3b8c66bd521569f26796d38d83903eb277439e7e",
@@ -5921,7 +6209,9 @@
       "reviewed": [
         "jdheyburn",
         "bjosv"
-      ]
+      ],
+      "message": "chore(kubebuilder): update scaffold v4.13.0 -> v4.13.1 (#125)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/125"
     },
     {
       "sha": "6b6047f06f5e20ba72318fc697e53537d6d8ecc6",
@@ -5934,7 +6224,9 @@
         "sandeepkunusoth",
         "utdrmac",
         "jdheyburn"
-      ]
+      ],
+      "message": "feat: Add type in ACL Secret (#117)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/117"
     },
     {
       "sha": "c92a1efa39ddfdde67a925cb6d4fe0fb28008838",
@@ -5945,7 +6237,9 @@
       "repo": "valkey-operator",
       "reviewed": [
         "bjosv"
-      ]
+      ],
+      "message": "feat: Sequentially update workloads one-by-one (#116)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/116"
     },
     {
       "sha": "89eb055a4896bcc907fc816366d6b953e937796d",
@@ -5956,7 +6250,9 @@
       "repo": "valkey-operator",
       "reviewed": [
         "bjosv"
-      ]
+      ],
+      "message": "feat: ValkeyNode integration with ValkeyCluster (#113)",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/113"
     },
     {
       "sha": "38f261db22fc18d4810d2dd4123c33dcf40b3a4a",
@@ -5967,7 +6263,9 @@
       "repo": "valkey-perf-benchmark",
       "reviewed": [
         "sarthakaggarwal97"
-      ]
+      ],
+      "message": "Update data_sizes in benchmark config for daily runs (#54)",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/54"
     },
     {
       "sha": "bf4cd04e241bd32ac2b8aec50ebc46dd8932dc42",
@@ -5978,7 +6276,9 @@
       "repo": "valkey-perf-benchmark",
       "reviewed": [
         "rainsupreme"
-      ]
+      ],
+      "message": "Pass --cluster to valkey-benchmark in cluster mode (#53)",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/53"
     },
     {
       "sha": "8636b0c66de175afb8660ce0a891046ce8f8eef8",
@@ -5989,7 +6289,9 @@
       "repo": "valkey-perf-benchmark",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "use 95% interval, fix change% interval to match (#51)",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/51"
     },
     {
       "sha": "d30b9baac656547bd91ae96d5293286576729b7e",
@@ -6000,7 +6302,9 @@
       "repo": "valkey-perf-benchmark",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Robust git ref resolution + integration tests (#50)",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/50"
     },
     {
       "sha": "0ff540fca3fe3fd93426341529934100ffea0a9f",
@@ -6021,7 +6325,9 @@
       "reviewed": [
         "sarthakaggarwal97",
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "fix get_commit_time issue and build logic (#49)",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/49"
     },
     {
       "sha": "b358c3af5132f72cfedd1ea2b00f884c4db786f9",
@@ -6032,7 +6338,9 @@
       "repo": "valkey-perf-benchmark",
       "reviewed": [
         "rainsupreme"
-      ]
+      ],
+      "message": "Change read commands for SET and ZSET (#7)",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/7"
     },
     {
       "sha": "618f8d8bf94635c9c20b33d3f30cb74c4382cdb5",
@@ -6043,7 +6351,9 @@
       "repo": "valkey-perf-benchmark",
       "reviewed": [
         "sarthakaggarwal97"
-      ]
+      ],
+      "message": "fix: pass commit_id to ClientRunner instead of defaulting to HEAD (#46)",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/46"
     },
     {
       "sha": "a8922c9f8ba2c0969e22b37be523344e4cda8742",
@@ -6054,7 +6364,9 @@
       "repo": "valkey-perf-benchmark",
       "reviewed": [
         "rainsupreme"
-      ]
+      ],
+      "message": "Add unit test suite for pure logic functions (#42)",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/42"
     },
     {
       "sha": "2639642f96e8abe78109275ebe5e19cc7bd84f33",
@@ -6067,7 +6379,9 @@
         "Nikhil-Manglore",
         "zuiderkwast",
         "sarthakaggarwal97"
-      ]
+      ],
+      "message": "Pin Python dependencies with hashes for supply chain security (#44)",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/44"
     },
     {
       "sha": "407a3d00edaf1808b7d839fb63c8feac38c933ca",
@@ -6078,7 +6392,9 @@
       "repo": "valkey-perf-benchmark",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Add module support for Full text search performance tests (#23)",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/23"
     },
     {
       "sha": "e91f59e7e7fb7f31d45cc641988db9eaea55b36c",
@@ -6089,7 +6405,9 @@
       "repo": "valkey-perf-benchmark",
       "reviewed": [
         "hanxizh9910"
-      ]
+      ],
+      "message": "Minor Formating changes due to new black ver (#28)",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/28"
     },
     {
       "sha": "2726e8a91f4503c2a66cdc43b28722073030e80d",
@@ -6109,7 +6427,9 @@
       "repo": "valkey-perf-benchmark",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "fix: metrics parsing (#25)",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/25"
     },
     {
       "sha": "5f4640d3b0be859bbe926547391b489ac668fbc7",
@@ -6120,7 +6440,9 @@
       "repo": "valkey-perf-benchmark",
       "reviewed": [
         "sarthakaggarwal97"
-      ]
+      ],
+      "message": "Adds benchmark for release tags (#22)",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/22"
     },
     {
       "sha": "60c6995b09014a0ccdec437054f0a23681dfcb90",
@@ -6132,7 +6454,9 @@
       "reviewed": [
         "rainsupreme",
         "sarthakaggarwal97"
-      ]
+      ],
+      "message": "adds manual commit array benchmarking (#20)",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/20"
     },
     {
       "sha": "4dd7abf0ff2afe4ff4b36bf5e7303e59048782ff",
@@ -6143,7 +6467,9 @@
       "repo": "valkey-perf-benchmark",
       "reviewed": [
         "sarthakaggarwal97"
-      ]
+      ],
+      "message": "Start multiple runs (#19)",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/19"
     },
     {
       "sha": "f1afa0ab78dbd0de993011efbf0995b39da38f2a",
@@ -6155,7 +6481,9 @@
       "reviewed": [
         "rainsupreme",
         "sarthakaggarwal97"
-      ]
+      ],
+      "message": "Enhanced Benchmarks, Add Grafana Dashboard with Performance Analysis and Graph Generation (#10)",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/10"
     },
     {
       "sha": "f47c4761b0498cbebb389cec390b0c6f480e81cc",
@@ -6167,7 +6495,9 @@
       "reviewed": [
         "sarthakaggarwal97",
         "rainsupreme"
-      ]
+      ],
+      "message": "Adds custom valkey-benchmark option  (#9)",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/9"
     },
     {
       "sha": "0a3ec2369b01d4ac763235c8fd9b837a64ba479a",
@@ -6178,7 +6508,9 @@
       "repo": "valkey-perf-benchmark",
       "reviewed": [
         "rainsupreme"
-      ]
+      ],
+      "message": "Adds io-thread support (#8)",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/8"
     },
     {
       "sha": "29039f615182d3c925b0d87d04cbf1329d04a686",
@@ -6198,7 +6530,9 @@
       "repo": "valkey-py",
       "reviewed": [
         "bogdanp05"
-      ]
+      ],
+      "message": "Make skip_ifmodversion_lt skip not installed modules",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/302"
     },
     {
       "sha": "ab36c7afd51d7a1923b5e22cdf13cbc19cbac56b",
@@ -6227,7 +6561,9 @@
       "repo": "valkey-py",
       "reviewed": [
         "mkmkme"
-      ]
+      ],
+      "message": "Fix Docker image caching in CI for forked repositories",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/298"
     },
     {
       "sha": "f5eb3b0b38904951d8e48a18e4c99591f6f053bf",
@@ -6256,7 +6592,9 @@
       "repo": "valkey-py",
       "reviewed": [
         "kurtmckee"
-      ]
+      ],
+      "message": "Merge pull request #276 from valkey-io/bogdanp05/drop-tfcall-support",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/276"
     },
     {
       "sha": "5d97c30c6df0b8b52a95dc3cd7e11ebcb62696a2",
@@ -6285,7 +6623,9 @@
       "repo": "valkey-py",
       "reviewed": [
         "mkmkme"
-      ]
+      ],
+      "message": "Apply suggestions from code review",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/289"
     },
     {
       "sha": "6cb176666720b7bd15aca1fa4a019ee78d61cf05",
@@ -6296,7 +6636,9 @@
       "repo": "valkey-py",
       "reviewed": [
         "mkmkme"
-      ]
+      ],
+      "message": "Fix ClusterPubSub limitation links",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/289"
     },
     {
       "sha": "7f922722854f5a73f196cfae4a1762177df7a61f",
@@ -6316,7 +6658,9 @@
       "repo": "valkey-py",
       "reviewed": [
         "mkmkme"
-      ]
+      ],
+      "message": "Fix several warnings",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/297"
     },
     {
       "sha": "fa4b42204d23513ac676a15d1011bf5dafc938c2",
@@ -6327,7 +6671,9 @@
       "repo": "valkey-py",
       "reviewed": [
         "bogdanp05"
-      ]
+      ],
+      "message": "Fix `docker compose build` warnings",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/296"
     },
     {
       "sha": "d3eb971ee12312f020403aee235cc2bd4a783af8",
@@ -6347,7 +6693,9 @@
       "repo": "valkey-py",
       "reviewed": [
         "bogdanp05"
-      ]
+      ],
+      "message": "build(deps): bump rojopolis/spellcheck-github-actions",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/294"
     },
     {
       "sha": "09abcaf73c4a91e3d93cda1f53abd6b4909e3671",
@@ -6367,7 +6715,9 @@
       "repo": "valkey-py",
       "reviewed": [
         "bogdanp05"
-      ]
+      ],
+      "message": "build(deps): bump codecov/codecov-action from 5 to 6",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/293"
     },
     {
       "sha": "909d14d2775b18f1531cb5b0909ed9ced4009f78",
@@ -6387,7 +6737,9 @@
       "repo": "valkey-release-automation",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Add changes to support 9.1 builds (#52)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/52"
     },
     {
       "sha": "2171fe79929d8aaadc673d117acc90cf640ad893",
@@ -6398,7 +6750,9 @@
       "repo": "valkey-release-automation",
       "reviewed": [
         "sarthakaggarwal97"
-      ]
+      ],
+      "message": "Use S3 packaging/ prefix and download.valkey.io URL (#51)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/51"
     },
     {
       "sha": "cf6487d8962250c489a1de8283f010e57e217563",
@@ -6411,7 +6765,9 @@
         "roshkhatri",
         "Nikhil-Manglore",
         "roshkhatri"
-      ]
+      ],
+      "message": "Add automated packaging for all valkey versions (#47)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/47"
     },
     {
       "sha": "df539068c996af216504f1016d479b22e6858a54",
@@ -6422,7 +6778,9 @@
       "repo": "valkey-release-automation",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "Add DCO signoff and skip doc updates for RC versions (#49)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/49"
     },
     {
       "sha": "7af106333b4c9b189a29bd04f1662377142490cd",
@@ -6433,7 +6791,9 @@
       "repo": "valkey-release-automation",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Changed File Names and Update Descriptions (#48)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/48"
     },
     {
       "sha": "912a82db5549cc79c38eca92428a99b431b68353",
@@ -6444,7 +6804,9 @@
       "repo": "valkey-release-automation",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Remove the bashbrew output (#46)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/46"
     },
     {
       "sha": "c0a5ed4c1feec8980cb31d50a6702c53704fffbf",
@@ -6457,7 +6819,9 @@
         "Nikhil-Manglore",
         "roshkhatri",
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "Opens valkey doc PR for valkey releases (#44)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/44"
     },
     {
       "sha": "fde4700bbe2f6a9ee7419bd57f220bdccf224396",
@@ -6468,7 +6832,9 @@
       "repo": "valkey-release-automation",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "adds back bashbrew generation (#43)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/43"
     },
     {
       "sha": "fb2f55000aaaed16b4146b16f81b7bd5749b604a",
@@ -6480,7 +6846,9 @@
       "reviewed": [
         "Nikhil-Manglore",
         "roshkhatri"
-      ]
+      ],
+      "message": "Remove the create bashbrew output and update docker steps (#41)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/41"
     },
     {
       "sha": "a14de281b334e21f49dc8f5ccb6356ab474586a7",
@@ -6491,7 +6859,9 @@
       "repo": "valkey-release-automation",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Removing Binary Testing (#39)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/39"
     },
     {
       "sha": "1fab74be63f936bc186b5ccffa206391244e83d0",
@@ -6503,7 +6873,9 @@
       "reviewed": [
         "roshkhatri",
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "added try valkey update workflow (#36)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/36"
     },
     {
       "sha": "436b48fb21cbb1e68d7150bab5f64b5fbdbf475a",
@@ -6514,7 +6886,9 @@
       "repo": "valkey-release-automation",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Update bashbrew action to v0.1.13 (#37)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/37"
     },
     {
       "sha": "4a4f2f7313a6512827c82d35ebb83974699cf997",
@@ -6525,7 +6899,9 @@
       "repo": "valkey-release-automation",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Automate the updating of aliases in valkey-container. Also now we only create PR's if there are changes. (#25)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/25"
     },
     {
       "sha": "1e54afe6a02b48c278a959744c3f31d04ecba0d6",
@@ -6536,7 +6912,9 @@
       "repo": "valkey-release-automation",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Add validations for uploaded binaries (#26)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/26"
     },
     {
       "sha": "a8ebb2ce949b52492700864751266db9db98af61",
@@ -6548,7 +6926,9 @@
       "reviewed": [
         "Nikhil-Manglore",
         "roshkhatri"
-      ]
+      ],
+      "message": "spelling: github (#27)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/27"
     },
     {
       "sha": "ea3298b90ee9820767097f693637f9996e85d254",
@@ -6559,7 +6939,9 @@
       "repo": "valkey-release-automation",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Create new website pages for release candidates (#29)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/29"
     },
     {
       "sha": "d9abbe536023d621a9f578464d79cfc436e39ea7",
@@ -6570,7 +6952,9 @@
       "repo": "valkey-release-automation",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Update Workflow to only Trigger Bundle Release if Valkey Version >= 8.1.0 (#31)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/31"
     },
     {
       "sha": "4158a9bbfb7e8554780f52cc23112df389d3f72b",
@@ -6581,7 +6965,9 @@
       "repo": "valkey-release-automation",
       "reviewed": [
         "roshkhatri"
-      ]
+      ],
+      "message": "Adding bundle trigger (#28)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/28"
     },
     {
       "sha": "88fdcb325458faf02fed489498596f6b8f8b9bcb",
@@ -6592,7 +6978,9 @@
       "repo": "valkey-release-automation",
       "reviewed": [
         "Nikhil-Manglore"
-      ]
+      ],
+      "message": "Remove ubuntu focal support (#22)",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/22"
     },
     {
       "sha": "bf71611224a07b898c7cc692256b6eec3049d1af",
@@ -6613,7 +7001,9 @@
       "reviewed": [
         "zuiderkwast",
         "madolson"
-      ]
+      ],
+      "message": "LDAP authentication module (#20)",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/20"
     },
     {
       "sha": "fcbd66c35508a0d06a4dfaec00fec6d1d485f7bb",
@@ -6624,7 +7014,9 @@
       "repo": "valkey-rfc",
       "reviewed": [
         "madolson"
-      ]
+      ],
+      "message": "Update the clause regarding RDB compatibility of ValkeyJSON (#19)",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/19"
     },
     {
       "sha": "920db68229ba1e9be561b3ee33d74561ec58234d",
@@ -6639,7 +7031,9 @@
         "enjoy-binbin",
         "zuiderkwast",
         "hwware"
-      ]
+      ],
+      "message": "Addresses open question for ValkeyJSON rfc (#13)",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/13"
     },
     {
       "sha": "e8678e8c007e2a1a0ee0e85d22ad7561868488e8",
@@ -6650,7 +7044,9 @@
       "repo": "valkey-rfc",
       "reviewed": [
         "hpatro"
-      ]
+      ],
+      "message": "Update TEMPLATE.md (#12)",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/12"
     },
     {
       "sha": "c2e2cb4d1e1378d37bac5ef5c6b2cb87beb7d383",
@@ -6661,7 +7057,9 @@
       "repo": "valkey-rfc",
       "reviewed": [
         "madolson"
-      ]
+      ],
+      "message": "BloomFilter Module support for Valkey RFC (#4)",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/4"
     },
     {
       "sha": "c4a0d0fa8bd4c1306fb3f0da316569155ff529c6",
@@ -6675,7 +7073,9 @@
         "PingXie",
         "zuiderkwast",
         "madolson"
-      ]
+      ],
+      "message": "Reference RFC file (#6)",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/6"
     },
     {
       "sha": "657f83c93d187f41cb3886aeeb384d59dd32498c",
@@ -6686,7 +7086,9 @@
       "repo": "valkey-rfc",
       "reviewed": [
         "madolson"
-      ]
+      ],
+      "message": "Add information about RFC process (#1)",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/1"
     },
     {
       "sha": "21ec23bdabe5f288d8aed1f46078d83984e2a631",
@@ -6706,7 +7108,9 @@
       "repo": "valkey-search",
       "reviewed": [
         "BCathcart"
-      ]
+      ],
+      "message": "Fix build script for ASAN integration tests (#777)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/777"
     },
     {
       "sha": "153e037b440fe194366c25d14889954c01c38ffa",
@@ -6718,7 +7122,9 @@
       "reviewed": [
         "BCathcart",
         "BCathcart"
-      ]
+      ],
+      "message": "fix test_dropindex_with_background_queries heap-use-after-free leak (#961)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/961"
     },
     {
       "sha": "b69c73a3f36198ed21a3bc020eaf995471a9897c",
@@ -6729,7 +7135,9 @@
       "repo": "valkey-search",
       "reviewed": [
         "allenss-amazon"
-      ]
+      ],
+      "message": "Update search_number_of_indexes while restoring (#974)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/974"
     },
     {
       "sha": "deab7ef9e6b3dc71c14650d4b31b048263f37289",
@@ -6742,7 +7150,9 @@
         "boda26",
         "allenss-amazon",
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Fix crash on empty FT.AGGREGATE expressions (#966)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/966"
     },
     {
       "sha": "77ca3d5501413e9aaad6f50c36850d102a44315f",
@@ -6753,7 +7163,9 @@
       "repo": "valkey-search",
       "reviewed": [
         "allenss-amazon"
-      ]
+      ],
+      "message": "fix aggregate recursion depth (#973)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/973"
     },
     {
       "sha": "541453bb03204f4dc95f58c00203b61ec45ce4e2",
@@ -6765,7 +7177,9 @@
       "reviewed": [
         "allenss-amazon",
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Fix heap-use-after-free in PausePoint during server shutdown for mult\u2026 (#958)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/958"
     },
     {
       "sha": "923430d2efc261f5052ba0a07ba76306d37f2a53",
@@ -6776,7 +7190,9 @@
       "repo": "valkey-search",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Fix dropindex while blocked queries crash (#956)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/956"
     },
     {
       "sha": "daf685e52a426bd7c740df559985e2623e933775",
@@ -6788,7 +7204,9 @@
       "reviewed": [
         "KarthikSubbarao",
         "boda26"
-      ]
+      ],
+      "message": "Wait for cluster topology map refresh (#952)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/952"
     },
     {
       "sha": "277940b3a96df437c9a8f1bc6d842f93d646ac03",
@@ -6799,7 +7217,9 @@
       "repo": "valkey-search",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Add check for cluster_slots_complete check in test_fanout_low_utilization_fanout (#951)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/951"
     },
     {
       "sha": "f23c3269d048f1c57a90298fc0bac60f2e54e77a",
@@ -6810,7 +7230,9 @@
       "repo": "valkey-search",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Deflake test_fulltext_inflight_blocking_with_pausepoint (#950)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/950"
     },
     {
       "sha": "da472e234b6e610e6391b0554b0c8390d8ab2ab8",
@@ -6821,7 +7243,9 @@
       "repo": "valkey-search",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Fix Boolean config type mismatch (#943)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/943"
     },
     {
       "sha": "849fb5ac0e85c5a8bde266c01602b3d5e7b1340c",
@@ -6832,7 +7256,9 @@
       "repo": "valkey-search",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Fix read ordering in _replication_lag() (#944)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/944"
     },
     {
       "sha": "dcc1214f1cf3f251fc3a67096c87cf195193663a",
@@ -6843,7 +7269,9 @@
       "repo": "valkey-search",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Shorten grpc timeout (#939)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/939"
     },
     {
       "sha": "1e5c7459abc58c1063b51d7d2f92c23f980e1960",
@@ -6854,7 +7282,9 @@
       "repo": "valkey-search",
       "reviewed": [
         "allenss-amazon"
-      ]
+      ],
+      "message": "Skip building unit test files for integration test workflows (#942)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/942"
     },
     {
       "sha": "6362bc1b08c4a607130f4f1a9f50e815928d7a06",
@@ -6865,7 +7295,9 @@
       "repo": "valkey-search",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Fix RDB load memory leak (#941)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/941"
     },
     {
       "sha": "7f15015b72a0a2c2ae7a3d37b592b8014ef53863",
@@ -6877,7 +7309,9 @@
       "reviewed": [
         "KarthikSubbarao",
         "BCathcart"
-      ]
+      ],
+      "message": "minor update to test_multidb_slot_migration_CME (#935)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/935"
     },
     {
       "sha": "0b51c5595eaa1698bfe3424a1dfbc5314340c9b9",
@@ -6888,7 +7322,9 @@
       "repo": "valkey-search",
       "reviewed": [
         "allenss-amazon"
-      ]
+      ],
+      "message": "Add memory reservation based on mutation queue (#934)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/934"
     },
     {
       "sha": "ef1f6193a612ab81b12e9d19cc6bb1e94f8cf3da",
@@ -6899,7 +7335,9 @@
       "repo": "valkey-search",
       "reviewed": [
         "BCathcart"
-      ]
+      ],
+      "message": "Allow replacement of deleted hnsw elements (#926)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/926"
     },
     {
       "sha": "03f66fa8168d8f63dd66418f2e66617df23bd9e5",
@@ -6910,7 +7348,9 @@
       "repo": "valkey-search",
       "reviewed": [
         "allenss-amazon"
-      ]
+      ],
+      "message": "Improve test output (#931)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/931"
     },
     {
       "sha": "d1bf811586c5ab71ecffccc96d57e4aa3b1934a2",
@@ -6921,7 +7361,9 @@
       "repo": "valkey-search",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Adding yield during mutation queue drainage for save and restore (#930)",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/930"
     },
     {
       "sha": "8d186a8602bacd856db7f78d2c21fe2fc9f9f296",
@@ -6932,7 +7374,9 @@
       "repo": "valkey-swift",
       "reviewed": [
         "nilanshu-sharma"
-      ]
+      ],
+      "message": "Add `RESPToken.ok` (#384)",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/384"
     },
     {
       "sha": "665b6b1beacb02a5b4de709937b20372695f8b32",
@@ -6943,7 +7387,9 @@
       "repo": "valkey-swift",
       "reviewed": [
         "nilanshu-sharma"
-      ]
+      ],
+      "message": "Latest changes from postgres-nio connection pool (#382)",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/382"
     },
     {
       "sha": "dcc21aeb561b3596ca286638299c7eeb2a488041",
@@ -6954,7 +7400,9 @@
       "repo": "valkey-swift",
       "reviewed": [
         "nilanshu-sharma"
-      ]
+      ],
+      "message": "Fix compiler warnings in snippet (#380)",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/380"
     },
     {
       "sha": "f0e679332e8e04ba1639894a9fa03c9466e7b677",
@@ -6965,7 +7413,9 @@
       "repo": "valkey-swift",
       "reviewed": [
         "adam-fowler"
-      ]
+      ],
+      "message": "Cluster-wide Multi-key MSET (#378)",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/378"
     },
     {
       "sha": "d435d477d42425979e277fab51413a1f8701f0f6",
@@ -6985,7 +7435,9 @@
       "repo": "valkey-swift",
       "reviewed": [
         "nilanshu-sharma"
-      ]
+      ],
+      "message": "Update to soundness.yml to 0.0.11 (#375)",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/375"
     },
     {
       "sha": "b9534972865fcfa64c8a8257abc95aab8c4a2011",
@@ -6996,7 +7448,9 @@
       "repo": "valkey-swift",
       "reviewed": [
         "adam-fowler"
-      ]
+      ],
+      "message": "Cluster-wide multi-key MGET  (#369)",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/369"
     },
     {
       "sha": "05fee0e5d2b570b34db1501cf688291ba9e7f2f6",
@@ -7007,7 +7461,9 @@
       "repo": "valkey-swift",
       "reviewed": [
         "adam-fowler"
-      ]
+      ],
+      "message": "Redistack migration (#374)",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/374"
     },
     {
       "sha": "acbdb1bf51bc6226829f90e6c003b26bbd46a202",
@@ -7018,7 +7474,9 @@
       "repo": "valkey-swift",
       "reviewed": [
         "nilanshu-sharma"
-      ]
+      ],
+      "message": "Fields type includes a count and an array. Replace with just an array (#376)",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/376"
     },
     {
       "sha": "94de717f2ff09f43a7d4989128c31cebad538c42",
@@ -7029,7 +7487,9 @@
       "repo": "valkey-swift",
       "reviewed": [
         "nilanshu-sharma"
-      ]
+      ],
+      "message": "Add ValkeyCLI as a product, clean up error reporting (#371)",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/371"
     },
     {
       "sha": "cde035ff177fde3c797970380ea0bfff2bc27caf",
@@ -7040,7 +7500,9 @@
       "repo": "valkey-swift",
       "reviewed": [
         "nilanshu-sharma"
-      ]
+      ],
+      "message": "Cluster TLS port selection (#370)",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/370"
     },
     {
       "sha": "c3557568302138d85de995b2d27f8cb230e130d7",
@@ -7051,7 +7513,9 @@
       "repo": "valkey-swift",
       "reviewed": [
         "nilanshu-sharma"
-      ]
+      ],
+      "message": "ValkeySearch 1.2.0 (#354)",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/354"
     },
     {
       "sha": "47b25daa96eeda053d9b06be77bf279cd2f6a314",
@@ -7062,7 +7526,9 @@
       "repo": "valkey-swift",
       "reviewed": [
         "nilanshu-sharma"
-      ]
+      ],
+      "message": "Add swift:6.3 to CI (#372)",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/372"
     },
     {
       "sha": "10ac0ba3e1dfc2dbe9f1c8c4e7a46317b399f0f6",
@@ -7092,7 +7558,9 @@
       "reviewed": [
         "nilanshu-sharma",
         "nilanshu-sharma"
-      ]
+      ],
+      "message": "Add valkey client cli application (#368)",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/368"
     },
     {
       "sha": "85eff3bd376f633d22d8fa3206cfb9cabd2c8d86",
@@ -7103,7 +7571,9 @@
       "repo": "valkey-swift",
       "reviewed": [
         "nilanshu-sharma"
-      ]
+      ],
+      "message": "Verify replicas are replicas (#366)",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/366"
     },
     {
       "sha": "386566b776f88e993720c134733867b2e8d4c122",
@@ -7114,7 +7584,9 @@
       "repo": "valkey-swift",
       "reviewed": [
         "nilanshu-sharma"
-      ]
+      ],
+      "message": "Cleanup ValkeyClient mock tests (#367)",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/367"
     },
     {
       "sha": "27d56ef613dd6c51ff1afcc463bd7c11326128a6",
@@ -7125,7 +7597,9 @@
       "repo": "valkey-swift",
       "reviewed": [
         "adam-fowler"
-      ]
+      ],
+      "message": "Documentation edits and updates (#357)",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/357"
     },
     {
       "sha": "d86b5cf4354400ed745e96c25e520ad174af4ed4",
@@ -7136,7 +7610,9 @@
       "repo": "valkey-swift",
       "reviewed": [
         "nilanshu-sharma"
-      ]
+      ],
+      "message": "Generic topology election (#364)",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/364"
     },
     {
       "sha": "33cc62660ea94d49bd6ab27cb8c09b345fc5d577",
@@ -7211,7 +7687,9 @@
       "reviewed": [
         "zackcam",
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Adapt Tests to Allow External Server Connections  (#7)",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/7"
     },
     {
       "sha": "b84b0165147d45877cd0494274b2e05f6e72865f",
@@ -7222,7 +7700,9 @@
       "repo": "valkey-test-framework",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Do not hard coded \"localhost\" (#8)",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/8"
     },
     {
       "sha": "b4cf1b077d50b658d67df176170ee4fdccf03ea0",
@@ -7233,7 +7713,9 @@
       "repo": "valkey-test-framework",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Spelling (#5)",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/5"
     },
     {
       "sha": "dcf5c708cd519ff158ab49c18f49549d6cbef847",
@@ -7253,7 +7735,9 @@
       "repo": "valkey-test-framework",
       "reviewed": [
         "KarthikSubbarao"
-      ]
+      ],
+      "message": "Allow user to provide a configuration file",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/6"
     },
     {
       "sha": "928935b5adbdd71c2e48e2e7a93fc7073f30a984",
@@ -7264,7 +7748,9 @@
       "repo": "valkey-test-framework",
       "reviewed": [
         "zackcam"
-      ]
+      ],
+      "message": "Merge pull request #2 from KarthikSubbarao/unstable",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2"
     },
     {
       "sha": "ac0877bbd726383ef7176274a8bea7f24fa7649a",
@@ -7275,7 +7761,9 @@
       "repo": "valkey-test-framework",
       "reviewed": [
         "zackcam"
-      ]
+      ],
+      "message": "update replication example",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2"
     },
     {
       "sha": "6ab8a70caf0b940a141544c8f07f1a6a73fdbe68",
@@ -7286,7 +7774,9 @@
       "repo": "valkey-test-framework",
       "reviewed": [
         "zackcam"
-      ]
+      ],
+      "message": "update replication example",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2"
     },
     {
       "sha": "4eaa86ac0a0f4e8e69b591458191557289a42d8e",
@@ -7297,7 +7787,9 @@
       "repo": "valkey-test-framework",
       "reviewed": [
         "zackcam"
-      ]
+      ],
+      "message": "update example",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2"
     },
     {
       "sha": "3b964a68b27b66cd400abb6b0881dcf84808f421",
@@ -7308,7 +7800,9 @@
       "repo": "valkey-test-framework",
       "reviewed": [
         "zackcam"
-      ]
+      ],
+      "message": "update comments",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2"
     },
     {
       "sha": "6b5ae6d4c0b9912ea92cd95c34b9ac2ce091dfdd",
@@ -7319,7 +7813,9 @@
       "repo": "valkey-test-framework",
       "reviewed": [
         "zackcam"
-      ]
+      ],
+      "message": "update examples",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2"
     },
     {
       "sha": "175b0deb2e9a4805256aee6808dbb8f41ca977f3",
@@ -7330,7 +7826,9 @@
       "repo": "valkey-test-framework",
       "reviewed": [
         "zackcam"
-      ]
+      ],
+      "message": "update examples",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2"
     },
     {
       "sha": "c7905808e334b18271c5674aead722781d3778be",
@@ -7341,7 +7839,9 @@
       "repo": "valkey-test-framework",
       "reviewed": [
         "zackcam"
-      ]
+      ],
+      "message": "update example",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2"
     },
     {
       "sha": "9b1dd4c19137ab79cc9a7b36f0ebe16917897111",

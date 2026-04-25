@@ -12,10 +12,10 @@
   "commit_list": [
     {
       "sha": "ac5a0e42b5",
-      "message": "ac5a0e42b5",
+      "message": "Simplify offline build (#73)",
       "date": "2025-12-15",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/73",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/ac5a0e42b5f475c9c6d51712f04d455fe55ecd55"
     }
   ],

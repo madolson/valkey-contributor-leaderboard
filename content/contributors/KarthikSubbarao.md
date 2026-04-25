@@ -32,10 +32,10 @@
     },
     {
       "sha": "0b51c5595e",
-      "message": "0b51c5595e",
+      "message": "Add memory reservation based on mutation queue (#934)",
       "date": "2026-03-27",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/934",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/0b51c5595eaa1698bfe3424a1dfbc5314340c9b9"
     },
     {
@@ -56,66 +56,66 @@
     },
     {
       "sha": "928935b5ad",
-      "message": "928935b5ad",
+      "message": "Merge pull request #2 from KarthikSubbarao/unstable",
       "date": "2025-06-18",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/928935b5adbdd71c2e48e2e7a93fc7073f30a984"
     },
     {
       "sha": "ac0877bbd7",
-      "message": "ac0877bbd7",
+      "message": "update replication example",
       "date": "2025-04-15",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/ac0877bbd726383ef7176274a8bea7f24fa7649a"
     },
     {
       "sha": "6ab8a70caf",
-      "message": "6ab8a70caf",
+      "message": "update replication example",
       "date": "2025-04-15",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/6ab8a70caf0b940a141544c8f07f1a6a73fdbe68"
     },
     {
       "sha": "4eaa86ac0a",
-      "message": "4eaa86ac0a",
+      "message": "update example",
       "date": "2025-04-15",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/4eaa86ac0a0f4e8e69b591458191557289a42d8e"
     },
     {
       "sha": "3b964a68b2",
-      "message": "3b964a68b2",
+      "message": "update comments",
       "date": "2025-04-15",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/3b964a68b27b66cd400abb6b0881dcf84808f421"
     },
     {
       "sha": "6b5ae6d4c0",
-      "message": "6b5ae6d4c0",
+      "message": "update examples",
       "date": "2025-04-15",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/6b5ae6d4c0b9912ea92cd95c34b9ac2ce091dfdd"
     },
     {
       "sha": "175b0deb2e",
-      "message": "175b0deb2e",
+      "message": "update examples",
       "date": "2025-04-15",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/175b0deb2e9a4805256aee6808dbb8f41ca977f3"
     },
     {
       "sha": "c7905808e3",
-      "message": "c7905808e3",
+      "message": "update example",
       "date": "2025-04-15",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/c7905808e334b18271c5674aead722781d3778be"
     },
     {
@@ -136,10 +136,10 @@
     },
     {
       "sha": "c2e2cb4d1e",
-      "message": "c2e2cb4d1e",
+      "message": "BloomFilter Module support for Valkey RFC (#4)",
       "date": "2024-08-27",
       "repo": "valkey-rfc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/4",
       "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/c2e2cb4d1e1378d37bac5ef5c6b2cb87beb7d383"
     }
   ],
@@ -170,10 +170,10 @@
     },
     {
       "sha": "deab7ef9e6",
-      "message": "deab7ef9e6",
+      "message": "Fix crash on empty FT.AGGREGATE expressions (#966)",
       "date": "2026-04-20",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/966",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/deab7ef9e6b3dc71c14650d4b31b048263f37289"
     },
     {
@@ -186,90 +186,90 @@
     },
     {
       "sha": "541453bb03",
-      "message": "541453bb03",
+      "message": "Fix heap-use-after-free in PausePoint during server shutdown for mult\u2026 (#958)",
       "date": "2026-04-09",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/958",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/541453bb03204f4dc95f58c00203b61ec45ce4e2"
     },
     {
       "sha": "923430d2ef",
-      "message": "923430d2ef",
+      "message": "Fix dropindex while blocked queries crash (#956)",
       "date": "2026-04-08",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/956",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/923430d2efc261f5052ba0a07ba76306d37f2a53"
     },
     {
       "sha": "daf685e52a",
-      "message": "daf685e52a",
+      "message": "Wait for cluster topology map refresh (#952)",
       "date": "2026-04-04",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/952",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/daf685e52a426bd7c740df559985e2623e933775"
     },
     {
       "sha": "277940b3a9",
-      "message": "277940b3a9",
+      "message": "Add check for cluster_slots_complete check in test_fanout_low_utilization_fanout (#951)",
       "date": "2026-04-03",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/951",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/277940b3a96df437c9a8f1bc6d842f93d646ac03"
     },
     {
       "sha": "f23c3269d0",
-      "message": "f23c3269d0",
+      "message": "Deflake test_fulltext_inflight_blocking_with_pausepoint (#950)",
       "date": "2026-04-03",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/950",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/f23c3269d048f1c57a90298fc0bac60f2e54e77a"
     },
     {
       "sha": "da472e234b",
-      "message": "da472e234b",
+      "message": "Fix Boolean config type mismatch (#943)",
       "date": "2026-04-01",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/943",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/da472e234b6e610e6391b0554b0c8390d8ab2ab8"
     },
     {
       "sha": "849fb5ac0e",
-      "message": "849fb5ac0e",
+      "message": "Fix read ordering in _replication_lag() (#944)",
       "date": "2026-04-01",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/944",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/849fb5ac0e85c5a8bde266c01602b3d5e7b1340c"
     },
     {
       "sha": "dcc1214f1c",
-      "message": "dcc1214f1c",
+      "message": "Shorten grpc timeout (#939)",
       "date": "2026-04-01",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/939",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/dcc1214f1cf3f251fc3a67096c87cf195193663a"
     },
     {
       "sha": "6362bc1b08",
-      "message": "6362bc1b08",
+      "message": "Fix RDB load memory leak (#941)",
       "date": "2026-03-31",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/941",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/6362bc1b08c4a607130f4f1a9f50e815928d7a06"
     },
     {
       "sha": "7f15015b72",
-      "message": "7f15015b72",
+      "message": "minor update to test_multidb_slot_migration_CME (#935)",
       "date": "2026-03-27",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/935",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/7f15015b72a0a2c2ae7a3d37b592b8014ef53863"
     },
     {
       "sha": "d1bf811586",
-      "message": "d1bf811586",
+      "message": "Adding yield during mutation queue drainage for save and restore (#930)",
       "date": "2026-03-26",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/930",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/d1bf811586c5ab71ecffccc96d57e4aa3b1934a2"
     },
     {
@@ -322,18 +322,18 @@
     },
     {
       "sha": "57ce5897ce",
-      "message": "57ce5897ce",
+      "message": "Adapt Tests to Allow External Server Connections  (#7)",
       "date": "2025-08-12",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/7",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/57ce5897cee9f23f7cd23c36ba77712033604ca0"
     },
     {
       "sha": "b84b016514",
-      "message": "b84b016514",
+      "message": "Do not hard coded \"localhost\" (#8)",
       "date": "2025-08-08",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/8",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/b84b0165147d45877cd0494274b2e05f6e72865f"
     },
     {
@@ -346,18 +346,18 @@
     },
     {
       "sha": "b4cf1b077d",
-      "message": "b4cf1b077d",
+      "message": "Spelling (#5)",
       "date": "2025-07-30",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/5",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/b4cf1b077d50b658d67df176170ee4fdccf03ea0"
     },
     {
       "sha": "ed84b0494a",
-      "message": "ed84b0494a",
+      "message": "Allow user to provide a configuration file",
       "date": "2025-07-15",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/6",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/ed84b0494ad759b1575c31fe486cbdc8226560d5"
     },
     {

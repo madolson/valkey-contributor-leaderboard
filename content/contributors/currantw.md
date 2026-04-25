@@ -3,9 +3,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 27,
+  "score": 24,
   "commit_count": 14,
-  "review_count": 13,
+  "review_count": 10,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -47,82 +47,82 @@
     },
     {
       "sha": "d6ac8e1933",
-      "message": "d6ac8e1933",
+      "message": "Remove \"Coming Soon\" pre-release indicators for C# client (#192)",
       "date": "2026-04-21",
       "repo": "valkey-glide-docs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/192",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/d6ac8e1933093642f91c0c35880bdc1b770c28a4"
     },
     {
       "sha": "e8f0a82c0b",
-      "message": "e8f0a82c0b",
+      "message": "Stream command API cleanup: enable core commands, disable pending ones (#324)",
       "date": "2026-04-17",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/324",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e8f0a82c0b931a4ca4f0e84f8ff1336db5b6080e"
     },
     {
       "sha": "9c99642894",
-      "message": "9c99642894",
+      "message": "refactor(string): string command API cleanup (#319)",
       "date": "2026-04-17",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/319",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/9c9964289466341e8e9137c9727de07736ae25bc"
     },
     {
       "sha": "aca68251d4",
-      "message": "aca68251d4",
+      "message": "refactor: Sorted set command API cleanup (#314)",
       "date": "2026-04-16",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/314",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/aca68251d42d661683db9a813b440693e995ce92"
     },
     {
       "sha": "1204c22867",
-      "message": "1204c22867",
+      "message": "refactor(set): split Set command API across GLIDE and SER tiers (#307)",
       "date": "2026-04-15",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/307",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/1204c22867372c601b018c5f1808a4780afbc8ac"
     },
     {
       "sha": "37ffa082f9",
-      "message": "37ffa082f9",
+      "message": "fix(pubsub): implement SER pub/sub commands and make API binary-safe with ValkeyKey/ValkeyValue (#296)",
       "date": "2026-04-14",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/296",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/37ffa082f90ffd45fbf57e715e56229831a33766"
     },
     {
       "sha": "3b70239754",
-      "message": "3b70239754",
+      "message": "Add DNS, TLS, and IP address tests (#157)",
       "date": "2026-04-09",
       "repo": "valkey-glide-php",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/157",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/3b70239754327b55fdb5a0980f4abdaea7db2796"
     },
     {
       "sha": "00f95e35df",
-      "message": "00f95e35df",
+      "message": "Add \"Coming Soon\" pre-release indicators for C# client documentation (#183)",
       "date": "2026-03-27",
       "repo": "valkey-glide-docs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/183",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/00f95e35dfc704910d370d46b315d5d2e51a7075"
     },
     {
       "sha": "df3bfb2690",
-      "message": "df3bfb2690",
+      "message": "Add comprehensive C# documentation and cross-language improvements (#173)",
       "date": "2026-03-25",
       "repo": "valkey-glide-docs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/173",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/df3bfb26902067e938bcfbfa9d2c9695e38f988e"
     },
     {
       "sha": "cada2c03b8",
-      "message": "cada2c03b8",
+      "message": "Fix GithubReleases JSX syntax, apply codebase formatting, and add CI format check (#172)",
       "date": "2026-03-16",
       "repo": "valkey-glide-docs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/172",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/cada2c03b84217d3295d4f4c82e7564a1147cda9"
     }
   ],
@@ -161,74 +161,74 @@
     },
     {
       "sha": "3fb20a6308",
-      "message": "3fb20a6308",
+      "message": "Expand server management command API  (#315)",
       "date": "2026-04-17",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/315",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3fb20a63083a3451001e1a8b2a6f50e3896adcfe"
     },
     {
       "sha": "246247b12d",
-      "message": "246247b12d",
+      "message": "perf: Reduce per-request GC allocation overhead (#310)",
       "date": "2026-04-16",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/310",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/246247b12d8272038aefd867cd7ab43645a7c852"
     },
     {
       "sha": "3f07489962",
-      "message": "3f07489962",
+      "message": "Scan Command Refactor (#316)",
       "date": "2026-04-16",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/316",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3f0748996290ca9e24897a6a1aae4c094628562a"
     },
     {
       "sha": "1f946c5629",
-      "message": "1f946c5629",
+      "message": "Scripting/Functions command refactor (#306)",
       "date": "2026-04-16",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/306",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/1f946c562974a9ad89858e6990e4fb1c7d7e100b"
     },
     {
       "sha": "f46ceb8216",
-      "message": "f46ceb8216",
+      "message": "List command refactor (#301)",
       "date": "2026-04-15",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/301",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/f46ceb821642ae0e45aed6da10e228c77f16766b"
     },
     {
       "sha": "df5345bf54",
-      "message": "df5345bf54",
+      "message": "Disable CICD due to flakiness (#309)",
       "date": "2026-04-14",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/309",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/df5345bf545855a668414ccfccaa94ea43ff5913"
     },
     {
       "sha": "607128e55f",
-      "message": "607128e55f",
+      "message": "PHP: Update approved license for aws-lc-sys:0.39.0 (#176)",
       "date": "2026-03-27",
       "repo": "valkey-glide-php",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/176",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/607128e55feefa01f5e38ac8d3e3efc298fd6ccc"
     },
     {
       "sha": "3603d033cb",
-      "message": "3603d033cb",
+      "message": "Remove `languages/` folder (#174)",
       "date": "2026-03-19",
       "repo": "valkey-glide-docs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/174",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/3603d033cba1732181aef0aa6145c755136b9a24"
     },
     {
       "sha": "7278a6a343",
-      "message": "7278a6a343",
+      "message": "Removed placeholder pages (#176)",
       "date": "2026-03-19",
       "repo": "valkey-glide-docs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/176",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/7278a6a343c1d3ee60fcb71d57bd23bd2c21159e"
     }
   ]

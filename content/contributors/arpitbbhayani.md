@@ -12,10 +12,10 @@
   "commit_list": [
     {
       "sha": "0998b2380f",
-      "message": "0998b2380f",
+      "message": "Fix #86: Upgrade pytest and add setuptools to fix test suite (#88)",
       "date": "2025-12-15",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/88",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/0998b2380f311267d29c7a8c5e46e6f3b6b8e12d"
     }
   ],

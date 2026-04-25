@@ -12,10 +12,10 @@
   "commit_list": [
     {
       "sha": "b358c3af51",
-      "message": "b358c3af51",
+      "message": "Change read commands for SET and ZSET (#7)",
       "date": "2026-03-17",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/7",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/b358c3af5132f72cfedd1ea2b00f884c4db786f9"
     }
   ],

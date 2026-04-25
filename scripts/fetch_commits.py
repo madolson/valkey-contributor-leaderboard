@@ -180,6 +180,9 @@ def save_json(path, data):
 def generate_leaderboard(commits):
     by_login = {}
 
+    def is_bot(login):
+        return "[bot]" in login or login in ("Copilot",)
+
     def ensure_user(login, avatar):
         if login not in by_login:
             by_login[login] = {
@@ -194,11 +197,15 @@ def generate_leaderboard(commits):
         reviewers = c.get("reviewed")
         if not reviewers or not isinstance(reviewers, list):
             continue
+        if is_bot(c["author_login"]):
+            continue
         ensure_user(c["author_login"], c["avatar_url"])
         by_login[c["author_login"]]["id"] = c["author_id"]
         by_login[c["author_login"]]["commits"] += 1
         by_login[c["author_login"]]["repos"].add(c["repo"])
         for reviewer_login in reviewers:
+            if is_bot(reviewer_login):
+                continue
             ensure_user(reviewer_login, None)
             by_login[reviewer_login]["reviews"] += 1
 

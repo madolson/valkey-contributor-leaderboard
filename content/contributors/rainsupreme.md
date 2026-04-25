@@ -29,76 +29,76 @@
     },
     {
       "sha": "8636b0c66d",
-      "message": "8636b0c66d",
+      "message": "use 95% interval, fix change% interval to match (#51)",
       "date": "2026-04-04",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/51",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/8636b0c66de175afb8660ce0a891046ce8f8eef8"
     },
     {
       "sha": "d30b9baac6",
-      "message": "d30b9baac6",
+      "message": "Robust git ref resolution + integration tests (#50)",
       "date": "2026-03-20",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/50",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/d30b9baac656547bd91ae96d5293286576729b7e"
     }
   ],
   "review_list": [
     {
       "sha": "bf4cd04e24",
-      "message": "bf4cd04e24",
+      "message": "Pass --cluster to valkey-benchmark in cluster mode (#53)",
       "date": "2026-04-13",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/53",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/bf4cd04e241bd32ac2b8aec50ebc46dd8932dc42"
     },
     {
       "sha": "b358c3af51",
-      "message": "b358c3af51",
+      "message": "Change read commands for SET and ZSET (#7)",
       "date": "2026-03-17",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/7",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/b358c3af5132f72cfedd1ea2b00f884c4db786f9"
     },
     {
       "sha": "a8922c9f8b",
-      "message": "a8922c9f8b",
+      "message": "Add unit test suite for pure logic functions (#42)",
       "date": "2026-03-10",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/42",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/a8922c9f8ba2c0969e22b37be523344e4cda8742"
     },
     {
       "sha": "60c6995b09",
-      "message": "60c6995b09",
+      "message": "adds manual commit array benchmarking (#20)",
       "date": "2025-12-01",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/20",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/60c6995b09014a0ccdec437054f0a23681dfcb90"
     },
     {
       "sha": "f1afa0ab78",
-      "message": "f1afa0ab78",
+      "message": "Enhanced Benchmarks, Add Grafana Dashboard with Performance Analysis and Graph Generation (#10)",
       "date": "2025-11-18",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/10",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/f1afa0ab78dbd0de993011efbf0995b39da38f2a"
     },
     {
       "sha": "f47c4761b0",
-      "message": "f47c4761b0",
+      "message": "Adds custom valkey-benchmark option  (#9)",
       "date": "2025-09-15",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/9",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/f47c4761b0498cbebb389cec390b0c6f480e81cc"
     },
     {
       "sha": "0a3ec2369b",
-      "message": "0a3ec2369b",
+      "message": "Adds io-thread support (#8)",
       "date": "2025-09-09",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/8",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/0a3ec2369b01d4ac763235c8fd9b837a64ba479a"
     }
   ]

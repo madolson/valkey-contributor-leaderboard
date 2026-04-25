@@ -13,10 +13,10 @@
   "commit_list": [
     {
       "sha": "deab7ef9e6",
-      "message": "deab7ef9e6",
+      "message": "Fix crash on empty FT.AGGREGATE expressions (#966)",
       "date": "2026-04-20",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/966",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/deab7ef9e6b3dc71c14650d4b31b048263f37289"
     },
     {

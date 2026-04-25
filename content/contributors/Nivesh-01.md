@@ -12,10 +12,10 @@
   "commit_list": [
     {
       "sha": "d1bf811586",
-      "message": "d1bf811586",
+      "message": "Adding yield during mutation queue drainage for save and restore (#930)",
       "date": "2026-03-26",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/930",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/d1bf811586c5ab71ecffccc96d57e4aa3b1934a2"
     }
   ],

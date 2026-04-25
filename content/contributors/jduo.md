@@ -13,18 +13,18 @@
   "commit_list": [
     {
       "sha": "246247b12d",
-      "message": "246247b12d",
+      "message": "perf: Reduce per-request GC allocation overhead (#310)",
       "date": "2026-04-16",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/310",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/246247b12d8272038aefd867cd7ab43645a7c852"
     },
     {
       "sha": "a3eaa96708",
-      "message": "a3eaa96708",
+      "message": "Add aliases to PHPRedis-compatible class names (#126)",
       "date": "2026-01-22",
       "repo": "valkey-glide-php",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/126",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/a3eaa967089045e87a573d029ced652aaeaedccb"
     }
   ],
@@ -39,10 +39,10 @@
     },
     {
       "sha": "493fb83677",
-      "message": "493fb83677",
+      "message": "feat(php): Add Core Valkey Search commands (#171)",
       "date": "2026-04-24",
       "repo": "valkey-glide-php",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/171",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/493fb83677e9de55a5085508fe7809c8936aab99"
     },
     {
@@ -63,58 +63,58 @@
     },
     {
       "sha": "60a5994c84",
-      "message": "60a5994c84",
+      "message": "PHP implement transparent compression feature (#150)",
       "date": "2026-02-24",
       "repo": "valkey-glide-php",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/150",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/60a5994c84964740159a0a3c2767089768c5d66a"
     },
     {
       "sha": "2c23ec02a9",
-      "message": "2c23ec02a9",
+      "message": "feat(php): add OPT_REPLY_LITERAL option for OK response handling (#120)",
       "date": "2026-02-19",
       "repo": "valkey-glide-php",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/120",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/2c23ec02a9a7813414737f6670ea6de204d96d94"
     },
     {
       "sha": "f0d069014c",
-      "message": "f0d069014c",
+      "message": "PHP: Add soak tests (#130)",
       "date": "2026-01-31",
       "repo": "valkey-glide-php",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/130",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/f0d069014ca401608eeebc910eb0c8318541116b"
     },
     {
       "sha": "db74148961",
-      "message": "db74148961",
+      "message": "Php: update main with release 1.0 (#143)",
       "date": "2026-01-29",
       "repo": "valkey-glide-php",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/143",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/db741489610581df4e31d2a73952782eb4461d64"
     },
     {
       "sha": "bd4399dc3a",
-      "message": "bd4399dc3a",
+      "message": "PHP: Update pull request template (#141)",
       "date": "2026-01-28",
       "repo": "valkey-glide-php",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/141",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/bd4399dc3a73c8d8ca7fe61016bff38011eda7af"
     },
     {
       "sha": "a5738614d8",
-      "message": "a5738614d8",
+      "message": "PHP: Add benchmarks (#124)",
       "date": "2026-01-23",
       "repo": "valkey-glide-php",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/124",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/a5738614d8246d3ae42ea26c16d0078386ef77d8"
     },
     {
       "sha": "34f88d5f01",
-      "message": "34f88d5f01",
+      "message": "PHP: Add connect method for ValkeyGlide client (#131)",
       "date": "2026-01-23",
       "repo": "valkey-glide-php",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/131",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/34f88d5f01ef69ddd67da7c45f5788619a507d5f"
     }
   ]

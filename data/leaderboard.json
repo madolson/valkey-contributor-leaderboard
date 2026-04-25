@@ -1,12 +1,12 @@
 {
-  "generated": "2026-04-25T21:38:28Z",
+  "generated": "2026-04-25T21:42:30Z",
   "contributors": [
     {
       "login": "roshkhatri",
       "id": 117414976,
       "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
       "commits": 34,
-      "reviews": 59,
+      "reviews": 58,
       "repos": [
         "valkey",
         "valkey-bundle",
@@ -17,14 +17,14 @@
         "valkey-release-automation",
         "valkey-rfc"
       ],
-      "score": 93
+      "score": 92
     },
     {
       "login": "Nikhil-Manglore",
       "id": 46588759,
       "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
       "commits": 28,
-      "reviews": 44,
+      "reviews": 43,
       "repos": [
         "valkey-bloom",
         "valkey-bundle",
@@ -36,7 +36,7 @@
         "valkey-release-automation",
         "valkey-test-framework"
       ],
-      "score": 72
+      "score": 71
     },
     {
       "login": "KarthikSubbarao",
@@ -58,13 +58,13 @@
       "id": 25262500,
       "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
       "commits": 13,
-      "reviews": 29,
+      "reviews": 27,
       "repos": [
         "valkey",
         "valkey-fuzzer",
         "valkey-json"
       ],
-      "score": 42
+      "score": 40
     },
     {
       "login": "madolson",
@@ -85,42 +85,12 @@
       "id": 94406158,
       "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
       "commits": 7,
-      "reviews": 29,
+      "reviews": 23,
       "repos": [
         "spring-data-valkey",
         "valkey-glide"
       ],
-      "score": 36
-    },
-    {
-      "login": "dependabot[bot]",
-      "id": 49699333,
-      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
-      "commits": 33,
-      "reviews": 0,
-      "repos": [
-        "libvalkey-py",
-        "valkey-container",
-        "valkey-fuzzer",
-        "valkey-glide",
-        "valkey-glide-csharp",
-        "valkey-luajit",
-        "valkey-operator",
-        "valkey-py"
-      ],
-      "score": 33
-    },
-    {
-      "login": "xShinnRyuu",
-      "id": 54688146,
-      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-      "commits": 3,
-      "reviews": 29,
-      "repos": [
-        "valkey-glide",
-        "valkey-glide-csharp"
-      ],
-      "score": 32
+      "score": 30
     },
     {
       "login": "prateek-kumar-improving",
@@ -147,20 +117,6 @@
       "score": 27
     },
     {
-      "login": "currantw",
-      "id": 181785993,
-      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-      "commits": 14,
-      "reviews": 13,
-      "repos": [
-        "valkey-glide",
-        "valkey-glide-csharp",
-        "valkey-glide-docs",
-        "valkey-glide-php"
-      ],
-      "score": 27
-    },
-    {
       "login": "zuiderkwast",
       "id": 273886,
       "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
@@ -171,6 +127,32 @@
         "valkey-rfc"
       ],
       "score": 24
+    },
+    {
+      "login": "currantw",
+      "id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "commits": 14,
+      "reviews": 10,
+      "repos": [
+        "valkey-glide",
+        "valkey-glide-csharp",
+        "valkey-glide-docs",
+        "valkey-glide-php"
+      ],
+      "score": 24
+    },
+    {
+      "login": "xShinnRyuu",
+      "id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "commits": 3,
+      "reviews": 20,
+      "repos": [
+        "valkey-glide",
+        "valkey-glide-csharp"
+      ],
+      "score": 23
     },
     {
       "login": "Aryex",
@@ -296,17 +278,6 @@
       "score": 16
     },
     {
-      "login": "secwall",
-      "id": 1869308,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
-      "commits": 8,
-      "reviews": 8,
-      "repos": [
-        "valkey-luajit"
-      ],
-      "score": 16
-    },
-    {
       "login": "nilanshu-sharma",
       "id": 220134298,
       "avatar_url": "https://avatars.githubusercontent.com/u/220134298?v=4",
@@ -364,17 +335,6 @@
       "score": 13
     },
     {
-      "login": "bogdanp05",
-      "id": 7281856,
-      "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-      "commits": 1,
-      "reviews": 12,
-      "repos": [
-        "libvalkey-py"
-      ],
-      "score": 13
-    },
-    {
       "login": "jduo",
       "id": 1657237,
       "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
@@ -397,17 +357,6 @@
         "valkey-try-me"
       ],
       "score": 13
-    },
-    {
-      "login": "mkmkme",
-      "id": 4062234,
-      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-      "commits": 1,
-      "reviews": 11,
-      "repos": [
-        "valkey-py"
-      ],
-      "score": 12
     },
     {
       "login": "rainsupreme",
@@ -459,13 +408,13 @@
       "score": 10
     },
     {
-      "login": "sandeepkunusoth",
-      "id": 31273507,
-      "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-      "commits": 3,
-      "reviews": 7,
+      "login": "secwall",
+      "id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "commits": 8,
+      "reviews": 2,
       "repos": [
-        "valkey-operator"
+        "valkey-luajit"
       ],
       "score": 10
     },
@@ -478,6 +427,17 @@
       "repos": [
         "valkey-io.github.io",
         "valkey-search"
+      ],
+      "score": 9
+    },
+    {
+      "login": "sandeepkunusoth",
+      "id": 31273507,
+      "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
+      "commits": 3,
+      "reviews": 6,
+      "repos": [
+        "valkey-operator"
       ],
       "score": 9
     },
@@ -549,6 +509,17 @@
         "valkey-rfc"
       ],
       "score": 7
+    },
+    {
+      "login": "mkmkme",
+      "id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "commits": 1,
+      "reviews": 5,
+      "repos": [
+        "valkey-py"
+      ],
+      "score": 6
     },
     {
       "login": "hpatro",
@@ -728,6 +699,17 @@
       "reviews": 0,
       "repos": [
         ".github"
+      ],
+      "score": 3
+    },
+    {
+      "login": "bogdanp05",
+      "id": 7281856,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
+      "commits": 1,
+      "reviews": 2,
+      "repos": [
+        "libvalkey-py"
       ],
       "score": 3
     },
@@ -1006,17 +988,6 @@
       "reviews": 0,
       "repos": [
         "libvalkey"
-      ],
-      "score": 1
-    },
-    {
-      "login": "Copilot",
-      "id": 198982749,
-      "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
-      "commits": 1,
-      "reviews": 0,
-      "repos": [
-        "libvalkey-py"
       ],
       "score": 1
     },

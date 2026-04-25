@@ -15,18 +15,18 @@
   "commit_list": [
     {
       "sha": "a8ebb2ce94",
-      "message": "a8ebb2ce94",
+      "message": "spelling: github (#27)",
       "date": "2025-08-27",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/27",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/a8ebb2ce949b52492700864751266db9db98af61"
     },
     {
       "sha": "b4cf1b077d",
-      "message": "b4cf1b077d",
+      "message": "Spelling (#5)",
       "date": "2025-07-30",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/5",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/b4cf1b077d50b658d67df176170ee4fdccf03ea0"
     },
     {

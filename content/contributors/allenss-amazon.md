@@ -12,68 +12,68 @@
   "commit_list": [
     {
       "sha": "fe9b048582",
-      "message": "fe9b048582",
+      "message": "Implement SharedAPI interface that mimics JSON.GET (#71)",
       "date": "2025-08-26",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/71",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/fe9b048582a88a3b4d3c8701394c85f1ca7490a0"
     }
   ],
   "review_list": [
     {
       "sha": "b69c73a3f3",
-      "message": "b69c73a3f3",
+      "message": "Update search_number_of_indexes while restoring (#974)",
       "date": "2026-04-20",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/974",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/b69c73a3f36198ed21a3bc020eaf995471a9897c"
     },
     {
       "sha": "deab7ef9e6",
-      "message": "deab7ef9e6",
+      "message": "Fix crash on empty FT.AGGREGATE expressions (#966)",
       "date": "2026-04-20",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/966",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/deab7ef9e6b3dc71c14650d4b31b048263f37289"
     },
     {
       "sha": "77ca3d5501",
-      "message": "77ca3d5501",
+      "message": "fix aggregate recursion depth (#973)",
       "date": "2026-04-18",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/973",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/77ca3d5501413e9aaad6f50c36850d102a44315f"
     },
     {
       "sha": "541453bb03",
-      "message": "541453bb03",
+      "message": "Fix heap-use-after-free in PausePoint during server shutdown for mult\u2026 (#958)",
       "date": "2026-04-09",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/958",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/541453bb03204f4dc95f58c00203b61ec45ce4e2"
     },
     {
       "sha": "1e5c7459ab",
-      "message": "1e5c7459ab",
+      "message": "Skip building unit test files for integration test workflows (#942)",
       "date": "2026-03-31",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/942",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/1e5c7459abc58c1063b51d7d2f92c23f980e1960"
     },
     {
       "sha": "0b51c5595e",
-      "message": "0b51c5595e",
+      "message": "Add memory reservation based on mutation queue (#934)",
       "date": "2026-03-27",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/934",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/0b51c5595eaa1698bfe3424a1dfbc5314340c9b9"
     },
     {
       "sha": "03f66fa816",
-      "message": "03f66fa816",
+      "message": "Improve test output (#931)",
       "date": "2026-03-27",
       "repo": "valkey-search",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/931",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/03f66fa8168d8f63dd66418f2e66617df23bd9e5"
     },
     {
@@ -86,10 +86,10 @@
     },
     {
       "sha": "fb9e9ec7a2",
-      "message": "fb9e9ec7a2",
+      "message": "Revert \"Simplify offline build (#73)\" (#93)",
       "date": "2025-12-16",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/93",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/fb9e9ec7a2e4975dff1b1baecde3eae62332c6e4"
     }
   ]

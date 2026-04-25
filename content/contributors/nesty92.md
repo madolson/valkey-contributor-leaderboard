@@ -12,10 +12,10 @@
   "commit_list": [
     {
       "sha": "89ddba711c",
-      "message": "89ddba711c",
+      "message": "fix: metrics parsing (#25)",
       "date": "2026-01-21",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/25",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/89ddba711c65c6be38ea4551ab337cf6fcce91e1"
     }
   ],

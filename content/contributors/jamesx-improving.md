@@ -29,10 +29,10 @@
     },
     {
       "sha": "4b4a35a8c9",
-      "message": "4b4a35a8c9",
+      "message": "CD: Fix 2 minor issues in the CD workflow (#320)",
       "date": "2026-04-17",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/320",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4b4a35a8c94a74c05dbc1ade3a05aa420fb6ac44"
     }
   ],
@@ -63,18 +63,18 @@
     },
     {
       "sha": "df5345bf54",
-      "message": "df5345bf54",
+      "message": "Disable CICD due to flakiness (#309)",
       "date": "2026-04-14",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/309",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/df5345bf545855a668414ccfccaa94ea43ff5913"
     },
     {
       "sha": "df5345bf54",
-      "message": "df5345bf54",
+      "message": "Disable CICD due to flakiness (#309)",
       "date": "2026-04-14",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/309",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/df5345bf545855a668414ccfccaa94ea43ff5913"
     }
   ]

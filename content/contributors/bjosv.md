@@ -54,34 +54,34 @@
   "review_list": [
     {
       "sha": "e356730264",
-      "message": "e356730264",
+      "message": "Update Go build (#150)",
       "date": "2026-04-24",
       "repo": "valkey-operator",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/150",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/e356730264bc8e9368a8e85c8ea6546ca707424d"
     },
     {
       "sha": "ddc13a8417",
-      "message": "ddc13a8417",
+      "message": "Setup container image publishing (#102)",
       "date": "2026-04-23",
       "repo": "valkey-operator",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/102",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/ddc13a8417366b5ade6c8d72f87d8c1b42e19d4e"
     },
     {
       "sha": "7c9bad6c13",
-      "message": "7c9bad6c13",
+      "message": "feat: proactive failovers before cluster rolls (#128)",
       "date": "2026-04-21",
       "repo": "valkey-operator",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/128",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/7c9bad6c134e6600d98137f68889b8e2c669528b"
     },
     {
       "sha": "2b3718a3e5",
-      "message": "2b3718a3e5",
+      "message": "feat: initial tls support for valkey cluster (#133)",
       "date": "2026-04-20",
       "repo": "valkey-operator",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/133",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2b3718a3e5aa5f25d008cbeee0836e6822aa0399"
     },
     {
@@ -102,26 +102,26 @@
     },
     {
       "sha": "3943c459e3",
-      "message": "3943c459e3",
+      "message": "Add build info metric (#106)",
       "date": "2026-04-08",
       "repo": "valkey-operator",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/106",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3943c459e344ed6cf7566e9dda65f817f554346a"
     },
     {
       "sha": "3b8c66bd52",
-      "message": "3b8c66bd52",
+      "message": "chore(kubebuilder): update scaffold v4.13.0 -> v4.13.1 (#125)",
       "date": "2026-03-31",
       "repo": "valkey-operator",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/125",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3b8c66bd521569f26796d38d83903eb277439e7e"
     },
     {
       "sha": "c92a1efa39",
-      "message": "c92a1efa39",
+      "message": "feat: Sequentially update workloads one-by-one (#116)",
       "date": "2026-03-20",
       "repo": "valkey-operator",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/116",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c92a1efa39ddfdde67a925cb6d4fe0fb28008838"
     },
     {
@@ -134,10 +134,10 @@
     },
     {
       "sha": "89eb055a48",
-      "message": "89eb055a48",
+      "message": "feat: ValkeyNode integration with ValkeyCluster (#113)",
       "date": "2026-03-16",
       "repo": "valkey-operator",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/113",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/89eb055a4896bcc907fc816366d6b953e937796d"
     },
     {

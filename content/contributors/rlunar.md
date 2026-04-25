@@ -12,10 +12,10 @@
   "commit_list": [
     {
       "sha": "e15f8629e5",
-      "message": "e15f8629e5",
+      "message": "Add blog post: Valkey at Laracon India 2026 (#513)",
       "date": "2026-04-24",
       "repo": "valkey-io.github.io",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/513",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/e15f8629e5b307d610725e9ac8dc9e121e2892ea"
     }
   ],

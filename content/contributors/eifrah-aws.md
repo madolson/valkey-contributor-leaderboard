@@ -22,34 +22,34 @@
     },
     {
       "sha": "b84b016514",
-      "message": "b84b016514",
+      "message": "Do not hard coded \"localhost\" (#8)",
       "date": "2025-08-08",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/8",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/b84b0165147d45877cd0494274b2e05f6e72865f"
     },
     {
       "sha": "ed84b0494a",
-      "message": "ed84b0494a",
+      "message": "Allow user to provide a configuration file",
       "date": "2025-07-15",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/6",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/ed84b0494ad759b1575c31fe486cbdc8226560d5"
     },
     {
       "sha": "6c8e7777cf",
-      "message": "6c8e7777cf",
+      "message": "Force clang on macOS",
       "date": "2025-06-25",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/69",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/6c8e7777cfe27556fd309e1a72eed21d9a3455f6"
     },
     {
       "sha": "9ba9ff46fa",
-      "message": "9ba9ff46fa",
+      "message": "Support building on Clang / Apple",
       "date": "2025-06-25",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/69",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/9ba9ff46fabd9f31e375ddd7b1362c1907e9c3c2"
     }
   ],

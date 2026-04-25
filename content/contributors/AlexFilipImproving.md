@@ -21,10 +21,10 @@
     },
     {
       "sha": "6f08bbf02c",
-      "message": "6f08bbf02c",
+      "message": "Fix build on mac by using correct format specifier (#92)",
       "date": "2026-01-06",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/92",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/6f08bbf02caef7ec7430f8613e566a1348053a02"
     }
   ],

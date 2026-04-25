@@ -12,18 +12,18 @@
   "commit_list": [
     {
       "sha": "227a6ba72f",
-      "message": "227a6ba72f",
+      "message": "Unify CacheCompat to use value receivers. (#120)",
       "date": "2026-03-08",
       "repo": "valkey-go",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/120",
       "commit_url": "https://github.com/valkey-io/valkey-go/commit/227a6ba72ff619a454f1a7a85de6f3cc9a871b82"
     },
     {
       "sha": "833625daaf",
-      "message": "833625daaf",
+      "message": "fix: #111 #112 (#116)",
       "date": "2026-03-03",
       "repo": "valkey-go",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/116",
       "commit_url": "https://github.com/valkey-io/valkey-go/commit/833625daafb092a1d617eb63b37951e14bfc93f0"
     }
   ],

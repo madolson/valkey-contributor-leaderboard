@@ -3,9 +3,9 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 72,
+  "score": 71,
   "commit_count": 28,
-  "review_count": 44,
+  "review_count": 43,
   "repos": [
     "valkey-bloom",
     "valkey-bundle",
@@ -92,10 +92,10 @@
     },
     {
       "sha": "7af106333b",
-      "message": "7af106333b",
+      "message": "Changed File Names and Update Descriptions (#48)",
       "date": "2026-02-19",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/48",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/7af106333b4c9b189a29bd04f1662377142490cd"
     },
     {
@@ -108,10 +108,10 @@
     },
     {
       "sha": "912a82db55",
-      "message": "912a82db55",
+      "message": "Remove the bashbrew output (#46)",
       "date": "2026-02-05",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/46",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/912a82db5549cc79c38eca92428a99b431b68353"
     },
     {
@@ -124,50 +124,50 @@
     },
     {
       "sha": "a14de281b3",
-      "message": "a14de281b3",
+      "message": "Removing Binary Testing (#39)",
       "date": "2026-01-06",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/39",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/a14de281b334e21f49dc8f5ccb6356ab474586a7"
     },
     {
       "sha": "4a4f2f7313",
-      "message": "4a4f2f7313",
+      "message": "Automate the updating of aliases in valkey-container. Also now we only create PR's if there are changes. (#25)",
       "date": "2025-10-09",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/25",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/4a4f2f7313a6512827c82d35ebb83974699cf997"
     },
     {
       "sha": "6c3b12d6d2",
-      "message": "6c3b12d6d2",
+      "message": "Edited grammar in README file (#12)",
       "date": "2025-09-11",
       "repo": "valkey-hashes",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-hashes/pull/12",
       "commit_url": "https://github.com/valkey-io/valkey-hashes/commit/6c3b12d6d20d90bf0978beb206ff97ca82156abc"
     },
     {
       "sha": "1e54afe6a0",
-      "message": "1e54afe6a0",
+      "message": "Add validations for uploaded binaries (#26)",
       "date": "2025-09-08",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/26",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/1e54afe6a02b48c278a959744c3f31d04ecba0d6"
     },
     {
       "sha": "ea3298b90e",
-      "message": "ea3298b90e",
+      "message": "Create new website pages for release candidates (#29)",
       "date": "2025-08-27",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/29",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/ea3298b90ee9820767097f693637f9996e85d254"
     },
     {
       "sha": "d9abbe5360",
-      "message": "d9abbe5360",
+      "message": "Update Workflow to only Trigger Bundle Release if Valkey Version >= 8.1.0 (#31)",
       "date": "2025-08-27",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/31",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/d9abbe536023d621a9f578464d79cfc436e39ea7"
     },
     {
@@ -180,26 +180,26 @@
     },
     {
       "sha": "7e63587f33",
-      "message": "7e63587f33",
+      "message": "Modify JSON Tests to allow connection to external server. (#70)",
       "date": "2025-08-12",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/70",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/7e63587f338645ee9d458d1f03d8f3400c115a6d"
     },
     {
       "sha": "57ce5897ce",
-      "message": "57ce5897ce",
+      "message": "Adapt Tests to Allow External Server Connections  (#7)",
       "date": "2025-08-12",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/7",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/57ce5897cee9f23f7cd23c36ba77712033604ca0"
     },
     {
       "sha": "4990f212be",
-      "message": "4990f212be",
+      "message": "Adds workflow trigger for valkey-bundle release (#64)",
       "date": "2025-08-06",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/64",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/4990f212beeaef13acbd8d4060d9841245f78d6c"
     },
     {
@@ -212,34 +212,34 @@
     },
     {
       "sha": "4158a9bbfb",
-      "message": "4158a9bbfb",
+      "message": "Adding bundle trigger (#28)",
       "date": "2025-08-05",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/28",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/4158a9bbfb7e8554780f52cc23112df389d3f72b"
     },
     {
       "sha": "b098550bde",
-      "message": "b098550bde",
+      "message": "Update trigger_ldap_release.yml",
       "date": "2025-06-19",
       "repo": "valkey-ldap",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-ldap/pull/50",
       "commit_url": "https://github.com/valkey-io/valkey-ldap/commit/b098550bde4ba5ca414794cb97ddadd4ca1370a6"
     },
     {
       "sha": "784b126fd0",
-      "message": "784b126fd0",
+      "message": "Renamed component variable",
       "date": "2025-06-19",
       "repo": "valkey-ldap",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-ldap/pull/50",
       "commit_url": "https://github.com/valkey-io/valkey-ldap/commit/784b126fd0d8f8fae123f67119c2b25d7ce33b05"
     },
     {
       "sha": "171aa40981",
-      "message": "171aa40981",
+      "message": "Adding trigger to automate extensions",
       "date": "2025-06-18",
       "repo": "valkey-ldap",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-ldap/pull/49",
       "commit_url": "https://github.com/valkey-io/valkey-ldap/commit/171aa4098126baf45f6c328453d9f617b7b17d2f"
     }
   ],
@@ -294,10 +294,10 @@
     },
     {
       "sha": "cf6487d896",
-      "message": "cf6487d896",
+      "message": "Add automated packaging for all valkey versions (#47)",
       "date": "2026-04-14",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/47",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/cf6487d8962250c489a1de8283f010e57e217563"
     },
     {
@@ -382,18 +382,18 @@
     },
     {
       "sha": "ba12e938ea",
-      "message": "ba12e938ea",
+      "message": "fix get_commit_time issue and build logic (#49)",
       "date": "2026-03-18",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/49",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/ba12e938ea7b3797af81494fff97eec30be799f9"
     },
     {
       "sha": "df539068c9",
-      "message": "df539068c9",
+      "message": "Add DCO signoff and skip doc updates for RC versions (#49)",
       "date": "2026-03-18",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/49",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/df539068c996af216504f1016d479b22e6858a54"
     },
     {
@@ -446,10 +446,10 @@
     },
     {
       "sha": "2639642f96",
-      "message": "2639642f96",
+      "message": "Pin Python dependencies with hashes for supply chain security (#44)",
       "date": "2026-03-02",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/44",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/2639642f96e8abe78109275ebe5e19cc7bd84f33"
     },
     {
@@ -494,10 +494,10 @@
     },
     {
       "sha": "a932a1c38e",
-      "message": "a932a1c38e",
+      "message": "Fix build for failure with GCC 16 for maybe_unused var",
       "date": "2026-02-20",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/97",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/a932a1c38e121b26c88000be6c870e830c607e37"
     },
     {
@@ -510,18 +510,18 @@
     },
     {
       "sha": "c0a5ed4c1f",
-      "message": "c0a5ed4c1f",
+      "message": "Opens valkey doc PR for valkey releases (#44)",
       "date": "2026-02-03",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/44",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/c0a5ed4c1feec8980cb31d50a6702c53704fffbf"
     },
     {
       "sha": "c0a5ed4c1f",
-      "message": "c0a5ed4c1f",
+      "message": "Opens valkey doc PR for valkey releases (#44)",
       "date": "2026-02-03",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/44",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/c0a5ed4c1feec8980cb31d50a6702c53704fffbf"
     },
     {
@@ -534,18 +534,18 @@
     },
     {
       "sha": "fde4700bbe",
-      "message": "fde4700bbe",
+      "message": "adds back bashbrew generation (#43)",
       "date": "2026-01-08",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/43",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/fde4700bbe2f6a9ee7419bd57f220bdccf224396"
     },
     {
       "sha": "fb2f55000a",
-      "message": "fb2f55000a",
+      "message": "Remove the create bashbrew output and update docker steps (#41)",
       "date": "2026-01-08",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/41",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/fb2f55000aaaed16b4146b16f81b7bd5749b604a"
     },
     {
@@ -558,42 +558,42 @@
     },
     {
       "sha": "1fab74be63",
-      "message": "1fab74be63",
+      "message": "added try valkey update workflow (#36)",
       "date": "2025-12-22",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/36",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/1fab74be63f936bc186b5ccffa206391244e83d0"
     },
     {
       "sha": "a8ebb2ce94",
-      "message": "a8ebb2ce94",
+      "message": "spelling: github (#27)",
       "date": "2025-08-27",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/27",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/a8ebb2ce949b52492700864751266db9db98af61"
     },
     {
       "sha": "560859a0a6",
-      "message": "560859a0a6",
+      "message": "Add 9..0 for CI tests (#77)",
       "date": "2025-08-25",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/77",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/560859a0a63cd3f85edd4714d7cc3c0895e4ebd6"
     },
     {
       "sha": "af93543219",
-      "message": "af93543219",
+      "message": "Spell Check Workflow for Valkey JSON (#76)",
       "date": "2025-08-25",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/76",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/af935432195b4c1852d11e3c503154b51cf5f061"
     },
     {
       "sha": "88fdcb3254",
-      "message": "88fdcb3254",
+      "message": "Remove ubuntu focal support (#22)",
       "date": "2025-04-21",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/22",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/88fdcb325458faf02fed489498596f6b8f8b9bcb"
     }
   ]

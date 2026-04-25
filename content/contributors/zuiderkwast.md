@@ -29,18 +29,18 @@
     },
     {
       "sha": "e8678e8c00",
-      "message": "e8678e8c00",
+      "message": "Update TEMPLATE.md (#12)",
       "date": "2024-11-09",
       "repo": "valkey-rfc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/12",
       "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/e8678e8c007e2a1a0ee0e85d22ad7561868488e8"
     },
     {
       "sha": "657f83c93d",
-      "message": "657f83c93d",
+      "message": "Add information about RFC process (#1)",
       "date": "2024-06-15",
       "repo": "valkey-rfc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/1",
       "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/657f83c93d187f41cb3886aeeb384d59dd32498c"
     }
   ],
@@ -103,10 +103,10 @@
     },
     {
       "sha": "53c039753f",
-      "message": "53c039753f",
+      "message": "Add multi-engine register support",
       "date": "2026-03-27",
       "repo": "valkey-luajit",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/8",
       "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/53c039753f5be8f97f801dc4e6f35ae401941847"
     },
     {
@@ -127,10 +127,10 @@
     },
     {
       "sha": "2639642f96",
-      "message": "2639642f96",
+      "message": "Pin Python dependencies with hashes for supply chain security (#44)",
       "date": "2026-03-02",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/44",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/2639642f96e8abe78109275ebe5e19cc7bd84f33"
     },
     {
@@ -183,26 +183,26 @@
     },
     {
       "sha": "833d4ab47b",
-      "message": "833d4ab47b",
+      "message": "LDAP authentication module (#20)",
       "date": "2025-06-14",
       "repo": "valkey-rfc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/20",
       "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/833d4ab47b462daf031b1fb480eaeef905c6206d"
     },
     {
       "sha": "920db68229",
-      "message": "920db68229",
+      "message": "Addresses open question for ValkeyJSON rfc (#13)",
       "date": "2024-11-18",
       "repo": "valkey-rfc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/13",
       "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/920db68229ba1e9be561b3ee33d74561ec58234d"
     },
     {
       "sha": "c4a0d0fa8b",
-      "message": "c4a0d0fa8b",
+      "message": "Reference RFC file (#6)",
       "date": "2024-08-27",
       "repo": "valkey-rfc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/6",
       "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/c4a0d0fa8bd4c1306fb3f0da316569155ff529c6"
     }
   ]

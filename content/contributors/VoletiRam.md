@@ -13,10 +13,10 @@
   "commit_list": [
     {
       "sha": "407a3d00ed",
-      "message": "407a3d00ed",
+      "message": "Add module support for Full text search performance tests (#23)",
       "date": "2026-02-24",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/23",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/407a3d00edaf1808b7d839fb63c8feac38c933ca"
     },
     {

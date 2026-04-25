@@ -24,18 +24,18 @@
     },
     {
       "sha": "df539068c9",
-      "message": "df539068c9",
+      "message": "Add DCO signoff and skip doc updates for RC versions (#49)",
       "date": "2026-03-18",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/49",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/df539068c996af216504f1016d479b22e6858a54"
     },
     {
       "sha": "a932a1c38e",
-      "message": "a932a1c38e",
+      "message": "Fix build for failure with GCC 16 for maybe_unused var",
       "date": "2026-02-20",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/97",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/a932a1c38e121b26c88000be6c870e830c607e37"
     },
     {
@@ -48,10 +48,10 @@
     },
     {
       "sha": "c0a5ed4c1f",
-      "message": "c0a5ed4c1f",
+      "message": "Opens valkey doc PR for valkey releases (#44)",
       "date": "2026-02-03",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/44",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/c0a5ed4c1feec8980cb31d50a6702c53704fffbf"
     },
     {
@@ -64,10 +64,10 @@
     },
     {
       "sha": "fb2f55000a",
-      "message": "fb2f55000a",
+      "message": "Remove the create bashbrew output and update docker steps (#41)",
       "date": "2026-01-08",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/41",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/fb2f55000aaaed16b4146b16f81b7bd5749b604a"
     },
     {
@@ -80,20 +80,20 @@
     },
     {
       "sha": "436b48fb21",
-      "message": "436b48fb21",
+      "message": "Update bashbrew action to v0.1.13 (#37)",
       "date": "2025-12-04",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/37",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/436b48fb21cbb1e68d7150bab5f64b5fbdbf475a"
     }
   ],
   "review_list": [
     {
       "sha": "e91f59e7e7",
-      "message": "e91f59e7e7",
+      "message": "Minor Formating changes due to new black ver (#28)",
       "date": "2026-01-21",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/28",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/e91f59e7e7fb7f31d45cc641988db9eaea55b36c"
     }
   ]

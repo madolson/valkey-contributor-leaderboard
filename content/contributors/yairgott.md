@@ -19,18 +19,18 @@
     },
     {
       "sha": "fe9b048582",
-      "message": "fe9b048582",
+      "message": "Implement SharedAPI interface that mimics JSON.GET (#71)",
       "date": "2025-08-26",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/71",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/fe9b048582a88a3b4d3c8701394c85f1ca7490a0"
     },
     {
       "sha": "fe9b048582",
-      "message": "fe9b048582",
+      "message": "Implement SharedAPI interface that mimics JSON.GET (#71)",
       "date": "2025-08-26",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/71",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/fe9b048582a88a3b4d3c8701394c85f1ca7490a0"
     }
   ]

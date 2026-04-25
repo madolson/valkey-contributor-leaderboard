@@ -55,20 +55,20 @@
     },
     {
       "sha": "3a29d8a429",
-      "message": "3a29d8a429",
+      "message": "Fix typo in tst/integration/README.md (#90)",
       "date": "2025-12-15",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/90",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/3a29d8a429ac5ce6d5d5ca18b4d36af0eb03c477"
     }
   ],
   "review_list": [
     {
       "sha": "7a480bb96c",
-      "message": "7a480bb96c",
+      "message": "adds Leadership page with TSC (#510)",
       "date": "2026-04-24",
       "repo": "valkey-io.github.io",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/510",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/7a480bb96cd42113fd3213663b255591a96b4339"
     },
     {
@@ -129,10 +129,10 @@
     },
     {
       "sha": "920db68229",
-      "message": "920db68229",
+      "message": "Addresses open question for ValkeyJSON rfc (#13)",
       "date": "2024-11-18",
       "repo": "valkey-rfc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/13",
       "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/920db68229ba1e9be561b3ee33d74561ec58234d"
     }
   ]

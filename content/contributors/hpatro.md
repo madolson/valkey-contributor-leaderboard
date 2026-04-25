@@ -12,10 +12,10 @@
   "commit_list": [
     {
       "sha": "c4a0d0fa8b",
-      "message": "c4a0d0fa8b",
+      "message": "Reference RFC file (#6)",
       "date": "2024-08-27",
       "repo": "valkey-rfc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/6",
       "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/c4a0d0fa8bd4c1306fb3f0da316569155ff529c6"
     }
   ],
@@ -54,10 +54,10 @@
     },
     {
       "sha": "e8678e8c00",
-      "message": "e8678e8c00",
+      "message": "Update TEMPLATE.md (#12)",
       "date": "2024-11-09",
       "repo": "valkey-rfc",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-rfc/pull/12",
       "commit_url": "https://github.com/valkey-io/valkey-rfc/commit/e8678e8c007e2a1a0ee0e85d22ad7561868488e8"
     }
   ]

@@ -3,9 +3,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 32,
+  "score": 23,
   "commit_count": 3,
-  "review_count": 29,
+  "review_count": 20,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -29,10 +29,10 @@
     },
     {
       "sha": "df5345bf54",
-      "message": "df5345bf54",
+      "message": "Disable CICD due to flakiness (#309)",
       "date": "2026-04-14",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/309",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/df5345bf545855a668414ccfccaa94ea43ff5913"
     }
   ],
@@ -119,10 +119,10 @@
     },
     {
       "sha": "d6ac8e1933",
-      "message": "d6ac8e1933",
+      "message": "Remove \"Coming Soon\" pre-release indicators for C# client (#192)",
       "date": "2026-04-21",
       "repo": "valkey-glide-docs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/192",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/d6ac8e1933093642f91c0c35880bdc1b770c28a4"
     },
     {
@@ -223,50 +223,50 @@
     },
     {
       "sha": "4bc59c8114",
-      "message": "4bc59c8114",
+      "message": "PHP: Add JSON_GET and JSON_SET commands (#184)",
       "date": "2026-04-16",
       "repo": "valkey-glide-php",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/184",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/4bc59c8114e67274bf8df44a9a71b9f18d08a86d"
     },
     {
       "sha": "33809dd913",
-      "message": "33809dd913",
+      "message": "Fixed Modules and IAM docs (#189)",
       "date": "2026-04-15",
       "repo": "valkey-glide-docs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/189",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/33809dd9131d1248ddd8a7141447d51e81f43d75"
     },
     {
       "sha": "37ffa082f9",
-      "message": "37ffa082f9",
+      "message": "fix(pubsub): implement SER pub/sub commands and make API binary-safe with ValkeyKey/ValkeyValue (#296)",
       "date": "2026-04-14",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/296",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/37ffa082f90ffd45fbf57e715e56229831a33766"
     },
     {
       "sha": "f48a350688",
-      "message": "f48a350688",
+      "message": "Fixed Python API reference docs with auto docs generation (#187)",
       "date": "2026-04-10",
       "repo": "valkey-glide-docs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/187",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/f48a350688bff7a66e0226f8692c669e15b06425"
     },
     {
       "sha": "607128e55f",
-      "message": "607128e55f",
+      "message": "PHP: Update approved license for aws-lc-sys:0.39.0 (#176)",
       "date": "2026-03-27",
       "repo": "valkey-glide-php",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/176",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/607128e55feefa01f5e38ac8d3e3efc298fd6ccc"
     },
     {
       "sha": "1e70cb80eb",
-      "message": "1e70cb80eb",
+      "message": "PHP: Update readme.md (#145)",
       "date": "2026-02-02",
       "repo": "valkey-glide-php",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/145",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/1e70cb80eb3c7240d358e0b0315a33f8de512408"
     }
   ]

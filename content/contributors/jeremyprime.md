@@ -3,9 +3,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 36,
+  "score": 30,
   "commit_count": 7,
-  "review_count": 29,
+  "review_count": 23,
   "repos": [
     "spring-data-valkey",
     "valkey-glide"
@@ -111,10 +111,10 @@
     },
     {
       "sha": "212197e1d9",
-      "message": "212197e1d9",
+      "message": "PHP: Add JSON commands (#185)",
       "date": "2026-04-20",
       "repo": "valkey-glide-php",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/185",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/212197e1d9de2fe9de748a7904660b29016e76c3"
     },
     {
@@ -167,74 +167,74 @@
     },
     {
       "sha": "4b4a35a8c9",
-      "message": "4b4a35a8c9",
+      "message": "CD: Fix 2 minor issues in the CD workflow (#320)",
       "date": "2026-04-17",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/320",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4b4a35a8c94a74c05dbc1ade3a05aa420fb6ac44"
     },
     {
       "sha": "65580e8543",
-      "message": "65580e8543",
+      "message": "Stream command API cleanup (#303)",
       "date": "2026-04-17",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/303",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/65580e85439395e0e679dee2b5844ca494f86ee0"
     },
     {
       "sha": "9c99642894",
-      "message": "9c99642894",
+      "message": "refactor(string): string command API cleanup (#319)",
       "date": "2026-04-17",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/319",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/9c9964289466341e8e9137c9727de07736ae25bc"
     },
     {
       "sha": "aca68251d4",
-      "message": "aca68251d4",
+      "message": "refactor: Sorted set command API cleanup (#314)",
       "date": "2026-04-16",
       "repo": "valkey-glide-csharp",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/314",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/aca68251d42d661683db9a813b440693e995ce92"
     },
     {
       "sha": "4bc59c8114",
-      "message": "4bc59c8114",
+      "message": "PHP: Add JSON_GET and JSON_SET commands (#184)",
       "date": "2026-04-16",
       "repo": "valkey-glide-php",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/184",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/4bc59c8114e67274bf8df44a9a71b9f18d08a86d"
     },
     {
       "sha": "33809dd913",
-      "message": "33809dd913",
+      "message": "Fixed Modules and IAM docs (#189)",
       "date": "2026-04-15",
       "repo": "valkey-glide-docs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/189",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/33809dd9131d1248ddd8a7141447d51e81f43d75"
     },
     {
       "sha": "8c37b06686",
-      "message": "8c37b06686",
+      "message": "test: refactor IAM authentication tests (#151)",
       "date": "2026-04-12",
       "repo": "valkey-glide-php",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/151",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/8c37b0668686bb866e830ef81ad3e56fdc9ed211"
     },
     {
       "sha": "df3bfb2690",
-      "message": "df3bfb2690",
+      "message": "Add comprehensive C# documentation and cross-language improvements (#173)",
       "date": "2026-03-25",
       "repo": "valkey-glide-docs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/173",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/df3bfb26902067e938bcfbfa9d2c9695e38f988e"
     },
     {
       "sha": "b4d34bab1f",
-      "message": "b4d34bab1f",
+      "message": "Fixed formatter issues escaping square brackets (#175)",
       "date": "2026-03-20",
       "repo": "valkey-glide-docs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/175",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/b4d34bab1f06696f808da8eba733a115a5a4f083"
     },
     {
@@ -271,34 +271,34 @@
     },
     {
       "sha": "bd502f98cb",
-      "message": "bd502f98cb",
+      "message": "PHP: Add reference section (#160)",
       "date": "2026-02-28",
       "repo": "valkey-glide-docs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/160",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/bd502f98cb9f83c857cc2859f0e458e27447e528"
     },
     {
       "sha": "5948973fa9",
-      "message": "5948973fa9",
+      "message": "PHP: Add how to section (#158)",
       "date": "2026-02-26",
       "repo": "valkey-glide-docs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/158",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/5948973fa9ec9f11b7c39c00ae34c63ca5dfc70c"
     },
     {
       "sha": "7f5c4e873d",
-      "message": "7f5c4e873d",
+      "message": "Fixed broken links on overview page. (#162)",
       "date": "2026-02-26",
       "repo": "valkey-glide-docs",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/162",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/7f5c4e873db733e740db0e0ac5c0e12d38c60588"
     },
     {
       "sha": "313a01d95f",
-      "message": "313a01d95f",
+      "message": "PHP: Update PHP readme, composer.json and NOTICE (#149)",
       "date": "2026-02-17",
       "repo": "valkey-glide-php",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/149",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/313a01d95f332cdea8e2f85725217154578dcc22"
     }
   ]

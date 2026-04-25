@@ -45,10 +45,10 @@
     },
     {
       "sha": "e4e29dedc1",
-      "message": "e4e29dedc1",
+      "message": "Adding a clean option for build script (#66)",
       "date": "2025-06-11",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/66",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/e4e29dedc1f0a2620f00884a8f06b3aaa0121d37"
     },
     {
@@ -119,10 +119,10 @@
     },
     {
       "sha": "57ce5897ce",
-      "message": "57ce5897ce",
+      "message": "Adapt Tests to Allow External Server Connections  (#7)",
       "date": "2025-08-12",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/7",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/57ce5897cee9f23f7cd23c36ba77712033604ca0"
     },
     {
@@ -151,66 +151,66 @@
     },
     {
       "sha": "928935b5ad",
-      "message": "928935b5ad",
+      "message": "Merge pull request #2 from KarthikSubbarao/unstable",
       "date": "2025-06-18",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/928935b5adbdd71c2e48e2e7a93fc7073f30a984"
     },
     {
       "sha": "ac0877bbd7",
-      "message": "ac0877bbd7",
+      "message": "update replication example",
       "date": "2025-04-15",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/ac0877bbd726383ef7176274a8bea7f24fa7649a"
     },
     {
       "sha": "6ab8a70caf",
-      "message": "6ab8a70caf",
+      "message": "update replication example",
       "date": "2025-04-15",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/6ab8a70caf0b940a141544c8f07f1a6a73fdbe68"
     },
     {
       "sha": "4eaa86ac0a",
-      "message": "4eaa86ac0a",
+      "message": "update example",
       "date": "2025-04-15",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/4eaa86ac0a0f4e8e69b591458191557289a42d8e"
     },
     {
       "sha": "3b964a68b2",
-      "message": "3b964a68b2",
+      "message": "update comments",
       "date": "2025-04-15",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/3b964a68b27b66cd400abb6b0881dcf84808f421"
     },
     {
       "sha": "6b5ae6d4c0",
-      "message": "6b5ae6d4c0",
+      "message": "update examples",
       "date": "2025-04-15",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/6b5ae6d4c0b9912ea92cd95c34b9ac2ce091dfdd"
     },
     {
       "sha": "175b0deb2e",
-      "message": "175b0deb2e",
+      "message": "update examples",
       "date": "2025-04-15",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/175b0deb2e9a4805256aee6808dbb8f41ca977f3"
     },
     {
       "sha": "c7905808e3",
-      "message": "c7905808e3",
+      "message": "update example",
       "date": "2025-04-15",
       "repo": "valkey-test-framework",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/c7905808e334b18271c5674aead722781d3778be"
     },
     {

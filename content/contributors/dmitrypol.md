@@ -13,10 +13,10 @@
   "commit_list": [
     {
       "sha": "fd2753d8c6",
-      "message": "fd2753d8c6",
+      "message": "added VALKEYMODULE_OPTIONS_HANDLE_REPL_ASYNC_LOAD (#89)",
       "date": "2025-11-03",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/89",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/fd2753d8c6c87274f47b6ba814d78e92424e41e5"
     },
     {

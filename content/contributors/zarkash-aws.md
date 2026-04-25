@@ -13,10 +13,10 @@
   "commit_list": [
     {
       "sha": "1fab74be63",
-      "message": "1fab74be63",
+      "message": "added try valkey update workflow (#36)",
       "date": "2025-12-22",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/36",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/1fab74be63f936bc186b5ccffa206391244e83d0"
     },
     {

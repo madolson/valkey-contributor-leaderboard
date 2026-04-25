@@ -3,9 +3,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 42,
+  "score": 40,
   "commit_count": 13,
-  "review_count": 29,
+  "review_count": 27,
   "repos": [
     "valkey",
     "valkey-fuzzer",
@@ -102,18 +102,18 @@
     },
     {
       "sha": "2114576374",
-      "message": "2114576374",
+      "message": "Fixes redhat-linux-build for build failure (#85)",
       "date": "2025-10-08",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/85",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/2114576374c82b0ca2ff800aff36564acb39d923"
     },
     {
       "sha": "af93543219",
-      "message": "af93543219",
+      "message": "Spell Check Workflow for Valkey JSON (#76)",
       "date": "2025-08-25",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/76",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/af935432195b4c1852d11e3c503154b51cf5f061"
     }
   ],
@@ -200,18 +200,18 @@
     },
     {
       "sha": "38f261db22",
-      "message": "38f261db22",
+      "message": "Update data_sizes in benchmark config for daily runs (#54)",
       "date": "2026-04-15",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/54",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/38f261db22fc18d4810d2dd4123c33dcf40b3a4a"
     },
     {
       "sha": "2171fe7992",
-      "message": "2171fe7992",
+      "message": "Use S3 packaging/ prefix and download.valkey.io URL (#51)",
       "date": "2026-04-14",
       "repo": "valkey-release-automation",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/51",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/2171fe79929d8aaadc673d117acc90cf640ad893"
     },
     {
@@ -232,26 +232,26 @@
     },
     {
       "sha": "ba12e938ea",
-      "message": "ba12e938ea",
+      "message": "fix get_commit_time issue and build logic (#49)",
       "date": "2026-03-18",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/49",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/ba12e938ea7b3797af81494fff97eec30be799f9"
     },
     {
       "sha": "618f8d8bf9",
-      "message": "618f8d8bf9",
+      "message": "fix: pass commit_id to ClientRunner instead of defaulting to HEAD (#46)",
       "date": "2026-03-17",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/46",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/618f8d8bf94635c9c20b33d3f30cb74c4382cdb5"
     },
     {
       "sha": "2639642f96",
-      "message": "2639642f96",
+      "message": "Pin Python dependencies with hashes for supply chain security (#44)",
       "date": "2026-03-02",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/44",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/2639642f96e8abe78109275ebe5e19cc7bd84f33"
     },
     {
@@ -296,58 +296,58 @@
     },
     {
       "sha": "6f08bbf02c",
-      "message": "6f08bbf02c",
+      "message": "Fix build on mac by using correct format specifier (#92)",
       "date": "2026-01-06",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/92",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/6f08bbf02caef7ec7430f8613e566a1348053a02"
     },
     {
       "sha": "5f4640d3b0",
-      "message": "5f4640d3b0",
+      "message": "Adds benchmark for release tags (#22)",
       "date": "2025-12-10",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/22",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/5f4640d3b0be859bbe926547391b489ac668fbc7"
     },
     {
       "sha": "60c6995b09",
-      "message": "60c6995b09",
+      "message": "adds manual commit array benchmarking (#20)",
       "date": "2025-12-01",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/20",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/60c6995b09014a0ccdec437054f0a23681dfcb90"
     },
     {
       "sha": "4dd7abf0ff",
-      "message": "4dd7abf0ff",
+      "message": "Start multiple runs (#19)",
       "date": "2025-11-25",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/19",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/4dd7abf0ff2afe4ff4b36bf5e7303e59048782ff"
     },
     {
       "sha": "f1afa0ab78",
-      "message": "f1afa0ab78",
+      "message": "Enhanced Benchmarks, Add Grafana Dashboard with Performance Analysis and Graph Generation (#10)",
       "date": "2025-11-18",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/10",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/f1afa0ab78dbd0de993011efbf0995b39da38f2a"
     },
     {
       "sha": "f47c4761b0",
-      "message": "f47c4761b0",
+      "message": "Adds custom valkey-benchmark option  (#9)",
       "date": "2025-09-15",
       "repo": "valkey-perf-benchmark",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/9",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/f47c4761b0498cbebb389cec390b0c6f480e81cc"
     },
     {
       "sha": "5b2f3db24c",
-      "message": "5b2f3db24c",
+      "message": "Improve build script (#67)",
       "date": "2025-06-19",
       "repo": "valkey-json",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/67",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/5b2f3db24c0135a8d8b8e5cf434c7a3d42bd91f0"
     }
   ]

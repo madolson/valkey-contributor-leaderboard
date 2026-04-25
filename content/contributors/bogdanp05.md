@@ -3,9 +3,9 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 13,
+  "score": 3,
   "commit_count": 1,
-  "review_count": 12,
+  "review_count": 2,
   "repos": [
     "libvalkey-py"
   ],
@@ -22,34 +22,34 @@
   "review_list": [
     {
       "sha": "df5c44903d",
-      "message": "df5c44903d",
+      "message": "Make skip_ifmodversion_lt skip not installed modules",
       "date": "2026-04-23",
       "repo": "valkey-py",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/302",
       "commit_url": "https://github.com/valkey-io/valkey-py/commit/df5c44903dc8e2dda733e5576324ba0ff8c4c6a0"
     },
     {
       "sha": "fa4b42204d",
-      "message": "fa4b42204d",
+      "message": "Fix `docker compose build` warnings",
       "date": "2026-04-02",
       "repo": "valkey-py",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/296",
       "commit_url": "https://github.com/valkey-io/valkey-py/commit/fa4b42204d23513ac676a15d1011bf5dafc938c2"
     },
     {
       "sha": "6a092a80eb",
-      "message": "6a092a80eb",
+      "message": "build(deps): bump rojopolis/spellcheck-github-actions",
       "date": "2026-04-01",
       "repo": "valkey-py",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/294",
       "commit_url": "https://github.com/valkey-io/valkey-py/commit/6a092a80ebd6b99d05b550abc4a774ef600f818c"
     },
     {
       "sha": "4fd11ff000",
-      "message": "4fd11ff000",
+      "message": "build(deps): bump codecov/codecov-action from 5 to 6",
       "date": "2026-04-01",
       "repo": "valkey-py",
-      "pr_url": "",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/293",
       "commit_url": "https://github.com/valkey-io/valkey-py/commit/4fd11ff0006a54faafbfd707c4e1707106ad05fa"
     },
     {
