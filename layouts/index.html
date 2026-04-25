@@ -1,0 +1,34 @@
+{{ define "main" }}
+{{ with hugo.Data.leaderboard }}
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th class="rank">#</th>
+          <th>Contributor</th>
+          <th class="commits">Commits</th>
+          <th class="repos">Repos</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range $i, $c := .contributors }}
+        <tr>
+          <td class="rank">{{ add $i 1 }}</td>
+          <td>
+            <div class="contributor">
+              <img src="{{ $c.avatar_url }}" alt="{{ $c.login }}" loading="lazy" width="32" height="32">
+              <a href="https://github.com/{{ $c.login }}">{{ $c.login }}</a>
+            </div>
+          </td>
+          <td class="commits">{{ $c.commits }}</td>
+          <td class="repos">{{ len $c.repos }}</td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+  <p class="updated">Last updated: {{ .generated }}</p>
+{{ else }}
+  <p class="empty">No data available yet. Run the fetch script to populate the leaderboard.</p>
+{{ end }}
+{{ end }}

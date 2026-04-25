@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+  <header>
+    <a href="https://valkey.io" aria-label="Valkey">
+      <img src="https://valkey.io/img/valkey-horizontal.svg" alt="Valkey" class="logo">
+    </a>
+    <h1>Contributor Leaderboard</h1>
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer>
+    <p>Powered by <a href="https://valkey.io">Valkey</a></p>
+  </footer>
+</body>
+</html>
