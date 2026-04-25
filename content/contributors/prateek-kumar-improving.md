@@ -3,9 +3,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 29,
-  "commit_count": 16,
-  "review_count": 13,
+  "score": 35,
+  "commit_count": 17,
+  "review_count": 18,
   "repos": [
     "valkey-glide-docs",
     "valkey-glide-php"
@@ -138,6 +138,14 @@
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/131",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/34f88d5f01ef69ddd67da7c45f5788619a507d5f"
+    },
+    {
+      "sha": "33067647a6",
+      "message": "PHP: Remove ValkeyGlideClusterException (#127)",
+      "date": "2026-01-22",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/127",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/33067647a602a13958deef75fd2932745a6fd101"
     }
   ],
   "review_list": [
@@ -206,6 +214,30 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b72ebd1fce644df5b3ea669ec8faabf482d2f5ff"
     },
     {
+      "sha": "180254c28b",
+      "message": "feat(jedis-compatibility): add pub sub commands jedis layer (#5286)",
+      "date": "2026-04-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5286",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/180254c28ba9e6a0675e0261b551f817c23799ef"
+    },
+    {
+      "sha": "75eb40a969",
+      "message": "feat(go): Add Valkey Search Support (#5590)",
+      "date": "2026-04-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5590",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/75eb40a96957298a9f83a16c6cce1883ce717f1e"
+    },
+    {
+      "sha": "befc8f97c8",
+      "message": "test: Add IAM authentication integration tests (#212)",
+      "date": "2026-04-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/212",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/befc8f97c8e41b67aa36821038ca9e02fa3dfb56"
+    },
+    {
       "sha": "8c37b06686",
       "message": "test: refactor IAM authentication tests (#151)",
       "date": "2026-04-12",
@@ -236,6 +268,22 @@
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/120",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/2c23ec02a9a7813414737f6670ea6de204d96d94"
+    },
+    {
+      "sha": "974a2b0f50",
+      "message": "updated how-to/security guides (#147)",
+      "date": "2026-02-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/147",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/974a2b0f509fee4fd6a812c59a36ba80afb26796"
+    },
+    {
+      "sha": "c760c162b7",
+      "message": "Moved lazy-connection and inflight request guides to how-to/connections (#146)",
+      "date": "2026-02-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/146",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/c760c162b75eaa78b875b485a145275fafac36ea"
     },
     {
       "sha": "a3eaa96708",

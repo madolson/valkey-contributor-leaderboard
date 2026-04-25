@@ -3,8 +3,8 @@
   "title": "sachinvmurthy",
   "login": "sachinvmurthy",
   "avatar_url": "https://avatars.githubusercontent.com/u/26551140?v=4",
-  "score": 4,
-  "commit_count": 2,
+  "score": 5,
+  "commit_count": 3,
   "review_count": 2,
   "repos": [
     "valkeymodule-rs"
@@ -25,6 +25,14 @@
       "repo": "valkeymodule-rs",
       "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/187",
       "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/ffe13aa5ea8d4a9da8034a19eea63b0416972793"
+    },
+    {
+      "sha": "920be5b283",
+      "message": "added client change server event (#182)",
+      "date": "2025-03-12",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/182",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/920be5b2831bfaf50a37ae081918e939bdb2090c"
     }
   ],
   "review_list": [

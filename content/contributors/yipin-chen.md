@@ -3,9 +3,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://github.com/yipin-chen.png?size=64",
-  "score": 18,
+  "score": 21,
   "commit_count": 0,
-  "review_count": 18,
+  "review_count": 21,
   "repos": [],
   "commit_list": [],
   "review_list": [
@@ -96,6 +96,30 @@
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/154",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/327dc505cbc17376d30df614b55a0010074aff23"
+    },
+    {
+      "sha": "7e0bb681c6",
+      "message": "Split cluster scan pages into concept and how-to guides (#144)",
+      "date": "2026-02-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/144",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/7e0bb681c6bd68411d476af2702f959c408e0f53"
+    },
+    {
+      "sha": "974a2b0f50",
+      "message": "updated how-to/security guides (#147)",
+      "date": "2026-02-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/147",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/974a2b0f509fee4fd6a812c59a36ba80afb26796"
+    },
+    {
+      "sha": "c10f0c648b",
+      "message": "Move client's migration guides to migration/ folders (#149)",
+      "date": "2026-02-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/149",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/c10f0c648b27c9e2729f4a3c491164012b62cb57"
     },
     {
       "sha": "313a01d95f",

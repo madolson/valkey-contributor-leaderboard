@@ -3,9 +3,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 38,
-  "commit_count": 11,
-  "review_count": 27,
+  "score": 46,
+  "commit_count": 15,
+  "review_count": 31,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -62,6 +62,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/402ff9ca3c58ebc1efbfaf9ef87ad5bd5e6a28fb"
     },
     {
+      "sha": "4115520833",
+      "message": "Update website for version 9.1.0-rc1 (#479)",
+      "date": "2026-03-17",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/479",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/4115520833bb5a01a1a3e3a209d48d292a70f221"
+    },
+    {
       "sha": "a386a4df36",
       "message": "Update versions.json and Dockerfiles for version 7.2.12 (#125)",
       "date": "2026-02-24",
@@ -94,12 +102,36 @@
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/ca08e348c92f3841db3009435e96f684bee1d311"
     },
     {
+      "sha": "73f2fecfb4",
+      "message": "Update website for version 9.0.3 (#465)",
+      "date": "2026-02-24",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/465",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/73f2fecfb4b628fae1b6dcda04bf78dedc718c4e"
+    },
+    {
       "sha": "6f90d74bd7",
       "message": "Update to version 9.0.2 (#121)",
       "date": "2026-02-03",
       "repo": "valkey-container",
       "pr_url": "https://github.com/valkey-io/valkey-container/pull/121",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/6f90d74bd7111d02e2de6a1e8c2362e9390700a8"
+    },
+    {
+      "sha": "5111fb0ee8",
+      "message": "Update to version 9.0.1 (#110)",
+      "date": "2025-12-09",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/110",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/5111fb0ee855fa5870248499b08801e675ecb9e6"
+    },
+    {
+      "sha": "4aa3b6f6c9",
+      "message": "Update to version 8.1.5 (#109)",
+      "date": "2025-12-04",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/109",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/4aa3b6f6c9aee14c4275e0b3fc7cfac1576583a6"
     }
   ],
   "review_list": [
@@ -184,6 +216,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/7d1e799382f0f59a80ba8ca2384f0a82d8d72167"
     },
     {
+      "sha": "fd86fa1ad5",
+      "message": "Valkey Search Now Delivers Expanded, Rich Search and Aggregations (#466)",
+      "date": "2026-03-17",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/466",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/fd86fa1ad5c3765a542d13ac07caf551b2fb1b67"
+    },
+    {
       "sha": "c006026043",
       "message": "Documentation changes for CLUSTERSCAN (#417)",
       "date": "2026-03-15",
@@ -246,6 +286,30 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/397",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/38c2c1d3e2c818d853b8c546e7ba827d81db77c5"
+    },
+    {
+      "sha": "a5cd486d45",
+      "message": "Fix typo in command line option for system check (#395)",
+      "date": "2025-12-19",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/395",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/a5cd486d45b7e5e6f5adbfafc4a7c93a492d0ff9"
+    },
+    {
+      "sha": "515e462bc4",
+      "message": "docs: clarify cluster-slot-stats-enabled requirement for CLUSTER SLOT-STATS (#393)",
+      "date": "2025-12-19",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/393",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/515e462bc42e9ba3c140f42aa6d86c711e0df63a"
+    },
+    {
+      "sha": "f36543bc63",
+      "message": "Initial implementation (#2)",
+      "date": "2025-08-05",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/2",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/f36543bc63c985d2b8a7a1953a41701e7fd441bb"
     },
     {
       "sha": "833d4ab47b",

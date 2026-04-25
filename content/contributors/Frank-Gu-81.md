@@ -3,8 +3,8 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey-search"
@@ -41,6 +41,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/941",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/6362bc1b08c4a607130f4f1a9f50e815928d7a06"
+    },
+    {
+      "sha": "292d1e0bfe",
+      "message": "[Draft] Add custom decorator to sleep for 10 seconds on flaky ASAN tests (#929)",
+      "date": "2026-03-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/929",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/292d1e0bfe37bf47e88d7d691ebd0c7da7403a38"
     }
   ],
   "review_list": []

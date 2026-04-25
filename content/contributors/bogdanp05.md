@@ -53,6 +53,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-py/commit/4fd11ff0006a54faafbfd707c4e1707106ad05fa"
     },
     {
+      "sha": "bb6bbaf0bb",
+      "message": "build(deps): bump release-drafter/release-drafter from 6 to 7",
+      "date": "2026-04-01",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/295",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/bb6bbaf0bb57ef7324f2bd55f8c98845e2f116ac"
+    },
+    {
       "sha": "696a4b5572",
       "message": "build(deps): bump actions/upload-artifact from 5 to 6 (#63)",
       "date": "2026-01-05",

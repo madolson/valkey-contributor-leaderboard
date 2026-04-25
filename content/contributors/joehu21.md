@@ -3,9 +3,9 @@
   "title": "joehu21",
   "login": "joehu21",
   "avatar_url": "https://avatars.githubusercontent.com/u/89549026?v=4",
-  "score": 5,
+  "score": 8,
   "commit_count": 1,
-  "review_count": 4,
+  "review_count": 7,
   "repos": [
     "valkey-rfc"
   ],
@@ -43,6 +43,30 @@
       "repo": "valkey-json",
       "pr_url": "https://github.com/valkey-io/valkey-json/pull/58",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/f584bae32e59418e52b2af9d597883b931beb33a"
+    },
+    {
+      "sha": "7b4ae98b3f",
+      "message": "Adding all JSON command definition (#42)",
+      "date": "2025-03-31",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/42",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/7b4ae98b3f9e99616aeacbf1ba5f7144db8ea0df"
+    },
+    {
+      "sha": "f59906da13",
+      "message": "Change unstable version to six digit max.:999999 (#50)",
+      "date": "2025-03-24",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/50",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/f59906da1369c0f5aa377d620bc751b962b95b28"
+    },
+    {
+      "sha": "3cb9550c61",
+      "message": "Add module release stage (#48)",
+      "date": "2025-03-20",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/48",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/3cb9550c61260f5276a7369eaa33c2c19029875c"
     },
     {
       "sha": "920db68229",

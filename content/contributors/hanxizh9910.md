@@ -3,8 +3,8 @@
   "title": "hanxizh9910",
   "login": "hanxizh9910",
   "avatar_url": "https://avatars.githubusercontent.com/u/220982061?v=4",
-  "score": 10,
-  "commit_count": 9,
+  "score": 12,
+  "commit_count": 11,
   "review_count": 1,
   "repos": [
     "valkey",
@@ -85,6 +85,22 @@
       "repo": "valkey-release-automation",
       "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/37",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/436b48fb21cbb1e68d7150bab5f64b5fbdbf475a"
+    },
+    {
+      "sha": "abd24ffa31",
+      "message": "Add support for pushing images to Amazon ECR (#97)",
+      "date": "2025-12-04",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/97",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/abd24ffa314bb5de0c8a99bea493b835fd68b621"
+    },
+    {
+      "sha": "85fe52fa84",
+      "message": "Fix: Docker build change detection for mixed file changes (#107)",
+      "date": "2025-12-04",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/107",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/85fe52fa8483660fc826b65954a6100312da48d6"
     }
   ],
   "review_list": [

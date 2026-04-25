@@ -3,8 +3,8 @@
   "title": "kurtmckee",
   "login": "kurtmckee",
   "avatar_url": "https://avatars.githubusercontent.com/u/39996?v=4",
-  "score": 8,
-  "commit_count": 7,
+  "score": 10,
+  "commit_count": 9,
   "review_count": 1,
   "repos": [
     "valkey-container",
@@ -50,6 +50,22 @@
       "repo": "valkey-py",
       "pr_url": "https://github.com/valkey-io/valkey-py/pull/296",
       "commit_url": "https://github.com/valkey-io/valkey-py/commit/fa4b42204d23513ac676a15d1011bf5dafc938c2"
+    },
+    {
+      "sha": "d776cfa13a",
+      "message": "Apply black formatting to `docs/`",
+      "date": "2026-03-28",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/272",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/d776cfa13a7a473d71265f8a196fa261349580d7"
+    },
+    {
+      "sha": "ff3de4f0c4",
+      "message": "Configure black to lint Jupyter notebooks",
+      "date": "2026-03-28",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/272",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/ff3de4f0c40ca02da4cb48242a6c222bd4dfef71"
     },
     {
       "sha": "a43e0013d4",

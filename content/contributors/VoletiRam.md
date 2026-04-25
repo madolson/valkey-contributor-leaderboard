@@ -3,9 +3,9 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 2,
+  "score": 3,
   "commit_count": 2,
-  "review_count": 0,
+  "review_count": 1,
   "repos": [
     "valkey-perf-benchmark",
     "valkeymodule-rs"
@@ -28,6 +28,15 @@
       "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/937ab523199de117435037dd2db89f5926526bb8"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "de0bb244db",
+      "message": "Slot Ownership check (#921)",
+      "date": "2026-03-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/921",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/de0bb244db58519bda3f4f6ed638512934f0f280"
+    }
+  ]
 }
 ---

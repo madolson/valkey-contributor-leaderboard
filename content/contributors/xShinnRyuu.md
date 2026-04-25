@@ -3,9 +3,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 23,
-  "commit_count": 3,
-  "review_count": 20,
+  "score": 27,
+  "commit_count": 4,
+  "review_count": 23,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -26,6 +26,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5787",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/412039d18d86e59c226991bf35276743569e2c90"
+    },
+    {
+      "sha": "0a52881ae1",
+      "message": "Allow ORT updates commits from github-actions[bot] to be signed (#5744)",
+      "date": "2026-04-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5744",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0a52881ae140996e1c92513e1902c98644f7cc1e"
     },
     {
       "sha": "df5345bf54",
@@ -222,6 +230,22 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d6f9dcaf120f0f1fd6c73729df31627f9196aef7"
     },
     {
+      "sha": "180254c28b",
+      "message": "feat(jedis-compatibility): add pub sub commands jedis layer (#5286)",
+      "date": "2026-04-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5286",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/180254c28ba9e6a0675e0261b551f817c23799ef"
+    },
+    {
+      "sha": "75eb40a969",
+      "message": "feat(go): Add Valkey Search Support (#5590)",
+      "date": "2026-04-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5590",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/75eb40a96957298a9f83a16c6cce1883ce717f1e"
+    },
+    {
       "sha": "4bc59c8114",
       "message": "PHP: Add JSON_GET and JSON_SET commands (#184)",
       "date": "2026-04-16",
@@ -244,6 +268,14 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/296",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/37ffa082f90ffd45fbf57e715e56229831a33766"
+    },
+    {
+      "sha": "4e85797c79",
+      "message": "refactor(geo): geospatial command API cleanup (#289)",
+      "date": "2026-04-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/289",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4e85797c79018376f3a9728c1a07f928b6fe9b19"
     },
     {
       "sha": "f48a350688",

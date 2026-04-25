@@ -3,9 +3,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 30,
-  "commit_count": 7,
-  "review_count": 23,
+  "score": 34,
+  "commit_count": 8,
+  "review_count": 26,
   "repos": [
     "spring-data-valkey",
     "valkey-glide"
@@ -66,6 +66,14 @@
       "repo": "spring-data-valkey",
       "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/58",
       "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/ce70c43e89ef4d9a56c5a9abc2bf7ae425cf81d0"
+    },
+    {
+      "sha": "e540811a67",
+      "message": "Fix Spring Boot OpenTelemetry example (#50)",
+      "date": "2026-01-19",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/50",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/e540811a67a00ee821d76dda424382d61547dabb"
     }
   ],
   "review_list": [
@@ -214,12 +222,36 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/33809dd9131d1248ddd8a7141447d51e81f43d75"
     },
     {
+      "sha": "1e61095d68",
+      "message": "Generic Command Interface Refactor (#292)",
+      "date": "2026-04-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/292",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/1e61095d6820d7da41d99eefbd65df89e7f06e5f"
+    },
+    {
+      "sha": "4e85797c79",
+      "message": "refactor(geo): geospatial command API cleanup (#289)",
+      "date": "2026-04-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/289",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4e85797c79018376f3a9728c1a07f928b6fe9b19"
+    },
+    {
       "sha": "8c37b06686",
       "message": "test: refactor IAM authentication tests (#151)",
       "date": "2026-04-12",
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/151",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/8c37b0668686bb866e830ef81ad3e56fdc9ed211"
+    },
+    {
+      "sha": "56459feb0c",
+      "message": "refactor(hash): hash command API cleanup (#284)",
+      "date": "2026-04-10",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/284",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/56459feb0cbc1191d8f0d499fc41f74f2d9c3ae7"
     },
     {
       "sha": "df3bfb2690",

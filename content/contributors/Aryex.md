@@ -3,10 +3,11 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 22,
-  "commit_count": 9,
-  "review_count": 13,
+  "score": 28,
+  "commit_count": 14,
+  "review_count": 14,
   "repos": [
+    "valkey-doc",
     "valkey-glide",
     "valkey-glide-docs"
   ],
@@ -82,6 +83,46 @@
       "repo": "valkey-glide-docs",
       "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/152",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/171fbfa674da94788ee5d81527e99bb24dbc31ba"
+    },
+    {
+      "sha": "7e0bb681c6",
+      "message": "Split cluster scan pages into concept and how-to guides (#144)",
+      "date": "2026-02-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/144",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/7e0bb681c6bd68411d476af2702f959c408e0f53"
+    },
+    {
+      "sha": "974a2b0f50",
+      "message": "updated how-to/security guides (#147)",
+      "date": "2026-02-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/147",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/974a2b0f509fee4fd6a812c59a36ba80afb26796"
+    },
+    {
+      "sha": "c10f0c648b",
+      "message": "Move client's migration guides to migration/ folders (#149)",
+      "date": "2026-02-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/149",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/c10f0c648b27c9e2729f4a3c491164012b62cb57"
+    },
+    {
+      "sha": "c760c162b7",
+      "message": "Moved lazy-connection and inflight request guides to how-to/connections (#146)",
+      "date": "2026-02-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/146",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/c760c162b75eaa78b875b485a145275fafac36ea"
+    },
+    {
+      "sha": "7539f2b987",
+      "message": "Add GLIDE website to glide clients and update their latest versions (#382)",
+      "date": "2025-12-04",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/382",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/7539f2b98784068b1dda4f75bb6444efef5ce934"
     }
   ],
   "review_list": [
@@ -108,6 +149,14 @@
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/185",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/212197e1d9de2fe9de748a7904660b29016e76c3"
+    },
+    {
+      "sha": "0a52881ae1",
+      "message": "Allow ORT updates commits from github-actions[bot] to be signed (#5744)",
+      "date": "2026-04-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5744",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0a52881ae140996e1c92513e1902c98644f7cc1e"
     },
     {
       "sha": "4bc59c8114",

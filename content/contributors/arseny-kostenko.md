@@ -3,9 +3,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://github.com/arseny-kostenko.png?size=64",
-  "score": 16,
+  "score": 21,
   "commit_count": 0,
-  "review_count": 16,
+  "review_count": 21,
   "repos": [],
   "commit_list": [],
   "review_list": [
@@ -136,6 +136,46 @@
       "repo": "valkey-admin",
       "pr_url": "https://github.com/valkey-io/valkey-admin/pull/303",
       "commit_url": "https://github.com/valkey-io/valkey-admin/commit/0b59d494da549f34345d8d7876fc8356dacc4450"
+    },
+    {
+      "sha": "9bfd363d4b",
+      "message": "Update version to 0.1.1.",
+      "date": "2026-04-22",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/303",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/9bfd363d4bfdcc408178ce79e74470f36fb37959"
+    },
+    {
+      "sha": "afee82c662",
+      "message": "Merge pull request #302 from valkey-io/revamp-hot-keys-view",
+      "date": "2026-04-22",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/302",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/afee82c662201df7b729af1a9957cae71dcce90d"
+    },
+    {
+      "sha": "25b0454069",
+      "message": "addressed two comments",
+      "date": "2026-04-22",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/302",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/25b04540698bb5953ebffaca1e816c1bf5ba604e"
+    },
+    {
+      "sha": "1e862e133e",
+      "message": "Fix to only use metrics orchestrator when deployment type is Web (#301)",
+      "date": "2026-04-22",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/301",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/1e862e133e9d0c44468286ebca121e43c851b6ab"
+    },
+    {
+      "sha": "8bf5abc1ac",
+      "message": "fixed colour issues for nodes with euqal hotkeys",
+      "date": "2026-04-22",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/302",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/8bf5abc1ac0874c12105692a13e2b880e22c73c4"
     }
   ]
 }

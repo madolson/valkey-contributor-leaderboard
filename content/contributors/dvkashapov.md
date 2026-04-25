@@ -3,11 +3,12 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 14,
-  "commit_count": 2,
+  "score": 15,
+  "commit_count": 3,
   "review_count": 12,
   "repos": [
     "valkey",
+    "valkey-doc",
     "valkey-luajit"
   ],
   "commit_list": [
@@ -26,6 +27,14 @@
       "repo": "valkey-luajit",
       "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/6",
       "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/93941191fdd3b4721fb8bfa0e009707dd027c750"
+    },
+    {
+      "sha": "5a428b36aa",
+      "message": "Fix link checker job (change quickstart link to index.md) (#392)",
+      "date": "2025-12-03",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/392",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/5a428b36aa0dd2d115afaba402ac16f33b807ae9"
     }
   ],
   "review_list": [

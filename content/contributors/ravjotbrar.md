@@ -3,8 +3,8 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 6,
-  "commit_count": 4,
+  "score": 7,
+  "commit_count": 5,
   "review_count": 2,
   "repos": [
     "valkey-admin"
@@ -41,6 +41,14 @@
       "repo": "valkey-admin",
       "pr_url": "https://github.com/valkey-io/valkey-admin/pull/305",
       "commit_url": "https://github.com/valkey-io/valkey-admin/commit/fc86e42303a0b3208494e79e8e76d7f8d454a358"
+    },
+    {
+      "sha": "1e862e133e",
+      "message": "Fix to only use metrics orchestrator when deployment type is Web (#301)",
+      "date": "2026-04-22",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/301",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/1e862e133e9d0c44468286ebca121e43c851b6ab"
     }
   ],
   "review_list": [

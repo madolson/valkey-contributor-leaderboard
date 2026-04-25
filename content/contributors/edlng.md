@@ -3,8 +3,8 @@
   "title": "edlng",
   "login": "edlng",
   "avatar_url": "https://avatars.githubusercontent.com/u/76571219?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey-glide",
@@ -34,6 +34,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5661",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d6f9dcaf120f0f1fd6c73729df31627f9196aef7"
+    },
+    {
+      "sha": "75eb40a969",
+      "message": "feat(go): Add Valkey Search Support (#5590)",
+      "date": "2026-04-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5590",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/75eb40a96957298a9f83a16c6cce1883ce717f1e"
     }
   ],
   "review_list": []

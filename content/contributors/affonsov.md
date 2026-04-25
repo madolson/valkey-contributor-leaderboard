@@ -3,9 +3,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 19,
-  "commit_count": 9,
-  "review_count": 10,
+  "score": 21,
+  "commit_count": 10,
+  "review_count": 11,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -52,6 +52,14 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/303",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/65580e85439395e0e679dee2b5844ca494f86ee0"
+    },
+    {
+      "sha": "befc8f97c8",
+      "message": "test: Add IAM authentication integration tests (#212)",
+      "date": "2026-04-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/212",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/befc8f97c8e41b67aa36821038ca9e02fa3dfb56"
     },
     {
       "sha": "8c37b06686",
@@ -166,6 +174,14 @@
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/144",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/6c56068cd6b4deae3bfbd7d9f644e76726a060dd"
+    },
+    {
+      "sha": "5bfb722249",
+      "message": "PHP Pub/Sub Implementation (#121)",
+      "date": "2026-01-19",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/121",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/5bfb7222495f03c56797da192677111519522607"
     }
   ]
 }

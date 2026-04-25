@@ -3,9 +3,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 15,
-  "commit_count": 6,
-  "review_count": 9,
+  "score": 20,
+  "commit_count": 9,
+  "review_count": 11,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -20,6 +20,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3498",
       "commit_url": "https://github.com/valkey-io/valkey/commit/c403eecd5b7dbfdf737e8c6aae8e1d022727ba50"
+    },
+    {
+      "sha": "087280e3f8",
+      "message": "Rewrite the faster failover test case (#3495)",
+      "date": "2026-04-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3495",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/087280e3f87ccbdc13714bf94f8288de8888c08f"
+    },
+    {
+      "sha": "a34f125d8e",
+      "message": "Change rdbSaveStreamConsumers return type from size_t to ssize_t (#3499)",
+      "date": "2026-04-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3499",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a34f125d8e18201bc51878e2848c6b6187a8a3cb"
     },
     {
       "sha": "a59b1feb49",
@@ -60,6 +76,14 @@
       "repo": "valkey-json",
       "pr_url": "https://github.com/valkey-io/valkey-json/pull/90",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/3a29d8a429ac5ce6d5d5ca18b4d36af0eb03c477"
+    },
+    {
+      "sha": "95f2adffa5",
+      "message": "Add acl_access_denied_tls_cert info field to INFO command (#387)",
+      "date": "2025-12-04",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/387",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/95f2adffa5df819f22f28d506e6a009a23f628ec"
     }
   ],
   "review_list": [
@@ -102,6 +126,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3516",
       "commit_url": "https://github.com/valkey-io/valkey/commit/4a42c95853c0f3978715cb509a774f457edc182b"
+    },
+    {
+      "sha": "8a91a12398",
+      "message": "Unique samples in hashtableSampleEntries (#3460)",
+      "date": "2026-04-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3460",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8a91a123980bf7715a851792b5f00c45b993aeba"
+    },
+    {
+      "sha": "baa5a48b5a",
+      "message": "Env: Read VALKEYCLI_HOST and VALKEYCLI_PORT environment variables (#3402)",
+      "date": "2026-04-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3402",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/baa5a48b5acb2afebdf463ca5b91f3ad77bdaec6"
     },
     {
       "sha": "2cbb86b076",

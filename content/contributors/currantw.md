@@ -3,9 +3,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 24,
-  "commit_count": 14,
-  "review_count": 10,
+  "score": 32,
+  "commit_count": 16,
+  "review_count": 16,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -92,6 +92,22 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/296",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/37ffa082f90ffd45fbf57e715e56229831a33766"
+    },
+    {
+      "sha": "4e85797c79",
+      "message": "refactor(geo): geospatial command API cleanup (#289)",
+      "date": "2026-04-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/289",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4e85797c79018376f3a9728c1a07f928b6fe9b19"
+    },
+    {
+      "sha": "56459feb0c",
+      "message": "refactor(hash): hash command API cleanup (#284)",
+      "date": "2026-04-10",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/284",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/56459feb0cbc1191d8f0d499fc41f74f2d9c3ae7"
     },
     {
       "sha": "3b70239754",
@@ -208,6 +224,30 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/df5345bf545855a668414ccfccaa94ea43ff5913"
     },
     {
+      "sha": "1e61095d68",
+      "message": "Generic Command Interface Refactor (#292)",
+      "date": "2026-04-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/292",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/1e61095d6820d7da41d99eefbd65df89e7f06e5f"
+    },
+    {
+      "sha": "a050f73c2c",
+      "message": "fix: memory leaks for commands and pubsub (#300)",
+      "date": "2026-04-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/300",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/a050f73c2ccb1922b35855c8ced911078b9a9aa4"
+    },
+    {
+      "sha": "befc8f97c8",
+      "message": "test: Add IAM authentication integration tests (#212)",
+      "date": "2026-04-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/212",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/befc8f97c8e41b67aa36821038ca9e02fa3dfb56"
+    },
+    {
       "sha": "607128e55f",
       "message": "PHP: Update approved license for aws-lc-sys:0.39.0 (#176)",
       "date": "2026-03-27",
@@ -230,6 +270,30 @@
       "repo": "valkey-glide-docs",
       "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/176",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/7278a6a343c1d3ee60fcb71d57bd23bd2c21159e"
+    },
+    {
+      "sha": "33067647a6",
+      "message": "PHP: Remove ValkeyGlideClusterException (#127)",
+      "date": "2026-01-22",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/127",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/33067647a602a13958deef75fd2932745a6fd101"
+    },
+    {
+      "sha": "82bff0b45a",
+      "message": "perf(php): optimize struct member ordering to reduce padding (#111)",
+      "date": "2026-01-09",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/111",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/82bff0b45a1ade28aefa00627ecde7f3d8f58672"
+    },
+    {
+      "sha": "eb79b9dce4",
+      "message": "feat: add markdown linting support for developers (#110)",
+      "date": "2026-01-06",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/110",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/eb79b9dce419f88706f0e472396a53d22c480ae4"
     }
   ]
 }

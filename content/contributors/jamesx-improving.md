@@ -3,9 +3,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 8,
+  "score": 9,
   "commit_count": 3,
-  "review_count": 5,
+  "review_count": 6,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -60,6 +60,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5787",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/412039d18d86e59c226991bf35276743569e2c90"
+    },
+    {
+      "sha": "0a52881ae1",
+      "message": "Allow ORT updates commits from github-actions[bot] to be signed (#5744)",
+      "date": "2026-04-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5744",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0a52881ae140996e1c92513e1902c98644f7cc1e"
     },
     {
       "sha": "df5345bf54",

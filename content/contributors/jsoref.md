@@ -3,12 +3,13 @@
   "title": "jsoref",
   "login": "jsoref",
   "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "iovalkey",
     "valkey-bloom",
+    "valkey-hashes",
     "valkey-release-automation",
     "valkey-test-framework"
   ],
@@ -44,6 +45,14 @@
       "repo": "valkey-bloom",
       "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/68",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/223d780d23b76e7ddfadf800471a1d9b191bca3f"
+    },
+    {
+      "sha": "7dbc77db47",
+      "message": "spelling: github (#11)",
+      "date": "2025-06-16",
+      "repo": "valkey-hashes",
+      "pr_url": "https://github.com/valkey-io/valkey-hashes/pull/11",
+      "commit_url": "https://github.com/valkey-io/valkey-hashes/commit/7dbc77db476e602e9c48cf02dcd60c7728411669"
     }
   ],
   "review_list": []

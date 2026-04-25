@@ -3,9 +3,9 @@
   "title": "nilanshu-sharma",
   "login": "nilanshu-sharma",
   "avatar_url": "https://avatars.githubusercontent.com/u/220134298?v=4",
-  "score": 16,
+  "score": 21,
   "commit_count": 2,
-  "review_count": 14,
+  "review_count": 19,
   "repos": [
     "valkey-swift"
   ],
@@ -139,6 +139,46 @@
       "repo": "valkey-swift",
       "pr_url": "https://github.com/valkey-io/valkey-swift/pull/364",
       "commit_url": "https://github.com/valkey-io/valkey-swift/commit/d86b5cf4354400ed745e96c25e520ad174af4ed4"
+    },
+    {
+      "sha": "8f07296069",
+      "message": "Add regular topology refresh to ValkeyClient (#361)",
+      "date": "2026-03-06",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/361",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/8f072960697369526b35993eed0f41837b1bc5c4"
+    },
+    {
+      "sha": "7b6892cddf",
+      "message": "Add graceful shutdown to ValkeyClusterClient (#362)",
+      "date": "2026-03-06",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/362",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/7b6892cddf215f3157f1aecb9524fa26a08b895c"
+    },
+    {
+      "sha": "412557edcb",
+      "message": "Add timers to ValkeyClient (#360)",
+      "date": "2026-03-05",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/360",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/412557edcbdd38a279c95189175a53504c492569"
+    },
+    {
+      "sha": "541eb18fb4",
+      "message": "RescheduleIdleTimer change from postgres connection pool (#356)",
+      "date": "2026-03-04",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/356",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/541eb18fb4d3bcc64f9431a9441a1306973d70c3"
+    },
+    {
+      "sha": "b327d64a40",
+      "message": "ValkeyClient: Retry pipelined commands (#353)",
+      "date": "2026-03-01",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/353",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/b327d64a40bd5a958f00f724823c7953d67c4790"
     }
   ]
 }

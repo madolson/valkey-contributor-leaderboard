@@ -3,9 +3,9 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 71,
-  "commit_count": 28,
-  "review_count": 43,
+  "score": 85,
+  "commit_count": 37,
+  "review_count": 48,
   "repos": [
     "valkey-bloom",
     "valkey-bundle",
@@ -83,6 +83,22 @@
       "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/27f0c5894e9495138a949c54615060dba83d7204"
     },
     {
+      "sha": "d604c753f0",
+      "message": "Don't push PR if not changes to versions.json",
+      "date": "2026-03-12",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/91",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/d604c753f047fc686176612e7b43591a2f94555a"
+    },
+    {
+      "sha": "efbb9ebc7b",
+      "message": "Only Update Module Minor Versions when Valkey release a Minor Version (#87)",
+      "date": "2026-02-27",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/87",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/efbb9ebc7b7ef7b0328f5df155926a01ddf675f0"
+    },
+    {
       "sha": "81aa06fb83",
       "message": "Adding New Workflow to test a PR (#65)",
       "date": "2026-02-23",
@@ -121,6 +137,22 @@
       "repo": "valkey-container",
       "pr_url": "https://github.com/valkey-io/valkey-container/pull/122",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/ff39ed875a507d96d902a23286bfe0dbc9aefde8"
+    },
+    {
+      "sha": "ca4340fb55",
+      "message": "Adding Validation For Valkey Node Logs (#60)",
+      "date": "2026-01-27",
+      "repo": "valkey-fuzzer",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/60",
+      "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/ca4340fb55d9affe7bf3f25d813f067cfcff48d7"
+    },
+    {
+      "sha": "bfe8528623",
+      "message": "Fix Topology Validation Errors (#59)",
+      "date": "2026-01-12",
+      "repo": "valkey-fuzzer",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/59",
+      "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/bfe8528623d2d391b677651acb8034072db81aba"
     },
     {
       "sha": "a14de281b3",
@@ -241,6 +273,46 @@
       "repo": "valkey-ldap",
       "pr_url": "https://github.com/valkey-io/valkey-ldap/pull/49",
       "commit_url": "https://github.com/valkey-io/valkey-ldap/commit/171aa4098126baf45f6c328453d9f617b7b17d2f"
+    },
+    {
+      "sha": "56d0eb7142",
+      "message": "Automates PR creation on Valkey website for new release (#13)",
+      "date": "2025-04-17",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/13",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/56d0eb7142fa00ffa07f65083521193956107ae0"
+    },
+    {
+      "sha": "04c7edc81e",
+      "message": "Updated the build to only `USE_FAST_FLOAT` when the version is release is >= 8.1 (#19)",
+      "date": "2025-04-17",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/19",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/04c7edc81e2ef0d0849f5bcca2ec2ef7a72bcb8d"
+    },
+    {
+      "sha": "5313174344",
+      "message": "Added `USE_FAST_FLOAT` to the binaries (#18)",
+      "date": "2025-04-10",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/18",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/5313174344413cc75f444be4999d26b81e08bdae"
+    },
+    {
+      "sha": "533678038c",
+      "message": "Automated dockerhub-description update whenever a new version is released (#11)",
+      "date": "2025-03-27",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/11",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/533678038c1c49bfde44dbfecb93b6f38069379b"
+    },
+    {
+      "sha": "d5f9a31347",
+      "message": "Update README.md (#12)",
+      "date": "2025-03-27",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/12",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/d5f9a3134788cf637d6e4e293b9444fcb7bbac94"
     }
   ],
   "review_list": [
@@ -405,6 +477,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/402ff9ca3c58ebc1efbfaf9ef87ad5bd5e6a28fb"
     },
     {
+      "sha": "4115520833",
+      "message": "Update website for version 9.1.0-rc1 (#479)",
+      "date": "2026-03-17",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/479",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/4115520833bb5a01a1a3e3a209d48d292a70f221"
+    },
+    {
       "sha": "1fdda283c7",
       "message": "Add PR-triggered fuzzer workflow with strict validation (#68)",
       "date": "2026-03-14",
@@ -467,6 +547,22 @@
       "repo": "valkey-container",
       "pr_url": "https://github.com/valkey-io/valkey-container/pull/119",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/61ee01e1e54d2f538ec2dda52634d845544eb0db"
+    },
+    {
+      "sha": "e5230d296d",
+      "message": "Automated Updates for Valkey Bundle (#88)",
+      "date": "2026-02-25",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/88",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/e5230d296d940350a39dd5e4f79b45cd387615bc"
+    },
+    {
+      "sha": "e5230d296d",
+      "message": "Automated Updates for Valkey Bundle (#88)",
+      "date": "2026-02-25",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/88",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/e5230d296d940350a39dd5e4f79b45cd387615bc"
     },
     {
       "sha": "d1005c1b90",
@@ -563,6 +659,22 @@
       "repo": "valkey-release-automation",
       "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/36",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/1fab74be63f936bc186b5ccffa206391244e83d0"
+    },
+    {
+      "sha": "f4233b5be9",
+      "message": "Remove VOLUME command (#84)",
+      "date": "2025-12-04",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/84",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/f4233b5be990e06327d879b07b6704a770b3253f"
+    },
+    {
+      "sha": "85fe52fa84",
+      "message": "Fix: Docker build change detection for mixed file changes (#107)",
+      "date": "2025-12-04",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/107",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/85fe52fa8483660fc826b65954a6100312da48d6"
     },
     {
       "sha": "a8ebb2ce94",

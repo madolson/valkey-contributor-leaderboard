@@ -3,12 +3,13 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 53,
-  "commit_count": 16,
-  "review_count": 37,
+  "score": 68,
+  "commit_count": 20,
+  "review_count": 48,
   "repos": [
     "valkey-bloom",
     "valkey-doc",
+    "valkey-io.github.io",
     "valkey-rfc",
     "valkey-search",
     "valkey-test-framework"
@@ -37,6 +38,22 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/934",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/0b51c5595eaa1698bfe3424a1dfbc5314340c9b9"
+    },
+    {
+      "sha": "de0bb244db",
+      "message": "Slot Ownership check (#921)",
+      "date": "2026-03-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/921",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/de0bb244db58519bda3f4f6ed638512934f0f280"
+    },
+    {
+      "sha": "fd86fa1ad5",
+      "message": "Valkey Search Now Delivers Expanded, Rich Search and Aggregations (#466)",
+      "date": "2026-03-17",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/466",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/fd86fa1ad5c3765a542d13ac07caf551b2fb1b67"
     },
     {
       "sha": "a68614b6e3",
@@ -119,6 +136,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/c7905808e334b18271c5674aead722781d3778be"
     },
     {
+      "sha": "8c456a77fa",
+      "message": "Add examples of (1) common setup per class and serial test execution (2) replication testing",
+      "date": "2025-04-15",
+      "repo": "valkey-test-framework",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/2",
+      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/8c456a77fa5c4b036861d82d0c864e429c0ab8f1"
+    },
+    {
       "sha": "148930ed71",
       "message": "Cleaning up usage of valkey-test-framework (#57)",
       "date": "2025-03-31",
@@ -133,6 +158,14 @@
       "repo": "valkey-bloom",
       "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/59",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/5d514e051cb8ab8533a75c3d1cc295e1e52384a9"
+    },
+    {
+      "sha": "d23399a418",
+      "message": "Update development script's tests use module extensions from different platforms + Define default/unstable version, stage + add placeholder release notes (#52)",
+      "date": "2025-03-21",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/52",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/d23399a41803d97770fbbd462e56bc3f79c2a0e4"
     },
     {
       "sha": "c2e2cb4d1e",
@@ -271,6 +304,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/930",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/d1bf811586c5ab71ecffccc96d57e4aa3b1934a2"
+    },
+    {
+      "sha": "2c45f4413f",
+      "message": "deflake test_multidb_slot_migration_CME (#927)",
+      "date": "2026-03-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/927",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2c45f4413fc1978bb91d6895f37b247a3563ec3c"
     },
     {
       "sha": "9b774acd55",
@@ -439,6 +480,86 @@
       "repo": "valkey-bloom",
       "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/56",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/d6b8763bcc79537d9752cb21a501357dba69c382"
+    },
+    {
+      "sha": "9d403c4c77",
+      "message": "Adding a quick start guide for bloom (#54)",
+      "date": "2025-03-28",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/54",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/9d403c4c7746ceac8dec69326409746b53984d83"
+    },
+    {
+      "sha": "f7ce6af5f4",
+      "message": "Making it so all servers are torn down correctly",
+      "date": "2025-03-28",
+      "repo": "valkey-test-framework",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/1",
+      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/f7ce6af5f49779b7dcd8b8a03c761656ae05387f"
+    },
+    {
+      "sha": "60513c7bb1",
+      "message": "Removing unnecessary code form valkey_test_case (#51)",
+      "date": "2025-03-27",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/51",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/60513c7bb1a3a053feeb4b6f20cb39d204723fcd"
+    },
+    {
+      "sha": "70facf92ce",
+      "message": "implementing filter (#188)",
+      "date": "2025-03-26",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/188",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/70facf92ce42cfd747be1bc83cb57704de770b97"
+    },
+    {
+      "sha": "70facf92ce",
+      "message": "implementing filter (#188)",
+      "date": "2025-03-26",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/188",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/70facf92ce42cfd747be1bc83cb57704de770b97"
+    },
+    {
+      "sha": "f59906da13",
+      "message": "Change unstable version to six digit max.:999999 (#50)",
+      "date": "2025-03-24",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/50",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/f59906da1369c0f5aa377d620bc751b962b95b28"
+    },
+    {
+      "sha": "e308fedf1b",
+      "message": "Adding tightening ratio to bf.info. Making BF.BLOOM-EXPANSION also (#50)",
+      "date": "2025-03-12",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/50",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/e308fedf1b0fc9217fd377b173578c7d84675302"
+    },
+    {
+      "sha": "12fa9358a3",
+      "message": "Adding usage of must_obey_client in wrapper to improve performace (#45)",
+      "date": "2025-03-11",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/45",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/12fa9358a30a91172f6af6a9859239e86c2042b6"
+    },
+    {
+      "sha": "99c9ad312b",
+      "message": "Fixing memory leak for ValkeyGILGuard<ValkeyString> CONFIG GET/SET (#181)",
+      "date": "2025-03-07",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/181",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/99c9ad312b4a248172543a1170572fef4b7d34a9"
+    },
+    {
+      "sha": "99c9ad312b",
+      "message": "Fixing memory leak for ValkeyGILGuard<ValkeyString> CONFIG GET/SET (#181)",
+      "date": "2025-03-07",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/181",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/99c9ad312b4a248172543a1170572fef4b7d34a9"
     }
   ]
 }

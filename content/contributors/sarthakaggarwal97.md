@@ -3,9 +3,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 40,
+  "score": 49,
   "commit_count": 13,
-  "review_count": 27,
+  "review_count": 36,
   "repos": [
     "valkey",
     "valkey-fuzzer",
@@ -183,6 +183,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/4a42c95853c0f3978715cb509a774f457edc182b"
     },
     {
+      "sha": "8a91a12398",
+      "message": "Unique samples in hashtableSampleEntries (#3460)",
+      "date": "2026-04-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3460",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8a91a123980bf7715a851792b5f00c45b993aeba"
+    },
+    {
       "sha": "1d30951bf7",
       "message": "Bump actions/upload-artifact from 7.0.0 to 7.0.1 (#95)",
       "date": "2026-04-15",
@@ -205,6 +213,14 @@
       "repo": "valkey-perf-benchmark",
       "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/54",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/38f261db22fc18d4810d2dd4123c33dcf40b3a4a"
+    },
+    {
+      "sha": "a34f125d8e",
+      "message": "Change rdbSaveStreamConsumers return type from size_t to ssize_t (#3499)",
+      "date": "2026-04-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3499",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a34f125d8e18201bc51878e2848c6b6187a8a3cb"
     },
     {
       "sha": "2171fe7992",
@@ -245,6 +261,22 @@
       "repo": "valkey-perf-benchmark",
       "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/46",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/618f8d8bf94635c9c20b33d3f30cb74c4382cdb5"
+    },
+    {
+      "sha": "d604c753f0",
+      "message": "Don't push PR if not changes to versions.json",
+      "date": "2026-03-12",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/91",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/d604c753f047fc686176612e7b43591a2f94555a"
+    },
+    {
+      "sha": "06d53ac0cd",
+      "message": "Update DockerHub description for search 1.2.0-rc3",
+      "date": "2026-03-11",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/90",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/06d53ac0cd8b31974db3e0b269ad9f6982a1bed7"
     },
     {
       "sha": "2639642f96",
@@ -295,6 +327,22 @@
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/ff39ed875a507d96d902a23286bfe0dbc9aefde8"
     },
     {
+      "sha": "ca4340fb55",
+      "message": "Adding Validation For Valkey Node Logs (#60)",
+      "date": "2026-01-27",
+      "repo": "valkey-fuzzer",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/60",
+      "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/ca4340fb55d9affe7bf3f25d813f067cfcff48d7"
+    },
+    {
+      "sha": "bfe8528623",
+      "message": "Fix Topology Validation Errors (#59)",
+      "date": "2026-01-12",
+      "repo": "valkey-fuzzer",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/59",
+      "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/bfe8528623d2d391b677651acb8034072db81aba"
+    },
+    {
       "sha": "6f08bbf02c",
       "message": "Fix build on mac by using correct format specifier (#92)",
       "date": "2026-01-06",
@@ -341,6 +389,38 @@
       "repo": "valkey-perf-benchmark",
       "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/9",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/f47c4761b0498cbebb389cec390b0c6f480e81cc"
+    },
+    {
+      "sha": "7c71481f18",
+      "message": "Corrects checkout and cloning logic  (#6)",
+      "date": "2025-08-25",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/6",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/7c71481f1830b0d552f5f97832ba2a82254a0162"
+    },
+    {
+      "sha": "3e631d4e84",
+      "message": "Remove redundant prints (#5)",
+      "date": "2025-08-19",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/5",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/3e631d4e84122ad63a707b6fe07683ed3354f8b9"
+    },
+    {
+      "sha": "22a1775277",
+      "message": "Fix issues while running PR Benchmarking (#3)",
+      "date": "2025-08-07",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/3",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/22a1775277356689ded2d501777a41e809e57433"
+    },
+    {
+      "sha": "f36543bc63",
+      "message": "Initial implementation (#2)",
+      "date": "2025-08-05",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/2",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/f36543bc63c985d2b8a7a1953a41701e7fd441bb"
     },
     {
       "sha": "5b2f3db24c",

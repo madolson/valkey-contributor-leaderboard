@@ -3,9 +3,9 @@
   "title": "ikolomi",
   "login": "ikolomi",
   "avatar_url": "https://avatars.githubusercontent.com/u/152477505?v=4",
-  "score": 16,
+  "score": 17,
   "commit_count": 2,
-  "review_count": 14,
+  "review_count": 15,
   "repos": [
     "spring-data-valkey"
   ],
@@ -139,6 +139,14 @@
       "repo": "spring-data-valkey",
       "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/61",
       "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/759a50ce48ab51b41ee56ef85fc1276f21176e7f"
+    },
+    {
+      "sha": "e540811a67",
+      "message": "Fix Spring Boot OpenTelemetry example (#50)",
+      "date": "2026-01-19",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/50",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/e540811a67a00ee821d76dda424382d61547dabb"
     }
   ]
 }

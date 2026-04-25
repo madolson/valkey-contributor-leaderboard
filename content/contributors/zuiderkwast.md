@@ -3,11 +3,12 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 24,
-  "commit_count": 4,
-  "review_count": 20,
+  "score": 37,
+  "commit_count": 5,
+  "review_count": 32,
   "repos": [
     "libvalkey",
+    "valkey",
     "valkey-rfc"
   ],
   "commit_list": [
@@ -18,6 +19,14 @@
       "repo": "libvalkey",
       "pr_url": "https://github.com/valkey-io/libvalkey/pull/302",
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/e4b548b3284cecdeeba19f4a6b949b1d92636653"
+    },
+    {
+      "sha": "8a91a12398",
+      "message": "Unique samples in hashtableSampleEntries (#3460)",
+      "date": "2026-04-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3460",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8a91a123980bf7715a851792b5f00c45b993aeba"
     },
     {
       "sha": "b9285b5fcc",
@@ -102,6 +111,30 @@
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/61b27c4530f12b305d2a807babeb6be62e5d383c"
     },
     {
+      "sha": "087280e3f8",
+      "message": "Rewrite the faster failover test case (#3495)",
+      "date": "2026-04-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3495",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/087280e3f87ccbdc13714bf94f8288de8888c08f"
+    },
+    {
+      "sha": "b2e0f6322d",
+      "message": "Add cluster bus network traffic usage metric in bytes (#3396)",
+      "date": "2026-04-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3396",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b2e0f6322d288bfdb5076e01791402fe790f0892"
+    },
+    {
+      "sha": "a34f125d8e",
+      "message": "Change rdbSaveStreamConsumers return type from size_t to ssize_t (#3499)",
+      "date": "2026-04-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3499",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a34f125d8e18201bc51878e2848c6b6187a8a3cb"
+    },
+    {
       "sha": "53c039753f",
       "message": "Add multi-engine register support",
       "date": "2026-03-27",
@@ -180,6 +213,78 @@
       "repo": "libvalkey",
       "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/31aa8c8aaf15882439e8d4b828926368868a3b52"
+    },
+    {
+      "sha": "a50271af6f",
+      "message": "fixup: only run CI-job solaris-developer-studio from `valkey-io/libvalkey` repo",
+      "date": "2026-01-20",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/a50271af6f7c33b6f4352dd9d323909065d5b2c9"
+    },
+    {
+      "sha": "29023eb36c",
+      "message": "Add valkey-json, valkey-bloom, valkey-search to cmddef.h",
+      "date": "2026-01-20",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/29023eb36cf7047b26ba9fecde73a683f98835d9"
+    },
+    {
+      "sha": "ae756bc89f",
+      "message": "Update cmddef.h to Valkey 9.0.0",
+      "date": "2026-01-20",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/ae756bc89fd81a8c4970110b4e4425c82af2f07a"
+    },
+    {
+      "sha": "21abd737e4",
+      "message": "Replace problematic alloca() with fixed stack alloc",
+      "date": "2026-01-20",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/21abd737e4b34052db3dfe34c225eccc7edbd5f4"
+    },
+    {
+      "sha": "1251bb9298",
+      "message": "Add unittests of parsing unknown command/subcommand",
+      "date": "2026-01-20",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/1251bb9298c2554ef2c59878198b9aed1f99efe3"
+    },
+    {
+      "sha": "5111fb0ee8",
+      "message": "Update to version 9.0.1 (#110)",
+      "date": "2025-12-09",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/110",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/5111fb0ee855fa5870248499b08801e675ecb9e6"
+    },
+    {
+      "sha": "4aa3b6f6c9",
+      "message": "Update to version 8.1.5 (#109)",
+      "date": "2025-12-04",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/109",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/4aa3b6f6c9aee14c4275e0b3fc7cfac1576583a6"
+    },
+    {
+      "sha": "95f2adffa5",
+      "message": "Add acl_access_denied_tls_cert info field to INFO command (#387)",
+      "date": "2025-12-04",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/387",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/95f2adffa5df819f22f28d506e6a009a23f628ec"
+    },
+    {
+      "sha": "5a428b36aa",
+      "message": "Fix link checker job (change quickstart link to index.md) (#392)",
+      "date": "2025-12-03",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/392",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/5a428b36aa0dd2d115afaba402ac16f33b807ae9"
     },
     {
       "sha": "833d4ab47b",

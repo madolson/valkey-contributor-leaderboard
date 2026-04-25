@@ -3,11 +3,12 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 20,
-  "commit_count": 5,
-  "review_count": 15,
+  "score": 30,
+  "commit_count": 12,
+  "review_count": 18,
   "repos": [
-    "libvalkey"
+    "libvalkey",
+    "valkey-operator"
   ],
   "commit_list": [
     {
@@ -35,6 +36,22 @@
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/61b27c4530f12b305d2a807babeb6be62e5d383c"
     },
     {
+      "sha": "c5c54ac1d0",
+      "message": "Correcting controller-gen version in valkeynodes.valkey.io (#112)",
+      "date": "2026-03-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/112",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c5c54ac1d0ce659c54a4fc334ed7c01aa83fba02"
+    },
+    {
+      "sha": "04fb400765",
+      "message": "Add additional checks in CI (#109)",
+      "date": "2026-03-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/109",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/04fb4007650c8ac19687f296e2adb5a245cc8641"
+    },
+    {
       "sha": "8f9051ae0a",
       "message": "Correcting command parser bug (#277)",
       "date": "2026-01-23",
@@ -49,6 +66,46 @@
       "repo": "libvalkey",
       "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/31aa8c8aaf15882439e8d4b828926368868a3b52"
+    },
+    {
+      "sha": "a50271af6f",
+      "message": "fixup: only run CI-job solaris-developer-studio from `valkey-io/libvalkey` repo",
+      "date": "2026-01-20",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/a50271af6f7c33b6f4352dd9d323909065d5b2c9"
+    },
+    {
+      "sha": "29023eb36c",
+      "message": "Add valkey-json, valkey-bloom, valkey-search to cmddef.h",
+      "date": "2026-01-20",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/29023eb36cf7047b26ba9fecde73a683f98835d9"
+    },
+    {
+      "sha": "ae756bc89f",
+      "message": "Update cmddef.h to Valkey 9.0.0",
+      "date": "2026-01-20",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/ae756bc89fd81a8c4970110b4e4425c82af2f07a"
+    },
+    {
+      "sha": "21abd737e4",
+      "message": "Replace problematic alloca() with fixed stack alloc",
+      "date": "2026-01-20",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/21abd737e4b34052db3dfe34c225eccc7edbd5f4"
+    },
+    {
+      "sha": "1251bb9298",
+      "message": "Add unittests of parsing unknown command/subcommand",
+      "date": "2026-01-20",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/1251bb9298c2554ef2c59878198b9aed1f99efe3"
     }
   ],
   "review_list": [
@@ -141,12 +198,36 @@
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/89eb055a4896bcc907fc816366d6b953e937796d"
     },
     {
+      "sha": "e6d9dad5c6",
+      "message": "Implement strategic merge patch (#62) (#108)",
+      "date": "2026-03-16",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/108",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/e6d9dad5c62c529a21a0931351185a6c1ed45e00"
+    },
+    {
+      "sha": "78139b06ee",
+      "message": "Add scale-in support with slot draining (#107)",
+      "date": "2026-03-12",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/107",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/78139b06eef1829cbb5bbea44ed6d7b2b7a4383a"
+    },
+    {
       "sha": "0fa8098772",
       "message": "Additional overflow protection for MAP/ATTR",
       "date": "2026-03-11",
       "repo": "libvalkey",
       "pr_url": "https://github.com/valkey-io/libvalkey/pull/292",
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/0fa8098772fad670bfd5e22e2aeca17e97e80af9"
+    },
+    {
+      "sha": "41e9a48972",
+      "message": "feat: Add ValkeyNode CRD and controller for abstracting pod mgmt (#94)",
+      "date": "2026-03-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/94",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/41e9a48972bbb148d2907a4f6508459e31960264"
     },
     {
       "sha": "b26c56e873",

@@ -3,8 +3,8 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 10,
-  "commit_count": 9,
+  "score": 13,
+  "commit_count": 12,
   "review_count": 1,
   "repos": [
     "valkey-admin"
@@ -81,6 +81,30 @@
       "repo": "valkey-admin",
       "pr_url": "https://github.com/valkey-io/valkey-admin/pull/308",
       "commit_url": "https://github.com/valkey-io/valkey-admin/commit/6390231a7e1475b23f34bd03a2e3612401639254"
+    },
+    {
+      "sha": "afee82c662",
+      "message": "Merge pull request #302 from valkey-io/revamp-hot-keys-view",
+      "date": "2026-04-22",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/302",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/afee82c662201df7b729af1a9957cae71dcce90d"
+    },
+    {
+      "sha": "25b0454069",
+      "message": "addressed two comments",
+      "date": "2026-04-22",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/302",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/25b04540698bb5953ebffaca1e816c1bf5ba604e"
+    },
+    {
+      "sha": "8bf5abc1ac",
+      "message": "fixed colour issues for nodes with euqal hotkeys",
+      "date": "2026-04-22",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/302",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/8bf5abc1ac0874c12105692a13e2b880e22c73c4"
     }
   ],
   "review_list": [

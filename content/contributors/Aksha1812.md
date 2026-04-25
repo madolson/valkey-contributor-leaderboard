@@ -3,8 +3,8 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 6,
-  "commit_count": 6,
+  "score": 8,
+  "commit_count": 8,
   "review_count": 0,
   "repos": [
     "valkey-search"
@@ -57,6 +57,22 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/931",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/03f66fa8168d8f63dd66418f2e66617df23bd9e5"
+    },
+    {
+      "sha": "f85c179b3e",
+      "message": "Deflake test_saverestore_backfill_only (#933)",
+      "date": "2026-03-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/933",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/f85c179b3ee2cd9048db2780c4f00085bdbe3a3e"
+    },
+    {
+      "sha": "2c45f4413f",
+      "message": "deflake test_multidb_slot_migration_CME (#927)",
+      "date": "2026-03-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/927",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2c45f4413fc1978bb91d6895f37b247a3563ec3c"
     }
   ],
   "review_list": []

@@ -3,9 +3,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 10,
+  "score": 11,
   "commit_count": 1,
-  "review_count": 9,
+  "review_count": 10,
   "repos": [
     "valkey-json"
   ],
@@ -75,6 +75,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/931",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/03f66fa8168d8f63dd66418f2e66617df23bd9e5"
+    },
+    {
+      "sha": "f85c179b3e",
+      "message": "Deflake test_saverestore_backfill_only (#933)",
+      "date": "2026-03-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/933",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/f85c179b3ee2cd9048db2780c4f00085bdbe3a3e"
     },
     {
       "sha": "69f77c1ddc",

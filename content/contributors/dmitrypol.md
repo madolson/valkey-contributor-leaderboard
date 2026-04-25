@@ -3,9 +3,9 @@
   "title": "dmitrypol",
   "login": "dmitrypol",
   "avatar_url": "https://avatars.githubusercontent.com/u/210308?v=4",
-  "score": 3,
-  "commit_count": 3,
-  "review_count": 0,
+  "score": 5,
+  "commit_count": 4,
+  "review_count": 1,
   "repos": [
     "valkey-json",
     "valkeymodule-rs"
@@ -34,8 +34,25 @@
       "repo": "valkeymodule-rs",
       "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/191",
       "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/ff4a50d1fdc3226ac67d08705a08e0406036fa38"
+    },
+    {
+      "sha": "70facf92ce",
+      "message": "implementing filter (#188)",
+      "date": "2025-03-26",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/188",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/70facf92ce42cfd747be1bc83cb57704de770b97"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "920be5b283",
+      "message": "added client change server event (#182)",
+      "date": "2025-03-12",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/182",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/920be5b2831bfaf50a37ae081918e939bdb2090c"
+    }
+  ]
 }
 ---

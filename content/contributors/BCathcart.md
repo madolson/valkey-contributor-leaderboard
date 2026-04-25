@@ -3,9 +3,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 9,
+  "score": 11,
   "commit_count": 3,
-  "review_count": 6,
+  "review_count": 8,
   "repos": [
     "valkey-io.github.io",
     "valkey-search"
@@ -76,6 +76,22 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/926",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/ef1f6193a612ab81b12e9d19cc6bb1e94f8cf3da"
+    },
+    {
+      "sha": "292d1e0bfe",
+      "message": "[Draft] Add custom decorator to sleep for 10 seconds on flaky ASAN tests (#929)",
+      "date": "2026-03-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/929",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/292d1e0bfe37bf47e88d7d691ebd0c7da7403a38"
+    },
+    {
+      "sha": "40a77864fa",
+      "message": "Save and Restore at max memory for text, tag, and numeric (#781)",
+      "date": "2026-03-17",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/781",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/40a77864fabc2947398cc76e924b68bc3d11f4fe"
     },
     {
       "sha": "69f77c1ddc",

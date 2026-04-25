@@ -3,9 +3,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 8,
+  "score": 10,
   "commit_count": 2,
-  "review_count": 6,
+  "review_count": 8,
   "repos": [
     "valkey-io.github.io"
   ],
@@ -75,6 +75,22 @@
       "repo": "valkey-io.github.io",
       "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/473",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/96b2cf2ed1e9a9a1acc27f514ccead4d3ba44bc6"
+    },
+    {
+      "sha": "73f2fecfb4",
+      "message": "Update website for version 9.0.3 (#465)",
+      "date": "2026-02-24",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/465",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/73f2fecfb4b628fae1b6dcda04bf78dedc718c4e"
+    },
+    {
+      "sha": "7539f2b987",
+      "message": "Add GLIDE website to glide clients and update their latest versions (#382)",
+      "date": "2025-12-04",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/382",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/7539f2b98784068b1dda4f75bb6444efef5ce934"
     }
   ]
 }

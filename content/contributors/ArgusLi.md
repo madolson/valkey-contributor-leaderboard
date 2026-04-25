@@ -3,8 +3,8 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 8,
-  "commit_count": 7,
+  "score": 9,
+  "commit_count": 8,
   "review_count": 1,
   "repos": [
     "valkey-admin"
@@ -65,6 +65,14 @@
       "repo": "valkey-admin",
       "pr_url": "https://github.com/valkey-io/valkey-admin/pull/303",
       "commit_url": "https://github.com/valkey-io/valkey-admin/commit/0b59d494da549f34345d8d7876fc8356dacc4450"
+    },
+    {
+      "sha": "9bfd363d4b",
+      "message": "Update version to 0.1.1.",
+      "date": "2026-04-22",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/303",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/9bfd363d4bfdcc408178ce79e74470f36fb37959"
     }
   ],
   "review_list": [

@@ -3,9 +3,9 @@
   "title": "mcollina",
   "login": "mcollina",
   "avatar_url": "https://github.com/mcollina.png?size=64",
-  "score": 13,
+  "score": 17,
   "commit_count": 0,
-  "review_count": 13,
+  "review_count": 17,
   "repos": [],
   "commit_list": [],
   "review_list": [
@@ -112,6 +112,38 @@
       "repo": "iovalkey",
       "pr_url": "https://github.com/valkey-io/iovalkey/pull/18",
       "commit_url": "https://github.com/valkey-io/iovalkey/commit/ba1c74bf7c12e4fb1dc957bdd504a699e34a8dcd"
+    },
+    {
+      "sha": "614295bd8e",
+      "message": "chore: Node.js >= 18.12.0 (#17)",
+      "date": "2024-11-26",
+      "repo": "iovalkey",
+      "pr_url": "https://github.com/valkey-io/iovalkey/pull/17",
+      "commit_url": "https://github.com/valkey-io/iovalkey/commit/614295bd8eff4c2b836902e66fc3a44e418f6146"
+    },
+    {
+      "sha": "48c8f86669",
+      "message": "chore: update repository url in `package.json` (#16)",
+      "date": "2024-11-09",
+      "repo": "iovalkey",
+      "pr_url": "https://github.com/valkey-io/iovalkey/pull/16",
+      "commit_url": "https://github.com/valkey-io/iovalkey/commit/48c8f86669500b0b380251af8416b26391d79bc3"
+    },
+    {
+      "sha": "ae27385583",
+      "message": "fix: Connection Instability with socketTimeout Parameter (#9)",
+      "date": "2024-11-05",
+      "repo": "iovalkey",
+      "pr_url": "https://github.com/valkey-io/iovalkey/pull/9",
+      "commit_url": "https://github.com/valkey-io/iovalkey/commit/ae273855833176683d75363c478cd06fe60f2c33"
+    },
+    {
+      "sha": "ae27385583",
+      "message": "fix: Connection Instability with socketTimeout Parameter (#9)",
+      "date": "2024-11-05",
+      "repo": "iovalkey",
+      "pr_url": "https://github.com/valkey-io/iovalkey/pull/9",
+      "commit_url": "https://github.com/valkey-io/iovalkey/commit/ae273855833176683d75363c478cd06fe60f2c33"
     }
   ]
 }

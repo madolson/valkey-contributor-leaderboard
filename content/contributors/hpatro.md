@@ -3,13 +3,22 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 6,
-  "commit_count": 1,
-  "review_count": 5,
+  "score": 8,
+  "commit_count": 2,
+  "review_count": 6,
   "repos": [
+    "valkey",
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "b2e0f6322d",
+      "message": "Add cluster bus network traffic usage metric in bytes (#3396)",
+      "date": "2026-04-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3396",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b2e0f6322d288bfdb5076e01791402fe790f0892"
+    },
     {
       "sha": "c4a0d0fa8b",
       "message": "Reference RFC file (#6)",
@@ -43,6 +52,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3518",
       "commit_url": "https://github.com/valkey-io/valkey/commit/fc00f7be030784ac115e088ddf31bc94266cb01d"
+    },
+    {
+      "sha": "7b4ae98b3f",
+      "message": "Adding all JSON command definition (#42)",
+      "date": "2025-03-31",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/42",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/7b4ae98b3f9e99616aeacbf1ba5f7144db8ea0df"
     },
     {
       "sha": "c97e0c6da0",

@@ -3,9 +3,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 11,
+  "score": 13,
   "commit_count": 4,
-  "review_count": 7,
+  "review_count": 9,
   "repos": [
     "valkey",
     "valkey-perf-benchmark"
@@ -100,6 +100,22 @@
       "repo": "valkey-perf-benchmark",
       "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/8",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/0a3ec2369b01d4ac763235c8fd9b837a64ba479a"
+    },
+    {
+      "sha": "f36543bc63",
+      "message": "Initial implementation (#2)",
+      "date": "2025-08-05",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/2",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/f36543bc63c985d2b8a7a1953a41701e7fd441bb"
+    },
+    {
+      "sha": "f36543bc63",
+      "message": "Initial implementation (#2)",
+      "date": "2025-08-05",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/2",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/f36543bc63c985d2b8a7a1953a41701e7fd441bb"
     }
   ]
 }

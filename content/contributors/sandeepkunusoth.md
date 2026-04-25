@@ -3,9 +3,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 9,
+  "score": 10,
   "commit_count": 3,
-  "review_count": 6,
+  "review_count": 7,
   "repos": [
     "valkey-operator"
   ],
@@ -91,6 +91,14 @@
       "repo": "valkey-operator",
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/117",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6b6047f06f5e20ba72318fc697e53537d6d8ecc6"
+    },
+    {
+      "sha": "04fb400765",
+      "message": "Add additional checks in CI (#109)",
+      "date": "2026-03-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/109",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/04fb4007650c8ac19687f296e2adb5a245cc8641"
     }
   ]
 }
