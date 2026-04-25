@@ -26,10 +26,11 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Fetch commit data
-        run: python3 scripts/fetch_commits.py --limit 20
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Fetch step disabled — run manually and commit data files
+      # - name: Fetch commit data
+      #   run: python3 scripts/fetch_commits.py --limit 20
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: peaceiris/actions-hugo@75d2e84710de30f6ff7268e08f310b60ef14033f # v3.0.0
         with:
