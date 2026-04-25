@@ -43,6 +43,11 @@ def api_get(url, token=None):
         resp = urllib.request.urlopen(req, timeout=30)
         data = json.loads(resp.read().decode())
         link = resp.headers.get("Link", "")
+        # Stop early to preserve rate limit for other CI steps
+        remaining = int(resp.headers.get("X-RateLimit-Remaining", "999"))
+        if remaining < 100:
+            log(f"Rate limit low ({remaining} remaining). Saving partial results.")
+            rate_limited = True
         return data, link
     except urllib.error.HTTPError as e:
         if e.code in (403, 429):
