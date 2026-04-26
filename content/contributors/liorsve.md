@@ -2,9 +2,9 @@
   "title": "liorsve",
   "login": "liorsve",
   "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
-  "score": 67,
-  "commit_count": 50,
-  "review_count": 17,
+  "score": 90,
+  "commit_count": 70,
+  "review_count": 20,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -381,6 +381,110 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/431d8d8c47b31a886c078cbf0915d481bd4271c1"
     },
     {
+      "sha": "4c9e9127e9",
+      "message": "Java: fix addReturnField in FT.search  (#4084)",
+      "date": "2025-06-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4084",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4c9e9127e9765299794e684d4aa57b0c087aab61"
+    },
+    {
+      "sha": "48d286358b",
+      "message": "Python: increase request timeout of ACL client in python tests (#3978)",
+      "date": "2025-05-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3978",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/48d286358b3bc1dcef812c47b945af8981c9ebc0"
+    },
+    {
+      "sha": "6c67d7304a",
+      "message": "Go: add client library name and version identifiers (#3903)",
+      "date": "2025-05-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3903",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6c67d7304a12b9c4e935b406791dda417a65a23a"
+    },
+    {
+      "sha": "4fc8d395fc",
+      "message": "Docs: fixed mkdocs workflow trigger, fixed transaction/batch docs sections (#3927)",
+      "date": "2025-05-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3927",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4fc8d395fc929cd69cf3af825bac495d7a9a3d95"
+    },
+    {
+      "sha": "75bfe3df15",
+      "message": "Docs: fixed mkdocs workflow trigger, fixed transaction/batch sections (#3913)",
+      "date": "2025-05-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3913",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/75bfe3df15708dc17d2d073536669e7ac2215c4c"
+    },
+    {
+      "sha": "4b98f46cdb",
+      "message": "Python: added pypy support to pypi-cd workflow (#3849)",
+      "date": "2025-05-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3849",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4b98f46cdbceb76ca1f716fe7c00424e9ce8484b"
+    },
+    {
+      "sha": "3a554993b3",
+      "message": "Fixes to mkdocs site (#3667)",
+      "date": "2025-04-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3667",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3a554993b3d35d60200ac5fbc539883a9f55644a"
+    },
+    {
+      "sha": "94c0f20754",
+      "message": "Core/Go: Added Ok response type to FFI, updated Go with Ok handlers (#3630)",
+      "date": "2025-04-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3630",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/94c0f20754b53c37ddc4d71b1f2c47ff39df74ee"
+    },
+    {
+      "sha": "a3f4f3594a",
+      "message": "Docs: Updates READMEs with docs site (#3616)",
+      "date": "2025-04-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3616",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a3f4f3594a7616627711b10e54c2c81329f969ce"
+    },
+    {
+      "sha": "692a75568b",
+      "message": "Docs website: Added CD, added node script,  some hirarchy changes (#3581)",
+      "date": "2025-04-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3581",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/692a75568b41e6ef85a5a2dc95fb38aaee345d07"
+    },
+    {
+      "sha": "7fcdc4f552",
+      "message": "Python: Change urls in docstrings to use markdown syntax (#3580)",
+      "date": "2025-04-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3580",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7fcdc4f5523158e0b985125adcb2325d9128102b"
+    },
+    {
+      "sha": "48148da03c",
+      "message": "Added docs folder and infrastructure for mkdocs website (#3572)",
+      "date": "2025-04-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3572",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/48148da03c53a23d87f33566cc681fc0e5406ee6"
+    },
+    {
+      "sha": "283209e5a2",
+      "message": "Authentication: Fix immediate update_connection_password to use username (#3330)",
+      "date": "2025-03-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3330",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/283209e5a2cecdb216b3606d3576ada6807e1a9d"
+    },
+    {
       "sha": "70e13b0140",
       "message": "fix glide-node installation, update iovalkey version (#245)",
       "date": "2025-03-13",
@@ -397,6 +501,22 @@
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/8fb4f01239af2a0642dd0bbceeaa92e034347ef2"
     },
     {
+      "sha": "3789f144d1",
+      "message": "Add source distribution upload to the PyPi-CD workflow  (#3213)",
+      "date": "2025-02-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3213",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3789f144d11b20debcdf73ea228e699c52cd7fe2"
+    },
+    {
+      "sha": "0ab859efd1",
+      "message": "Fixes the RUNNER for the CD workflows  (#3238)",
+      "date": "2025-02-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3238",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0ab859efd1a2102f0dd3da73eb9298084e267fe1"
+    },
+    {
       "sha": "069af69f43",
       "message": "Updated glide & valkey-py versions, added Go file to glide  (#232)",
       "date": "2025-02-17",
@@ -405,12 +525,52 @@
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/069af69f437d7b114ff68f5b8d60d9ce35c96105"
     },
     {
+      "sha": "b521c5014e",
+      "message": "Updated readme to include go (#3190)",
+      "date": "2025-02-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3190",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b521c5014ede9521714c6b1d7fa935bbace6e228"
+    },
+    {
       "sha": "23d7739c2d",
       "message": "Delete all old redis client files  (#219)",
       "date": "2025-01-20",
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/219",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/23d7739c2dd97acf322f7434ae1527df7d6f6267"
+    },
+    {
+      "sha": "9f67e18af1",
+      "message": "CI: Add workflow that runs prettier on yaml workflow files  (#2884)",
+      "date": "2025-01-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2884",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9f67e18af179608c306203524fd4ac12a8776aca"
+    },
+    {
+      "sha": "994455a717",
+      "message": "Fixed imported exception names in python examples (#2852)",
+      "date": "2024-12-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2852",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/994455a717c704a28c32680d260b0f00f3d55207"
+    },
+    {
+      "sha": "b9d340644e",
+      "message": "Fix python memory leak (#2818)",
+      "date": "2024-12-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2818",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b9d340644ef6b3f0a951177c6c9ac07a762b5823"
+    },
+    {
+      "sha": "daa5af2f6f",
+      "message": "Fix memory leak in Python (#2816)",
+      "date": "2024-12-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2816",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/daa5af2f6f1f3ebc55dce2c7e461cf4a954d6ec4"
     }
   ],
   "review_list": [
@@ -549,6 +709,30 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4528",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/280b9105462053421005b21f4c1b7528d47bb38b"
+    },
+    {
+      "sha": "fb6379aae9",
+      "message": "Python- Add Batch Option Classes for exec (#4027)",
+      "date": "2025-06-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4027",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fb6379aae954512ea6ef44cad93b221f2213bba9"
+    },
+    {
+      "sha": "843a7eddfc",
+      "message": "Core: Move UDS Socket Filename to tmp  (#3615)",
+      "date": "2025-04-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3615",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/843a7eddfc37e50cb03ada4d2aae0badeb16f6a1"
+    },
+    {
+      "sha": "561461afc6",
+      "message": "Add an installation part in the readme of node (#3614)",
+      "date": "2025-04-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3614",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/561461afc6d852ad27bb25a3162c2d0ba06a3275"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 91,
-  "commit_count": 27,
-  "review_count": 64,
+  "score": 173,
+  "commit_count": 51,
+  "review_count": 122,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -225,6 +225,198 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4299",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1eb16f1260d7f3df5d7e3ec0b2289b4bd0d2bdf6"
+    },
+    {
+      "sha": "99cc18aec2",
+      "message": "Go: Drop support for Go 1.20 and add 1.24 in CI (#3513)",
+      "date": "2025-04-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3513",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/99cc18aec247d4b50e73078f470661937be00445"
+    },
+    {
+      "sha": "1e8fbaa4ce",
+      "message": "CI: Address semgrep findings (#3394)",
+      "date": "2025-04-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3394",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1e8fbaa4ce15d542a5f1d3de54489822ab8de545"
+    },
+    {
+      "sha": "5aeeb1b115",
+      "message": "CI: Fix Python Module Tests (#3522)",
+      "date": "2025-04-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3522",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5aeeb1b115241af1d3d44d5f2c05b72f0d9c3705"
+    },
+    {
+      "sha": "9f0e57e79c",
+      "message": "Go: Fix Rust static binary size (#3507)",
+      "date": "2025-04-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3507",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9f0e57e79c65a40afcb5150e829862adef1aa2bb"
+    },
+    {
+      "sha": "ac0538ec2d",
+      "message": "Go: Upgrade go-redis dependency (#3445)",
+      "date": "2025-03-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3445",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ac0538ec2dc55640d26b7f137cdcebc829526140"
+    },
+    {
+      "sha": "9b5703d545",
+      "message": "Doc: Move Known Issues from README.md to wiki (#3454)",
+      "date": "2025-03-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3454",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9b5703d545942e36673149fbd4070e67055b55e6"
+    },
+    {
+      "sha": "a19f4c0f05",
+      "message": "Node: Enable +/-inf as score for ZADD (#3370)",
+      "date": "2025-03-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3370",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a19f4c0f0537203bf1c447e91a72ff93302fca82"
+    },
+    {
+      "sha": "68ee56a0b9",
+      "message": "Correct typos in README.md (#3410)",
+      "date": "2025-03-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3410",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/68ee56a0b95958a07454f83d164be87dcaad384b"
+    },
+    {
+      "sha": "0092c03cf2",
+      "message": "Go: Add push tag trigger to CD (#3345)",
+      "date": "2025-03-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3345",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0092c03cf2c6ec583ef2ff9a0e7f51028e3fe71c"
+    },
+    {
+      "sha": "286ab64237",
+      "message": "Go: Update Go versions used in CI (#3272)",
+      "date": "2025-02-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3272",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/286ab64237c9705533d21066cb884fca0e1268c6"
+    },
+    {
+      "sha": "7d79d4669f",
+      "message": "Go: X86_64 macOS support for developers (#3231)",
+      "date": "2025-02-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3231",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7d79d4669f34edfb89a8528aa11065342c15b791"
+    },
+    {
+      "sha": "7aa84929f6",
+      "message": "Go: Remove -race flag on go test (#3221)",
+      "date": "2025-02-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3221",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7aa84929f6f0b2cec6c17a66f82af6f8342510c4"
+    },
+    {
+      "sha": "3b206eff09",
+      "message": "Node: Fix NPM CD tag (#3155)",
+      "date": "2025-02-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3155",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3b206eff09d6b3db709425587744d0a9401cf783"
+    },
+    {
+      "sha": "957b183f0c",
+      "message": "Go: Add Go CD approval (#3146)",
+      "date": "2025-02-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3146",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/957b183f0cfb7e2feb16942ee846df38d4759407"
+    },
+    {
+      "sha": "ab4fc44040",
+      "message": "Rust: Fix opentelemetry_sdk dependency (#3123)",
+      "date": "2025-02-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3123",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ab4fc4404042442b4dc1d98a64e4cc09103da6a3"
+    },
+    {
+      "sha": "e651fdbef0",
+      "message": "Go: CD pipeline (#3062)",
+      "date": "2025-02-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3062",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e651fdbef0d4cb9ea0b5b3ab06cf7e43bb4cc6d3"
+    },
+    {
+      "sha": "17a91b2f46",
+      "message": "Java: Fix lpopCount null handling (#3025)",
+      "date": "2025-01-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3025",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/17a91b2f468b90b5d1512956c98c116c91b9c6c4"
+    },
+    {
+      "sha": "8ba7ccdd52",
+      "message": "Java: Add os-maven-plugin example to README (#3003)",
+      "date": "2025-01-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3003",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8ba7ccdd52edb9b97ed8cc455d59725341a4bdd9"
+    },
+    {
+      "sha": "a26f914f7b",
+      "message": "Java: Add binary version of ZRANK WITHSCORE (#2896)",
+      "date": "2024-12-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2896",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a26f914f7b2c92a7da549857945fc55bdb62b41e"
+    },
+    {
+      "sha": "9767ead074",
+      "message": "Java: Allow uncovered slots ClusterScan (#2859)",
+      "date": "2024-12-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2859",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9767ead07483874249016f171a1229839cd4b82d"
+    },
+    {
+      "sha": "3995396de1",
+      "message": "Go: Add command SMIsMember (#2807)",
+      "date": "2024-12-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2807",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3995396de1c7a7753500ce4197113ec348fa9f2d"
+    },
+    {
+      "sha": "891f51490e",
+      "message": "Python: Add API test to check for exported symbols (#2716)",
+      "date": "2024-12-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2716",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/891f51490eda58dabd3487603201f64e3a83611c"
+    },
+    {
+      "sha": "f958b78173",
+      "message": "Python: Add missing export (#2753)",
+      "date": "2024-11-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2753",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f958b78173e71ee39bc67aec84db66fc745200ea"
+    },
+    {
+      "sha": "2564882099",
+      "message": "Node: add JSON.OBJLEN and JSON.OBJKEYS (#2563)",
+      "date": "2024-11-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2563",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2564882099aaedfacaab9bdc4c11baa5855c1d25"
     }
   ],
   "review_list": [
@@ -843,6 +1035,470 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4227",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/adea9e9279eddb7a7c1832de310456334850612b"
+    },
+    {
+      "sha": "8f72a24dcb",
+      "message": "Update engine-matrix.json (#3568)",
+      "date": "2025-05-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3568",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8f72a24dcb21c429b9909bfd0b6868df56df2e51"
+    },
+    {
+      "sha": "bc05a549e5",
+      "message": "Python: Fix restore command (#3853)",
+      "date": "2025-05-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3853",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bc05a549e5bb59c0beb9fdae580416e80b58fa01"
+    },
+    {
+      "sha": "b8885ba7a4",
+      "message": "CI: Add intel mac (#3482)",
+      "date": "2025-05-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3482",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b8885ba7a4090ea494fe0a377a3360450beaa833"
+    },
+    {
+      "sha": "2a00b2ba63",
+      "message": "Java: Shadow `netty` dependencies. - breaking change (#3004)",
+      "date": "2025-05-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3004",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2a00b2ba63fdcbc1fc7c82d94ddb3dc8136fd9a5"
+    },
+    {
+      "sha": "41ebd00ad1",
+      "message": "Java: Bump `netty`. (#3804)",
+      "date": "2025-05-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3804",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/41ebd00ad1bc09b23b4d875c42d4426f32079b77"
+    },
+    {
+      "sha": "59e689eed1",
+      "message": "Fix duplicate funcs (#3654)",
+      "date": "2025-04-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3654",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/59e689eed14860c1449ae8d201f8708560f6a4dc"
+    },
+    {
+      "sha": "b6fddb9c11",
+      "message": "CI: Fix caching (#3534)",
+      "date": "2025-04-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3534",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b6fddb9c1132221177ee1cd227501a71f046d45a"
+    },
+    {
+      "sha": "690e7a4b90",
+      "message": "Downgrade ubuntu in CI (#3520)",
+      "date": "2025-04-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3520",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/690e7a4b90d0becb02d528de3e05b81802f7f55a"
+    },
+    {
+      "sha": "66d598c359",
+      "message": "CI: hotfix for matrix (#3529)",
+      "date": "2025-04-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3529",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/66d598c3591cc0ee96bf543e595b415865c11dac"
+    },
+    {
+      "sha": "f825c56a03",
+      "message": "Java: Fix `inflight_request_limit` Flaky Test (#3519)",
+      "date": "2025-04-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3519",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f825c56a0353c66281d5338063a523d0c8540e6c"
+    },
+    {
+      "sha": "3671273b96",
+      "message": "Node: Fix Cluster Manager Timeout (#3449)",
+      "date": "2025-03-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3449",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3671273b96b24be44c8baae19d5e18124180bfa4"
+    },
+    {
+      "sha": "dd8160be62",
+      "message": "Node: Re-enable `xpendingWithOptions` in Transaction Tests (#3448)",
+      "date": "2025-03-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3448",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dd8160be627b042dd45ac0b31cc4e83be2e92a5f"
+    },
+    {
+      "sha": "c9cee018fe",
+      "message": "Go: Add `GeoDist` (#3446)",
+      "date": "2025-03-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3446",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c9cee018fe8b3f39a54ed20ca83ae0ba74289843"
+    },
+    {
+      "sha": "d69301c5a8",
+      "message": "Go: Add `GeoHash` (#3439)",
+      "date": "2025-03-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3439",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d69301c5a8c36f3bd229adbc3822d07ca19c5767"
+    },
+    {
+      "sha": "8ab27e8091",
+      "message": "C#: CI - fix dotnet installation on mac runners (#3382)",
+      "date": "2025-03-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3382",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8ab27e80913b7aeb327b5f037d0f98ebe0d815ee"
+    },
+    {
+      "sha": "3b15c8d1d5",
+      "message": "Go: Add bulk args test (#3363)",
+      "date": "2025-03-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3363",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3b15c8d1d54357749e4ecd1e81ef2c6311badc68"
+    },
+    {
+      "sha": "fb3e0c1a64",
+      "message": "C#: Fix TLS (#3379)",
+      "date": "2025-03-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3379",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fb3e0c1a64b442f9fbf0bff24f1a7449a88be564"
+    },
+    {
+      "sha": "1970639779",
+      "message": "C#: Fixes in CI (#3323)",
+      "date": "2025-03-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3323",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1970639779fc824c3124aa6cfd91ae6eed38a784"
+    },
+    {
+      "sha": "dbff0a1098",
+      "message": "Node: Fix `xpendingWithOptions` Flaky Test (#3361)",
+      "date": "2025-03-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3361",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dbff0a10982f4bd0d22dd63a4d6c2cb860c4621b"
+    },
+    {
+      "sha": "bd36cfa3b4",
+      "message": "Add command GeoAdd and the geospatial command interface (#3366)",
+      "date": "2025-03-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3366",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bd36cfa3b40a55fc4f91eef18a7a55e11c945aec"
+    },
+    {
+      "sha": "f57543cb1d",
+      "message": "C#: Rework linters/analyzers approach (#3252)",
+      "date": "2025-03-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3252",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f57543cb1dcdd83937b6eee33a20a36c831b36cd"
+    },
+    {
+      "sha": "78d35c27eb",
+      "message": "Python: Added `sphinx` for documentation (#3336)",
+      "date": "2025-03-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3336",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/78d35c27eb875b147a297e928c5616664e8f356b"
+    },
+    {
+      "sha": "79dee8740f",
+      "message": "Java: Fix version check in IT/MT startup. (#3343)",
+      "date": "2025-03-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3343",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/79dee8740fd2ebe12153eeb3a9d9930a8a8841e1"
+    },
+    {
+      "sha": "6d57de2953",
+      "message": "Java: move pubsub IT to another suite (#2352)",
+      "date": "2025-03-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2352",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6d57de2953640cd182b3bcee9a97d2a317d25e3c"
+    },
+    {
+      "sha": "f863f808d3",
+      "message": "Revert \"Update readme - include compatibility notice\" (#3319)",
+      "date": "2025-03-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3319",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f863f808d3b61bb772fe49dc9f21aa0fb0053f74"
+    },
+    {
+      "sha": "cd86f5f609",
+      "message": "Go: randomize cluster ports for Example tests (#3225)",
+      "date": "2025-03-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3225",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cd86f5f6093f6f5e0b83ef17c3262b16e514bdc8"
+    },
+    {
+      "sha": "23ca48e2e2",
+      "message": "Update readme - include compatibility notice (#3262)",
+      "date": "2025-03-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3262",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/23ca48e2e2a2f739c5dc1cf0d17a6b3d176c8d75"
+    },
+    {
+      "sha": "52768517b3",
+      "message": "Python: Temporarily suppress rust linter warnings (#3255)",
+      "date": "2025-02-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3255",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/52768517b394ef7a4cc8090359aa106d6ba8002a"
+    },
+    {
+      "sha": "5717fb0d4d",
+      "message": "Run example-tests in CI pipeline (#3251)",
+      "date": "2025-02-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3251",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5717fb0d4d5cded66bbe40b154777c571d76e731"
+    },
+    {
+      "sha": "06ccb6196a",
+      "message": "Update changelog for 1.3.0 release (#3159)",
+      "date": "2025-02-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3159",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/06ccb6196aa3a588bc7b2dbe26a49af4794f3233"
+    },
+    {
+      "sha": "56dbd7af05",
+      "message": "Go: ort workflow added (#3137)",
+      "date": "2025-02-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3137",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/56dbd7af05d19cd6ebebe036e7c99f483ac94cdd"
+    },
+    {
+      "sha": "98357a0eb5",
+      "message": "Go: Add IFEQ to SetOptions (#3098)",
+      "date": "2025-02-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3098",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/98357a0eb5f991f06cb4643c3151bb6502717e3e"
+    },
+    {
+      "sha": "3a4d7dc471",
+      "message": "Add node test for checking exported symbols (#2835)",
+      "date": "2025-02-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2835",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3a4d7dc471615e380f7117dd6d804f1ef2a91a6f"
+    },
+    {
+      "sha": "1dbe4c111e",
+      "message": "Go: `XREADGROUP`. (#2949)",
+      "date": "2025-01-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2949",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1dbe4c111e5cb58fa5292c52d454d0c13f2f3e9a"
+    },
+    {
+      "sha": "c245ce4025",
+      "message": "Go: Fix return types, part 1: `int64` instead of `Result[int64]` (#2939)",
+      "date": "2025-01-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2939",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c245ce4025c6f428471ff9e561185a9bb826e2b9"
+    },
+    {
+      "sha": "a36f98edcf",
+      "message": "[Merge to main] Support transactions for JSON commands (#2862)",
+      "date": "2025-01-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2862",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a36f98edcff6a9462db20f80bdc954e5be654b8c"
+    },
+    {
+      "sha": "23db4bbdb8",
+      "message": "Go: Add base scan options for hscan (#2865)",
+      "date": "2024-12-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2865",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/23db4bbdb858e77267459fe74d3692753649be1e"
+    },
+    {
+      "sha": "ef18be33ee",
+      "message": "Merge pull request #2847 from valkey-io/go-command-hincrby",
+      "date": "2024-12-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2847",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ef18be33eef62b02263ac019ac67ced9df867797"
+    },
+    {
+      "sha": "4de48472cb",
+      "message": "Fix full matrix CI (#2784)",
+      "date": "2024-12-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2784",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4de48472cb3c29a3f04db2b18e18ec7e36f0f850"
+    },
+    {
+      "sha": "a8040a5b6f",
+      "message": "Go: Add custom command to cluster client (#2803)",
+      "date": "2024-12-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2803",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a8040a5b6fe234dc7c8cf88c4d4baab6a3e94182"
+    },
+    {
+      "sha": "68c56e7346",
+      "message": "Go: add SUnion command (#2787)",
+      "date": "2024-12-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2787",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/68c56e734672d529ef4cdeb0150fb91d08c61f46"
+    },
+    {
+      "sha": "8b049d43a1",
+      "message": "Go: implement SUnionStore (#2805)",
+      "date": "2024-12-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2805",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8b049d43a1655d9619aa075dffb0cdac6cc92930"
+    },
+    {
+      "sha": "ab31e48503",
+      "message": "Go: Implement Exists, Expire related commands and TTL commands (#2738)",
+      "date": "2024-12-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2738",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ab31e485034912545ad0d157fdd5cd9e0566d48e"
+    },
+    {
+      "sha": "636f0ee428",
+      "message": "[Backport `main`] Java: bump `netty` version (#2777) (#2795)",
+      "date": "2024-12-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2795",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/636f0ee42823715f6040afc17f58f744845397d7"
+    },
+    {
+      "sha": "79c3bc9ecb",
+      "message": "[Backport 1.2] Protobuf: bump to 29.1 (#2802)",
+      "date": "2024-12-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2802",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/79c3bc9ecb959fcba642c297324f57c0a243cb03"
+    },
+    {
+      "sha": "085964c5df",
+      "message": "Java: fix type assertions (#2637)",
+      "date": "2024-12-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2637",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/085964c5dffcf1e3a38842c335d5e2ded9369cfa"
+    },
+    {
+      "sha": "539da6468b",
+      "message": "Python: bitpos valkey8 (#2256)",
+      "date": "2024-12-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2256",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/539da6468b176b45cb2e5cdb9833a21ed6f57d20"
+    },
+    {
+      "sha": "5dddce2567",
+      "message": "Node: fix BITPOS (#2227)",
+      "date": "2024-12-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2227",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5dddce2567b85aa97c975692c904b99fa3d92da1"
+    },
+    {
+      "sha": "5dddce2567",
+      "message": "Node: fix BITPOS (#2227)",
+      "date": "2024-12-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2227",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5dddce2567b85aa97c975692c904b99fa3d92da1"
+    },
+    {
+      "sha": "6e5fa6653e",
+      "message": "Add Java and Python examples to example app (#2769)",
+      "date": "2024-12-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2769",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6e5fa6653e4cf0fdae9832e62bbe7c7da8d9de43"
+    },
+    {
+      "sha": "3542b2ade7",
+      "message": "Node: fix flaky test (#2657)",
+      "date": "2024-12-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2657",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3542b2ade794f7d044c34c29cee1bbbe9f849dc7"
+    },
+    {
+      "sha": "0e5e8dfc28",
+      "message": "Merge python requirement files. (#2597)",
+      "date": "2024-12-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2597",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0e5e8dfc28470c6ce5300dd6a69b2836feb116c0"
+    },
+    {
+      "sha": "81df696f48",
+      "message": "Fix rust CI: bump `idna`. (#2793)",
+      "date": "2024-12-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2793",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/81df696f4849be7e78e9ed924462aa5e8d05d687"
+    },
+    {
+      "sha": "a69690febd",
+      "message": "Adding node modules in examples app (#2615)",
+      "date": "2024-12-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2615",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a69690febd0d6c45923d72f45cd9d6f48ea9e23c"
+    },
+    {
+      "sha": "914715d4a1",
+      "message": "Update changelog after release (#2782)",
+      "date": "2024-12-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2782",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/914715d4a11357dd7c1a36cc702d11d459811803"
+    },
+    {
+      "sha": "664cc8eadc",
+      "message": "Merge pull request #2507 from valkey-io/python/json.mget",
+      "date": "2024-11-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2507",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/664cc8eadcb4f91a40ec52e3b4e813f78ca6cff4"
+    },
+    {
+      "sha": "664cc8eadc",
+      "message": "Merge pull request #2507 from valkey-io/python/json.mget",
+      "date": "2024-11-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2507",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/664cc8eadcb4f91a40ec52e3b4e813f78ca6cff4"
+    },
+    {
+      "sha": "c374d29634",
+      "message": "Node: Add `FT.PROFILE` command (#2633)",
+      "date": "2024-11-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2633",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c374d29634392f6b48f5ca321bfcb904390cc2eb"
     }
   ]
 }

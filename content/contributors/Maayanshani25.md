@@ -2,9 +2,9 @@
   "title": "Maayanshani25",
   "login": "Maayanshani25",
   "avatar_url": "https://avatars.githubusercontent.com/u/161942026?v=4",
-  "score": 15,
-  "commit_count": 6,
-  "review_count": 9,
+  "score": 25,
+  "commit_count": 12,
+  "review_count": 13,
   "repos": [
     "valkey-glide"
   ],
@@ -56,6 +56,54 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4250",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/eae2e894b810cdeabf6d48bdefd8538ab165fceb"
+    },
+    {
+      "sha": "9a81aa0932",
+      "message": "Node Wrapper - Support TLS insecure (#4002)",
+      "date": "2025-06-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4002",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9a81aa09327ae9a9278f0a0a6bfec0d882e552af"
+    },
+    {
+      "sha": "e00003458f",
+      "message": "Opentelemetry - set status, moved counter, retry_attempts counter  (#3944)",
+      "date": "2025-06-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3944",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e00003458f47510ba155d59af5ff9ddde219957d"
+    },
+    {
+      "sha": "561461afc6",
+      "message": "Add an installation part in the readme of node (#3614)",
+      "date": "2025-04-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3614",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/561461afc6d852ad27bb25a3162c2d0ba06a3275"
+    },
+    {
+      "sha": "07588e0699",
+      "message": "Update README.md getting started part (#3468)",
+      "date": "2025-03-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3468",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/07588e069970738231feaa2d222754d88263a5ac"
+    },
+    {
+      "sha": "7b77603f6e",
+      "message": "SET IFEQ command implemented in Java + tests  (#2978)",
+      "date": "2025-02-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2978",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7b77603f6e55eb3c7b1ec5428c8eb4b9c7ef4cbc"
+    },
+    {
+      "sha": "798dbeff7f",
+      "message": "SET IFEQ command implemented in node + tests (#2909)",
+      "date": "2025-01-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2909",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/798dbeff7f2631f221bae68e3ed85329855ab991"
     }
   ],
   "review_list": [
@@ -130,6 +178,38 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4548",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3eab3f281db10df173627d8e15cfdd860d916aeb"
+    },
+    {
+      "sha": "960f3b5c4a",
+      "message": "Python Wrapper - Support TLS insecure (#3375)",
+      "date": "2025-06-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3375",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/960f3b5c4a228e0c12f95a0a5155a0fe6281cfd3"
+    },
+    {
+      "sha": "3476fb6202",
+      "message": "Python- Fix Transaction Deprecation Message (#3892)",
+      "date": "2025-05-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3892",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3476fb620297bbe5ac084ab663a6ed53573ac06e"
+    },
+    {
+      "sha": "a3f4f3594a",
+      "message": "Docs: Updates READMEs with docs site (#3616)",
+      "date": "2025-04-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3616",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a3f4f3594a7616627711b10e54c2c81329f969ce"
+    },
+    {
+      "sha": "692a75568b",
+      "message": "Docs website: Added CD, added node script,  some hirarchy changes (#3581)",
+      "date": "2025-04-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3581",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/692a75568b41e6ef85a5a2dc95fb38aaee345d07"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "title": "nihohit",
   "login": "nihohit",
   "avatar_url": "https://avatars.githubusercontent.com/u/4604038?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 7,
+  "commit_count": 7,
   "review_count": 0,
   "repos": [
     "valkey-glide"
@@ -24,6 +24,46 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4283",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c6cb3529eca1c068365e1dacc3b76a6427bdb373"
+    },
+    {
+      "sha": "6227b94792",
+      "message": "Safer wrapping for FFI clients. (#2906)",
+      "date": "2025-03-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2906",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6227b9479271bf494a4d8e5543f55d1fcb72e5d2"
+    },
+    {
+      "sha": "9ec224fd49",
+      "message": "Add the go project to VSCode's projects. (#2907)",
+      "date": "2025-02-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2907",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9ec224fd4961d36fc536adc36fb787fac01ef172"
+    },
+    {
+      "sha": "d31d3faeff",
+      "message": "Fix new clippy lints. (#2935)",
+      "date": "2025-01-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2935",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d31d3faeff0c9c3eaf410198a06e9c20317518d0"
+    },
+    {
+      "sha": "c11215575f",
+      "message": "Core: Some pointer shenanigans. (#2895)",
+      "date": "2025-01-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2895",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c11215575f54b924ddc546bd8d83dcbde9c6edc0"
+    },
+    {
+      "sha": "a4d7fe18ed",
+      "message": "Remove `git submodule update` from DEVELOPER.md (#2894)",
+      "date": "2025-01-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2894",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a4d7fe18ed0df3c80456b6f91e5d784ce689bd38"
     }
   ],
   "review_list": []

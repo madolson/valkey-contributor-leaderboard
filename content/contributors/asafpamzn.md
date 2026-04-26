@@ -2,9 +2,9 @@
   "title": "asafpamzn",
   "login": "asafpamzn",
   "avatar_url": "https://avatars.githubusercontent.com/u/97948347?v=4",
-  "score": 5,
+  "score": 14,
   "commit_count": 1,
-  "review_count": 4,
+  "review_count": 13,
   "repos": [
     "valkey-doc"
   ],
@@ -58,6 +58,78 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4194",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7025a586ace2228487ee2511e73d90b212532258"
+    },
+    {
+      "sha": "572d544439",
+      "message": "Python: add support for Trio runtime (#3465)",
+      "date": "2025-05-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3465",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/572d544439f896f1304059d829e8ec08e3cca1ff"
+    },
+    {
+      "sha": "61682dd404",
+      "message": "Add welcome and community sections to documentation files (#3787)",
+      "date": "2025-05-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3787",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/61682dd4043027685729032e188662f1cf45153c"
+    },
+    {
+      "sha": "9cc072be52",
+      "message": "Cpp client (#3760)",
+      "date": "2025-05-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3760",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9cc072be52bcf895084d68517cffff3b4583c003"
+    },
+    {
+      "sha": "8e8db64965",
+      "message": "Java: add batch / pipeline support (#3561)",
+      "date": "2025-04-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3561",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8e8db649650096a5472eb0998b6fac48e6070650"
+    },
+    {
+      "sha": "b521c5014e",
+      "message": "Updated readme to include go (#3190)",
+      "date": "2025-02-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3190",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b521c5014ede9521714c6b1d7fa935bbace6e228"
+    },
+    {
+      "sha": "e99cd3ecdd",
+      "message": "removing FluentAssertions from dependencies (#3013)",
+      "date": "2025-01-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3013",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e99cd3ecdda2a0418ae983ad579679323680f759"
+    },
+    {
+      "sha": "a4d7fe18ed",
+      "message": "Remove `git submodule update` from DEVELOPER.md (#2894)",
+      "date": "2025-01-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2894",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a4d7fe18ed0df3c80456b6f91e5d784ce689bd38"
+    },
+    {
+      "sha": "4df3757ce4",
+      "message": "Update README.md (#2883)",
+      "date": "2024-12-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2883",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4df3757ce48d34520f6b6e51733f1283baf7c6a6"
+    },
+    {
+      "sha": "0e7616dbc3",
+      "message": "Merge pull request #2778 from valkey-io/merge_1_2",
+      "date": "2024-12-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2778",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0e7616dbc3f9d45152a932a93b7f2f011b4f7bba"
     }
   ]
 }

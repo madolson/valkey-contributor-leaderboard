@@ -2,12 +2,13 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 12,
-  "commit_count": 5,
+  "score": 15,
+  "commit_count": 8,
   "review_count": 7,
   "repos": [
     "valkey",
-    "valkey-doc"
+    "valkey-doc",
+    "valkey-glide"
   ],
   "commit_list": [
     {
@@ -17,6 +18,30 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/369",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/c6af7b1ba4faca99df13ae3e9627037543a1e6f1"
+    },
+    {
+      "sha": "b0411b7e8b",
+      "message": "Go: fix unsafe precondition violation for slice::from_raw_parts (#3351)",
+      "date": "2025-03-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3351",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b0411b7e8b88d127da377c4ea583509366f9524a"
+    },
+    {
+      "sha": "e516f0b38f",
+      "message": "Go: fix data race on the coreClient with `sync.Mutex` and a channel map (#3236)",
+      "date": "2025-02-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3236",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e516f0b38f52fda390928ab3783afdb32291377f"
+    },
+    {
+      "sha": "6b46401130",
+      "message": "Go: Fix channel passing from Go to Rust by using `runtime.Pinner` or `cgo.Handle` (#3208)",
+      "date": "2025-02-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3208",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6b464011307c8c1bd3bdb645bfd6ebf2d337432a"
     },
     {
       "sha": "0a89571dcc",

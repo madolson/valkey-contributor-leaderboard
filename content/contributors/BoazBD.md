@@ -2,9 +2,9 @@
   "title": "BoazBD",
   "login": "BoazBD",
   "avatar_url": "https://avatars.githubusercontent.com/u/50696333?v=4",
-  "score": 15,
-  "commit_count": 3,
-  "review_count": 12,
+  "score": 35,
+  "commit_count": 16,
+  "review_count": 19,
   "repos": [
     "valkey-glide"
   ],
@@ -32,6 +32,110 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4245",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/275e2ef3cd4ccbd4cf77786acab168177c580571"
+    },
+    {
+      "sha": "fb6379aae9",
+      "message": "Python- Add Batch Option Classes for exec (#4027)",
+      "date": "2025-06-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4027",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fb6379aae954512ea6ef44cad93b221f2213bba9"
+    },
+    {
+      "sha": "3476fb6202",
+      "message": "Python- Fix Transaction Deprecation Message (#3892)",
+      "date": "2025-05-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3892",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3476fb620297bbe5ac084ab663a6ed53573ac06e"
+    },
+    {
+      "sha": "25538ed645",
+      "message": "Python: Add Batch support (#3555)",
+      "date": "2025-05-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3555",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/25538ed6459dd414d1df12f71f3365918e0ac55b"
+    },
+    {
+      "sha": "843a7eddfc",
+      "message": "Core: Move UDS Socket Filename to tmp  (#3615)",
+      "date": "2025-04-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3615",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/843a7eddfc37e50cb03ada4d2aae0badeb16f6a1"
+    },
+    {
+      "sha": "2afdf77aa0",
+      "message": "Fix: Add support for both musl and glibc error messages when checking port availability (#3595)",
+      "date": "2025-04-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3595",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2afdf77aa0104083d1622ce42195059a0be7d341"
+    },
+    {
+      "sha": "dc6887019d",
+      "message": "Add Redis 7.1 support to README (#3456)",
+      "date": "2025-03-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3456",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dc6887019d4d7d576caccd44825715989561d027"
+    },
+    {
+      "sha": "e6511622d5",
+      "message": "Node - CommonJS Test Module Error Resolution (#3435)",
+      "date": "2025-03-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3435",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e6511622d5c0775122a8c5996876c45da52ccbd0"
+    },
+    {
+      "sha": "a0494a47cf",
+      "message": "ORT- Add resolutions for hybrid-node-tests and bump versions (#2987)",
+      "date": "2025-01-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2987",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a0494a47cfe2d7d0811f1b6aadcb61b30f99beb1"
+    },
+    {
+      "sha": "de9526dddb",
+      "message": "Update ORT approved list (#2922)",
+      "date": "2025-01-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2922",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/de9526dddb8535024cdeb7a82311a8f5f1164446"
+    },
+    {
+      "sha": "91eb2cf049",
+      "message": "Update ORT to skip approved packages or those under testing (#2890)",
+      "date": "2025-01-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2890",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/91eb2cf0494d0109179dac22936277621de1a292"
+    },
+    {
+      "sha": "4d33f95c34",
+      "message": "Python: add AZ Affinity ReadFrom strategy Support (#2676)",
+      "date": "2024-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2676",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4d33f95c344bb07f4b6d4b6bf37ce5fab55be00f"
+    },
+    {
+      "sha": "86fa0d4648",
+      "message": "Python : Client API for retrieving internal statistics (#2707)",
+      "date": "2024-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2707",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/86fa0d464819219360d2372ba086c27772dec923"
+    },
+    {
+      "sha": "664cc8eadc",
+      "message": "Merge pull request #2507 from valkey-io/python/json.mget",
+      "date": "2024-11-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2507",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/664cc8eadcb4f91a40ec52e3b4e813f78ca6cff4"
     }
   ],
   "review_list": [
@@ -130,6 +234,62 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4510",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/431d8d8c47b31a886c078cbf0915d481bd4271c1"
+    },
+    {
+      "sha": "48d286358b",
+      "message": "Python: increase request timeout of ACL client in python tests (#3978)",
+      "date": "2025-05-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3978",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/48d286358b3bc1dcef812c47b945af8981c9ebc0"
+    },
+    {
+      "sha": "b8322fc487",
+      "message": "Python: fix see section in batches (#3768)",
+      "date": "2025-05-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3768",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b8322fc487154c3cbf89683000da57d114bfbd2c"
+    },
+    {
+      "sha": "a05df1ebde",
+      "message": "Python: fix mkdocs for batches (#3764)",
+      "date": "2025-05-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3764",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a05df1ebdefaba964e8cb2121dfcb2b847d08d6a"
+    },
+    {
+      "sha": "561461afc6",
+      "message": "Add an installation part in the readme of node (#3614)",
+      "date": "2025-04-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3614",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/561461afc6d852ad27bb25a3162c2d0ba06a3275"
+    },
+    {
+      "sha": "e846b377c2",
+      "message": "Python: Add equality check to ExpirySet (#3558)",
+      "date": "2025-04-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3558",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e846b377c2b69435868f46378620889e2cac6586"
+    },
+    {
+      "sha": "235ec98572",
+      "message": "JAVA: remove reference to outdated build task in DEVELOPER.md (#3393)",
+      "date": "2025-03-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3393",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/235ec985723318073c06908d5dec95b5a7730cec"
+    },
+    {
+      "sha": "6c7b7830e3",
+      "message": "Merge pull request #2953 from valkey-io/fix_ort_wf",
+      "date": "2025-01-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2953",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6c7b7830e3e8f5e32d3035a7cdf2d136143f505c"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "title": "GilboaAWS",
   "login": "GilboaAWS",
   "avatar_url": "https://avatars.githubusercontent.com/u/97948000?v=4",
-  "score": 4,
-  "commit_count": 2,
-  "review_count": 2,
+  "score": 22,
+  "commit_count": 12,
+  "review_count": 10,
   "repos": [
     "valkey-glide"
   ],
@@ -24,6 +24,86 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4318",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ce824d9ea7cc1f48cf412ad63fe2f9c0279df168"
+    },
+    {
+      "sha": "960f3b5c4a",
+      "message": "Python Wrapper - Support TLS insecure (#3375)",
+      "date": "2025-06-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3375",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/960f3b5c4a228e0c12f95a0a5155a0fe6281cfd3"
+    },
+    {
+      "sha": "10a2a41176",
+      "message": "Move refresh slot to the background in the Data Path. (#3851)",
+      "date": "2025-05-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3851",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/10a2a4117651fb8609d37d1c8bcd26a8e50e8a45"
+    },
+    {
+      "sha": "750894b5d1",
+      "message": "[Cherry-pick from main] Added head of the line blocking test for refresh slot (#3926) (#3943)",
+      "date": "2025-05-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3943",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/750894b5d1d5a685de192b9929424039e84ac896"
+    },
+    {
+      "sha": "05ac05b4e3",
+      "message": "Added head of the line blocking test for refresh slot (#3926)",
+      "date": "2025-05-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3926",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/05ac05b4e3aed2b1c710507d580de92847a27499"
+    },
+    {
+      "sha": "25e1a3cb03",
+      "message": "Expose Retry Strategy params of the exponential backoff reconnection for CME (#3747)",
+      "date": "2025-05-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3747",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/25e1a3cb0361166a67f2701475210b43af0c42a2"
+    },
+    {
+      "sha": "bb01bf6b6d",
+      "message": "Move retry_strategies into the redis-rs + Add optional Jitter param. (#3701)",
+      "date": "2025-05-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3701",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bb01bf6b6dae82807e0a44fbf685c226e04e2914"
+    },
+    {
+      "sha": "e65bb30055",
+      "message": "Update README file to wrap code snippet (#3307)",
+      "date": "2025-03-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3307",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e65bb30055bfa577ad710e73707e3c4bd4642f23"
+    },
+    {
+      "sha": "30d3dc2ccb",
+      "message": "Adding option to print logs in redis-rs tests (#3300)",
+      "date": "2025-03-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3300",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/30d3dc2ccb327c748d37819eb5f140f4303ba321"
+    },
+    {
+      "sha": "efab65931c",
+      "message": "[redis-rs][core] Move connection refresh to the background (#2915)",
+      "date": "2025-02-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2915",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/efab65931c729553bb13fee457bfbb067018378b"
+    },
+    {
+      "sha": "b6565eb9a5",
+      "message": "Enable refresh slots after reconnecting to initial nodes. (#2921)",
+      "date": "2025-01-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2921",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b6565eb9a5e29b59d87e2cfe0d1a36e7e0d344f9"
     }
   ],
   "review_list": [
@@ -234,6 +314,70 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4121",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cace40432b95b74e4ebaceb1b7dd805515eaa015"
+    },
+    {
+      "sha": "aef2842bfe",
+      "message": "Node: move BackoffStrategy configuration to BaseConfiguration + Added Jitter param (#3792)",
+      "date": "2025-05-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3792",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/aef2842bfea60030923b5e0e9aa4da0cd47ff008"
+    },
+    {
+      "sha": "aef2842bfe",
+      "message": "Node: move BackoffStrategy configuration to BaseConfiguration + Added Jitter param (#3792)",
+      "date": "2025-05-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3792",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/aef2842bfea60030923b5e0e9aa4da0cd47ff008"
+    },
+    {
+      "sha": "38c5bde6a0",
+      "message": "Java: move BackoffStrategy configuration to BaseConfiguration + Added Jitter param (#3783)",
+      "date": "2025-05-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3783",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/38c5bde6a0fcb78e7c4c822292dd4ee87d884256"
+    },
+    {
+      "sha": "b2a87faa70",
+      "message": "Enhance BackoffStrategy documentation to clarify jitter in retry attempts (#3980)",
+      "date": "2025-05-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3980",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b2a87faa702ff8efac49574c6332f5a67991e451"
+    },
+    {
+      "sha": "ea205cae0f",
+      "message": "Refactor batch retry strategy: rename to ClusterBatchRetryStrategy (#3745)",
+      "date": "2025-05-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3745",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ea205cae0f8fbfdfc628c7e767101d549e1273d8"
+    },
+    {
+      "sha": "ca3bf562ef",
+      "message": "Merge pull request #3331 from valkey-io/fix_redis_rs_workflow",
+      "date": "2025-03-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3331",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ca3bf562efbfe41ec91b3dd627ef63882d453446"
+    },
+    {
+      "sha": "a410ea5d49",
+      "message": "Merge pull request #3044 from valkey-io/ephemeral_label",
+      "date": "2025-02-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3044",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a410ea5d4920dcff7284c434363187963c5450e8"
+    },
+    {
+      "sha": "4902f80892",
+      "message": "Merge pull request #2927 from valkey-io/scale-SHR",
+      "date": "2025-01-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2927",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4902f8089249e488c04dfdbfddc2cb7f71547c4a"
     }
   ]
 }
