@@ -2,9 +2,9 @@
   "title": "pratheep-kumar",
   "login": "pratheep-kumar",
   "avatar_url": "https://avatars.githubusercontent.com/u/40911083?v=4",
-  "score": 27,
-  "commit_count": 15,
-  "review_count": 12,
+  "score": 31,
+  "commit_count": 16,
+  "review_count": 15,
   "repos": [
     "valkey-glide",
     "valkey-glide-ruby"
@@ -129,6 +129,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5010",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7951f3073fbe29d39535f4ae3bdf42108c38b631"
+    },
+    {
+      "sha": "d4c2e1190a",
+      "message": "Implementing valkey cluster commands for ruby (#50)",
+      "date": "2025-08-19",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/50",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d4c2e1190ab9d999988a2b8c4ae5f46a125d0f31"
     }
   ],
   "review_list": [
@@ -227,6 +235,30 @@
       "repo": "valkey-glide-ruby",
       "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/59",
       "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/fc6a8a4daabeeb1e1d16e9b115ea8a0d027b1890"
+    },
+    {
+      "sha": "706320e673",
+      "message": "Updating latest libglide_ffi.so file",
+      "date": "2025-11-27",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/58",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/706320e6733209f6e4678e13a0cfef2c51ca5044"
+    },
+    {
+      "sha": "dc86c09512",
+      "message": "Fixing lint issues",
+      "date": "2025-11-20",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/56",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/dc86c0951234143185554384b73909d3fce61d8c"
+    },
+    {
+      "sha": "c35d238848",
+      "message": "Implementing function commands",
+      "date": "2025-11-20",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/56",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/c35d238848f5b4747ee6b7263f686da3321ed293"
     }
   ]
 }

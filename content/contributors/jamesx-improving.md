@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 196,
+  "score": 201,
   "commit_count": 64,
-  "review_count": 132,
+  "review_count": 137,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -797,6 +797,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0031ed039272a6ae31cbfc15b000acce7b9aa6c3"
     },
     {
+      "sha": "4a5ae28897",
+      "message": "Remove dotnet 6.0 support (#167)",
+      "date": "2026-01-02",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/167",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4a5ae28897e3750f8dc627a598daebb38bcc4872"
+    },
+    {
       "sha": "a24c9a64d5",
       "message": "Cherry-pick from 2.2: Node: Fix build time type error #5052 (#5058)",
       "date": "2025-12-12",
@@ -821,6 +829,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/050bc2e17948ff42e39284598b531e9789db4506"
     },
     {
+      "sha": "87f8769765",
+      "message": "Bump `valkey-glide` submodule (#157)",
+      "date": "2025-11-28",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/157",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/87f876976551093dd391d907166c9032e5ff671a"
+    },
+    {
       "sha": "7951f3073f",
       "message": "Enabling cluster commands in request_type file (#5010)",
       "date": "2025-11-27",
@@ -843,6 +859,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4908",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/13a481747afeac4f720e013bc23a484bb5d4ac42"
+    },
+    {
+      "sha": "5c81c7e512",
+      "message": "Fix lint job failures: increase timeout and fix lint errors (#130)",
+      "date": "2025-11-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/130",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5c81c7e512646248fd87e984c6f18c47cd2bf724"
     },
     {
       "sha": "6ac8b6a22c",
@@ -973,6 +997,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9fa78c5864ba906f81a1fd2e05591b42e822adf1"
     },
     {
+      "sha": "380cd28275",
+      "message": "Bump submodule + update gitignore (#43)",
+      "date": "2025-09-03",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/43",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/380cd28275d0e3f5bf69bde868f0d83242e92d33"
+    },
+    {
       "sha": "c45c5a06e1",
       "message": "Fix flaky hash command tests by using order-agnostic comparisons (#4638)",
       "date": "2025-09-02",
@@ -1027,6 +1059,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4656",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3f56f8370e2431b494037a89a23cbf3ea2743ebe"
+    },
+    {
+      "sha": "477bafa4b6",
+      "message": "Fix CD pipeline. (#38)",
+      "date": "2025-08-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/38",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/477bafa4b63a5ee8a08765c1cae59888bc8a6226"
     },
     {
       "sha": "2929c97a65",

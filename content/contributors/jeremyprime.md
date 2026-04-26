@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 89,
+  "score": 110,
   "commit_count": 27,
-  "review_count": 62,
+  "review_count": 83,
   "repos": [
     "spring-data-valkey",
     "valkey-glide"
@@ -429,6 +429,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/530cbcd88967ec072942ae132d49bc2d069b111b"
     },
     {
+      "sha": "000fe7eefd",
+      "message": "Bitmap command interface refactor (#281)",
+      "date": "2026-04-09",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/281",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/000fe7eefd8d7eaa52454c862f758c06239a6101"
+    },
+    {
       "sha": "6f88af2a09",
       "message": "test: fix cluster cleanup to handle TLS cluster prefixes (#5650)",
       "date": "2026-04-08",
@@ -469,12 +477,44 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5ee911e673d58b78628b5ca1481bd632e811e8f5"
     },
     {
+      "sha": "7401bd78c8",
+      "message": "Add `IBaseClient`, `IGlideClient`, and `IGlideClusterClient` interfaces (#274)",
+      "date": "2026-04-06",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/274",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/7401bd78c879b067c4dfb0edcb80d68ce87049eb"
+    },
+    {
+      "sha": "a29be0875e",
+      "message": "Replace raw numeric time parameters with TimeSpan and DateTimeOffset (#258)",
+      "date": "2026-04-06",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/258",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/a29be0875e1cc01ca89c9e4875cbbd13233d1d6a"
+    },
+    {
+      "sha": "8b62a4d514",
+      "message": "fix: Remove unnecessary `Task<bool>` return types from GLIDE-native methods (#261)",
+      "date": "2026-04-03",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/261",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8b62a4d51420ee39c8fa12f3eb4f68315cd7e396"
+    },
+    {
       "sha": "f82a01e1d4",
       "message": "perf(java): replace stream+flatMap with pre-sized for-loop in ArrayTransformUtils (#5631)",
       "date": "2026-04-02",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5631",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f82a01e1d464c641f371b7b6d275e044d75a3d8a"
+    },
+    {
+      "sha": "986d4bfa3d",
+      "message": "Update documentation to link to the official Valkey GLIDE docs site (#256)",
+      "date": "2026-04-02",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/256",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/986d4bfa3d77ce193b3fad2c266885a1c07fa2dc"
     },
     {
       "sha": "745946b61d",
@@ -501,6 +541,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f1126f0608c9ad9357f12a004eb1c35cebc9fcdb"
     },
     {
+      "sha": "d60e76c409",
+      "message": "Add lychee link checking and improve linting (#255)",
+      "date": "2026-04-01",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/255",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d60e76c409b7ca6996a94e34389cb7ed883de7db"
+    },
+    {
       "sha": "f47fd4f4cb",
       "message": "Update supported compression commands (#5420)",
       "date": "2026-03-31",
@@ -509,12 +557,36 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f47fd4f4cbb61b074ff351f80a75fb7f7e3918ea"
     },
     {
+      "sha": "6f7a2a783c",
+      "message": "Remove CommandFlags from GLIDE interfaces and relocate to SER compatibility layer (#250)",
+      "date": "2026-03-31",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/250",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/6f7a2a783cc15110ce4e82a80f73d1b93af87276"
+    },
+    {
       "sha": "9a45a6dfe0",
       "message": "Core: Add IAM token cache support for cluster reconnections (#5663)",
       "date": "2026-03-30",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5663",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9a45a6dfe060a856b7fc201f48c76d16b1e1cc35"
+    },
+    {
+      "sha": "8c80e1aeac",
+      "message": "Remove legacy benchmarking code and update docs to point to resp-bench (#253)",
+      "date": "2026-03-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/253",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8c80e1aeac9a7fdc92da55576ddfb5f66975140b"
+    },
+    {
+      "sha": "ea163917fe",
+      "message": "Add XML documentation comments to resolve CS1591 violations (#249)",
+      "date": "2026-03-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/249",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/ea163917fec651637b839547310b37a16fcadf35"
     },
     {
       "sha": "df3bfb2690",
@@ -533,12 +605,28 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f7ee5d506062e6fb58db914e3396863e73bcf584"
     },
     {
+      "sha": "d0ee36679a",
+      "message": "Use `IDisposable` for sensitive data cleanup (#241)",
+      "date": "2026-03-25",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/241",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d0ee36679a009ebacce3c92f40b3ed07c8806d53"
+    },
+    {
       "sha": "3bea345bad",
       "message": "Node: Implement transparent compression feature (#5648)",
       "date": "2026-03-24",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5648",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3bea345bad09af8c46063238b38efa9989324db3"
+    },
+    {
+      "sha": "5a78af5400",
+      "message": "Generalize collection parameter types from arrays to IEnumerable (#234)",
+      "date": "2026-03-24",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/234",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5a78af5400c728726b6a6e3eed4c77a0854b6ffd"
     },
     {
       "sha": "61e27067c7",
@@ -557,12 +645,52 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/b4d34bab1f06696f808da8eba733a115a5a4f083"
     },
     {
+      "sha": "06c12e8258",
+      "message": "cleanup: replace \"OK\" string returns with void (#230)",
+      "date": "2026-03-20",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/230",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/06c12e8258f394737c9168d9446fcd7575237c25"
+    },
+    {
+      "sha": "4993130efa",
+      "message": "Add DNS and TLS tests (#215)",
+      "date": "2026-03-20",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/215",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4993130efad7152428d9db8341def544f9ede4d8"
+    },
+    {
+      "sha": "90e2e6433a",
+      "message": "security: address high priority issues (#228)",
+      "date": "2026-03-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/228",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/90e2e6433a35b28ae86c4e8ea02b084e7a0f6a6b"
+    },
+    {
       "sha": "3b2b276af1",
       "message": "Address issues with tests in CI (#5625)",
       "date": "2026-03-18",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5625",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3b2b276af11bfd839a96bfae3350be43a82c99b7"
+    },
+    {
+      "sha": "3c60ad6221",
+      "message": "fix(consistency): change PingAsync return type from TimeSpan to ValkeyValue (#224)",
+      "date": "2026-03-18",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/224",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3c60ad6221462bfba660fdb1d7a7579e40b97a29"
+    },
+    {
+      "sha": "8afa8933dc",
+      "message": "security: add insecure TLS warning and harden certificate file loading (#227)",
+      "date": "2026-03-18",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/227",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8afa8933dcb9d1c1171bf61d880f4cfd9db6a1a7"
     },
     {
       "sha": "496ad24d50",
@@ -701,6 +829,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7f4dc0345298b6cab80a12a1f28a3890ca779f31"
     },
     {
+      "sha": "800f359753",
+      "message": "Add PHP troubleshooting section (#139)",
+      "date": "2026-02-17",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/139",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/800f359753c8b49fb5e0096011de2ca80b38fe2d"
+    },
+    {
       "sha": "1f70359075",
       "message": "feat(jedis-compatibility:): add scripting commands to Jedis compatibility layer (#5305)",
       "date": "2026-02-16",
@@ -765,6 +901,14 @@
       "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/f4529e4dc99cf42b27a4451d3ec91dfe7760d01c"
     },
     {
+      "sha": "2af32300bf",
+      "message": "Stream Commands (#151)",
+      "date": "2025-11-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/151",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2af32300bfe175c6c66993cd4a8e8215e90b06da"
+    },
+    {
       "sha": "ec2ca115d2",
       "message": "Core: Fix rust benchmark formatting (#5009)",
       "date": "2025-11-24",
@@ -779,6 +923,30 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5000",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d677f1635fcd5ce3351a98fffd0c17c25b39e206"
+    },
+    {
+      "sha": "7119d9893b",
+      "message": "feat: Implement PubSub commands for standalone and cluster clients (#109)",
+      "date": "2025-11-20",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/109",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/7119d9893b408217a55a7080de25fe60b54c9f02"
+    },
+    {
+      "sha": "3c80ce8d42",
+      "message": "Bitmap command support (#129)",
+      "date": "2025-11-07",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/129",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3c80ce8d426acf1721002a5b5da3a71736538b9f"
+    },
+    {
+      "sha": "5c81c7e512",
+      "message": "Fix lint job failures: increase timeout and fix lint errors (#130)",
+      "date": "2025-11-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/130",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5c81c7e512646248fd87e984c6f18c47cd2bf724"
     },
     {
       "sha": "0494236513",

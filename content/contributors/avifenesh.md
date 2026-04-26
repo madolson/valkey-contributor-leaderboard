@@ -2,9 +2,9 @@
   "title": "avifenesh",
   "login": "avifenesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
-  "score": 249,
-  "commit_count": 88,
-  "review_count": 161,
+  "score": 254,
+  "commit_count": 92,
+  "review_count": 162,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -714,6 +714,38 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1322",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/02f3733a2e6341845ecd176ecc012750756e6680"
+    },
+    {
+      "sha": "d6b80c6a30",
+      "message": "Fix temporarily misalignment with new version of Cargo (#1232)",
+      "date": "2024-04-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1232",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d6b80c6a30226a811bb0246b6551367b920001f8"
+    },
+    {
+      "sha": "3158103dc7",
+      "message": "Align main with changes needed for hybrid publish (#1199)",
+      "date": "2024-04-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1199",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3158103dc7f599a3af35bf52bf043c1631192188"
+    },
+    {
+      "sha": "5eb484ebf9",
+      "message": "Update CHANGELOG.md (#1189)",
+      "date": "2024-03-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1189",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5eb484ebf97fb2d231d7d2f43f1998b75a031fbc"
+    },
+    {
+      "sha": "ea8196950b",
+      "message": "node - fixed broken path of tsconfig translation (#1183)",
+      "date": "2024-03-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1183",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ea8196950bfde32f8587d07c0fa7c2dfbeb7fe02"
     }
   ],
   "review_list": [
@@ -990,6 +1022,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/573fd8e0a69674ccd173b4a4ff7a1708a6d15b55"
     },
     {
+      "sha": "ff27749025",
+      "message": "Bump the patch-updates group with 1 update (#10)",
+      "date": "2025-08-01",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/10",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/ff277490256716133c75f8b48abacf4acc7e6408"
+    },
+    {
       "sha": "5d32538db0",
       "message": "support cdylib crate-type in ffi package (#4474)",
       "date": "2025-07-31",
@@ -1236,6 +1276,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4368",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0fb00ecd9ee82150d086fa80980343d1c0e0d6b5"
+    },
+    {
+      "sha": "df3ad4fd2e",
+      "message": "Update README.md (#22)",
+      "date": "2025-07-11",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/22",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/df3ad4fd2ea7c0133cc7e4294b0b644b63fbe167"
     },
     {
       "sha": "75ade9a69c",

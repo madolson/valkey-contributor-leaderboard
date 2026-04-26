@@ -2,8 +2,8 @@
   "title": "Sasidharan3094",
   "login": "Sasidharan3094",
   "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
-  "score": 28,
-  "commit_count": 17,
+  "score": 30,
+  "commit_count": 19,
   "review_count": 11,
   "repos": [
     "valkey-glide",
@@ -139,12 +139,28 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/fc6a8a4daabeeb1e1d16e9b115ea8a0d027b1890"
     },
     {
+      "sha": "706320e673",
+      "message": "Updating latest libglide_ffi.so file",
+      "date": "2025-11-27",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/58",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/706320e6733209f6e4678e13a0cfef2c51ca5044"
+    },
+    {
       "sha": "af22b77bcd",
       "message": "Adding support for module commands (#5004)",
       "date": "2025-11-26",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5004",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/af22b77bcd812411d495766f0c403fccaee3de1a"
+    },
+    {
+      "sha": "dc86c09512",
+      "message": "Fixing lint issues",
+      "date": "2025-11-20",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/56",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/dc86c0951234143185554384b73909d3fce61d8c"
     }
   ],
   "review_list": [

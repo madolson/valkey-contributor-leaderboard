@@ -2,8 +2,8 @@
   "title": "nihohit",
   "login": "nihohit",
   "avatar_url": "https://avatars.githubusercontent.com/u/4604038?v=4",
-  "score": 8,
-  "commit_count": 7,
+  "score": 11,
+  "commit_count": 10,
   "review_count": 1,
   "repos": [
     "valkey-glide"
@@ -64,6 +64,30 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2894",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a4d7fe18ed0df3c80456b6f91e5d784ce689bd38"
+    },
+    {
+      "sha": "ee9ef59bb3",
+      "message": "C#: Allow passing variable number of args to command.  (#1208)",
+      "date": "2024-04-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1208",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ee9ef59bb3409065306c819ca5400d8307254091"
+    },
+    {
+      "sha": "8971be6bcb",
+      "message": "C#: Split debug and release Rust compilation. (#1202)",
+      "date": "2024-04-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1202",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8971be6bcb15432126834f3e30d8088e05969ede"
+    },
+    {
+      "sha": "c9537dbebc",
+      "message": "Removed signals hook in socket. (#1201)",
+      "date": "2024-04-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1201",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c9537dbebc8e7c63c4c229b66dae2ba6721b53db"
     }
   ],
   "review_list": [

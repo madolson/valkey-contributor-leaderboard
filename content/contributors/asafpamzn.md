@@ -2,14 +2,103 @@
   "title": "asafpamzn",
   "login": "asafpamzn",
   "avatar_url": "https://avatars.githubusercontent.com/u/97948347?v=4",
-  "score": 45,
-  "commit_count": 2,
-  "review_count": 43,
+  "score": 62,
+  "commit_count": 13,
+  "review_count": 49,
   "repos": [
     "valkey-doc",
-    "valkey-glide"
+    "valkey-glide",
+    "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "3652e38d8f",
+      "message": "Fix memory leaks found by valgrind (#64)",
+      "date": "2025-10-23",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/64",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/3652e38d8ff5193da0ab1a6d8deea7d0334eb6ec"
+    },
+    {
+      "sha": "3f1bab88d0",
+      "message": "Fix memory leaks  (#63)",
+      "date": "2025-10-21",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/63",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/3f1bab88d0795057c2295d6bedc91f2bb7fe1a72"
+    },
+    {
+      "sha": "73a57f94dd",
+      "message": "Fix memory leaks (#58)",
+      "date": "2025-09-30",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/58",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/73a57f94dd7d04c3168deb741a1b4aa330f3afb5"
+    },
+    {
+      "sha": "5c7e8dc3eb",
+      "message": "Dead code removal ",
+      "date": "2025-09-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/55",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/5c7e8dc3ebf82fee0abe9d2db110a2d5fc8dd9cc"
+    },
+    {
+      "sha": "13874b9edb",
+      "message": "Add new tests and refactor GEO code",
+      "date": "2025-09-26",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/54",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/13874b9edb8d3ad70be482f70564d6aed55d22c7"
+    },
+    {
+      "sha": "6c4572640c",
+      "message": "Dead code removal. (#50)",
+      "date": "2025-09-25",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/50",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/6c4572640cfce2d7c997dcb6968d23fc607e2ee7"
+    },
+    {
+      "sha": "459f65a01b",
+      "message": "Fixed PHP lint errors. (#46)",
+      "date": "2025-09-19",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/46",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/459f65a01b0b53c823e47dbdb585b9e256b83811"
+    },
+    {
+      "sha": "5fda58d7cc",
+      "message": "Transaction support for all supported commands",
+      "date": "2025-09-18",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/36",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/5fda58d7cc2cd5acbc6db3a0f05051518015a253"
+    },
+    {
+      "sha": "c51138c4db",
+      "message": "Function support  (#23)",
+      "date": "2025-08-14",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/23",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/c51138c4db7a1b6f8de1828425d5f8cf2b94c703"
+    },
+    {
+      "sha": "684324bd56",
+      "message": "Logger support ",
+      "date": "2025-08-11",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/22",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/684324bd56668388100b78a21c87a190cd0bb2d2"
+    },
+    {
+      "sha": "bd4fce4acb",
+      "message": "update CI to run tests on each commit.",
+      "date": "2025-08-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/15",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/bd4fce4acb3f51124d9414c0a513709cf6cd5e15"
+    },
     {
       "sha": "2af1a9bff4",
       "message": "Introduce Valkey client overview (#164)",
@@ -37,12 +126,68 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/969fbd342a6db68715af6d2a78bd20c11a662cc2"
     },
     {
+      "sha": "567f8bda92",
+      "message": "Generate and test PIE packages (#31)",
+      "date": "2025-09-11",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/31",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/567f8bda92cc8b04afeb5c84b03f3d951fc06a54"
+    },
+    {
+      "sha": "4046155726",
+      "message": "Implement whitebox testing of constructor arguments (#24)",
+      "date": "2025-08-17",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/24",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/40461557260c7d8afde901dbcb3ecadc34d8904e"
+    },
+    {
       "sha": "b549eff034",
       "message": "FFI/ Python Sync - rename log function (#4569)",
       "date": "2025-08-11",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4569",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b549eff0340f693ecfe86f01a8a1a112098c8a98"
+    },
+    {
+      "sha": "d9fc367c61",
+      "message": "Update request timeout exceeded test (#21)",
+      "date": "2025-08-11",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/21",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/d9fc367c618398e5ee73213e7f79553fa4f5632d"
+    },
+    {
+      "sha": "598fececae",
+      "message": "Revert handling of command response errors to be return values instead of exceptions (#19)",
+      "date": "2025-08-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/19",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/598fececae78ee9cbd41be23994b040f9eb196f6"
+    },
+    {
+      "sha": "c5d9a05f28",
+      "message": "Resolve semgrep warnings about variable interpolation in run commands (#17)",
+      "date": "2025-08-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/17",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/c5d9a05f28badd856ce09298299d78fff046033f"
+    },
+    {
+      "sha": "576eb72846",
+      "message": "Constructor integration tests (#13)",
+      "date": "2025-08-07",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/13",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/576eb7284669548ab9cb7c0c208a918949785862"
+    },
+    {
+      "sha": "8b5f76ae3c",
+      "message": "Updated attribution files (#8)",
+      "date": "2025-08-06",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/8",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/8b5f76ae3c7f6f09e05491d28ad22bdd83617d53"
     },
     {
       "sha": "3eaff817a9",

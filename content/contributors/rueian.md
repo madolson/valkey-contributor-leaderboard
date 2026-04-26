@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 15,
+  "score": 34,
   "commit_count": 8,
-  "review_count": 7,
+  "review_count": 26,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -132,6 +132,158 @@
       "repo": "valkey-go",
       "pr_url": "https://github.com/valkey-io/valkey-go/pull/110",
       "commit_url": "https://github.com/valkey-io/valkey-go/commit/cd4d3d34664fd0456fd1b500e0b78097c7460e21"
+    },
+    {
+      "sha": "96d12e3429",
+      "message": "fix: race condition in Lua script SHA-1 loading (#108)",
+      "date": "2026-02-02",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/108",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/96d12e3429ec743da635b175dba7a97d049ccdf1"
+    },
+    {
+      "sha": "77aa0ab14c",
+      "message": "feat: add ability to get AZ from an INFO command (#105)",
+      "date": "2026-01-19",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/105",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/77aa0ab14c9481474f17e4a12e896b785c2b9911"
+    },
+    {
+      "sha": "05f746de79",
+      "message": "fix: valkeycompat NewAdapter sets maxp incorrectly (#102)",
+      "date": "2025-12-31",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/102",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/05f746de793ffe435ba165f0feaae3141592d334"
+    },
+    {
+      "sha": "d8b00ff9ee",
+      "message": "Set `server.*` attrs in more cases (#95)",
+      "date": "2025-12-19",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/95",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/d8b00ff9ee0a256d24612323746a66878f36ac71"
+    },
+    {
+      "sha": "427e84058d",
+      "message": "feat: Add MaxMovedRedirections option to prevent infinite redirect loops (#92)",
+      "date": "2025-12-03",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/92",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/427e84058df04c8fa4f1da5739616b35b4b0aed0"
+    },
+    {
+      "sha": "05bd542b17",
+      "message": "Add atomic slot migration commands for Valkey 9.0 (#88)",
+      "date": "2025-11-13",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/88",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/05bd542b17f33e2e813d8dc4b68678baf2c1e141"
+    },
+    {
+      "sha": "b219bd1ace",
+      "message": "Valkeyotel cache key pattern (#87)",
+      "date": "2025-11-13",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/87",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/b219bd1acee4e13d1e413fd023b02d7f08d87fee"
+    },
+    {
+      "sha": "183878e224",
+      "message": "feat : add all Valkey 8.1/9.0 filters to CLIENT LIST and Client KILL (#83)",
+      "date": "2025-10-04",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/83",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/183878e224665f20b85f8d0ad3d684ad6172cb45"
+    },
+    {
+      "sha": "65c2a6a53a",
+      "message": "feat: client capa redirect (#82)",
+      "date": "2025-10-01",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/82",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/65c2a6a53a5fff0822f469b5e8cc6dacc143632f"
+    },
+    {
+      "sha": "38ea07007f",
+      "message": "fix redirections that happen for cmds with InitSlot (#80)",
+      "date": "2025-09-24",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/80",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/38ea07007f052324423dbd19eb3c559d8110a281"
+    },
+    {
+      "sha": "d4865cbdee",
+      "message": "Support new DELIFEQ command #67 (#70)",
+      "date": "2025-08-25",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/70",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/d4865cbdee31fe21eaebf5b567ee7aa3e8a60836"
+    },
+    {
+      "sha": "0386cc0245",
+      "message": "Update README.md to reflect algorithm used (#64)",
+      "date": "2025-08-10",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/64",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/0386cc02456ee57c070f5da133acfd1a42191d01"
+    },
+    {
+      "sha": "39c6d451c5",
+      "message": "fix(pipeline): clear placeholder pipeline error after execution (#61)",
+      "date": "2025-07-28",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/61",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/39c6d451c54fc107f6d670aeda8796af5f67d4bd"
+    },
+    {
+      "sha": "021a1bafa8",
+      "message": "Return a singleClient instance even when Dial fails if ForceSingleClient is true (#58)",
+      "date": "2025-07-10",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/58",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/021a1bafa87cbc3928705ed1e962aedc121631e3"
+    },
+    {
+      "sha": "bb44796393",
+      "message": "docs: update valkeylock comment (#57)",
+      "date": "2025-07-04",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/57",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/bb44796393dda0da3c5abd6d8a8d241adbd65cfb"
+    },
+    {
+      "sha": "14a7de54d6",
+      "message": "Spelling (#53)",
+      "date": "2025-06-12",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/53",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/14a7de54d6daa157cc00115f621325186311ae42"
+    },
+    {
+      "sha": "f68a678f7c",
+      "message": "Ensure deterministic routing in _pickMulti and _pickMultiCache (#52)",
+      "date": "2025-06-10",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/52",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/f68a678f7c413b13e6579e3ec30e554bf2cb224b"
+    },
+    {
+      "sha": "6f8a56c05f",
+      "message": "feat: update commands.json to forbid cross slots (#41)",
+      "date": "2025-04-12",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/41",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/6f8a56c05fabe87c612f465eed97dccfbd74a274"
+    },
+    {
+      "sha": "0afe1a355e",
+      "message": "add linters go vet and staticcheck",
+      "date": "2024-05-07",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/7",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/0afe1a355e9eee0c850449286ad82918d8c39c61"
     }
   ]
 }

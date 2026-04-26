@@ -2,9 +2,9 @@
   "title": "Elen-Ghulam",
   "login": "Elen-Ghulam",
   "avatar_url": "https://github.com/Elen-Ghulam.png?size=64",
-  "score": 136,
+  "score": 159,
   "commit_count": 0,
-  "review_count": 136,
+  "review_count": 159,
   "repos": [],
   "commit_list": [],
   "review_list": [
@@ -1095,6 +1095,190 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1245",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e31d06c1e7ed831c2e8f52b0c0b15b56b3ea85ff"
+    },
+    {
+      "sha": "5e609a1fc1",
+      "message": "Java: Add `Zdiffstore` command. (Sorted Set Group) (#1244)",
+      "date": "2024-04-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1244",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5e609a1fc125fa17fc04765e019f19e3ab885d9d"
+    },
+    {
+      "sha": "f16c386173",
+      "message": "Java: Add `Zdiff` command. (Sorted Set Commands) (#1243)",
+      "date": "2024-04-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1243",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f16c38617354f647837248645d9ba7e0f6aeb7db"
+    },
+    {
+      "sha": "4c9c9fface",
+      "message": "Java: Add `SETRANGE` command. (#1235)",
+      "date": "2024-04-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1235",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4c9c9fface616049a3ad0cb076b6cb4d37ce84eb"
+    },
+    {
+      "sha": "9952d6e84f",
+      "message": "Java: Fix transaction handling for cluster client. (#1229)",
+      "date": "2024-04-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1229",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9952d6e84fb576ac802f2dbcb2aa5be6cd91f21a"
+    },
+    {
+      "sha": "fec74b838f",
+      "message": "Clean up all warnings in Java client test (#1213)",
+      "date": "2024-04-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1213",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fec74b838fdb2646c8797a3df044fe2c632a5d3e"
+    },
+    {
+      "sha": "13024badb1",
+      "message": "Java: Add `sismember` command. (Set Commands Group) (#1220)",
+      "date": "2024-04-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1220",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/13024badb16cc3b26d4589b6039a2f9f93f0e90c"
+    },
+    {
+      "sha": "ab4b88492b",
+      "message": "Java: Add `PFMERGE` command. (#1224)",
+      "date": "2024-04-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1224",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ab4b88492b6f57f6dac63c5bcfd932b62106c02b"
+    },
+    {
+      "sha": "63ab900e24",
+      "message": "Java: Add `PFCOUNT` command. (#1222)",
+      "date": "2024-04-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1222",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/63ab900e246432f18ba5692688658f67b182f7a6"
+    },
+    {
+      "sha": "334c86451b",
+      "message": "Java: Add `BLPOP` and `BRPOP` commands. (#1218)",
+      "date": "2024-04-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1218",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/334c86451b2b4bbe292c04ed9a18d61fcbe401f8"
+    },
+    {
+      "sha": "4ffeb22eb9",
+      "message": "Java: Add `RPUSHX` and `LPUSHX` commands. (#1225)",
+      "date": "2024-04-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1225",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4ffeb22eb958ca3996467f10c01b74d0426bc457"
+    },
+    {
+      "sha": "dde7760d57",
+      "message": "Java: Add XADD command (Stream commands) (#1209)",
+      "date": "2024-04-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1209",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dde7760d57c06690b132e1b5cf2264aab43e3de9"
+    },
+    {
+      "sha": "6ef09f9a18",
+      "message": "Java: Update timeout handling in IT. (#1217)",
+      "date": "2024-04-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1217",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6ef09f9a18fe61aa59072a38051184f80b717d1d"
+    },
+    {
+      "sha": "c37238ecb3",
+      "message": "Java: Add `PFADD` command. (#1221)",
+      "date": "2024-04-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1221",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c37238ecb3cafc99806ae03c33faaad1283e5036"
+    },
+    {
+      "sha": "cd8c265a3c",
+      "message": "Groom interface docs and names. (#1214)",
+      "date": "2024-04-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1214",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cd8c265a3c4365abf4d77d870c238a98dd86f39d"
+    },
+    {
+      "sha": "60b596c966",
+      "message": "Java: Add hlen command. (Hash Command Group) (#1212)",
+      "date": "2024-04-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1212",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/60b596c9665f9458cfb0983166f351f2644457d6"
+    },
+    {
+      "sha": "0e0b932c8c",
+      "message": "Python: adds HKEYS command (#1228)",
+      "date": "2024-04-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1228",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0e0b932c8ce81c55e4e130d0474f3569dd5f00a3"
+    },
+    {
+      "sha": "a422b24286",
+      "message": "Java: Add hsetnx command. (Hash Command Group) (#162) (#1211)",
+      "date": "2024-04-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1211",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a422b2428693ec9b139e60f4a76f4a2a71c28926"
+    },
+    {
+      "sha": "5f0b8a39cf",
+      "message": "Java: Add hvals command. (Hash Command Group) (#1210)",
+      "date": "2024-04-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1210",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5f0b8a39cfbb9eeef8acebcaf45068c7817452da"
+    },
+    {
+      "sha": "6b02d16bae",
+      "message": "Java: Add Zrank and Zrankwithscores command. (Sorted Set Commands) (#1179)",
+      "date": "2024-04-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1179",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6b02d16baea4a8df0df5f005246f22a1a21e1ebd"
+    },
+    {
+      "sha": "34341ef0bf",
+      "message": "Java: Add Zrange and ZrangeWithScores command.  (#1166)",
+      "date": "2024-04-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1166",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/34341ef0bf6a82fe71eab69e205e684e1ba52f26"
+    },
+    {
+      "sha": "8e8f950fe8",
+      "message": "Java: Add `persist()` command (#1157)",
+      "date": "2024-04-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1157",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8e8f950fe8350058654871fa94de1b84232e556f"
+    },
+    {
+      "sha": "cae81c8708",
+      "message": "Java: Add `Time()` command (#1155)",
+      "date": "2024-03-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1155",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cae81c87085a22184d1f2a7ef4e298a4c8d19071"
+    },
+    {
+      "sha": "81b884631f",
+      "message": "Java: Add `PTTL()` command (#1156)",
+      "date": "2024-03-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1156",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/81b884631f42b9637c4dc9f772bfdf8f3e69a53f"
     }
   ]
 }

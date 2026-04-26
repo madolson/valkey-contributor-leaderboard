@@ -2,9 +2,9 @@
   "title": "alexey-temnikov",
   "login": "alexey-temnikov",
   "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
-  "score": 16,
+  "score": 17,
   "commit_count": 8,
-  "review_count": 8,
+  "review_count": 9,
   "repos": [
     "valkey-admin",
     "valkey-doc",
@@ -100,6 +100,14 @@
       "repo": "valkey-admin",
       "pr_url": "https://github.com/valkey-io/valkey-admin/pull/202",
       "commit_url": "https://github.com/valkey-io/valkey-admin/commit/37e12d58b6967b47c8269cd405bda51369fb2396"
+    },
+    {
+      "sha": "45dcfb7222",
+      "message": "Bump submodule. (#24)",
+      "date": "2025-08-11",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/24",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/45dcfb722286d3ecbf58ebb0fc9d7f5340bc82bc"
     },
     {
       "sha": "861019cba5",

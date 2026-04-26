@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 52,
-  "commit_count": 23,
-  "review_count": 29,
+  "score": 72,
+  "commit_count": 28,
+  "review_count": 44,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -172,6 +172,46 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/c760c162b75eaa78b875b485a145275fafac36ea"
     },
     {
+      "sha": "1a659f555d",
+      "message": "Moved Modules-API doc from concept into how-to (#145)",
+      "date": "2026-02-18",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/145",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/1a659f555d63e3d40a843c5e22840d26196ab5d1"
+    },
+    {
+      "sha": "d0b84b0b16",
+      "message": "Split OpenTelemetry into concept and how-to guides (#142)",
+      "date": "2026-02-18",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/142",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/d0b84b0b1686e2adfe6192ef93d68bf86d15232c"
+    },
+    {
+      "sha": "974f8ae2eb",
+      "message": "Split pubsub content into concept and how-to guides (#141)",
+      "date": "2026-02-18",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/141",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/974f8ae2eb482d12b34ba45982f3e5cd9396ebb9"
+    },
+    {
+      "sha": "8decab1809",
+      "message": "Split batching vs pipelining into concept and how-to guides (#140)",
+      "date": "2026-02-18",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/140",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/8decab1809ac1915570f414f20d3e8b8d13ef7ac"
+    },
+    {
+      "sha": "8fb77b80b5",
+      "message": "Adding Lua Scripting guides for other languages(#132)",
+      "date": "2026-02-11",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/132",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/8fb77b80b5cafaa3ae7d35b90574ce44d937c764"
+    },
+    {
       "sha": "8097a71957",
       "message": "Add links to the new GLIDE documentation site. (#5002)",
       "date": "2025-12-12",
@@ -278,6 +318,22 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1ea3106852123afd0e44b7144c8592e464442d55"
     },
     {
+      "sha": "d60fc18821",
+      "message": "docs: Minor documentation cleanup (#257)",
+      "date": "2026-04-02",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/257",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d60fc18821ff9bd8a397e02a60a3fda68d84b0d7"
+    },
+    {
+      "sha": "986d4bfa3d",
+      "message": "Update documentation to link to the official Valkey GLIDE docs site (#256)",
+      "date": "2026-04-02",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/256",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/986d4bfa3d77ce193b3fad2c266885a1c07fa2dc"
+    },
+    {
       "sha": "745946b61d",
       "message": "Go: Add JSON.SET and JSON.GET commands (#5662)",
       "date": "2026-04-01",
@@ -294,6 +350,30 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/00f95e35dfc704910d370d46b315d5d2e51a7075"
     },
     {
+      "sha": "8c80e1aeac",
+      "message": "Remove legacy benchmarking code and update docs to point to resp-bench (#253)",
+      "date": "2026-03-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/253",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8c80e1aeac9a7fdc92da55576ddfb5f66975140b"
+    },
+    {
+      "sha": "ea163917fe",
+      "message": "Add XML documentation comments to resolve CS1591 violations (#249)",
+      "date": "2026-03-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/249",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/ea163917fec651637b839547310b37a16fcadf35"
+    },
+    {
+      "sha": "d9ada63d8c",
+      "message": "Add missing blank lines between member declarations (#247)",
+      "date": "2026-03-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/247",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d9ada63d8cce18c0d39fe4c6cf1570a7fbcba77f"
+    },
+    {
       "sha": "df3bfb2690",
       "message": "Add comprehensive C# documentation and cross-language improvements (#173)",
       "date": "2026-03-25",
@@ -308,6 +388,14 @@
       "repo": "valkey-glide-docs",
       "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/173",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/df3bfb26902067e938bcfbfa9d2c9695e38f988e"
+    },
+    {
+      "sha": "57e46a6b48",
+      "message": "(cleanup): Fix IDE0058, IDE0059, and IDE0060 lint violations (#233)",
+      "date": "2026-03-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/233",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/57e46a6b48cea9220165622cea701b24f70dcc9c"
     },
     {
       "sha": "bdc037e47a",
@@ -422,12 +510,84 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ed1d12bddf5b9c64d81a8dfd946a9a7e2e5d1ea3"
     },
     {
+      "sha": "370948c3b5",
+      "message": "PHP: Add migration guide section (#148)",
+      "date": "2026-02-18",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/148",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/370948c3b5d0098ecd05e940953ebabea1a130a4"
+    },
+    {
+      "sha": "800f359753",
+      "message": "Add PHP troubleshooting section (#139)",
+      "date": "2026-02-17",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/139",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/800f359753c8b49fb5e0096011de2ca80b38fe2d"
+    },
+    {
+      "sha": "b06aa2d90d",
+      "message": "PHP: Add Core features section (#135)",
+      "date": "2026-02-14",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/135",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/b06aa2d90d9a162fdce6674765ff2d1b64ff35fd"
+    },
+    {
+      "sha": "1127f6b936",
+      "message": "PHP: Add Quickstart, Basic operations, architecture, command API section (#134)",
+      "date": "2026-02-12",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/134",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/1127f6b93638e87bc7164d20bd6f95d1aaf248eb"
+    },
+    {
+      "sha": "81f716ffa4",
+      "message": "PHP: update quickstart guide (#131)",
+      "date": "2026-02-02",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/131",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/81f716ffa4edaa9c56b36f69ddf6cd132a9754af"
+    },
+    {
+      "sha": "15ae36d789",
+      "message": "Add section on working with Valkey functions (#129)",
+      "date": "2026-01-30",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/129",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/15ae36d789c188d085f2991a1a3602b78b2bad1e"
+    },
+    {
+      "sha": "048ecb0568",
+      "message": "- Add Windows (x86_64) platform support section to quickstart guide (#124)",
+      "date": "2026-01-30",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/124",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/048ecb0568e1e4925692194d874358afc0782ddb"
+    },
+    {
+      "sha": "ae99a2cafc",
+      "message": "chore: update Go quickstart to v2 API (#122)",
+      "date": "2026-01-28",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/122",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/ae99a2cafc5e32b8617595b0d03273d858bee543"
+    },
+    {
       "sha": "67c98c3197",
       "message": "Update README.md with v2.2 release notes (#5076)",
       "date": "2025-12-17",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5076",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67c98c3197422b69fed83ffe7f4d720a9e5ef329"
+    },
+    {
+      "sha": "7e5bbe79a1",
+      "message": "Implement IAM authentication examples in multiple languages (#102)",
+      "date": "2025-12-15",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/102",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/7e5bbe79a1edb22e0724398d3d8bc2d737651446"
     }
   ]
 }

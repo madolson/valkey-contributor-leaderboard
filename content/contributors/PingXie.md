@@ -2,11 +2,12 @@
   "title": "PingXie",
   "login": "PingXie",
   "avatar_url": "https://avatars.githubusercontent.com/u/11568491?v=4",
-  "score": 192,
-  "commit_count": 4,
+  "score": 193,
+  "commit_count": 5,
   "review_count": 188,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-go"
   ],
   "commit_list": [
     {
@@ -40,6 +41,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/2927",
       "commit_url": "https://github.com/valkey-io/valkey/commit/cd6faaa726791447f7adc196b6c77cc20658112d"
+    },
+    {
+      "sha": "f68a678f7c",
+      "message": "Ensure deterministic routing in _pickMulti and _pickMultiCache (#52)",
+      "date": "2025-06-10",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/52",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/f68a678f7c413b13e6579e3ec30e554bf2cb224b"
     }
   ],
   "review_list": [

@@ -2,9 +2,9 @@
   "title": "liorsve",
   "login": "liorsve",
   "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
-  "score": 99,
+  "score": 100,
   "commit_count": 79,
-  "review_count": 20,
+  "review_count": 21,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -669,6 +669,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5295",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e81a8feaf827856e83b3b4cf0c91b4b48d3a225b"
+    },
+    {
+      "sha": "77677cd445",
+      "message": "Pub/Sub: Add Blocking Subscribe/Unsubscribe Commands, Parametrized Tests (#211)",
+      "date": "2026-02-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/211",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/77677cd44562c3bcc19a64c81f69f09b8a3c8932"
     },
     {
       "sha": "a81b62ac27",

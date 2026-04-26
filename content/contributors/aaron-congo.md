@@ -2,9 +2,9 @@
   "title": "aaron-congo",
   "login": "aaron-congo",
   "avatar_url": "https://avatars.githubusercontent.com/u/69273634?v=4",
-  "score": 176,
-  "commit_count": 84,
-  "review_count": 92,
+  "score": 185,
+  "commit_count": 86,
+  "review_count": 99,
   "repos": [
     "valkey-glide"
   ],
@@ -680,6 +680,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1239",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9ab5a1e0b41efd46f1fc5d78694e4862a63c1c34"
+    },
+    {
+      "sha": "0e0b932c8c",
+      "message": "Python: adds HKEYS command (#1228)",
+      "date": "2024-04-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1228",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0e0b932c8ce81c55e4e130d0474f3569dd5f00a3"
+    },
+    {
+      "sha": "4681552df7",
+      "message": "Go: Implement Rust logic for connect (#1127)",
+      "date": "2024-04-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1127",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4681552df748b4865d0499869853115638d44405"
     }
   ],
   "review_list": [
@@ -1418,6 +1434,62 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1276",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7abb59ab3af738fb38b3d599b0cbf9a031f16bc2"
+    },
+    {
+      "sha": "fec74b838f",
+      "message": "Clean up all warnings in Java client test (#1213)",
+      "date": "2024-04-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1213",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fec74b838fdb2646c8797a3df044fe2c632a5d3e"
+    },
+    {
+      "sha": "6f94d6851a",
+      "message": "Fix python flakey test",
+      "date": "2024-04-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1216",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6f94d6851a0df107e54f2429cbbf80cbe5c8768a"
+    },
+    {
+      "sha": "ab4b88492b",
+      "message": "Java: Add `PFMERGE` command. (#1224)",
+      "date": "2024-04-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1224",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ab4b88492b6f57f6dac63c5bcfd932b62106c02b"
+    },
+    {
+      "sha": "63ab900e24",
+      "message": "Java: Add `PFCOUNT` command. (#1222)",
+      "date": "2024-04-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1222",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/63ab900e246432f18ba5692688658f67b182f7a6"
+    },
+    {
+      "sha": "334c86451b",
+      "message": "Java: Add `BLPOP` and `BRPOP` commands. (#1218)",
+      "date": "2024-04-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1218",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/334c86451b2b4bbe292c04ed9a18d61fcbe401f8"
+    },
+    {
+      "sha": "6ef09f9a18",
+      "message": "Java: Update timeout handling in IT. (#1217)",
+      "date": "2024-04-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1217",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6ef09f9a18fe61aa59072a38051184f80b717d1d"
+    },
+    {
+      "sha": "c37238ecb3",
+      "message": "Java: Add `PFADD` command. (#1221)",
+      "date": "2024-04-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1221",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c37238ecb3cafc99806ae03c33faaad1283e5036"
     }
   ]
 }

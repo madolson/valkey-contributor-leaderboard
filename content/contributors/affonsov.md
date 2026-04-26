@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 87,
-  "commit_count": 49,
-  "review_count": 38,
+  "score": 103,
+  "commit_count": 54,
+  "review_count": 49,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -165,6 +165,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4af2e71270dcc0e537fa881c98123ac832668ea9"
     },
     {
+      "sha": "048ecb0568",
+      "message": "- Add Windows (x86_64) platform support section to quickstart guide (#124)",
+      "date": "2026-01-30",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/124",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/048ecb0568e1e4925692194d874358afc0782ddb"
+    },
+    {
       "sha": "c84ad14a30",
       "message": "Enable Windows integration test in workflow through WSL (#5112)",
       "date": "2026-01-28",
@@ -189,6 +197,30 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/706a7499e014d1261376c0a3c3599664411d76f2"
     },
     {
+      "sha": "b892eee955",
+      "message": "ci: Add release automation workflows and version management (#94)",
+      "date": "2025-12-19",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/94",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b892eee9554cf28ed285f561dfbfc8dbc0e3e2e7"
+    },
+    {
+      "sha": "7e5bbe79a1",
+      "message": "Implement IAM authentication examples in multiple languages (#102)",
+      "date": "2025-12-15",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/102",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/7e5bbe79a1edb22e0724398d3d8bc2d737651446"
+    },
+    {
+      "sha": "fca36c86bd",
+      "message": "Cherry-pick: merge release 0.10 branch to main (#91)",
+      "date": "2025-12-09",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/91",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/fca36c86bd7f17d86c9f805ecccf340ddc085c99"
+    },
+    {
       "sha": "7eed47a22e",
       "message": "Cherry-picking: #5019 and #5022 from release-2.2 branch to main (#5025)",
       "date": "2025-12-04",
@@ -211,6 +243,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4930",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/22efa8c12c23dac41214cf68168a554df9796554"
+    },
+    {
+      "sha": "e73d115363",
+      "message": "Add IAM authentication support for ElastiCache and MemoryDB (#69)",
+      "date": "2025-10-31",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/69",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/e73d11536397ec7464c6bad1fd9e962a28723e79"
     },
     {
       "sha": "3b7c158cc2",
@@ -551,6 +591,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7f4dc0345298b6cab80a12a1f28a3890ca779f31"
     },
     {
+      "sha": "b06aa2d90d",
+      "message": "PHP: Add Core features section (#135)",
+      "date": "2026-02-14",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/135",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/b06aa2d90d9a162fdce6674765ff2d1b64ff35fd"
+    },
+    {
       "sha": "2d62144352",
       "message": "feat(jedis-compatibility): add ACL commands using native GLIDE APIs (#5260)",
       "date": "2026-02-13",
@@ -575,12 +623,28 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5d8ad781f4c2af992730a91d3921d85fa0b76772"
     },
     {
+      "sha": "1127f6b936",
+      "message": "PHP: Add Quickstart, Basic operations, architecture, command API section (#134)",
+      "date": "2026-02-12",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/134",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/1127f6b93638e87bc7164d20bd6f95d1aaf248eb"
+    },
+    {
       "sha": "2c4b22bd81",
       "message": "Refactor complexity and remove timeout for scriptkill_unkillable test (#5338)",
       "date": "2026-02-11",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5338",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2c4b22bd81fbab64a0dc21a3005b6653ffd8cf26"
+    },
+    {
+      "sha": "8fb77b80b5",
+      "message": "Adding Lua Scripting guides for other languages(#132)",
+      "date": "2026-02-11",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/132",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/8fb77b80b5cafaa3ae7d35b90574ce44d937c764"
     },
     {
       "sha": "89fcf4e2af",
@@ -639,6 +703,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2ad5a59d59a4f6a9831b6d211e3c16ed17cf28e6"
     },
     {
+      "sha": "860535b077",
+      "message": "Windows CI and testing support with WSL (#185)",
+      "date": "2026-01-21",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/185",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/860535b0774184273aa703e9a5141b25890b5de4"
+    },
+    {
       "sha": "5bfb722249",
       "message": "PHP Pub/Sub Implementation (#121)",
       "date": "2026-01-19",
@@ -687,6 +759,22 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8b555e6aceeb04270d1047a515444bde27f24fb0"
     },
     {
+      "sha": "116eb05ec7",
+      "message": "Add `git-secrets-scan` workflow (#146)",
+      "date": "2025-11-25",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/146",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/116eb05ec7c7d9387b27f5d25fd3084bbedd7a11"
+    },
+    {
+      "sha": "33c3566e1f",
+      "message": "Add `git-secrets-scan` workflow (#74)",
+      "date": "2025-11-25",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/74",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/33c3566e1f3273d2f354d97ebfbc3d084c8a4a31"
+    },
+    {
       "sha": "885c9f1f54",
       "message": "Java Cross-Platform Compatibility Fixes (#4965)",
       "date": "2025-11-12",
@@ -695,12 +783,52 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/885c9f1f5472e293183c7fe8b7571f94aba766bf"
     },
     {
+      "sha": "b0c3c1cb2c",
+      "message": "PHP: Add refresh topology configuration (#70)",
+      "date": "2025-11-06",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/70",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b0c3c1cb2c490eddace3d7e47fcd37f1d08558b9"
+    },
+    {
       "sha": "455c60d27a",
       "message": "Python: Add Python 3.14 support (#4897)",
       "date": "2025-10-30",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4897",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/455c60d27ae4724f74336563c9bfee957d030a91"
+    },
+    {
+      "sha": "ca90649157",
+      "message": "Create AGENTS.md (#67)",
+      "date": "2025-10-25",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/67",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/ca906491576a8f2f8698b69e65b0d0786b681038"
+    },
+    {
+      "sha": "ee1efed409",
+      "message": "Support Lazy Connect (#104)",
+      "date": "2025-10-22",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/104",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/ee1efed4096633d5b1fb4032747245646f215fb2"
+    },
+    {
+      "sha": "a470477720",
+      "message": "Add multi-DB support to cluster mode constructor (#59)",
+      "date": "2025-10-09",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/59",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/a470477720d1e4ee700d72be0be31e79ad45e0de"
+    },
+    {
+      "sha": "7bde6eb1c5",
+      "message": "Valkey-9 MultiDB support (#90)",
+      "date": "2025-10-08",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/90",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/7bde6eb1c5198131893f8428b3695397daa647de"
     },
     {
       "sha": "cff4045825",

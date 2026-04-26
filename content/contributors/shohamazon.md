@@ -2,9 +2,9 @@
   "title": "shohamazon",
   "login": "shohamazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/116083498?v=4",
-  "score": 298,
-  "commit_count": 127,
-  "review_count": 171,
+  "score": 312,
+  "commit_count": 132,
+  "review_count": 180,
   "repos": [
     "valkey-glide"
   ],
@@ -1024,6 +1024,46 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1152",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ec8c03615510d83fdb02430e62d7b70d76da1227"
+    },
+    {
+      "sha": "d21dbc94f6",
+      "message": "add missing examples and minor doc fix (#1258)",
+      "date": "2024-04-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1258",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d21dbc94f68e3b8c5a1be4e19614bf58a5199e0c"
+    },
+    {
+      "sha": "5395fe175e",
+      "message": "Python: adds ZREMRANGEBYSCORE command (#1151)",
+      "date": "2024-04-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1151",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5395fe175ebc437e191abfb0479776ce61a89110"
+    },
+    {
+      "sha": "397f9f2a48",
+      "message": "Add missing examples for Python and Node (#1227)",
+      "date": "2024-04-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1227",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/397f9f2a489ae1efabbbc6a46d2336b4b875e9c5"
+    },
+    {
+      "sha": "25d439ba7e",
+      "message": "Python: adds JSON.DEL, JSON.FORGET commands (#1146)",
+      "date": "2024-03-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1146",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/25d439ba7ec145ce015423f9fcd4cdfd4a587d2c"
+    },
+    {
+      "sha": "422e939f9b",
+      "message": "remove redisearch installation from workflow (#1198)",
+      "date": "2024-03-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1198",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/422e939f9b52e8330707b32a42a29f3465a4769e"
     }
   ],
   "review_list": [
@@ -2426,6 +2466,78 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1239",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9ab5a1e0b41efd46f1fc5d78694e4862a63c1c34"
+    },
+    {
+      "sha": "10490fd0e4",
+      "message": "Python: Added STRLEN command in python (#1230)",
+      "date": "2024-04-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1230",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/10490fd0e496ebafca66dbcef0abb92a5b96e3f2"
+    },
+    {
+      "sha": "6f94d6851a",
+      "message": "Fix python flakey test",
+      "date": "2024-04-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1216",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6f94d6851a0df107e54f2429cbbf80cbe5c8768a"
+    },
+    {
+      "sha": "961aab59fd",
+      "message": "Python: Fix typing",
+      "date": "2024-04-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1203",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/961aab59fd3b048b862afe73118f60cfe9dcf01c"
+    },
+    {
+      "sha": "961a1bb91b",
+      "message": "Java: Added Zpopmin command. (Sorted Set Commands) (#1165)",
+      "date": "2024-04-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1165",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/961a1bb91bda110f7ea4865c37809aebfdd5b970"
+    },
+    {
+      "sha": "a38b45f50b",
+      "message": "Java: Add Zpopmax command. (Sorted Set Commands) (#1164)",
+      "date": "2024-04-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1164",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a38b45f50bfb0146a2bbc5775a3b60e8b90078ef"
+    },
+    {
+      "sha": "4151b15f54",
+      "message": "Java: Added Zscore command. (Sorted Set Commands) (#1163)",
+      "date": "2024-04-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1163",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4151b15f5470fb3864777b3d4679c99f9912a74c"
+    },
+    {
+      "sha": "8e8f950fe8",
+      "message": "Java: Add `persist()` command (#1157)",
+      "date": "2024-04-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1157",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8e8f950fe8350058654871fa94de1b84232e556f"
+    },
+    {
+      "sha": "81b884631f",
+      "message": "Java: Add `PTTL()` command (#1156)",
+      "date": "2024-03-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1156",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/81b884631f42b9637c4dc9f772bfdf8f3e69a53f"
+    },
+    {
+      "sha": "078a4cd0b2",
+      "message": "Add `ECHO()` command. (#1143)",
+      "date": "2024-03-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1143",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/078a4cd0b2c01c557e32365cc8297044459f2a8a"
     }
   ]
 }

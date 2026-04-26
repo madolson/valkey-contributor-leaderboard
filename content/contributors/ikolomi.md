@@ -2,9 +2,9 @@
   "title": "ikolomi",
   "login": "ikolomi",
   "avatar_url": "https://avatars.githubusercontent.com/u/152477505?v=4",
-  "score": 169,
+  "score": 172,
   "commit_count": 41,
-  "review_count": 128,
+  "review_count": 131,
   "repos": [
     "spring-data-valkey",
     "valkey-glide"
@@ -1395,6 +1395,30 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1239",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9ab5a1e0b41efd46f1fc5d78694e4862a63c1c34"
+    },
+    {
+      "sha": "79c49a4836",
+      "message": "Python: Added RENAME command (#1252)",
+      "date": "2024-04-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1252",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/79c49a4836c70e507b40c7f8c0d979ccbfa2cdd5"
+    },
+    {
+      "sha": "5395fe175e",
+      "message": "Python: adds ZREMRANGEBYSCORE command (#1151)",
+      "date": "2024-04-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1151",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5395fe175ebc437e191abfb0479776ce61a89110"
+    },
+    {
+      "sha": "10490fd0e4",
+      "message": "Python: Added STRLEN command in python (#1230)",
+      "date": "2024-04-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1230",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/10490fd0e496ebafca66dbcef0abb92a5b96e3f2"
     }
   ]
 }

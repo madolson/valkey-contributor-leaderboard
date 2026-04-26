@@ -2,8 +2,8 @@
   "title": "GilboaAWS",
   "login": "GilboaAWS",
   "avatar_url": "https://avatars.githubusercontent.com/u/97948000?v=4",
-  "score": 50,
-  "commit_count": 28,
+  "score": 52,
+  "commit_count": 30,
   "review_count": 22,
   "repos": [
     "valkey-glide"
@@ -232,6 +232,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1261",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f3abf24fde3f487744ac5d65753bd0d39c4acecd"
+    },
+    {
+      "sha": "79c49a4836",
+      "message": "Python: Added RENAME command (#1252)",
+      "date": "2024-04-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1252",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/79c49a4836c70e507b40c7f8c0d979ccbfa2cdd5"
+    },
+    {
+      "sha": "10490fd0e4",
+      "message": "Python: Added STRLEN command in python (#1230)",
+      "date": "2024-04-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1230",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/10490fd0e496ebafca66dbcef0abb92a5b96e3f2"
     }
   ],
   "review_list": [
