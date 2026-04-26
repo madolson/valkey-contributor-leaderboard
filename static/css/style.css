@@ -81,6 +81,36 @@ footer a:hover { text-decoration: underline; }
 .search:focus { outline: none; border-color: #475ad2; }
 .search::placeholder { color: #545861; }
 
+.repo-filter {
+  margin-bottom: 1rem;
+  border: 1px solid #353841;
+  border-radius: 6px;
+  background: #24272f;
+}
+.repo-filter summary {
+  padding: 0.6rem 1rem;
+  cursor: pointer;
+  font-weight: 600;
+  color: #888b96;
+}
+.repo-filter-body {
+  padding: 0.3rem 1rem 0.8rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.repo-chip {
+  font-size: 0.8rem;
+  color: #c0c2c7;
+  background: #353841;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.repo-chip:hover { background: #475ad2; color: #fff; }
+.repo-chip input { margin-right: 0.2rem; }
+
 .table-wrap { overflow-x: auto; }
 
 table {

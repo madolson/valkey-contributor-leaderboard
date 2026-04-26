@@ -13,6 +13,10 @@
     </div>
   </details>
   <input type="text" id="search" class="search" placeholder="Search contributors… (press / to focus)" autocomplete="off" autofocus>
+  <details class="repo-filter">
+    <summary>Filter by repo</summary>
+    <div class="repo-filter-body" id="repo-checkboxes"></div>
+  </details>
   <div class="table-wrap">
     <table>
       <thead>
@@ -27,7 +31,7 @@
       </thead>
       <tbody>
         {{ range $i, $c := .contributors }}
-        <tr>
+        <tr data-login="{{ $c.login }}" data-per-repo="{{ jsonify $c.per_repo }}">
           <td class="rank">{{ add $i 1 }}</td>
           <td>
             <div class="contributor">
@@ -38,9 +42,9 @@
             </div>
           </td>
           <td class="num score">{{ $c.score }}</td>
-          <td class="num">{{ $c.commits }}</td>
-          <td class="num">{{ $c.reviews }}</td>
-          <td class="num">{{ len $c.repos }}</td>
+          <td class="num commits-cell">{{ $c.commits }}</td>
+          <td class="num reviews-cell">{{ $c.reviews }}</td>
+          <td class="num repos-cell">{{ len $c.repos }}</td>
         </tr>
         {{ end }}
       </tbody>
@@ -49,17 +53,62 @@
   <p class="updated">Last updated: {{ .generated }}</p>
   <script>
   var s = document.getElementById("search");
+  var rows = Array.from(document.querySelectorAll("tbody tr"));
+  var allRepos = new Set();
+  rows.forEach(function(r) {
+    Object.keys(JSON.parse(r.dataset.perRepo || "{}")).forEach(function(k) { allRepos.add(k); });
+  });
+  var repos = Array.from(allRepos).sort();
+  var box = document.getElementById("repo-checkboxes");
+  repos.forEach(function(repo) {
+    var label = document.createElement("label");
+    label.className = "repo-chip";
+    var cb = document.createElement("input");
+    cb.type = "checkbox"; cb.checked = true; cb.value = repo;
+    cb.addEventListener("change", recompute);
+    label.appendChild(cb);
+    label.appendChild(document.createTextNode(" " + repo));
+    box.appendChild(label);
+  });
+
+  function getSelectedRepos() {
+    return new Set(Array.from(box.querySelectorAll("input:checked")).map(function(c) { return c.value; }));
+  }
+
+  function recompute() {
+    var selected = getSelectedRepos();
+    var allSelected = selected.size === repos.length;
+    var data = rows.map(function(row) {
+      var pr = JSON.parse(row.dataset.perRepo || "{}");
+      var c = 0, r = 0, repoCount = 0;
+      Object.keys(pr).forEach(function(repo) {
+        if (selected.has(repo)) { c += pr[repo].commits; r += pr[repo].reviews; repoCount++; }
+      });
+      return {row: row, score: c + r, commits: c, reviews: r, repos: repoCount};
+    });
+    data.sort(function(a, b) { return b.score - a.score; });
+    var tbody = document.querySelector("tbody");
+    data.forEach(function(d, i) {
+      d.row.querySelector(".rank").textContent = d.score > 0 ? i + 1 : "";
+      d.row.querySelector(".score").textContent = d.score;
+      d.row.querySelector(".commits-cell").textContent = d.commits;
+      d.row.querySelector(".reviews-cell").textContent = d.reviews;
+      d.row.querySelector(".repos-cell").textContent = d.repos;
+      d.row.style.display = d.score > 0 ? "" : "none";
+      tbody.appendChild(d.row);
+    });
+  }
+
   s.addEventListener("input", function() {
-    const q = this.value.toLowerCase();
-    document.querySelectorAll("tbody tr").forEach(function(row) {
-      row.style.display = row.textContent.toLowerCase().includes(q) ? "" : "none";
+    var q = this.value.toLowerCase();
+    rows.forEach(function(row) {
+      if (row.style.display === "none" && !row.querySelector(".score").textContent.match(/^0?$/)) return;
+      var match = row.textContent.toLowerCase().includes(q);
+      row.style.display = match && row.querySelector(".score").textContent !== "0" ? "" : "none";
     });
   });
   document.addEventListener("keydown", function(e) {
-    if (e.key === "/" && document.activeElement !== s) {
-      e.preventDefault();
-      s.focus();
-    }
+    if (e.key === "/" && document.activeElement !== s) { e.preventDefault(); s.focus(); }
   });
   </script>
 {{ else }}

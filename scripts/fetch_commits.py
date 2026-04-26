@@ -230,6 +230,7 @@ def generate_leaderboard(commits, profiles=None):
                 "name": p.get("name", ""),
                 "company": p.get("company", ""),
                 "commits": 0, "reviews": 0, "repos": set(),
+                "per_repo": {},
             }
         if avatar:
             by_login[login]["avatar_url"] = avatar
@@ -255,11 +256,18 @@ def generate_leaderboard(commits, profiles=None):
         by_login[c["author_login"]]["id"] = c["author_id"]
         by_login[c["author_login"]]["commits"] += 1
         by_login[c["author_login"]]["repos"].add(c["repo"])
+        repo = c["repo"]
+        pr = by_login[c["author_login"]]["per_repo"]
+        pr.setdefault(repo, {"commits": 0, "reviews": 0})
+        pr[repo]["commits"] += 1
         for reviewer_login in (_reviewer_login(r) for r in reviewers):
             if is_bot(reviewer_login):
                 continue
             ensure_user(reviewer_login, None)
             by_login[reviewer_login]["reviews"] += 1
+            rpr = by_login[reviewer_login]["per_repo"]
+            rpr.setdefault(repo, {"commits": 0, "reviews": 0})
+            rpr[repo]["reviews"] += 1
 
     contributors = sorted(
         by_login.values(),
