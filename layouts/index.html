@@ -12,7 +12,7 @@
       <p>Bot accounts are excluded. Click a contributor's name to see their full commit and review history.</p>
     </div>
   </details>
-  <input type="text" id="search" class="search" placeholder="Search contributors…" autocomplete="off">
+  <input type="text" id="search" class="search" placeholder="Search contributors… (press / to focus)" autocomplete="off" autofocus>
   <div class="table-wrap">
     <table>
       <thead>
@@ -48,11 +48,18 @@
   </div>
   <p class="updated">Last updated: {{ .generated }}</p>
   <script>
-  document.getElementById("search").addEventListener("input", function() {
+  var s = document.getElementById("search");
+  s.addEventListener("input", function() {
     const q = this.value.toLowerCase();
     document.querySelectorAll("tbody tr").forEach(function(row) {
       row.style.display = row.textContent.toLowerCase().includes(q) ? "" : "none";
     });
+  });
+  document.addEventListener("keydown", function(e) {
+    if (e.key === "/" && document.activeElement !== s) {
+      e.preventDefault();
+      s.focus();
+    }
   });
   </script>
 {{ else }}
