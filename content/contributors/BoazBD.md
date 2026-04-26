@@ -2,9 +2,9 @@
   "title": "BoazBD",
   "login": "BoazBD",
   "avatar_url": "https://avatars.githubusercontent.com/u/50696333?v=4",
-  "score": 35,
-  "commit_count": 16,
-  "review_count": 19,
+  "score": 37,
+  "commit_count": 17,
+  "review_count": 20,
   "repos": [
     "valkey-glide"
   ],
@@ -136,6 +136,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2507",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/664cc8eadcb4f91a40ec52e3b4e813f78ca6cff4"
+    },
+    {
+      "sha": "52dd474029",
+      "message": "Python - Implement JSON.OBJLEN command functionality (#2495)",
+      "date": "2024-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2495",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/52dd474029b9747d342b1ad39e2a0563591b5fe5"
     }
   ],
   "review_list": [
@@ -290,6 +298,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2953",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6c7b7830e3e8f5e32d3035a7cdf2d136143f505c"
+    },
+    {
+      "sha": "c197f1d933",
+      "message": "Python: adds JSON.ARRTRIM command (#2457)",
+      "date": "2024-10-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2457",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c197f1d93319d017eb656c77fe38e5c69fd9c9f7"
     }
   ]
 }

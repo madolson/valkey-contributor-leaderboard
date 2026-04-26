@@ -2,8 +2,8 @@
   "title": "liorsve",
   "login": "liorsve",
   "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
-  "score": 90,
-  "commit_count": 70,
+  "score": 99,
+  "commit_count": 79,
   "review_count": 20,
   "repos": [
     "spring-data-valkey",
@@ -571,6 +571,78 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2816",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/daa5af2f6f1f3ebc55dce2c7e461cf4a954d6ec4"
+    },
+    {
+      "sha": "84d9a2920f",
+      "message": "Node: Add binary option to sscan strlen sunion sunionstore (#2199)",
+      "date": "2024-08-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2199",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/84d9a2920f7ee6c5a95a2b9da53fc0b5948924f5"
+    },
+    {
+      "sha": "8ebfa398d9",
+      "message": "Node: Add binary support to scard smove sismember srandmember (#2197)",
+      "date": "2024-08-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2197",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8ebfa398d9170dadafc21ed030b915bc8b05f4d5"
+    },
+    {
+      "sha": "0b0b7a592e",
+      "message": "Node: Add binary support to set commands (#2188)",
+      "date": "2024-08-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2188",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0b0b7a592eb2a3ba0ca2396956b9902428fd173e"
+    },
+    {
+      "sha": "e6d2ee5347",
+      "message": "Node: Add binary support to spop spopcount sadd srem smembers (#2181)",
+      "date": "2024-08-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2181",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e6d2ee53478d1c61a5f5267e82e860a4a709374a"
+    },
+    {
+      "sha": "1bb9b137b8",
+      "message": "Node - Add binary support to transaction commands (#2187)",
+      "date": "2024-08-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2187",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1bb9b137b89a952071eb841db52e4bb1fe5e316c"
+    },
+    {
+      "sha": "908032e550",
+      "message": "Node: Add binary support to RPUSH RPOP RPOPCOUNT BLPOP BRPOP (#2153)",
+      "date": "2024-08-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2153",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/908032e550370f3aa22e4531834f57f8abe61bd5"
+    },
+    {
+      "sha": "2683edc3ff",
+      "message": "Node: Add binary support to LINDEX LMOVE BLMOVE LINSERT LLEN (#2166)",
+      "date": "2024-08-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2166",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2683edc3ffbd2a07e6a82c00ab1742ee01bd858b"
+    },
+    {
+      "sha": "a23b6b187a",
+      "message": "Node: add binary support to lpush lpop lpopcount lrange (#2151)",
+      "date": "2024-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2151",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a23b6b187a8fac27bc5f231428c7b4b543abb52b"
+    },
+    {
+      "sha": "850a265c01",
+      "message": "Node: add bytes support to append getrange hget mget hvals (#2150)",
+      "date": "2024-08-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2150",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/850a265c01cc4588794d675f61492ff540a3e92a"
     }
   ],
   "review_list": [

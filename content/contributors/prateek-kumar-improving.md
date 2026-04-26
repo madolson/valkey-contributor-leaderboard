@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 213,
-  "commit_count": 73,
-  "review_count": 140,
+  "score": 258,
+  "commit_count": 92,
+  "review_count": 166,
   "repos": [
     "valkey-glide",
     "valkey-glide-docs",
@@ -594,6 +594,158 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2596",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d0c4fe4071ea1c7d09c4837bf62e12b791cf64b4"
+    },
+    {
+      "sha": "6e04584afc",
+      "message": "Python code cleanup (#2573)",
+      "date": "2024-11-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2573",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6e04584afc84ec16a41368e0737360370d1fdd5b"
+    },
+    {
+      "sha": "8a20b139a6",
+      "message": "Python: FT.PROFILE command added (#2543)",
+      "date": "2024-10-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2543",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8a20b139a64563dd8e1e2bbb86697e28972c957d"
+    },
+    {
+      "sha": "7b5b72d85d",
+      "message": "Python: FT.AGGREGATE command added (#2530)",
+      "date": "2024-10-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2530",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7b5b72d85d31a1d1519e3e03a59b3a8acd3db466"
+    },
+    {
+      "sha": "50786a3aac",
+      "message": "FT.EXPLAIN and FT.EXPLAINCLI commands added (#2508)",
+      "date": "2024-10-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2508",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/50786a3aacac611355bcecb75ccca9e50d2509ac"
+    },
+    {
+      "sha": "0a11fdec64",
+      "message": "Python `FT.INFO` command added (#2494)",
+      "date": "2024-10-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2494",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0a11fdec64bb0bd851f0dd8c46803c1e860e9820"
+    },
+    {
+      "sha": "9073eb0bbc",
+      "message": "Python: Add `FT.SEARCH` command (#2470)",
+      "date": "2024-10-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2470",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9073eb0bbcb12c490ddb77bf73158c684a4c2013"
+    },
+    {
+      "sha": "1125eba9c7",
+      "message": "Python: Add commands `FT.ALIASADD`, `FT.ALIASDEL`, `FT.ALIASUPDATE` (#2471)",
+      "date": "2024-10-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2471",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1125eba9c77a2b2c8fe21f1f0a7781d921b762a2"
+    },
+    {
+      "sha": "23a180bb67",
+      "message": "Python FT.DROPINDEX command (#2437)",
+      "date": "2024-10-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2437",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/23a180bb67019188318f6e3a28fe2d61fa9ccfe0"
+    },
+    {
+      "sha": "8fea303fac",
+      "message": "Python [FT.CREATE] command added(Created for release-1.2 branch) (#2426)",
+      "date": "2024-10-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2426",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8fea303fac384db4a109644e930d29b1dbb45594"
+    },
+    {
+      "sha": "f9cfe77014",
+      "message": "Get valkey/redis version using client's info command (#2276)",
+      "date": "2024-09-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2276",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f9cfe77014a8a8671dc5d3063c2c64c8aba839e5"
+    },
+    {
+      "sha": "923ecc4332",
+      "message": "Remove get server version code (#2269)",
+      "date": "2024-09-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2269",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/923ecc433269d49a01561a0c2206d8ff096358e5"
+    },
+    {
+      "sha": "b081eeca01",
+      "message": "Fetch server version using info command (#2258)",
+      "date": "2024-09-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2258",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b081eeca010bb249f1b849cf675c3fad389e64b2"
+    },
+    {
+      "sha": "9d35b306f2",
+      "message": "Node: replace `decoder` by `DecoderOption` and `route` by `RouteOption` in API (#2234)",
+      "date": "2024-09-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2234",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9d35b306f299acd7b540ee599e82311057f32307"
+    },
+    {
+      "sha": "6adc0a2adc",
+      "message": "hvals decoder options updated (#2216)",
+      "date": "2024-09-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2216",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6adc0a2adc76617f14326c05b88455ea813c7d4d"
+    },
+    {
+      "sha": "1f7e55fe3e",
+      "message": "Decoder Options added for hget (#2215)",
+      "date": "2024-08-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2215",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1f7e55fe3eed84dd91f396b4fced8d007e37b33e"
+    },
+    {
+      "sha": "7e8525b16c",
+      "message": "hset parameter updated to HashDataType (#2209)",
+      "date": "2024-08-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2209",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7e8525b16c8b4b614ddaaf820dbe96eb5b4dd56d"
+    },
+    {
+      "sha": "ed9a7afb24",
+      "message": "Node binary api: blmpop, lrem, lset, ltrim and rpushx  commands updated for binary command inputs (#2195)",
+      "date": "2024-08-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2195",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ed9a7afb24425e506d78850e7f21619047d71515"
+    },
+    {
+      "sha": "59b3e8b283",
+      "message": "lmpop and lpushx command added (#2191)",
+      "date": "2024-08-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2191",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/59b3e8b283bda65be8868ae85df78154fe7a649f"
+    },
+    {
+      "sha": "860a646d4d",
+      "message": "Adding node lpos (#2185)",
+      "date": "2024-08-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2185",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/860a646d4dcc14331af4a1506efa8137710ecf33"
     }
   ],
   "review_list": [
@@ -1732,6 +1884,214 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2568",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ebc9af3bde90aac319d9818bfe2e1150bd190297"
+    },
+    {
+      "sha": "204364c243",
+      "message": "Node: `FT.AGGREGATE` (#2554)",
+      "date": "2024-11-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2554",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/204364c243ecac5ecf5b0ea303ccc659b7f38396"
+    },
+    {
+      "sha": "eb38a4cba7",
+      "message": "Java: `FT._ALIASLIST`. (#2569)",
+      "date": "2024-11-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2569",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/eb38a4cba7bae6f9ac911c5f69c01c5a21a28521"
+    },
+    {
+      "sha": "235194fd2a",
+      "message": "Java: Update docs for VSS (#2565)",
+      "date": "2024-11-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2565",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/235194fd2a3cd91f7131a18595bbe700a8f69a50"
+    },
+    {
+      "sha": "788b6c8c9f",
+      "message": "Node: Add `FT.SEARCH` command (#2551)",
+      "date": "2024-11-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2551",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/788b6c8c9f7d4cf470e1bf6e48970f21467d73bb"
+    },
+    {
+      "sha": "ddca0676d4",
+      "message": "Java: FT.EXPLAIN and FT.EXPLAINCLI (#2515)",
+      "date": "2024-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2515",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ddca0676d448faf396c40c6323cc09c11e2a9a76"
+    },
+    {
+      "sha": "cb21081a8c",
+      "message": "Java: `FT.PROFILE` (#2473)",
+      "date": "2024-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2473",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cb21081a8cb011b0d1075d6a55cf13d375f9af2e"
+    },
+    {
+      "sha": "b13535aad2",
+      "message": "Docs: Update `ft.create` docs for Java and Python (#2512)",
+      "date": "2024-10-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2512",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b13535aad2fcdc0e5a41ee552d72f1f399b47943"
+    },
+    {
+      "sha": "ee0f86fd97",
+      "message": "Fix python CI (#2487)",
+      "date": "2024-10-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2487",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ee0f86fd97bedfca1840a92a28e5e1e7dcc150aa"
+    },
+    {
+      "sha": "b168972389",
+      "message": "Java: FT.ALIASADD, FT.ALIASDEL, FT.ALIASUPDATE (#2442)",
+      "date": "2024-10-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2442",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b1689723896c10ec3d43493ed37c5849029502a2"
+    },
+    {
+      "sha": "c252cbbd41",
+      "message": "Java: `FT.SEARCH` (#2439)",
+      "date": "2024-10-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2439",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c252cbbd41c07b4af362622819a2e66413133a39"
+    },
+    {
+      "sha": "1b6db03e29",
+      "message": "Fix python CI: fix linter installation (#2465)",
+      "date": "2024-10-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2465",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1b6db03e2904c39ae02981d1fff8e56e88b83284"
+    },
+    {
+      "sha": "e51aa6d3d6",
+      "message": "Update routing for commands from server modules. (#2461)",
+      "date": "2024-10-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2461",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e51aa6d3d608d4df052fc4a7a22c372abc42d0ea"
+    },
+    {
+      "sha": "bbfce44fce",
+      "message": "Java: `FT.CREATE` (#2414)",
+      "date": "2024-10-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2414",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bbfce44fce28b09edbbc864b49ef3b2cc9ca4a82"
+    },
+    {
+      "sha": "4f6c4c58ef",
+      "message": "Bump changelog (#2362)",
+      "date": "2024-10-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2362",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4f6c4c58ef36702939af710f5998d492f36ef8e4"
+    },
+    {
+      "sha": "862dd18d3a",
+      "message": "Add all module commands to proto (#2389)",
+      "date": "2024-10-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2389",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/862dd18d3a2fb3956e11131b1720ccb89a6c8163"
+    },
+    {
+      "sha": "abc86666fa",
+      "message": "Java: add CI to run modules (#2388)",
+      "date": "2024-10-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2388",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/abc86666fa1d0ba4d9f1a30a569fb6f8bdcf3ee7"
+    },
+    {
+      "sha": "615034f800",
+      "message": "Java; Fix IT (#2350)",
+      "date": "2024-10-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2350",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/615034f8008d72fbca50da7d0abd3d2507f27d43"
+    },
+    {
+      "sha": "8cf1277a66",
+      "message": "Java: fix logger test (#2396)",
+      "date": "2024-10-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2396",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8cf1277a66810d8b4db02f6238a0ce415effed4d"
+    },
+    {
+      "sha": "6d0cffe237",
+      "message": "Java: Add option to run IT on remote ports. (#2156)",
+      "date": "2024-10-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2156",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6d0cffe2379a8151bf92d4274957b99226f916c4"
+    },
+    {
+      "sha": "fb51ba690b",
+      "message": "Update developer docs (#2354)",
+      "date": "2024-10-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2354",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fb51ba690b976d6e77007edae029d9ab5b97fe20"
+    },
+    {
+      "sha": "ae86153912",
+      "message": "Node: fix xinfogroups; fix lrem (#2324)",
+      "date": "2024-09-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2324",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ae861539123732d36b64c5cb8a958bd0c4317648"
+    },
+    {
+      "sha": "e37308dc4b",
+      "message": "Node: Fixed missing exports (#2301)",
+      "date": "2024-09-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2301",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e37308dc4b85bb5a4ccfd323ae9145fc839f9cd1"
+    },
+    {
+      "sha": "6e32c83b2c",
+      "message": "Node: Rename `ReturnType`. (#2241)",
+      "date": "2024-09-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2241",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6e32c83b2c03b9b6ee45cb8624e19e1976d29223"
+    },
+    {
+      "sha": "c8c5b83e54",
+      "message": "Rename `stop` to `end` in sorted set query. (#2214)",
+      "date": "2024-09-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2214",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c8c5b83e54496a1f1a3db36cf398f0eaebe5b76e"
+    },
+    {
+      "sha": "e48133f7e2",
+      "message": "Node: add binary support for PubSub commands, part 1 (#2201)",
+      "date": "2024-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2201",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e48133f7e23f24dd4d16808ef6edb078dd4d3153"
+    },
+    {
+      "sha": "8abbfb3ca1",
+      "message": "Node: Add binary support for hash commands (#2194)",
+      "date": "2024-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2194",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8abbfb3ca1eb7071ce69109ef9a675d79f3f67f6"
     }
   ]
 }

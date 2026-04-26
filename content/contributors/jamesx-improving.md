@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 173,
-  "commit_count": 51,
-  "review_count": 122,
+  "score": 196,
+  "commit_count": 64,
+  "review_count": 132,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -417,6 +417,110 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2563",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2564882099aaedfacaab9bdc4c11baa5855c1d25"
+    },
+    {
+      "sha": "53743a9252",
+      "message": "Java: add JSON.TYPE (#2525)",
+      "date": "2024-10-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2525",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/53743a9252a8493682eaf1258b5e69f6f55fca03"
+    },
+    {
+      "sha": "f434b79e69",
+      "message": "Java: add JSON.RESP (#2513)",
+      "date": "2024-10-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2513",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f434b79e69c8bc7fa5e99e8e61695b141fa7571b"
+    },
+    {
+      "sha": "f977b919e9",
+      "message": "Java: add JSON.DEL and JSON.FORGET (#2490)",
+      "date": "2024-10-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2490",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f977b919e9fe14d9fe3bb5f2835ea820667a5d5d"
+    },
+    {
+      "sha": "adcc76f3a3",
+      "message": "Java: add JSON.SET and JSON.GET (#2462)",
+      "date": "2024-10-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2462",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/adcc76f3a390b180dc454765f95320b40d774cd2"
+    },
+    {
+      "sha": "4e484c0226",
+      "message": "Java : Fix ExamplesApp (#2326)",
+      "date": "2024-09-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2326",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4e484c0226c60e64611bdd25ebc5b2e326ea7071"
+    },
+    {
+      "sha": "8bf8282092",
+      "message": "Java: add PUBSUB SHARDNUMSUB (#2279)",
+      "date": "2024-09-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2279",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8bf8282092d8165eb1d5d6b9ae03eb633b2b8523"
+    },
+    {
+      "sha": "e997eea59d",
+      "message": "Java: Add PUBSUB SHARDCHANNELS command (#2265)",
+      "date": "2024-09-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2265",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e997eea59de6d3667f40955750e97077d7b120b2"
+    },
+    {
+      "sha": "28813a95a2",
+      "message": "add CodeQL configuration (#2186)",
+      "date": "2024-09-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2186",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/28813a95a2db9f10fd23f2d7864f80570564d864"
+    },
+    {
+      "sha": "8959ad12a7",
+      "message": "Node: Add Binary support for stream commands, part 2 (#2222)",
+      "date": "2024-09-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2222",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8959ad12a74308c241672dde3a949d7469b6c7cd"
+    },
+    {
+      "sha": "f2182413a3",
+      "message": "Java: add XAUTOCLAIM command (#1831)",
+      "date": "2024-07-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1831",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f2182413a3f33c986d8643da07738ee1c95d9fb3"
+    },
+    {
+      "sha": "81ef46fc51",
+      "message": "Python: add XCLAIM command (#1772)",
+      "date": "2024-07-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1772",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/81ef46fc515f916dcbe7f038bd02eb0e0f1ad892"
+    },
+    {
+      "sha": "8e048b1082",
+      "message": "Python: add WATCH and UNWATCH commands (#1736)",
+      "date": "2024-07-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1736",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8e048b108267361feadcb8a6df5c98375406c785"
+    },
+    {
+      "sha": "ac8878628a",
+      "message": "Python: add LCS command (#1716)",
+      "date": "2024-06-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1716",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ac8878628a875bcc2fa97e0eec2a9aef516990c8"
     }
   ],
   "review_list": [
@@ -1499,6 +1603,86 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2633",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c374d29634392f6b48f5ca321bfcb904390cc2eb"
+    },
+    {
+      "sha": "23689db8aa",
+      "message": "Node: add ARRTRIM command (#2550)",
+      "date": "2024-10-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2550",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/23689db8aa3bd0aa2795fca6b829289b53cf47e9"
+    },
+    {
+      "sha": "7db739e464",
+      "message": "Java: add JSON.STRAPPEND and JSON.STRLEN (#2522)",
+      "date": "2024-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2522",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7db739e464791d3156d75300476767f2797c0843"
+    },
+    {
+      "sha": "01308db472",
+      "message": "Node: Add command JSON.RESP (#2517)",
+      "date": "2024-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2517",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/01308db4721849d6c6c45efd13257a4952edeb43"
+    },
+    {
+      "sha": "826bb08721",
+      "message": "Java: add JSON.ARRTRIM command (#2518)",
+      "date": "2024-10-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2518",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/826bb08721af115b2e040788b7ae0b7112d82869"
+    },
+    {
+      "sha": "f19976bd56",
+      "message": "Node: Add command JSON.TYPE (#2510)",
+      "date": "2024-10-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2510",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f19976bd566c45d96a00cf2cf5df59514882d5e6"
+    },
+    {
+      "sha": "56b4401e66",
+      "message": "Java: `JSON.ARRINSERT` and `JSON.ARRLEN` (#2476)",
+      "date": "2024-10-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2476",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/56b4401e6678ed79daa22ea03d06c73417898ffd"
+    },
+    {
+      "sha": "91cafe8a3a",
+      "message": "Node: add commands JSON.GET and JSON.SET (#2427)",
+      "date": "2024-10-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2427",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/91cafe8a3af44fb29debfe9ad9b9257dd091dde2"
+    },
+    {
+      "sha": "23a180bb67",
+      "message": "Python FT.DROPINDEX command (#2437)",
+      "date": "2024-10-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2437",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/23a180bb67019188318f6e3a28fe2d61fa9ccfe0"
+    },
+    {
+      "sha": "b2d36d74f5",
+      "message": "Python: Add FUNCTION STATS command (#1794)",
+      "date": "2024-07-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1794",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b2d36d74f511d3794bcd3e46bff3f1b0211c5a2d"
+    },
+    {
+      "sha": "4f17b692e2",
+      "message": "Python: add FCALL command (#1739)",
+      "date": "2024-07-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1739",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4f17b692e22649a693114dfa59baf885295757c3"
     }
   ]
 }

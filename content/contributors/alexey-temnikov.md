@@ -2,9 +2,9 @@
   "title": "alexey-temnikov",
   "login": "alexey-temnikov",
   "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
-  "score": 7,
-  "commit_count": 4,
-  "review_count": 3,
+  "score": 16,
+  "commit_count": 8,
+  "review_count": 8,
   "repos": [
     "valkey-admin",
     "valkey-doc",
@@ -42,6 +42,38 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4938",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/74e7fbf4ed58312ea3a527d8444a4957cb8e507d"
+    },
+    {
+      "sha": "ef65ab9534",
+      "message": "Merge pull request #1924 from Bit-Quill/node/integ_acongo_sdiff",
+      "date": "2024-07-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1924",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ef65ab9534a412a47dec0c0355d9137142dfe289"
+    },
+    {
+      "sha": "54240018cf",
+      "message": "Update README.md - Removed Maven Notice",
+      "date": "2024-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1910",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/54240018cfc169c5ea161b9f724985e5634cc004"
+    },
+    {
+      "sha": "e900be3df6",
+      "message": "Merge pull request #1902 from valkey-io/alexey-temnikov-patch-1",
+      "date": "2024-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1902",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e900be3df6a316f3d7f478bd5ac76f7bf965d8ad"
+    },
+    {
+      "sha": "7f8ca00907",
+      "message": "Added SpotBugs plugin to Java client build (#1719)",
+      "date": "2024-07-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1719",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7f8ca009074389e129535f2fc54852457c2c5fc3"
     }
   ],
   "review_list": [
@@ -68,6 +100,46 @@
       "repo": "valkey-admin",
       "pr_url": "https://github.com/valkey-io/valkey-admin/pull/202",
       "commit_url": "https://github.com/valkey-io/valkey-admin/commit/37e12d58b6967b47c8269cd405bda51369fb2396"
+    },
+    {
+      "sha": "861019cba5",
+      "message": "Java: `XRange`/`XRevRange` should return `null` instead of `GlideException` when given a negative count (#1920)",
+      "date": "2024-07-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1920",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/861019cba507c0ec7c696c3cca0e191f995be6ee"
+    },
+    {
+      "sha": "52a7ed6eaf",
+      "message": "Node: Add `GEOPOS` command. (#1991)",
+      "date": "2024-07-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1991",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/52a7ed6eaf4ca3284a66100239f024d50c006e18"
+    },
+    {
+      "sha": "5693e8b734",
+      "message": "Node: add SDIFF command",
+      "date": "2024-07-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1924",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5693e8b7340a6c405a3ba4a9b1e2a8f848f3542b"
+    },
+    {
+      "sha": "e337a063b2",
+      "message": "Java: Update artifact ID and group ID. (#1871)",
+      "date": "2024-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1871",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e337a063b21273417ccb1e6189a210886d8424de"
+    },
+    {
+      "sha": "9022b3c63c",
+      "message": "Java: README (#1839)",
+      "date": "2024-07-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1839",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9022b3c63c33f092c1eedcd4f0821d913d36483d"
     }
   ]
 }

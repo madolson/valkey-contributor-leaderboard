@@ -2,8 +2,8 @@
   "title": "Maayanshani25",
   "login": "Maayanshani25",
   "avatar_url": "https://avatars.githubusercontent.com/u/161942026?v=4",
-  "score": 25,
-  "commit_count": 12,
+  "score": 27,
+  "commit_count": 14,
   "review_count": 13,
   "repos": [
     "valkey-glide"
@@ -104,6 +104,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2909",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/798dbeff7f2631f221bae68e3ed85329855ab991"
+    },
+    {
+      "sha": "b3b91cc514",
+      "message": "Merge pull request #2253 from Maayanshani25/tests_range",
+      "date": "2024-09-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2253",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b3b91cc51459ea4d376cfd42bdc464d6aee4ca28"
+    },
+    {
+      "sha": "a467610786",
+      "message": "Merge pull request #2212 from Maayanshani25/developer-md",
+      "date": "2024-09-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2212",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a467610786d29d3a6b553f25326ff97e58eb69ac"
     }
   ],
   "review_list": [

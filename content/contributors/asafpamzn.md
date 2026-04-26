@@ -2,11 +2,12 @@
   "title": "asafpamzn",
   "login": "asafpamzn",
   "avatar_url": "https://avatars.githubusercontent.com/u/97948347?v=4",
-  "score": 14,
-  "commit_count": 1,
-  "review_count": 13,
+  "score": 45,
+  "commit_count": 2,
+  "review_count": 43,
   "repos": [
-    "valkey-doc"
+    "valkey-doc",
+    "valkey-glide"
   ],
   "commit_list": [
     {
@@ -16,6 +17,14 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/164",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/2af1a9bff4f08276cf0f3bc5cd3d240e2077a96b"
+    },
+    {
+      "sha": "98053a8ed9",
+      "message": "Update DEVELOPER.md of node.js (#1891)",
+      "date": "2024-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1891",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/98053a8ed907312229188512a73c5500ea118e61"
     }
   ],
   "review_list": [
@@ -130,6 +139,246 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2778",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0e7616dbc3f9d45152a932a93b7f2f011b4f7bba"
+    },
+    {
+      "sha": "2b6578a8dd",
+      "message": "Merge ci from main (#2584)",
+      "date": "2024-11-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2584",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2b6578a8ddf244c6f1e6da9f4290ae1dfdc3ad9e"
+    },
+    {
+      "sha": "9340ea46f6",
+      "message": "Fix benchmark CI error MISCONF",
+      "date": "2024-11-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2588",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9340ea46f6ad85b5627ffc71880ef80b01d7c334"
+    },
+    {
+      "sha": "e5997425ed",
+      "message": "Merge pull request #2349 from valkey-io/merge_1.1",
+      "date": "2024-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2349",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e5997425ed7aed3abfcb610ba372acb29073b774"
+    },
+    {
+      "sha": "44174a37cd",
+      "message": "Go:Fix benchmarking code and improve response side performance (#2288)",
+      "date": "2024-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2288",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/44174a37cd502e7464b2fc8a87238ccce669d841"
+    },
+    {
+      "sha": "5fadbc43b7",
+      "message": "Merge pull request #1888 from GilboaAWS/update_readme_files",
+      "date": "2024-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1888",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5fadbc43b7d095dcd56be2f781f3a04644e23718"
+    },
+    {
+      "sha": "e900be3df6",
+      "message": "Merge pull request #1902 from valkey-io/alexey-temnikov-patch-1",
+      "date": "2024-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1902",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e900be3df6a316f3d7f478bd5ac76f7bf965d8ad"
+    },
+    {
+      "sha": "b4e4dda232",
+      "message": "Fix Node & Python renaming to valkey-glide (#1879)",
+      "date": "2024-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1888",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b4e4dda2321730f934518f5effe7b9056629e1cc"
+    },
+    {
+      "sha": "2392cc4205",
+      "message": "Fix CI after repo move. (#1870)",
+      "date": "2024-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1870",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2392cc4205f6c99f891d16565afc5c90fc691e77"
+    },
+    {
+      "sha": "6c52e2c985",
+      "message": "change all aws links to valkey-io (#1869)",
+      "date": "2024-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1869",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6c52e2c985d19d2b2ba4eb04d27c91a92cc2b27e"
+    },
+    {
+      "sha": "1327f4c0b0",
+      "message": "Update README file for Python and Java (#1873)",
+      "date": "2024-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1873",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1327f4c0b0fc32208816962d1ae4ab91a192a6a5"
+    },
+    {
+      "sha": "aa4fbae9a9",
+      "message": "Java: re-enabled `xclaim` binary tests (#1867)",
+      "date": "2024-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1867",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/aa4fbae9a94238eec12a25b5a2f06fa78831ca46"
+    },
+    {
+      "sha": "58780e75e6",
+      "message": "Java transaction: fixed: `zunionstore` & `zinterstore` for binary version (#1846)",
+      "date": "2024-07-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1846",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/58780e75e649c16ce214654e449a37318704dc64"
+    },
+    {
+      "sha": "929e6670dd",
+      "message": "support mset and msetnx with GlideString (#1842)",
+      "date": "2024-07-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1842",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/929e6670dd11e20eb7492e11b75405dc9c719b64"
+    },
+    {
+      "sha": "9c921739c9",
+      "message": "Support zunion and zunionstore with GlideString (#1807)",
+      "date": "2024-07-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1807",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9c921739c99578938cbeb59ccaf6e89696a33472"
+    },
+    {
+      "sha": "c0e9e7424c",
+      "message": "Update README for Valkey GLIDE (#1812)",
+      "date": "2024-07-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1812",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c0e9e7424c09f631e8b8e30ea5d460016fff36ea"
+    },
+    {
+      "sha": "c0e9e7424c",
+      "message": "Update README for Valkey GLIDE (#1812)",
+      "date": "2024-07-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1812",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c0e9e7424c09f631e8b8e30ea5d460016fff36ea"
+    },
+    {
+      "sha": "c293aa435c",
+      "message": "fcall bug fix (#1799)",
+      "date": "2024-07-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1799",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c293aa435cb4de1155e359454817c76d304af204"
+    },
+    {
+      "sha": "018f6e7856",
+      "message": "Python: Rename ClusterClientConfiguration to GlideClusterClientConfiguration (#1806)",
+      "date": "2024-07-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1806",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/018f6e78564fcf7d2325b5c9d53eb64657281f81"
+    },
+    {
+      "sha": "c1c73041aa",
+      "message": "Python: more renaming and doc fixes (#1804)",
+      "date": "2024-07-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1804",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c1c73041aada3ab2ac379ab6e76e69c4527b0b19"
+    },
+    {
+      "sha": "402c25853d",
+      "message": "Java txn: completed the remaining commands to support binary version (#1777)",
+      "date": "2024-07-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1777",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/402c25853dac60bf8dce13d58a1527e5191f0617"
+    },
+    {
+      "sha": "cc26eb0f63",
+      "message": "GS version for fcall and fcallReadOnly (#1639)",
+      "date": "2024-07-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1639",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cc26eb0f63a848175ec0786d4e66dba19b32307b"
+    },
+    {
+      "sha": "e2aafd795f",
+      "message": "binary version of ping, touch, sunion and sunionstore (#1663)",
+      "date": "2024-07-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1663",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e2aafd795fd27ca6ea90c1aa170b133b7615c00d"
+    },
+    {
+      "sha": "cdf47fb5e0",
+      "message": "Glide range xadd (#1692)",
+      "date": "2024-07-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1692",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cdf47fb5e088ca4366a1dbe4ca5ee89f8662b2c2"
+    },
+    {
+      "sha": "1d4268cdcd",
+      "message": "Java: continued work on making txn binary safe (#1750)",
+      "date": "2024-07-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1750",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1d4268cdcd62db61cf03b91d00718db912a24888"
+    },
+    {
+      "sha": "29a68ca61a",
+      "message": "- Java transaction: Hash + List commands (#1744)",
+      "date": "2024-07-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1744",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/29a68ca61ae17f7798d2cb07c0b60ddf8fdbc2b6"
+    },
+    {
+      "sha": "7b6b220776",
+      "message": "Python: Rename RedisClient, RedisClusterClient to GlideClient, GlideClusterClient (#1669)",
+      "date": "2024-06-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1669",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7b6b220776c475875bb7773d10b797a27fba5253"
+    },
+    {
+      "sha": "b1924a69ea",
+      "message": "Node: Rename RedisClient, RedisClusterClient to GlideClient, GlideClusterClient (#1670)",
+      "date": "2024-06-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1670",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b1924a69eabc8e1300e2bb371d6e16177126e9e3"
+    },
+    {
+      "sha": "93b0f02f90",
+      "message": "Added support for `append` + `smembers` (`GlideString` version) (#1629)",
+      "date": "2024-06-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1629",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/93b0f02f90b6081c68ab0c5781fcaddaaf86a4c0"
+    },
+    {
+      "sha": "99d395917f",
+      "message": "Add overload methods using`GlideString` (#1606)",
+      "date": "2024-06-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1606",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/99d395917fccf545a51d650ace2c770ceea0b063"
+    },
+    {
+      "sha": "a9566a3691",
+      "message": "Java: reverted byte[] overloading (#1598)",
+      "date": "2024-06-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1598",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a9566a3691b89aff34ecae1efa70aa78806480b3"
     }
   ]
 }

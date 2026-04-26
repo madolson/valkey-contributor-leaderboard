@@ -2,8 +2,8 @@
   "title": "jhpung",
   "login": "jhpung",
   "avatar_url": "https://avatars.githubusercontent.com/u/62597091?v=4",
-  "score": 4,
-  "commit_count": 1,
+  "score": 7,
+  "commit_count": 4,
   "review_count": 3,
   "repos": [
     "valkey-glide"
@@ -16,6 +16,30 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2916",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/28f924fe04383bb5438b926285094c2f4abd0f25"
+    },
+    {
+      "sha": "14f4bbc486",
+      "message": "Node: Ensure client closure in flushAndCloseClient with try-finally (#2614)",
+      "date": "2024-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2614",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/14f4bbc486fcaddb5bbb287e9ca46e08e8c201d4"
+    },
+    {
+      "sha": "a1e1ea93f4",
+      "message": "Node: Optimize test utility promises (#2607)",
+      "date": "2024-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2607",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a1e1ea93f427eb46b33bc2023dc01a9df0262227"
+    },
+    {
+      "sha": "c825e282d5",
+      "message": "Node: specify minimal Node.js version in package.json (#2558)",
+      "date": "2024-11-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2558",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c825e282d53a01d9967e66e5ad8fbc5536585f11"
     }
   ],
   "review_list": [

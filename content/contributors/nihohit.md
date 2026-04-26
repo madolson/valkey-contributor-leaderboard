@@ -2,9 +2,9 @@
   "title": "nihohit",
   "login": "nihohit",
   "avatar_url": "https://avatars.githubusercontent.com/u/4604038?v=4",
-  "score": 7,
+  "score": 8,
   "commit_count": 7,
-  "review_count": 0,
+  "review_count": 1,
   "repos": [
     "valkey-glide"
   ],
@@ -66,5 +66,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a4d7fe18ed0df3c80456b6f91e5d784ce689bd38"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "e93129a8fb",
+      "message": "Don't log sensitive user info in GLIDE code (#1443)",
+      "date": "2024-06-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1443",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e93129a8fb182b5f5c7d0fe82fab8b1b66745d84"
+    }
+  ]
 }

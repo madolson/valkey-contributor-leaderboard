@@ -2,8 +2,8 @@
   "title": "mo-amzn",
   "login": "mo-amzn",
   "avatar_url": "https://avatars.githubusercontent.com/u/183509145?v=4",
-  "score": 14,
-  "commit_count": 6,
+  "score": 22,
+  "commit_count": 14,
   "review_count": 8,
   "repos": [
     "valkey-glide"
@@ -56,6 +56,70 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2686",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3c25ab9dceb52663a432450fd1fb4dfa1a6e9580"
+    },
+    {
+      "sha": "3a1c2b68e7",
+      "message": "Node tests - transactions fix (#2611)",
+      "date": "2024-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2611",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3a1c2b68e7ae834678d0adbd601936bece44a3c4"
+    },
+    {
+      "sha": "c2d5e4a34e",
+      "message": "PYTHON: Json.nummultby update (#2578)",
+      "date": "2024-11-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2578",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c2d5e4a34e947111c69a563f3c320c0ef0d57174"
+    },
+    {
+      "sha": "58454c7362",
+      "message": "PYTHON: Json.numincrby update (#2577)",
+      "date": "2024-11-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2577",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/58454c7362d7359ff823d35bacf595dec7873a0d"
+    },
+    {
+      "sha": "5b90096f72",
+      "message": "Python: Add JSON.ARRINDEX Command (#2528)",
+      "date": "2024-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2528",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5b90096f725d578b3be929883421a6921ba92f50"
+    },
+    {
+      "sha": "d95040ca86",
+      "message": "Python: add JSON.DEBUG.FIELDS and JSON.DEBUG.MEMORY commands (#2481)",
+      "date": "2024-10-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2481",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d95040ca86f2f9cad5b86f3d39eda77eb4061335"
+    },
+    {
+      "sha": "db785c98f4",
+      "message": "Python: Adds JSON.NUMMULTBY Command (#2458)",
+      "date": "2024-10-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2458",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/db785c98f46259ac7a47c36d513c14887ab7b427"
+    },
+    {
+      "sha": "1b3cad345b",
+      "message": "Python: add JSON.NUMINCRBY command (#2448)",
+      "date": "2024-10-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2448",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1b3cad345b4f9f85fd38baba2930d0b819e50037"
+    },
+    {
+      "sha": "667d93a88d",
+      "message": "Python: add JSON.TYPE command (#2409)",
+      "date": "2024-10-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2409",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/667d93a88dc7b479d7c70d5da24a6dc1381618b3"
     }
   ],
   "review_list": [

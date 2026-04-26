@@ -2,9 +2,9 @@
   "title": "janhavigupta007",
   "login": "janhavigupta007",
   "avatar_url": "https://avatars.githubusercontent.com/u/46344506?v=4",
-  "score": 22,
-  "commit_count": 3,
-  "review_count": 19,
+  "score": 40,
+  "commit_count": 16,
+  "review_count": 24,
   "repos": [
     "valkey-glide"
   ],
@@ -32,6 +32,110 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2586",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6bd68500cbe3cb4f710cfa92434110bc6b7e0147"
+    },
+    {
+      "sha": "657e3274f7",
+      "message": "Go: Fixing the version of staticcheck (#2463)",
+      "date": "2024-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2623",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/657e3274f76cc82f1a90767ea422b24c1b314112"
+    },
+    {
+      "sha": "3e41c1a69f",
+      "message": "Go:Implementing List commands (#2434)",
+      "date": "2024-11-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2434",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3e41c1a69fe7280b1ae26be65516b731d248ff49"
+    },
+    {
+      "sha": "1f363554db",
+      "message": "Go: Fixing the version of staticcheck (#2463)",
+      "date": "2024-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2463",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1f363554db771b0c8ef25fcfb898da6e49029fbf"
+    },
+    {
+      "sha": "936b70aa32",
+      "message": "Implementing list commands (#2386)",
+      "date": "2024-10-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2386",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/936b70aa3285e1a191bc7d1afd1c8cb817709d06"
+    },
+    {
+      "sha": "1496c84dc4",
+      "message": "Go: Implementing List commands (#2370)",
+      "date": "2024-10-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2370",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1496c84dc4b2b1f32a7648e20137efd537cae178"
+    },
+    {
+      "sha": "4b53749696",
+      "message": "Go:Implement GetEx command (#2329)",
+      "date": "2024-10-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2329",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4b537496967cbd3b265fe6b3ba856a98a3dcc004"
+    },
+    {
+      "sha": "2c7ec4de68",
+      "message": "Go: Check the response type sent from rust in Go (#2310)",
+      "date": "2024-09-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2310",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2c7ec4de68939702938e6caea84962d834351941"
+    },
+    {
+      "sha": "09b221945b",
+      "message": "Go: Adding the generic map handler and config set, get commands for standalone. (#2303)",
+      "date": "2024-09-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2303",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/09b221945b81979282e452bbc8fc5a731a79e74b"
+    },
+    {
+      "sha": "147fe8b902",
+      "message": "Go: Handling generic arrays instead of only string arrays (#2289)",
+      "date": "2024-09-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2289",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/147fe8b902f70e4507179be9ec37fd731730078d"
+    },
+    {
+      "sha": "44174a37cd",
+      "message": "Go:Fix benchmarking code and improve response side performance (#2288)",
+      "date": "2024-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2288",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/44174a37cd502e7464b2fc8a87238ccce669d841"
+    },
+    {
+      "sha": "284247bbea",
+      "message": "Merge pull request #2218 from janhavigupta007/go/multi_string_commands",
+      "date": "2024-09-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2218",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/284247bbea87148696cce01f5f2a3496e5405001"
+    },
+    {
+      "sha": "63744e2aa5",
+      "message": "Go: Implement incr and decr commands (#2213)",
+      "date": "2024-09-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2213",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/63744e2aa57f8897b2c2d0175eaa95cbd185696f"
+    },
+    {
+      "sha": "322d8d79bc",
+      "message": "Go client: Adding a skeleton to create client connection and invoke SET and GET commands. (#1937)",
+      "date": "2024-08-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1937",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/322d8d79bc76723074b92f72bfc980d5f57db461"
     }
   ],
   "review_list": [
@@ -186,6 +290,46 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2738",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ab31e485034912545ad0d157fdd5cd9e0566d48e"
+    },
+    {
+      "sha": "63e33e133c",
+      "message": "Merge pull request #2294 from MikeMwita/implement-del-command",
+      "date": "2024-10-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2294",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/63e33e133c7efa26efc1c47d8dddd8d9d090fd11"
+    },
+    {
+      "sha": "b0d39ed31f",
+      "message": "Go: Implement Set commands (#2373)",
+      "date": "2024-10-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2373",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b0d39ed31f4cde7e73622c2d3c973c8e1e1f4ad5"
+    },
+    {
+      "sha": "634f1c8be2",
+      "message": "Go: Implementing Hash commands (#2226)",
+      "date": "2024-09-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2226",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/634f1c8be292bdb58f14e97cd997392fa8add537"
+    },
+    {
+      "sha": "70b0ae8453",
+      "message": "GO: performance improvement (#2196)",
+      "date": "2024-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2196",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/70b0ae845303ced1daf230068ba051c422a4b018"
+    },
+    {
+      "sha": "70b0ae8453",
+      "message": "GO: performance improvement (#2196)",
+      "date": "2024-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2196",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/70b0ae845303ced1daf230068ba051c422a4b018"
     }
   ]
 }

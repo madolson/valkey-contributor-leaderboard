@@ -2,8 +2,8 @@
   "title": "Sa1Gur",
   "login": "Sa1Gur",
   "avatar_url": "https://avatars.githubusercontent.com/u/17924193?v=4",
-  "score": 11,
-  "commit_count": 2,
+  "score": 12,
+  "commit_count": 3,
   "review_count": 9,
   "repos": [
     "valkey-glide"
@@ -24,6 +24,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3013",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e99cd3ecdda2a0418ae983ad579679323680f759"
+    },
+    {
+      "sha": "32ea9d6b6a",
+      "message": "C#: Strict rules (#1136)",
+      "date": "2024-04-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/1136",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/32ea9d6b6a095a824fe6c220ec78d3dd394ae408"
     }
   ],
   "review_list": [
