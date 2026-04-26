@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 61,
-  "commit_count": 19,
-  "review_count": 42,
+  "score": 68,
+  "commit_count": 20,
+  "review_count": 48,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -162,6 +162,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4819",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e038dc8db185c944a55d48679e8fd383091c3ec1"
+    },
+    {
+      "sha": "7e470ff230",
+      "message": "Alpine Support for Java Client (#4634)",
+      "date": "2025-08-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4634",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7e470ff23078a3b5e68963cffbf71c299980667a"
     }
   ],
   "review_list": [
@@ -500,6 +508,54 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4891",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d99bff3546074dd9d9ba115532334266d90890b1"
+    },
+    {
+      "sha": "91890d09de",
+      "message": "Java: Multi-Database Support for Cluster Mode Valkey 9.0 (#4658)",
+      "date": "2025-09-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4658",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/91890d09dee67d6a84bd5c070010ab9ccd36a2c5"
+    },
+    {
+      "sha": "d1b0ae7f0c",
+      "message": "Python: Add Multi-Database Support for Cluster Mode Valkey 9.0 (#4659)",
+      "date": "2025-09-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4659",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d1b0ae7f0cf334c15125f9373045c28dff69b667"
+    },
+    {
+      "sha": "9740659643",
+      "message": "Python: Valkey 9 new hash field expiration commands (#4610)",
+      "date": "2025-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4610",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97406596435fbc3c0c395f6ec6e334d3dcbfcd45"
+    },
+    {
+      "sha": "09173de231",
+      "message": "Java: Add UnifiedJedis.java commands and add JedisCluster.java (#4665)",
+      "date": "2025-08-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4665",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/09173de2311ae1fb28135376a9213d7fa3e60b04"
+    },
+    {
+      "sha": "13b8cc2e1d",
+      "message": "JAVA: Valkey 9 new commands HASH items expiration (#4556)",
+      "date": "2025-08-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4556",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/13b8cc2e1dc4cb5c20e93e18d1864fce9346c302"
+    },
+    {
+      "sha": "8eb85ea94c",
+      "message": "Java: Update JedisPool implementation and add UnifiedJedis initial setup for cluster support (#4647)",
+      "date": "2025-08-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4647",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8eb85ea94c09302096c7d147d35441a5e23a8f93"
     }
   ]
 }

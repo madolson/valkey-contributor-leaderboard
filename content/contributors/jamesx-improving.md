@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 63,
-  "commit_count": 15,
-  "review_count": 48,
+  "score": 91,
+  "commit_count": 27,
+  "review_count": 64,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -129,6 +129,102 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4727",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b3f638f790449974aec24d83da7da23dce0e0a0f"
+    },
+    {
+      "sha": "5094aa4419",
+      "message": "Dev: Remove vscode setting.json (#4622)",
+      "date": "2025-09-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4622",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5094aa441921f46ac1067f37b91a77f28ec11875"
+    },
+    {
+      "sha": "8081377035",
+      "message": "Java: Fix flaky test config_reset_stat (#4668)",
+      "date": "2025-08-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4668",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/80813770351c04d1aded91970276d730a06bb7cd"
+    },
+    {
+      "sha": "a4d38b16ec",
+      "message": "Core: Fix UDS infinite loop (#4612)",
+      "date": "2025-08-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4612",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a4d38b16ec87e29a36892f7f9b30a65b5a2fecc6"
+    },
+    {
+      "sha": "4f75ca7da4",
+      "message": "Node: Fix flaky HKEYS test (#4636)",
+      "date": "2025-08-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4636",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4f75ca7da48a83f5d6912f8ed7ad3ce1aa2a0d5b"
+    },
+    {
+      "sha": "7634815e1d",
+      "message": "Java: add more output when config_reset_stat failed (#4621)",
+      "date": "2025-08-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4621",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7634815e1dad3ebae7ee8cae93973cbcf07bda92"
+    },
+    {
+      "sha": "159e72d552",
+      "message": "CI: Temporarily remove CodeQL cache (#4565)",
+      "date": "2025-08-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4565",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/159e72d55263822e74c8b4bba710637065a785ac"
+    },
+    {
+      "sha": "a1a2d73533",
+      "message": "C#: List Commands batch 1 (#4402)",
+      "date": "2025-07-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4402",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a1a2d7353376416d96484e6fe3d99c257273ea9c"
+    },
+    {
+      "sha": "5c789be643",
+      "message": "C#: Bump StackExchange.Redis version used in benchmarks (#4410)",
+      "date": "2025-07-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4410",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5c789be6434bdf2e39b4088bccee99ef71d00a00"
+    },
+    {
+      "sha": "4fe47a2d8e",
+      "message": "C#: Copy full definition of RequestType (#4394)",
+      "date": "2025-07-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4394",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4fe47a2d8ea46e8e3fbd6d2d43fff1bd27175b4a"
+    },
+    {
+      "sha": "c29d246a84",
+      "message": "C#: Add LPUSH and LPOP commands (#4321)",
+      "date": "2025-07-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4321",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c29d246a84d6bd9cc444a67bc52f58c69d68a898"
+    },
+    {
+      "sha": "f8ae8a6fbb",
+      "message": "CI: fix C# linter (#4322)",
+      "date": "2025-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4322",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f8ae8a6fbb995bbd378a273ad26c6a349014afdc"
+    },
+    {
+      "sha": "1eb16f1260",
+      "message": "C#: Reorganize Request class (#4299)",
+      "date": "2025-07-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4299",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1eb16f1260d7f3df5d7e3ec0b2289b4bd0d2bdf6"
     }
   ],
   "review_list": [
@@ -547,6 +643,206 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4753",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ba1bcd7a6ca7922971f229a8dcefedba9757b25b"
+    },
+    {
+      "sha": "8cd2a73c2b",
+      "message": "Python: replace asyncio.sleep with anyio.sleep in async tests (#4682)",
+      "date": "2025-09-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4682",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8cd2a73c2b47df7d6311e58bd54255a7d95fa41d"
+    },
+    {
+      "sha": "fdd86bbd0d",
+      "message": "Fix flaky standalone client tests by replacing hostname with non-routable IP (#4676)",
+      "date": "2025-09-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4676",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fdd86bbd0d4255e90fcf4c088dd0f5a95a972e27"
+    },
+    {
+      "sha": "36ec725f13",
+      "message": "Fix benchmark execution for CSharp (#4674)",
+      "date": "2025-09-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4674",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/36ec725f131b2ab6035ea4551a4f3fe441fe5074"
+    },
+    {
+      "sha": "9fa78c5864",
+      "message": "Add GitHub Copilot instructions for valkey-glide multi-language development (#4646)",
+      "date": "2025-09-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4646",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9fa78c5864ba906f81a1fd2e05591b42e822adf1"
+    },
+    {
+      "sha": "c45c5a06e1",
+      "message": "Fix flaky hash command tests by using order-agnostic comparisons (#4638)",
+      "date": "2025-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4638",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c45c5a06e12a0dbbd3b2d281fbb0c84e3aca9e40"
+    },
+    {
+      "sha": "c4d41e4b6c",
+      "message": "Fix flaky TestZScan by using fresh map for NoScores test (#4639)",
+      "date": "2025-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4639",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c4d41e4b6c5b3e95caf930424b6f30693da55a23"
+    },
+    {
+      "sha": "5df6945068",
+      "message": "Fix flaky test by improving key generation uniqueness in BatchTestUtilities (#4643)",
+      "date": "2025-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4643",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5df694506846e6902366e302a02a1718973d6c25"
+    },
+    {
+      "sha": "23cbc32fb9",
+      "message": "Fix flaky blmove timeout tests by using appropriate request timeout (#4644)",
+      "date": "2025-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4644",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/23cbc32fb9be599c8db74f498d1331ebe934d1aa"
+    },
+    {
+      "sha": "eef1067417",
+      "message": "Fix flaky Node.js PubSub tests by adding subscription readiness delay (#4641)",
+      "date": "2025-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4641",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/eef1067417fe35f7ca98035da963f11feaf62421"
+    },
+    {
+      "sha": "7e470ff230",
+      "message": "Alpine Support for Java Client (#4634)",
+      "date": "2025-08-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4634",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7e470ff23078a3b5e68963cffbf71c299980667a"
+    },
+    {
+      "sha": "3f56f8370e",
+      "message": "Util: Updated wait time for retries from 0.5s to 1s (#4656)",
+      "date": "2025-08-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4656",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3f56f8370e2431b494037a89a23cbf3ea2743ebe"
+    },
+    {
+      "sha": "2929c97a65",
+      "message": "Migrate C# client (#4532)",
+      "date": "2025-08-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4532",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2929c97a65a2de93204a50cbee09ebefce283d68"
+    },
+    {
+      "sha": "4a2aa77f6a",
+      "message": "Documentation update for protobuf installation (#4509)",
+      "date": "2025-08-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4509",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4a2aa77f6a30f292f033414eae354ed9125afc98"
+    },
+    {
+      "sha": "8d99de9d4b",
+      "message": "GO: Lazy connect implementation (#4374)",
+      "date": "2025-07-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4374",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8d99de9d4b8280d7ba7d141f043737d455f6ae6e"
+    },
+    {
+      "sha": "c4d4609c1e",
+      "message": "Fix flaky TestZScan by isolating NoScores test data (#4381)",
+      "date": "2025-07-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4381",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c4d4609c1eee7cfdd2f4a5522e6a8d20c1e1f48f"
+    },
+    {
+      "sha": "94d95bd50a",
+      "message": "C#: String commands GA (#4409)",
+      "date": "2025-07-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4409",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/94d95bd50a875c97005caad1a6961f7ef859f83c"
+    },
+    {
+      "sha": "d832343738",
+      "message": "CI: Add Dependabot configuration for automated dependency management across all languages (#4353)",
+      "date": "2025-07-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4353",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d8323437385b734ce38be97b83a00c68a8aa9e0d"
+    },
+    {
+      "sha": "a7d6afb502",
+      "message": "C#: Connection Management Commands Batch 1 (#4309)",
+      "date": "2025-07-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4309",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a7d6afb502d0be53f970fcd705af737820fa83d5"
+    },
+    {
+      "sha": "da4e2fd90e",
+      "message": "C#: ZAdd command (#4355)",
+      "date": "2025-07-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4355",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/da4e2fd90e70bf8dd454d38b9d881542d1a9d055"
+    },
+    {
+      "sha": "918702edbf",
+      "message": "C# compatibility: adding feature to get list of connections (#4310)",
+      "date": "2025-07-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4310",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/918702edbf8639bb7b3f14cb25b7c4c5534a65c5"
+    },
+    {
+      "sha": "14c22be240",
+      "message": "GO: Add cross-compilation documentation to Go README (#4325)",
+      "date": "2025-07-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4325",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/14c22be2401313d17bb7bcd2f93fba53a41ee7b2"
+    },
+    {
+      "sha": "4117a802ae",
+      "message": "C#: Add response checks for batch for every command (#4236)",
+      "date": "2025-07-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4236",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4117a802aeead6fe9fde963a8e0764bdefc6e8ed"
+    },
+    {
+      "sha": "75179b8fad",
+      "message": "C#: Migrate basic APITypes and enums from SER to unblock command implementation (#4254)",
+      "date": "2025-07-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4254",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/75179b8fadda1f5776409bf1e846fd8bf85db831"
+    },
+    {
+      "sha": "2d804d1857",
+      "message": "Update CodeQL configuration: broaden paths ignored and add workflow_d\u2026 (#4281)",
+      "date": "2025-07-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4281",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2d804d185799d214dac5975919e97ae6860a714c"
+    },
+    {
+      "sha": "adea9e9279",
+      "message": "C#: Fix `dotnet` Docs (#4227)",
+      "date": "2025-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4227",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/adea9e9279eddb7a7c1832de310456334850612b"
     }
   ]
 }

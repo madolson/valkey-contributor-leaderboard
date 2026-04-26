@@ -455,7 +455,7 @@ def main():
     for c in store["commits"]:
         if isinstance(c.get("reviewed"), list):
             all_logins.add(c["author_login"])
-            all_logins.update(c["reviewed"])
+            all_logins.update(_reviewer_login(r) for r in c["reviewed"])
     all_logins -= {l for l in all_logins if "[bot]" in l or l == "Copilot"}
     if not rate_limited:
         fetch_profiles(all_logins, profiles, token)

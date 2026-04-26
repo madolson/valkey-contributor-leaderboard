@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 72,
-  "commit_count": 35,
-  "review_count": 37,
+  "score": 87,
+  "commit_count": 49,
+  "review_count": 38,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -291,6 +291,118 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4710",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/53b9fe2a939a80fbdad53e3c9e19c881d43a9efb"
+    },
+    {
+      "sha": "74325859aa",
+      "message": "Node: Add Multi-Database Support for Cluster Mode (Valkey 9.0) (#4657)",
+      "date": "2025-09-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4657",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/74325859aaf7e2a443f05e731abeb70cac07c9eb"
+    },
+    {
+      "sha": "91890d09de",
+      "message": "Java: Multi-Database Support for Cluster Mode Valkey 9.0 (#4658)",
+      "date": "2025-09-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4658",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/91890d09dee67d6a84bd5c070010ab9ccd36a2c5"
+    },
+    {
+      "sha": "b9c031d133",
+      "message": "Go: Add Multi-Database Support for Cluster Mode Valkey 9.0 (#4660)",
+      "date": "2025-09-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4660",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b9c031d133a1cccdb632c849f5f51e449bfad775"
+    },
+    {
+      "sha": "d1b0ae7f0c",
+      "message": "Python: Add Multi-Database Support for Cluster Mode Valkey 9.0 (#4659)",
+      "date": "2025-09-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4659",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d1b0ae7f0cf334c15125f9373045c28dff69b667"
+    },
+    {
+      "sha": "8cd2a73c2b",
+      "message": "Python: replace asyncio.sleep with anyio.sleep in async tests (#4682)",
+      "date": "2025-09-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4682",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8cd2a73c2b47df7d6311e58bd54255a7d95fa41d"
+    },
+    {
+      "sha": "9740659643",
+      "message": "Python: Valkey 9 new hash field expiration commands (#4610)",
+      "date": "2025-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4610",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97406596435fbc3c0c395f6ec6e334d3dcbfcd45"
+    },
+    {
+      "sha": "7b90d86938",
+      "message": "NODE:  Valkey 9 support - Add Hash Field Expiration Commands Support (#4598)",
+      "date": "2025-08-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4598",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7b90d869382216b487f6d68d0d03730e4161f5dc"
+    },
+    {
+      "sha": "13b8cc2e1d",
+      "message": "JAVA: Valkey 9 new commands HASH items expiration (#4556)",
+      "date": "2025-08-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4556",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/13b8cc2e1dc4cb5c20e93e18d1864fce9346c302"
+    },
+    {
+      "sha": "e674388656",
+      "message": "FIX: resolve Valkey 9 compatibility issues across all clients (#4632)",
+      "date": "2025-08-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4632",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e674388656cc6f660b206d72476d80bbef42b195"
+    },
+    {
+      "sha": "cb9f74ac60",
+      "message": "SpanfromContext changelog (#4567)",
+      "date": "2025-08-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4567",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cb9f74ac60ce93c3692e16433c831da8d1470632"
+    },
+    {
+      "sha": "c7db02fa15",
+      "message": "CORE/FFI/GO - SpanFromContext implementation (#4507)",
+      "date": "2025-08-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4507",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c7db02fa1515a1cf198b43219f400c3cdebded0b"
+    },
+    {
+      "sha": "4a9a31b3ff",
+      "message": "CORE: resolve clippy warnings and future incompatibility issues (#4564)",
+      "date": "2025-08-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4564",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4a9a31b3ff9618ef204f4c077577c53504f4a90c"
+    },
+    {
+      "sha": "8d99de9d4b",
+      "message": "GO: Lazy connect implementation (#4374)",
+      "date": "2025-07-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4374",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8d99de9d4b8280d7ba7d141f043737d455f6ae6e"
+    },
+    {
+      "sha": "fed6fc0e9c",
+      "message": "Java: Lazy connect implementation (#4370)",
+      "date": "2025-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4370",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fed6fc0e9c4f0ae7c2976f113c9b3805ea796827"
     }
   ],
   "review_list": [
@@ -589,6 +701,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4897",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/455c60d27ae4724f74336563c9bfee957d030a91"
+    },
+    {
+      "sha": "cff4045825",
+      "message": "[Java] Fix authentication issue in ConnectionTests.test_lazy_connection_establishes_on_first_command (#4551)",
+      "date": "2025-08-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4551",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cff4045825cb0ca80d586f6ce923c4be73dee266"
+    },
+    {
+      "sha": "81c6588b9e",
+      "message": "Java: Jedis compatibility layer simple commands added for Jedis.java (#4458)",
+      "date": "2025-07-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4458",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/81c6588b9e48d7ae64116ff5b64958008cb008fc"
     }
   ]
 }

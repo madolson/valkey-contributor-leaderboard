@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 92,
+  "score": 109,
   "commit_count": 14,
-  "review_count": 78,
+  "review_count": 95,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -748,6 +748,150 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4742",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0aeddbdfa6f6915dbbe7f226662fd48bee9fcae2"
+    },
+    {
+      "sha": "74325859aa",
+      "message": "Node: Add Multi-Database Support for Cluster Mode (Valkey 9.0) (#4657)",
+      "date": "2025-09-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4657",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/74325859aaf7e2a443f05e731abeb70cac07c9eb"
+    },
+    {
+      "sha": "b9c031d133",
+      "message": "Go: Add Multi-Database Support for Cluster Mode Valkey 9.0 (#4660)",
+      "date": "2025-09-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4660",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b9c031d133a1cccdb632c849f5f51e449bfad775"
+    },
+    {
+      "sha": "fdd86bbd0d",
+      "message": "Fix flaky standalone client tests by replacing hostname with non-routable IP (#4676)",
+      "date": "2025-09-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4676",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fdd86bbd0d4255e90fcf4c088dd0f5a95a972e27"
+    },
+    {
+      "sha": "869a5cfd2b",
+      "message": "Java: Migration guide for Jedis compatibility layer (#4672)",
+      "date": "2025-09-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4672",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/869a5cfd2b408f10cbc08e4a353524ab4e87ee9d"
+    },
+    {
+      "sha": "36ec725f13",
+      "message": "Fix benchmark execution for CSharp (#4674)",
+      "date": "2025-09-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4674",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/36ec725f131b2ab6035ea4551a4f3fe441fe5074"
+    },
+    {
+      "sha": "48192d7617",
+      "message": "Java: SSL/TLS for Jedis compatibility layer (#4613)",
+      "date": "2025-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4613",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/48192d7617ec1cf978c0b7b76c9b2a7d10d0a348"
+    },
+    {
+      "sha": "7634815e1d",
+      "message": "Java: add more output when config_reset_stat failed (#4621)",
+      "date": "2025-08-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4621",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7634815e1dad3ebae7ee8cae93973cbcf07bda92"
+    },
+    {
+      "sha": "1d46adb21f",
+      "message": "Java: Refactor Jedis compatibility layer code to remove duplicate code (#4609)",
+      "date": "2025-08-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4609",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1d46adb21fbaf10c2652b8a52987cfea01e9434e"
+    },
+    {
+      "sha": "44b8e674d6",
+      "message": "Java: Add list commands for Jedis compatibility layer (#4608)",
+      "date": "2025-08-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4608",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/44b8e674d6a1fe9e8c11d7b53c79394a3318e980"
+    },
+    {
+      "sha": "858d563f34",
+      "message": "Java: Add hash commands for jedis compatibility layer (#4595)",
+      "date": "2025-08-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4595",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/858d563f341503c6a3f855f7511a4df062364af4"
+    },
+    {
+      "sha": "7a8f9ee4b3",
+      "message": "Add sendCommand() method in Jedis.java and add some basic class structures. (#4555)",
+      "date": "2025-08-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4555",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7a8f9ee4b3342b773c66a07315fc351d2507b922"
+    },
+    {
+      "sha": "320b45df55",
+      "message": "Java: UnifiedJedis integ test added for get, set, del (#4487)",
+      "date": "2025-07-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4487",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/320b45df5545522f9d81e02746143ebb535716ce"
+    },
+    {
+      "sha": "81c6588b9e",
+      "message": "Java: Jedis compatibility layer simple commands added for Jedis.java (#4458)",
+      "date": "2025-07-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4458",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/81c6588b9e48d7ae64116ff5b64958008cb008fc"
+    },
+    {
+      "sha": "fb9f460bf6",
+      "message": "Java: Jedis compatibility layer initial config code and get/set commands. (#4284)",
+      "date": "2025-07-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4284",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fb9f460bf615a8c05b757660ae2e0f805d6c1dc9"
+    },
+    {
+      "sha": "4ee46ec93f",
+      "message": "Go: Fix cluster scan cursor leak (#4395)",
+      "date": "2025-07-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4395",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4ee46ec93ff2ddf2fb4f5eb6af406277d8d13c29"
+    },
+    {
+      "sha": "fed6fc0e9c",
+      "message": "Java: Lazy connect implementation (#4370)",
+      "date": "2025-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4370",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fed6fc0e9c4f0ae7c2976f113c9b3805ea796827"
+    },
+    {
+      "sha": "fa3f6d96e3",
+      "message": "C#: Add option to use running server(s) for IT. (#4206)",
+      "date": "2025-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4206",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fa3f6d96e36da025e7ae6be2c32a3a7ddfa1c925"
+    },
+    {
+      "sha": "682fc30da8",
+      "message": "C#: Set Commands (#4291)",
+      "date": "2025-07-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4291",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/682fc30da8c4f2aa2adfe0d4d3a70647a344236e"
     }
   ]
 }

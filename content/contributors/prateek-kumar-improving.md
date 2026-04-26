@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 76,
-  "commit_count": 24,
-  "review_count": 52,
+  "score": 97,
+  "commit_count": 38,
+  "review_count": 59,
   "repos": [
     "valkey-glide",
     "valkey-glide-docs",
@@ -202,6 +202,118 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4869",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/15c535e8b4b75226b705171a63392a559c606aa3"
+    },
+    {
+      "sha": "869a5cfd2b",
+      "message": "Java: Migration guide for Jedis compatibility layer (#4672)",
+      "date": "2025-09-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4672",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/869a5cfd2b408f10cbc08e4a353524ab4e87ee9d"
+    },
+    {
+      "sha": "09173de231",
+      "message": "Java: Add UnifiedJedis.java commands and add JedisCluster.java (#4665)",
+      "date": "2025-08-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4665",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/09173de2311ae1fb28135376a9213d7fa3e60b04"
+    },
+    {
+      "sha": "8eb85ea94c",
+      "message": "Java: Update JedisPool implementation and add UnifiedJedis initial setup for cluster support (#4647)",
+      "date": "2025-08-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4647",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8eb85ea94c09302096c7d147d35441a5e23a8f93"
+    },
+    {
+      "sha": "48192d7617",
+      "message": "Java: SSL/TLS for Jedis compatibility layer (#4613)",
+      "date": "2025-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4613",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/48192d7617ec1cf978c0b7b76c9b2a7d10d0a348"
+    },
+    {
+      "sha": "1d46adb21f",
+      "message": "Java: Refactor Jedis compatibility layer code to remove duplicate code (#4609)",
+      "date": "2025-08-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4609",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1d46adb21fbaf10c2652b8a52987cfea01e9434e"
+    },
+    {
+      "sha": "44b8e674d6",
+      "message": "Java: Add list commands for Jedis compatibility layer (#4608)",
+      "date": "2025-08-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4608",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/44b8e674d6a1fe9e8c11d7b53c79394a3318e980"
+    },
+    {
+      "sha": "858d563f34",
+      "message": "Java: Add hash commands for jedis compatibility layer (#4595)",
+      "date": "2025-08-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4595",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/858d563f341503c6a3f855f7511a4df062364af4"
+    },
+    {
+      "sha": "7a8f9ee4b3",
+      "message": "Add sendCommand() method in Jedis.java and add some basic class structures. (#4555)",
+      "date": "2025-08-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4555",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7a8f9ee4b3342b773c66a07315fc351d2507b922"
+    },
+    {
+      "sha": "320b45df55",
+      "message": "Java: UnifiedJedis integ test added for get, set, del (#4487)",
+      "date": "2025-07-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4487",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/320b45df5545522f9d81e02746143ebb535716ce"
+    },
+    {
+      "sha": "81c6588b9e",
+      "message": "Java: Jedis compatibility layer simple commands added for Jedis.java (#4458)",
+      "date": "2025-07-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4458",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/81c6588b9e48d7ae64116ff5b64958008cb008fc"
+    },
+    {
+      "sha": "fb9f460bf6",
+      "message": "Java: Jedis compatibility layer initial config code and get/set commands. (#4284)",
+      "date": "2025-07-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4284",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fb9f460bf615a8c05b757660ae2e0f805d6c1dc9"
+    },
+    {
+      "sha": "67550b8018",
+      "message": "C#: Add ZRem command (#4372)",
+      "date": "2025-07-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4372",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67550b8018b9fb0eacf560a1e7bb992c8e604330"
+    },
+    {
+      "sha": "da4e2fd90e",
+      "message": "C#: ZAdd command (#4355)",
+      "date": "2025-07-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4355",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/da4e2fd90e70bf8dd454d38b9d881542d1a9d055"
+    },
+    {
+      "sha": "0a9f309cf6",
+      "message": "Go: Update examples link (#4216)",
+      "date": "2025-06-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4216",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0a9f309cf64edb28bda6dc4842db6d4088399ee1"
     }
   ],
   "review_list": [
@@ -628,6 +740,70 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4739",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7664ec08ab718b541d8c6590eeadc75d28282231"
+    },
+    {
+      "sha": "91890d09de",
+      "message": "Java: Multi-Database Support for Cluster Mode Valkey 9.0 (#4658)",
+      "date": "2025-09-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4658",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/91890d09dee67d6a84bd5c070010ab9ccd36a2c5"
+    },
+    {
+      "sha": "8081377035",
+      "message": "Java: Fix flaky test config_reset_stat (#4668)",
+      "date": "2025-08-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4668",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/80813770351c04d1aded91970276d730a06bb7cd"
+    },
+    {
+      "sha": "3f56f8370e",
+      "message": "Util: Updated wait time for retries from 0.5s to 1s (#4656)",
+      "date": "2025-08-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4656",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3f56f8370e2431b494037a89a23cbf3ea2743ebe"
+    },
+    {
+      "sha": "e674388656",
+      "message": "FIX: resolve Valkey 9 compatibility issues across all clients (#4632)",
+      "date": "2025-08-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4632",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e674388656cc6f660b206d72476d80bbef42b195"
+    },
+    {
+      "sha": "c7db02fa15",
+      "message": "CORE/FFI/GO - SpanFromContext implementation (#4507)",
+      "date": "2025-08-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4507",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c7db02fa1515a1cf198b43219f400c3cdebded0b"
+    },
+    {
+      "sha": "c4a15d2e55",
+      "message": "Fix flaky test TestFt::test_ft_search by adding retry logic and longer wait time (#4376)",
+      "date": "2025-07-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4376",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c4a15d2e55dcbe3521c05091198eb2fd948f55e2"
+    },
+    {
+      "sha": "75ade9a69c",
+      "message": "Update README for AZ Affinity Support (#4337)",
+      "date": "2025-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4337",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/75ade9a69cb827729b9fc82228554e40c648353f"
+    },
+    {
+      "sha": "955eca9a6b",
+      "message": "Backport Release 2.0 Commit Into Main (#4241)",
+      "date": "2025-06-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4241",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/955eca9a6b1ca34a52a21ac8cf6044d08803919d"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "title": "mo-amzn",
   "login": "mo-amzn",
   "avatar_url": "https://github.com/mo-amzn.png?size=64",
-  "score": 4,
+  "score": 7,
   "commit_count": 0,
-  "review_count": 4,
+  "review_count": 7,
   "repos": [],
   "commit_list": [],
   "review_list": [
@@ -39,6 +39,38 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4771",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2e40c0b8de3d7bc5842681db91c6c0e95dffd3d2"
+    },
+    {
+      "sha": "2d4f5e8fb9",
+      "message": "[Python][Lazy Client] Fix lazy client cluster test (#4421)",
+      "date": "2025-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4421",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2d4f5e8fb9791c6af7aeafc802de265d99576b59"
+    },
+    {
+      "sha": "f3885dc269",
+      "message": "Fix trio backend test failures by replacing asyncio.sleep with anyio.sleep (#4324)",
+      "date": "2025-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4324",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f3885dc26980068d90f3f3c86e0678d90d062e04"
+    },
+    {
+      "sha": "275e2ef3cd",
+      "message": "Fix No Matching Script Bug in Flush Test (#4245)",
+      "date": "2025-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4245",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/275e2ef3cd4ccbd4cf77786acab168177c580571"
+    },
+    {
+      "sha": "ce824d9ea7",
+      "message": "[Python] Fix lazy client standalone test  (#4318)",
+      "date": "2025-07-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4318",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ce824d9ea7cc1f48cf412ad63fe2f9c0279df168"
     }
   ]
 }

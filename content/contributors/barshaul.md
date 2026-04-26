@@ -2,9 +2,9 @@
   "title": "barshaul",
   "login": "barshaul",
   "avatar_url": "https://github.com/barshaul.png?size=64",
-  "score": 11,
+  "score": 16,
   "commit_count": 0,
-  "review_count": 11,
+  "review_count": 16,
   "repos": [],
   "commit_list": [],
   "review_list": [
@@ -87,6 +87,46 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4733",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/52084a5eafa8c2beae9e1ec9a0c21306cc3c0dae"
+    },
+    {
+      "sha": "f265e9c210",
+      "message": "Core: Add support for OTLP environment variables (#4334) (#4367)",
+      "date": "2025-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4367",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f265e9c210167e487987bbe48659a8f6ee64e005"
+    },
+    {
+      "sha": "a56d6413d4",
+      "message": "Node - Remove Drop Script (#4488)",
+      "date": "2025-08-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4488",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a56d6413d49718958432ec758f06d1042104d1fc"
+    },
+    {
+      "sha": "4391cadb64",
+      "message": "Python: Add sync client, change directory structure  (#4530)",
+      "date": "2025-08-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4530",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4391cadb642ce97d059cb0595e5ca3c03f289336"
+    },
+    {
+      "sha": "c6cb3529ec",
+      "message": "Remove unused workspace crates under redis-rs. (#4283)",
+      "date": "2025-07-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4283",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c6cb3529eca1c068365e1dacc3b76a6427bdb373"
+    },
+    {
+      "sha": "5c208a5c2a",
+      "message": "Remove unused tls crates (#4100)",
+      "date": "2025-06-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4100",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5c208a5c2af9ee1f05a67f9a655cdca6962f1d0e"
     },
     {
       "sha": "8fb4f01239",

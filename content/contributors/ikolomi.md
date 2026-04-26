@@ -2,11 +2,12 @@
   "title": "ikolomi",
   "login": "ikolomi",
   "avatar_url": "https://avatars.githubusercontent.com/u/152477505?v=4",
-  "score": 41,
-  "commit_count": 1,
-  "review_count": 40,
+  "score": 52,
+  "commit_count": 4,
+  "review_count": 48,
   "repos": [
-    "spring-data-valkey"
+    "spring-data-valkey",
+    "valkey-glide"
   ],
   "commit_list": [
     {
@@ -16,6 +17,30 @@
       "repo": "spring-data-valkey",
       "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/68",
       "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/4dc8dbcddf25043cb15b08ec046031546b376b44"
+    },
+    {
+      "sha": "ce0579f018",
+      "message": "CI: Add actions:write permission to full-matrix-tests-sweeper (#4320)",
+      "date": "2025-07-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4320",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ce0579f0185be989315e6f323957b58fc021ebf8"
+    },
+    {
+      "sha": "cace40432b",
+      "message": "Add explicit run-modules-tests parameter to workflow_dispatch trigger of CI tests (#4121)",
+      "date": "2025-06-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4121",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cace40432b95b74e4ebaceb1b7dd805515eaa015"
+    },
+    {
+      "sha": "a4baefc3a7",
+      "message": "Allow scheduling of full matrix tests for different branches (#4119)",
+      "date": "2025-06-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4119",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a4baefc3a7c5f9b03f588eb4858be25bf75ca526"
     }
   ],
   "review_list": [
@@ -338,6 +363,70 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4771",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2e40c0b8de3d7bc5842681db91c6c0e95dffd3d2"
+    },
+    {
+      "sha": "e2f92be8df",
+      "message": "CD: removed self hosted mac arm runners from required CD platforms #4700 (#4702)",
+      "date": "2025-09-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4702",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e2f92be8df7b0f9996cdc901e8be41cca2a6e516"
+    },
+    {
+      "sha": "45b45fe900",
+      "message": "CI: Added self hosted macOS runners (#4683)",
+      "date": "2025-09-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4683",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/45b45fe90008c00df12725bd8a1d76645ad6c4a1"
+    },
+    {
+      "sha": "dd8b38ac4d",
+      "message": "Fix mac-arm disable for full matrix tests  (#4633)",
+      "date": "2025-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4633",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dd8b38ac4dc0cc32dce55ee5c389b94344440df9"
+    },
+    {
+      "sha": "dd8b38ac4d",
+      "message": "Fix mac-arm disable for full matrix tests  (#4633)",
+      "date": "2025-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4633",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dd8b38ac4dc0cc32dce55ee5c389b94344440df9"
+    },
+    {
+      "sha": "02fe0f9407",
+      "message": "Disabled mac arm for full matrix runs (#4628)",
+      "date": "2025-08-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4628",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/02fe0f94076cb25134456df6cdc40d4cfb178c3e"
+    },
+    {
+      "sha": "431d8d8c47",
+      "message": "ORT: fix workflow permissions (#4510)",
+      "date": "2025-07-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4510",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/431d8d8c47b31a886c078cbf0915d481bd4271c1"
+    },
+    {
+      "sha": "ce824d9ea7",
+      "message": "[Python] Fix lazy client standalone test  (#4318)",
+      "date": "2025-07-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4318",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ce824d9ea7cc1f48cf412ad63fe2f9c0279df168"
+    },
+    {
+      "sha": "8186094a33",
+      "message": "fix for code scanning (#4274)",
+      "date": "2025-06-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4274",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8186094a334ee2fdf32ac283a65ee3afc5f916b3"
     }
   ]
 }

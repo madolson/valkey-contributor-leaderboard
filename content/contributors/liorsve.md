@@ -2,9 +2,9 @@
   "title": "liorsve",
   "login": "liorsve",
   "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
-  "score": 44,
-  "commit_count": 29,
-  "review_count": 15,
+  "score": 67,
+  "commit_count": 50,
+  "review_count": 17,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -205,12 +205,180 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/85b579329f0ee07a034c810c952e4ca53a6f99bb"
     },
     {
+      "sha": "7a031e5310",
+      "message": "Python sync/CD: added description to pypi package of the sync client (#4714)",
+      "date": "2025-09-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4714",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7a031e5310c8b82b718e568ace245b81db557825"
+    },
+    {
+      "sha": "50f8b51cdc",
+      "message": "Python: fixed pypi-cd workflow, fixed release tests (#4703)",
+      "date": "2025-09-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4703",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/50f8b51cdceaabeb67e9c418a195fe5d51cae1dd"
+    },
+    {
+      "sha": "e2f92be8df",
+      "message": "CD: removed self hosted mac arm runners from required CD platforms #4700 (#4702)",
+      "date": "2025-09-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4702",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e2f92be8df7b0f9996cdc901e8be41cca2a6e516"
+    },
+    {
+      "sha": "05c0411a1a",
+      "message": "Python sync: removed select command (#4684)",
+      "date": "2025-09-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4684",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/05c0411a1a0415a92ea1a83a2ce639f2576e1d2f"
+    },
+    {
+      "sha": "45b45fe900",
+      "message": "CI: Added self hosted macOS runners (#4683)",
+      "date": "2025-09-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4683",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/45b45fe90008c00df12725bd8a1d76645ad6c4a1"
+    },
+    {
       "sha": "21eee0e67d",
       "message": "Split clients README file (#244)",
       "date": "2025-09-05",
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/244",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/21eee0e67d362677b14b12ce6c12c86d2b6fba0d"
+    },
+    {
+      "sha": "c37c057507",
+      "message": "Python: fix consistency test (#4594)",
+      "date": "2025-08-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4594",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c37c05750726dc4f73288f0b26291aecde8dd473"
+    },
+    {
+      "sha": "aebc52d895",
+      "message": "Python sync: fix flaky test_sync_script_isnt_removed_while_another_instance_exists (#4654)",
+      "date": "2025-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4654",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/aebc52d895c74afb9f4f29d80bad2663fc1b910b"
+    },
+    {
+      "sha": "75ef50feef",
+      "message": "Python: increase test workflow timeout (#4637)",
+      "date": "2025-08-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4637",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/75ef50feefe0d3c4ac91e6803ea64b3ee0a12990"
+    },
+    {
+      "sha": "5bb99dc930",
+      "message": "Python Sync: added script (#4593)",
+      "date": "2025-08-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4593",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5bb99dc9304589815066c59364ff05cdc175bf44"
+    },
+    {
+      "sha": "dd8b38ac4d",
+      "message": "Fix mac-arm disable for full matrix tests  (#4633)",
+      "date": "2025-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4633",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dd8b38ac4dc0cc32dce55ee5c389b94344440df9"
+    },
+    {
+      "sha": "8ad908f573",
+      "message": "Python sync: fix batch tests and test teardown logic (#4626)",
+      "date": "2025-08-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4626",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8ad908f573caffe81e2edc54040784c0554a5d62"
+    },
+    {
+      "sha": "02fe0f9407",
+      "message": "Disabled mac arm for full matrix runs (#4628)",
+      "date": "2025-08-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4628",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/02fe0f94076cb25134456df6cdc40d4cfb178c3e"
+    },
+    {
+      "sha": "fa7c1441c5",
+      "message": "Python sync: added modules  (#4616)",
+      "date": "2025-08-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4616",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fa7c1441c555fd94585fd908e1570a9f856749db"
+    },
+    {
+      "sha": "4290094e13",
+      "message": "Python sync: add batch (#4568)",
+      "date": "2025-08-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4568",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4290094e131460ea28292378e6e72d86f33cd3ee"
+    },
+    {
+      "sha": "1d8e006569",
+      "message": "Python sync: added `_GlideFFI` singleton to handle FFI calls (#4578)",
+      "date": "2025-08-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4578",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1d8e006569ebc0472139756b5c9fd3e801ed6827"
+    },
+    {
+      "sha": "16ec2a9261",
+      "message": "Python: added async-sync API consistency test, re-export test (#4549)",
+      "date": "2025-08-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4549",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/16ec2a9261c954e433be9642f8a2614c7294e1f1"
+    },
+    {
+      "sha": "b549eff034",
+      "message": "FFI/ Python Sync - rename log function (#4569)",
+      "date": "2025-08-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4569",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b549eff0340f693ecfe86f01a8a1a112098c8a98"
+    },
+    {
+      "sha": "1622b6f2d0",
+      "message": "FFI & Sync Python: add logger (#4545)",
+      "date": "2025-08-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4545",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1622b6f2d059fb5c363e9b5a19812ac1e00bb98d"
+    },
+    {
+      "sha": "3eab3f281d",
+      "message": "Python sync: add update_connection_password (#4548)",
+      "date": "2025-08-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4548",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3eab3f281db10df173627d8e15cfdd860d916aeb"
+    },
+    {
+      "sha": "4391cadb64",
+      "message": "Python: Add sync client, change directory structure  (#4530)",
+      "date": "2025-08-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4530",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4391cadb642ce97d059cb0595e5ca3c03f289336"
+    },
+    {
+      "sha": "431d8d8c47",
+      "message": "ORT: fix workflow permissions (#4510)",
+      "date": "2025-07-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4510",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/431d8d8c47b31a886c078cbf0915d481bd4271c1"
     },
     {
       "sha": "70e13b0140",
@@ -365,6 +533,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4525",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9f0afdfd3153a4d96bcc6e59abce919bc774cf05"
+    },
+    {
+      "sha": "a56d6413d4",
+      "message": "Node - Remove Drop Script (#4488)",
+      "date": "2025-08-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4488",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a56d6413d49718958432ec758f06d1042104d1fc"
+    },
+    {
+      "sha": "280b910546",
+      "message": "Add migration guides links to the readme (#4528)",
+      "date": "2025-07-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/4528",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/280b9105462053421005b21f4c1b7528d47bb38b"
     }
   ]
 }
