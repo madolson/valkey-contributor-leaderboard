@@ -113,9 +113,9 @@
   s.addEventListener("input", function() {
     var q = this.value.toLowerCase();
     rows.forEach(function(row) {
-      if (row.style.display === "none" && !row.querySelector(".score").textContent.match(/^0?$/)) return;
-      var match = row.textContent.toLowerCase().includes(q);
-      row.style.display = match && row.querySelector(".score").textContent !== "0" ? "" : "none";
+      var score = parseInt(row.querySelector(".score").textContent) || 0;
+      var match = q === "" || row.textContent.toLowerCase().includes(q);
+      row.style.display = match && score > 0 ? "" : "none";
     });
   });
   document.addEventListener("keydown", function(e) {
