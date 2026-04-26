@@ -2,13 +2,22 @@
   "title": "mo-amzn",
   "login": "mo-amzn",
   "avatar_url": "https://avatars.githubusercontent.com/u/183509145?v=4",
-  "score": 22,
-  "commit_count": 14,
+  "score": 23,
+  "commit_count": 15,
   "review_count": 8,
   "repos": [
-    "valkey-glide"
+    "valkey-glide",
+    "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "c3b28b8b6e",
+      "message": "add AZ_AFFINITY_REPLICAS_AND_PRIMARY read strategy example and diagram (#236)",
+      "date": "2025-05-26",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/236",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c3b28b8b6ef11d350593caf249aa769727092533"
+    },
     {
       "sha": "4de9ae4797",
       "message": "Fix Node AzAffinity Flaky Test (#3107)",

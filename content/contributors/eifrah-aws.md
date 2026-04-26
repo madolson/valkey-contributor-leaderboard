@@ -2,13 +2,14 @@
   "title": "eifrah-aws",
   "login": "eifrah-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/170855270?v=4",
-  "score": 118,
-  "commit_count": 37,
+  "score": 119,
+  "commit_count": 38,
   "review_count": 81,
   "repos": [
     "valkey",
     "valkey-doc",
     "valkey-glide",
+    "valkey-io.github.io",
     "valkey-json",
     "valkey-test-framework"
   ],
@@ -76,6 +77,14 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/275",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/8c3fb12568626647b44a0dcd7e02b8d9e8c9e6ed"
+    },
+    {
+      "sha": "9d8abed68d",
+      "message": "Added valkey-search support (#259)",
+      "date": "2025-05-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/259",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/9d8abed68d0e9a596eeb3d87babe477a76262f11"
     },
     {
       "sha": "f8bc378dec",

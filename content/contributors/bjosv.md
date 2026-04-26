@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 133,
-  "commit_count": 88,
-  "review_count": 45,
+  "score": 162,
+  "commit_count": 94,
+  "review_count": 68,
   "repos": [
     "libvalkey",
     "valkey",
@@ -69,6 +69,22 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/24b67843ac5ef3b9d21e0a2ffdc757271c6a88bc"
     },
     {
+      "sha": "9a724fb61e",
+      "message": "Split e2e-tests to separate files (#80)",
+      "date": "2026-02-06",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/80",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9a724fb61e4af19254f88d4165795eec82a2d3b6"
+    },
+    {
+      "sha": "110b830790",
+      "message": "Upgrade kubebuilder scaffolding from v4.10.1 to v4.11.0 (#71)",
+      "date": "2026-02-01",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/71",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/110b83079078eb5fe046a309449aaf66cc44bf43"
+    },
+    {
       "sha": "8f9051ae0a",
       "message": "Correcting command parser bug (#277)",
       "date": "2026-01-23",
@@ -83,6 +99,22 @@
       "repo": "libvalkey",
       "pr_url": "https://github.com/valkey-io/libvalkey/pull/272",
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/31aa8c8aaf15882439e8d4b828926368868a3b52"
+    },
+    {
+      "sha": "e052508b7a",
+      "message": "Add rudimentary reconciliation using Deployment (#24)",
+      "date": "2025-12-15",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/24",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/e052508b7aee3e18ba928b7b965c30b8724ecd0c"
+    },
+    {
+      "sha": "43739cb337",
+      "message": "Move exporter options to own sub-category in the ValkeyCluster CRD (#23)",
+      "date": "2025-12-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/23",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/43739cb337f6e9ad59e249c9ad0d70785b261ece"
     },
     {
       "sha": "ae341dea5f",
@@ -101,12 +133,28 @@
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/d3bf87c949709e20a41961ccdde045424a500868"
     },
     {
+      "sha": "9c7867fb4e",
+      "message": "Upgrade kubebuilder scaffolding from v4.9.0 to v4.10.1 (#21)",
+      "date": "2025-11-21",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/21",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9c7867fb4e3d383958b463b59d77725c719bc578"
+    },
+    {
       "sha": "5bed44d697",
       "message": " Fix linker errors when building with Makefile and `--no-undefined` (#250)",
       "date": "2025-10-20",
       "repo": "libvalkey",
       "pr_url": "https://github.com/valkey-io/libvalkey/pull/250",
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/5bed44d697741a1a8f6b8133b60c24296bc799cd"
+    },
+    {
+      "sha": "76b275773f",
+      "message": "Add initial developer guide documentation (#6)",
+      "date": "2025-10-17",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/6",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/76b275773f4a0cbda502aba6aea47a5291a52577"
     },
     {
       "sha": "15974930d7",
@@ -839,12 +887,28 @@
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/41e9a48972bbb148d2907a4f6508459e31960264"
     },
     {
+      "sha": "94febf3bc6",
+      "message": "chore(kubebuilder): Upgrade the Scaffold: v4.11.1 -> v4.13.0 (#97)",
+      "date": "2026-03-04",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/97",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/94febf3bc6523a0e941e2df3fca49866498da926"
+    },
+    {
       "sha": "b26c56e873",
       "message": "Fix gcc warnings (#287)",
       "date": "2026-03-03",
       "repo": "libvalkey",
       "pr_url": "https://github.com/valkey-io/libvalkey/pull/287",
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/b26c56e87318d45b339747fcd6e2cf62d132cbe4"
+    },
+    {
+      "sha": "39fa3f5ee6",
+      "message": "Fix slot-range parsing during migration and add rebalance planning logic (#92)",
+      "date": "2026-02-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/92",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/39fa3f5ee60785fdc8a426b2bba9c4a29e69ddbb"
     },
     {
       "sha": "3a1e5d5ce9",
@@ -855,6 +919,22 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/3a1e5d5ce9a45eeb6aaaba710f9bf191c9b16a27"
     },
     {
+      "sha": "8d9217dba2",
+      "message": "Adds tech call to README (#93)",
+      "date": "2026-02-26",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/93",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/8d9217dba28ecedf200ae7cde50ab871865add8a"
+    },
+    {
+      "sha": "c7a77e8655",
+      "message": "Batch pending node processing across MEET, slot assignment, and replication (#90)",
+      "date": "2026-02-24",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/90",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c7a77e8655792e0b685ab3972732eb16cc5e41ea"
+    },
+    {
       "sha": "40d6590d77",
       "message": "Implement runtime dynamic loading for RDMA libraries (#284)",
       "date": "2026-02-23",
@@ -863,12 +943,108 @@
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/40d6590d7758d45305be584089a099428ff3741c"
     },
     {
+      "sha": "d777c83bae",
+      "message": "Handle post-failover pod replacement gracefully (#86)",
+      "date": "2026-02-19",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/86",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d777c83baed0873ad30bb010d6f4e0ea2d456fbe"
+    },
+    {
+      "sha": "35e6aa7f5c",
+      "message": "added replication check before marking cluster ready status (#87)",
+      "date": "2026-02-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/87",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/35e6aa7f5c8cb7b7c7afae839f886d76235bf452"
+    },
+    {
       "sha": "a554f09421",
       "message": "Fix potential uint32_t underflow issue (#280)",
       "date": "2026-02-16",
       "repo": "libvalkey",
       "pr_url": "https://github.com/valkey-io/libvalkey/pull/280",
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/a554f094218272b38ee706083c43612abfdef608"
+    },
+    {
+      "sha": "02eedafc3b",
+      "message": "Use deterministic deployment names to encode shard topology (#81)",
+      "date": "2026-02-16",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/81",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/02eedafc3b50742714bb7ef118ec021abd6aa04a"
+    },
+    {
+      "sha": "75a3a9d9b2",
+      "message": "(chore) scaffold update: v4.11.0 -> v4.11.1 (#78)",
+      "date": "2026-02-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/78",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/75a3a9d9b24a07549e2e89da555fa75b2ea4197e"
+    },
+    {
+      "sha": "cabfcd9e36",
+      "message": "migrate to new Kubernetes events recorder API (#72)",
+      "date": "2026-02-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/72",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/cabfcd9e36745a9775d9f362b92b7f4d9cc5cd67"
+    },
+    {
+      "sha": "a00dfe2290",
+      "message": "Pin GitHub Actions (#73)",
+      "date": "2026-02-04",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/73",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a00dfe2290dec77cf304cd7d47af223a3c3d3a8e"
+    },
+    {
+      "sha": "bf79b9058b",
+      "message": "add startup probe to valkey containers (#68)",
+      "date": "2026-01-31",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/68",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/bf79b9058ba0a576ead24a11016fb0a0d40b9875"
+    },
+    {
+      "sha": "e0a25d14a8",
+      "message": "(feat): Support Toleration Configuration for ValkeyCluster (#30) (#61)",
+      "date": "2026-01-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/61",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/e0a25d14a8e30a8c01b2926c3503119d533da516"
+    },
+    {
+      "sha": "37ce76e172",
+      "message": "(feat): Support Affinity Configuration for ValkeyCluster (#32) (#38)",
+      "date": "2026-01-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/38",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/37ce76e172803030eea3fccbaccb8273bdcbad7c"
+    },
+    {
+      "sha": "589930be46",
+      "message": " (feat): Support Resources Configuration for ValkeyCluster (#29) (#41)",
+      "date": "2026-01-16",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/41",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/589930be46f81a62572ffd7e0ccfb93cd2e823ce"
+    },
+    {
+      "sha": "d877fd95eb",
+      "message": "fixed e2e tests failing intermittently & review comments from past PR  (#54)",
+      "date": "2026-01-15",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/54",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d877fd95eb8f0d961586c3abd9b54fc167283af0"
+    },
+    {
+      "sha": "be52c44841",
+      "message": "(feat): Status Conditions for ValkeyCluster (#33)",
+      "date": "2025-12-25",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/33",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/be52c44841cfc7ef84d3c26b879306b576ad3c7d"
     },
     {
       "sha": "4e3ccccada",
@@ -911,6 +1087,54 @@
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/ef5de03121bad5e2bf99269c3595a5a7a49df9b3"
     },
     {
+      "sha": "cf41247730",
+      "message": "Add CONTRIBUTING.md (#8)",
+      "date": "2025-10-31",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/8",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/cf41247730bbd8b8ce1cb18afa52c30220246285"
+    },
+    {
+      "sha": "b857dabf1b",
+      "message": "Fix DISCUSSION_TEMPLATE directory (#13)",
+      "date": "2025-10-31",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/13",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/b857dabf1b2a66f7fa43965dfde337273153434a"
+    },
+    {
+      "sha": "90b757ea5b",
+      "message": "Add Github DISCUSSION_TEMPLATE (#11)",
+      "date": "2025-10-31",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/11",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/90b757ea5b5532ad36ffa27555b19bcc2b215fb5"
+    },
+    {
+      "sha": "a62a46f81a",
+      "message": "Add SUPPORT.md (#9)",
+      "date": "2025-10-31",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/9",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a62a46f81a05f38869ef183390c3076981740534"
+    },
+    {
+      "sha": "cc8e48fb9b",
+      "message": "Update README (#12)",
+      "date": "2025-10-31",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/12",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/cc8e48fb9bac8cabca8fd8a62d3ea483c1b4eb15"
+    },
+    {
+      "sha": "eea6904195",
+      "message": "feat(operator): flush out v1alpha1 CRDs (#5)",
+      "date": "2025-10-24",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/5",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/eea6904195727b2b52baf439ddf90c4580b7ec51"
+    },
+    {
       "sha": "36f6e2292e",
       "message": "Fix the long-blocking read for Valkey RDMA. (#233)",
       "date": "2025-10-23",
@@ -933,6 +1157,14 @@
       "repo": "libvalkey",
       "pr_url": "https://github.com/valkey-io/libvalkey/pull/243",
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/ebece9346dc22c192ac3d194fe0a9e71546b5e66"
+    },
+    {
+      "sha": "af3a6aff3e",
+      "message": "Merge pull request #2 from valkey-io/kubebuilder",
+      "date": "2025-09-29",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/2",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/af3a6aff3e5cc593fa624e16fdbbf4a0c22bff6b"
     },
     {
       "sha": "10fc487d38",

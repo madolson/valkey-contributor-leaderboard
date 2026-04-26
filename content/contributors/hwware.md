@@ -2,9 +2,9 @@
   "title": "hwware",
   "login": "hwware",
   "avatar_url": "https://avatars.githubusercontent.com/u/51993843?v=4",
-  "score": 159,
+  "score": 160,
   "commit_count": 48,
-  "review_count": 111,
+  "review_count": 112,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -779,6 +779,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/1242",
       "commit_url": "https://github.com/valkey-io/valkey/commit/397201c48f4cb7fd052fd98c66385eaab1981e1c"
+    },
+    {
+      "sha": "926b6fd6fe",
+      "message": "Contributing valkeyJSON module (#1)",
+      "date": "2024-11-29",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/1",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/926b6fd6feba583e251383094fedd6f0f1d19712"
     },
     {
       "sha": "9305b49145",

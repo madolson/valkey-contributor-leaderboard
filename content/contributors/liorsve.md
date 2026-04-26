@@ -2,14 +2,15 @@
   "title": "liorsve",
   "login": "liorsve",
   "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
-  "score": 100,
-  "commit_count": 79,
+  "score": 102,
+  "commit_count": 81,
   "review_count": 21,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
     "valkey-glide",
-    "valkey-glide-docs"
+    "valkey-glide-docs",
+    "valkey-io.github.io"
   ],
   "commit_list": [
     {
@@ -381,6 +382,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/431d8d8c47b31a886c078cbf0915d481bd4271c1"
     },
     {
+      "sha": "2b956fa82d",
+      "message": "Bug fix: allow local builds without requiring client directory (#243)",
+      "date": "2025-06-13",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/243",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/2b956fa82d018c0f96d2cb384dddce50543a6fb5"
+    },
+    {
       "sha": "4c9e9127e9",
       "message": "Java: fix addReturnField in FT.search  (#4084)",
       "date": "2025-06-08",
@@ -499,6 +508,14 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/241",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/8fb4f01239af2a0642dd0bbceeaa92e034347ef2"
+    },
+    {
+      "sha": "88b94697c9",
+      "message": "Adds a clients overview page (#166)",
+      "date": "2025-03-03",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/166",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/88b94697c94530ade214a58a108c0dc3dc499088"
     },
     {
       "sha": "3789f144d1",

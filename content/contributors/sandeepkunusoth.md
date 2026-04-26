@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 10,
-  "commit_count": 3,
-  "review_count": 7,
+  "score": 24,
+  "commit_count": 11,
+  "review_count": 13,
   "repos": [
     "valkey-operator"
   ],
@@ -32,6 +32,70 @@
       "repo": "valkey-operator",
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/125",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3b8c66bd521569f26796d38d83903eb277439e7e"
+    },
+    {
+      "sha": "94febf3bc6",
+      "message": "chore(kubebuilder): Upgrade the Scaffold: v4.11.1 -> v4.13.0 (#97)",
+      "date": "2026-03-04",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/97",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/94febf3bc6523a0e941e2df3fca49866498da926"
+    },
+    {
+      "sha": "35e6aa7f5c",
+      "message": "added replication check before marking cluster ready status (#87)",
+      "date": "2026-02-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/87",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/35e6aa7f5c8cb7b7c7afae839f886d76235bf452"
+    },
+    {
+      "sha": "75a3a9d9b2",
+      "message": "(chore) scaffold update: v4.11.0 -> v4.11.1 (#78)",
+      "date": "2026-02-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/78",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/75a3a9d9b24a07549e2e89da555fa75b2ea4197e"
+    },
+    {
+      "sha": "cabfcd9e36",
+      "message": "migrate to new Kubernetes events recorder API (#72)",
+      "date": "2026-02-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/72",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/cabfcd9e36745a9775d9f362b92b7f4d9cc5cd67"
+    },
+    {
+      "sha": "d877fd95eb",
+      "message": "fixed e2e tests failing intermittently & review comments from past PR  (#54)",
+      "date": "2026-01-15",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/54",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d877fd95eb8f0d961586c3abd9b54fc167283af0"
+    },
+    {
+      "sha": "44d674b9bd",
+      "message": "(feat): Add Metrics Exporter Sidecar to ValkeyCluster Pods (#49)",
+      "date": "2026-01-12",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/49",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/44d674b9bd5f8c518f141600af29f615606aa1ea"
+    },
+    {
+      "sha": "a9f3a0cd3b",
+      "message": "(feat): EventRecorder implementation (#37)",
+      "date": "2026-01-09",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/37",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a9f3a0cd3b84db5ceb91a2969b385a7b79c16539"
+    },
+    {
+      "sha": "be52c44841",
+      "message": "(feat): Status Conditions for ValkeyCluster (#33)",
+      "date": "2025-12-25",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/33",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/be52c44841cfc7ef84d3c26b879306b576ad3c7d"
     }
   ],
   "review_list": [
@@ -98,6 +162,62 @@
       "repo": "valkey-operator",
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/109",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/04fb4007650c8ac19687f296e2adb5a245cc8641"
+    },
+    {
+      "sha": "9264a50ca7",
+      "message": "Bump actions/setup-go from 6.2.0 to 6.3.0 (#101)",
+      "date": "2026-03-01",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/101",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9264a50ca7b403a2de78adfc451144475312ee32"
+    },
+    {
+      "sha": "9a724fb61e",
+      "message": "Split e2e-tests to separate files (#80)",
+      "date": "2026-02-06",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/80",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9a724fb61e4af19254f88d4165795eec82a2d3b6"
+    },
+    {
+      "sha": "110b830790",
+      "message": "Upgrade kubebuilder scaffolding from v4.10.1 to v4.11.0 (#71)",
+      "date": "2026-02-01",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/71",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/110b83079078eb5fe046a309449aaf66cc44bf43"
+    },
+    {
+      "sha": "37ce76e172",
+      "message": "(feat): Support Affinity Configuration for ValkeyCluster (#32) (#38)",
+      "date": "2026-01-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/38",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/37ce76e172803030eea3fccbaccb8273bdcbad7c"
+    },
+    {
+      "sha": "589930be46",
+      "message": " (feat): Support Resources Configuration for ValkeyCluster (#29) (#41)",
+      "date": "2026-01-16",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/41",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/589930be46f81a62572ffd7e0ccfb93cd2e823ce"
+    },
+    {
+      "sha": "e052508b7a",
+      "message": "Add rudimentary reconciliation using Deployment (#24)",
+      "date": "2025-12-15",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/24",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/e052508b7aee3e18ba928b7b965c30b8724ecd0c"
+    },
+    {
+      "sha": "43739cb337",
+      "message": "Move exporter options to own sub-category in the ValkeyCluster CRD (#23)",
+      "date": "2025-12-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/23",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/43739cb337f6e9ad59e249c9ad0d70785b261ece"
     }
   ]
 }

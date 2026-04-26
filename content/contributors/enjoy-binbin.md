@@ -2,13 +2,14 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 802,
-  "commit_count": 312,
-  "review_count": 490,
+  "score": 805,
+  "commit_count": 313,
+  "review_count": 492,
   "repos": [
     "valkey",
     "valkey-bloom",
     "valkey-doc",
+    "valkey-io.github.io",
     "valkey-json"
   ],
   "commit_list": [
@@ -347,6 +348,14 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/390",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/4c3f1d94d1b1079d3f364852bdcddd3520424e60"
+    },
+    {
+      "sha": "8362031c5a",
+      "message": "Update Keyspace event 2025 Beijing page with presentation slides (#433)",
+      "date": "2026-01-03",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/433",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/8362031c5ab4ed3d624884ad115473189e6c4757"
     },
     {
       "sha": "9c5d004bfe",
@@ -5127,6 +5136,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/4695d118dd6126b9b4f3e3415198df398e8bbb79"
     },
     {
+      "sha": "926b6fd6fe",
+      "message": "Contributing valkeyJSON module (#1)",
+      "date": "2024-11-29",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/1",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/926b6fd6feba583e251383094fedd6f0f1d19712"
+    },
+    {
       "sha": "f1d08776a0",
       "message": "Add performance tuning section for RDMA (#190)",
       "date": "2024-11-27",
@@ -5709,6 +5726,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/855",
       "commit_url": "https://github.com/valkey-io/valkey/commit/facd123ce60e8d39cbdfcedd51c72569d755d68a"
+    },
+    {
+      "sha": "e86557fba2",
+      "message": "Valkey 8.0 RC1 Blog (#105)",
+      "date": "2024-08-02",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/105",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/e86557fba2ecf9d0899c69772f6f9a56b1cf92cb"
     },
     {
       "sha": "1d18842074",

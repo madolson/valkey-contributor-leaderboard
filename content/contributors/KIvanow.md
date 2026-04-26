@@ -2,8 +2,8 @@
   "title": "KIvanow",
   "login": "KIvanow",
   "avatar_url": "https://avatars.githubusercontent.com/u/541999?v=4",
-  "score": 8,
-  "commit_count": 7,
+  "score": 10,
+  "commit_count": 9,
   "review_count": 1,
   "repos": [
     "valkey-admin",
@@ -26,6 +26,22 @@
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/120",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/2c23ec02a9a7813414737f6670ea6de204d96d94"
+    },
+    {
+      "sha": "5c9a573cbc",
+      "message": "Update betterdb open charter wording (#439)",
+      "date": "2026-01-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/439",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/5c9a573cbcd971dc0376e9b33a27a1ecdf78b75c"
+    },
+    {
+      "sha": "24f2ff6446",
+      "message": "Added BetterDB to the participants page. Discussed in issue #435 (#437)",
+      "date": "2026-01-22",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/437",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/24f2ff6446724db48e6e9ddd86357cf0a8d4bcbf"
     },
     {
       "sha": "82bff0b45a",

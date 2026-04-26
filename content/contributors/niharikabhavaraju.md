@@ -2,11 +2,12 @@
   "title": "niharikabhavaraju",
   "login": "niharikabhavaraju",
   "avatar_url": "https://avatars.githubusercontent.com/u/31915502?v=4",
-  "score": 22,
-  "commit_count": 22,
+  "score": 24,
+  "commit_count": 24,
   "review_count": 0,
   "repos": [
-    "valkey-glide"
+    "valkey-glide",
+    "valkey-io.github.io"
   ],
   "commit_list": [
     {
@@ -120,6 +121,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3117",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f8da0c931b19f14eb23b98e1f78ded866c8ce044"
+    },
+    {
+      "sha": "742fe70aa3",
+      "message": "Updated contributors section for go client public preview announcement (#222)",
+      "date": "2025-03-17",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/222",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/742fe70aa34b0a3f9bb79405f4aae83868d243f9"
+    },
+    {
+      "sha": "fd610dc4ba",
+      "message": "Valkey-Glide Go client public preview release announcement blog (#218)",
+      "date": "2025-03-13",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/218",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/fd610dc4ba40f97298b424da73de7094c484a4b6"
     },
     {
       "sha": "b4e28e2dca",

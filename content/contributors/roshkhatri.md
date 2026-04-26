@@ -2,14 +2,16 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 276,
-  "commit_count": 109,
-  "review_count": 167,
+  "score": 314,
+  "commit_count": 128,
+  "review_count": 186,
   "repos": [
     "valkey",
     "valkey-bundle",
     "valkey-container",
     "valkey-doc",
+    "valkey-hashes",
+    "valkey-io.github.io",
     "valkey-json",
     "valkey-perf-benchmark",
     "valkey-release-automation",
@@ -273,6 +275,22 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/b70d98c43bf516d986434090886376b0d7be7e94"
     },
     {
+      "sha": "6cc94a07fd",
+      "message": "Remove mention of memory efficiency for performance dashboard page (#432)",
+      "date": "2025-12-23",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/432",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/6cc94a07fd675ae095f5f33817e1b5cefb876071"
+    },
+    {
+      "sha": "12f0c0dc86",
+      "message": "Instance info update on performance page  (#431)",
+      "date": "2025-12-18",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/431",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/12f0c0dc865d2c1392d32e02de17a6b57379c261"
+    },
+    {
       "sha": "fb9e9ec7a2",
       "message": "Revert \"Simplify offline build (#73)\" (#93)",
       "date": "2025-12-16",
@@ -521,6 +539,22 @@
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/f36543bc63c985d2b8a7a1953a41701e7fd441bb"
     },
     {
+      "sha": "aee0fa4627",
+      "message": "[BLOG]Introducing Enhanced JSON Capabilities in Valkey (#265)",
+      "date": "2025-06-30",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/265",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/aee0fa4627e835c59b53b247831bd8b582f41501"
+    },
+    {
+      "sha": "110c9f700d",
+      "message": "adds bundle banner (#283)",
+      "date": "2025-06-24",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/283",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/110c9f700d92f3fea19b60e2653c70eb32a5224e"
+    },
+    {
       "sha": "1bef2cd5a3",
       "message": "Release notes valkey-bundle 8.1.0 (#33)",
       "date": "2025-06-23",
@@ -567,6 +601,14 @@
       "repo": "valkey-release-automation",
       "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/22",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/88fdcb325458faf02fed489498596f6b8f8b9bcb"
+    },
+    {
+      "sha": "5c8950cc59",
+      "message": "Correct versions on download page and template correction (#241)",
+      "date": "2025-04-18",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/241",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/5c8950cc59335df9503e44bd7c1d3986c84c111e"
     },
     {
       "sha": "88722ae556",
@@ -633,12 +675,60 @@
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/3cb9550c61260f5276a7369eaa33c2c19029875c"
     },
     {
+      "sha": "04399cb7ea",
+      "message": "Revert \"Update hash for version 8.1.0-rc2\" (#10)",
+      "date": "2025-03-20",
+      "repo": "valkey-hashes",
+      "pr_url": "https://github.com/valkey-io/valkey-hashes/pull/10",
+      "commit_url": "https://github.com/valkey-io/valkey-hashes/commit/04399cb7ea82fae84e0f8d97e034300f6cf9275b"
+    },
+    {
+      "sha": "39ff1d5d24",
+      "message": "Create 00-RELEASENOTES (#47)",
+      "date": "2025-03-19",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/47",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/39ff1d5d24f87c6c9da03d505eb071c20460d04e"
+    },
+    {
+      "sha": "832f074a1c",
+      "message": "Enable tests to run with ASAN build. (#45)",
+      "date": "2025-03-14",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/45",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/832f074a1c0f28af417275993944d211365193e1"
+    },
+    {
+      "sha": "10d2793bb9",
+      "message": "Adds JSON.MSET command (#39)",
+      "date": "2025-03-03",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/39",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/10d2793bb9daa5f78aac1e6d3c9754cffc9dd6cb"
+    },
+    {
       "sha": "f7c6d3192f",
       "message": "Migrate binaries build to ARM github runners (#1790)",
       "date": "2025-02-27",
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/1790",
       "commit_url": "https://github.com/valkey-io/valkey/commit/f7c6d3192fc4920e54b6b5d2a27d3e18c647c618"
+    },
+    {
+      "sha": "458f45ecbe",
+      "message": "Add more artifacts on the downloads page (#207)",
+      "date": "2025-02-17",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/207",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/458f45ecbeb2880f7cf38a269fb5fdfd8f526b23"
+    },
+    {
+      "sha": "4a7a08ba6c",
+      "message": "Change prelaunch version to 0.0.9 (#35)",
+      "date": "2025-02-13",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/35",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/4a7a08ba6c89d82184d9f896515a4d154dec0a3a"
     },
     {
       "sha": "86469ab167",
@@ -671,6 +761,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/1429",
       "commit_url": "https://github.com/valkey-io/valkey/commit/3a1043a4f0fa97daa31f4bd2b3714a07736ac1b6"
+    },
+    {
+      "sha": "788a53a462",
+      "message": "adds commit hash for the actions. (#25)",
+      "date": "2024-12-11",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/25",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/788a53a4629731e5d642624f00dfd39f007169bb"
+    },
+    {
+      "sha": "926b6fd6fe",
+      "message": "Contributing valkeyJSON module (#1)",
+      "date": "2024-11-29",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/1",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/926b6fd6feba583e251383094fedd6f0f1d19712"
     },
     {
       "sha": "920db68229",
@@ -713,6 +819,22 @@
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/2f560ad597496c07f038b59e97862599c71ff659"
     },
     {
+      "sha": "61882ffd33",
+      "message": "Adds valkey 8 hash (#6)",
+      "date": "2024-09-15",
+      "repo": "valkey-hashes",
+      "pr_url": "https://github.com/valkey-io/valkey-hashes/pull/6",
+      "commit_url": "https://github.com/valkey-io/valkey-hashes/commit/61882ffd33bdf09ef57dfeedf2b01819575b4d4b"
+    },
+    {
+      "sha": "ac923abf6a",
+      "message": "update the CDN link with subdomain.",
+      "date": "2024-09-11",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/129",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/ac923abf6ac097aed17cd06ed26a1f74d23fc10f"
+    },
+    {
       "sha": "25fe317327",
       "message": "Updating default make flags for make-settings in profiling section. (#170)",
       "date": "2024-09-10",
@@ -745,6 +867,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/3d35a07eb68bc453066043177e73086d2ce0ddd6"
     },
     {
+      "sha": "c3a09b75e6",
+      "message": "Update README for 8.0.0-rc2 (#5)",
+      "date": "2024-09-03",
+      "repo": "valkey-hashes",
+      "pr_url": "https://github.com/valkey-io/valkey-hashes/pull/5",
+      "commit_url": "https://github.com/valkey-io/valkey-hashes/commit/c3a09b75e6709a63981480721645c723597d7017"
+    },
+    {
       "sha": "c9d568d2af",
       "message": "Update cluster-slots to explain the deterministic ordering (#159)",
       "date": "2024-08-28",
@@ -767,6 +897,14 @@
       "repo": "valkey-container",
       "pr_url": "https://github.com/valkey-io/valkey-container/pull/27",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/e3ed56638118c06285b465143c5fbfb2f3baef6c"
+    },
+    {
+      "sha": "3957f50513",
+      "message": "Adds 7.2.6 and 8.0.0-rc1 (#4)",
+      "date": "2024-08-01",
+      "repo": "valkey-hashes",
+      "pr_url": "https://github.com/valkey-io/valkey-hashes/pull/4",
+      "commit_url": "https://github.com/valkey-io/valkey-hashes/commit/3957f5051374c7257793b70b41eb0f0b9e350605"
     },
     {
       "sha": "5f95a51b7a",
@@ -833,6 +971,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/01aaf150cf47121366775608bf394805d66698a8"
     },
     {
+      "sha": "dc5be7466d",
+      "message": "Adds valkey-7.2.5 (#3)",
+      "date": "2024-04-16",
+      "repo": "valkey-hashes",
+      "pr_url": "https://github.com/valkey-io/valkey-hashes/pull/3",
+      "commit_url": "https://github.com/valkey-io/valkey-hashes/commit/dc5be7466dcc9f7656f5ae9fe5dd1459600039c1"
+    },
+    {
       "sha": "f4f1bd6fde",
       "message": "Revert update of RedisModuleEvent_MasterLinkChange (#289)",
       "date": "2024-04-11",
@@ -855,6 +1001,14 @@
       "repo": "valkey-container",
       "pr_url": "https://github.com/valkey-io/valkey-container/pull/7",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/4720e99f036e2f693f78697abdd712671f231170"
+    },
+    {
+      "sha": "fd42987f26",
+      "message": "Adds valkey-7.2.4-rc1.tar.gz (#2)",
+      "date": "2024-04-09",
+      "repo": "valkey-hashes",
+      "pr_url": "https://github.com/valkey-io/valkey-hashes/pull/2",
+      "commit_url": "https://github.com/valkey-io/valkey-hashes/commit/fd42987f26be43094d02b5004d2d13e832431cf1"
     },
     {
       "sha": "cc4af32e67",
@@ -1843,6 +1997,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/92283a123d2144e48eee0ceac0bb60e789828518"
     },
     {
+      "sha": "04f4f09f5d",
+      "message": "added Try Valkey support (#255)",
+      "date": "2025-06-23",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/255",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/04f4f09f5d5ceaf754fc1bb49f629ce39fa64a95"
+    },
+    {
       "sha": "d4682fd4d6",
       "message": "Automated Updates for Valkey Bundle 8.1.0 (#32)",
       "date": "2025-06-20",
@@ -1955,6 +2117,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/98acd49d3e1f7d821abda53cb06f948f2534951b"
     },
     {
+      "sha": "a5d94b28bf",
+      "message": "Adding functionality for the JSON module to have commands displayed on the Valkey Website (#230)",
+      "date": "2025-04-29",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/230",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/a5d94b28bfa29963babff9963b7a34681532ce7c"
+    },
+    {
       "sha": "4e8ae655d2",
       "message": "Update to version 8.1.1 (#66)",
       "date": "2025-04-23",
@@ -1985,6 +2155,38 @@
       "repo": "valkey-container",
       "pr_url": "https://github.com/valkey-io/valkey-container/pull/65",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/a70c6e0bcb4d0f3bba054382b73edd7ec692b555"
+    },
+    {
+      "sha": "d904d3be90",
+      "message": "Update website for version 8.1.1 (#246)",
+      "date": "2025-04-23",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/246",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/d904d3be900c6062ab6622e347e0c66c35d88395"
+    },
+    {
+      "sha": "1cb797165a",
+      "message": "Update website for version 8.0.3 (#247)",
+      "date": "2025-04-23",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/247",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/1cb797165a4374fef79a51e64185ed0082a9240b"
+    },
+    {
+      "sha": "378477296b",
+      "message": "Update website for version 7.2.9 (#245)",
+      "date": "2025-04-23",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/245",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/378477296b2556f1fc37f941c3137f151821ebaf"
+    },
+    {
+      "sha": "378477296b",
+      "message": "Update website for version 7.2.9 (#245)",
+      "date": "2025-04-23",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/245",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/378477296b2556f1fc37f941c3137f151821ebaf"
     },
     {
       "sha": "b878539d0e",
@@ -2083,6 +2285,22 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/7b27890472eada19e2c31f201e0db3e3751ac2ac"
     },
     {
+      "sha": "134a0f8def",
+      "message": "Fixed typo in ReadMe (#46)",
+      "date": "2025-03-14",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/46",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/134a0f8defdd2425388b521bf1d80ef543a50272"
+    },
+    {
+      "sha": "4fb72a9269",
+      "message": "Resolved issues when using GCC >= 12 (#41)",
+      "date": "2025-03-05",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/41",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/4fb72a926987b941ebde88d5aab750dea7652b5e"
+    },
+    {
       "sha": "58c9230489",
       "message": "Divide release tags according to release stage (#52)",
       "date": "2025-02-25",
@@ -2139,6 +2357,78 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/ab69a8a55dee8738dc0bf005c4cb37a259b12053"
     },
     {
+      "sha": "68dbc545a6",
+      "message": "Fix #19 - RDB compatibility with ReJSON and add compatibility test (#21)",
+      "date": "2024-12-10",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/21",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/68dbc545a6a3a60bf86b69499a6b4b406f861ca2"
+    },
+    {
+      "sha": "08e55ab62c",
+      "message": "Fix #6 - Make the compiler flags configurable (#23)",
+      "date": "2024-12-10",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/23",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/08e55ab62cea5f8bc5b8b1eb6666afe462eae38f"
+    },
+    {
+      "sha": "3daf1832e0",
+      "message": "Fix #2 - Replace the configs with constants (#18)",
+      "date": "2024-12-10",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/18",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/3daf1832e0b18ed68cfe55aa1dbfc626c04ef791"
+    },
+    {
+      "sha": "00c740742a",
+      "message": "Fix #7 - Make SERVER_VERSION open to all versions (#22)",
+      "date": "2024-12-09",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/22",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/00c740742a1979d92de4eabf7c750b54eed15648"
+    },
+    {
+      "sha": "1e33774dd2",
+      "message": "Merge pull request #15 from joehu21/issue12",
+      "date": "2024-12-06",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/15",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/1e33774dd28bdba94bc7f807a4e453f01e1f8f7c"
+    },
+    {
+      "sha": "4e50a2d56b",
+      "message": "Fix #11 - Clean up existing module metrics (#14)",
+      "date": "2024-12-04",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/14",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/4e50a2d56b31f67ab6a0d420673cf501ab3bbc2b"
+    },
+    {
+      "sha": "4e50a2d56b",
+      "message": "Fix #11 - Clean up existing module metrics (#14)",
+      "date": "2024-12-04",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/14",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/4e50a2d56b31f67ab6a0d420673cf501ab3bbc2b"
+    },
+    {
+      "sha": "4e50a2d56b",
+      "message": "Fix #11 - Clean up existing module metrics (#14)",
+      "date": "2024-12-04",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/14",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/4e50a2d56b31f67ab6a0d420673cf501ab3bbc2b"
+    },
+    {
+      "sha": "373a92e5d9",
+      "message": "Update integration test script (#13)",
+      "date": "2024-12-03",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/13",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/373a92e5d92eef764b65cf1ca5a8a0a5518fafee"
+    },
+    {
       "sha": "7f43f22530",
       "message": "Fix custom Dockerfile description on dockerhub-description.md (#45)",
       "date": "2024-11-25",
@@ -2171,6 +2461,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/e1789aa2856e8f417c9a9f68b19af0a0fdab0876"
     },
     {
+      "sha": "4c351941c7",
+      "message": "Add valkey 7.2.6 and 8.0.1 (#7)",
+      "date": "2024-10-02",
+      "repo": "valkey-hashes",
+      "pr_url": "https://github.com/valkey-io/valkey-hashes/pull/7",
+      "commit_url": "https://github.com/valkey-io/valkey-hashes/commit/4c351941c7319592fbcf50cb5354f82187ce00c9"
+    },
+    {
       "sha": "fa348e2e59",
       "message": "Optimize the per slot dictionary by checking for cluster mode earlier (#995)",
       "date": "2024-09-11",
@@ -2201,6 +2499,14 @@
       "repo": "valkey-container",
       "pr_url": "https://github.com/valkey-io/valkey-container/pull/24",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/e8c75a0a35fc2042ec3b3ad1de2040907cf53792"
+    },
+    {
+      "sha": "2470fdb5dd",
+      "message": "Updating the downloads page with 7.2.6 version (#106)",
+      "date": "2024-08-01",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/106",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/2470fdb5dddd2c96ae2923372d944aa766a6ab07"
     },
     {
       "sha": "b4d96caa78",

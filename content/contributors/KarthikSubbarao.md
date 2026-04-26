@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 88,
-  "commit_count": 20,
-  "review_count": 68,
+  "score": 90,
+  "commit_count": 21,
+  "review_count": 69,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -102,6 +102,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/1809",
       "commit_url": "https://github.com/valkey-io/valkey/commit/cf5c5f570cf8240ef86a43ec3cdd9a9aee8e7b29"
+    },
+    {
+      "sha": "2d765dd74b",
+      "message": "'Introducing Bloom Filters for Valkey' Blog (#229)",
+      "date": "2025-04-08",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/229",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/2d765dd74b3fca41355e8e8376a9b5bc73cdb92f"
     },
     {
       "sha": "148930ed71",
@@ -496,6 +504,14 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/233",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/9c13637bb9dd908cf71382a662f88cf9b5ffd0e0"
+    },
+    {
+      "sha": "4ee988109b",
+      "message": "Adding functionality for the bloom module to have its commands displayed on the Valkey website (#212)",
+      "date": "2025-04-02",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/212",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/4ee988109b30dc1422d1ce2a21cfe9296c3add5b"
     },
     {
       "sha": "c97e0c6da0",

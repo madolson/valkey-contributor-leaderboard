@@ -2,12 +2,13 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 47,
-  "commit_count": 30,
+  "score": 52,
+  "commit_count": 35,
   "review_count": 17,
   "repos": [
     "valkey-bloom",
     "valkey-doc",
+    "valkey-io.github.io",
     "valkey-json",
     "valkey-test-framework",
     "valkeymodule-rs"
@@ -46,6 +47,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/125d8f3ef696cd729947090c3671f96489a5b6cd"
     },
     {
+      "sha": "8e9cef66f7",
+      "message": "Fixing extensions link again after rename (#279)",
+      "date": "2025-06-19",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/279",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/8e9cef66f76cee9157bfa9278e33d70928176415"
+    },
+    {
       "sha": "bf60c40e3d",
       "message": "Adding clean option for build script and fixing current clippy issues (#67)",
       "date": "2025-06-13",
@@ -70,6 +79,30 @@
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/5b95585c83fc734957e7e3f204fa031c658cefcc"
     },
     {
+      "sha": "6fdc86a0af",
+      "message": "Updating extensions link to go to correct docker page (#272)",
+      "date": "2025-06-09",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/272",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/6fdc86a0af2d4f9e9e58fdf813342e5e9661394e"
+    },
+    {
+      "sha": "245e2689a2",
+      "message": "Adding implicit ACL categories to be displayed on website (#258)",
+      "date": "2025-05-22",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/258",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/245e2689a2929a2f63e876a9585a1f3e4e96608f"
+    },
+    {
+      "sha": "45d6c9638a",
+      "message": "Adding an ACL section for each command on their command page",
+      "date": "2025-05-08",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/257",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/45d6c9638ab83670f9f8fc680b51c65088a29d49"
+    },
+    {
       "sha": "8ca831dfce",
       "message": "Updating error response wordings for bloom commands (#259)",
       "date": "2025-04-08",
@@ -84,6 +117,14 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/233",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/9c13637bb9dd908cf71382a662f88cf9b5ffd0e0"
+    },
+    {
+      "sha": "4ee988109b",
+      "message": "Adding functionality for the bloom module to have its commands displayed on the Valkey website (#212)",
+      "date": "2025-04-02",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/212",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/4ee988109b30dc1422d1ce2a21cfe9296c3add5b"
     },
     {
       "sha": "c97e0c6da0",

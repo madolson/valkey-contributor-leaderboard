@@ -2,13 +2,22 @@
   "title": "Conan-Kudo",
   "login": "Conan-Kudo",
   "avatar_url": "https://avatars.githubusercontent.com/u/276796?v=4",
-  "score": 2,
-  "commit_count": 1,
+  "score": 3,
+  "commit_count": 2,
   "review_count": 1,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "82babc4f7b",
+      "message": "content/connect: Add the Matrix chat (#148)",
+      "date": "2024-10-03",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/148",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/82babc4f7bf2f71cc90f873b97cc34aaa7bb9894"
+    },
     {
       "sha": "71dd85dc5a",
       "message": "src/Makefile: Link libatomic on POWER systems (#607)",

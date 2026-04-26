@@ -2,13 +2,22 @@
   "title": "zhulipeng",
   "login": "zhulipeng",
   "avatar_url": "https://avatars.githubusercontent.com/u/698621?v=4",
-  "score": 26,
-  "commit_count": 20,
+  "score": 27,
+  "commit_count": 21,
   "review_count": 6,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "68ada496f5",
+      "message": "[Blog] Performance Optimization Methodology for Valkey - Part 1 (#262)",
+      "date": "2025-05-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/262",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/68ada496f538fc5fbf48e8b24e016b1b80dc4aac"
+    },
     {
       "sha": "9dd5a02cec",
       "message": "Fix the GNU IFUNC error in alpine (non-glibc) environment (#2133)",

@@ -2,9 +2,9 @@
   "title": "asafpamzn",
   "login": "asafpamzn",
   "avatar_url": "https://avatars.githubusercontent.com/u/97948347?v=4",
-  "score": 62,
+  "score": 64,
   "commit_count": 13,
-  "review_count": 49,
+  "review_count": 51,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -244,6 +244,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3561",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8e8db649650096a5472eb0998b6fac48e6070650"
+    },
+    {
+      "sha": "742fe70aa3",
+      "message": "Updated contributors section for go client public preview announcement (#222)",
+      "date": "2025-03-17",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/222",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/742fe70aa34b0a3f9bb79405f4aae83868d243f9"
+    },
+    {
+      "sha": "fd610dc4ba",
+      "message": "Valkey-Glide Go client public preview release announcement blog (#218)",
+      "date": "2025-03-13",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/218",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/fd610dc4ba40f97298b424da73de7094c484a4b6"
     },
     {
       "sha": "b521c5014e",

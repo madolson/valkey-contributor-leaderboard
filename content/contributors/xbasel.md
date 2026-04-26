@@ -2,12 +2,13 @@
   "title": "xbasel",
   "login": "xbasel",
   "avatar_url": "https://avatars.githubusercontent.com/u/103044017?v=4",
-  "score": 36,
-  "commit_count": 18,
+  "score": 37,
+  "commit_count": 19,
   "review_count": 18,
   "repos": [
     "valkey",
-    "valkey-doc"
+    "valkey-doc",
+    "valkey-io.github.io"
   ],
   "commit_list": [
     {
@@ -113,6 +114,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/1859",
       "commit_url": "https://github.com/valkey-io/valkey/commit/dd772c490ed7798e2ec95b8ec973c69d961c8ad0"
+    },
+    {
+      "sha": "5dce54fbed",
+      "message": "Add command search to the command reference page (#216)",
+      "date": "2025-03-19",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/216",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/5dce54fbed797eadb84c27780ae9778587675766"
     },
     {
       "sha": "587a6fce12",

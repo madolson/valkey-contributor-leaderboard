@@ -2,12 +2,13 @@
   "title": "PingXie",
   "login": "PingXie",
   "avatar_url": "https://avatars.githubusercontent.com/u/11568491?v=4",
-  "score": 193,
-  "commit_count": 5,
-  "review_count": 188,
+  "score": 198,
+  "commit_count": 7,
+  "review_count": 191,
   "repos": [
     "valkey",
-    "valkey-go"
+    "valkey-go",
+    "valkey-io.github.io"
   ],
   "commit_list": [
     {
@@ -49,6 +50,22 @@
       "repo": "valkey-go",
       "pr_url": "https://github.com/valkey-io/valkey-go/pull/52",
       "commit_url": "https://github.com/valkey-io/valkey-go/commit/f68a678f7c413b13e6579e3ec30e554bf2cb224b"
+    },
+    {
+      "sha": "c3ff2696f9",
+      "message": "adds Google Cloud as a participant (#204)",
+      "date": "2025-02-14",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/204",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c3ff2696f9ab7d48d4214583c0e98ddc86e87617"
+    },
+    {
+      "sha": "e86557fba2",
+      "message": "Valkey 8.0 RC1 Blog (#105)",
+      "date": "2024-08-02",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/105",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/e86557fba2ecf9d0899c69772f6f9a56b1cf92cb"
     }
   ],
   "review_list": [
@@ -525,6 +542,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/fbbfe5d3d3833c74d86c324ca9ffee8b97856724"
     },
     {
+      "sha": "926b6fd6fe",
+      "message": "Contributing valkeyJSON module (#1)",
+      "date": "2024-11-29",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/1",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/926b6fd6feba583e251383094fedd6f0f1d19712"
+    },
+    {
       "sha": "5d08149e72",
       "message": "Use fake client flag to replace not conn check (#1198)",
       "date": "2024-11-27",
@@ -717,6 +742,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/2f560ad597496c07f038b59e97862599c71ff659"
     },
     {
+      "sha": "61882ffd33",
+      "message": "Adds valkey 8 hash (#6)",
+      "date": "2024-09-15",
+      "repo": "valkey-hashes",
+      "pr_url": "https://github.com/valkey-io/valkey-hashes/pull/6",
+      "commit_url": "https://github.com/valkey-io/valkey-hashes/commit/61882ffd33bdf09ef57dfeedf2b01819575b4d4b"
+    },
+    {
       "sha": "9f8185f5c8",
       "message": "Update valkey-benchmark log output to reference 'server' instead of 'Redis' (#1029)",
       "date": "2024-09-14",
@@ -795,6 +828,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/965",
       "commit_url": "https://github.com/valkey-io/valkey/commit/9b51949abe3616148437a914eab49c1a6a53c599"
+    },
+    {
+      "sha": "641bd9a5b1",
+      "message": "Merge branch 'main' into better-format-2",
+      "date": "2024-09-04",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/119",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/641bd9a5b181230ec82b742bd7b2221f4d33456c"
     },
     {
       "sha": "f143ffd2a5",

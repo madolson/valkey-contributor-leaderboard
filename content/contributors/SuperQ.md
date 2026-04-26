@@ -2,8 +2,8 @@
   "title": "SuperQ",
   "login": "SuperQ",
   "avatar_url": "https://avatars.githubusercontent.com/u/1320667?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey-operator"
@@ -32,6 +32,14 @@
       "repo": "valkey-operator",
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/106",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3943c459e344ed6cf7566e9dda65f817f554346a"
+    },
+    {
+      "sha": "a00dfe2290",
+      "message": "Pin GitHub Actions (#73)",
+      "date": "2026-02-04",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/73",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a00dfe2290dec77cf304cd7d47af223a3c3d3a8e"
     }
   ],
   "review_list": []

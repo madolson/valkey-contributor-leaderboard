@@ -2,12 +2,13 @@
   "title": "yang-z-o",
   "login": "yang-z-o",
   "avatar_url": "https://avatars.githubusercontent.com/u/30397795?v=4",
-  "score": 13,
-  "commit_count": 10,
+  "score": 14,
+  "commit_count": 11,
   "review_count": 3,
   "repos": [
     "valkey",
-    "valkey-doc"
+    "valkey-doc",
+    "valkey-io.github.io"
   ],
   "commit_list": [
     {
@@ -65,6 +66,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3155",
       "commit_url": "https://github.com/valkey-io/valkey/commit/666472c7628158050810a85fec1da7bcf45c8ae0"
+    },
+    {
+      "sha": "4c9f94e698",
+      "message": "Forward encryption to tls (#450)",
+      "date": "2026-02-03",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/450",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/4c9f94e69807cac80d5ab447ee6c83a5edbf8685"
     },
     {
       "sha": "eb3f465e50",

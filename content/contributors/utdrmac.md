@@ -2,8 +2,8 @@
   "title": "utdrmac",
   "login": "utdrmac",
   "avatar_url": "https://avatars.githubusercontent.com/u/4413670?v=4",
-  "score": 3,
-  "commit_count": 2,
+  "score": 4,
+  "commit_count": 3,
   "review_count": 1,
   "repos": [
     "valkey",
@@ -17,6 +17,14 @@
       "repo": "valkey-operator",
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/44",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/4f3e468600bb73ed1ddfc23227e2abc1dea6024f"
+    },
+    {
+      "sha": "ed15c7fd47",
+      "message": "(feat) Support for creating users on cluster init (#82)",
+      "date": "2026-02-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/82",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/ed15c7fd47d48dadc669dc1ec4b9e59292d8bd74"
     },
     {
       "sha": "8df8c84ffe",

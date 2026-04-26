@@ -2,12 +2,13 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 62,
-  "commit_count": 29,
-  "review_count": 33,
+  "score": 64,
+  "commit_count": 30,
+  "review_count": 34,
   "repos": [
     "valkey",
-    "valkey-doc"
+    "valkey-doc",
+    "valkey-io.github.io"
   ],
   "commit_list": [
     {
@@ -49,6 +50,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/2785",
       "commit_url": "https://github.com/valkey-io/valkey/commit/43ee46da339d598a588b621a7ccfa7907a8cde86"
+    },
+    {
+      "sha": "2508b750a3",
+      "message": "Blog post: Introducing Atomic Slot Migration (#404)",
+      "date": "2025-10-29",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/404",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/2508b750a3b4114ce75165bf0841b1eff9584ab3"
     },
     {
       "sha": "2c7c143f0a",
@@ -443,6 +452,14 @@
       "repo": "valkey-container",
       "pr_url": "https://github.com/valkey-io/valkey-container/pull/104",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/67d8bfc24349dd14b7df0fae63eb06f79add623c"
+    },
+    {
+      "sha": "9cb7a9c38f",
+      "message": "Update website for version 9.0.0-rc3 (#387)",
+      "date": "2025-10-08",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/387",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/9cb7a9c38fe5da911118a4d303fcf7c825f31b97"
     },
     {
       "sha": "a9a65abc85",

@@ -2,12 +2,13 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 26,
-  "commit_count": 22,
+  "score": 27,
+  "commit_count": 23,
   "review_count": 4,
   "repos": [
     "valkey",
     "valkey-doc",
+    "valkey-io.github.io",
     "valkey-swift"
   ],
   "commit_list": [
@@ -186,6 +187,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/2541",
       "commit_url": "https://github.com/valkey-io/valkey/commit/3086e61d4b06a81602fc74163eb7d4eb6b6bfe41"
+    },
+    {
+      "sha": "82f9924526",
+      "message": "Valkey swift blog post (#315)",
+      "date": "2025-08-04",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/315",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/82f9924526f5b267fd87be994537047e699b2403"
     }
   ],
   "review_list": [

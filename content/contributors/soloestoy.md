@@ -2,9 +2,9 @@
   "title": "soloestoy",
   "login": "soloestoy",
   "avatar_url": "https://avatars.githubusercontent.com/u/24804835?v=4",
-  "score": 51,
+  "score": 52,
   "commit_count": 21,
-  "review_count": 30,
+  "review_count": 31,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -339,6 +339,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/1390",
       "commit_url": "https://github.com/valkey-io/valkey/commit/4f61034934cf165163ef272e5795bccadc288b09"
+    },
+    {
+      "sha": "926b6fd6fe",
+      "message": "Contributing valkeyJSON module (#1)",
+      "date": "2024-11-29",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/1",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/926b6fd6feba583e251383094fedd6f0f1d19712"
     },
     {
       "sha": "4986310945",

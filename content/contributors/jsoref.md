@@ -2,8 +2,8 @@
   "title": "jsoref",
   "login": "jsoref",
   "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
-  "score": 16,
-  "commit_count": 16,
+  "score": 18,
+  "commit_count": 18,
   "review_count": 0,
   "repos": [
     "iovalkey",
@@ -14,6 +14,8 @@
     "valkey-bundle",
     "valkey-go",
     "valkey-hashes",
+    "valkey-io.github.io",
+    "valkey-py",
     "valkey-release-automation",
     "valkey-test-framework"
   ],
@@ -83,6 +85,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/293be3e3250eea8eff73ba85c8dbffc00a6d32ac"
     },
     {
+      "sha": "8b169409fb",
+      "message": "fix spelling in the repo",
+      "date": "2025-07-02",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/204",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/8b169409fbeec509d90080694bd5eba8f89b0363"
+    },
+    {
       "sha": "57459f77d4",
       "message": "Spelling 3 (#2240)",
       "date": "2025-06-25",
@@ -137,6 +147,14 @@
       "repo": "valkey-go",
       "pr_url": "https://github.com/valkey-io/valkey-go/pull/53",
       "commit_url": "https://github.com/valkey-io/valkey-go/commit/14a7de54d6daa157cc00115f621325186311ae42"
+    },
+    {
+      "sha": "a8c6c33ca9",
+      "message": "Spelling (#267)",
+      "date": "2025-06-04",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/267",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/a8c6c33ca95f3763ff6dc1c04b26ab53ae226769"
     },
     {
       "sha": "279125e220",

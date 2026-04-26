@@ -2,13 +2,15 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 253,
-  "commit_count": 79,
-  "review_count": 174,
+  "score": 259,
+  "commit_count": 84,
+  "review_count": 175,
   "repos": [
     "valkey",
     "valkey-container",
     "valkey-doc",
+    "valkey-hashes",
+    "valkey-io.github.io",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
@@ -179,6 +181,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/2716",
       "commit_url": "https://github.com/valkey-io/valkey/commit/8182f4a0b9c92639f7528f4ae412e957c7600bb4"
+    },
+    {
+      "sha": "0152420fb5",
+      "message": "Blog Post: Hash field expiration in Valkey (#354)",
+      "date": "2025-09-30",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/354",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/0152420fb59f081f95e9e0e1046aca89e3ec5df5"
     },
     {
       "sha": "f39a809711",
@@ -389,6 +399,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/30e9109d19b0cd38c384560abdbd23e9e5719361"
     },
     {
+      "sha": "7af3ff3f31",
+      "message": "Valkey 8.1.0 GA release (#231)",
+      "date": "2025-04-02",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/231",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/7af3ff3f31dcb5bb120b0ab47fcddc725263baae"
+    },
+    {
       "sha": "e4036172f5",
       "message": "Align docs version to 8.1.0 (#256)",
       "date": "2025-03-31",
@@ -411,6 +429,14 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/253",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/47295243b807e3d53d3bf4b603b93d57d454642b"
+    },
+    {
+      "sha": "e5a5c1af0f",
+      "message": "Update the 8.1.0 rc2 release link in the website (#225)",
+      "date": "2025-03-20",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/225",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/e5a5c1af0fb9397a57391576181c10bddbd32e73"
     },
     {
       "sha": "2c9db1a775",
@@ -437,12 +463,28 @@
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/58c923048945c7b532914396508cbf061bd43ac7"
     },
     {
+      "sha": "457dbc593f",
+      "message": "Add 8.1.0-rc1 release (#209)",
+      "date": "2025-02-18",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/209",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/457dbc593f57643b1bc58c5a072279ccaaa2bc5f"
+    },
+    {
       "sha": "796eef76df",
       "message": "Adds 8.1.0-rc1 and updates docker hub descriptions with new tags (#51)",
       "date": "2025-02-17",
       "repo": "valkey-container",
       "pr_url": "https://github.com/valkey-io/valkey-container/pull/51",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/796eef76df6747fcf3c5ecb5d84ff55fbd259d87"
+    },
+    {
+      "sha": "21677c19eb",
+      "message": "Add hash for 8.1.0-rc1 (#9)",
+      "date": "2025-02-17",
+      "repo": "valkey-hashes",
+      "pr_url": "https://github.com/valkey-io/valkey-hashes/pull/9",
+      "commit_url": "https://github.com/valkey-io/valkey-hashes/commit/21677c19ebb6683c68d75c64b369f79b82d7cb5b"
     },
     {
       "sha": "e6e65c64a3",
@@ -1549,6 +1591,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/1911",
       "commit_url": "https://github.com/valkey-io/valkey/commit/e5ce98459eae52be89428da3ac9cd60beba28f80"
+    },
+    {
+      "sha": "50a63ec983",
+      "message": "Fixes to the blog posts about 8.1.0 release and hash table (#232)",
+      "date": "2025-04-02",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/232",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/50a63ec98317a75f7165958c73a75927af56b676"
     },
     {
       "sha": "09f9630171",

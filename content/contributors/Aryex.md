@@ -2,13 +2,14 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 72,
-  "commit_count": 28,
+  "score": 73,
+  "commit_count": 29,
   "review_count": 44,
   "repos": [
     "valkey-doc",
     "valkey-glide",
-    "valkey-glide-docs"
+    "valkey-glide-docs",
+    "valkey-io.github.io"
   ],
   "commit_list": [
     {
@@ -226,6 +227,14 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/382",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/7539f2b98784068b1dda4f75bb6444efef5ce934"
+    },
+    {
+      "sha": "5a826ad611",
+      "message": "Support website links in client list and fix template variable shadowing (#418)",
+      "date": "2025-11-25",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/418",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/5a826ad611929bc74561c4f4c52cc4e0a9fa9489"
     },
     {
       "sha": "00397f3b29",

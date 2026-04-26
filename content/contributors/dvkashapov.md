@@ -2,12 +2,13 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 73,
-  "commit_count": 19,
+  "score": 75,
+  "commit_count": 21,
   "review_count": 54,
   "repos": [
     "valkey",
     "valkey-doc",
+    "valkey-io.github.io",
     "valkey-luajit"
   ],
   "commit_list": [
@@ -146,6 +147,22 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/391",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/02f1af41f36d5ad438b378804e2c021df31d12fa"
+    },
+    {
+      "sha": "c7c6e2f6be",
+      "message": "Fix links for topics (#424)",
+      "date": "2025-12-03",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/424",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c7c6e2f6bee53b6945ab50457aa886197419eede"
+    },
+    {
+      "sha": "3edd7bc3d5",
+      "message": "Delete logic related to implicit ACL categories (#423)",
+      "date": "2025-12-03",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/423",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/3edd7bc3d5118b6ee3b7c79bcfb950459f5adafb"
     },
     {
       "sha": "825d19fb09",

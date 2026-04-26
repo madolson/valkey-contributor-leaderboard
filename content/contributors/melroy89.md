@@ -2,12 +2,13 @@
   "title": "melroy89",
   "login": "melroy89",
   "avatar_url": "https://avatars.githubusercontent.com/u/628926?v=4",
-  "score": 6,
-  "commit_count": 4,
+  "score": 7,
+  "commit_count": 5,
   "review_count": 2,
   "repos": [
     "valkey",
-    "valkey-doc"
+    "valkey-doc",
+    "valkey-io.github.io"
   ],
   "commit_list": [
     {
@@ -25,6 +26,14 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/179",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/57b0e81cc4c9ac6b1b4dfb0572e9b94706a9908c"
+    },
+    {
+      "sha": "723649aa34",
+      "message": "Open GitHub page in new tab",
+      "date": "2024-10-03",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/149",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/723649aa3430a90060b5c6422cd035f341d176c0"
     },
     {
       "sha": "b77440a9b9",

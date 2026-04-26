@@ -2,11 +2,12 @@
   "title": "adarovadya",
   "login": "adarovadya",
   "avatar_url": "https://avatars.githubusercontent.com/u/25353861?v=4",
-  "score": 71,
-  "commit_count": 34,
-  "review_count": 37,
+  "score": 74,
+  "commit_count": 36,
+  "review_count": 38,
   "repos": [
-    "valkey-glide"
+    "valkey-glide",
+    "valkey-io.github.io"
   ],
   "commit_list": [
     {
@@ -80,6 +81,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/2959",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e75efa89943b180073b46867f51276579f64427b"
+    },
+    {
+      "sha": "72861b95f3",
+      "message": "fix typo (#193)",
+      "date": "2025-01-13",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/193",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/72861b95f36eca47a7858488d34733467025ec7a"
+    },
+    {
+      "sha": "607e7c7f04",
+      "message": "AZ-Affinity strategy blog (#186)",
+      "date": "2025-01-07",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/186",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/607e7c7f04cd77fc818689ee2d388bdc754e3eed"
     },
     {
       "sha": "2a56d49d4a",
@@ -322,6 +339,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/3944",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e00003458f47510ba155d59af5ff9ddde219957d"
+    },
+    {
+      "sha": "c3b28b8b6e",
+      "message": "add AZ_AFFINITY_REPLICAS_AND_PRIMARY read strategy example and diagram (#236)",
+      "date": "2025-05-26",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/236",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c3b28b8b6ef11d350593caf249aa769727092533"
     },
     {
       "sha": "aadeb6f7f8",

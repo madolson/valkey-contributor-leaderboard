@@ -2,12 +2,13 @@
   "title": "uriyage",
   "login": "uriyage",
   "avatar_url": "https://avatars.githubusercontent.com/u/78144248?v=4",
-  "score": 34,
-  "commit_count": 28,
+  "score": 35,
+  "commit_count": 29,
   "review_count": 6,
   "repos": [
     "valkey",
-    "valkey-doc"
+    "valkey-doc",
+    "valkey-io.github.io"
   ],
   "commit_list": [
     {
@@ -185,6 +186,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/834",
       "commit_url": "https://github.com/valkey-io/valkey/commit/1d188420741d4453615f776574f97984334a9939"
+    },
+    {
+      "sha": "e86afbb4cd",
+      "message": "Io threads blog (#102)",
+      "date": "2024-07-31",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/102",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/e86afbb4cda77db4ebb38df59e2cb305791d4b3a"
     },
     {
       "sha": "3cca26881a",

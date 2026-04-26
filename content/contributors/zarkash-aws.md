@@ -2,12 +2,13 @@
   "title": "zarkash-aws",
   "login": "zarkash-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/174019895?v=4",
-  "score": 6,
-  "commit_count": 6,
+  "score": 7,
+  "commit_count": 7,
   "review_count": 0,
   "repos": [
     "valkey",
     "valkey-glide",
+    "valkey-io.github.io",
     "valkey-release-automation",
     "valkey-try-me"
   ],
@@ -27,6 +28,14 @@
       "repo": "valkey-try-me",
       "pr_url": "https://github.com/valkey-io/valkey-try-me/pull/3",
       "commit_url": "https://github.com/valkey-io/valkey-try-me/commit/2e0c55c1c3145ace47baef38379857007b2e9580"
+    },
+    {
+      "sha": "04f4f09f5d",
+      "message": "added Try Valkey support (#255)",
+      "date": "2025-06-23",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/255",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/04f4f09f5d5ceaf754fc1bb49f629ce39fa64a95"
     },
     {
       "sha": "bf95710ecf",

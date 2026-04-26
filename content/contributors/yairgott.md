@@ -2,11 +2,12 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 8,
-  "commit_count": 3,
+  "score": 9,
+  "commit_count": 4,
   "review_count": 5,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-io.github.io"
   ],
   "commit_list": [
     {
@@ -16,6 +17,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/2472",
       "commit_url": "https://github.com/valkey-io/valkey/commit/e9014fd02b6e378ea647013097452558c20f0540"
+    },
+    {
+      "sha": "fe501b0f79",
+      "message": "Introducing Vector Semantic Search To Valkey (#276)",
+      "date": "2025-07-07",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/276",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/fe501b0f7994bede44e412ab537068d9563ec1f2"
     },
     {
       "sha": "38846504dc",

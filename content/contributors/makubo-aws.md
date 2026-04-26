@@ -2,9 +2,9 @@
   "title": "makubo-aws",
   "login": "makubo-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/203714000?v=4",
-  "score": 3,
+  "score": 4,
   "commit_count": 3,
-  "review_count": 0,
+  "review_count": 1,
   "repos": [
     "valkey-doc",
     "valkey-io.github.io"
@@ -35,5 +35,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/42ee33a92d2a9e27ba65c2975fbef9b7bad75065"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "d1da33ad43",
+      "message": "feat(ui): redesign homepage with new visual elements (#234)",
+      "date": "2025-04-16",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/234",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/d1da33ad43424172e25ad576bed9f99b9bb84a5f"
+    }
+  ]
 }

@@ -2,12 +2,13 @@
   "title": "gmbnomis",
   "login": "gmbnomis",
   "avatar_url": "https://avatars.githubusercontent.com/u/6278695?v=4",
-  "score": 13,
-  "commit_count": 11,
+  "score": 17,
+  "commit_count": 15,
   "review_count": 2,
   "repos": [
     "valkey",
-    "valkey-doc"
+    "valkey-doc",
+    "valkey-io.github.io"
   ],
   "commit_list": [
     {
@@ -43,6 +44,22 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/81e00517c14e4010cae934addd6fee70992b15a2"
     },
     {
+      "sha": "417942cefd",
+      "message": "Command pages: Fix the `fix_links` macro (#191)",
+      "date": "2025-02-03",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/191",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/417942cefd0b176f0f20987436fd3c08262664fb"
+    },
+    {
+      "sha": "b08e1d3432",
+      "message": "Document the source of command replies in the README (#192)",
+      "date": "2025-02-03",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/192",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/b08e1d3432a9facc32916e973f95a3cb6b1ce648"
+    },
+    {
       "sha": "fffb5ddfa2",
       "message": "RESP2/RESP3 reply unification and minor fixes (#211)",
       "date": "2025-01-16",
@@ -65,6 +82,22 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/206",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/e839acdd23dab996457aed2eb260ca25aada29fe"
+    },
+    {
+      "sha": "7ffac1ab4b",
+      "message": "Use all caps pure-tokens in command \"Usage:\" (#184)",
+      "date": "2025-01-07",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/184",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/7ffac1ab4ba259184521214edfb8b65b3ede7ecb"
+    },
+    {
+      "sha": "c86717063c",
+      "message": "Add reply sections to command pages (#183)",
+      "date": "2025-01-07",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/183",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c86717063c2f19c6ce8e3837730dd715326b9f02"
     },
     {
       "sha": "26a72fa89c",

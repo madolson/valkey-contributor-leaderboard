@@ -2,12 +2,13 @@
   "title": "dmitrypol",
   "login": "dmitrypol",
   "avatar_url": "https://avatars.githubusercontent.com/u/210308?v=4",
-  "score": 8,
-  "commit_count": 7,
+  "score": 9,
+  "commit_count": 8,
   "review_count": 1,
   "repos": [
     "valkey",
     "valkey-doc",
+    "valkey-io.github.io",
     "valkey-json",
     "valkeymodule-rs"
   ],
@@ -43,6 +44,14 @@
       "repo": "valkeymodule-rs",
       "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/188",
       "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/70facf92ce42cfd747be1bc83cb57704de770b97"
+    },
+    {
+      "sha": "e483ab70c1",
+      "message": "modules101 article (#57)",
+      "date": "2024-05-01",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/57",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/e483ab70c142b51b61556eda274a7649a7ddd855"
     },
     {
       "sha": "e2de3a4c22",
