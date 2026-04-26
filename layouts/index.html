@@ -88,7 +88,7 @@
 
   function recompute() {
     var selected = getSelectedRepos();
-    var allSelected = selected.size === repos.length;
+    var q = s.value.toLowerCase();
     var data = rows.map(function(row) {
       var pr = JSON.parse(row.dataset.perRepo || "{}");
       var c = 0, r = 0, repoCount = 0;
@@ -105,19 +105,12 @@
       d.row.querySelector(".commits-cell").textContent = d.commits;
       d.row.querySelector(".reviews-cell").textContent = d.reviews;
       d.row.querySelector(".repos-cell").textContent = d.repos;
-      d.row.style.display = d.score > 0 ? "" : "none";
+      d.row.style.display = d.score > 0 && (q === "" || d.row.textContent.toLowerCase().includes(q)) ? "" : "none";
       tbody.appendChild(d.row);
     });
   }
 
-  s.addEventListener("input", function() {
-    var q = this.value.toLowerCase();
-    rows.forEach(function(row) {
-      var score = parseInt(row.querySelector(".score").textContent) || 0;
-      var match = q === "" || row.textContent.toLowerCase().includes(q);
-      row.style.display = match && score > 0 ? "" : "none";
-    });
-  });
+  s.addEventListener("input", recompute);
   document.addEventListener("keydown", function(e) {
     if (e.key === "/" && document.activeElement !== s) { e.preventDefault(); s.focus(); }
   });
