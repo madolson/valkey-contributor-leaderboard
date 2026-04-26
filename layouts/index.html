@@ -60,6 +60,17 @@
   });
   var repos = Array.from(allRepos).sort();
   var box = document.getElementById("repo-checkboxes");
+  var selAll = document.createElement("label");
+  selAll.className = "repo-chip select-all";
+  var selCb = document.createElement("input");
+  selCb.type = "checkbox"; selCb.checked = true;
+  selCb.addEventListener("change", function() {
+    box.querySelectorAll("input").forEach(function(c) { c.checked = selCb.checked; });
+    recompute();
+  });
+  selAll.appendChild(selCb);
+  selAll.appendChild(document.createTextNode(" All"));
+  box.appendChild(selAll);
   repos.forEach(function(repo) {
     var label = document.createElement("label");
     label.className = "repo-chip";
