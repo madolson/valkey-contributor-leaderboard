@@ -2,8 +2,8 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 52,
-  "commit_count": 35,
+  "score": 54,
+  "commit_count": 37,
   "review_count": 17,
   "repos": [
     "valkey-bloom",
@@ -207,6 +207,14 @@
       "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/99c9ad312b4a248172543a1170572fef4b7d34a9"
     },
     {
+      "sha": "2ca076c5e5",
+      "message": "Making inital commit for adding defrag wrappers (#154)",
+      "date": "2025-03-07",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/154",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/2ca076c5e52e55f28ae84ddf9e95356786b4c9fb"
+    },
+    {
       "sha": "8077d5874e",
       "message": "Code cleanup: removing unused dependencies in tests, removing digest (#44)",
       "date": "2025-02-03",
@@ -285,6 +293,14 @@
       "repo": "valkey-bloom",
       "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/19",
       "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/31d21c0ab9a73d6d06515d28806eacbf6a049b6f"
+    },
+    {
+      "sha": "3229636189",
+      "message": "Adding capabilty for creating custom ACL categories as well as setting custom and existing ACL categories. Added feature flags to acl categories and including a new 8.0 feature flag",
+      "date": "2024-11-04",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/120",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/32296361898a6b3e5eaea3fd420416625776d6a9"
     },
     {
       "sha": "dee8a7eebd",

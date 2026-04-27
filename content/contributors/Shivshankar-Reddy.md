@@ -2,13 +2,46 @@
   "title": "Shivshankar-Reddy",
   "login": "Shivshankar-Reddy",
   "avatar_url": "https://avatars.githubusercontent.com/u/154384736?v=4",
-  "score": 55,
-  "commit_count": 48,
+  "score": 59,
+  "commit_count": 52,
   "review_count": 7,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "8fc348ffac",
+      "message": "Additionale metrics of info search active_indexes active_indexes_running_queries total_active_write_threads total_indexing_time active_indexes_indexing (#314)",
+      "date": "2025-08-17",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/314",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8fc348ffacf0fba01a6805e0c77815e7712ab253"
+    },
+    {
+      "sha": "cb39bf3f70",
+      "message": "Strip the complete build path from logs (#308)",
+      "date": "2025-08-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/308",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/cb39bf3f70d20e420392855d280df53d397aab1f"
+    },
+    {
+      "sha": "54b62de78b",
+      "message": "fix compilation failure for release option (#154)",
+      "date": "2025-05-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/154",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/54b62de78b66ebf4c592b8fae99fa5e23d5e1980"
+    },
+    {
+      "sha": "5e50c97e51",
+      "message": "Make backfill batch/block size configurable (#97)",
+      "date": "2025-05-03",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/97",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5e50c97e51f37a41021e766f70795fb4f53e86d8"
+    },
     {
       "sha": "13f5f665f2",
       "message": "Update the argument of clusterNodeGetReplica declaration (#1239)",

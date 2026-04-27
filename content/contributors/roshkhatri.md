@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 314,
-  "commit_count": 128,
-  "review_count": 186,
+  "score": 317,
+  "commit_count": 129,
+  "review_count": 188,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -15,7 +15,8 @@
     "valkey-json",
     "valkey-perf-benchmark",
     "valkey-release-automation",
-    "valkey-rfc"
+    "valkey-rfc",
+    "valkey-search"
   ],
   "commit_list": [
     {
@@ -649,6 +650,14 @@
       "repo": "valkey-container",
       "pr_url": "https://github.com/valkey-io/valkey-container/pull/61",
       "commit_url": "https://github.com/valkey-io/valkey-container/commit/8268d01d7d3eb4001a9f08a6a92710ebd4a3c6e6"
+    },
+    {
+      "sha": "6de50580c8",
+      "message": "Update printed binary file path (#84)",
+      "date": "2025-03-31",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/84",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6de50580c8e7340b2a09b7d4650c205491844b10"
     },
     {
       "sha": "f59906da13",
@@ -2285,12 +2294,28 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/7b27890472eada19e2c31f201e0db3e3751ac2ac"
     },
     {
+      "sha": "91f3401274",
+      "message": "Put images in documents folder (#2)",
+      "date": "2025-03-17",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/2",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/91f3401274a9ff49dec7b5c32c6db9bc54e7c561"
+    },
+    {
       "sha": "134a0f8def",
       "message": "Fixed typo in ReadMe (#46)",
       "date": "2025-03-14",
       "repo": "valkey-json",
       "pr_url": "https://github.com/valkey-io/valkey-json/pull/46",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/134a0f8defdd2425388b521bf1d80ef543a50272"
+    },
+    {
+      "sha": "3bd879d6ae",
+      "message": "Initial Code commit contributing the automated release process (#1)",
+      "date": "2025-03-14",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/1",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/3bd879d6ae0d84e3e9fc13a555667ba463e7b713"
     },
     {
       "sha": "4fb72a9269",

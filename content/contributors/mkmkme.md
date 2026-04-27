@@ -2,9 +2,9 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 101,
+  "score": 109,
   "commit_count": 19,
-  "review_count": 82,
+  "review_count": 90,
   "repos": [
     "libvalkey-py",
     "valkey-py"
@@ -1043,6 +1043,70 @@
       "repo": "valkey-py",
       "pr_url": "https://github.com/valkey-io/valkey-py/pull/20",
       "commit_url": "https://github.com/valkey-io/valkey-py/commit/f832eef80c453041a05c303092ff7b3130c74865"
+    },
+    {
+      "sha": "16192e5d93",
+      "message": "Merge pull request #19 from valkey-io/aiven-sal/release",
+      "date": "2024-06-13",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/19",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/16192e5d931262a60bb376a3770a10862177ae04"
+    },
+    {
+      "sha": "920be14000",
+      "message": "Merge pull request #17 from valkey-io/aiven-sal/migration",
+      "date": "2024-06-13",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/17",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/920be1400089891d91c2155d0588313eee5a4ae5"
+    },
+    {
+      "sha": "b030ab6128",
+      "message": "Merge pull request #18 from valkey-io/aiven-sal/forkfixes",
+      "date": "2024-06-13",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/18",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/b030ab6128251cfaf2b724545fbf26732ba644b9"
+    },
+    {
+      "sha": "093748d8df",
+      "message": "Merge pull request #16 from valkey-io/aiven-sal/flakytests",
+      "date": "2024-06-13",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/16",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/093748d8dfe2737e8b2fd1ba7d699de9a05689a5"
+    },
+    {
+      "sha": "9bf21b4b27",
+      "message": "Merge pull request #14 from valkey-io/adjust-copyright",
+      "date": "2024-06-06",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/14",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/9bf21b4b272a95c6f06fc763e4fdb37345b1a399"
+    },
+    {
+      "sha": "9e56ab4eb1",
+      "message": "Merge pull request #9 from aiven-sal/aiven-sal/license",
+      "date": "2024-05-29",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/9",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/9e56ab4eb1e27a364a02208021a9f02c541f5da4"
+    },
+    {
+      "sha": "fdc01c58e2",
+      "message": "Merge pull request #7 from aiven-sal/aiven-sal/dco",
+      "date": "2024-05-27",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/7",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/fdc01c58e2a6d68d9adf320e5f481b5211f3c5d4"
+    },
+    {
+      "sha": "ce9b87a613",
+      "message": "s/redis/valkey/ single commit with fixes (#2)",
+      "date": "2024-05-27",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/2",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/ce9b87a6136d6e45c931ebb9834db12cc0c566ca"
     }
   ]
 }

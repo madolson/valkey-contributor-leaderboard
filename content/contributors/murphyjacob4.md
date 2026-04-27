@@ -2,13 +2,14 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 64,
-  "commit_count": 30,
-  "review_count": 34,
+  "score": 94,
+  "commit_count": 40,
+  "review_count": 54,
   "repos": [
     "valkey",
     "valkey-doc",
-    "valkey-io.github.io"
+    "valkey-io.github.io",
+    "valkey-search"
   ],
   "commit_list": [
     {
@@ -26,6 +27,30 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3205",
       "commit_url": "https://github.com/valkey-io/valkey/commit/62686985e5d99996c9f9427524daed52e14cbec3"
+    },
+    {
+      "sha": "945d29388c",
+      "message": "Ensure content is always retrieved on correct DB during search (#712)",
+      "date": "2026-02-07",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/712",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/945d29388c0bf15dff0716f1488fc0d66df2886f"
+    },
+    {
+      "sha": "2fc6219c25",
+      "message": "Revert \"Update Vector HNSW output field format (#312)\" (#641)",
+      "date": "2026-01-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/641",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2fc6219c25b7c5bcb9a80d989d16ca37a2f1b067"
+    },
+    {
+      "sha": "3570431895",
+      "message": "Allow local node to have no primary endpoint (#633)",
+      "date": "2026-01-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/633",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/3570431895802f0aa02ab1ebec00b480793f20d0"
     },
     {
       "sha": "8e462d4ae2",
@@ -212,12 +237,52 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/92c859de6813d71aa4cb99f6731faefd88c458b8"
     },
     {
+      "sha": "1a4e2db863",
+      "message": "Use a managed pointer for thread safe context in coordinator (#159)",
+      "date": "2025-05-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/159",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1a4e2db86326be27390d12e80420a3a6b467329b"
+    },
+    {
       "sha": "258213ff7e",
       "message": "Free module context even if there was no content written in auxsave2 (#2132)",
       "date": "2025-05-27",
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/2132",
       "commit_url": "https://github.com/valkey-io/valkey/commit/258213ff7e305b7bd77549577712084cd2d9e512"
+    },
+    {
+      "sha": "37b90f2eb0",
+      "message": "Use background context rather than IO context during Aux save. (#143)",
+      "date": "2025-05-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/143",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/37b90f2eb0b5d3e555470d12983cff03bf8fe20a"
+    },
+    {
+      "sha": "3e98740288",
+      "message": "Add OOM checking to index backfill (#135)",
+      "date": "2025-05-21",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/135",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/3e9874028831818c191d74ec88221b069601ffee"
+    },
+    {
+      "sha": "6fab2d0340",
+      "message": "Remove Google-internal specifics and unused code (#136)",
+      "date": "2025-05-21",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/136",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6fab2d034019517e02fd39bacf351e0a299ff526"
+    },
+    {
+      "sha": "c7c8ac0704",
+      "message": "Introduce RFC for RDB format (#28)",
+      "date": "2025-05-21",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/28",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c7c8ac0704a6485738c46425df4bcf2a73609a55"
     },
     {
       "sha": "89d45775c4",
@@ -234,6 +299,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/1948",
       "commit_url": "https://github.com/valkey-io/valkey/commit/ee9a305b5bc7b0cc4495d3ee8d212269e91675a0"
+    },
+    {
+      "sha": "b01476f453",
+      "message": "Implement new RDB format (#68)",
+      "date": "2025-03-27",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/68",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/b01476f4531644935b6c3b257fd2afb6e0c9e9fa"
+    },
+    {
+      "sha": "21b93d5d50",
+      "message": "Add integration test framework (#20)",
+      "date": "2025-02-23",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/20",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/21b93d5d50eb2a499a1229301893dc9f1178cfe1"
     },
     {
       "sha": "e972d56460",
@@ -366,6 +447,30 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/fd1438063927d0d3d2d8c9018011d8f7bcda47c3"
     },
     {
+      "sha": "97a513224e",
+      "message": "Use new command \"FT.Internal_update\" to replicate index create/drop (#521)",
+      "date": "2026-01-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/521",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/97a513224e6a7a5fafbb5e092e8181e25a9865b4"
+    },
+    {
+      "sha": "016e983bea",
+      "message": "Avoid deadlock while processing  MULTI/EXEC mutations (#629)",
+      "date": "2026-01-27",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/629",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/016e983bea949d62113c82a66286c94c60d8dc10"
+    },
+    {
+      "sha": "016e983bea",
+      "message": "Avoid deadlock while processing  MULTI/EXEC mutations (#629)",
+      "date": "2026-01-27",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/629",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/016e983bea949d62113c82a66286c94c60d8dc10"
+    },
+    {
       "sha": "94edae4b8d",
       "message": "Fix how hash is handling overriding of expired fields overwrite (#3060)",
       "date": "2026-01-26",
@@ -404,6 +509,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/2925",
       "commit_url": "https://github.com/valkey-io/valkey/commit/5940dbfb0b601dfc565ca7f349a3a62f67d7e5ed"
+    },
+    {
+      "sha": "fd9d5ea4b7",
+      "message": "Full support for DB numbers other than zero in cluster mode. (#410)",
+      "date": "2025-12-07",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/410",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/fd9d5ea4b75c2f0f94f0ce7a22e6c6f1b6231aec"
     },
     {
       "sha": "e4acbe7b84",
@@ -462,6 +575,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/9cb7a9c38fe5da911118a4d303fcf7c825f31b97"
     },
     {
+      "sha": "0cd447cfc7",
+      "message": "Implement server version checking on load (#408)",
+      "date": "2025-10-07",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/408",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0cd447cfc7f015b5ce35e096fff50a7d6251ef6b"
+    },
+    {
       "sha": "a9a65abc85",
       "message": "Implement a lolwut for version 9 (#2646)",
       "date": "2025-09-30",
@@ -518,12 +639,132 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/1d20026b938afd96c770f893d63cd314755ff59a"
     },
     {
+      "sha": "1be979bbbd",
+      "message": "Add config to skip loading index from rdb (#209)",
+      "date": "2025-08-01",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/209",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1be979bbbddb74685430779caea20b40c3ab69ee"
+    },
+    {
       "sha": "5699c8c05a",
       "message": "Combine range element ranks calculation with range elements search to improve zcount performance (#2129)",
       "date": "2025-06-04",
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/2129",
       "commit_url": "https://github.com/valkey-io/valkey/commit/5699c8c05a207dd2590aa37843a60b2131f3a2da"
+    },
+    {
+      "sha": "a835a46398",
+      "message": "Fixed drop index bug (#166)",
+      "date": "2025-06-04",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/166",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a835a46398d6a284eb1ef67d3e44cf8f15feaf6b"
+    },
+    {
+      "sha": "41c4ff082a",
+      "message": "Fixing empty vector query clause ft.search cmd parsing (#138)",
+      "date": "2025-05-22",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/138",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/41c4ff082a584c599c2c4b6155e2ea61bf7e0c42"
+    },
+    {
+      "sha": "5001de38f1",
+      "message": "renaming total_indexed_hash_keys to total_indexed_documents (#137)",
+      "date": "2025-05-22",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/137",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5001de38f1a39b1c10bf371a9746b5529ba901f1"
+    },
+    {
+      "sha": "12ec716c17",
+      "message": "Command registration permissions alignment with ACL prefix permissions (#125)",
+      "date": "2025-05-20",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/125",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/12ec716c17195774d7e493e0192ee06076b1ae96"
+    },
+    {
+      "sha": "12ec716c17",
+      "message": "Command registration permissions alignment with ACL prefix permissions (#125)",
+      "date": "2025-05-20",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/125",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/12ec716c17195774d7e493e0192ee06076b1ae96"
+    },
+    {
+      "sha": "b1c7da23cc",
+      "message": "Mind the db number while creating an index (#120)",
+      "date": "2025-05-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/120",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/b1c7da23cc038d1e27a4607159b085d561c1b8c9"
+    },
+    {
+      "sha": "2cd8b1fb24",
+      "message": "Exposing search subscription info just if built with the macro DEBUG_INFO (#109)",
+      "date": "2025-05-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/109",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2cd8b1fb24fa22c50f8a9f98fecead694e38e5ee"
+    },
+    {
+      "sha": "a87755dd72",
+      "message": "Fixing asan issues (#101)",
+      "date": "2025-04-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/101",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a87755dd725a0d01f3efbfdd0385ddfaf597f45e"
+    },
+    {
+      "sha": "1e30f71147",
+      "message": "adding support for blocking clients during keyspace notification (#95)",
+      "date": "2025-04-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/95",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1e30f711473dccfa9643d1e7570b264b8cf05b82"
+    },
+    {
+      "sha": "3a36767480",
+      "message": "avoid unsafe code in ValkeySearch::Info  during crashdump (#98)",
+      "date": "2025-04-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/98",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/3a36767480d2c3d55de6b06ecbff3e759e1a0e61"
+    },
+    {
+      "sha": "508b0cf54a",
+      "message": "Adding json and flat integration tests (#88)",
+      "date": "2025-04-11",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/88",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/508b0cf54a1d4199651f3b71fc7c137a9e015c4e"
+    },
+    {
+      "sha": "bd3e82bcf5",
+      "message": "Update README.md (#78)",
+      "date": "2025-03-27",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/78",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/bd3e82bcf5b78728c0f1039e92a2cc9b5f396438"
+    },
+    {
+      "sha": "902b8fa199",
+      "message": "fixing rdb load to use a detached context (#77)",
+      "date": "2025-03-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/77",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/902b8fa199d0c7f5a21330de30b60bcb1b8d4339"
+    },
+    {
+      "sha": "2b055c9bb4",
+      "message": "fixing integration tests to work with cmake (#73)",
+      "date": "2025-03-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/73",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2b055c9bb404ef25b63bea774c443bacb0c548a8"
     },
     {
       "sha": "5b1fd222ed",

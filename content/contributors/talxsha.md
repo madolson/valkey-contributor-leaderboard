@@ -2,14 +2,23 @@
   "title": "talxsha",
   "login": "talxsha",
   "avatar_url": "https://avatars.githubusercontent.com/u/160726520?v=4",
-  "score": 9,
-  "commit_count": 9,
+  "score": 10,
+  "commit_count": 10,
   "review_count": 0,
   "repos": [
     "valkey",
-    "valkey-glide"
+    "valkey-glide",
+    "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "7bea873c04",
+      "message": "Adding command flags to match ACL permissions. (#285)",
+      "date": "2025-08-11",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/285",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7bea873c04b092a36f05dacbccdd0ff5fd99f5ac"
+    },
     {
       "sha": "2eac2ccd2f",
       "message": "skip CRC checksumming during diskless full sync with TLS enabled. (#1479)",

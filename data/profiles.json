@@ -1742,5 +1742,277 @@
   "adanWattad": {
     "name": "Adan Wattad",
     "company": ""
+  },
+  "eliastam": {
+    "name": "Elias Tamraz",
+    "company": "Amazon Web Services"
+  },
+  "daveisfera": {
+    "name": "Dave Johansen",
+    "company": "AWRE Sports"
+  },
+  "chris-short": {
+    "name": "Chris Short",
+    "company": ""
+  },
+  "dpbnasika": {
+    "name": "DP",
+    "company": ""
+  },
+  "Kakadus": {
+    "name": "Jonas Dittrich",
+    "company": ""
+  },
+  "bbarani": {
+    "name": "Barani",
+    "company": "reddit"
+  },
+  "proost": {
+    "name": "Hyeonho Kim",
+    "company": "daangn"
+  },
+  "jlprat": {
+    "name": "Josep Prat",
+    "company": "aiven"
+  },
+  "davgia": {
+    "name": "Davide G.",
+    "company": "eResult s.r.l."
+  },
+  "mk-raven": {
+    "name": "Raven",
+    "company": ""
+  },
+  "daddaman-amz": {
+    "name": "",
+    "company": ""
+  },
+  "crystalphamLF": {
+    "name": "Crystal Pham",
+    "company": "The Linux Foundation"
+  },
+  "brainwo": {
+    "name": "Brian Wo",
+    "company": ""
+  },
+  "hamzahrmalik": {
+    "name": "hamzahrmalik",
+    "company": ""
+  },
+  "cperciva": {
+    "name": "Colin Percival",
+    "company": "Tarsnap"
+  },
+  "SaidBySolo": {
+    "name": "Ryu Juheon",
+    "company": "sanic-org"
+  },
+  "philippzagar": {
+    "name": "Philipp Zagar",
+    "company": "Apple"
+  },
+  "phiro56": {
+    "name": "Daniel Phillips",
+    "company": ""
+  },
+  "s3rj1k": {
+    "name": "Serhii Ivanov",
+    "company": ""
+  },
+  "spyinx": {
+    "name": "",
+    "company": ""
+  },
+  "ktoso": {
+    "name": "Konrad `ktoso` Malawski",
+    "company": "We sell fruit. \u00af\\_(\u30c4)_/\u00af"
+  },
+  "FawenYo": {
+    "name": "FawenYo",
+    "company": ""
+  },
+  "ChristophKoerner": {
+    "name": "Christoph Koerner",
+    "company": "AWS"
+  },
+  "zioproto": {
+    "name": "",
+    "company": ""
+  },
+  "AMoo-Miki": {
+    "name": "Miki",
+    "company": "highspot"
+  },
+  "kris-ms": {
+    "name": "Kristopher Sach",
+    "company": ""
+  },
+  "dkuser": {
+    "name": "",
+    "company": ""
+  },
+  "slashmo": {
+    "name": "Moritz Lang",
+    "company": "blinkist"
+  },
+  "indyaah": {
+    "name": "Anuj Patel",
+    "company": ""
+  },
+  "sgissi": {
+    "name": "Silvio Gissi",
+    "company": ""
+  },
+  "gunnargrosch": {
+    "name": "Gunnar Grosch",
+    "company": ""
+  },
+  "rafariossaa": {
+    "name": "Rafael R\u00edos Saavedra",
+    "company": ""
+  },
+  "riccardoforzan": {
+    "name": "",
+    "company": ""
+  },
+  "rastut": {
+    "name": "Carlos Lopez",
+    "company": ""
+  },
+  "NeedleInAJayStack": {
+    "name": "Jay Herron",
+    "company": "PassiveLogic"
+  },
+  "Laphatize": {
+    "name": "Pranav Ramesh",
+    "company": "jpmorganchase"
+  },
+  "dmaier-redislabs": {
+    "name": "David Maier",
+    "company": "Redis Labs"
+  },
+  "natanrolnik": {
+    "name": "Natan Rolnik",
+    "company": "Monday.com"
+  },
+  "zunda-pixel": {
+    "name": "zunda",
+    "company": ""
+  },
+  "cherukum-Amazon": {
+    "name": "Mahesh Cherukumilli",
+    "company": "Timberline Middle School"
+  },
+  "fradaloisio": {
+    "name": "Francesco d'Aloisio",
+    "company": ""
+  },
+  "ei-grad": {
+    "name": "Andrew Grigorev",
+    "company": "FaceApp"
+  },
+  "eranfrie": {
+    "name": "Eran Friedman",
+    "company": ""
+  },
+  "alisaifee": {
+    "name": "Ali-Akber Saifee",
+    "company": "indydevs"
+  },
+  "o-mago": {
+    "name": "Alexandre Cabral",
+    "company": "Stone"
+  },
+  "yaxing": {
+    "name": "Yaxing Chen",
+    "company": "*=*"
+  },
+  "max-muoto": {
+    "name": "Max Muoto",
+    "company": "Quaestor-Technologies"
+  },
+  "eric-musliner": {
+    "name": "Eric Musliner",
+    "company": ""
+  },
+  "adamk-janea": {
+    "name": "Adam Kaczmarek",
+    "company": "JaneaSystems"
+  },
+  "hahnandrew": {
+    "name": "Andrew Hahn",
+    "company": ""
+  },
+  "ali-gholami-aiven": {
+    "name": "Ali Gholami",
+    "company": ""
+  },
+  "willfrey": {
+    "name": "Will Frey",
+    "company": "dataPlor"
+  },
+  "kjaymiller": {
+    "name": "Jay Miller",
+    "company": "Aiven"
+  },
+  "parisnakitakejser": {
+    "name": "Paris Nakita Kejser",
+    "company": ""
+  },
+  "pnbrown": {
+    "name": "Nigel Brown",
+    "company": ""
+  },
+  "touitou-dan": {
+    "name": "Dan Touitou",
+    "company": ""
+  },
+  "BjoernPetersen": {
+    "name": "Bj\u00f6rn Petersen",
+    "company": "cosee GmbH"
+  },
+  "dmolik": {
+    "name": "Dan Molik",
+    "company": "hyperspike"
+  },
+  "imnotjames": {
+    "name": "James Ward",
+    "company": ""
+  },
+  "IvanVas": {
+    "name": "IV",
+    "company": ""
+  },
+  "gerzse": {
+    "name": "Gabriel Erzse",
+    "company": ""
+  },
+  "haukex": {
+    "name": "Hauke D",
+    "company": "IGB-Berlin"
+  },
+  "chrisjsimpson": {
+    "name": "",
+    "company": ""
+  },
+  "fabianfett": {
+    "name": "Fabian Fett",
+    "company": "apple"
+  },
+  "nirav-ark-biotech": {
+    "name": "",
+    "company": ""
+  },
+  "ArtemIsmagilov": {
+    "name": "",
+    "company": ""
+  },
+  "Wh1isper": {
+    "name": "Zhongsheng Ji",
+    "company": ""
+  },
+  "Arunsarma07": {
+    "name": "Narasimha Arun Oruganti",
+    "company": "Amazon"
   }
 }

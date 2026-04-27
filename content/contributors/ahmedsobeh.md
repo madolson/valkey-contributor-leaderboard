@@ -2,9 +2,9 @@
   "title": "ahmedsobeh",
   "login": "ahmedsobeh",
   "avatar_url": "https://avatars.githubusercontent.com/u/12254414?v=4",
-  "score": 28,
-  "commit_count": 11,
-  "review_count": 17,
+  "score": 31,
+  "commit_count": 13,
+  "review_count": 18,
   "repos": [
     "valkey-py"
   ],
@@ -96,6 +96,22 @@
       "repo": "valkey-py",
       "pr_url": "https://github.com/valkey-io/valkey-py/pull/29",
       "commit_url": "https://github.com/valkey-io/valkey-py/commit/0ca204b287d682509d0799b1f747ac13bb3ca0b6"
+    },
+    {
+      "sha": "9bf21b4b27",
+      "message": "Merge pull request #14 from valkey-io/adjust-copyright",
+      "date": "2024-06-06",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/14",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/9bf21b4b272a95c6f06fc763e4fdb37345b1a399"
+    },
+    {
+      "sha": "78e1da05c0",
+      "message": "updating contributing.md",
+      "date": "2024-05-30",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/11",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/78e1da05c03b3796b078f0b09abae5c454a1d2fb"
     }
   ],
   "review_list": [
@@ -290,6 +306,14 @@
       "repo": "valkey-py",
       "pr_url": "https://github.com/valkey-io/valkey-py/pull/30",
       "commit_url": "https://github.com/valkey-io/valkey-py/commit/60216b49016078fee0e988577344bed2206bc890"
+    },
+    {
+      "sha": "9e56ab4eb1",
+      "message": "Merge pull request #9 from aiven-sal/aiven-sal/license",
+      "date": "2024-05-29",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/9",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/9e56ab4eb1e27a364a02208021a9f02c541f5da4"
     }
   ]
 }

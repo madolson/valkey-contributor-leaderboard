@@ -2,8 +2,8 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 225,
-  "commit_count": 87,
+  "score": 228,
+  "commit_count": 90,
   "review_count": 138,
   "repos": [
     "valkey",
@@ -17,6 +17,7 @@
     "valkey-json",
     "valkey-ldap",
     "valkey-release-automation",
+    "valkey-search",
     "valkey-test-framework"
   ],
   "commit_list": [
@@ -525,6 +526,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/f4665fb4580cd5fefd039a8ea4a21c8f11847f88"
     },
     {
+      "sha": "2af5e6c02b",
+      "message": "Rename Valkey-Extensions to Valkey-Bundle (#189)",
+      "date": "2025-06-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/189",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2af5e6c02b67a4f4bdc742881f47ca08904c7f30"
+    },
+    {
       "sha": "84fb9db45a",
       "message": "Adding Container Tests for Valkey-Extensions (#24)",
       "date": "2025-06-22",
@@ -571,6 +580,14 @@
       "repo": "valkey-bundle",
       "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/18",
       "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/d22c7262d1b3a430cd3aaf46a07189fedaef8f40"
+    },
+    {
+      "sha": "316c4265b1",
+      "message": "Search trigger for Valkey Extension Automation (#163)",
+      "date": "2025-06-03",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/163",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/316c4265b1ff14285097c9f3b9eceacc5ddf5601"
     },
     {
       "sha": "54bd9a5459",
@@ -683,6 +700,14 @@
       "repo": "valkey-json",
       "pr_url": "https://github.com/valkey-io/valkey-json/pull/46",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/134a0f8defdd2425388b521bf1d80ef543a50272"
+    },
+    {
+      "sha": "3bd879d6ae",
+      "message": "Initial Code commit contributing the automated release process (#1)",
+      "date": "2025-03-14",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/1",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/3bd879d6ae0d84e3e9fc13a555667ba463e7b713"
     },
     {
       "sha": "4fb72a9269",

@@ -2,8 +2,8 @@
   "title": "jsoref",
   "login": "jsoref",
   "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
-  "score": 18,
-  "commit_count": 18,
+  "score": 21,
+  "commit_count": 21,
   "review_count": 0,
   "repos": [
     "iovalkey",
@@ -17,6 +17,8 @@
     "valkey-io.github.io",
     "valkey-py",
     "valkey-release-automation",
+    "valkey-search",
+    "valkey-swift",
     "valkey-test-framework"
   ],
   "commit_list": [
@@ -45,12 +47,28 @@
       "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/ad1097cf089db36d93a863d4781023a40865de67"
     },
     {
+      "sha": "2d040c3241",
+      "message": "Stop impersonating Mozilla (#242)",
+      "date": "2025-08-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/242",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2d040c32417451fdc0fed3f809a3a573e123bd27"
+    },
+    {
       "sha": "b4cf1b077d",
       "message": "Spelling (#5)",
       "date": "2025-07-30",
       "repo": "valkey-test-framework",
       "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/5",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/b4cf1b077d50b658d67df176170ee4fdccf03ea0"
+    },
+    {
+      "sha": "f7a25995f7",
+      "message": "Spelling (#143)",
+      "date": "2025-07-21",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/143",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/f7a25995f75a50ac6ce8ee9e3aad8b87ff772748"
     },
     {
       "sha": "2628db03b5",
@@ -99,6 +117,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/2240",
       "commit_url": "https://github.com/valkey-io/valkey/commit/57459f77d468b3618ba8c3c8a17a025d57b87268"
+    },
+    {
+      "sha": "254b2cb53c",
+      "message": "Spelling (#173)",
+      "date": "2025-06-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/173",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/254b2cb53cad6e21ca2f3d18c0b50fe44f2228bc"
     },
     {
       "sha": "2aea99b26f",

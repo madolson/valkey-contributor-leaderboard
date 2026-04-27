@@ -2,14 +2,15 @@
   "title": "dmitrypol",
   "login": "dmitrypol",
   "avatar_url": "https://avatars.githubusercontent.com/u/210308?v=4",
-  "score": 9,
-  "commit_count": 8,
+  "score": 13,
+  "commit_count": 12,
   "review_count": 1,
   "repos": [
     "valkey",
     "valkey-doc",
     "valkey-io.github.io",
     "valkey-json",
+    "valkey-search",
     "valkeymodule-rs"
   ],
   "commit_list": [
@@ -20,6 +21,22 @@
       "repo": "valkey-json",
       "pr_url": "https://github.com/valkey-io/valkey-json/pull/89",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/fd2753d8c6c87274f47b6ba814d78e92424e41e5"
+    },
+    {
+      "sha": "91fab29713",
+      "message": "Prevent crash on Valkey 7.2 when loading valkey-search (#427)",
+      "date": "2025-10-21",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/427",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/91fab297135067606ffdb860df0dfe340128af28"
+    },
+    {
+      "sha": "090c082a88",
+      "message": "prevent Valkey crash when module is loaded twice (#415)",
+      "date": "2025-10-17",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/415",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/090c082a88ae9565068df7440fb0981e87acc617"
     },
     {
       "sha": "427feec828",
@@ -44,6 +61,22 @@
       "repo": "valkeymodule-rs",
       "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/188",
       "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/70facf92ce42cfd747be1bc83cb57704de770b97"
+    },
+    {
+      "sha": "5ff3a8d7ff",
+      "message": "Merge pull request #143 from hahnandrew/fix/mismatched-types",
+      "date": "2024-12-06",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/143",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/5ff3a8d7ff1948caa0ba1e77f3a318230caff6a7"
+    },
+    {
+      "sha": "0a2bf02678",
+      "message": "Merge pull request #120 from zackcam/main",
+      "date": "2024-11-05",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/120",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/0a2bf026783583d02fd0aeae605d1705cd970103"
     },
     {
       "sha": "e483ab70c1",

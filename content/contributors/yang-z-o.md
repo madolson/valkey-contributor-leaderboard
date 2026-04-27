@@ -2,9 +2,9 @@
   "title": "yang-z-o",
   "login": "yang-z-o",
   "avatar_url": "https://avatars.githubusercontent.com/u/30397795?v=4",
-  "score": 14,
+  "score": 16,
   "commit_count": 11,
-  "review_count": 3,
+  "review_count": 5,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -124,6 +124,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3250",
       "commit_url": "https://github.com/valkey-io/valkey/commit/2565d445adf3f256e7f124cc2387d9e15dd3bc39"
+    },
+    {
+      "sha": "5079b73914",
+      "message": "Cluster transactions (#249)",
+      "date": "2025-10-18",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/249",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/5079b73914aba9fb141221143472e72854fd450c"
+    },
+    {
+      "sha": "22651ce6d6",
+      "message": "Add logger trace calls with command names (#252)",
+      "date": "2025-10-16",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/252",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/22651ce6d6ad2718842f94ea8b713deff418b121"
     }
   ]
 }

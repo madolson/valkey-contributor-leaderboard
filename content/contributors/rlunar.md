@@ -2,12 +2,13 @@
   "title": "rlunar",
   "login": "rlunar",
   "avatar_url": "https://avatars.githubusercontent.com/u/2453805?v=4",
-  "score": 7,
-  "commit_count": 7,
+  "score": 8,
+  "commit_count": 8,
   "review_count": 0,
   "repos": [
     "valkey-bundle",
-    "valkey-io.github.io"
+    "valkey-io.github.io",
+    "valkey-search"
   ],
   "commit_list": [
     {
@@ -17,6 +18,14 @@
       "repo": "valkey-io.github.io",
       "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/513",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/e15f8629e5b307d610725e9ac8dc9e121e2892ea"
+    },
+    {
+      "sha": "b9325e8331",
+      "message": "Add history entries for text indexing and search support in v1.2.0 (#909)",
+      "date": "2026-03-17",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/909",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/b9325e8331293effe8430e8588d022a5d9efd5f2"
     },
     {
       "sha": "401fb597c7",

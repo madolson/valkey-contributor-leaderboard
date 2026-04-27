@@ -2,13 +2,14 @@
   "title": "uriyage",
   "login": "uriyage",
   "avatar_url": "https://avatars.githubusercontent.com/u/78144248?v=4",
-  "score": 35,
-  "commit_count": 29,
+  "score": 36,
+  "commit_count": 30,
   "review_count": 6,
   "repos": [
     "valkey",
     "valkey-doc",
-    "valkey-io.github.io"
+    "valkey-io.github.io",
+    "valkey-search"
   ],
   "commit_list": [
     {
@@ -26,6 +27,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/2615",
       "commit_url": "https://github.com/valkey-io/valkey/commit/80bbbcf6fe321b513b95d68c15d270de4f18edf6"
+    },
+    {
+      "sha": "7cbef1e01b",
+      "message": "fix memory leak at config get (#388)",
+      "date": "2025-09-17",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/388",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7cbef1e01b7214fdbf5d3cf26197e3d757618f68"
     },
     {
       "sha": "fd8270a0aa",

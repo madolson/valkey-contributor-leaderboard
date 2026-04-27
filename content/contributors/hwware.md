@@ -2,12 +2,13 @@
   "title": "hwware",
   "login": "hwware",
   "avatar_url": "https://avatars.githubusercontent.com/u/51993843?v=4",
-  "score": 160,
-  "commit_count": 48,
+  "score": 164,
+  "commit_count": 52,
   "review_count": 112,
   "repos": [
     "valkey",
-    "valkey-doc"
+    "valkey-doc",
+    "valkey-search"
   ],
   "commit_list": [
     {
@@ -17,6 +18,38 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/308",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/3ea80bf55789ad23e2261cedfc514c6a10fc6483"
+    },
+    {
+      "sha": "1b26dd10b0",
+      "message": "Update Vector HNSW output field format (#312)",
+      "date": "2025-08-23",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/312",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1b26dd10b0f33a47620ad046d3de47dbff24252e"
+    },
+    {
+      "sha": "61499555df",
+      "message": "Update 3 fields returned type of FT.INFO (#323)",
+      "date": "2025-08-18",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/323",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/61499555df416f0278ada37d79816723980c18e3"
+    },
+    {
+      "sha": "a90471352f",
+      "message": "Update 3 fields returned type of FT.INFO (#319)",
+      "date": "2025-08-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/319",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a90471352ffe202d6f0ab1b9a915e824800e831c"
+    },
+    {
+      "sha": "7b759eb68e",
+      "message": "Add gc_stats, cursor_stats, dialect_stats, Index Errors field part for FT.INFO returned fields (#290)",
+      "date": "2025-08-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/290",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7b759eb68e6cde9bac458e4302559838a943b021"
     },
     {
       "sha": "06a281ee87",
