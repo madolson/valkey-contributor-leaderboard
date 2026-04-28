@@ -2,13 +2,21 @@
   "title": "charsyam",
   "login": "charsyam",
   "avatar_url": "https://avatars.githubusercontent.com/u/439301?v=4",
-  "score": 6,
-  "commit_count": 6,
+  "score": 7,
+  "commit_count": 7,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "bb88665578",
+      "message": "hashtable: fix dismissHashtable madvise size (#3533)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3533",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bb88665578b8da8ef94e9b17d32859c25b09688d"
+    },
     {
       "sha": "9709843446",
       "message": "Optimize HGETDEL to pause auto shrink when deleting multiple items (#3535)",

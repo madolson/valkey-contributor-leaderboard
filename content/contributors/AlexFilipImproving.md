@@ -2,8 +2,8 @@
   "title": "AlexFilipImproving",
   "login": "AlexFilipImproving",
   "avatar_url": "https://avatars.githubusercontent.com/u/104015771?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey-doc",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "7c217d43c9",
+      "message": "Refactor FT.AGGREGATE reducers to process records in batch (#816)",
+      "date": "2026-04-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/816",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7c217d43c95d91d4e335dfb440d452bec382e2fe"
+    },
     {
       "sha": "9b29188d02",
       "message": "Feature/sortby implementation (#618)",

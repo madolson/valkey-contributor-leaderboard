@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1111,
+  "score": 1112,
   "commit_count": 148,
-  "review_count": 963,
+  "review_count": 964,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1199,6 +1199,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ac9ca9de3d",
+      "message": "Fix rdmaServer leaks when create listen cm id error (#3557)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3557",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ac9ca9de3d1feff4a40358935b0f2e2acdcdc789"
+    },
     {
       "sha": "c403eecd5b",
       "message": "Fix double free in stream consumer PEL loading with corrupt RDB data (#3498)",

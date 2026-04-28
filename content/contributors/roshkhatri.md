@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 317,
+  "score": 318,
   "commit_count": 129,
-  "review_count": 188,
+  "review_count": 189,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1053,6 +1053,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "edc0d26ada",
+      "message": "Strip LTO flags from static Lua module build (#3555)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3555",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/edc0d26ada082b34cd693fe862a5e2005dd66dd7"
+    },
     {
       "sha": "daf0f985da",
       "message": "Clone specific bloom version for tests instead of unstable (#107)",

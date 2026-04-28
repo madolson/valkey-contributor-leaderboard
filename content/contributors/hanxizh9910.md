@@ -2,8 +2,8 @@
   "title": "hanxizh9910",
   "login": "hanxizh9910",
   "avatar_url": "https://avatars.githubusercontent.com/u/220982061?v=4",
-  "score": 34,
-  "commit_count": 32,
+  "score": 35,
+  "commit_count": 33,
   "review_count": 2,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "edc0d26ada",
+      "message": "Strip LTO flags from static Lua module build (#3555)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3555",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/edc0d26ada082b34cd693fe862a5e2005dd66dd7"
+    },
     {
       "sha": "7db5b70737",
       "message": "Pin clang to version 17 in sanitizer CI jobs (#3546)",

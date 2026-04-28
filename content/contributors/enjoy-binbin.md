@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 805,
-  "commit_count": 313,
-  "review_count": 492,
+  "score": 810,
+  "commit_count": 315,
+  "review_count": 495,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -13,6 +13,22 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "a3e44a55d3",
+      "message": "Fix lua-enable-insecure-api default value cannot be changed to yes (#3548)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3548",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a3e44a55d3da5bc590b5ee596f195e56f187f70e"
+    },
+    {
+      "sha": "ac9ca9de3d",
+      "message": "Fix rdmaServer leaks when create listen cm id error (#3557)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3557",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ac9ca9de3d1feff4a40358935b0f2e2acdcdc789"
+    },
     {
       "sha": "c403eecd5b",
       "message": "Fix double free in stream consumer PEL loading with corrupt RDB data (#3498)",
@@ -2519,6 +2535,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6dbb7f81a9",
+      "message": "Fix remove cached eval scripts on engine unregister (#3503)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3503",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6dbb7f81a97f7d687cf7fcc88bdcbe78bf6cf170"
+    },
+    {
+      "sha": "28ecbd204f",
+      "message": "Ensure client slot migration pointer is cleared during reset (#3554)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3554",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/28ecbd204fceec9f0bf1aa1b2d791b0f7e9fc7e5"
+    },
+    {
+      "sha": "ff80b2d1dc",
+      "message": "Migrate the remaining cluster tests to the new framework and remove legacy files (#2297) (#3382)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3382",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ff80b2d1dc7c7858e938ece683d5c3fcb8c9ed31"
+    },
     {
       "sha": "7a480bb96c",
       "message": "adds Leadership page with TSC (#510)",

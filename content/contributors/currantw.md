@@ -2,16 +2,42 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 145,
-  "commit_count": 88,
+  "score": 148,
+  "commit_count": 91,
   "review_count": 57,
   "repos": [
+    "valkey-doc",
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-docs",
-    "valkey-glide-php"
+    "valkey-glide-php",
+    "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "213e715b41",
+      "message": "feat: Add automated compilation validation for C# code examples (#350)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/350",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/213e715b417e4537d68793f942cefd6508fc7d9c"
+    },
+    {
+      "sha": "194abd5e24",
+      "message": "Add C# Valkey GLIDE client definition and fix GLIDE website links (#430)",
+      "date": "2026-04-25",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/430",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/194abd5e24fd136bc7ab34d593bc9cafabf80548"
+    },
+    {
+      "sha": "bafaca2205",
+      "message": "Add Valkey GLIDE C# client to clients page (#506)",
+      "date": "2026-04-25",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/506",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/bafaca2205bd41a483931d0f7a63284515e19032"
+    },
     {
       "sha": "53b84ab614",
       "message": "chore: Clean up deny.toml (#5820)",
@@ -718,6 +744,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5d6a05a356",
+      "message": "chore(deps): bump actions/github-script from 8 to 9 (#351)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/351",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5d6a05a35698eba8aa2f3e22aa7ca7033de4bba9"
+    },
     {
       "sha": "d6f1f82693",
       "message": "Update ORT workflow to use `peter-evans/create-pull-request` (#327)",

@@ -2,8 +2,8 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 94,
-  "commit_count": 40,
+  "score": 95,
+  "commit_count": 41,
   "review_count": 54,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "28ecbd204f",
+      "message": "Ensure client slot migration pointer is cleared during reset (#3554)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3554",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/28ecbd204fceec9f0bf1aa1b2d791b0f7e9fc7e5"
+    },
     {
       "sha": "059a77c429",
       "message": "Add design-docs folder and README. (#3300)",

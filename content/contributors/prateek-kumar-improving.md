@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 286,
-  "commit_count": 102,
-  "review_count": 184,
+  "score": 290,
+  "commit_count": 103,
+  "review_count": 187,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "2be3e27b16",
+      "message": "docs: update modules documentation (#198)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/198",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/2be3e27b162b760b1654a5907f5e4466fc63b734"
+    },
     {
       "sha": "212197e1d9",
       "message": "PHP: Add JSON commands (#185)",
@@ -830,6 +838,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "97611f873b",
+      "message": "Add Support for Compression in Java batch commands and add max compression size (#5823)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5823",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97611f873bb97272314f153b61aec28c6db6c0bc"
+    },
+    {
+      "sha": "60c08c35cb",
+      "message": "Fix error log credentials potentially leaking sensitive information (#5822)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5822",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/60c08c35cb02ba8ce36968d550e05c4c3b9538bf"
+    },
+    {
+      "sha": "003710a8e7",
+      "message": "Add client-side caching documentation (#199)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/199",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/003710a8e78f4622437da492e1fabda4fd07b228"
+    },
     {
       "sha": "4d96e82798",
       "message": "Node: Client-Side Caching Support (#5720)",

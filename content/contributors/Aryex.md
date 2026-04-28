@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 73,
+  "score": 77,
   "commit_count": 29,
-  "review_count": 44,
+  "review_count": 48,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -246,6 +246,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "69d13e3168",
+      "message": "Replace Mutex with RwLock for improved read concurrency (#5838)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5838",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/69d13e316849d3209ffabae7834bcc5c96115e0e"
+    },
+    {
+      "sha": "003710a8e7",
+      "message": "Add client-side caching documentation (#199)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/199",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/003710a8e78f4622437da492e1fabda4fd07b228"
+    },
+    {
+      "sha": "2be3e27b16",
+      "message": "docs: update modules documentation (#198)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/198",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/2be3e27b162b760b1654a5907f5e4466fc63b734"
+    },
+    {
+      "sha": "194abd5e24",
+      "message": "Add C# Valkey GLIDE client definition and fix GLIDE website links (#430)",
+      "date": "2026-04-25",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/430",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/194abd5e24fd136bc7ab34d593bc9cafabf80548"
+    },
     {
       "sha": "6536eb8ed5",
       "message": "fix(java): populate actual lib-ver instead of unknown (#5741)",

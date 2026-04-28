@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 703,
+  "score": 707,
   "commit_count": 45,
-  "review_count": 658,
+  "review_count": 662,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bf74288bfa",
+      "message": "Add debug-mode safety guards for FFI stack response and arena allocator (#5837)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5837",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bf74288bfa51c02b67904e43b1e20be61a29a09b"
+    },
+    {
+      "sha": "97611f873b",
+      "message": "Add Support for Compression in Java batch commands and add max compression size (#5823)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5823",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97611f873bb97272314f153b61aec28c6db6c0bc"
+    },
+    {
+      "sha": "69d13e3168",
+      "message": "Replace Mutex with RwLock for improved read concurrency (#5838)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5838",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/69d13e316849d3209ffabae7834bcc5c96115e0e"
+    },
+    {
+      "sha": "194abd5e24",
+      "message": "Add C# Valkey GLIDE client definition and fix GLIDE website links (#430)",
+      "date": "2026-04-25",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/430",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/194abd5e24fd136bc7ab34d593bc9cafabf80548"
+    },
     {
       "sha": "7feb966502",
       "message": "Update Compression Supported Commands and Block Unsupported Commands (#5771)",

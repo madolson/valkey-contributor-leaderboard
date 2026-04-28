@@ -2,14 +2,22 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 199,
-  "commit_count": 47,
-  "review_count": 152,
+  "score": 201,
+  "commit_count": 48,
+  "review_count": 153,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "60c08c35cb",
+      "message": "Fix error log credentials potentially leaking sensitive information (#5822)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5822",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/60c08c35cb02ba8ce36968d550e05c4c3b9538bf"
+    },
     {
       "sha": "d6f1f82693",
       "message": "Update ORT workflow to use `peter-evans/create-pull-request` (#327)",
@@ -388,6 +396,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a27bb7ea9b",
+      "message": "Forward-port to main: diagnostic logging (#5756, #5791) (#5819)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5819",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a27bb7ea9ba836ad5559cb926f0e443d48d853f4"
+    },
     {
       "sha": "4d96e82798",
       "message": "Node: Client-Side Caching Support (#5720)",

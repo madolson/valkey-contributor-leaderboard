@@ -2,8 +2,8 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 54,
-  "commit_count": 37,
+  "score": 55,
+  "commit_count": 38,
   "review_count": 17,
   "repos": [
     "valkey-bloom",
@@ -14,6 +14,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "c6c1558fe0",
+      "message": "Moving metric increment to very end of decode (#93)",
+      "date": "2026-04-26",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/93",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/c6c1558fe045cfd291a032da075fd087a995b9a3"
+    },
     {
       "sha": "fc06556484",
       "message": "Adding validation on tightening_ratio and fp_rate for load (#91)",

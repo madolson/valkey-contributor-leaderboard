@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 201,
+  "score": 202,
   "commit_count": 64,
-  "review_count": 137,
+  "review_count": 138,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -524,6 +524,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "60c08c35cb",
+      "message": "Fix error log credentials potentially leaking sensitive information (#5822)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5822",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/60c08c35cb02ba8ce36968d550e05c4c3b9538bf"
+    },
     {
       "sha": "4d96e82798",
       "message": "Node: Client-Side Caching Support (#5720)",

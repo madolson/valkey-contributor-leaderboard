@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 75,
+  "score": 77,
   "commit_count": 21,
-  "review_count": 54,
+  "review_count": 56,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -182,6 +182,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6dbb7f81a9",
+      "message": "Fix remove cached eval scripts on engine unregister (#3503)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3503",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6dbb7f81a97f7d687cf7fcc88bdcbe78bf6cf170"
+    },
+    {
+      "sha": "c861184762",
+      "message": "Implement Provenance Guard (#3109)",
+      "date": "2026-04-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3109",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c86118476267c1b36b7e0fc49bc85fd493e9a5fc"
+    },
     {
       "sha": "04896c1e6d",
       "message": "Deflake many-slot-migration under valgrind (#3462)",

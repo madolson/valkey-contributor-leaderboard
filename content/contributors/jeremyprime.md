@@ -2,14 +2,22 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 110,
-  "commit_count": 27,
+  "score": 111,
+  "commit_count": 28,
   "review_count": 83,
   "repos": [
     "spring-data-valkey",
     "valkey-glide"
   ],
   "commit_list": [
+    {
+      "sha": "a27bb7ea9b",
+      "message": "Forward-port to main: diagnostic logging (#5756, #5791) (#5819)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5819",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a27bb7ea9ba836ad5559cb926f0e443d48d853f4"
+    },
     {
       "sha": "7b643fb67d",
       "message": "Add pipeline send timeout and fail pending requests during recovery (#5755)",

@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 103,
-  "commit_count": 54,
-  "review_count": 49,
+  "score": 108,
+  "commit_count": 57,
+  "review_count": 51,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,30 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "c07a96576f",
+      "message": "Python: Client-Side Caching Support (#5826)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5826",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c07a96576f9e82bf5039efe9c523f6f74c230ab1"
+    },
+    {
+      "sha": "69d13e3168",
+      "message": "Replace Mutex with RwLock for improved read concurrency (#5838)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5838",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/69d13e316849d3209ffabae7834bcc5c96115e0e"
+    },
+    {
+      "sha": "003710a8e7",
+      "message": "Add client-side caching documentation (#199)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/199",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/003710a8e78f4622437da492e1fabda4fd07b228"
+    },
     {
       "sha": "4d96e82798",
       "message": "Node: Client-Side Caching Support (#5720)",
@@ -446,6 +470,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "213e715b41",
+      "message": "feat: Add automated compilation validation for C# code examples (#350)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/350",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/213e715b417e4537d68793f942cefd6508fc7d9c"
+    },
+    {
+      "sha": "2be3e27b16",
+      "message": "docs: update modules documentation (#198)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/198",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/2be3e27b162b760b1654a5907f5e4466fc63b734"
+    },
     {
       "sha": "f9205bbb3a",
       "message": "CI: Add Modules Testing (#173)",

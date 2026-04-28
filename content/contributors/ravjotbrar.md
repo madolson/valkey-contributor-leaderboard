@@ -2,13 +2,29 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 124,
-  "commit_count": 71,
+  "score": 126,
+  "commit_count": 73,
   "review_count": 53,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "8d927f6f50",
+      "message": "Update NOTICES to be compliant for distribution (#314)",
+      "date": "2026-04-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/314",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/8d927f6f5011169a0e66a9d21394610042f9aa06"
+    },
+    {
+      "sha": "3af754b1b8",
+      "message": "Update documentation (#311)",
+      "date": "2026-04-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/311",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/3af754b1b835e6b7a6fac54c194d233fe01989c2"
+    },
     {
       "sha": "abfc257e65",
       "message": "Update dashboard data (#309)",

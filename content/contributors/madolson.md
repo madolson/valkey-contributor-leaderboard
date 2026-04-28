@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 803,
+  "score": 810,
   "commit_count": 169,
-  "review_count": 634,
+  "review_count": 641,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1369,6 +1369,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "28ecbd204f",
+      "message": "Ensure client slot migration pointer is cleared during reset (#3554)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3554",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/28ecbd204fceec9f0bf1aa1b2d791b0f7e9fc7e5"
+    },
+    {
+      "sha": "a3e44a55d3",
+      "message": "Fix lua-enable-insecure-api default value cannot be changed to yes (#3548)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3548",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a3e44a55d3da5bc590b5ee596f195e56f187f70e"
+    },
+    {
+      "sha": "bb88665578",
+      "message": "hashtable: fix dismissHashtable madvise size (#3533)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3533",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bb88665578b8da8ef94e9b17d32859c25b09688d"
+    },
+    {
+      "sha": "edc0d26ada",
+      "message": "Strip LTO flags from static Lua module build (#3555)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3555",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/edc0d26ada082b34cd693fe862a5e2005dd66dd7"
+    },
+    {
+      "sha": "c861184762",
+      "message": "Implement Provenance Guard (#3109)",
+      "date": "2026-04-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3109",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c86118476267c1b36b7e0fc49bc85fd493e9a5fc"
+    },
+    {
+      "sha": "194abd5e24",
+      "message": "Add C# Valkey GLIDE client definition and fix GLIDE website links (#430)",
+      "date": "2026-04-25",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/430",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/194abd5e24fd136bc7ab34d593bc9cafabf80548"
+    },
+    {
+      "sha": "bafaca2205",
+      "message": "Add Valkey GLIDE C# client to clients page (#506)",
+      "date": "2026-04-25",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/506",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/bafaca2205bd41a483931d0f7a63284515e19032"
+    },
     {
       "sha": "7a480bb96c",
       "message": "adds Leadership page with TSC (#510)",

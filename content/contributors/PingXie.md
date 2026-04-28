@@ -2,8 +2,8 @@
   "title": "PingXie",
   "login": "PingXie",
   "avatar_url": "https://avatars.githubusercontent.com/u/11568491?v=4",
-  "score": 198,
-  "commit_count": 7,
+  "score": 199,
+  "commit_count": 8,
   "review_count": 191,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "c861184762",
+      "message": "Implement Provenance Guard (#3109)",
+      "date": "2026-04-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3109",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c86118476267c1b36b7e0fc49bc85fd493e9a5fc"
+    },
     {
       "sha": "62c303fd54",
       "message": "Add copilot review instructions (#3076)",

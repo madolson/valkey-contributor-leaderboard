@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 59,
+  "score": 60,
   "commit_count": 43,
-  "review_count": 16,
+  "review_count": 17,
   "repos": [
     "valkey-admin"
   ],
@@ -355,6 +355,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3af754b1b8",
+      "message": "Update documentation (#311)",
+      "date": "2026-04-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/311",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/3af754b1b835e6b7a6fac54c194d233fe01989c2"
+    },
     {
       "sha": "abcfeb7c94",
       "message": "Add Docker build and publish workflow (#293)",

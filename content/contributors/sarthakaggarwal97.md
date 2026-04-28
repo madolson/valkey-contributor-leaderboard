@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 263,
+  "score": 265,
   "commit_count": 81,
-  "review_count": 182,
+  "review_count": 184,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -662,6 +662,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "28ecbd204f",
+      "message": "Ensure client slot migration pointer is cleared during reset (#3554)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3554",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/28ecbd204fceec9f0bf1aa1b2d791b0f7e9fc7e5"
+    },
+    {
+      "sha": "ff80b2d1dc",
+      "message": "Migrate the remaining cluster tests to the new framework and remove legacy files (#2297) (#3382)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3382",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ff80b2d1dc7c7858e938ece683d5c3fcb8c9ed31"
+    },
     {
       "sha": "7db5b70737",
       "message": "Pin clang to version 17 in sanitizer CI jobs (#3546)",

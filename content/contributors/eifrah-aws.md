@@ -2,8 +2,8 @@
   "title": "eifrah-aws",
   "login": "eifrah-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/170855270?v=4",
-  "score": 206,
-  "commit_count": 87,
+  "score": 207,
+  "commit_count": 88,
   "review_count": 119,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "6dbb7f81a9",
+      "message": "Fix remove cached eval scripts on engine unregister (#3503)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3503",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6dbb7f81a97f7d687cf7fcc88bdcbe78bf6cf170"
+    },
     {
       "sha": "0327c27131",
       "message": "Add Static Module Support (#3392)",

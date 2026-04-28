@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 100,
-  "commit_count": 86,
+  "score": 101,
+  "commit_count": 87,
   "review_count": 14,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "7397f71e44",
+      "message": "improve the connection ui and fix discovery bug (#313)",
+      "date": "2026-04-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/313",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/7397f71e4441ab837b15199a9d5b6677ca6868c8"
+    },
     {
       "sha": "4802b4145a",
       "message": "Merge pull request #308 from valkey-io/address-ui-ux-issues",

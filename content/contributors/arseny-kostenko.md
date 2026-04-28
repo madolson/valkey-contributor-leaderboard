@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 173,
+  "score": 175,
   "commit_count": 16,
-  "review_count": 157,
+  "review_count": 159,
   "repos": [
     "valkey-admin"
   ],
@@ -139,6 +139,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7397f71e44",
+      "message": "improve the connection ui and fix discovery bug (#313)",
+      "date": "2026-04-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/313",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/7397f71e4441ab837b15199a9d5b6677ca6868c8"
+    },
+    {
+      "sha": "8d927f6f50",
+      "message": "Update NOTICES to be compliant for distribution (#314)",
+      "date": "2026-04-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/314",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/8d927f6f5011169a0e66a9d21394610042f9aa06"
+    },
     {
       "sha": "4802b4145a",
       "message": "Merge pull request #308 from valkey-io/address-ui-ux-issues",

@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 219,
+  "score": 220,
   "commit_count": 48,
-  "review_count": 171,
+  "review_count": 172,
   "repos": [
     "valkey",
     "valkey-json",
@@ -397,6 +397,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7c217d43c9",
+      "message": "Refactor FT.AGGREGATE reducers to process records in batch (#816)",
+      "date": "2026-04-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/816",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7c217d43c95d91d4e335dfb440d452bec382e2fe"
+    },
     {
       "sha": "b69c73a3f3",
       "message": "Update search_number_of_indexes while restoring (#974)",

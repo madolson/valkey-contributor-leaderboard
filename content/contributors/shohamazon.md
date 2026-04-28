@@ -2,13 +2,21 @@
   "title": "shohamazon",
   "login": "shohamazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/116083498?v=4",
-  "score": 312,
-  "commit_count": 132,
+  "score": 313,
+  "commit_count": 133,
   "review_count": 180,
   "repos": [
     "valkey-glide"
   ],
   "commit_list": [
+    {
+      "sha": "970fdbe071",
+      "message": "Core: trigger topology refresh on ConnectionNotFoundForRoute in fanout operations (#5812)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5812",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/970fdbe0710e8570dc55c588463ffd968f4ba424"
+    },
     {
       "sha": "a931079f49",
       "message": "Core/Python: add initial client-side-caching support (#5127)",

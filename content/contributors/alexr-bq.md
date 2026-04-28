@@ -2,15 +2,23 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 126,
-  "commit_count": 33,
-  "review_count": 93,
+  "score": 131,
+  "commit_count": 34,
+  "review_count": 97,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "97611f873b",
+      "message": "Add Support for Compression in Java batch commands and add max compression size (#5823)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5823",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97611f873bb97272314f153b61aec28c6db6c0bc"
+    },
     {
       "sha": "7feb966502",
       "message": "Update Compression Supported Commands and Block Unsupported Commands (#5771)",
@@ -277,6 +285,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bf74288bfa",
+      "message": "Add debug-mode safety guards for FFI stack response and arena allocator (#5837)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5837",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bf74288bfa51c02b67904e43b1e20be61a29a09b"
+    },
+    {
+      "sha": "c07a96576f",
+      "message": "Python: Client-Side Caching Support (#5826)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5826",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c07a96576f9e82bf5039efe9c523f6f74c230ab1"
+    },
+    {
+      "sha": "69d13e3168",
+      "message": "Replace Mutex with RwLock for improved read concurrency (#5838)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5838",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/69d13e316849d3209ffabae7834bcc5c96115e0e"
+    },
+    {
+      "sha": "213e715b41",
+      "message": "feat: Add automated compilation validation for C# code examples (#350)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/350",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/213e715b417e4537d68793f942cefd6508fc7d9c"
+    },
+    {
+      "sha": "5d6a05a356",
+      "message": "chore(deps): bump actions/github-script from 8 to 9 (#351)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/351",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5d6a05a35698eba8aa2f3e22aa7ca7033de4bba9"
+    },
     {
       "sha": "4d96e82798",
       "message": "Node: Client-Side Caching Support (#5720)",

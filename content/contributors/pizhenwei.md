@@ -2,9 +2,9 @@
   "title": "pizhenwei",
   "login": "pizhenwei",
   "avatar_url": "https://avatars.githubusercontent.com/u/5586500?v=4",
-  "score": 39,
+  "score": 40,
   "commit_count": 32,
-  "review_count": 7,
+  "review_count": 8,
   "repos": [
     "libvalkey",
     "valkey",
@@ -269,6 +269,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ac9ca9de3d",
+      "message": "Fix rdmaServer leaks when create listen cm id error (#3557)",
+      "date": "2026-04-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3557",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ac9ca9de3d1feff4a40358935b0f2e2acdcdc789"
+    },
     {
       "sha": "42fc851b76",
       "message": "Fix pointer-to-int-cast warnings for RDMA address handling (#3186)",

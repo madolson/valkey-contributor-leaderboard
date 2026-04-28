@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 237,
+  "score": 238,
   "commit_count": 86,
-  "review_count": 151,
+  "review_count": 152,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -705,6 +705,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c6c1558fe0",
+      "message": "Moving metric increment to very end of decode (#93)",
+      "date": "2026-04-26",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/93",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/c6c1558fe045cfd291a032da075fd087a995b9a3"
+    },
     {
       "sha": "fc06556484",
       "message": "Adding validation on tightening_ratio and fp_rate for load (#91)",

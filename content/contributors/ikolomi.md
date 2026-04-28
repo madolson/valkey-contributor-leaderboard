@@ -2,9 +2,9 @@
   "title": "ikolomi",
   "login": "ikolomi",
   "avatar_url": "https://avatars.githubusercontent.com/u/152477505?v=4",
-  "score": 172,
+  "score": 173,
   "commit_count": 41,
-  "review_count": 131,
+  "review_count": 132,
   "repos": [
     "spring-data-valkey",
     "valkey-glide"
@@ -340,6 +340,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "970fdbe071",
+      "message": "Core: trigger topology refresh on ConnectionNotFoundForRoute in fanout operations (#5812)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5812",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/970fdbe0710e8570dc55c588463ffd968f4ba424"
+    },
     {
       "sha": "a931079f49",
       "message": "Core/Python: add initial client-side-caching support (#5127)",

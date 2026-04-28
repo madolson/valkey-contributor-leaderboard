@@ -2,15 +2,23 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 202,
-  "commit_count": 46,
-  "review_count": 156,
+  "score": 206,
+  "commit_count": 47,
+  "review_count": 159,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "bf74288bfa",
+      "message": "Add debug-mode safety guards for FFI stack response and arena allocator (#5837)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5837",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bf74288bfa51c02b67904e43b1e20be61a29a09b"
+    },
     {
       "sha": "246247b12d",
       "message": "perf: Reduce per-request GC allocation overhead (#310)",
@@ -381,6 +389,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "97611f873b",
+      "message": "Add Support for Compression in Java batch commands and add max compression size (#5823)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5823",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97611f873bb97272314f153b61aec28c6db6c0bc"
+    },
+    {
+      "sha": "c07a96576f",
+      "message": "Python: Client-Side Caching Support (#5826)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5826",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c07a96576f9e82bf5039efe9c523f6f74c230ab1"
+    },
+    {
+      "sha": "a27bb7ea9b",
+      "message": "Forward-port to main: diagnostic logging (#5756, #5791) (#5819)",
+      "date": "2026-04-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5819",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a27bb7ea9ba836ad5559cb926f0e443d48d853f4"
+    },
     {
       "sha": "a5017885dd",
       "message": "Add replica discovery and static mode for standalone servers (#5724)",
