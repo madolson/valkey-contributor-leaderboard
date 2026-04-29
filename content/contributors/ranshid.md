@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 259,
+  "score": 260,
   "commit_count": 84,
-  "review_count": 175,
+  "review_count": 176,
   "repos": [
     "valkey",
     "valkey-container",
@@ -688,6 +688,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8091c6c10a",
+      "message": "Remove redundant count division in genericHgetallCommand (#3573)",
+      "date": "2026-04-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3573",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8091c6c10a3bd80fcb639a036dde882580f61fcb"
+    },
     {
       "sha": "0327c27131",
       "message": "Add Static Module Support (#3392)",

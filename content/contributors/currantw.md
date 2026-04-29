@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 148,
-  "commit_count": 91,
-  "review_count": 57,
+  "score": 150,
+  "commit_count": 92,
+  "review_count": 58,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "f43dcdb94f",
+      "message": "refactor: Split check_examples.py into extraction, validation, and orchestration scripts (#354)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/354",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/f43dcdb94f3d539c6f82650adfb736e656fb8ace"
+    },
     {
       "sha": "213e715b41",
       "message": "feat: Add automated compilation validation for C# code examples (#350)",
@@ -744,6 +752,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8908fc7155",
+      "message": "Update Compression Support in C# (#348)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/348",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8908fc71553d251529cdb92b67059e186df63828"
+    },
     {
       "sha": "5d6a05a356",
       "message": "chore(deps): bump actions/github-script from 8 to 9 (#351)",

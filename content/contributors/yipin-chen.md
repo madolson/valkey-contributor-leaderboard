@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 707,
+  "score": 708,
   "commit_count": 45,
-  "review_count": 662,
+  "review_count": 663,
   "repos": [
     "valkey-glide"
   ],
@@ -386,6 +386,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5823",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97611f873bb97272314f153b61aec28c6db6c0bc"
+    },
+    {
+      "sha": "073ed4f639",
+      "message": "Updated Compression Support (#186)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/186",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/073ed4f639bf737dbe9ac8186965c28fa7218370"
     },
     {
       "sha": "69d13e3168",

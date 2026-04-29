@@ -2,9 +2,9 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 228,
+  "score": 229,
   "commit_count": 90,
-  "review_count": 138,
+  "review_count": 139,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -743,6 +743,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bef46dacc1",
+      "message": "Skip cluster resharding test under valgrind (#3574)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3574",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bef46dacc1a4ffbd1c983d75b1a5eee00982fd6c"
+    },
     {
       "sha": "7db5b70737",
       "message": "Pin clang to version 17 in sanitizer CI jobs (#3546)",

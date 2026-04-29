@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 810,
-  "commit_count": 169,
-  "review_count": 641,
+  "score": 814,
+  "commit_count": 171,
+  "review_count": 643,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -15,6 +15,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "4e27dc5548",
+      "message": "Update versions.json and Dockerfiles for version 9.1.0-rc2 (#138)",
+      "date": "2026-04-28",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/138",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/4e27dc5548301be02d2ad29c720d5117f3a7e4e3"
+    },
+    {
+      "sha": "e54a7de1bf",
+      "message": "Update website for version 9.1.0-rc2 (#530)",
+      "date": "2026-04-28",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/530",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/e54a7de1bf70cd4ae03127b846322d2de8afb6df"
+    },
     {
       "sha": "651c40a89e",
       "message": "Fix FD leak in connSocketBlockingConnect on timeout (#3541)",
@@ -1369,6 +1385,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "16ed690fec",
+      "message": "fix LTO compilation warning in eval (#3584)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3584",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/16ed690fec06ddfb32f3da863e1201cc5cc9c9d6"
+    },
+    {
+      "sha": "0ae4a48bdd",
+      "message": "Adds blog post about release candidates (#489)",
+      "date": "2026-04-28",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/489",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/0ae4a48bdd93255971db5550da2dfc08a0335e2f"
+    },
     {
       "sha": "28ecbd204f",
       "message": "Ensure client slot migration pointer is cleared during reset (#3554)",

@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 111,
+  "score": 112,
   "commit_count": 28,
-  "review_count": 83,
+  "review_count": 84,
   "repos": [
     "spring-data-valkey",
     "valkey-glide"
@@ -236,6 +236,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "863a8ef9bf",
+      "message": "Java: Make jedis-compatibility a pure-Java JAR with no-classifier support (#5649)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5649",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/863a8ef9bf03f9e74dc4ff55a5d94b9e9c2f2ce7"
+    },
     {
       "sha": "a5017885dd",
       "message": "Add replica discovery and static mode for standalone servers (#5724)",

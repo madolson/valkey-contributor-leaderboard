@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 265,
+  "score": 267,
   "commit_count": 81,
-  "review_count": 184,
+  "review_count": 186,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -662,6 +662,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bef46dacc1",
+      "message": "Skip cluster resharding test under valgrind (#3574)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3574",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bef46dacc1a4ffbd1c983d75b1a5eee00982fd6c"
+    },
+    {
+      "sha": "4e27dc5548",
+      "message": "Update versions.json and Dockerfiles for version 9.1.0-rc2 (#138)",
+      "date": "2026-04-28",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/138",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/4e27dc5548301be02d2ad29c720d5117f3a7e4e3"
+    },
     {
       "sha": "28ecbd204f",
       "message": "Ensure client slot migration pointer is cleared during reset (#3554)",

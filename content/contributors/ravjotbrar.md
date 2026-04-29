@@ -2,13 +2,29 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 126,
-  "commit_count": 73,
-  "review_count": 53,
+  "score": 129,
+  "commit_count": 75,
+  "review_count": 54,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "490d6108fd",
+      "message": "Expose maxCommandsPerRun and cutoffFrequency options (#322)",
+      "date": "2026-04-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/322",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/490d6108fd62b612f08e1a4eea4d6c48d3af9823"
+    },
+    {
+      "sha": "75e1c1f895",
+      "message": "Add monitoring documentation, troubleshooting, and fix hotkeys bugs (#318)",
+      "date": "2026-04-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/318",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/75e1c1f8951e3e4b262e065d3f34184da902848b"
+    },
     {
       "sha": "8d927f6f50",
       "message": "Update NOTICES to be compliant for distribution (#314)",
@@ -595,6 +611,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5095db1235",
+      "message": "Build docker images only on main (#321)",
+      "date": "2026-04-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/321",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/5095db12357e868da9c9afa88e9392436741a0bc"
+    },
     {
       "sha": "c1c2369e9c",
       "message": "Merge pull request #307 from valkey-io/fix/undefined-process",

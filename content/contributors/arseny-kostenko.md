@@ -2,13 +2,37 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 175,
-  "commit_count": 16,
-  "review_count": 159,
+  "score": 182,
+  "commit_count": 19,
+  "review_count": 163,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "c0a07452f4",
+      "message": "Build macos and linux only on main (#323)",
+      "date": "2026-04-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/323",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/c0a07452f428ddfd42a755fd09583556c1f9b06b"
+    },
+    {
+      "sha": "5095db1235",
+      "message": "Build docker images only on main (#321)",
+      "date": "2026-04-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/321",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/5095db12357e868da9c9afa88e9392436741a0bc"
+    },
+    {
+      "sha": "ff687b5d6c",
+      "message": "Fix cross-origin websocket upgrade (#320)",
+      "date": "2026-04-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/320",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/ff687b5d6cecbf9c849dcf8cc29d89e2bb1e9114"
+    },
     {
       "sha": "c41565b9b5",
       "message": "Merge pull request #292 from valkey-io/agents",
@@ -139,6 +163,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "490d6108fd",
+      "message": "Expose maxCommandsPerRun and cutoffFrequency options (#322)",
+      "date": "2026-04-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/322",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/490d6108fd62b612f08e1a4eea4d6c48d3af9823"
+    },
+    {
+      "sha": "2ac2ac5e7d",
+      "message": "Add Integration tests (#312)",
+      "date": "2026-04-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/312",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/2ac2ac5e7dd186570a145cd612be2cdc3301af63"
+    },
+    {
+      "sha": "75e1c1f895",
+      "message": "Add monitoring documentation, troubleshooting, and fix hotkeys bugs (#318)",
+      "date": "2026-04-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/318",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/75e1c1f8951e3e4b262e065d3f34184da902848b"
+    },
+    {
+      "sha": "5f705e5eff",
+      "message": "fixed the cluster and node connect button states (#319)",
+      "date": "2026-04-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/319",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/5f705e5eff0f9655e336b90eddbeb974ceb74f56"
+    },
     {
       "sha": "7397f71e44",
       "message": "improve the connection ui and fix discovery bug (#313)",

@@ -2,9 +2,9 @@
   "title": "nilanshu-sharma",
   "login": "nilanshu-sharma",
   "avatar_url": "https://avatars.githubusercontent.com/u/220134298?v=4",
-  "score": 114,
+  "score": 115,
   "commit_count": 14,
-  "review_count": 100,
+  "review_count": 101,
   "repos": [
     "valkey-swift"
   ],
@@ -123,6 +123,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c4fec4d006",
+      "message": "Update docs with code snippets (#385)",
+      "date": "2026-04-28",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/385",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/c4fec4d00639141c0ef4ca14fd8e7fa127047869"
+    },
     {
       "sha": "8d186a8602",
       "message": "Add `RESPToken.ok` (#384)",

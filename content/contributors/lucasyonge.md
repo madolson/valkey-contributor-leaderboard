@@ -2,9 +2,9 @@
   "title": "lucasyonge",
   "login": "lucasyonge",
   "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
-  "score": 5,
+  "score": 6,
   "commit_count": 3,
-  "review_count": 2,
+  "review_count": 3,
   "repos": [
     "valkey"
   ],
@@ -35,6 +35,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bef46dacc1",
+      "message": "Skip cluster resharding test under valgrind (#3574)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3574",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bef46dacc1a4ffbd1c983d75b1a5eee00982fd6c"
+    },
     {
       "sha": "ecba3e3123",
       "message": "Grammar, spelling, and punctuation fixes across the summary fields for Valkey commands. (#3309)",

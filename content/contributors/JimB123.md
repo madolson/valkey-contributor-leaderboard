@@ -2,14 +2,22 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 42,
-  "commit_count": 15,
+  "score": 43,
+  "commit_count": 16,
   "review_count": 27,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "16ed690fec",
+      "message": "fix LTO compilation warning in eval (#3584)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3584",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/16ed690fec06ddfb32f3da863e1201cc5cc9c9d6"
+    },
     {
       "sha": "1fd6d7156f",
       "message": "decouple lru/lfu from server.h (#2928)",

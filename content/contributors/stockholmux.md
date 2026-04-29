@@ -2,14 +2,22 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 108,
-  "commit_count": 12,
+  "score": 109,
+  "commit_count": 13,
   "review_count": 96,
   "repos": [
     "valkey-io.github.io",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "0ae4a48bdd",
+      "message": "Adds blog post about release candidates (#489)",
+      "date": "2026-04-28",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/489",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/0ae4a48bdd93255971db5550da2dfc08a0335e2f"
+    },
     {
       "sha": "7a480bb96c",
       "message": "adds Leadership page with TSC (#510)",

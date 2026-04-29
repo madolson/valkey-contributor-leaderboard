@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 101,
-  "commit_count": 87,
+  "score": 102,
+  "commit_count": 88,
   "review_count": 14,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "5f705e5eff",
+      "message": "fixed the cluster and node connect button states (#319)",
+      "date": "2026-04-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/319",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/5f705e5eff0f9655e336b90eddbeb974ceb74f56"
+    },
     {
       "sha": "7397f71e44",
       "message": "improve the connection ui and fix discovery bug (#313)",

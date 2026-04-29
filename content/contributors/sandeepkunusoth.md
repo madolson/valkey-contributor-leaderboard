@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 24,
+  "score": 25,
   "commit_count": 11,
-  "review_count": 13,
+  "review_count": 14,
   "repos": [
     "valkey-operator"
   ],
@@ -99,6 +99,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bc78e5cc6b",
+      "message": "fix: retry cert-manager resource apply in TLS e2e test (#153)",
+      "date": "2026-04-28",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/153",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/bc78e5cc6b1339d8bebb7633943a070f455afc35"
+    },
     {
       "sha": "e356730264",
       "message": "Update Go build (#150)",

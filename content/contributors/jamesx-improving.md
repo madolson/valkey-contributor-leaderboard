@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 202,
+  "score": 203,
   "commit_count": 64,
-  "review_count": 138,
+  "review_count": 139,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -524,6 +524,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b6b2cd69ce",
+      "message": "Enable PeriodicCheck parameter for Go Client in AdvancedClusterClient Configuration (#5839)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5839",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b6b2cd69ce0b487381dd9b9c23b14a1b72e91c46"
+    },
     {
       "sha": "60c08c35cb",
       "message": "Fix error log credentials potentially leaking sensitive information (#5822)",

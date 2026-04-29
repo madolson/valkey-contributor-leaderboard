@@ -2,8 +2,8 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 161,
-  "commit_count": 126,
+  "score": 162,
+  "commit_count": 127,
   "review_count": 35,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-swift"
   ],
   "commit_list": [
+    {
+      "sha": "c4fec4d006",
+      "message": "Update docs with code snippets (#385)",
+      "date": "2026-04-28",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/385",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/c4fec4d00639141c0ef4ca14fd8e7fa127047869"
+    },
     {
       "sha": "8d186a8602",
       "message": "Add `RESPToken.ok` (#384)",

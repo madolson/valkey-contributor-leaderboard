@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 108,
-  "commit_count": 57,
+  "score": 109,
+  "commit_count": 58,
   "review_count": 51,
   "repos": [
     "valkey-glide",
@@ -19,6 +19,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5826",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c07a96576f9e82bf5039efe9c523f6f74c230ab1"
+    },
+    {
+      "sha": "863a8ef9bf",
+      "message": "Java: Make jedis-compatibility a pure-Java JAR with no-classifier support (#5649)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5649",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/863a8ef9bf03f9e74dc4ff55a5d94b9e9c2f2ce7"
     },
     {
       "sha": "69d13e3168",

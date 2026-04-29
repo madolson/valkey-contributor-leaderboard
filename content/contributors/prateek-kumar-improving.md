@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 290,
+  "score": 292,
   "commit_count": 103,
-  "review_count": 187,
+  "review_count": 189,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -845,6 +845,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5823",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97611f873bb97272314f153b61aec28c6db6c0bc"
+    },
+    {
+      "sha": "8908fc7155",
+      "message": "Update Compression Support in C# (#348)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/348",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8908fc71553d251529cdb92b67059e186df63828"
+    },
+    {
+      "sha": "073ed4f639",
+      "message": "Updated Compression Support (#186)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/186",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/073ed4f639bf737dbe9ac8186965c28fa7218370"
     },
     {
       "sha": "60c08c35cb",

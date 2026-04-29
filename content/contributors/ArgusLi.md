@@ -2,13 +2,21 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 60,
-  "commit_count": 43,
-  "review_count": 17,
+  "score": 63,
+  "commit_count": 44,
+  "review_count": 19,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "2ac2ac5e7d",
+      "message": "Add Integration tests (#312)",
+      "date": "2026-04-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/312",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/2ac2ac5e7dd186570a145cd612be2cdc3301af63"
+    },
     {
       "sha": "c1c2369e9c",
       "message": "Merge pull request #307 from valkey-io/fix/undefined-process",
@@ -355,6 +363,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c0a07452f4",
+      "message": "Build macos and linux only on main (#323)",
+      "date": "2026-04-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/323",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/c0a07452f428ddfd42a755fd09583556c1f9b06b"
+    },
+    {
+      "sha": "ff687b5d6c",
+      "message": "Fix cross-origin websocket upgrade (#320)",
+      "date": "2026-04-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/320",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/ff687b5d6cecbf9c849dcf8cc29d89e2bb1e9114"
+    },
     {
       "sha": "3af754b1b8",
       "message": "Update documentation (#311)",

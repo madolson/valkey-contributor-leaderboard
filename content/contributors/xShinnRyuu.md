@@ -2,14 +2,22 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 201,
-  "commit_count": 48,
-  "review_count": 153,
+  "score": 203,
+  "commit_count": 49,
+  "review_count": 154,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "b6b2cd69ce",
+      "message": "Enable PeriodicCheck parameter for Go Client in AdvancedClusterClient Configuration (#5839)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5839",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b6b2cd69ce0b487381dd9b9c23b14a1b72e91c46"
+    },
     {
       "sha": "60c08c35cb",
       "message": "Fix error log credentials potentially leaking sensitive information (#5822)",
@@ -396,6 +404,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f43dcdb94f",
+      "message": "refactor: Split check_examples.py into extraction, validation, and orchestration scripts (#354)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/354",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/f43dcdb94f3d539c6f82650adfb736e656fb8ace"
+    },
     {
       "sha": "a27bb7ea9b",
       "message": "Forward-port to main: diagnostic logging (#5756, #5791) (#5819)",

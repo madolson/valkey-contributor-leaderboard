@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 77,
+  "score": 78,
   "commit_count": 29,
-  "review_count": 48,
+  "review_count": 49,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -246,6 +246,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f43dcdb94f",
+      "message": "refactor: Split check_examples.py into extraction, validation, and orchestration scripts (#354)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/354",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/f43dcdb94f3d539c6f82650adfb736e656fb8ace"
+    },
     {
       "sha": "69d13e3168",
       "message": "Replace Mutex with RwLock for improved read concurrency (#5838)",

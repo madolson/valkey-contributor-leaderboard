@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 206,
+  "score": 208,
   "commit_count": 47,
-  "review_count": 159,
+  "review_count": 161,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -404,6 +404,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5826",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c07a96576f9e82bf5039efe9c523f6f74c230ab1"
+    },
+    {
+      "sha": "863a8ef9bf",
+      "message": "Java: Make jedis-compatibility a pure-Java JAR with no-classifier support (#5649)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5649",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/863a8ef9bf03f9e74dc4ff55a5d94b9e9c2f2ce7"
+    },
+    {
+      "sha": "b6b2cd69ce",
+      "message": "Enable PeriodicCheck parameter for Go Client in AdvancedClusterClient Configuration (#5839)",
+      "date": "2026-04-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5839",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b6b2cd69ce0b487381dd9b9c23b14a1b72e91c46"
     },
     {
       "sha": "a27bb7ea9b",

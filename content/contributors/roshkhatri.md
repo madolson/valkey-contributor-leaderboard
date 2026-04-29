@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 318,
+  "score": 320,
   "commit_count": 129,
-  "review_count": 189,
+  "review_count": 191,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1053,6 +1053,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4e27dc5548",
+      "message": "Update versions.json and Dockerfiles for version 9.1.0-rc2 (#138)",
+      "date": "2026-04-28",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/138",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/4e27dc5548301be02d2ad29c720d5117f3a7e4e3"
+    },
+    {
+      "sha": "e54a7de1bf",
+      "message": "Update website for version 9.1.0-rc2 (#530)",
+      "date": "2026-04-28",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/530",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/e54a7de1bf70cd4ae03127b846322d2de8afb6df"
+    },
     {
       "sha": "edc0d26ada",
       "message": "Strip LTO flags from static Lua module build (#3555)",

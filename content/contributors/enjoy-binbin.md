@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 810,
-  "commit_count": 315,
-  "review_count": 495,
+  "score": 812,
+  "commit_count": 316,
+  "review_count": 496,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "bef46dacc1",
+      "message": "Skip cluster resharding test under valgrind (#3574)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3574",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bef46dacc1a4ffbd1c983d75b1a5eee00982fd6c"
+    },
     {
       "sha": "a3e44a55d3",
       "message": "Fix lua-enable-insecure-api default value cannot be changed to yes (#3548)",
@@ -2535,6 +2543,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8091c6c10a",
+      "message": "Remove redundant count division in genericHgetallCommand (#3573)",
+      "date": "2026-04-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3573",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8091c6c10a3bd80fcb639a036dde882580f61fcb"
+    },
     {
       "sha": "6dbb7f81a9",
       "message": "Fix remove cached eval scripts on engine unregister (#3503)",
