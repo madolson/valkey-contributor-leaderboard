@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 150,
+  "score": 153,
   "commit_count": 92,
-  "review_count": 58,
+  "review_count": 61,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -752,6 +752,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e5b85d996c",
+      "message": "feat(core): add ttl based client-side cache configuration and metrics API (#330)",
+      "date": "2026-04-30",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/330",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e5b85d996c41fa34387a0e6120bed63c46aa8c86"
+    },
+    {
+      "sha": "5f7dfd486b",
+      "message": "feat(core): Add Valkey Search Support (#225)",
+      "date": "2026-04-29",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/225",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5f7dfd486b7ab5490a5d5967100e35d805efdbff"
+    },
+    {
+      "sha": "618e3b11f7",
+      "message": "feat: Use valkey-bundle docker images for modules related test (9.0+) (#242)",
+      "date": "2026-04-29",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/242",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/618e3b11f761fcac8d237168d9de2368448d77e7"
+    },
     {
       "sha": "8908fc7155",
       "message": "Update Compression Support in C# (#348)",

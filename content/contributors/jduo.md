@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 208,
+  "score": 212,
   "commit_count": 47,
-  "review_count": 161,
+  "review_count": 165,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -389,6 +389,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "24adccbfe3",
+      "message": "Support custom socket address resolution (#5328)",
+      "date": "2026-04-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5328",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/24adccbfe31a607e2bb4b9dd6fd81c9605733b89"
+    },
+    {
+      "sha": "618e3b11f7",
+      "message": "feat: Use valkey-bundle docker images for modules related test (9.0+) (#242)",
+      "date": "2026-04-29",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/242",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/618e3b11f761fcac8d237168d9de2368448d77e7"
+    },
+    {
+      "sha": "618e3b11f7",
+      "message": "feat: Use valkey-bundle docker images for modules related test (9.0+) (#242)",
+      "date": "2026-04-29",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/242",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/618e3b11f761fcac8d237168d9de2368448d77e7"
+    },
+    {
+      "sha": "80b25f1bb8",
+      "message": "PHP: fix memory leaks and resource management issues (#174)",
+      "date": "2026-04-29",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/174",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/80b25f1bb8258cbfae6519059ff131c110554895"
+    },
     {
       "sha": "97611f873b",
       "message": "Add Support for Compression in Java batch commands and add max compression size (#5823)",

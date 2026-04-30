@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 812,
+  "score": 813,
   "commit_count": 316,
-  "review_count": 496,
+  "review_count": 497,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2543,6 +2543,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7817ca8a73",
+      "message": "Fix GEOSEARCH BYPOLYGON leak on invalid COUNT (#3568)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3568",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7817ca8a736e70ed1205839d3a701342d348eac9"
+    },
     {
       "sha": "8091c6c10a",
       "message": "Remove redundant count division in genericHgetallCommand (#3573)",

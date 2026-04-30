@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 220,
+  "score": 222,
   "commit_count": 48,
-  "review_count": 172,
+  "review_count": 174,
   "repos": [
     "valkey",
     "valkey-json",
@@ -397,6 +397,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c3e05d5ef0",
+      "message": "Fixed slash commands access check  (#996)",
+      "date": "2026-04-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/996",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c3e05d5ef0c7b6caa7e7699c20b6bdf731b52bc4"
+    },
+    {
+      "sha": "eef5b62b8d",
+      "message": "Adding slash commands to improve community experience (#991)",
+      "date": "2026-04-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/991",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/eef5b62b8d4881ef68c0e6513fc8ef2745f452cc"
+    },
     {
       "sha": "7c217d43c9",
       "message": "Refactor FT.AGGREGATE reducers to process records in batch (#816)",

@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 95,
+  "score": 98,
   "commit_count": 41,
-  "review_count": 54,
+  "review_count": 57,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -342,6 +342,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5b7ac66918",
+      "message": "Fix verify-provenance action pin (#3594)",
+      "date": "2026-04-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3594",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5b7ac669182b5ea6b7ce0110e4fa541d93cd84ca"
+    },
+    {
+      "sha": "98724dda08",
+      "message": "Update provenance action to refine layer2 exemption policies (#3593)",
+      "date": "2026-04-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3593",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/98724dda089a279cc503974658a96d5a24ad4df0"
+    },
+    {
+      "sha": "7817ca8a73",
+      "message": "Fix GEOSEARCH BYPOLYGON leak on invalid COUNT (#3568)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3568",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7817ca8a736e70ed1205839d3a701342d348eac9"
+    },
     {
       "sha": "3ab9d9797e",
       "message": "Fix race condition during async client freeing with IO threading enabled (#3458)",

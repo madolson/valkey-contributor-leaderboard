@@ -2,8 +2,8 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 31,
-  "commit_count": 19,
+  "score": 32,
+  "commit_count": 20,
   "review_count": 12,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "39036c7c06",
+      "message": "Add structured datasets loading capability in valkey benchmark (#2823)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2823",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/39036c7c06f4ac1942aa7a36058cc79e555c9fde"
+    },
     {
       "sha": "b2fd1a6b63",
       "message": "Add hybrid Text + Text and numeric + tag composed scenarios (#891)",

@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 133,
+  "score": 135,
   "commit_count": 36,
-  "review_count": 97,
+  "review_count": 99,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -301,6 +301,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e5b85d996c",
+      "message": "feat(core): add ttl based client-side cache configuration and metrics API (#330)",
+      "date": "2026-04-30",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/330",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e5b85d996c41fa34387a0e6120bed63c46aa8c86"
+    },
+    {
+      "sha": "5f7dfd486b",
+      "message": "feat(core): Add Valkey Search Support (#225)",
+      "date": "2026-04-29",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/225",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5f7dfd486b7ab5490a5d5967100e35d805efdbff"
+    },
     {
       "sha": "bf74288bfa",
       "message": "Add debug-mode safety guards for FFI stack response and arena allocator (#5837)",

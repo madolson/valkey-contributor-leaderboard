@@ -2,13 +2,21 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 7,
-  "commit_count": 6,
+  "score": 8,
+  "commit_count": 7,
   "review_count": 1,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "413b7cd26e",
+      "message": "test: add e2e tests for single-node cluster scale-up (#148)",
+      "date": "2026-04-29",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/148",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/413b7cd26e8bceb7801989d9b1479bca6cf47d3d"
+    },
     {
       "sha": "bc78e5cc6b",
       "message": "fix: retry cert-manager resource apply in TLS e2e test (#153)",

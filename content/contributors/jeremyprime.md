@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 112,
+  "score": 113,
   "commit_count": 28,
-  "review_count": 84,
+  "review_count": 85,
   "repos": [
     "spring-data-valkey",
     "valkey-glide"
@@ -236,6 +236,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "80b25f1bb8",
+      "message": "PHP: fix memory leaks and resource management issues (#174)",
+      "date": "2026-04-29",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/174",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/80b25f1bb8258cbfae6519059ff131c110554895"
+    },
     {
       "sha": "863a8ef9bf",
       "message": "Java: Make jedis-compatibility a pure-Java JAR with no-classifier support (#5649)",

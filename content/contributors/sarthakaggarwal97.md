@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 267,
+  "score": 268,
   "commit_count": 81,
-  "review_count": 186,
+  "review_count": 187,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -662,6 +662,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "98724dda08",
+      "message": "Update provenance action to refine layer2 exemption policies (#3593)",
+      "date": "2026-04-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3593",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/98724dda089a279cc503974658a96d5a24ad4df0"
+    },
     {
       "sha": "bef46dacc1",
       "message": "Skip cluster resharding test under valgrind (#3574)",

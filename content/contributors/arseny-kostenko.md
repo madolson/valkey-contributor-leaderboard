@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 182,
+  "score": 185,
   "commit_count": 19,
-  "review_count": 163,
+  "review_count": 166,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2bcff99bf8",
+      "message": "Serialize concurrent connects and reuse committed cluster clients (#327)",
+      "date": "2026-04-29",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/327",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/2bcff99bf86afebaf2a91b55bb68c33faa027b49"
+    },
+    {
+      "sha": "e7378a545c",
+      "message": "Add COMMAND_LOGS_COUNT env variable to limit count of commandlogs (#329)",
+      "date": "2026-04-29",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/329",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/e7378a545cb292b84f08eb4567206a067adf327a"
+    },
+    {
+      "sha": "998d787acf",
+      "message": "Add vite server to allow list of origins (#326)",
+      "date": "2026-04-29",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/326",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/998d787acfa576244b66d5b36fb58651e62937f5"
+    },
     {
       "sha": "490d6108fd",
       "message": "Expose maxCommandsPerRun and cutoffFrequency options (#322)",

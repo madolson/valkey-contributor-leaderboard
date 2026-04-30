@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 109,
-  "commit_count": 58,
+  "score": 110,
+  "commit_count": 59,
   "review_count": 51,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "e5b85d996c",
+      "message": "feat(core): add ttl based client-side cache configuration and metrics API (#330)",
+      "date": "2026-04-30",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/330",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e5b85d996c41fa34387a0e6120bed63c46aa8c86"
+    },
     {
       "sha": "c07a96576f",
       "message": "Python: Client-Side Caching Support (#5826)",

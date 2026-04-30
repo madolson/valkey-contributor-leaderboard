@@ -2,13 +2,21 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 63,
-  "commit_count": 44,
+  "score": 64,
+  "commit_count": 45,
   "review_count": 19,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "2bcff99bf8",
+      "message": "Serialize concurrent connects and reuse committed cluster clients (#327)",
+      "date": "2026-04-29",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/327",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/2bcff99bf86afebaf2a91b55bb68c33faa027b49"
+    },
     {
       "sha": "2ac2ac5e7d",
       "message": "Add Integration tests (#312)",

@@ -2,13 +2,22 @@
   "title": "lucasyonge",
   "login": "lucasyonge",
   "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
-  "score": 6,
-  "commit_count": 3,
-  "review_count": 3,
+  "score": 8,
+  "commit_count": 4,
+  "review_count": 4,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "37ee528931",
+      "message": "Update Lucas bio file (#532)",
+      "date": "2026-04-29",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/532",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/37ee528931ef4a07b76d2b8e6c8d6614d892a001"
+    },
     {
       "sha": "3ed6e5f844",
       "message": "Update maintainer affiliation (#3449)",
@@ -42,6 +51,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3574",
       "commit_url": "https://github.com/valkey-io/valkey/commit/bef46dacc1a4ffbd1c983d75b1a5eee00982fd6c"
+    },
+    {
+      "sha": "7817ca8a73",
+      "message": "Fix GEOSEARCH BYPOLYGON leak on invalid COUNT (#3568)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3568",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7817ca8a736e70ed1205839d3a701342d348eac9"
     },
     {
       "sha": "ecba3e3123",

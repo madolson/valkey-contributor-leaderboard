@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 238,
+  "score": 239,
   "commit_count": 86,
-  "review_count": 152,
+  "review_count": 153,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -705,6 +705,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7817ca8a73",
+      "message": "Fix GEOSEARCH BYPOLYGON leak on invalid COUNT (#3568)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3568",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7817ca8a736e70ed1205839d3a701342d348eac9"
+    },
     {
       "sha": "c6c1558fe0",
       "message": "Moving metric increment to very end of decode (#93)",

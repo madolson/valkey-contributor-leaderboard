@@ -2,8 +2,8 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 292,
-  "commit_count": 103,
+  "score": 293,
+  "commit_count": 104,
   "review_count": 189,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "80b25f1bb8",
+      "message": "PHP: fix memory leaks and resource management issues (#174)",
+      "date": "2026-04-29",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/174",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/80b25f1bb8258cbfae6519059ff131c110554895"
+    },
     {
       "sha": "2be3e27b16",
       "message": "docs: update modules documentation (#198)",

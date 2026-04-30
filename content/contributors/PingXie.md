@@ -2,8 +2,8 @@
   "title": "PingXie",
   "login": "PingXie",
   "avatar_url": "https://avatars.githubusercontent.com/u/11568491?v=4",
-  "score": 199,
-  "commit_count": 8,
+  "score": 201,
+  "commit_count": 10,
   "review_count": 191,
   "repos": [
     "valkey",
@@ -11,6 +11,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "5b7ac66918",
+      "message": "Fix verify-provenance action pin (#3594)",
+      "date": "2026-04-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3594",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5b7ac669182b5ea6b7ce0110e4fa541d93cd84ca"
+    },
+    {
+      "sha": "98724dda08",
+      "message": "Update provenance action to refine layer2 exemption policies (#3593)",
+      "date": "2026-04-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3593",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/98724dda089a279cc503974658a96d5a24ad4df0"
+    },
     {
       "sha": "c861184762",
       "message": "Implement Provenance Guard (#3109)",

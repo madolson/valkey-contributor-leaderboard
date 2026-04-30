@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 12,
-  "commit_count": 12,
+  "score": 13,
+  "commit_count": 13,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "7817ca8a73",
+      "message": "Fix GEOSEARCH BYPOLYGON leak on invalid COUNT (#3568)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3568",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7817ca8a736e70ed1205839d3a701342d348eac9"
+    },
     {
       "sha": "deab7ef9e6",
       "message": "Fix crash on empty FT.AGGREGATE expressions (#966)",

@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 814,
+  "score": 817,
   "commit_count": 171,
-  "review_count": 643,
+  "review_count": 646,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1392,6 +1392,30 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3584",
       "commit_url": "https://github.com/valkey-io/valkey/commit/16ed690fec06ddfb32f3da863e1201cc5cc9c9d6"
+    },
+    {
+      "sha": "678a06d216",
+      "message": "Set errno on EOF in syncRead and propagate it in logs (#3580)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3580",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/678a06d21638e5a48e382a0a2193f32e870568d2"
+    },
+    {
+      "sha": "ad404cd266",
+      "message": "fix compile warning in util.c (#3585)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3585",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ad404cd266e15add51007e38e75c0648a021198d"
+    },
+    {
+      "sha": "39036c7c06",
+      "message": "Add structured datasets loading capability in valkey benchmark (#2823)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2823",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/39036c7c06f4ac1942aa7a36058cc79e555c9fde"
     },
     {
       "sha": "0ae4a48bdd",

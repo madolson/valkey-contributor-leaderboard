@@ -2,14 +2,30 @@
   "title": "secwall",
   "login": "secwall",
   "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
-  "score": 15,
-  "commit_count": 13,
+  "score": 17,
+  "commit_count": 15,
   "review_count": 2,
   "repos": [
     "valkey",
     "valkey-luajit"
   ],
   "commit_list": [
+    {
+      "sha": "6713eda266",
+      "message": "Drop eol fedora and debian. Add ubuntu 26.04 (#21)",
+      "date": "2026-04-29",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/21",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/6713eda266600d411012f54c5121518da89933e3"
+    },
+    {
+      "sha": "13b8956d2a",
+      "message": "Add test on 9.1 branch (#9)",
+      "date": "2026-04-29",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/9",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/13b8956d2af7e8e4d902a05d2d2772369fe11ed0"
+    },
     {
       "sha": "2a8dfd6b05",
       "message": "Fix nightly package tests",

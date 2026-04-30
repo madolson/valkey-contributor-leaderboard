@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 109,
+  "score": 110,
   "commit_count": 13,
-  "review_count": 96,
+  "review_count": 97,
   "repos": [
     "valkey-io.github.io",
     "valkey-operator"
@@ -116,6 +116,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "37ee528931",
+      "message": "Update Lucas bio file (#532)",
+      "date": "2026-04-29",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/532",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/37ee528931ef4a07b76d2b8e6c8d6614d892a001"
+    },
     {
       "sha": "e15f8629e5",
       "message": "Add blog post: Valkey at Laracon India 2026 (#513)",

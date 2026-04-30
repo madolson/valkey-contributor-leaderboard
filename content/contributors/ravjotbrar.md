@@ -2,13 +2,29 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 129,
-  "commit_count": 75,
+  "score": 131,
+  "commit_count": 77,
   "review_count": 54,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "e7378a545c",
+      "message": "Add COMMAND_LOGS_COUNT env variable to limit count of commandlogs (#329)",
+      "date": "2026-04-29",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/329",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/e7378a545cb292b84f08eb4567206a067adf327a"
+    },
+    {
+      "sha": "998d787acf",
+      "message": "Add vite server to allow list of origins (#326)",
+      "date": "2026-04-29",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/326",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/998d787acfa576244b66d5b36fb58651e62937f5"
+    },
     {
       "sha": "490d6108fd",
       "message": "Expose maxCommandsPerRun and cutoffFrequency options (#322)",

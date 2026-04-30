@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 65,
+  "score": 67,
   "commit_count": 25,
-  "review_count": 40,
+  "review_count": 42,
   "repos": [
     "valkey",
     "valkey-perf-benchmark"
@@ -212,6 +212,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "39036c7c06",
+      "message": "Add structured datasets loading capability in valkey benchmark (#2823)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2823",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/39036c7c06f4ac1942aa7a36058cc79e555c9fde"
+    },
+    {
+      "sha": "39036c7c06",
+      "message": "Add structured datasets loading capability in valkey benchmark (#2823)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2823",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/39036c7c06f4ac1942aa7a36058cc79e555c9fde"
+    },
     {
       "sha": "bf4cd04e24",
       "message": "Pass --cluster to valkey-benchmark in cluster mode (#53)",

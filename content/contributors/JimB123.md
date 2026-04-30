@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 43,
-  "commit_count": 16,
-  "review_count": 27,
+  "score": 45,
+  "commit_count": 17,
+  "review_count": 28,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -17,6 +17,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3584",
       "commit_url": "https://github.com/valkey-io/valkey/commit/16ed690fec06ddfb32f3da863e1201cc5cc9c9d6"
+    },
+    {
+      "sha": "ad404cd266",
+      "message": "fix compile warning in util.c (#3585)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3585",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ad404cd266e15add51007e38e75c0648a021198d"
     },
     {
       "sha": "1fd6d7156f",
@@ -140,6 +148,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "39036c7c06",
+      "message": "Add structured datasets loading capability in valkey benchmark (#2823)",
+      "date": "2026-04-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2823",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/39036c7c06f4ac1942aa7a36058cc79e555c9fde"
+    },
     {
       "sha": "a7d495352a",
       "message": "extra UT",

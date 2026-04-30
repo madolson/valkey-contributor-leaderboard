@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 320,
+  "score": 321,
   "commit_count": 129,
-  "review_count": 191,
+  "review_count": 192,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1053,6 +1053,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "98724dda08",
+      "message": "Update provenance action to refine layer2 exemption policies (#3593)",
+      "date": "2026-04-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3593",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/98724dda089a279cc503974658a96d5a24ad4df0"
+    },
     {
       "sha": "4e27dc5548",
       "message": "Update versions.json and Dockerfiles for version 9.1.0-rc2 (#138)",

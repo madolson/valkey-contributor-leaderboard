@@ -525,6 +525,14 @@
   ],
   "review_list": [
     {
+      "sha": "75c9c14ad1",
+      "message": "Updated attribution files for commit 863a8ef9bf03f9e74dc4ff55a5d94b9e9c2f2ce7 (#5792)",
+      "date": "2026-04-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5792",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/75c9c14ad1f010b622e01ee523c2fc38eef38346"
+    },
+    {
       "sha": "b6b2cd69ce",
       "message": "Enable PeriodicCheck parameter for Go Client in AdvancedClusterClient Configuration (#5839)",
       "date": "2026-04-28",

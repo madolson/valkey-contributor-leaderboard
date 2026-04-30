@@ -2,13 +2,29 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 58,
-  "commit_count": 36,
+  "score": 60,
+  "commit_count": 38,
   "review_count": 22,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "c3e05d5ef0",
+      "message": "Fixed slash commands access check  (#996)",
+      "date": "2026-04-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/996",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c3e05d5ef0c7b6caa7e7699c20b6bdf731b52bc4"
+    },
+    {
+      "sha": "eef5b62b8d",
+      "message": "Adding slash commands to improve community experience (#991)",
+      "date": "2026-04-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/991",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/eef5b62b8d4881ef68c0e6513fc8ef2745f452cc"
+    },
     {
       "sha": "b69c73a3f3",
       "message": "Update search_number_of_indexes while restoring (#974)",

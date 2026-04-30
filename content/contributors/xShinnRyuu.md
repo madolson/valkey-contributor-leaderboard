@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 203,
+  "score": 204,
   "commit_count": 49,
-  "review_count": 154,
+  "review_count": 155,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -404,6 +404,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "24adccbfe3",
+      "message": "Support custom socket address resolution (#5328)",
+      "date": "2026-04-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5328",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/24adccbfe31a607e2bb4b9dd6fd81c9605733b89"
+    },
+    {
+      "sha": "75c9c14ad1",
+      "message": "Updated attribution files for commit 863a8ef9bf03f9e74dc4ff55a5d94b9e9c2f2ce7 (#5792)",
+      "date": "2026-04-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5792",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/75c9c14ad1f010b622e01ee523c2fc38eef38346"
+    },
     {
       "sha": "f43dcdb94f",
       "message": "refactor: Split check_examples.py into extraction, validation, and orchestration scripts (#354)",

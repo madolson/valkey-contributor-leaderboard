@@ -2,8 +2,8 @@
   "title": "edlng",
   "login": "edlng",
   "avatar_url": "https://avatars.githubusercontent.com/u/76571219?v=4",
-  "score": 166,
-  "commit_count": 104,
+  "score": 168,
+  "commit_count": 106,
   "review_count": 62,
   "repos": [
     "valkey-glide",
@@ -11,6 +11,22 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "5f7dfd486b",
+      "message": "feat(core): Add Valkey Search Support (#225)",
+      "date": "2026-04-29",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/225",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5f7dfd486b7ab5490a5d5967100e35d805efdbff"
+    },
+    {
+      "sha": "618e3b11f7",
+      "message": "feat: Use valkey-bundle docker images for modules related test (9.0+) (#242)",
+      "date": "2026-04-29",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/242",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/618e3b11f761fcac8d237168d9de2368448d77e7"
+    },
     {
       "sha": "f9205bbb3a",
       "message": "CI: Add Modules Testing (#173)",
