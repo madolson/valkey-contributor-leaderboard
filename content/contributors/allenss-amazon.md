@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 222,
+  "score": 224,
   "commit_count": 48,
-  "review_count": 174,
+  "review_count": 176,
   "repos": [
     "valkey",
     "valkey-json",
@@ -397,6 +397,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ef1f0a1276",
+      "message": "Rename utility-worker to util-worker to adhere to 15 char name limit in linux (#1002)",
+      "date": "2026-04-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1002",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ef1f0a127609ada313f0eddb88be22482770b33b"
+    },
+    {
+      "sha": "f1db9edb2e",
+      "message": "Fix FT.SEARCH bare wildcard execution (#960)",
+      "date": "2026-04-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/960",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/f1db9edb2e4c1abd81b9ceb0bc203839dd55fe5b"
+    },
     {
       "sha": "c3e05d5ef0",
       "message": "Fixed slash commands access check  (#996)",

@@ -2,13 +2,29 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 64,
-  "commit_count": 45,
+  "score": 66,
+  "commit_count": 47,
   "review_count": 19,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "bb4320c7f5",
+      "message": "Update version to 1.0.0 (#333)",
+      "date": "2026-04-30",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/333",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/bb4320c7f5610bcdb581168750295a6b6d056700"
+    },
+    {
+      "sha": "6f24fe728a",
+      "message": "Create script to build and run standalone Valkey instance and populate it for testing (#199)",
+      "date": "2026-04-30",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/199",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/6f24fe728a9211e9f3cab35a62ff02a484fe42ca"
+    },
     {
       "sha": "2bcff99bf8",
       "message": "Serialize concurrent connects and reuse committed cluster clients (#327)",

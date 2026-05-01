@@ -2,13 +2,29 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 131,
-  "commit_count": 77,
-  "review_count": 54,
+  "score": 136,
+  "commit_count": 79,
+  "review_count": 57,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "8122d26cdf",
+      "message": "Fix overshooting key limit and commandlogs limit (#332)",
+      "date": "2026-04-30",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/332",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/8122d26cdf4a0211f159b4775728f8597d9410bb"
+    },
+    {
+      "sha": "c522e8fac6",
+      "message": "Remove await on send command and rate limiting on orchestrator (#330)",
+      "date": "2026-04-30",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/330",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/c522e8fac65e579b93a40a78cb490d166f9430c1"
+    },
     {
       "sha": "e7378a545c",
       "message": "Add COMMAND_LOGS_COUNT env variable to limit count of commandlogs (#329)",
@@ -627,6 +643,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bb4320c7f5",
+      "message": "Update version to 1.0.0 (#333)",
+      "date": "2026-04-30",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/333",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/bb4320c7f5610bcdb581168750295a6b6d056700"
+    },
+    {
+      "sha": "75ac7a9d25",
+      "message": "add filter to command logs and other ui ux fixes (#328)",
+      "date": "2026-04-30",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/328",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/75ac7a9d25e54f5acf12ee7d46b21a1e9187c136"
+    },
+    {
+      "sha": "6f24fe728a",
+      "message": "Create script to build and run standalone Valkey instance and populate it for testing (#199)",
+      "date": "2026-04-30",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/199",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/6f24fe728a9211e9f3cab35a62ff02a484fe42ca"
+    },
     {
       "sha": "5095db1235",
       "message": "Build docker images only on main (#321)",

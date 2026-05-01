@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 268,
-  "commit_count": 81,
-  "review_count": 187,
+  "score": 270,
+  "commit_count": 82,
+  "review_count": 188,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "f2f4e5dbfc",
+      "message": "Run ASan Tests on run-extra-tests label (#3512)",
+      "date": "2026-05-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3512",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f2f4e5dbfccdcefbc7d961bb28a1aef44068d3a6"
+    },
     {
       "sha": "d2db0c268c",
       "message": "Fix module commandresult event cleanup during unsubscribe and module unload (#3545)",
@@ -662,6 +670,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "54bdf5737b",
+      "message": "Handle NULL pointer in streamTrim listpack delta calculation (#3591)",
+      "date": "2026-05-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3591",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/54bdf5737b3a4d9109d0b7ec6ad37e9adb52cb5a"
+    },
     {
       "sha": "98724dda08",
       "message": "Update provenance action to refine layer2 exemption policies (#3593)",

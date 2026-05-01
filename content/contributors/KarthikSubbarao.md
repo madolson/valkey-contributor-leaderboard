@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 239,
-  "commit_count": 86,
-  "review_count": 153,
+  "score": 242,
+  "commit_count": 88,
+  "review_count": 154,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -15,6 +15,22 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "0f6d44d870",
+      "message": "Fix Tag Search's EntriesFetcherIterator logic to not rely on RootIterator (full tree walk) on standard cases (#994)",
+      "date": "2026-05-01",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/994",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0f6d44d870d664cc89f9cf5741e024f3e48f6911"
+    },
+    {
+      "sha": "ef1f0a1276",
+      "message": "Rename utility-worker to util-worker to adhere to 15 char name limit in linux (#1002)",
+      "date": "2026-04-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1002",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ef1f0a127609ada313f0eddb88be22482770b33b"
+    },
     {
       "sha": "523e19a984",
       "message": "Prevalidate in BF.LOAD (#89)",
@@ -705,6 +721,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f1db9edb2e",
+      "message": "Fix FT.SEARCH bare wildcard execution (#960)",
+      "date": "2026-04-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/960",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/f1db9edb2e4c1abd81b9ceb0bc203839dd55fe5b"
+    },
     {
       "sha": "7817ca8a73",
       "message": "Fix GEOSEARCH BYPOLYGON leak on invalid COUNT (#3568)",

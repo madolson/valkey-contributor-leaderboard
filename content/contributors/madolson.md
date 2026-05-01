@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 817,
+  "score": 818,
   "commit_count": 171,
-  "review_count": 646,
+  "review_count": 647,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1385,6 +1385,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "81639e3975",
+      "message": "fix: validate key count before allocating result in keyspec (#3598)",
+      "date": "2026-04-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3598",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/81639e3975af905159d1b6b77b9257ef354df0cf"
+    },
     {
       "sha": "16ed690fec",
       "message": "fix LTO compilation warning in eval (#3584)",

@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 102,
-  "commit_count": 88,
+  "score": 103,
+  "commit_count": 89,
   "review_count": 14,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "75ac7a9d25",
+      "message": "add filter to command logs and other ui ux fixes (#328)",
+      "date": "2026-04-30",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/328",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/75ac7a9d25e54f5acf12ee7d46b21a1e9187c136"
+    },
     {
       "sha": "5f705e5eff",
       "message": "fixed the cluster and node connect button states (#319)",

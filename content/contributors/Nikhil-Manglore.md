@@ -2,9 +2,9 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 229,
+  "score": 231,
   "commit_count": 90,
-  "review_count": 139,
+  "review_count": 141,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -743,6 +743,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f2f4e5dbfc",
+      "message": "Run ASan Tests on run-extra-tests label (#3512)",
+      "date": "2026-05-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3512",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f2f4e5dbfccdcefbc7d961bb28a1aef44068d3a6"
+    },
+    {
+      "sha": "5fba7c1b56",
+      "message": "Automated Updates for Valkey Bundle (#109)",
+      "date": "2026-04-30",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/109",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/5fba7c1b56189e4387f0a56a8cae920ae1e78eda"
+    },
     {
       "sha": "bef46dacc1",
       "message": "Skip cluster resharding test under valgrind (#3574)",

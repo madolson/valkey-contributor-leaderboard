@@ -2,9 +2,9 @@
   "title": "lucasyonge",
   "login": "lucasyonge",
   "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
-  "score": 8,
+  "score": 9,
   "commit_count": 4,
-  "review_count": 4,
+  "review_count": 5,
   "repos": [
     "valkey",
     "valkey-io.github.io"
@@ -44,6 +44,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "72fc5b14b1",
+      "message": "Fix compilation error: replace deprecated je_calloc with zcalloc_num (#3592)",
+      "date": "2026-04-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3592",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/72fc5b14b1f7bf7bd0ca2546bd6e636af151454f"
+    },
     {
       "sha": "bef46dacc1",
       "message": "Skip cluster resharding test under valgrind (#3574)",

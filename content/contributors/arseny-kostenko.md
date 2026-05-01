@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 185,
+  "score": 188,
   "commit_count": 19,
-  "review_count": 166,
+  "review_count": 169,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bb4320c7f5",
+      "message": "Update version to 1.0.0 (#333)",
+      "date": "2026-04-30",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/333",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/bb4320c7f5610bcdb581168750295a6b6d056700"
+    },
+    {
+      "sha": "8122d26cdf",
+      "message": "Fix overshooting key limit and commandlogs limit (#332)",
+      "date": "2026-04-30",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/332",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/8122d26cdf4a0211f159b4775728f8597d9410bb"
+    },
+    {
+      "sha": "c522e8fac6",
+      "message": "Remove await on send command and rate limiting on orchestrator (#330)",
+      "date": "2026-04-30",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/330",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/c522e8fac65e579b93a40a78cb490d166f9430c1"
+    },
     {
       "sha": "2bcff99bf8",
       "message": "Serialize concurrent connects and reuse committed cluster clients (#327)",

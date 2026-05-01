@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 813,
+  "score": 819,
   "commit_count": 316,
-  "review_count": 497,
+  "review_count": 503,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2543,6 +2543,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f2f4e5dbfc",
+      "message": "Run ASan Tests on run-extra-tests label (#3512)",
+      "date": "2026-05-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3512",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f2f4e5dbfccdcefbc7d961bb28a1aef44068d3a6"
+    },
+    {
+      "sha": "cea9354b56",
+      "message": "Big Endian: add daily workflow UT job and fix UTs (#3330)",
+      "date": "2026-05-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3330",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cea9354b56128f4353ef4865e9005c78f5cf8fed"
+    },
+    {
+      "sha": "46d37e4d5e",
+      "message": "Fix off-by-one boundary in lpEncodeBacklen() for 3 values (#3601)",
+      "date": "2026-05-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3601",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/46d37e4d5ee2dfdab263453c90fb64958f92d5de"
+    },
+    {
+      "sha": "54bdf5737b",
+      "message": "Handle NULL pointer in streamTrim listpack delta calculation (#3591)",
+      "date": "2026-05-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3591",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/54bdf5737b3a4d9109d0b7ec6ad37e9adb52cb5a"
+    },
+    {
+      "sha": "cba05103de",
+      "message": "Fix: prevent NULL dereference crash in connectSlotExportJob when target node disappears (#3596)",
+      "date": "2026-04-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3596",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cba05103de24cd5d49f2f4d80e337646c2c941b4"
+    },
+    {
+      "sha": "72fc5b14b1",
+      "message": "Fix compilation error: replace deprecated je_calloc with zcalloc_num (#3592)",
+      "date": "2026-04-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3592",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/72fc5b14b1f7bf7bd0ca2546bd6e636af151454f"
+    },
     {
       "sha": "7817ca8a73",
       "message": "Fix GEOSEARCH BYPOLYGON leak on invalid COUNT (#3568)",

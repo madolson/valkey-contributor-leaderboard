@@ -2,13 +2,21 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 8,
-  "commit_count": 7,
+  "score": 9,
+  "commit_count": 8,
   "review_count": 1,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "db9ff224ff",
+      "message": "fix: authenticate getValkeyRole with _operator credentials (#137)",
+      "date": "2026-04-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/137",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/db9ff224ff5c9a0e1714728c6751c236d478df09"
+    },
     {
       "sha": "413b7cd26e",
       "message": "test: add e2e tests for single-node cluster scale-up (#148)",

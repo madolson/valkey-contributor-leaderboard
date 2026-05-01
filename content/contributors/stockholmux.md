@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 110,
+  "score": 111,
   "commit_count": 13,
-  "review_count": 97,
+  "review_count": 98,
   "repos": [
     "valkey-io.github.io",
     "valkey-operator"
@@ -116,6 +116,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2be2b83266",
+      "message": "Valkey-swift 1.0 announcement (#500)",
+      "date": "2026-04-30",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/500",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/2be2b83266a812fbaa5458eab88288114e3822d6"
+    },
     {
       "sha": "37ee528931",
       "message": "Update Lucas bio file (#532)",

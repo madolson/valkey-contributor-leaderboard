@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 260,
+  "score": 261,
   "commit_count": 84,
-  "review_count": 176,
+  "review_count": 177,
   "repos": [
     "valkey",
     "valkey-container",
@@ -688,6 +688,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7e2a2f7c4a",
+      "message": "fix(cluster): Remove per-call srand in clusterManagerNodePrimaryRandom (#3586)",
+      "date": "2026-04-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3586",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7e2a2f7c4a394cf27ebaa3dc7106a8337a8ddf72"
+    },
     {
       "sha": "8091c6c10a",
       "message": "Remove redundant count division in genericHgetallCommand (#3573)",

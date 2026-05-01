@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 39,
+  "score": 40,
   "commit_count": 11,
-  "review_count": 28,
+  "review_count": 29,
   "repos": [
     "valkey",
     "valkey-operator"
@@ -100,6 +100,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "db9ff224ff",
+      "message": "fix: authenticate getValkeyRole with _operator credentials (#137)",
+      "date": "2026-04-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/137",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/db9ff224ff5c9a0e1714728c6751c236d478df09"
+    },
     {
       "sha": "5e1621b854",
       "message": "fix: allow MEET against isolated shard primaries during scale-up (#147)",

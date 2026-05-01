@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 293,
+  "score": 294,
   "commit_count": 104,
-  "review_count": 189,
+  "review_count": 190,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -846,6 +846,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "baaea45629",
+      "message": "PHP: implement client-side caching with TTL-based expiration (#180)",
+      "date": "2026-04-30",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/180",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/baaea456299eafc6e32c2c7dc2ab38155145e039"
+    },
     {
       "sha": "97611f873b",
       "message": "Add Support for Compression in Java batch commands and add max compression size (#5823)",

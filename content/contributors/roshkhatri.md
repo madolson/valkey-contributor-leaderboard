@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 321,
-  "commit_count": 129,
-  "review_count": 192,
+  "score": 328,
+  "commit_count": 130,
+  "review_count": 198,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -19,6 +19,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "5fba7c1b56",
+      "message": "Automated Updates for Valkey Bundle (#109)",
+      "date": "2026-04-30",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/109",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/5fba7c1b56189e4387f0a56a8cae920ae1e78eda"
+    },
     {
       "sha": "04896c1e6d",
       "message": "Deflake many-slot-migration under valgrind (#3462)",
@@ -1054,12 +1062,60 @@
   ],
   "review_list": [
     {
+      "sha": "f2f4e5dbfc",
+      "message": "Run ASan Tests on run-extra-tests label (#3512)",
+      "date": "2026-05-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3512",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f2f4e5dbfccdcefbc7d961bb28a1aef44068d3a6"
+    },
+    {
+      "sha": "f2f4e5dbfc",
+      "message": "Run ASan Tests on run-extra-tests label (#3512)",
+      "date": "2026-05-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3512",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f2f4e5dbfccdcefbc7d961bb28a1aef44068d3a6"
+    },
+    {
+      "sha": "54bdf5737b",
+      "message": "Handle NULL pointer in streamTrim listpack delta calculation (#3591)",
+      "date": "2026-05-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3591",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/54bdf5737b3a4d9109d0b7ec6ad37e9adb52cb5a"
+    },
+    {
+      "sha": "54bdf5737b",
+      "message": "Handle NULL pointer in streamTrim listpack delta calculation (#3591)",
+      "date": "2026-05-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3591",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/54bdf5737b3a4d9109d0b7ec6ad37e9adb52cb5a"
+    },
+    {
       "sha": "98724dda08",
       "message": "Update provenance action to refine layer2 exemption policies (#3593)",
       "date": "2026-04-30",
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3593",
       "commit_url": "https://github.com/valkey-io/valkey/commit/98724dda089a279cc503974658a96d5a24ad4df0"
+    },
+    {
+      "sha": "72fc5b14b1",
+      "message": "Fix compilation error: replace deprecated je_calloc with zcalloc_num (#3592)",
+      "date": "2026-04-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3592",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/72fc5b14b1f7bf7bd0ca2546bd6e636af151454f"
+    },
+    {
+      "sha": "7e2a2f7c4a",
+      "message": "fix(cluster): Remove per-call srand in clusterManagerNodePrimaryRandom (#3586)",
+      "date": "2026-04-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3586",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7e2a2f7c4a394cf27ebaa3dc7106a8337a8ddf72"
     },
     {
       "sha": "4e27dc5548",

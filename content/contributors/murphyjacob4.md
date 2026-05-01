@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 98,
-  "commit_count": 41,
-  "review_count": 57,
+  "score": 103,
+  "commit_count": 42,
+  "review_count": 61,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "81639e3975",
+      "message": "fix: validate key count before allocating result in keyspec (#3598)",
+      "date": "2026-04-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3598",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/81639e3975af905159d1b6b77b9257ef354df0cf"
+    },
     {
       "sha": "28ecbd204f",
       "message": "Ensure client slot migration pointer is cleared during reset (#3554)",
@@ -343,6 +351,22 @@
   ],
   "review_list": [
     {
+      "sha": "54bdf5737b",
+      "message": "Handle NULL pointer in streamTrim listpack delta calculation (#3591)",
+      "date": "2026-05-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3591",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/54bdf5737b3a4d9109d0b7ec6ad37e9adb52cb5a"
+    },
+    {
+      "sha": "0f6d44d870",
+      "message": "Fix Tag Search's EntriesFetcherIterator logic to not rely on RootIterator (full tree walk) on standard cases (#994)",
+      "date": "2026-05-01",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/994",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0f6d44d870d664cc89f9cf5741e024f3e48f6911"
+    },
+    {
       "sha": "5b7ac66918",
       "message": "Fix verify-provenance action pin (#3594)",
       "date": "2026-04-30",
@@ -357,6 +381,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3593",
       "commit_url": "https://github.com/valkey-io/valkey/commit/98724dda089a279cc503974658a96d5a24ad4df0"
+    },
+    {
+      "sha": "cba05103de",
+      "message": "Fix: prevent NULL dereference crash in connectSlotExportJob when target node disappears (#3596)",
+      "date": "2026-04-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3596",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cba05103de24cd5d49f2f4d80e337646c2c941b4"
+    },
+    {
+      "sha": "72fc5b14b1",
+      "message": "Fix compilation error: replace deprecated je_calloc with zcalloc_num (#3592)",
+      "date": "2026-04-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3592",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/72fc5b14b1f7bf7bd0ca2546bd6e636af151454f"
     },
     {
       "sha": "7817ca8a73",

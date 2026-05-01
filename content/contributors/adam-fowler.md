@@ -2,8 +2,8 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 162,
-  "commit_count": 127,
+  "score": 163,
+  "commit_count": 128,
   "review_count": 35,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-swift"
   ],
   "commit_list": [
+    {
+      "sha": "2be2b83266",
+      "message": "Valkey-swift 1.0 announcement (#500)",
+      "date": "2026-04-30",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/500",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/2be2b83266a812fbaa5458eab88288114e3822d6"
+    },
     {
       "sha": "c4fec4d006",
       "message": "Update docs with code snippets (#385)",

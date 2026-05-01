@@ -2,14 +2,22 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 67,
-  "commit_count": 25,
-  "review_count": 42,
+  "score": 70,
+  "commit_count": 26,
+  "review_count": 44,
   "repos": [
     "valkey",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "cea9354b56",
+      "message": "Big Endian: add daily workflow UT job and fix UTs (#3330)",
+      "date": "2026-05-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3330",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cea9354b56128f4353ef4865e9005c78f5cf8fed"
+    },
     {
       "sha": "a7d495352a",
       "message": "extra UT",
@@ -212,6 +220,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "54bdf5737b",
+      "message": "Handle NULL pointer in streamTrim listpack delta calculation (#3591)",
+      "date": "2026-05-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3591",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/54bdf5737b3a4d9109d0b7ec6ad37e9adb52cb5a"
+    },
+    {
+      "sha": "7e2a2f7c4a",
+      "message": "fix(cluster): Remove per-call srand in clusterManagerNodePrimaryRandom (#3586)",
+      "date": "2026-04-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3586",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7e2a2f7c4a394cf27ebaa3dc7106a8337a8ddf72"
+    },
     {
       "sha": "39036c7c06",
       "message": "Add structured datasets loading capability in valkey benchmark (#2823)",

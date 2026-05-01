@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 13,
-  "commit_count": 13,
+  "score": 14,
+  "commit_count": 14,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "f1db9edb2e",
+      "message": "Fix FT.SEARCH bare wildcard execution (#960)",
+      "date": "2026-04-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/960",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/f1db9edb2e4c1abd81b9ceb0bc203839dd55fe5b"
+    },
     {
       "sha": "7817ca8a73",
       "message": "Fix GEOSEARCH BYPOLYGON leak on invalid COUNT (#3568)",

@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 110,
-  "commit_count": 59,
+  "score": 111,
+  "commit_count": 60,
   "review_count": 51,
   "repos": [
     "valkey-glide",
@@ -19,6 +19,14 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/330",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e5b85d996c41fa34387a0e6120bed63c46aa8c86"
+    },
+    {
+      "sha": "baaea45629",
+      "message": "PHP: implement client-side caching with TTL-based expiration (#180)",
+      "date": "2026-04-30",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/180",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/baaea456299eafc6e32c2c7dc2ab38155145e039"
     },
     {
       "sha": "c07a96576f",
