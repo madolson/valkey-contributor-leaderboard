@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 113,
+  "score": 115,
   "commit_count": 28,
-  "review_count": 85,
+  "review_count": 87,
   "repos": [
     "spring-data-valkey",
     "valkey-glide"
@@ -236,6 +236,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8b8af448f6",
+      "message": "Go: Create common client interfaces (#5862)",
+      "date": "2026-05-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5862",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8b8af448f6cf1dc082094e2cf568930e68170595"
+    },
+    {
+      "sha": "e11d6ce64f",
+      "message": "fix(glide-core): fall back to existing connections when initial nodes are unavailable during toplogy refresh (#5857)",
+      "date": "2026-05-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5857",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e11d6ce64fe2c213ef3167fa5c43a2800cdb0973"
+    },
     {
       "sha": "80b25f1bb8",
       "message": "PHP: fix memory leaks and resource management issues (#174)",

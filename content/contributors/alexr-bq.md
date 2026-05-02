@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 135,
+  "score": 136,
   "commit_count": 36,
-  "review_count": 99,
+  "review_count": 100,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -301,6 +301,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "184a496fc2",
+      "message": "Go: Refactor `ft` commands into a `glideft` package (#5855)",
+      "date": "2026-05-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5855",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/184a496fc2992f3ff258eef490a32510ec95f501"
+    },
     {
       "sha": "e5b85d996c",
       "message": "feat(core): add ttl based client-side cache configuration and metrics API (#330)",

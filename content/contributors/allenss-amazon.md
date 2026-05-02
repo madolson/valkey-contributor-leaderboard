@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 224,
+  "score": 225,
   "commit_count": 48,
-  "review_count": 176,
+  "review_count": 177,
   "repos": [
     "valkey",
     "valkey-json",
@@ -397,6 +397,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cabb67073e",
+      "message": "docker update test (#1007)",
+      "date": "2026-05-01",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1007",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/cabb67073e3806054dfe838376c351a2d07d7ae8"
+    },
     {
       "sha": "ef1f0a1276",
       "message": "Rename utility-worker to util-worker to adhere to 15 char name limit in linux (#1002)",

@@ -2,15 +2,23 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 213,
-  "commit_count": 47,
-  "review_count": 166,
+  "score": 215,
+  "commit_count": 48,
+  "review_count": 167,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "e11d6ce64f",
+      "message": "fix(glide-core): fall back to existing connections when initial nodes are unavailable during toplogy refresh (#5857)",
+      "date": "2026-05-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5857",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e11d6ce64fe2c213ef3167fa5c43a2800cdb0973"
+    },
     {
       "sha": "bf74288bfa",
       "message": "Add debug-mode safety guards for FFI stack response and arena allocator (#5837)",
@@ -389,6 +397,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8b8af448f6",
+      "message": "Go: Create common client interfaces (#5862)",
+      "date": "2026-05-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5862",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8b8af448f6cf1dc082094e2cf568930e68170595"
+    },
     {
       "sha": "baaea45629",
       "message": "PHP: implement client-side caching with TTL-based expiration (#180)",

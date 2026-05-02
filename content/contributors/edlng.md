@@ -2,8 +2,8 @@
   "title": "edlng",
   "login": "edlng",
   "avatar_url": "https://avatars.githubusercontent.com/u/76571219?v=4",
-  "score": 168,
-  "commit_count": 106,
+  "score": 169,
+  "commit_count": 107,
   "review_count": 62,
   "repos": [
     "valkey-glide",
@@ -11,6 +11,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "184a496fc2",
+      "message": "Go: Refactor `ft` commands into a `glideft` package (#5855)",
+      "date": "2026-05-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5855",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/184a496fc2992f3ff258eef490a32510ec95f501"
+    },
     {
       "sha": "5f7dfd486b",
       "message": "feat(core): Add Valkey Search Support (#225)",

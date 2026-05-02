@@ -2,9 +2,9 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 60,
+  "score": 61,
   "commit_count": 38,
-  "review_count": 22,
+  "review_count": 23,
   "repos": [
     "valkey-search"
   ],
@@ -315,6 +315,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cabb67073e",
+      "message": "docker update test (#1007)",
+      "date": "2026-05-01",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1007",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/cabb67073e3806054dfe838376c351a2d07d7ae8"
+    },
     {
       "sha": "f8bb344afc",
       "message": "update snowball compilation check to see if lto_supported (#887)",

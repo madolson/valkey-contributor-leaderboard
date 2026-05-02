@@ -2,14 +2,22 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 109,
-  "commit_count": 19,
+  "score": 110,
+  "commit_count": 20,
   "review_count": 90,
   "repos": [
     "libvalkey-py",
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "91f7488703",
+      "message": "Merge pull request #301 from valkey-io/valkey-py-proper-typing",
+      "date": "2026-05-02",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/301",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/91f7488703f44782406b3cfd098bfac912cef9d1"
+    },
     {
       "sha": "80836c947b",
       "message": "Merge pull request #276 from valkey-io/bogdanp05/drop-tfcall-support",

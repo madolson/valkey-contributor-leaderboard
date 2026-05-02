@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 162,
+  "score": 163,
   "commit_count": 94,
-  "review_count": 68,
+  "review_count": 69,
   "repos": [
     "libvalkey",
     "valkey",
@@ -766,6 +766,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f12ce2d3f9",
+      "message": "feat: add initial Helm chart for valkey-operator (#162)",
+      "date": "2026-05-01",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/162",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/f12ce2d3f9762a834413fc347703e08b7142d234"
+    },
     {
       "sha": "e356730264",
       "message": "Update Go build (#150)",

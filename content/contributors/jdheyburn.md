@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 40,
+  "score": 41,
   "commit_count": 11,
-  "review_count": 29,
+  "review_count": 30,
   "repos": [
     "valkey",
     "valkey-operator"
@@ -100,6 +100,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f12ce2d3f9",
+      "message": "feat: add initial Helm chart for valkey-operator (#162)",
+      "date": "2026-05-01",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/162",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/f12ce2d3f9762a834413fc347703e08b7142d234"
+    },
     {
       "sha": "db9ff224ff",
       "message": "fix: authenticate getValkeyRole with _operator credentials (#137)",

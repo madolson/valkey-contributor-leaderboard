@@ -2,8 +2,8 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 242,
-  "commit_count": 88,
+  "score": 243,
+  "commit_count": 89,
   "review_count": 154,
   "repos": [
     "valkey",
@@ -22,6 +22,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/994",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/0f6d44d870d664cc89f9cf5741e024f3e48f6911"
+    },
+    {
+      "sha": "cabb67073e",
+      "message": "docker update test (#1007)",
+      "date": "2026-05-01",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1007",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/cabb67073e3806054dfe838376c351a2d07d7ae8"
     },
     {
       "sha": "ef1f0a1276",

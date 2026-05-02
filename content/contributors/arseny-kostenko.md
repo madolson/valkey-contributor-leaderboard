@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 188,
+  "score": 191,
   "commit_count": 19,
-  "review_count": 169,
+  "review_count": 172,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b143883346",
+      "message": "fix hot keys dropdown banner bleeding, and last hot key hidding due to the banner (#335)",
+      "date": "2026-05-01",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/335",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/b14388334657d86730280158dafd64bf0625e022"
+    },
+    {
+      "sha": "47d6f401eb",
+      "message": "Fix artifact path (#338)",
+      "date": "2026-05-01",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/338",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/47d6f401ebfa8ccf7375e6caf5afa86e870d13df"
+    },
+    {
+      "sha": "8c1fd9aded",
+      "message": "Add macos package x64 (#337)",
+      "date": "2026-05-01",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/337",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/8c1fd9adedb4e59291a6ad118ab106f9ae979f7f"
+    },
     {
       "sha": "bb4320c7f5",
       "message": "Update version to 1.0.0 (#333)",

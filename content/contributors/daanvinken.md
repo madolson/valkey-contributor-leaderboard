@@ -2,13 +2,22 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 9,
-  "commit_count": 8,
+  "score": 10,
+  "commit_count": 9,
   "review_count": 1,
   "repos": [
+    "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "f12ce2d3f9",
+      "message": "feat: add initial Helm chart for valkey-operator (#162)",
+      "date": "2026-05-01",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/162",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/f12ce2d3f9762a834413fc347703e08b7142d234"
+    },
     {
       "sha": "db9ff224ff",
       "message": "fix: authenticate getValkeyRole with _operator credentials (#137)",

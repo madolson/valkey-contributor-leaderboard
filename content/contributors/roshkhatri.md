@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 328,
+  "score": 329,
   "commit_count": 130,
-  "review_count": 198,
+  "review_count": 199,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1092,6 +1092,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3591",
       "commit_url": "https://github.com/valkey-io/valkey/commit/54bdf5737b3a4d9109d0b7ec6ad37e9adb52cb5a"
+    },
+    {
+      "sha": "66101ce33f",
+      "message": "Cast int64 literals to double in jsonutil_is_int64 tests (#99)",
+      "date": "2026-05-01",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/99",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/66101ce33fff7d3c0c64a4b221ff36875edffccf"
     },
     {
       "sha": "98724dda08",

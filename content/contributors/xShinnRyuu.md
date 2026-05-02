@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 204,
+  "score": 205,
   "commit_count": 49,
-  "review_count": 155,
+  "review_count": 156,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -404,6 +404,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e11d6ce64f",
+      "message": "fix(glide-core): fall back to existing connections when initial nodes are unavailable during toplogy refresh (#5857)",
+      "date": "2026-05-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5857",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e11d6ce64fe2c213ef3167fa5c43a2800cdb0973"
+    },
     {
       "sha": "24adccbfe3",
       "message": "Support custom socket address resolution (#5328)",

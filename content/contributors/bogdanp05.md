@@ -2,9 +2,9 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 34,
+  "score": 36,
   "commit_count": 6,
-  "review_count": 28,
+  "review_count": 30,
   "repos": [
     "libvalkey-py",
     "valkey",
@@ -61,6 +61,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "91f7488703",
+      "message": "Merge pull request #301 from valkey-io/valkey-py-proper-typing",
+      "date": "2026-05-02",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/301",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/91f7488703f44782406b3cfd098bfac912cef9d1"
+    },
+    {
+      "sha": "91f7488703",
+      "message": "Merge pull request #301 from valkey-io/valkey-py-proper-typing",
+      "date": "2026-05-02",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/301",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/91f7488703f44782406b3cfd098bfac912cef9d1"
+    },
     {
       "sha": "df5c44903d",
       "message": "Make skip_ifmodversion_lt skip not installed modules",

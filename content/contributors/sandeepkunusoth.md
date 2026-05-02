@@ -100,6 +100,14 @@
   ],
   "review_list": [
     {
+      "sha": "a05d96886d",
+      "message": "chore(deps): bump docker/build-push-action from 6.18.0 to 7.1.0 (#156)",
+      "date": "2026-05-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/156",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a05d96886d95e68035847a4c86db898abe613aff"
+    },
+    {
       "sha": "413b7cd26e",
       "message": "test: add e2e tests for single-node cluster scale-up (#148)",
       "date": "2026-04-29",

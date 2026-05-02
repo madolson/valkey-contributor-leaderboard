@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 103,
-  "commit_count": 89,
+  "score": 104,
+  "commit_count": 90,
   "review_count": 14,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "b143883346",
+      "message": "fix hot keys dropdown banner bleeding, and last hot key hidding due to the banner (#335)",
+      "date": "2026-05-01",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/335",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/b14388334657d86730280158dafd64bf0625e022"
+    },
     {
       "sha": "75ac7a9d25",
       "message": "add filter to command logs and other ui ux fixes (#328)",

@@ -2,9 +2,9 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 231,
+  "score": 232,
   "commit_count": 90,
-  "review_count": 141,
+  "review_count": 142,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -750,6 +750,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3512",
       "commit_url": "https://github.com/valkey-io/valkey/commit/f2f4e5dbfccdcefbc7d961bb28a1aef44068d3a6"
+    },
+    {
+      "sha": "8e4bed054a",
+      "message": "feat: Add ruff linter with CI workflow and fix all lint issues (#102)",
+      "date": "2026-05-01",
+      "repo": "valkey-fuzzer",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/102",
+      "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/8e4bed054a5915d6e10654cd0a424193922966bd"
     },
     {
       "sha": "5fba7c1b56",

@@ -2,13 +2,29 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 66,
-  "commit_count": 47,
+  "score": 68,
+  "commit_count": 49,
   "review_count": 19,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "47d6f401eb",
+      "message": "Fix artifact path (#338)",
+      "date": "2026-05-01",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/338",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/47d6f401ebfa8ccf7375e6caf5afa86e870d13df"
+    },
+    {
+      "sha": "8c1fd9aded",
+      "message": "Add macos package x64 (#337)",
+      "date": "2026-05-01",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/337",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/8c1fd9adedb4e59291a6ad118ab106f9ae979f7f"
+    },
     {
       "sha": "bb4320c7f5",
       "message": "Update version to 1.0.0 (#333)",

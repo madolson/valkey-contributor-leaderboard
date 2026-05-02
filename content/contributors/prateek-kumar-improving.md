@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 294,
-  "commit_count": 104,
-  "review_count": 190,
+  "score": 296,
+  "commit_count": 105,
+  "review_count": 191,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "8b8af448f6",
+      "message": "Go: Create common client interfaces (#5862)",
+      "date": "2026-05-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5862",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8b8af448f6cf1dc082094e2cf568930e68170595"
+    },
     {
       "sha": "80b25f1bb8",
       "message": "PHP: fix memory leaks and resource management issues (#174)",
@@ -846,6 +854,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "184a496fc2",
+      "message": "Go: Refactor `ft` commands into a `glideft` package (#5855)",
+      "date": "2026-05-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5855",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/184a496fc2992f3ff258eef490a32510ec95f501"
+    },
     {
       "sha": "baaea45629",
       "message": "PHP: implement client-side caching with TTL-based expiration (#180)",
