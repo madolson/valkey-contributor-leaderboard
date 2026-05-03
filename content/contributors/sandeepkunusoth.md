@@ -100,6 +100,14 @@
   ],
   "review_list": [
     {
+      "sha": "5cd270d507",
+      "message": "chore(deps): bump actions/setup-go from 6.3.0 to 6.4.0 (#157)",
+      "date": "2026-05-03",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/157",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/5cd270d5071fbb41625ff70c1648aaaf08c27beb"
+    },
+    {
       "sha": "a05d96886d",
       "message": "chore(deps): bump docker/build-push-action from 6.18.0 to 7.1.0 (#156)",
       "date": "2026-05-02",
