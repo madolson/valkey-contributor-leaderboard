@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 103,
+  "score": 104,
   "commit_count": 42,
-  "review_count": 61,
+  "review_count": 62,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8891441ab9",
+      "message": "Fix checkPrefixCollisionsOrReply returning non-zero on self-overlap (#3583)",
+      "date": "2026-05-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3583",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8891441ab9fd3a75c3023ab87383793d9c5704fe"
+    },
     {
       "sha": "54bdf5737b",
       "message": "Handle NULL pointer in streamTrim listpack delta calculation (#3591)",

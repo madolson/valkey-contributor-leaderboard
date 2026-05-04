@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 818,
+  "score": 820,
   "commit_count": 171,
-  "review_count": 647,
+  "review_count": 649,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1385,6 +1385,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8891441ab9",
+      "message": "Fix checkPrefixCollisionsOrReply returning non-zero on self-overlap (#3583)",
+      "date": "2026-05-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3583",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8891441ab9fd3a75c3023ab87383793d9c5704fe"
+    },
+    {
+      "sha": "8891441ab9",
+      "message": "Fix checkPrefixCollisionsOrReply returning non-zero on self-overlap (#3583)",
+      "date": "2026-05-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3583",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8891441ab9fd3a75c3023ab87383793d9c5704fe"
+    },
     {
       "sha": "81639e3975",
       "message": "fix: validate key count before allocating result in keyspec (#3598)",

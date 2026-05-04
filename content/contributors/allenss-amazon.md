@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 225,
+  "score": 226,
   "commit_count": 48,
-  "review_count": 177,
+  "review_count": 178,
   "repos": [
     "valkey",
     "valkey-json",
@@ -397,6 +397,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "30dc0d5b25",
+      "message": "Adding CONTRIBUTING.md (#1013)",
+      "date": "2026-05-03",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1013",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/30dc0d5b2554d078d2eb0ce544939348015616b7"
+    },
     {
       "sha": "cabb67073e",
       "message": "docker update test (#1007)",

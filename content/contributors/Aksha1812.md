@@ -2,13 +2,21 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 61,
-  "commit_count": 38,
+  "score": 62,
+  "commit_count": 39,
   "review_count": 23,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "30dc0d5b25",
+      "message": "Adding CONTRIBUTING.md (#1013)",
+      "date": "2026-05-03",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1013",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/30dc0d5b2554d078d2eb0ce544939348015616b7"
+    },
     {
       "sha": "c3e05d5ef0",
       "message": "Fixed slash commands access check  (#996)",
