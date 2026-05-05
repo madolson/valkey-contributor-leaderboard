@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 191,
+  "score": 192,
   "commit_count": 19,
-  "review_count": 172,
+  "review_count": 173,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "543b9675d9",
+      "message": "fix app version to show the correct release version (#340)",
+      "date": "2026-05-04",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/340",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/543b9675d9b2ceda54c3f22a8ef0a03bd4ee50e3"
+    },
     {
       "sha": "b143883346",
       "message": "fix hot keys dropdown banner bleeding, and last hot key hidding due to the banner (#335)",

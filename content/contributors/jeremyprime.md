@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 115,
+  "score": 118,
   "commit_count": 28,
-  "review_count": 87,
+  "review_count": 90,
   "repos": [
     "spring-data-valkey",
     "valkey-glide"
@@ -236,6 +236,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "735fcd5e1d",
+      "message": "refactor: Vector Search (FT.*) command API cleanup (#364)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/364",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/735fcd5e1df0649d8c4c7764abced12d204839ef"
+    },
+    {
+      "sha": "4094f10ba5",
+      "message": "fix(node): accept pointer as single i64 to prevent 64-bit truncation (#5874)",
+      "date": "2026-05-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5874",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4094f10ba50b39251778d8ef3081bfea3fba5404"
+    },
+    {
+      "sha": "930334445e",
+      "message": "Clarified Connection Management doc on connection pooling (#202)",
+      "date": "2026-05-04",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/202",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/930334445e7bbca48bdfe0f6169483e5ef1feec6"
+    },
     {
       "sha": "8b8af448f6",
       "message": "Go: Create common client interfaces (#5862)",

@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 708,
+  "score": 710,
   "commit_count": 45,
-  "review_count": 663,
+  "review_count": 665,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8f15ecaa85",
+      "message": "Isolate flaky workflows and disabled flaky tests (#5808)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5808",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8f15ecaa85a7378065551d0819f4bde753c09115"
+    },
+    {
+      "sha": "e95daf0bb8",
+      "message": "C# JSON commands (#358)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/358",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e95daf0bb8141e48e06fc56d9894c9ee6f019598"
+    },
     {
       "sha": "bf74288bfa",
       "message": "Add debug-mode safety guards for FFI stack response and arena allocator (#5837)",

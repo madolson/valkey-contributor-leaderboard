@@ -2,15 +2,23 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 136,
-  "commit_count": 36,
-  "review_count": 100,
+  "score": 140,
+  "commit_count": 37,
+  "review_count": 103,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "e95daf0bb8",
+      "message": "C# JSON commands (#358)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/358",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e95daf0bb8141e48e06fc56d9894c9ee6f019598"
+    },
     {
       "sha": "97611f873b",
       "message": "Add Support for Compression in Java batch commands and add max compression size (#5823)",
@@ -301,6 +309,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "735fcd5e1d",
+      "message": "refactor: Vector Search (FT.*) command API cleanup (#364)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/364",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/735fcd5e1df0649d8c4c7764abced12d204839ef"
+    },
+    {
+      "sha": "86f42f3592",
+      "message": "chore(deps): bump actions/setup-python from 5 to 6 (#362)",
+      "date": "2026-05-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/362",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/86f42f35925d44bc8c469c1cf6ea8a7dd8b69a22"
+    },
+    {
+      "sha": "b18f59bb70",
+      "message": "chore(deps): bump dawidd6/action-download-artifact from 20 to 21 (#363)",
+      "date": "2026-05-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/363",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/b18f59bb700dcf69063a4eb06fad7b84f8b42fa8"
+    },
+    {
+      "sha": "5f54e5a1d7",
+      "message": "CI: Add reusable test workflow (#356)",
+      "date": "2026-05-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/356",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5f54e5a1d78efc6d92fc72d5e6f4d0b4f3f76477"
+    },
+    {
+      "sha": "05873583c7",
+      "message": "docs: Establish documentation guidelines and align command interfaces (#357)",
+      "date": "2026-05-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/357",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/05873583c7f77124d9fc37ece6d85944d23a65a6"
+    },
     {
       "sha": "184a496fc2",
       "message": "Go: Refactor `ft` commands into a `glideft` package (#5855)",

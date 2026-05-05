@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 226,
+  "score": 228,
   "commit_count": 48,
-  "review_count": 178,
+  "review_count": 180,
   "repos": [
     "valkey",
     "valkey-json",
@@ -397,6 +397,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a2bb4f6dbd",
+      "message": "Allow python integ tests to be run with integration/run.sh (#1006)",
+      "date": "2026-05-04",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1006",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a2bb4f6dbd4b6de8c881b466581861d2a9d63a21"
+    },
+    {
+      "sha": "dcef762386",
+      "message": "Ensure fixed ordering in the serialization of the fields. This matters for Text (#1003)",
+      "date": "2026-05-04",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1003",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/dcef7623867681b9a88df5ddbc6fe8e784091217"
+    },
     {
       "sha": "30dc0d5b25",
       "message": "Adding CONTRIBUTING.md (#1013)",

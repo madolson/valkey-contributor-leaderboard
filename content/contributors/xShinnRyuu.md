@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 205,
+  "score": 208,
   "commit_count": 49,
-  "review_count": 156,
+  "review_count": 159,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -404,6 +404,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8f15ecaa85",
+      "message": "Isolate flaky workflows and disabled flaky tests (#5808)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5808",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8f15ecaa85a7378065551d0819f4bde753c09115"
+    },
+    {
+      "sha": "4094f10ba5",
+      "message": "fix(node): accept pointer as single i64 to prevent 64-bit truncation (#5874)",
+      "date": "2026-05-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5874",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4094f10ba50b39251778d8ef3081bfea3fba5404"
+    },
+    {
+      "sha": "5f54e5a1d7",
+      "message": "CI: Add reusable test workflow (#356)",
+      "date": "2026-05-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/356",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5f54e5a1d78efc6d92fc72d5e6f4d0b4f3f76477"
+    },
     {
       "sha": "e11d6ce64f",
       "message": "fix(glide-core): fall back to existing connections when initial nodes are unavailable during toplogy refresh (#5857)",

@@ -2,14 +2,22 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 203,
-  "commit_count": 64,
+  "score": 204,
+  "commit_count": 65,
   "review_count": 139,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "5f54e5a1d7",
+      "message": "CI: Add reusable test workflow (#356)",
+      "date": "2026-05-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/356",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5f54e5a1d78efc6d92fc72d5e6f4d0b4f3f76477"
+    },
     {
       "sha": "a5017885dd",
       "message": "Add replica discovery and static mode for standalone servers (#5724)",

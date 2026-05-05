@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 68,
+  "score": 69,
   "commit_count": 49,
-  "review_count": 19,
+  "review_count": 20,
   "repos": [
     "valkey-admin"
   ],
@@ -403,6 +403,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fabc05c219",
+      "message": "Add docker overview for dockerhub (#334)",
+      "date": "2026-05-04",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/334",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/fabc05c21980b5c8a6aa29ac7623c241117eb297"
+    },
     {
       "sha": "c0a07452f4",
       "message": "Build macos and linux only on main (#323)",

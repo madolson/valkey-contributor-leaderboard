@@ -100,6 +100,14 @@
   ],
   "review_list": [
     {
+      "sha": "c02b66b7b9",
+      "message": "chore(deps): bump docker/setup-buildx-action from 3.12.0 to 4.0.0 (#158)",
+      "date": "2026-05-04",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/158",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c02b66b7b9db4ecd5ac2ae9731f9a4320387f54d"
+    },
+    {
       "sha": "5cd270d507",
       "message": "chore(deps): bump actions/setup-go from 6.3.0 to 6.4.0 (#157)",
       "date": "2026-05-03",

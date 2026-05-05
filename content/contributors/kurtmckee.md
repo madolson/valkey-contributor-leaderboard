@@ -2,8 +2,8 @@
   "title": "kurtmckee",
   "login": "kurtmckee",
   "avatar_url": "https://avatars.githubusercontent.com/u/39996?v=4",
-  "score": 20,
-  "commit_count": 18,
+  "score": 21,
+  "commit_count": 19,
   "review_count": 2,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "7714186d2c",
+      "message": "Begin resolving type annotation issues",
+      "date": "2026-05-02",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/282",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/7714186d2c55f6d96fa596dccdf934851d313610"
+    },
     {
       "sha": "07140a6a71",
       "message": "Fix Docker image caching in CI for forked repositories",

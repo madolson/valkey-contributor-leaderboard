@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 153,
-  "commit_count": 92,
+  "score": 155,
+  "commit_count": 94,
   "review_count": 61,
   "repos": [
     "valkey-doc",
@@ -14,6 +14,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "735fcd5e1d",
+      "message": "refactor: Vector Search (FT.*) command API cleanup (#364)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/364",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/735fcd5e1df0649d8c4c7764abced12d204839ef"
+    },
+    {
+      "sha": "05873583c7",
+      "message": "docs: Establish documentation guidelines and align command interfaces (#357)",
+      "date": "2026-05-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/357",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/05873583c7f77124d9fc37ece6d85944d23a65a6"
+    },
     {
       "sha": "f43dcdb94f",
       "message": "refactor: Split check_examples.py into extraction, validation, and orchestration scripts (#354)",
@@ -752,6 +768,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "86f42f3592",
+      "message": "chore(deps): bump actions/setup-python from 5 to 6 (#362)",
+      "date": "2026-05-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/362",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/86f42f35925d44bc8c469c1cf6ea8a7dd8b69a22"
+    },
+    {
+      "sha": "b18f59bb70",
+      "message": "chore(deps): bump dawidd6/action-download-artifact from 20 to 21 (#363)",
+      "date": "2026-05-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/363",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/b18f59bb700dcf69063a4eb06fad7b84f8b42fa8"
+    },
     {
       "sha": "e5b85d996c",
       "message": "feat(core): add ttl based client-side cache configuration and metrics API (#330)",

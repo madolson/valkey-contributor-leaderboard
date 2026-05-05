@@ -2,9 +2,9 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 110,
+  "score": 111,
   "commit_count": 20,
-  "review_count": 90,
+  "review_count": 91,
   "repos": [
     "libvalkey-py",
     "valkey-py"
@@ -172,6 +172,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7714186d2c",
+      "message": "Begin resolving type annotation issues",
+      "date": "2026-05-02",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/282",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/7714186d2c55f6d96fa596dccdf934851d313610"
+    },
+    {
+      "sha": "621541ff3e",
+      "message": "build(deps): bump docker/setup-qemu-action from 3 to 4",
+      "date": "2026-05-01",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/72",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/621541ff3e7d91140096e14f98cf15b7fd0a5dd1"
+    },
     {
       "sha": "07140a6a71",
       "message": "Fix Docker image caching in CI for forked repositories",

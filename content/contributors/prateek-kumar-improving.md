@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 296,
+  "score": 298,
   "commit_count": 105,
-  "review_count": 191,
+  "review_count": 193,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -854,6 +854,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "930334445e",
+      "message": "Clarified Connection Management doc on connection pooling (#202)",
+      "date": "2026-05-04",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/202",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/930334445e7bbca48bdfe0f6169483e5ef1feec6"
+    },
+    {
+      "sha": "930334445e",
+      "message": "Clarified Connection Management doc on connection pooling (#202)",
+      "date": "2026-05-04",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/202",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/930334445e7bbca48bdfe0f6169483e5ef1feec6"
+    },
     {
       "sha": "184a496fc2",
       "message": "Go: Refactor `ft` commands into a `glideft` package (#5855)",

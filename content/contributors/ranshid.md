@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 261,
+  "score": 262,
   "commit_count": 84,
-  "review_count": 177,
+  "review_count": 178,
   "repos": [
     "valkey",
     "valkey-container",
@@ -688,6 +688,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "797c626046",
+      "message": "Fix SIGSEGV in VM_GetLRU/SetLRU/GetLFU/SetLFU on NULL key (#3610)",
+      "date": "2026-05-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3610",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/797c62604698408653b2f3653c4b9f861572d1b5"
+    },
     {
       "sha": "7e2a2f7c4a",
       "message": "fix(cluster): Remove per-call srand in clusterManagerNodePrimaryRandom (#3586)",

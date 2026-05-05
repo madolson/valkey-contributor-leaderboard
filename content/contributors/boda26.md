@@ -2,9 +2,9 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 61,
+  "score": 62,
   "commit_count": 38,
-  "review_count": 23,
+  "review_count": 24,
   "repos": [
     "valkey-search"
   ],
@@ -315,6 +315,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a2bb4f6dbd",
+      "message": "Allow python integ tests to be run with integration/run.sh (#1006)",
+      "date": "2026-05-04",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1006",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a2bb4f6dbd4b6de8c881b466581861d2a9d63a21"
+    },
     {
       "sha": "deab7ef9e6",
       "message": "Fix crash on empty FT.AGGREGATE expressions (#966)",

@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 329,
+  "score": 330,
   "commit_count": 130,
-  "review_count": 199,
+  "review_count": 200,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1061,6 +1061,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "632212f8ba",
+      "message": "ci: Add cpplint workflow to run linter on PRs (#100)",
+      "date": "2026-05-04",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/100",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/632212f8ba33c1687ab54ec0814d0a0742324d65"
+    },
     {
       "sha": "f2f4e5dbfc",
       "message": "Run ASan Tests on run-extra-tests label (#3512)",

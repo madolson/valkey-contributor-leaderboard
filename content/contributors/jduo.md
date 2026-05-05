@@ -2,8 +2,8 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 215,
-  "commit_count": 48,
+  "score": 216,
+  "commit_count": 49,
   "review_count": 167,
   "repos": [
     "valkey-glide",
@@ -11,6 +11,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "4094f10ba5",
+      "message": "fix(node): accept pointer as single i64 to prevent 64-bit truncation (#5874)",
+      "date": "2026-05-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5874",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4094f10ba50b39251778d8ef3081bfea3fba5404"
+    },
     {
       "sha": "e11d6ce64f",
       "message": "fix(glide-core): fall back to existing connections when initial nodes are unavailable during toplogy refresh (#5857)",

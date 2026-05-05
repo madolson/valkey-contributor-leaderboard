@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 78,
-  "commit_count": 29,
-  "review_count": 49,
+  "score": 81,
+  "commit_count": 31,
+  "review_count": 50,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -12,6 +12,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "8f15ecaa85",
+      "message": "Isolate flaky workflows and disabled flaky tests (#5808)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5808",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8f15ecaa85a7378065551d0819f4bde753c09115"
+    },
+    {
+      "sha": "930334445e",
+      "message": "Clarified Connection Management doc on connection pooling (#202)",
+      "date": "2026-05-04",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/202",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/930334445e7bbca48bdfe0f6169483e5ef1feec6"
+    },
     {
       "sha": "ddb29624d8",
       "message": "Fix: Python client side cache test to use anyio (#5818)",
@@ -246,6 +262,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "05873583c7",
+      "message": "docs: Establish documentation guidelines and align command interfaces (#357)",
+      "date": "2026-05-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/357",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/05873583c7f77124d9fc37ece6d85944d23a65a6"
+    },
     {
       "sha": "f43dcdb94f",
       "message": "refactor: Split check_examples.py into extraction, validation, and orchestration scripts (#354)",

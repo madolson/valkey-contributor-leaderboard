@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 111,
+  "score": 112,
   "commit_count": 60,
-  "review_count": 51,
+  "review_count": 52,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -494,6 +494,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e95daf0bb8",
+      "message": "C# JSON commands (#358)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/358",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e95daf0bb8141e48e06fc56d9894c9ee6f019598"
+    },
     {
       "sha": "213e715b41",
       "message": "feat: Add automated compilation validation for C# code examples (#350)",
