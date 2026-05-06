@@ -2,15 +2,24 @@
   "title": "alexey-temnikov",
   "login": "alexey-temnikov",
   "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
-  "score": 17,
-  "commit_count": 8,
+  "score": 18,
+  "commit_count": 9,
   "review_count": 9,
   "repos": [
     "valkey-admin",
     "valkey-doc",
-    "valkey-glide"
+    "valkey-glide",
+    "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "7fc871e4c7",
+      "message": "docs(lettuce): Fix stale 'lazyConnect not supported' entry (#205)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/205",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/7fc871e4c7f59d42ec01757888d4dc5065e6aa8b"
+    },
     {
       "sha": "083478b4a5",
       "message": "fix: cluster topology connect fails with NOAUTH when username is empty string (#252)",

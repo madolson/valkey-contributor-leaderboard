@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 228,
+  "score": 231,
   "commit_count": 48,
-  "review_count": 180,
+  "review_count": 183,
   "repos": [
     "valkey",
     "valkey-json",
@@ -397,6 +397,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c44aa79699",
+      "message": "Add blog: Reduce Token Cost for LLMs, AI Agent Memory with Valkey and Mem0 (#503)",
+      "date": "2026-05-05",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/503",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c44aa79699e6298936ac03bf776d2a931416361e"
+    },
+    {
+      "sha": "8ee03af75f",
+      "message": "fix: gate JSON.DEBUG KEYTABLE-CORRUPT behind json.debug-mode config (#98)",
+      "date": "2026-05-05",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/98",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/8ee03af75fa9f534d47e2fab82a429f5ca3e8ed8"
+    },
+    {
+      "sha": "89643b75a1",
+      "message": "fix: Handle macOS-incompatible script command in integration test runner (#1014)",
+      "date": "2026-05-05",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1014",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/89643b75a10acdf2956fdd95ab276767eda1df81"
+    },
     {
       "sha": "a2bb4f6dbd",
       "message": "Allow python integ tests to be run with integration/run.sh (#1006)",

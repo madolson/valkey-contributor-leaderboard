@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 81,
+  "score": 84,
   "commit_count": 31,
-  "review_count": 50,
+  "review_count": 53,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -262,6 +262,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cbcfafd5c3",
+      "message": "docs(concepts): Add Memory Model page (#212)",
+      "date": "2026-05-06",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/212",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/cbcfafd5c3c3ecf56158f2398260921bd389906e"
+    },
+    {
+      "sha": "39ffba3594",
+      "message": "Add recommended config and log output reference to logging guide (#204)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/204",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/39ffba3594e855a4e62134e1a66eeda40c862941"
+    },
+    {
+      "sha": "7fc871e4c7",
+      "message": "docs(lettuce): Fix stale 'lazyConnect not supported' entry (#205)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/205",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/7fc871e4c7f59d42ec01757888d4dc5065e6aa8b"
+    },
     {
       "sha": "05873583c7",
       "message": "docs: Establish documentation guidelines and align command interfaces (#357)",

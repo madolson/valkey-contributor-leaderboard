@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 41,
+  "score": 42,
   "commit_count": 11,
-  "review_count": 30,
+  "review_count": 31,
   "repos": [
     "valkey",
     "valkey-operator"
@@ -100,6 +100,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bbbb25e5b5",
+      "message": "Add ValkeyNode-managed persistence support (#149)",
+      "date": "2026-05-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/149",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/bbbb25e5b55669807f7dd9a4b99470ca32d02dc3"
+    },
     {
       "sha": "f12ce2d3f9",
       "message": "feat: add initial Helm chart for valkey-operator (#162)",

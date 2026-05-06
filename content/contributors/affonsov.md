@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 112,
-  "commit_count": 60,
+  "score": 113,
+  "commit_count": 61,
   "review_count": 52,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "f3d107edba",
+      "message": "Update jedis-compatibility migration guide for no-classifier JAR (#203)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/203",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/f3d107edbacf1328afefc2458b18d79ca002dcd0"
+    },
     {
       "sha": "e5b85d996c",
       "message": "feat(core): add ttl based client-side cache configuration and metrics API (#330)",

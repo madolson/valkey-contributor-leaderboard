@@ -2,9 +2,9 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 111,
+  "score": 113,
   "commit_count": 20,
-  "review_count": 91,
+  "review_count": 93,
   "repos": [
     "libvalkey-py",
     "valkey-py"
@@ -172,6 +172,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8ee03af75f",
+      "message": "fix: gate JSON.DEBUG KEYTABLE-CORRUPT behind json.debug-mode config (#98)",
+      "date": "2026-05-05",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/98",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/8ee03af75fa9f534d47e2fab82a429f5ca3e8ed8"
+    },
+    {
+      "sha": "38693cf268",
+      "message": "Remove connection_pool from CommandsProtocol to fix type checker false positives",
+      "date": "2026-05-05",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/300",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/38693cf2684994af27ee66a931cc306deaf7aca1"
+    },
     {
       "sha": "7714186d2c",
       "message": "Begin resolving type annotation issues",

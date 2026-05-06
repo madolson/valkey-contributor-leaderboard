@@ -2,15 +2,24 @@
   "title": "smkher",
   "login": "smkher",
   "avatar_url": "https://avatars.githubusercontent.com/u/3863574?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey",
     "valkey-fuzzer",
-    "valkey-json"
+    "valkey-json",
+    "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "89643b75a1",
+      "message": "fix: Handle macOS-incompatible script command in integration test runner (#1014)",
+      "date": "2026-05-05",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1014",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/89643b75a10acdf2956fdd95ab276767eda1df81"
+    },
     {
       "sha": "632212f8ba",
       "message": "ci: Add cpplint workflow to run linter on PRs (#100)",

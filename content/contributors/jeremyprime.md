@@ -2,14 +2,23 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 118,
-  "commit_count": 28,
+  "score": 119,
+  "commit_count": 29,
   "review_count": 90,
   "repos": [
     "spring-data-valkey",
-    "valkey-glide"
+    "valkey-glide",
+    "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "39ffba3594",
+      "message": "Add recommended config and log output reference to logging guide (#204)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/204",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/39ffba3594e855a4e62134e1a66eeda40c862941"
+    },
     {
       "sha": "a27bb7ea9b",
       "message": "Forward-port to main: diagnostic logging (#5756, #5791) (#5819)",

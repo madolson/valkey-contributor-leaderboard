@@ -2,8 +2,8 @@
   "title": "edlng",
   "login": "edlng",
   "avatar_url": "https://avatars.githubusercontent.com/u/76571219?v=4",
-  "score": 169,
-  "commit_count": 107,
+  "score": 170,
+  "commit_count": 108,
   "review_count": 62,
   "repos": [
     "valkey-glide",
@@ -11,6 +11,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "b9f1f7a11e",
+      "message": "fix(go): Update docs after FT module refactor (#5881)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5881",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b9f1f7a11e9f3a24d9feccce76e2ce1601e80027"
+    },
     {
       "sha": "184a496fc2",
       "message": "Go: Refactor `ft` commands into a `glideft` package (#5855)",

@@ -2,9 +2,9 @@
   "title": "hanxizh9910",
   "login": "hanxizh9910",
   "avatar_url": "https://avatars.githubusercontent.com/u/220982061?v=4",
-  "score": 35,
+  "score": 36,
   "commit_count": 33,
-  "review_count": 2,
+  "review_count": 3,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -280,6 +280,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8ee03af75f",
+      "message": "fix: gate JSON.DEBUG KEYTABLE-CORRUPT behind json.debug-mode config (#98)",
+      "date": "2026-05-05",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/98",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/8ee03af75fa9f534d47e2fab82a429f5ca3e8ed8"
+    },
     {
       "sha": "e91f59e7e7",
       "message": "Minor Formating changes due to new black ver (#28)",

@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 111,
+  "score": 112,
   "commit_count": 13,
-  "review_count": 98,
+  "review_count": 99,
   "repos": [
     "valkey-io.github.io",
     "valkey-operator"
@@ -116,6 +116,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3f072a5d4e",
+      "message": "Add workflow to auto-assign technical-blog-reviewers (#514)",
+      "date": "2026-05-06",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/514",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/3f072a5d4e1aa017caa629626f9e2d1ded9edb45"
+    },
     {
       "sha": "2be2b83266",
       "message": "Valkey-swift 1.0 announcement (#500)",

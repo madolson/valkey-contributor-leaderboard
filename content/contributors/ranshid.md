@@ -2,8 +2,8 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 262,
-  "commit_count": 84,
+  "score": 264,
+  "commit_count": 86,
   "review_count": 178,
   "repos": [
     "valkey",
@@ -14,6 +14,22 @@
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "fea0b4064c",
+      "message": "Fix invalid memory access in RESTORE with malformed zipmap (CVE-2026-25243) (#3619)",
+      "date": "2026-05-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3619",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fea0b4064cf612d1c365b032326832bff0946bd9"
+    },
+    {
+      "sha": "c7c92db43b",
+      "message": "Delay full sync during yielding Lua scripts to prevent use-after-free (CVE-2026-23631) (#3625)",
+      "date": "2026-05-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3625",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c7c92db43b63be0599a076590f012ed35d279a47"
+    },
     {
       "sha": "0c81b53d6a",
       "message": "Avoid having server.h being included by cli and benchmark (#3420)",

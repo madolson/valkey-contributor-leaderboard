@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 155,
-  "commit_count": 94,
+  "score": 156,
+  "commit_count": 95,
   "review_count": 61,
   "repos": [
     "valkey-doc",
@@ -21,6 +21,14 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/364",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/735fcd5e1df0649d8c4c7764abced12d204839ef"
+    },
+    {
+      "sha": "81fe0f63de",
+      "message": "Prevent implicit Valkey.Glide type resolution in example validation (#367)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/367",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/81fe0f63de95f4eb37170f74074c3b94e7deeb25"
     },
     {
       "sha": "05873583c7",

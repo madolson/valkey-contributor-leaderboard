@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 820,
-  "commit_count": 171,
-  "review_count": 649,
+  "score": 823,
+  "commit_count": 172,
+  "review_count": 651,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "3f072a5d4e",
+      "message": "Add workflow to auto-assign technical-blog-reviewers (#514)",
+      "date": "2026-05-06",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/514",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/3f072a5d4e1aa017caa629626f9e2d1ded9edb45"
+    },
     {
       "sha": "4e27dc5548",
       "message": "Update versions.json and Dockerfiles for version 9.1.0-rc2 (#138)",
@@ -1385,6 +1393,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fea0b4064c",
+      "message": "Fix invalid memory access in RESTORE with malformed zipmap (CVE-2026-25243) (#3619)",
+      "date": "2026-05-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3619",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fea0b4064cf612d1c365b032326832bff0946bd9"
+    },
+    {
+      "sha": "c7c92db43b",
+      "message": "Delay full sync during yielding Lua scripts to prevent use-after-free (CVE-2026-23631) (#3625)",
+      "date": "2026-05-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3625",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c7c92db43b63be0599a076590f012ed35d279a47"
+    },
     {
       "sha": "8891441ab9",
       "message": "Fix checkPrefixCollisionsOrReply returning non-zero on self-overlap (#3583)",

@@ -2,9 +2,9 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 10,
+  "score": 12,
   "commit_count": 9,
-  "review_count": 1,
+  "review_count": 3,
   "repos": [
     "valkey-helm",
     "valkey-operator"
@@ -84,6 +84,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bbbb25e5b5",
+      "message": "Add ValkeyNode-managed persistence support (#149)",
+      "date": "2026-05-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/149",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/bbbb25e5b55669807f7dd9a4b99470ca32d02dc3"
+    },
+    {
+      "sha": "bbbb25e5b5",
+      "message": "Add ValkeyNode-managed persistence support (#149)",
+      "date": "2026-05-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/149",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/bbbb25e5b55669807f7dd9a4b99470ca32d02dc3"
+    },
     {
       "sha": "2b3718a3e5",
       "message": "feat: initial tls support for valkey cluster (#133)",

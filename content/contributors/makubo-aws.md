@@ -2,9 +2,9 @@
   "title": "makubo-aws",
   "login": "makubo-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/203714000?v=4",
-  "score": 4,
+  "score": 5,
   "commit_count": 3,
-  "review_count": 1,
+  "review_count": 2,
   "repos": [
     "valkey-doc",
     "valkey-io.github.io"
@@ -36,6 +36,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c44aa79699",
+      "message": "Add blog: Reduce Token Cost for LLMs, AI Agent Memory with Valkey and Mem0 (#503)",
+      "date": "2026-05-05",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/503",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c44aa79699e6298936ac03bf776d2a931416361e"
+    },
     {
       "sha": "d1da33ad43",
       "message": "feat(ui): redesign homepage with new visual elements (#234)",

@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 208,
+  "score": 211,
   "commit_count": 49,
-  "review_count": 159,
+  "review_count": 162,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -411,6 +411,30 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5808",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8f15ecaa85a7378065551d0819f4bde753c09115"
+    },
+    {
+      "sha": "b9f1f7a11e",
+      "message": "fix(go): Update docs after FT module refactor (#5881)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5881",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b9f1f7a11e9f3a24d9feccce76e2ce1601e80027"
+    },
+    {
+      "sha": "81fe0f63de",
+      "message": "Prevent implicit Valkey.Glide type resolution in example validation (#367)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/367",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/81fe0f63de95f4eb37170f74074c3b94e7deeb25"
+    },
+    {
+      "sha": "f3d107edba",
+      "message": "Update jedis-compatibility migration guide for no-classifier JAR (#203)",
+      "date": "2026-05-05",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/203",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/f3d107edbacf1328afefc2458b18d79ca002dcd0"
     },
     {
       "sha": "4094f10ba5",
