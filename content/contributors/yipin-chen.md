@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 710,
+  "score": 711,
   "commit_count": 45,
-  "review_count": 665,
+  "review_count": 666,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d44d901530",
+      "message": "fix: java workflow correctly skips container tests on windows only and moved start time (#5882)",
+      "date": "2026-05-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5882",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d44d901530d47b8214f4aeccb10a91096de90018"
+    },
     {
       "sha": "8f15ecaa85",
       "message": "Isolate flaky workflows and disabled flaky tests (#5808)",

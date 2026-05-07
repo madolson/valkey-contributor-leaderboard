@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1112,
-  "commit_count": 148,
-  "review_count": 964,
+  "score": 1117,
+  "commit_count": 149,
+  "review_count": 968,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "2f16107712",
+      "message": "Add null check in updateSSLPendingFlag (#3641)",
+      "date": "2026-05-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3641",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2f161077123e8c2aa6e1b9301eb3d3e62be45711"
+    },
     {
       "sha": "e4b548b328",
       "message": "Remove support for external dict while still supporting external sds (#302)",
@@ -1199,6 +1207,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6c9d7fc263",
+      "message": "CLUSTERSCAN range bounded scanning across contiguous slots (#3391)",
+      "date": "2026-05-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3391",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6c9d7fc263dd4dfe07460f7ed6de63295890b77a"
+    },
+    {
+      "sha": "75fee11c6c",
+      "message": "Fixes server crash when RDMA benchmark clients disconnect (#3448)",
+      "date": "2026-05-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3448",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/75fee11c6c00b2bd1a0b0c9a0c4bc0f50bb27949"
+    },
+    {
+      "sha": "9669b26706",
+      "message": "Reduce latency spikes during rehashing via incremental page release (#3481)",
+      "date": "2026-05-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3481",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9669b26706a0a3992e027460da2b544defdeb2ac"
+    },
+    {
+      "sha": "c5959266f1",
+      "message": "valkey-benchmark: centralize RDMA WRITABLE kick via createFileEvent (#3492)",
+      "date": "2026-05-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3492",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c5959266f1f94dfd976e6af0f4c65d400ef3904d"
+    },
     {
       "sha": "ac9ca9de3d",
       "message": "Fix rdmaServer leaks when create listen cm id error (#3557)",

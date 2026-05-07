@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 113,
-  "commit_count": 61,
-  "review_count": 52,
+  "score": 115,
+  "commit_count": 62,
+  "review_count": 53,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "b4b34a1dc1",
+      "message": "Python: Support custom socket address resolution (#5876)",
+      "date": "2026-05-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5876",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b4b34a1dc16d97a3fae32fc19bc1d42b3ec2f224"
+    },
     {
       "sha": "f3d107edba",
       "message": "Update jedis-compatibility migration guide for no-classifier JAR (#203)",
@@ -502,6 +510,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d44d901530",
+      "message": "fix: java workflow correctly skips container tests on windows only and moved start time (#5882)",
+      "date": "2026-05-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5882",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d44d901530d47b8214f4aeccb10a91096de90018"
+    },
     {
       "sha": "e95daf0bb8",
       "message": "C# JSON commands (#358)",

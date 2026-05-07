@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 84,
-  "commit_count": 31,
-  "review_count": 53,
+  "score": 87,
+  "commit_count": 32,
+  "review_count": 55,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "d44d901530",
+      "message": "fix: java workflow correctly skips container tests on windows only and moved start time (#5882)",
+      "date": "2026-05-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5882",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d44d901530d47b8214f4aeccb10a91096de90018"
+    },
     {
       "sha": "8f15ecaa85",
       "message": "Isolate flaky workflows and disabled flaky tests (#5808)",
@@ -269,6 +277,22 @@
       "repo": "valkey-glide-docs",
       "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/212",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/cbcfafd5c3c3ecf56158f2398260921bd389906e"
+    },
+    {
+      "sha": "37672e7a68",
+      "message": "docs: Add C# examples for Search and JSON module documentation (#209)",
+      "date": "2026-05-06",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/209",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/37672e7a6823942a9d5f6d9a35a532576dbb37e9"
+    },
+    {
+      "sha": "ff9bb01b7f",
+      "message": "feat: Add automated compilation validation for C# code examples (#201)",
+      "date": "2026-05-06",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/201",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/ff9bb01b7fd708d84da83a78b5769dde413ad90d"
     },
     {
       "sha": "39ffba3594",

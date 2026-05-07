@@ -2,13 +2,21 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 137,
-  "commit_count": 80,
-  "review_count": 57,
+  "score": 140,
+  "commit_count": 81,
+  "review_count": 59,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "364ee30d71",
+      "message": "Check for preconfigured connection details before reconciling (#343)",
+      "date": "2026-05-06",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/343",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/364ee30d71a2358539cfb4c04f67c73e11819a63"
+    },
     {
       "sha": "fabc05c219",
       "message": "Add docker overview for dockerhub (#334)",
@@ -651,6 +659,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9ba5e88b05",
+      "message": "Update version to 1.0.1 (#344)",
+      "date": "2026-05-06",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/344",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/9ba5e88b051184ce962d4624ce97e3dac14c1ea7"
+    },
+    {
+      "sha": "508ebd84b1",
+      "message": "use cluster alias in views instead of cluster id if available (#341)",
+      "date": "2026-05-06",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/341",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/508ebd84b1bf24af41e69ad45323032db071aa29"
+    },
     {
       "sha": "bb4320c7f5",
       "message": "Update version to 1.0.0 (#333)",

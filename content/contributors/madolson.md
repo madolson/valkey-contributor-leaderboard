@@ -2,8 +2,8 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 823,
-  "commit_count": 172,
+  "score": 830,
+  "commit_count": 179,
   "review_count": 651,
   "repos": [
     "valkey",
@@ -22,6 +22,62 @@
       "repo": "valkey-io.github.io",
       "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/514",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/3f072a5d4e1aa017caa629626f9e2d1ded9edb45"
+    },
+    {
+      "sha": "19d0cbdd77",
+      "message": "Update versions.json and Dockerfiles for version 7.2.13 (#140)",
+      "date": "2026-05-06",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/140",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/19d0cbdd77fee11a548b74f85697e5973d4ef850"
+    },
+    {
+      "sha": "ad33994d86",
+      "message": "Update versions.json and Dockerfiles for version 8.1.7 (#142)",
+      "date": "2026-05-06",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/142",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/ad33994d863df1fd7cab43ed54d66a3322124bcc"
+    },
+    {
+      "sha": "29eaeaa1ea",
+      "message": "Update versions.json and Dockerfiles for version 8.0.9 (#143)",
+      "date": "2026-05-06",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/143",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/29eaeaa1eaa9d74d4b4bf874a54844f66a5a31c9"
+    },
+    {
+      "sha": "b61597aa4d",
+      "message": "Update versions.json and Dockerfiles for version 9.0.4 (#141)",
+      "date": "2026-05-06",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/141",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/b61597aa4dda5e5b9ddab4bdd5843e82a2acc4e6"
+    },
+    {
+      "sha": "682d67ab00",
+      "message": "Update website for version 8.1.7 (#536)",
+      "date": "2026-05-06",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/536",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/682d67ab001461d7bacb8df1c55c1ea9595cba18"
+    },
+    {
+      "sha": "f413bd3348",
+      "message": "Update website for version 9.0.4 (#537)",
+      "date": "2026-05-06",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/537",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f413bd33487fa339395696171681e3cf998fd908"
+    },
+    {
+      "sha": "ad0c99a4c0",
+      "message": "Update website for version 8.0.9 (#538)",
+      "date": "2026-05-06",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/538",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/ad0c99a4c09c235e481431004f8bac4fa76065e1"
     },
     {
       "sha": "4e27dc5548",

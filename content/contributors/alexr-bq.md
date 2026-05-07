@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 140,
+  "score": 141,
   "commit_count": 37,
-  "review_count": 103,
+  "review_count": 104,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -309,6 +309,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "37672e7a68",
+      "message": "docs: Add C# examples for Search and JSON module documentation (#209)",
+      "date": "2026-05-06",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/209",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/37672e7a6823942a9d5f6d9a35a532576dbb37e9"
+    },
     {
       "sha": "735fcd5e1d",
       "message": "refactor: Vector Search (FT.*) command API cleanup (#364)",

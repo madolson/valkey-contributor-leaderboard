@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 217,
+  "score": 221,
   "commit_count": 50,
-  "review_count": 167,
+  "review_count": 171,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -414,6 +414,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b4b34a1dc1",
+      "message": "Python: Support custom socket address resolution (#5876)",
+      "date": "2026-05-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5876",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b4b34a1dc16d97a3fae32fc19bc1d42b3ec2f224"
+    },
+    {
+      "sha": "91ba67cbac",
+      "message": "PHP: Add artifact signing (#189)",
+      "date": "2026-05-06",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/189",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/91ba67cbacda48edc99a550a27f96a8c05684ad4"
+    },
+    {
+      "sha": "675ee87b41",
+      "message": "PHP: Pin github actions to SHA (#188)",
+      "date": "2026-05-06",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/188",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/675ee87b412432a603c5782f37b154eb0902760f"
+    },
+    {
+      "sha": "b1cf8539a5",
+      "message": "PHP: Remove security.md file (#187)",
+      "date": "2026-05-06",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/187",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b1cf8539a543bae4d6bd3cb1888aa786ce9d8abc"
+    },
     {
       "sha": "8b8af448f6",
       "message": "Go: Create common client interfaces (#5862)",

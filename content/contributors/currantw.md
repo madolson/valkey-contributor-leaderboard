@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 156,
-  "commit_count": 95,
+  "score": 158,
+  "commit_count": 97,
   "review_count": 61,
   "repos": [
     "valkey-doc",
@@ -14,6 +14,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "37672e7a68",
+      "message": "docs: Add C# examples for Search and JSON module documentation (#209)",
+      "date": "2026-05-06",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/209",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/37672e7a6823942a9d5f6d9a35a532576dbb37e9"
+    },
+    {
+      "sha": "ff9bb01b7f",
+      "message": "feat: Add automated compilation validation for C# code examples (#201)",
+      "date": "2026-05-06",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/201",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/ff9bb01b7fd708d84da83a78b5769dde413ad90d"
+    },
     {
       "sha": "735fcd5e1d",
       "message": "refactor: Vector Search (FT.*) command API cleanup (#364)",

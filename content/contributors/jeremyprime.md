@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 119,
+  "score": 120,
   "commit_count": 29,
-  "review_count": 90,
+  "review_count": 91,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -245,6 +245,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b4b34a1dc1",
+      "message": "Python: Support custom socket address resolution (#5876)",
+      "date": "2026-05-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5876",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b4b34a1dc16d97a3fae32fc19bc1d42b3ec2f224"
+    },
     {
       "sha": "735fcd5e1d",
       "message": "refactor: Vector Search (FT.*) command API cleanup (#364)",

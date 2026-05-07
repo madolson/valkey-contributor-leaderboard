@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 264,
-  "commit_count": 86,
-  "review_count": 178,
+  "score": 269,
+  "commit_count": 87,
+  "review_count": 182,
   "repos": [
     "valkey",
     "valkey-container",
@@ -14,6 +14,14 @@
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "1d7224f389",
+      "message": "Fix UAF in unblockClientOnKey when reprocessed command frees the client (CVE-2026-23479) (#3613)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3613",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1d7224f3894c8e6db39a9e86c040270b3122c064"
+    },
     {
       "sha": "fea0b4064c",
       "message": "Fix invalid memory access in RESTORE with malformed zipmap (CVE-2026-25243) (#3619)",
@@ -704,6 +712,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "96763ade54",
+      "message": "Fix Deferred Reply Placeholders in Active Deferred Buffers (#3578)",
+      "date": "2026-05-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3578",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/96763ade54998de6002b76a6fc574f050cd0490c"
+    },
+    {
+      "sha": "682d67ab00",
+      "message": "Update website for version 8.1.7 (#536)",
+      "date": "2026-05-06",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/536",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/682d67ab001461d7bacb8df1c55c1ea9595cba18"
+    },
+    {
+      "sha": "f413bd3348",
+      "message": "Update website for version 9.0.4 (#537)",
+      "date": "2026-05-06",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/537",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f413bd33487fa339395696171681e3cf998fd908"
+    },
+    {
+      "sha": "ad0c99a4c0",
+      "message": "Update website for version 8.0.9 (#538)",
+      "date": "2026-05-06",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/538",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/ad0c99a4c09c235e481431004f8bac4fa76065e1"
+    },
     {
       "sha": "797c626046",
       "message": "Fix SIGSEGV in VM_GetLRU/SetLRU/GetLFU/SetLFU on NULL key (#3610)",

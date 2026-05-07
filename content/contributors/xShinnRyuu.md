@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 211,
+  "score": 215,
   "commit_count": 49,
-  "review_count": 162,
+  "review_count": 166,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -404,6 +404,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ff9bb01b7f",
+      "message": "feat: Add automated compilation validation for C# code examples (#201)",
+      "date": "2026-05-06",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/201",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/ff9bb01b7fd708d84da83a78b5769dde413ad90d"
+    },
+    {
+      "sha": "91ba67cbac",
+      "message": "PHP: Add artifact signing (#189)",
+      "date": "2026-05-06",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/189",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/91ba67cbacda48edc99a550a27f96a8c05684ad4"
+    },
+    {
+      "sha": "675ee87b41",
+      "message": "PHP: Pin github actions to SHA (#188)",
+      "date": "2026-05-06",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/188",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/675ee87b412432a603c5782f37b154eb0902760f"
+    },
+    {
+      "sha": "b1cf8539a5",
+      "message": "PHP: Remove security.md file (#187)",
+      "date": "2026-05-06",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/187",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b1cf8539a543bae4d6bd3cb1888aa786ce9d8abc"
+    },
     {
       "sha": "8f15ecaa85",
       "message": "Isolate flaky workflows and disabled flaky tests (#5808)",

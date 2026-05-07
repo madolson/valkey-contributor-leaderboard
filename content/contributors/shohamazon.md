@@ -2,13 +2,21 @@
   "title": "shohamazon",
   "login": "shohamazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/116083498?v=4",
-  "score": 313,
-  "commit_count": 133,
+  "score": 314,
+  "commit_count": 134,
   "review_count": 180,
   "repos": [
     "valkey-glide"
   ],
   "commit_list": [
+    {
+      "sha": "c335985bc8",
+      "message": "Python: Optimize cache metrics retrieval to be synchronous (#5772) (#5856)",
+      "date": "2026-05-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5856",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c335985bc854e8a64f7b93668eb919a84c6a1562"
+    },
     {
       "sha": "970fdbe071",
       "message": "Core: trigger topology refresh on ConnectionNotFoundForRoute in fanout operations (#5812)",

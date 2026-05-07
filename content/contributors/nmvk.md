@@ -2,14 +2,30 @@
   "title": "nmvk",
   "login": "nmvk",
   "avatar_url": "https://avatars.githubusercontent.com/u/1668438?v=4",
-  "score": 6,
-  "commit_count": 5,
+  "score": 8,
+  "commit_count": 7,
   "review_count": 1,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "96a6bc5d27",
+      "message": "Fix the memory leak in valkey-benchmark (#3643)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3643",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/96a6bc5d2749a2722a91ecff8c094c23a58e9a7a"
+    },
+    {
+      "sha": "6c9d7fc263",
+      "message": "CLUSTERSCAN range bounded scanning across contiguous slots (#3391)",
+      "date": "2026-05-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3391",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6c9d7fc263dd4dfe07460f7ed6de63295890b77a"
+    },
     {
       "sha": "e6bbd4e0d2",
       "message": "Skip faster-failover test under TLS  (#3444)",

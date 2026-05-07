@@ -2,8 +2,8 @@
   "title": "hanxizh9910",
   "login": "hanxizh9910",
   "avatar_url": "https://avatars.githubusercontent.com/u/220982061?v=4",
-  "score": 36,
-  "commit_count": 33,
+  "score": 37,
+  "commit_count": 34,
   "review_count": 3,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "199d49a432",
+      "message": "Automatically create github issues for test failures from daily CI runs (#3358)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3358",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/199d49a4326c5722f1c9c0bbb1860bcb64d9b323"
+    },
     {
       "sha": "edc0d26ada",
       "message": "Strip LTO flags from static Lua module build (#3555)",

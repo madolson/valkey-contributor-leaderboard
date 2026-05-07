@@ -2,9 +2,9 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 232,
+  "score": 236,
   "commit_count": 90,
-  "review_count": 142,
+  "review_count": 146,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -743,6 +743,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "199d49a432",
+      "message": "Automatically create github issues for test failures from daily CI runs (#3358)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3358",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/199d49a4326c5722f1c9c0bbb1860bcb64d9b323"
+    },
+    {
+      "sha": "199d49a432",
+      "message": "Automatically create github issues for test failures from daily CI runs (#3358)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3358",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/199d49a4326c5722f1c9c0bbb1860bcb64d9b323"
+    },
+    {
+      "sha": "199d49a432",
+      "message": "Automatically create github issues for test failures from daily CI runs (#3358)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3358",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/199d49a4326c5722f1c9c0bbb1860bcb64d9b323"
+    },
+    {
+      "sha": "ccef347922",
+      "message": "Skip deferred_reply test in req/res log validation (#3642)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3642",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ccef34792266961ec63393a8bc09c1552bc83e95"
+    },
     {
       "sha": "f2f4e5dbfc",
       "message": "Run ASan Tests on run-extra-tests label (#3512)",

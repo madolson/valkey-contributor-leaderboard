@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 819,
+  "score": 822,
   "commit_count": 316,
-  "review_count": 503,
+  "review_count": 506,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2543,6 +2543,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1d7224f389",
+      "message": "Fix UAF in unblockClientOnKey when reprocessed command frees the client (CVE-2026-23479) (#3613)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3613",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1d7224f3894c8e6db39a9e86c040270b3122c064"
+    },
+    {
+      "sha": "ccef347922",
+      "message": "Skip deferred_reply test in req/res log validation (#3642)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3642",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ccef34792266961ec63393a8bc09c1552bc83e95"
+    },
+    {
+      "sha": "96a6bc5d27",
+      "message": "Fix the memory leak in valkey-benchmark (#3643)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3643",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/96a6bc5d2749a2722a91ecff8c094c23a58e9a7a"
+    },
     {
       "sha": "f2f4e5dbfc",
       "message": "Run ASan Tests on run-extra-tests label (#3512)",

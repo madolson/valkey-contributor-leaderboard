@@ -2,9 +2,9 @@
   "title": "ikolomi",
   "login": "ikolomi",
   "avatar_url": "https://avatars.githubusercontent.com/u/152477505?v=4",
-  "score": 173,
+  "score": 174,
   "commit_count": 41,
-  "review_count": 132,
+  "review_count": 133,
   "repos": [
     "spring-data-valkey",
     "valkey-glide"
@@ -340,6 +340,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c335985bc8",
+      "message": "Python: Optimize cache metrics retrieval to be synchronous (#5772) (#5856)",
+      "date": "2026-05-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5856",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c335985bc854e8a64f7b93668eb919a84c6a1562"
+    },
     {
       "sha": "970fdbe071",
       "message": "Core: trigger topology refresh on ConnectionNotFoundForRoute in fanout operations (#5812)",

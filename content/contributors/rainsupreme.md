@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 71,
+  "score": 72,
   "commit_count": 26,
-  "review_count": 45,
+  "review_count": 46,
   "repos": [
     "valkey",
     "valkey-perf-benchmark"
@@ -220,6 +220,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9669b26706",
+      "message": "Reduce latency spikes during rehashing via incremental page release (#3481)",
+      "date": "2026-05-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3481",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9669b26706a0a3992e027460da2b544defdeb2ac"
+    },
     {
       "sha": "8891441ab9",
       "message": "Fix checkPrefixCollisionsOrReply returning non-zero on self-overlap (#3583)",

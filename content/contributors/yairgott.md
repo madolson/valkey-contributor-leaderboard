@@ -2,9 +2,9 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 108,
+  "score": 109,
   "commit_count": 30,
-  "review_count": 78,
+  "review_count": 79,
   "repos": [
     "valkey",
     "valkey-io.github.io",
@@ -253,6 +253,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "96763ade54",
+      "message": "Fix Deferred Reply Placeholders in Active Deferred Buffers (#3578)",
+      "date": "2026-05-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3578",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/96763ade54998de6002b76a6fc574f050cd0490c"
+    },
     {
       "sha": "3570431895",
       "message": "Allow local node to have no primary endpoint (#633)",

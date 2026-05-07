@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 276,
+  "score": 277,
   "commit_count": 59,
-  "review_count": 217,
+  "review_count": 218,
   "repos": [
     "valkey",
     "valkey-container",
@@ -488,6 +488,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "199d49a432",
+      "message": "Automatically create github issues for test failures from daily CI runs (#3358)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3358",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/199d49a4326c5722f1c9c0bbb1860bcb64d9b323"
+    },
     {
       "sha": "d2db0c268c",
       "message": "Fix module commandresult event cleanup during unsubscribe and module unload (#3545)",

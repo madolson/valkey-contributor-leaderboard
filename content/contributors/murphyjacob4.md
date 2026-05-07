@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 104,
+  "score": 105,
   "commit_count": 42,
-  "review_count": 62,
+  "review_count": 63,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2f16107712",
+      "message": "Add null check in updateSSLPendingFlag (#3641)",
+      "date": "2026-05-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3641",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2f161077123e8c2aa6e1b9301eb3d3e62be45711"
+    },
     {
       "sha": "8891441ab9",
       "message": "Fix checkPrefixCollisionsOrReply returning non-zero on self-overlap (#3583)",

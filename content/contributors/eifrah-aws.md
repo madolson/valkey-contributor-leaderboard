@@ -2,8 +2,8 @@
   "title": "eifrah-aws",
   "login": "eifrah-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/170855270?v=4",
-  "score": 207,
-  "commit_count": 88,
+  "score": 208,
+  "commit_count": 89,
   "review_count": 119,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "96763ade54",
+      "message": "Fix Deferred Reply Placeholders in Active Deferred Buffers (#3578)",
+      "date": "2026-05-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3578",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/96763ade54998de6002b76a6fc574f050cd0490c"
+    },
     {
       "sha": "6dbb7f81a9",
       "message": "Fix remove cached eval scripts on engine unregister (#3503)",

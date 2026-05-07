@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 105,
-  "commit_count": 91,
+  "score": 106,
+  "commit_count": 92,
   "review_count": 14,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "508ebd84b1",
+      "message": "use cluster alias in views instead of cluster id if available (#341)",
+      "date": "2026-05-06",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/341",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/508ebd84b1bf24af41e69ad45323032db071aa29"
+    },
     {
       "sha": "543b9675d9",
       "message": "fix app version to show the correct release version (#340)",

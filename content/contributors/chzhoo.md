@@ -2,13 +2,21 @@
   "title": "chzhoo",
   "login": "chzhoo",
   "avatar_url": "https://avatars.githubusercontent.com/u/198573582?v=4",
-  "score": 7,
-  "commit_count": 7,
+  "score": 8,
+  "commit_count": 8,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "9669b26706",
+      "message": "Reduce latency spikes during rehashing via incremental page release (#3481)",
+      "date": "2026-05-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3481",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9669b26706a0a3992e027460da2b544defdeb2ac"
+    },
     {
       "sha": "920bf128b6",
       "message": "Optimize skiplist query efficiency by embedding the skiplist header (#2867)",

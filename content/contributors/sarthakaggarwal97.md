@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 270,
-  "commit_count": 82,
-  "review_count": 188,
+  "score": 279,
+  "commit_count": 83,
+  "review_count": 196,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "ccef347922",
+      "message": "Skip deferred_reply test in req/res log validation (#3642)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3642",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ccef34792266961ec63393a8bc09c1552bc83e95"
+    },
     {
       "sha": "f2f4e5dbfc",
       "message": "Run ASan Tests on run-extra-tests label (#3512)",
@@ -670,6 +678,70 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "199d49a432",
+      "message": "Automatically create github issues for test failures from daily CI runs (#3358)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3358",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/199d49a4326c5722f1c9c0bbb1860bcb64d9b323"
+    },
+    {
+      "sha": "199d49a432",
+      "message": "Automatically create github issues for test failures from daily CI runs (#3358)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3358",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/199d49a4326c5722f1c9c0bbb1860bcb64d9b323"
+    },
+    {
+      "sha": "199d49a432",
+      "message": "Automatically create github issues for test failures from daily CI runs (#3358)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3358",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/199d49a4326c5722f1c9c0bbb1860bcb64d9b323"
+    },
+    {
+      "sha": "199d49a432",
+      "message": "Automatically create github issues for test failures from daily CI runs (#3358)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3358",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/199d49a4326c5722f1c9c0bbb1860bcb64d9b323"
+    },
+    {
+      "sha": "75fee11c6c",
+      "message": "Fixes server crash when RDMA benchmark clients disconnect (#3448)",
+      "date": "2026-05-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3448",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/75fee11c6c00b2bd1a0b0c9a0c4bc0f50bb27949"
+    },
+    {
+      "sha": "682d67ab00",
+      "message": "Update website for version 8.1.7 (#536)",
+      "date": "2026-05-06",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/536",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/682d67ab001461d7bacb8df1c55c1ea9595cba18"
+    },
+    {
+      "sha": "f413bd3348",
+      "message": "Update website for version 9.0.4 (#537)",
+      "date": "2026-05-06",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/537",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f413bd33487fa339395696171681e3cf998fd908"
+    },
+    {
+      "sha": "ad0c99a4c0",
+      "message": "Update website for version 8.0.9 (#538)",
+      "date": "2026-05-06",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/538",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/ad0c99a4c09c235e481431004f8bac4fa76065e1"
+    },
     {
       "sha": "54bdf5737b",
       "message": "Handle NULL pointer in streamTrim listpack delta calculation (#3591)",

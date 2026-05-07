@@ -2,9 +2,9 @@
   "title": "pizhenwei",
   "login": "pizhenwei",
   "avatar_url": "https://avatars.githubusercontent.com/u/5586500?v=4",
-  "score": 40,
+  "score": 42,
   "commit_count": 32,
-  "review_count": 8,
+  "review_count": 10,
   "repos": [
     "libvalkey",
     "valkey",
@@ -269,6 +269,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "75fee11c6c",
+      "message": "Fixes server crash when RDMA benchmark clients disconnect (#3448)",
+      "date": "2026-05-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3448",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/75fee11c6c00b2bd1a0b0c9a0c4bc0f50bb27949"
+    },
+    {
+      "sha": "c5959266f1",
+      "message": "valkey-benchmark: centralize RDMA WRITABLE kick via createFileEvent (#3492)",
+      "date": "2026-05-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3492",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c5959266f1f94dfd976e6af0f4c65d400ef3904d"
+    },
     {
       "sha": "ac9ca9de3d",
       "message": "Fix rdmaServer leaks when create listen cm id error (#3557)",
