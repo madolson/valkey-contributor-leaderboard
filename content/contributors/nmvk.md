@@ -2,9 +2,9 @@
   "title": "nmvk",
   "login": "nmvk",
   "avatar_url": "https://avatars.githubusercontent.com/u/1668438?v=4",
-  "score": 8,
+  "score": 9,
   "commit_count": 7,
-  "review_count": 1,
+  "review_count": 2,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -68,6 +68,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "89b7baa598",
+      "message": "Speed up cluster startup by 10 seconds (#3606)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3606",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/89b7baa598b177286572e0784a4391810910f3d2"
+    },
     {
       "sha": "8a91a12398",
       "message": "Unique samples in hashtableSampleEntries (#3460)",

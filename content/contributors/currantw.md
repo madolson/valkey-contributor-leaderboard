@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 158,
-  "commit_count": 97,
+  "score": 159,
+  "commit_count": 98,
   "review_count": 61,
   "repos": [
     "valkey-doc",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "6b9aab0b13",
+      "message": "Cherry-pick release-1.1 commits to main (#378)",
+      "date": "2026-05-07",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/378",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/6b9aab0b136f818119a3659dfc57fad78ff13ca2"
+    },
     {
       "sha": "37672e7a68",
       "message": "docs: Add C# examples for Search and JSON module documentation (#209)",

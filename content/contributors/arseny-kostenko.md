@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 192,
+  "score": 193,
   "commit_count": 19,
-  "review_count": 173,
+  "review_count": 174,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "caba29e58b",
+      "message": "Change clientName to include valkey admin (#347)",
+      "date": "2026-05-08",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/347",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/caba29e58bd19f21a12d3249acc6e99b80318afb"
+    },
     {
       "sha": "543b9675d9",
       "message": "fix app version to show the correct release version (#340)",

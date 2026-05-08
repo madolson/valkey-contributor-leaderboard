@@ -2,9 +2,9 @@
   "title": "xdk-amz",
   "login": "xdk-amz",
   "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
-  "score": 5,
+  "score": 6,
   "commit_count": 4,
-  "review_count": 1,
+  "review_count": 2,
   "repos": [
     "valkey-glide"
   ],
@@ -43,6 +43,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "89b7baa598",
+      "message": "Speed up cluster startup by 10 seconds (#3606)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3606",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/89b7baa598b177286572e0784a4391810910f3d2"
+    },
     {
       "sha": "651c40a89e",
       "message": "Fix FD leak in connSocketBlockingConnect on timeout (#3541)",

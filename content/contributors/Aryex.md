@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 87,
+  "score": 88,
   "commit_count": 32,
-  "review_count": 55,
+  "review_count": 56,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -270,6 +270,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6b9aab0b13",
+      "message": "Cherry-pick release-1.1 commits to main (#378)",
+      "date": "2026-05-07",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/378",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/6b9aab0b136f818119a3659dfc57fad78ff13ca2"
+    },
     {
       "sha": "cbcfafd5c3",
       "message": "docs(concepts): Add Memory Model page (#212)",

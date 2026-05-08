@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 245,
+  "score": 246,
   "commit_count": 91,
-  "review_count": 154,
+  "review_count": 155,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -745,6 +745,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "70b8c2025c",
+      "message": "Fix timefmt causes OOM on empty input, Issue: #962 (#963)",
+      "date": "2026-05-07",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/963",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/70b8c2025c0fe255a3ce64a01e1f92668898e5e2"
+    },
     {
       "sha": "f1db9edb2e",
       "message": "Fix FT.SEARCH bare wildcard execution (#960)",

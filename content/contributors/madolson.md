@@ -2,8 +2,8 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 830,
-  "commit_count": 179,
+  "score": 831,
+  "commit_count": 180,
   "review_count": 651,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "a07828f235",
+      "message": "Update website for version 7.2.13 (#535)",
+      "date": "2026-05-07",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/535",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/a07828f2356651c7c455abe955b52824f07b95ed"
+    },
     {
       "sha": "3f072a5d4e",
       "message": "Add workflow to auto-assign technical-blog-reviewers (#514)",

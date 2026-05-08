@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 279,
+  "score": 281,
   "commit_count": 83,
-  "review_count": 196,
+  "review_count": 198,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -709,6 +709,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3358",
       "commit_url": "https://github.com/valkey-io/valkey/commit/199d49a4326c5722f1c9c0bbb1860bcb64d9b323"
+    },
+    {
+      "sha": "89b7baa598",
+      "message": "Speed up cluster startup by 10 seconds (#3606)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3606",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/89b7baa598b177286572e0784a4391810910f3d2"
+    },
+    {
+      "sha": "a07828f235",
+      "message": "Update website for version 7.2.13 (#535)",
+      "date": "2026-05-07",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/535",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/a07828f2356651c7c455abe955b52824f07b95ed"
     },
     {
       "sha": "75fee11c6c",

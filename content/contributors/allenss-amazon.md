@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 231,
-  "commit_count": 48,
+  "score": 232,
+  "commit_count": 49,
   "review_count": 183,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "70b8c2025c",
+      "message": "Fix timefmt causes OOM on empty input, Issue: #962 (#963)",
+      "date": "2026-05-07",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/963",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/70b8c2025c0fe255a3ce64a01e1f92668898e5e2"
+    },
     {
       "sha": "bf70d73275",
       "message": "Enhance overview description, correct aggregation (#782)",

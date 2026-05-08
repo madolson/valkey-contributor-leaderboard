@@ -2,8 +2,8 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1117,
-  "commit_count": 149,
+  "score": 1118,
+  "commit_count": 150,
   "review_count": 968,
   "repos": [
     "libvalkey",
@@ -13,6 +13,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "89b7baa598",
+      "message": "Speed up cluster startup by 10 seconds (#3606)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3606",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/89b7baa598b177286572e0784a4391810910f3d2"
+    },
     {
       "sha": "2f16107712",
       "message": "Add null check in updateSSLPendingFlag (#3641)",

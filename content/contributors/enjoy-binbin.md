@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 822,
+  "score": 824,
   "commit_count": 316,
-  "review_count": 506,
+  "review_count": 508,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2566,6 +2566,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3643",
       "commit_url": "https://github.com/valkey-io/valkey/commit/96a6bc5d2749a2722a91ecff8c094c23a58e9a7a"
+    },
+    {
+      "sha": "89b7baa598",
+      "message": "Speed up cluster startup by 10 seconds (#3606)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3606",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/89b7baa598b177286572e0784a4391810910f3d2"
+    },
+    {
+      "sha": "89b7baa598",
+      "message": "Speed up cluster startup by 10 seconds (#3606)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3606",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/89b7baa598b177286572e0784a4391810910f3d2"
     },
     {
       "sha": "f2f4e5dbfc",

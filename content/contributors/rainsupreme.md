@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 72,
+  "score": 73,
   "commit_count": 26,
-  "review_count": 46,
+  "review_count": 47,
   "repos": [
     "valkey",
     "valkey-perf-benchmark"
@@ -220,6 +220,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "89b7baa598",
+      "message": "Speed up cluster startup by 10 seconds (#3606)",
+      "date": "2026-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3606",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/89b7baa598b177286572e0784a4391810910f3d2"
+    },
     {
       "sha": "9669b26706",
       "message": "Reduce latency spikes during rehashing via incremental page release (#3481)",

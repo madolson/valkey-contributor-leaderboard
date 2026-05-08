@@ -2,13 +2,21 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 140,
-  "commit_count": 81,
+  "score": 141,
+  "commit_count": 82,
   "review_count": 59,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "caba29e58b",
+      "message": "Change clientName to include valkey admin (#347)",
+      "date": "2026-05-08",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/347",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/caba29e58bd19f21a12d3249acc6e99b80318afb"
+    },
     {
       "sha": "364ee30d71",
       "message": "Check for preconfigured connection details before reconciling (#343)",

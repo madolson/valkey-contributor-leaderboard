@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 269,
+  "score": 270,
   "commit_count": 87,
-  "review_count": 182,
+  "review_count": 183,
   "repos": [
     "valkey",
     "valkey-container",
@@ -712,6 +712,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a07828f235",
+      "message": "Update website for version 7.2.13 (#535)",
+      "date": "2026-05-07",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/535",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/a07828f2356651c7c455abe955b52824f07b95ed"
+    },
     {
       "sha": "96763ade54",
       "message": "Fix Deferred Reply Placeholders in Active Deferred Buffers (#3578)",
