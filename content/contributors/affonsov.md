@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 115,
-  "commit_count": 62,
+  "score": 116,
+  "commit_count": 63,
   "review_count": 53,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "5623c22b67",
+      "message": "fix(node): allow protobufjs build scripts in pnpm test (#5899)",
+      "date": "2026-05-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5899",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5623c22b67e50faf8c4f4878d07778d4a25dee2a"
+    },
     {
       "sha": "b4b34a1dc1",
       "message": "Python: Support custom socket address resolution (#5876)",

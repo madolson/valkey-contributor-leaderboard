@@ -2,16 +2,25 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 88,
-  "commit_count": 32,
-  "review_count": 56,
+  "score": 91,
+  "commit_count": 33,
+  "review_count": 58,
   "repos": [
     "valkey-doc",
     "valkey-glide",
+    "valkey-glide-csharp",
     "valkey-glide-docs",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "14741e1d78",
+      "message": "added: nightly.yml for nightly FMT testing (#375)",
+      "date": "2026-05-08",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/375",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/14741e1d783dec019131acbc6db239d2c8f267e9"
+    },
     {
       "sha": "d44d901530",
       "message": "fix: java workflow correctly skips container tests on windows only and moved start time (#5882)",
@@ -270,6 +279,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5623c22b67",
+      "message": "fix(node): allow protobufjs build scripts in pnpm test (#5899)",
+      "date": "2026-05-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5899",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5623c22b67e50faf8c4f4878d07778d4a25dee2a"
+    },
+    {
+      "sha": "c77b1a566e",
+      "message": "Update Windows support section to include C# client (#213)",
+      "date": "2026-05-08",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/213",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/c77b1a566e06ce54ada5ee3ebd163879a523d6bc"
+    },
     {
       "sha": "6b9aab0b13",
       "message": "Cherry-pick release-1.1 commits to main (#378)",

@@ -2,8 +2,8 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 142,
-  "commit_count": 37,
+  "score": 143,
+  "commit_count": 38,
   "review_count": 105,
   "repos": [
     "valkey-glide",
@@ -11,6 +11,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "af028806fe",
+      "message": "Compression Bugfixes (#5895)",
+      "date": "2026-05-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5895",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/af028806fe9fcf910aa9b5f1128a80461c7448ed"
+    },
     {
       "sha": "e95daf0bb8",
       "message": "C# JSON commands (#358)",

@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 120,
+  "score": 121,
   "commit_count": 29,
-  "review_count": 91,
+  "review_count": 92,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -245,6 +245,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7803996f54",
+      "message": "Fix TCP deadlock in MultiplexedConnection with large payloads (#5892)",
+      "date": "2026-05-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5892",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7803996f54825265f8fecff8a644001aa93ad79a"
+    },
     {
       "sha": "b4b34a1dc1",
       "message": "Python: Support custom socket address resolution (#5876)",

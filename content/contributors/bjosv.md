@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 163,
+  "score": 164,
   "commit_count": 94,
-  "review_count": 69,
+  "review_count": 70,
   "repos": [
     "libvalkey",
     "valkey",
@@ -766,6 +766,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c7b51b3613",
+      "message": "chore(kubebuilder): update scaffold v4.13.1 -> v4.14.0 (#161)",
+      "date": "2026-05-08",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/161",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c7b51b361387e1f24b15b7724656bd00182ced97"
+    },
     {
       "sha": "f12ce2d3f9",
       "message": "feat: add initial Helm chart for valkey-operator (#162)",

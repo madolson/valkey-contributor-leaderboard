@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 824,
-  "commit_count": 316,
-  "review_count": 508,
+  "score": 827,
+  "commit_count": 318,
+  "review_count": 509,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -13,6 +13,22 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "418c98bd25",
+      "message": "Use wait_for_condition instead of hardcoding in dump.tcl test (#3647)",
+      "date": "2026-05-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3647",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/418c98bd25f37259f304956142b46c42d386d188"
+    },
+    {
+      "sha": "3472158819",
+      "message": "Add the new MSETEX command (#424)",
+      "date": "2026-05-08",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/424",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/3472158819359cb0a03f976b7edb097f93981ba4"
+    },
     {
       "sha": "bef46dacc1",
       "message": "Skip cluster resharding test under valgrind (#3574)",
@@ -2543,6 +2559,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9a35437f8d",
+      "message": "Document INFO fields used_active_time_{main_thread,io_thread_N} (#437)",
+      "date": "2026-05-08",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/437",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/9a35437f8d0e2cca401be1b5ddf6092946dfccf2"
+    },
     {
       "sha": "1d7224f389",
       "message": "Fix UAF in unblockClientOnKey when reprocessed command frees the client (CVE-2026-23479) (#3613)",

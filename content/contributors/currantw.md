@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 159,
-  "commit_count": 98,
-  "review_count": 61,
+  "score": 161,
+  "commit_count": 99,
+  "review_count": 62,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "c77b1a566e",
+      "message": "Update Windows support section to include C# client (#213)",
+      "date": "2026-05-08",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/213",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/c77b1a566e06ce54ada5ee3ebd163879a523d6bc"
+    },
     {
       "sha": "6b9aab0b13",
       "message": "Cherry-pick release-1.1 commits to main (#378)",
@@ -800,6 +808,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "14741e1d78",
+      "message": "added: nightly.yml for nightly FMT testing (#375)",
+      "date": "2026-05-08",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/375",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/14741e1d783dec019131acbc6db239d2c8f267e9"
+    },
     {
       "sha": "86f42f3592",
       "message": "chore(deps): bump actions/setup-python from 5 to 6 (#362)",

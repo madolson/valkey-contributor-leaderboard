@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 221,
+  "score": 222,
   "commit_count": 50,
-  "review_count": 171,
+  "review_count": 172,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -414,6 +414,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7803996f54",
+      "message": "Fix TCP deadlock in MultiplexedConnection with large payloads (#5892)",
+      "date": "2026-05-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5892",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7803996f54825265f8fecff8a644001aa93ad79a"
+    },
     {
       "sha": "b4b34a1dc1",
       "message": "Python: Support custom socket address resolution (#5876)",

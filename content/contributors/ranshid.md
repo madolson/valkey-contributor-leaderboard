@@ -2,18 +2,27 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 270,
-  "commit_count": 87,
+  "score": 271,
+  "commit_count": 88,
   "review_count": 183,
   "repos": [
     "valkey",
     "valkey-container",
     "valkey-doc",
+    "valkey-glide",
     "valkey-hashes",
     "valkey-io.github.io",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "7803996f54",
+      "message": "Fix TCP deadlock in MultiplexedConnection with large payloads (#5892)",
+      "date": "2026-05-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5892",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7803996f54825265f8fecff8a644001aa93ad79a"
+    },
     {
       "sha": "1d7224f389",
       "message": "Fix UAF in unblockClientOnKey when reprocessed command frees the client (CVE-2026-23479) (#3613)",

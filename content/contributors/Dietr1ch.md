@@ -2,13 +2,22 @@
   "title": "Dietr1ch",
   "login": "Dietr1ch",
   "avatar_url": "https://avatars.githubusercontent.com/u/2096594?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "e24b0b7f5f",
+      "message": "Update CLI options with new environment variables (#432)",
+      "date": "2026-05-08",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/432",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/e24b0b7f5f577a9c470fc623b4e1ea9f8d7a9304"
+    },
     {
       "sha": "9d51f5ff8a",
       "message": "Document VALKEYCLI_HOST/PORT variables in help (#3520)",

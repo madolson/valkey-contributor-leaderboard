@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 216,
+  "score": 219,
   "commit_count": 49,
-  "review_count": 167,
+  "review_count": 170,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -404,6 +404,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "af028806fe",
+      "message": "Compression Bugfixes (#5895)",
+      "date": "2026-05-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5895",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/af028806fe9fcf910aa9b5f1128a80461c7448ed"
+    },
+    {
+      "sha": "5623c22b67",
+      "message": "fix(node): allow protobufjs build scripts in pnpm test (#5899)",
+      "date": "2026-05-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5899",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5623c22b67e50faf8c4f4878d07778d4a25dee2a"
+    },
+    {
+      "sha": "14741e1d78",
+      "message": "added: nightly.yml for nightly FMT testing (#375)",
+      "date": "2026-05-08",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/375",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/14741e1d783dec019131acbc6db239d2c8f267e9"
+    },
     {
       "sha": "6b9aab0b13",
       "message": "Cherry-pick release-1.1 commits to main (#378)",

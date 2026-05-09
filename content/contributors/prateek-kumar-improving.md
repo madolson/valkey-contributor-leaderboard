@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 304,
+  "score": 306,
   "commit_count": 108,
-  "review_count": 196,
+  "review_count": 198,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -878,6 +878,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "af028806fe",
+      "message": "Compression Bugfixes (#5895)",
+      "date": "2026-05-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5895",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/af028806fe9fcf910aa9b5f1128a80461c7448ed"
+    },
+    {
+      "sha": "af028806fe",
+      "message": "Compression Bugfixes (#5895)",
+      "date": "2026-05-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5895",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/af028806fe9fcf910aa9b5f1128a80461c7448ed"
+    },
     {
       "sha": "b9f1f7a11e",
       "message": "fix(go): Update docs after FT module refactor (#5881)",

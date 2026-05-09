@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 281,
+  "score": 282,
   "commit_count": 83,
-  "review_count": 198,
+  "review_count": 199,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -678,6 +678,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "418c98bd25",
+      "message": "Use wait_for_condition instead of hardcoding in dump.tcl test (#3647)",
+      "date": "2026-05-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3647",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/418c98bd25f37259f304956142b46c42d386d188"
+    },
     {
       "sha": "199d49a432",
       "message": "Automatically create github issues for test failures from daily CI runs (#3358)",

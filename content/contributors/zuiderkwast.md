@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1118,
-  "commit_count": 150,
-  "review_count": 968,
+  "score": 1122,
+  "commit_count": 151,
+  "review_count": 971,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "9a35437f8d",
+      "message": "Document INFO fields used_active_time_{main_thread,io_thread_N} (#437)",
+      "date": "2026-05-08",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/437",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/9a35437f8d0e2cca401be1b5ddf6092946dfccf2"
+    },
     {
       "sha": "89b7baa598",
       "message": "Speed up cluster startup by 10 seconds (#3606)",
@@ -1215,6 +1223,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "418c98bd25",
+      "message": "Use wait_for_condition instead of hardcoding in dump.tcl test (#3647)",
+      "date": "2026-05-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3647",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/418c98bd25f37259f304956142b46c42d386d188"
+    },
+    {
+      "sha": "e24b0b7f5f",
+      "message": "Update CLI options with new environment variables (#432)",
+      "date": "2026-05-08",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/432",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/e24b0b7f5f577a9c470fc623b4e1ea9f8d7a9304"
+    },
+    {
+      "sha": "3472158819",
+      "message": "Add the new MSETEX command (#424)",
+      "date": "2026-05-08",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/424",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/3472158819359cb0a03f976b7edb097f93981ba4"
+    },
     {
       "sha": "6c9d7fc263",
       "message": "CLUSTERSCAN range bounded scanning across contiguous slots (#3391)",

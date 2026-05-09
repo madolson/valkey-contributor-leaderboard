@@ -2,13 +2,21 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 26,
-  "commit_count": 11,
+  "score": 27,
+  "commit_count": 12,
   "review_count": 15,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "c7b51b3613",
+      "message": "chore(kubebuilder): update scaffold v4.13.1 -> v4.14.0 (#161)",
+      "date": "2026-05-08",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/161",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c7b51b361387e1f24b15b7724656bd00182ced97"
+    },
     {
       "sha": "2b3718a3e5",
       "message": "feat: initial tls support for valkey cluster (#133)",
