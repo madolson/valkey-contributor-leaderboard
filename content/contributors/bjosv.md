@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 164,
+  "score": 166,
   "commit_count": 94,
-  "review_count": 70,
+  "review_count": 72,
   "repos": [
     "libvalkey",
     "valkey",
@@ -766,6 +766,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "426218dc3c",
+      "message": "[feat] Roll ValkeyNodes on changes to ValkeyCluster.Spec.Config (#164)",
+      "date": "2026-05-09",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/164",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/426218dc3ca9a9fc9fc1b8372e82fb81cf684d73"
+    },
+    {
+      "sha": "426218dc3c",
+      "message": "[feat] Roll ValkeyNodes on changes to ValkeyCluster.Spec.Config (#164)",
+      "date": "2026-05-09",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/164",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/426218dc3ca9a9fc9fc1b8372e82fb81cf684d73"
+    },
     {
       "sha": "c7b51b3613",
       "message": "chore(kubebuilder): update scaffold v4.13.1 -> v4.14.0 (#161)",

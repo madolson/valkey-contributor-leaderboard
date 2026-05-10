@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1122,
+  "score": 1124,
   "commit_count": 151,
-  "review_count": 971,
+  "review_count": 973,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1230,6 +1230,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3647",
       "commit_url": "https://github.com/valkey-io/valkey/commit/418c98bd25f37259f304956142b46c42d386d188"
+    },
+    {
+      "sha": "a34915f09d",
+      "message": "fix(docs): correct LPOP example in lists documentation (#425)",
+      "date": "2026-05-09",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/425",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/a34915f09d8f97ff39a163deaf2254c84dcc5ce8"
+    },
+    {
+      "sha": "5052e01e3a",
+      "message": "Update RDMA client support (#429)",
+      "date": "2026-05-09",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/429",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/5052e01e3aa26d2be638af455bdf6669f9c52014"
     },
     {
       "sha": "e24b0b7f5f",

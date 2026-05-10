@@ -2,8 +2,8 @@
   "title": "pizhenwei",
   "login": "pizhenwei",
   "avatar_url": "https://avatars.githubusercontent.com/u/5586500?v=4",
-  "score": 42,
-  "commit_count": 32,
+  "score": 43,
+  "commit_count": 33,
   "review_count": 10,
   "repos": [
     "libvalkey",
@@ -11,6 +11,14 @@
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "5052e01e3a",
+      "message": "Update RDMA client support (#429)",
+      "date": "2026-05-09",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/429",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/5052e01e3aa26d2be638af455bdf6669f9c52014"
+    },
     {
       "sha": "8aff94fab3",
       "message": "RDMA: Fix lost EPOLLIN/POLLIN events",

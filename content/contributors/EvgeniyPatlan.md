@@ -2,9 +2,9 @@
   "title": "EvgeniyPatlan",
   "login": "EvgeniyPatlan",
   "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
-  "score": 4,
+  "score": 5,
   "commit_count": 4,
-  "review_count": 0,
+  "review_count": 1,
   "repos": [
     "valkey-ldap",
     "valkey-luajit",
@@ -44,5 +44,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-ldap/commit/46ddd3d4d7629b3909a8bd4ef36b1e130b1ae4c6"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "15edca2217",
+      "message": "Pin dependencies in GitHub Workflows and dockertest.sh (#132)",
+      "date": "2026-05-09",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/132",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/15edca2217bb0141b439f0fefcfbbb4f53f75b91"
+    }
+  ]
 }

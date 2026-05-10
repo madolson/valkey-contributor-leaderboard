@@ -2,14 +2,22 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 113,
-  "commit_count": 20,
-  "review_count": 93,
+  "score": 115,
+  "commit_count": 21,
+  "review_count": 94,
   "repos": [
     "libvalkey-py",
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "ce9a8ce98f",
+      "message": "Merge pull request #54 from valkey-io/mkmkme/4.1.0rc1",
+      "date": "2026-05-09",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/54",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/ce9a8ce98f2584b7e83ff3f37b1c95ed1bb39ba3"
+    },
     {
       "sha": "91f7488703",
       "message": "Merge pull request #301 from valkey-io/valkey-py-proper-typing",
@@ -172,6 +180,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d3cb655f43",
+      "message": "Relax dependency version constraints for Python 3.10 compatibility",
+      "date": "2026-05-08",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/306",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/d3cb655f43bc5b57df599d4f8d7cb10fc25ae109"
+    },
     {
       "sha": "8ee03af75f",
       "message": "fix: gate JSON.DEBUG KEYTABLE-CORRUPT behind json.debug-mode config (#98)",

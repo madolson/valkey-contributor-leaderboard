@@ -2,9 +2,9 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 36,
+  "score": 37,
   "commit_count": 6,
-  "review_count": 30,
+  "review_count": 31,
   "repos": [
     "libvalkey-py",
     "valkey",
@@ -61,6 +61,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ce9a8ce98f",
+      "message": "Merge pull request #54 from valkey-io/mkmkme/4.1.0rc1",
+      "date": "2026-05-09",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/54",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/ce9a8ce98f2584b7e83ff3f37b1c95ed1bb39ba3"
+    },
     {
       "sha": "91f7488703",
       "message": "Merge pull request #301 from valkey-io/valkey-py-proper-typing",

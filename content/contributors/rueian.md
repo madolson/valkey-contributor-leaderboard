@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 34,
+  "score": 35,
   "commit_count": 8,
-  "review_count": 26,
+  "review_count": 27,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -77,6 +77,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "15edca2217",
+      "message": "Pin dependencies in GitHub Workflows and dockertest.sh (#132)",
+      "date": "2026-05-09",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/132",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/15edca2217bb0141b439f0fefcfbbb4f53f75b91"
+    },
     {
       "sha": "a87459a484",
       "message": "Call hmset from valkeycompat hmset (#128)",

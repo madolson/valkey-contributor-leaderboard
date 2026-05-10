@@ -2,15 +2,24 @@
   "title": "cxljs",
   "login": "cxljs",
   "avatar_url": "https://avatars.githubusercontent.com/u/24987055?v=4",
-  "score": 8,
-  "commit_count": 8,
+  "score": 9,
+  "commit_count": 9,
   "review_count": 0,
   "repos": [
     "libvalkey",
     "valkey",
-    "valkey-bloom"
+    "valkey-bloom",
+    "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "d3cb655f43",
+      "message": "Relax dependency version constraints for Python 3.10 compatibility",
+      "date": "2026-05-08",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/306",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/d3cb655f43bc5b57df599d4f8d7cb10fc25ae109"
+    },
     {
       "sha": "d9998e8ce7",
       "message": "update build.sh to ensure POSIX compliance for dash shell (#73)",
