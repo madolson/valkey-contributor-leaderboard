@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 14,
-  "commit_count": 14,
+  "score": 15,
+  "commit_count": 15,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "ca9dee353d",
+      "message": "Add optional REPLACE argument to MOVE (#2993)",
+      "date": "2026-05-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2993",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ca9dee353d2f0c1f48f4471fd191d5583043407d"
+    },
     {
       "sha": "f1db9edb2e",
       "message": "Fix FT.SEARCH bare wildcard execution (#960)",

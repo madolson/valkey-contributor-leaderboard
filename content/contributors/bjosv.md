@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 166,
+  "score": 168,
   "commit_count": 94,
-  "review_count": 72,
+  "review_count": 74,
   "repos": [
     "libvalkey",
     "valkey",
@@ -766,6 +766,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a420772789",
+      "message": "docs: Add valkeynode-design.md (#162)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/162",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a420772789c03bf0721e179fb2d5fe367400368e"
+    },
+    {
+      "sha": "0b8b87d10d",
+      "message": "fixed pre-commit local go version (#168)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/168",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0b8b87d10d3ab47a4b0bdf527c88f4c6e24949e5"
+    },
     {
       "sha": "426218dc3c",
       "message": "[feat] Roll ValkeyNodes on changes to ValkeyCluster.Spec.Config (#164)",

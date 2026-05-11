@@ -2,14 +2,22 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 43,
-  "commit_count": 12,
+  "score": 44,
+  "commit_count": 13,
   "review_count": 31,
   "repos": [
     "valkey",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "a420772789",
+      "message": "docs: Add valkeynode-design.md (#162)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/162",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a420772789c03bf0721e179fb2d5fe367400368e"
+    },
     {
       "sha": "426218dc3c",
       "message": "[feat] Roll ValkeyNodes on changes to ValkeyCluster.Spec.Config (#164)",

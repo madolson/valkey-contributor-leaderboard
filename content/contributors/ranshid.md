@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 271,
+  "score": 272,
   "commit_count": 88,
-  "review_count": 183,
+  "review_count": 184,
   "repos": [
     "valkey",
     "valkey-container",
@@ -721,6 +721,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ca9dee353d",
+      "message": "Add optional REPLACE argument to MOVE (#2993)",
+      "date": "2026-05-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2993",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ca9dee353d2f0c1f48f4471fd191d5583043407d"
+    },
     {
       "sha": "a07828f235",
       "message": "Update website for version 7.2.13 (#535)",

@@ -2,14 +2,22 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 115,
-  "commit_count": 21,
+  "score": 116,
+  "commit_count": 22,
   "review_count": 94,
   "repos": [
     "libvalkey-py",
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "ebad3c00b3",
+      "message": "github: update runners (#73)",
+      "date": "2026-05-10",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/73",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/ebad3c00b364904cfd56fb319b735bf7118421b6"
+    },
     {
       "sha": "ce9a8ce98f",
       "message": "Merge pull request #54 from valkey-io/mkmkme/4.1.0rc1",

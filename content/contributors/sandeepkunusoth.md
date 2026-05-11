@@ -2,13 +2,21 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 27,
-  "commit_count": 12,
+  "score": 28,
+  "commit_count": 13,
   "review_count": 15,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "0b8b87d10d",
+      "message": "fixed pre-commit local go version (#168)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/168",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0b8b87d10d3ab47a4b0bdf527c88f4c6e24949e5"
+    },
     {
       "sha": "c7b51b3613",
       "message": "chore(kubebuilder): update scaffold v4.13.1 -> v4.14.0 (#161)",

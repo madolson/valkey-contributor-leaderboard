@@ -494,7 +494,7 @@
       "name": "Ran Shidlansik",
       "company": "Amazon Web Services",
       "commits": 88,
-      "reviews": 183,
+      "reviews": 184,
       "repos": [
         "valkey",
         "valkey-container",
@@ -507,7 +507,7 @@
       "per_repo": {
         "valkey": {
           "commits": 75,
-          "reviews": 171
+          "reviews": 172
         },
         "valkey-doc": {
           "commits": 4,
@@ -538,7 +538,7 @@
           "reviews": 0
         }
       },
-      "score": 271
+      "score": 272
     },
     {
       "login": "jonathanl-bq",
@@ -1138,7 +1138,7 @@
       "name": "Bj\u00f6rn Svensson",
       "company": "Ericsson",
       "commits": 94,
-      "reviews": 72,
+      "reviews": 74,
       "repos": [
         "libvalkey",
         "valkey",
@@ -1152,7 +1152,7 @@
         },
         "valkey-operator": {
           "commits": 8,
-          "reviews": 37
+          "reviews": 39
         },
         "valkey": {
           "commits": 6,
@@ -1167,7 +1167,7 @@
           "reviews": 1
         }
       },
-      "score": 166
+      "score": 168
     },
     {
       "login": "hwware",
@@ -1410,6 +1410,38 @@
       "score": 121
     },
     {
+      "login": "mkmkme",
+      "id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "name": "Mikhail Koviazin",
+      "company": "Altinity",
+      "commits": 22,
+      "reviews": 94,
+      "repos": [
+        "libvalkey-py",
+        "valkey-py"
+      ],
+      "per_repo": {
+        "libvalkey-py": {
+          "commits": 7,
+          "reviews": 6
+        },
+        "valkey-py": {
+          "commits": 15,
+          "reviews": 85
+        },
+        "libvalkey": {
+          "commits": 0,
+          "reviews": 2
+        },
+        "valkey-json": {
+          "commits": 0,
+          "reviews": 1
+        }
+      },
+      "score": 116
+    },
+    {
       "login": "affonsov",
       "id": 67347924,
       "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
@@ -1442,38 +1474,6 @@
         }
       },
       "score": 116
-    },
-    {
-      "login": "mkmkme",
-      "id": 4062234,
-      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-      "name": "Mikhail Koviazin",
-      "company": "Altinity",
-      "commits": 21,
-      "reviews": 94,
-      "repos": [
-        "libvalkey-py",
-        "valkey-py"
-      ],
-      "per_repo": {
-        "libvalkey-py": {
-          "commits": 6,
-          "reviews": 6
-        },
-        "valkey-py": {
-          "commits": 15,
-          "reviews": 85
-        },
-        "libvalkey": {
-          "commits": 0,
-          "reviews": 2
-        },
-        "valkey-json": {
-          "commits": 0,
-          "reviews": 1
-        }
-      },
-      "score": 115
     },
     {
       "login": "nilanshu-sharma",
@@ -2187,6 +2187,34 @@
       "score": 45
     },
     {
+      "login": "jdheyburn",
+      "id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "name": "Joseph Heyburn",
+      "company": "braze-inc",
+      "commits": 13,
+      "reviews": 31,
+      "repos": [
+        "valkey",
+        "valkey-operator"
+      ],
+      "per_repo": {
+        "valkey-operator": {
+          "commits": 12,
+          "reviews": 30
+        },
+        "valkey": {
+          "commits": 1,
+          "reviews": 0
+        },
+        "valkey-helm": {
+          "commits": 0,
+          "reviews": 1
+        }
+      },
+      "score": 44
+    },
+    {
       "login": "pizhenwei",
       "id": 5586500,
       "avatar_url": "https://avatars.githubusercontent.com/u/5586500?v=4",
@@ -2211,34 +2239,6 @@
         "valkey-doc": {
           "commits": 5,
           "reviews": 0
-        }
-      },
-      "score": 43
-    },
-    {
-      "login": "jdheyburn",
-      "id": 34041368,
-      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-      "name": "Joseph Heyburn",
-      "company": "braze-inc",
-      "commits": 12,
-      "reviews": 31,
-      "repos": [
-        "valkey",
-        "valkey-operator"
-      ],
-      "per_repo": {
-        "valkey-operator": {
-          "commits": 11,
-          "reviews": 30
-        },
-        "valkey": {
-          "commits": 1,
-          "reviews": 0
-        },
-        "valkey-helm": {
-          "commits": 0,
-          "reviews": 1
         }
       },
       "score": 43
@@ -2286,6 +2286,35 @@
       "score": 40
     },
     {
+      "login": "bogdanp05",
+      "id": 7281856,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
+      "name": "Bogdan Petre",
+      "company": "aiven.io",
+      "commits": 6,
+      "reviews": 32,
+      "repos": [
+        "libvalkey-py",
+        "valkey",
+        "valkey-py"
+      ],
+      "per_repo": {
+        "libvalkey-py": {
+          "commits": 1,
+          "reviews": 6
+        },
+        "valkey-py": {
+          "commits": 4,
+          "reviews": 26
+        },
+        "valkey": {
+          "commits": 1,
+          "reviews": 0
+        }
+      },
+      "score": 38
+    },
+    {
       "login": "daddaman-amz",
       "id": 220412368,
       "avatar_url": "https://avatars.githubusercontent.com/u/220412368?v=4",
@@ -2303,35 +2332,6 @@
         }
       },
       "score": 38
-    },
-    {
-      "login": "bogdanp05",
-      "id": 7281856,
-      "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-      "name": "Bogdan Petre",
-      "company": "aiven.io",
-      "commits": 6,
-      "reviews": 31,
-      "repos": [
-        "libvalkey-py",
-        "valkey",
-        "valkey-py"
-      ],
-      "per_repo": {
-        "libvalkey-py": {
-          "commits": 1,
-          "reviews": 5
-        },
-        "valkey-py": {
-          "commits": 4,
-          "reviews": 26
-        },
-        "valkey": {
-          "commits": 1,
-          "reviews": 0
-        }
-      },
-      "score": 37
     },
     {
       "login": "hanxizh9910",
@@ -2672,18 +2672,18 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
       "name": "sandeep kunusoth",
       "company": "",
-      "commits": 12,
+      "commits": 13,
       "reviews": 15,
       "repos": [
         "valkey-operator"
       ],
       "per_repo": {
         "valkey-operator": {
-          "commits": 12,
+          "commits": 13,
           "reviews": 15
         }
       },
-      "score": 27
+      "score": 28
     },
     {
       "login": "alon-arenberg",
@@ -3255,6 +3255,35 @@
       "score": 16
     },
     {
+      "login": "bandalgomsu",
+      "id": 121839239,
+      "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
+      "name": "",
+      "company": "Nexon",
+      "commits": 15,
+      "reviews": 0,
+      "repos": [
+        "valkey",
+        "valkey-doc",
+        "valkey-search"
+      ],
+      "per_repo": {
+        "valkey-doc": {
+          "commits": 1,
+          "reviews": 0
+        },
+        "valkey-search": {
+          "commits": 7,
+          "reviews": 0
+        },
+        "valkey": {
+          "commits": 7,
+          "reviews": 0
+        }
+      },
+      "score": 15
+    },
+    {
       "login": "mohsen-alizadeh",
       "id": 4325532,
       "avatar_url": "https://avatars.githubusercontent.com/u/4325532?v=4",
@@ -3277,35 +3306,6 @@
         }
       },
       "score": 15
-    },
-    {
-      "login": "bandalgomsu",
-      "id": 121839239,
-      "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-      "name": "",
-      "company": "Nexon",
-      "commits": 14,
-      "reviews": 0,
-      "repos": [
-        "valkey",
-        "valkey-doc",
-        "valkey-search"
-      ],
-      "per_repo": {
-        "valkey-doc": {
-          "commits": 1,
-          "reviews": 0
-        },
-        "valkey-search": {
-          "commits": 7,
-          "reviews": 0
-        },
-        "valkey": {
-          "commits": 6,
-          "reviews": 0
-        }
-      },
-      "score": 14
     },
     {
       "login": "yanamolo",
