@@ -2,13 +2,45 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 71,
-  "commit_count": 50,
+  "score": 75,
+  "commit_count": 54,
   "review_count": 21,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "0e38576839",
+      "message": "Modify trigger to be if any files in docs-site are changed. (#351)",
+      "date": "2026-05-11",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/351",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/0e38576839c4b1d5b620e114554aa7a9f2f588dd"
+    },
+    {
+      "sha": "274e9771a6",
+      "message": "Update site and remove base. (#350)",
+      "date": "2026-05-11",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/350",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/274e9771a6722626e64c4b677ff22a2aca9db3a7"
+    },
+    {
+      "sha": "474111fd54",
+      "message": "Add site and base values (#349)",
+      "date": "2026-05-11",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/349",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/474111fd5452f655f713026dfed543f5aeed2f5a"
+    },
+    {
+      "sha": "c63bbff860",
+      "message": "Add documentation website code (#348)",
+      "date": "2026-05-11",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/348",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/c63bbff8600749b68a9cb2392578b9a483a38297"
+    },
     {
       "sha": "9ba5e88b05",
       "message": "Update version to 1.0.1 (#344)",

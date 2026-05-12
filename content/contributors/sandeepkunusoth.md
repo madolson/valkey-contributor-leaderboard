@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 28,
-  "commit_count": 13,
-  "review_count": 15,
+  "score": 31,
+  "commit_count": 14,
+  "review_count": 17,
   "repos": [
     "valkey-operator"
   ],
@@ -16,6 +16,14 @@
       "repo": "valkey-operator",
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/168",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0b8b87d10d3ab47a4b0bdf527c88f4c6e24949e5"
+    },
+    {
+      "sha": "2f846003ec",
+      "message": "Fix e2e tests - pod already exists intermittent issue (#172)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/172",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2f846003ecc3e92d0e7e1e51ce0536bbb3d73541"
     },
     {
       "sha": "c7b51b3613",
@@ -115,6 +123,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "311cb25412",
+      "message": "Delete old events in BeforeSuite to prevent stale event assertions (#169)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/169",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/311cb254125db76723c7fbe5a78abab164242cba"
+    },
+    {
+      "sha": "b272a09c86",
+      "message": "[docs] Add quickstart guide and restructure README for v0.1.0 (#155)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/155",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/b272a09c867a341f4d224ab815b5a6c66bdafb67"
+    },
     {
       "sha": "c02b66b7b9",
       "message": "chore(deps): bump docker/setup-buildx-action from 3.12.0 to 4.0.0 (#158)",

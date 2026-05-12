@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 91,
+  "score": 92,
   "commit_count": 33,
-  "review_count": 58,
+  "review_count": 59,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -279,6 +279,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7f52ab1e78",
+      "message": "feat(lint): add actionlint for GitHub Actions workflow validation (#385)",
+      "date": "2026-05-11",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/385",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/7f52ab1e78179092c59b23558731319f7ccf5220"
+    },
     {
       "sha": "5623c22b67",
       "message": "fix(node): allow protobufjs build scripts in pnpm test (#5899)",

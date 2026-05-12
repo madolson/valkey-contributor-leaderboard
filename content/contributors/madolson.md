@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 831,
+  "score": 834,
   "commit_count": 180,
-  "review_count": 651,
+  "review_count": 654,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1457,6 +1457,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fdd9039307",
+      "message": "IO-Threads redesign cleanup work (#3544)",
+      "date": "2026-05-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3544",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fdd90393073881cefb26520c7826ca8991ad9269"
+    },
+    {
+      "sha": "fdd9039307",
+      "message": "IO-Threads redesign cleanup work (#3544)",
+      "date": "2026-05-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3544",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fdd90393073881cefb26520c7826ca8991ad9269"
+    },
+    {
+      "sha": "8dea9be017",
+      "message": "Add link for Valkey Admin (#539)",
+      "date": "2026-05-12",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/539",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/8dea9be017c7d93907aed42501ac5f04a3daf84e"
+    },
     {
       "sha": "fea0b4064c",
       "message": "Fix invalid memory access in RESTORE with malformed zipmap (CVE-2026-25243) (#3619)",

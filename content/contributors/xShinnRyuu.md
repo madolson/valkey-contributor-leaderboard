@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 219,
+  "score": 220,
   "commit_count": 49,
-  "review_count": 170,
+  "review_count": 171,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -404,6 +404,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6b57f41ffc",
+      "message": "Updated attribution files for commit af028806fe9fcf910aa9b5f1128a80461c7448ed (#5879)",
+      "date": "2026-05-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5879",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6b57f41ffcfa485a018e229dfdebc465a1c84e8e"
+    },
+    {
+      "sha": "7f52ab1e78",
+      "message": "feat(lint): add actionlint for GitHub Actions workflow validation (#385)",
+      "date": "2026-05-11",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/385",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/7f52ab1e78179092c59b23558731319f7ccf5220"
+    },
     {
       "sha": "af028806fe",
       "message": "Compression Bugfixes (#5895)",

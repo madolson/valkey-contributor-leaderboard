@@ -2,9 +2,9 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 12,
+  "score": 13,
   "commit_count": 9,
-  "review_count": 3,
+  "review_count": 4,
   "repos": [
     "valkey-helm",
     "valkey-operator"
@@ -84,6 +84,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b272a09c86",
+      "message": "[docs] Add quickstart guide and restructure README for v0.1.0 (#155)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/155",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/b272a09c867a341f4d224ab815b5a6c66bdafb67"
+    },
     {
       "sha": "bbbb25e5b5",
       "message": "Add ValkeyNode-managed persistence support (#149)",

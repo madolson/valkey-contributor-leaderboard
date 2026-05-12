@@ -2,14 +2,38 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 116,
-  "commit_count": 22,
+  "score": 119,
+  "commit_count": 25,
   "review_count": 94,
   "repos": [
     "libvalkey-py",
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "3444012055",
+      "message": "Merge pull request #76 from valkey-io/mkmkme/v4.1.0rc4",
+      "date": "2026-05-11",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/76",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/3444012055496c27912f90395a3bd452fb3775e4"
+    },
+    {
+      "sha": "ea6883171b",
+      "message": "Merge pull request #75 from valkey-io/mkmkme/v4.1.0rc3",
+      "date": "2026-05-11",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/75",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/ea6883171b9b784c622b5df1ffc4d7c52d74bdf6"
+    },
+    {
+      "sha": "d3e10bf633",
+      "message": "Merge pull request #74 from valkey-io/mkmkme/v4.1.0rc2",
+      "date": "2026-05-11",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/74",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/d3e10bf63390d82fb0a383f11905b427499d1181"
+    },
     {
       "sha": "ebad3c00b3",
       "message": "github: update runners (#73)",

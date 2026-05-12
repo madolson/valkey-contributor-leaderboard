@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 168,
-  "commit_count": 94,
-  "review_count": 74,
+  "score": 176,
+  "commit_count": 99,
+  "review_count": 77,
   "repos": [
     "libvalkey",
     "valkey",
@@ -12,6 +12,46 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "afc8294635",
+      "message": "Fix intermittent test failures due to the toleration test (#170)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/170",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/afc8294635b9abbaa9cbea76a889f5293c3068cf"
+    },
+    {
+      "sha": "311cb25412",
+      "message": "Delete old events in BeforeSuite to prevent stale event assertions (#169)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/169",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/311cb254125db76723c7fbe5a78abab164242cba"
+    },
+    {
+      "sha": "d2b80dc111",
+      "message": "Fix flaky metrics exporter test by waiting for cluster Ready (#173)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/173",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d2b80dc111e8784774ce96855b075c25e5295df1"
+    },
+    {
+      "sha": "b272a09c86",
+      "message": "[docs] Add quickstart guide and restructure README for v0.1.0 (#155)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/155",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/b272a09c867a341f4d224ab815b5a6c66bdafb67"
+    },
+    {
+      "sha": "6eecd591bc",
+      "message": "Use status patch to eliminate resource version conflicts (#171)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/171",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6eecd591bc3d070bb7ba9335866e0ab26edd064b"
+    },
     {
       "sha": "cd3d5d8ff9",
       "message": "Fix potential heap-buffer-overflow in cluster error reply parsing (#305)",
@@ -781,6 +821,30 @@
       "repo": "valkey-operator",
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/168",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0b8b87d10d3ab47a4b0bdf527c88f4c6e24949e5"
+    },
+    {
+      "sha": "bd677c75e5",
+      "message": "Add prefix to container image version tags. (#174)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/174",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/bd677c75e5eb5cd4a83ceb2d4cae5aea56f4b5d8"
+    },
+    {
+      "sha": "2f846003ec",
+      "message": "Fix e2e tests - pod already exists intermittent issue (#172)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/172",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2f846003ecc3e92d0e7e1e51ce0536bbb3d73541"
+    },
+    {
+      "sha": "473c344c00",
+      "message": "docs: Add valkeycluster docs (#165)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/165",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/473c344c00eddab62e2f6ab18fb752c5df6efa86"
     },
     {
       "sha": "426218dc3c",

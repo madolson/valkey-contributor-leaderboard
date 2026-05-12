@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 44,
-  "commit_count": 13,
-  "review_count": 31,
+  "score": 49,
+  "commit_count": 14,
+  "review_count": 35,
   "repos": [
     "valkey",
     "valkey-operator"
@@ -17,6 +17,14 @@
       "repo": "valkey-operator",
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/162",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a420772789c03bf0721e179fb2d5fe367400368e"
+    },
+    {
+      "sha": "473c344c00",
+      "message": "docs: Add valkeycluster docs (#165)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/165",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/473c344c00eddab62e2f6ab18fb752c5df6efa86"
     },
     {
       "sha": "426218dc3c",
@@ -116,6 +124,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bd677c75e5",
+      "message": "Add prefix to container image version tags. (#174)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/174",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/bd677c75e5eb5cd4a83ceb2d4cae5aea56f4b5d8"
+    },
+    {
+      "sha": "afc8294635",
+      "message": "Fix intermittent test failures due to the toleration test (#170)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/170",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/afc8294635b9abbaa9cbea76a889f5293c3068cf"
+    },
+    {
+      "sha": "d2b80dc111",
+      "message": "Fix flaky metrics exporter test by waiting for cluster Ready (#173)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/173",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d2b80dc111e8784774ce96855b075c25e5295df1"
+    },
+    {
+      "sha": "6eecd591bc",
+      "message": "Use status patch to eliminate resource version conflicts (#171)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/171",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6eecd591bc3d070bb7ba9335866e0ab26edd064b"
+    },
     {
       "sha": "bbbb25e5b5",
       "message": "Add ValkeyNode-managed persistence support (#149)",

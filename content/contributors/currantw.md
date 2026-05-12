@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 161,
-  "commit_count": 99,
+  "score": 162,
+  "commit_count": 100,
   "review_count": 62,
   "repos": [
     "valkey-doc",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "7f52ab1e78",
+      "message": "feat(lint): add actionlint for GitHub Actions workflow validation (#385)",
+      "date": "2026-05-11",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/385",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/7f52ab1e78179092c59b23558731319f7ccf5220"
+    },
     {
       "sha": "c77b1a566e",
       "message": "Update Windows support section to include C# client (#213)",
@@ -808,6 +816,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bffb07dd17",
+      "message": "Updated attribution files for commit 14741e1d783dec019131acbc6db239d2c8f267e9 (#388)",
+      "date": "2026-05-11",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/388",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/bffb07dd17827369cb8eb8e95434862f60e4165e"
+    },
+    {
+      "sha": "5ba3caedcc",
+      "message": "chore(deps): bump github/codeql-action from 4.35.3 to 4.35.4 in the patch-updates group (#386)",
+      "date": "2026-05-11",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/386",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5ba3caedcc7b07a1edc5d77e5fb62e3d02057925"
+    },
     {
       "sha": "14741e1d78",
       "message": "added: nightly.yml for nightly FMT testing (#375)",

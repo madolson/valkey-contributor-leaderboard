@@ -2,13 +2,21 @@
   "title": "SuperQ",
   "login": "SuperQ",
   "avatar_url": "https://avatars.githubusercontent.com/u/1320667?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "bd677c75e5",
+      "message": "Add prefix to container image version tags. (#174)",
+      "date": "2026-05-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/174",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/bd677c75e5eb5cd4a83ceb2d4cae5aea56f4b5d8"
+    },
     {
       "sha": "e356730264",
       "message": "Update Go build (#150)",

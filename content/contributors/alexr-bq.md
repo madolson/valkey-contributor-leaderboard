@@ -318,6 +318,22 @@
   ],
   "review_list": [
     {
+      "sha": "bffb07dd17",
+      "message": "Updated attribution files for commit 14741e1d783dec019131acbc6db239d2c8f267e9 (#388)",
+      "date": "2026-05-11",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/388",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/bffb07dd17827369cb8eb8e95434862f60e4165e"
+    },
+    {
+      "sha": "5ba3caedcc",
+      "message": "chore(deps): bump github/codeql-action from 4.35.3 to 4.35.4 in the patch-updates group (#386)",
+      "date": "2026-05-11",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/386",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5ba3caedcc7b07a1edc5d77e5fb62e3d02057925"
+    },
+    {
       "sha": "6b9aab0b13",
       "message": "Cherry-pick release-1.1 commits to main (#378)",
       "date": "2026-05-07",

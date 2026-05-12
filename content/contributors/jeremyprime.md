@@ -246,6 +246,14 @@
   ],
   "review_list": [
     {
+      "sha": "6b57f41ffc",
+      "message": "Updated attribution files for commit af028806fe9fcf910aa9b5f1128a80461c7448ed (#5879)",
+      "date": "2026-05-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5879",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6b57f41ffcfa485a018e229dfdebc465a1c84e8e"
+    },
+    {
       "sha": "7803996f54",
       "message": "Fix TCP deadlock in MultiplexedConnection with large payloads (#5892)",
       "date": "2026-05-08",
