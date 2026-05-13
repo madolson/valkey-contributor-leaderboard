@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 232,
+  "score": 234,
   "commit_count": 49,
-  "review_count": 183,
+  "review_count": 185,
   "repos": [
     "valkey",
     "valkey-json",
@@ -405,6 +405,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7cac0c7ca9",
+      "message": "[DOCUMENTATION] Updating QUICK_START.md (#990)",
+      "date": "2026-05-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/990",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7cac0c7ca955f148d9fd0cf6800ca14095e5dfc5"
+    },
+    {
+      "sha": "0fafddb0dc",
+      "message": "Use ccache to cache build object files to improve build time (#945)",
+      "date": "2026-05-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/945",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0fafddb0dc2058e27124c5b7a7296f46eda8ce4c"
+    },
     {
       "sha": "c44aa79699",
       "message": "Add blog: Reduce Token Cost for LLMs, AI Agent Memory with Valkey and Mem0 (#503)",

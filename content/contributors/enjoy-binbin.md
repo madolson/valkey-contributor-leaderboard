@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 827,
-  "commit_count": 318,
-  "review_count": 509,
+  "score": 831,
+  "commit_count": 321,
+  "review_count": 510,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -13,6 +13,30 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "a813df0546",
+      "message": "Improve CLUSTERSCAN error handling test with broader coverage (#3674)",
+      "date": "2026-05-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3674",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a813df05461d9fd6e613ebbed5dbeee51482ee06"
+    },
+    {
+      "sha": "4344e5b6fd",
+      "message": "Minor cleanup and fix typo in bzmpop get_keys_function (#3667)",
+      "date": "2026-05-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3667",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4344e5b6fdbba8b1efd82470bfbc0e7513443bd5"
+    },
+    {
+      "sha": "d4337d6662",
+      "message": "Fix CLUSTERSCAN fingerprint to use configurable_hash_seed (#3679)",
+      "date": "2026-05-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3679",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d4337d66625a276fdbeb1d03a350b3f0a49e3387"
+    },
     {
       "sha": "418c98bd25",
       "message": "Use wait_for_condition instead of hardcoding in dump.tcl test (#3647)",
@@ -2559,6 +2583,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fc849f087d",
+      "message": "Fix weekly workflow startup_failure caused by permissions mismatch (#3684)",
+      "date": "2026-05-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3684",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fc849f087d731bea4ee7fb85b702664ae7583384"
+    },
     {
       "sha": "9a35437f8d",
       "message": "Document INFO fields used_active_time_{main_thread,io_thread_N} (#437)",

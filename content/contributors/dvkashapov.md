@@ -2,8 +2,8 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 80,
-  "commit_count": 21,
+  "score": 81,
+  "commit_count": 22,
   "review_count": 59,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-luajit"
   ],
   "commit_list": [
+    {
+      "sha": "5341450bb6",
+      "message": "Add Database level ACL docs (#439)",
+      "date": "2026-05-12",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/439",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/5341450bb65869c1c7da294f93df1ff3f38e5124"
+    },
     {
       "sha": "269b1c5eda",
       "message": "Improve COB memory tracking with copy avoidance (#3306)",

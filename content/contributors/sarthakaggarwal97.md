@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 282,
-  "commit_count": 83,
-  "review_count": 199,
+  "score": 284,
+  "commit_count": 84,
+  "review_count": 200,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "fc849f087d",
+      "message": "Fix weekly workflow startup_failure caused by permissions mismatch (#3684)",
+      "date": "2026-05-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3684",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fc849f087d731bea4ee7fb85b702664ae7583384"
+    },
     {
       "sha": "ccef347922",
       "message": "Skip deferred_reply test in req/res log validation (#3642)",
@@ -678,6 +686,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d4337d6662",
+      "message": "Fix CLUSTERSCAN fingerprint to use configurable_hash_seed (#3679)",
+      "date": "2026-05-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3679",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d4337d66625a276fdbeb1d03a350b3f0a49e3387"
+    },
     {
       "sha": "418c98bd25",
       "message": "Use wait_for_condition instead of hardcoding in dump.tcl test (#3647)",

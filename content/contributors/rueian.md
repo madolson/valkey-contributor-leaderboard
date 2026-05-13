@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 35,
+  "score": 36,
   "commit_count": 8,
-  "review_count": 27,
+  "review_count": 28,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -77,6 +77,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "01972143af",
+      "message": "docs: update SendToReplicas examples in readme (#135)",
+      "date": "2026-05-13",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/135",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/01972143af5c9dc044fc67c482e2ce21f22ac228"
+    },
     {
       "sha": "15edca2217",
       "message": "Pin dependencies in GitHub Workflows and dockertest.sh (#132)",

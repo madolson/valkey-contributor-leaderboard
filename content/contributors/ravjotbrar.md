@@ -2,8 +2,8 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 142,
-  "commit_count": 83,
+  "score": 143,
+  "commit_count": 84,
   "review_count": 59,
   "repos": [
     "valkey-admin",
@@ -17,6 +17,14 @@
       "repo": "valkey-io.github.io",
       "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/539",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/8dea9be017c7d93907aed42501ac5f04a3daf84e"
+    },
+    {
+      "sha": "6782ab1c13",
+      "message": "Catch errors when permission denied (#354)",
+      "date": "2026-05-12",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/354",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/6782ab1c1341478af1f90b9af5cf7e7e4f4947e7"
     },
     {
       "sha": "caba29e58b",

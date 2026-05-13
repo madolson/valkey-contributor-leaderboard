@@ -2,9 +2,9 @@
   "title": "nmvk",
   "login": "nmvk",
   "avatar_url": "https://avatars.githubusercontent.com/u/1668438?v=4",
-  "score": 9,
+  "score": 10,
   "commit_count": 7,
-  "review_count": 2,
+  "review_count": 3,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -68,6 +68,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a813df0546",
+      "message": "Improve CLUSTERSCAN error handling test with broader coverage (#3674)",
+      "date": "2026-05-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3674",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a813df05461d9fd6e613ebbed5dbeee51482ee06"
+    },
     {
       "sha": "89b7baa598",
       "message": "Speed up cluster startup by 10 seconds (#3606)",

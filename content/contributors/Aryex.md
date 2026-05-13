@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 92,
-  "commit_count": 33,
-  "review_count": 59,
+  "score": 94,
+  "commit_count": 34,
+  "review_count": 60,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "e1429e97f4",
+      "message": "Refactor existing CI/CD workflow (#376)",
+      "date": "2026-05-12",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/376",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e1429e97f44587f74222f04272b5022a3035a16e"
+    },
     {
       "sha": "14741e1d78",
       "message": "added: nightly.yml for nightly FMT testing (#375)",
@@ -279,6 +287,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9665eddc60",
+      "message": "feat(lint): Add `markdownlint` integration (#391)",
+      "date": "2026-05-12",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/391",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/9665eddc60fb76fb666dcdfcb9674813ef0c3713"
+    },
     {
       "sha": "7f52ab1e78",
       "message": "feat(lint): add actionlint for GitHub Actions workflow validation (#385)",

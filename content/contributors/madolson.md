@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 834,
+  "score": 835,
   "commit_count": 180,
-  "review_count": 654,
+  "review_count": 655,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1457,6 +1457,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a813df0546",
+      "message": "Improve CLUSTERSCAN error handling test with broader coverage (#3674)",
+      "date": "2026-05-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3674",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a813df05461d9fd6e613ebbed5dbeee51482ee06"
+    },
     {
       "sha": "fdd9039307",
       "message": "IO-Threads redesign cleanup work (#3544)",

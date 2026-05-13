@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 143,
+  "score": 145,
   "commit_count": 38,
-  "review_count": 105,
+  "review_count": 107,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -317,6 +317,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2d56a9b02b",
+      "message": "Add Redis 7.1 and 7.2 to CI test matrix (#395)",
+      "date": "2026-05-12",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/395",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2d56a9b02baad5ad0685e2da3c31f59fec6703c5"
+    },
+    {
+      "sha": "367b813423",
+      "message": "Add integration tests for all CommandFlags overloads (#393)",
+      "date": "2026-05-12",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/393",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/367b8134233cf05066d78bf8b1c304ed57a21d5b"
+    },
     {
       "sha": "bffb07dd17",
       "message": "Updated attribution files for commit 14741e1d783dec019131acbc6db239d2c8f267e9 (#388)",

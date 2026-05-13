@@ -2,13 +2,29 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 75,
-  "commit_count": 54,
+  "score": 77,
+  "commit_count": 56,
   "review_count": 21,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "7c4c2794e0",
+      "message": "Revise readme to include website (#352)",
+      "date": "2026-05-12",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/352",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/7c4c2794e04db25a5e4172f57e16c6ea4fbadf8a"
+    },
+    {
+      "sha": "7f4a808ff1",
+      "message": "Address doc site issues (#353)",
+      "date": "2026-05-12",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/353",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/7f4a808ff10d336b997b66091c54d571d0bf1019"
+    },
     {
       "sha": "0e38576839",
       "message": "Modify trigger to be if any files in docs-site are changed. (#351)",

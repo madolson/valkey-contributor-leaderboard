@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 220,
+  "score": 224,
   "commit_count": 49,
-  "review_count": 171,
+  "review_count": 175,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -404,6 +404,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2d56a9b02b",
+      "message": "Add Redis 7.1 and 7.2 to CI test matrix (#395)",
+      "date": "2026-05-12",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/395",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2d56a9b02baad5ad0685e2da3c31f59fec6703c5"
+    },
+    {
+      "sha": "e1429e97f4",
+      "message": "Refactor existing CI/CD workflow (#376)",
+      "date": "2026-05-12",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/376",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e1429e97f44587f74222f04272b5022a3035a16e"
+    },
+    {
+      "sha": "367b813423",
+      "message": "Add integration tests for all CommandFlags overloads (#393)",
+      "date": "2026-05-12",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/393",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/367b8134233cf05066d78bf8b1c304ed57a21d5b"
+    },
+    {
+      "sha": "9665eddc60",
+      "message": "feat(lint): Add `markdownlint` integration (#391)",
+      "date": "2026-05-12",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/391",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/9665eddc60fb76fb666dcdfcb9674813ef0c3713"
+    },
     {
       "sha": "6b57f41ffc",
       "message": "Updated attribution files for commit af028806fe9fcf910aa9b5f1128a80461c7448ed (#5879)",

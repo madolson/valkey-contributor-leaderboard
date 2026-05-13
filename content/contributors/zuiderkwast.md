@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1124,
+  "score": 1127,
   "commit_count": 151,
-  "review_count": 973,
+  "review_count": 976,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1223,6 +1223,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4344e5b6fd",
+      "message": "Minor cleanup and fix typo in bzmpop get_keys_function (#3667)",
+      "date": "2026-05-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3667",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4344e5b6fdbba8b1efd82470bfbc0e7513443bd5"
+    },
+    {
+      "sha": "d4337d6662",
+      "message": "Fix CLUSTERSCAN fingerprint to use configurable_hash_seed (#3679)",
+      "date": "2026-05-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3679",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d4337d66625a276fdbeb1d03a350b3f0a49e3387"
+    },
+    {
+      "sha": "5341450bb6",
+      "message": "Add Database level ACL docs (#439)",
+      "date": "2026-05-12",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/439",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/5341450bb65869c1c7da294f93df1ff3f38e5124"
+    },
     {
       "sha": "418c98bd25",
       "message": "Use wait_for_condition instead of hardcoding in dump.tcl test (#3647)",

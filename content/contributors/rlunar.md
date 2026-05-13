@@ -2,9 +2,9 @@
   "title": "rlunar",
   "login": "rlunar",
   "avatar_url": "https://avatars.githubusercontent.com/u/2453805?v=4",
-  "score": 8,
+  "score": 10,
   "commit_count": 8,
-  "review_count": 0,
+  "review_count": 2,
   "repos": [
     "valkey-bundle",
     "valkey-io.github.io",
@@ -76,5 +76,22 @@
       "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/0dafd75c19fc22d9ea30fe87744213ac1e22b9da"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "27d20eb9d7",
+      "message": "Add demo video section to Valkey Admin blog post (#548)",
+      "date": "2026-05-12",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/548",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/27d20eb9d717e6e97b7844c78f67df5aa821cdce"
+    },
+    {
+      "sha": "42e3bf2987",
+      "message": "Add blog post announcing Valkey Admin 1.0 (#547)",
+      "date": "2026-05-12",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/547",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/42e3bf2987578bb8e99b11a47ae9d1344645eedf"
+    }
+  ]
 }

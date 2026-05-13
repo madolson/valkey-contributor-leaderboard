@@ -37,7 +37,7 @@
       "name": "Viktor S\u00f6derqvist",
       "company": "Ericsson Software Technology",
       "commits": 151,
-      "reviews": 973,
+      "reviews": 976,
       "repos": [
         "libvalkey",
         "valkey",
@@ -52,7 +52,7 @@
         },
         "valkey": {
           "commits": 106,
-          "reviews": 794
+          "reviews": 796
         },
         "valkey-container": {
           "commits": 0,
@@ -60,7 +60,7 @@
         },
         "valkey-doc": {
           "commits": 37,
-          "reviews": 97
+          "reviews": 98
         },
         "valkey-luajit": {
           "commits": 0,
@@ -91,7 +91,7 @@
           "reviews": 1
         }
       },
-      "score": 1124
+      "score": 1127
     },
     {
       "login": "madolson",
@@ -100,7 +100,7 @@
       "name": "Madelyn Olson",
       "company": "Amazon Web Services",
       "commits": 180,
-      "reviews": 654,
+      "reviews": 655,
       "repos": [
         "valkey",
         "valkey-admin",
@@ -117,7 +117,7 @@
         },
         "valkey": {
           "commits": 95,
-          "reviews": 468
+          "reviews": 469
         },
         "valkey-bloom": {
           "commits": 1,
@@ -156,7 +156,7 @@
           "reviews": 2
         }
       },
-      "score": 834
+      "score": 835
     },
     {
       "login": "enjoy-binbin",
@@ -164,8 +164,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
       "name": "Binbin",
       "company": "Tencent Cloud NoSQL",
-      "commits": 318,
-      "reviews": 509,
+      "commits": 321,
+      "reviews": 510,
       "repos": [
         "valkey",
         "valkey-bloom",
@@ -175,8 +175,8 @@
       ],
       "per_repo": {
         "valkey": {
-          "commits": 296,
-          "reviews": 478
+          "commits": 299,
+          "reviews": 479
         },
         "valkey-bloom": {
           "commits": 1,
@@ -199,7 +199,7 @@
           "reviews": 1
         }
       },
-      "score": 827
+      "score": 831
     },
     {
       "login": "yipin-chen",
@@ -383,8 +383,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
       "name": "Sarthak Aggarwal",
       "company": "aws @valkey-io @opensearch-project",
-      "commits": 83,
-      "reviews": 199,
+      "commits": 84,
+      "reviews": 200,
       "repos": [
         "valkey",
         "valkey-doc",
@@ -393,8 +393,8 @@
       ],
       "per_repo": {
         "valkey": {
-          "commits": 60,
-          "reviews": 154
+          "commits": 61,
+          "reviews": 155
         },
         "valkey-container": {
           "commits": 0,
@@ -429,7 +429,7 @@
           "reviews": 4
         }
       },
-      "score": 282
+      "score": 284
     },
     {
       "login": "hpatro",
@@ -748,7 +748,7 @@
       "name": "Allen Samuels",
       "company": "Amazon Web Services",
       "commits": 49,
-      "reviews": 183,
+      "reviews": 185,
       "repos": [
         "valkey",
         "valkey-json",
@@ -765,7 +765,7 @@
         },
         "valkey-search": {
           "commits": 46,
-          "reviews": 179
+          "reviews": 181
         },
         "valkey": {
           "commits": 2,
@@ -776,7 +776,39 @@
           "reviews": 1
         }
       },
-      "score": 232
+      "score": 234
+    },
+    {
+      "login": "xShinnRyuu",
+      "id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "name": "Thomas Zhou",
+      "company": "Improving",
+      "commits": 49,
+      "reviews": 175,
+      "repos": [
+        "valkey-glide",
+        "valkey-glide-csharp"
+      ],
+      "per_repo": {
+        "valkey-glide": {
+          "commits": 47,
+          "reviews": 112
+        },
+        "valkey-glide-csharp": {
+          "commits": 2,
+          "reviews": 47
+        },
+        "valkey-glide-docs": {
+          "commits": 0,
+          "reviews": 6
+        },
+        "valkey-glide-php": {
+          "commits": 0,
+          "reviews": 10
+        }
+      },
+      "score": 224
     },
     {
       "login": "jduo",
@@ -811,38 +843,6 @@
         }
       },
       "score": 222
-    },
-    {
-      "login": "xShinnRyuu",
-      "id": 54688146,
-      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-      "name": "Thomas Zhou",
-      "company": "Improving",
-      "commits": 49,
-      "reviews": 171,
-      "repos": [
-        "valkey-glide",
-        "valkey-glide-csharp"
-      ],
-      "per_repo": {
-        "valkey-glide": {
-          "commits": 47,
-          "reviews": 112
-        },
-        "valkey-glide-csharp": {
-          "commits": 2,
-          "reviews": 43
-        },
-        "valkey-glide-docs": {
-          "commits": 0,
-          "reviews": 6
-        },
-        "valkey-glide-php": {
-          "commits": 0,
-          "reviews": 10
-        }
-      },
-      "score": 220
     },
     {
       "login": "eifrah-aws",
@@ -967,6 +967,25 @@
       "score": 201
     },
     {
+      "login": "arseny-kostenko",
+      "id": 119968546,
+      "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
+      "name": "Arseny Kostenko",
+      "company": "",
+      "commits": 19,
+      "reviews": 181,
+      "repos": [
+        "valkey-admin"
+      ],
+      "per_repo": {
+        "valkey-admin": {
+          "commits": 19,
+          "reviews": 181
+        }
+      },
+      "score": 200
+    },
+    {
       "login": "jbrinkman",
       "id": 862921,
       "avatar_url": "https://avatars.githubusercontent.com/u/862921?v=4",
@@ -993,25 +1012,6 @@
         }
       },
       "score": 200
-    },
-    {
-      "login": "arseny-kostenko",
-      "id": 119968546,
-      "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-      "name": "Arseny Kostenko",
-      "company": "",
-      "commits": 19,
-      "reviews": 178,
-      "repos": [
-        "valkey-admin"
-      ],
-      "per_repo": {
-        "valkey-admin": {
-          "commits": 19,
-          "reviews": 178
-        }
-      },
-      "score": 197
     },
     {
       "login": "barshaul",
@@ -1170,6 +1170,50 @@
       "score": 170
     },
     {
+      "login": "currantw",
+      "id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "name": "Taylor Curran",
+      "company": "Bit-Quill",
+      "commits": 103,
+      "reviews": 63,
+      "repos": [
+        "valkey-doc",
+        "valkey-glide",
+        "valkey-glide-csharp",
+        "valkey-glide-docs",
+        "valkey-glide-php",
+        "valkey-io.github.io"
+      ],
+      "per_repo": {
+        "valkey-glide": {
+          "commits": 8,
+          "reviews": 27
+        },
+        "valkey-glide-csharp": {
+          "commits": 80,
+          "reviews": 26
+        },
+        "valkey-glide-docs": {
+          "commits": 7,
+          "reviews": 2
+        },
+        "valkey-glide-php": {
+          "commits": 6,
+          "reviews": 8
+        },
+        "valkey-doc": {
+          "commits": 1,
+          "reviews": 0
+        },
+        "valkey-io.github.io": {
+          "commits": 1,
+          "reviews": 0
+        }
+      },
+      "score": 166
+    },
+    {
       "login": "hwware",
       "id": 51993843,
       "avatar_url": "https://avatars.githubusercontent.com/u/51993843?v=4",
@@ -1241,50 +1285,6 @@
       "score": 163
     },
     {
-      "login": "currantw",
-      "id": 181785993,
-      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-      "name": "Taylor Curran",
-      "company": "Bit-Quill",
-      "commits": 100,
-      "reviews": 62,
-      "repos": [
-        "valkey-doc",
-        "valkey-glide",
-        "valkey-glide-csharp",
-        "valkey-glide-docs",
-        "valkey-glide-php",
-        "valkey-io.github.io"
-      ],
-      "per_repo": {
-        "valkey-glide": {
-          "commits": 8,
-          "reviews": 27
-        },
-        "valkey-glide-csharp": {
-          "commits": 77,
-          "reviews": 25
-        },
-        "valkey-glide-docs": {
-          "commits": 7,
-          "reviews": 2
-        },
-        "valkey-glide-php": {
-          "commits": 6,
-          "reviews": 8
-        },
-        "valkey-doc": {
-          "commits": 1,
-          "reviews": 0
-        },
-        "valkey-io.github.io": {
-          "commits": 1,
-          "reviews": 0
-        }
-      },
-      "score": 162
-    },
-    {
       "login": "Elen-Ghulam",
       "id": 0,
       "avatar_url": "https://github.com/Elen-Ghulam.png?size=64",
@@ -1308,7 +1308,7 @@
       "name": "Alex Rehnby-Martin",
       "company": "",
       "commits": 38,
-      "reviews": 105,
+      "reviews": 107,
       "repos": [
         "valkey-glide",
         "valkey-glide-csharp",
@@ -1321,7 +1321,7 @@
         },
         "valkey-glide-csharp": {
           "commits": 18,
-          "reviews": 64
+          "reviews": 66
         },
         "valkey-glide-php": {
           "commits": 3,
@@ -1332,7 +1332,7 @@
           "reviews": 1
         }
       },
-      "score": 143
+      "score": 145
     },
     {
       "login": "ravjotbrar",
@@ -1340,7 +1340,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
       "name": "Ravjot Brar",
       "company": "Bit Quill",
-      "commits": 83,
+      "commits": 84,
       "reviews": 59,
       "repos": [
         "valkey-admin",
@@ -1348,7 +1348,7 @@
       ],
       "per_repo": {
         "valkey-admin": {
-          "commits": 82,
+          "commits": 83,
           "reviews": 59
         },
         "valkey-io.github.io": {
@@ -1356,7 +1356,7 @@
           "reviews": 0
         }
       },
-      "score": 142
+      "score": 143
     },
     {
       "login": "GumpacG",
@@ -1678,8 +1678,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
       "name": "Alex Le",
       "company": "",
-      "commits": 33,
-      "reviews": 59,
+      "commits": 34,
+      "reviews": 60,
       "repos": [
         "valkey-doc",
         "valkey-glide",
@@ -1705,15 +1705,15 @@
           "reviews": 1
         },
         "valkey-glide-csharp": {
-          "commits": 1,
-          "reviews": 10
+          "commits": 2,
+          "reviews": 11
         },
         "valkey-io.github.io": {
           "commits": 1,
           "reviews": 0
         }
       },
-      "score": 92
+      "score": 94
     },
     {
       "login": "dvkashapov",
@@ -1721,7 +1721,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
       "name": "Daniil Kashapov",
       "company": "",
-      "commits": 21,
+      "commits": 22,
       "reviews": 59,
       "repos": [
         "valkey",
@@ -1739,7 +1739,7 @@
           "reviews": 12
         },
         "valkey-doc": {
-          "commits": 2,
+          "commits": 3,
           "reviews": 0
         },
         "valkey-io.github.io": {
@@ -1747,7 +1747,7 @@
           "reviews": 0
         }
       },
-      "score": 80
+      "score": 81
     },
     {
       "login": "ArgusLi",
@@ -1755,18 +1755,18 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
       "name": "Argus Li",
       "company": "Bit-Quill",
-      "commits": 54,
+      "commits": 56,
       "reviews": 21,
       "repos": [
         "valkey-admin"
       ],
       "per_repo": {
         "valkey-admin": {
-          "commits": 54,
+          "commits": 56,
           "reviews": 21
         }
       },
-      "score": 75
+      "score": 77
     },
     {
       "login": "BCathcart",
@@ -1901,6 +1901,25 @@
       "score": 68
     },
     {
+      "login": "Aksha1812",
+      "id": 48383029,
+      "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
+      "name": "AkshaThakkar1812",
+      "company": "",
+      "commits": 41,
+      "reviews": 23,
+      "repos": [
+        "valkey-search"
+      ],
+      "per_repo": {
+        "valkey-search": {
+          "commits": 41,
+          "reviews": 23
+        }
+      },
+      "score": 64
+    },
+    {
       "login": "asafpamzn",
       "id": 97948347,
       "avatar_url": "https://avatars.githubusercontent.com/u/97948347?v=4",
@@ -1932,25 +1951,6 @@
         }
       },
       "score": 64
-    },
-    {
-      "login": "Aksha1812",
-      "id": 48383029,
-      "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-      "name": "AkshaThakkar1812",
-      "company": "",
-      "commits": 39,
-      "reviews": 23,
-      "repos": [
-        "valkey-search"
-      ],
-      "per_repo": {
-        "valkey-search": {
-          "commits": 39,
-          "reviews": 23
-        }
-      },
-      "score": 62
     },
     {
       "login": "boda26",
@@ -2435,6 +2435,39 @@
       "score": 37
     },
     {
+      "login": "rueian",
+      "id": 2727535,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
+      "name": "Rueian",
+      "company": "",
+      "commits": 8,
+      "reviews": 28,
+      "repos": [
+        "valkey",
+        "valkey-doc",
+        "valkey-glide"
+      ],
+      "per_repo": {
+        "valkey-go": {
+          "commits": 0,
+          "reviews": 28
+        },
+        "valkey": {
+          "commits": 3,
+          "reviews": 0
+        },
+        "valkey-doc": {
+          "commits": 2,
+          "reviews": 0
+        },
+        "valkey-glide": {
+          "commits": 3,
+          "reviews": 0
+        }
+      },
+      "score": 36
+    },
+    {
       "login": "uriyage",
       "id": 78144248,
       "avatar_url": "https://avatars.githubusercontent.com/u/78144248?v=4",
@@ -2496,39 +2529,6 @@
         }
       },
       "score": 36
-    },
-    {
-      "login": "rueian",
-      "id": 2727535,
-      "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-      "name": "Rueian",
-      "company": "",
-      "commits": 8,
-      "reviews": 27,
-      "repos": [
-        "valkey",
-        "valkey-doc",
-        "valkey-glide"
-      ],
-      "per_repo": {
-        "valkey-go": {
-          "commits": 0,
-          "reviews": 27
-        },
-        "valkey": {
-          "commits": 3,
-          "reviews": 0
-        },
-        "valkey-doc": {
-          "commits": 2,
-          "reviews": 0
-        },
-        "valkey-glide": {
-          "commits": 3,
-          "reviews": 0
-        }
-      },
-      "score": 35
     },
     {
       "login": "lilpoozie2005",
@@ -3620,6 +3620,30 @@
       "score": 11
     },
     {
+      "login": "nmvk",
+      "id": 1668438,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1668438?v=4",
+      "name": "Raghav Muddur",
+      "company": "",
+      "commits": 7,
+      "reviews": 3,
+      "repos": [
+        "valkey",
+        "valkey-doc"
+      ],
+      "per_repo": {
+        "valkey-doc": {
+          "commits": 1,
+          "reviews": 0
+        },
+        "valkey": {
+          "commits": 6,
+          "reviews": 3
+        }
+      },
+      "score": 10
+    },
+    {
       "login": "KIvanow",
       "id": 541999,
       "avatar_url": "https://avatars.githubusercontent.com/u/541999?v=4",
@@ -3647,6 +3671,35 @@
         },
         "valkey-admin": {
           "commits": 3,
+          "reviews": 0
+        }
+      },
+      "score": 10
+    },
+    {
+      "login": "rlunar",
+      "id": 2453805,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2453805?v=4",
+      "name": "Roberto Luna-Rojas",
+      "company": "Amazon Web Services",
+      "commits": 8,
+      "reviews": 2,
+      "repos": [
+        "valkey-bundle",
+        "valkey-io.github.io",
+        "valkey-search"
+      ],
+      "per_repo": {
+        "valkey-io.github.io": {
+          "commits": 6,
+          "reviews": 2
+        },
+        "valkey-bundle": {
+          "commits": 1,
+          "reviews": 0
+        },
+        "valkey-search": {
+          "commits": 1,
           "reviews": 0
         }
       },
@@ -3807,30 +3860,6 @@
       "score": 9
     },
     {
-      "login": "nmvk",
-      "id": 1668438,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1668438?v=4",
-      "name": "Raghav Muddur",
-      "company": "",
-      "commits": 7,
-      "reviews": 2,
-      "repos": [
-        "valkey",
-        "valkey-doc"
-      ],
-      "per_repo": {
-        "valkey-doc": {
-          "commits": 1,
-          "reviews": 0
-        },
-        "valkey": {
-          "commits": 6,
-          "reviews": 2
-        }
-      },
-      "score": 9
-    },
-    {
       "login": "ysqyang",
       "id": 24786534,
       "avatar_url": "https://avatars.githubusercontent.com/u/24786534?v=4",
@@ -3910,35 +3939,6 @@
         }
       },
       "score": 9
-    },
-    {
-      "login": "rlunar",
-      "id": 2453805,
-      "avatar_url": "https://avatars.githubusercontent.com/u/2453805?v=4",
-      "name": "Roberto Luna-Rojas",
-      "company": "Amazon Web Services",
-      "commits": 8,
-      "reviews": 0,
-      "repos": [
-        "valkey-bundle",
-        "valkey-io.github.io",
-        "valkey-search"
-      ],
-      "per_repo": {
-        "valkey-io.github.io": {
-          "commits": 6,
-          "reviews": 0
-        },
-        "valkey-bundle": {
-          "commits": 1,
-          "reviews": 0
-        },
-        "valkey-search": {
-          "commits": 1,
-          "reviews": 0
-        }
-      },
-      "score": 8
     },
     {
       "login": "chzhoo",
@@ -7237,6 +7237,25 @@
       ],
       "per_repo": {
         "valkey": {
+          "commits": 2,
+          "reviews": 0
+        }
+      },
+      "score": 2
+    },
+    {
+      "login": "bblan0803",
+      "id": 219018551,
+      "avatar_url": "https://avatars.githubusercontent.com/u/219018551?v=4",
+      "name": "",
+      "company": "",
+      "commits": 2,
+      "reviews": 0,
+      "repos": [
+        "valkey-io.github.io"
+      ],
+      "per_repo": {
+        "valkey-io.github.io": {
           "commits": 2,
           "reviews": 0
         }
@@ -11509,6 +11528,25 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/30431538?v=4",
       "name": "Davide Quaranta",
       "company": "evroc-oss",
+      "commits": 1,
+      "reviews": 0,
+      "repos": [
+        "valkey-go"
+      ],
+      "per_repo": {
+        "valkey-go": {
+          "commits": 1,
+          "reviews": 0
+        }
+      },
+      "score": 1
+    },
+    {
+      "login": "mhr3",
+      "id": 5833104,
+      "avatar_url": "https://avatars.githubusercontent.com/u/5833104?v=4",
+      "name": "Michal Hruby",
+      "company": "axiomhq",
       "commits": 1,
       "reviews": 0,
       "repos": [
