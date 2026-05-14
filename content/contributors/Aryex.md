@@ -2,17 +2,26 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 94,
-  "commit_count": 34,
-  "review_count": 60,
+  "score": 96,
+  "commit_count": 35,
+  "review_count": 61,
   "repos": [
     "valkey-doc",
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-docs",
+    "valkey-glide-php",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "cb15a4934d",
+      "message": "Adding reusable test and nightly FMT (#192)",
+      "date": "2026-05-13",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/192",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/cb15a4934d5d6fa15e0ef712d8f553af867f61ea"
+    },
     {
       "sha": "e1429e97f4",
       "message": "Refactor existing CI/CD workflow (#376)",
@@ -287,6 +296,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3a8ca540d1",
+      "message": "Improve lint job performance (#394)",
+      "date": "2026-05-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/394",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3a8ca540d1b06201e154f1ed1ea60645ad44e6a0"
+    },
     {
       "sha": "9665eddc60",
       "message": "feat(lint): Add `markdownlint` integration (#391)",

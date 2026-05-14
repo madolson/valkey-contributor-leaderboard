@@ -2,9 +2,9 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 62,
+  "score": 63,
   "commit_count": 38,
-  "review_count": 24,
+  "review_count": 25,
   "repos": [
     "valkey-search"
   ],
@@ -315,6 +315,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1b85d1acce",
+      "message": "Fix RunByMain shutdown leak by draining pending one-shots (#1029)",
+      "date": "2026-05-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1029",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1b85d1acce5ece7a0b1e1f5a766cb3148659173b"
+    },
     {
       "sha": "a2bb4f6dbd",
       "message": "Allow python integ tests to be run with integration/run.sh (#1006)",

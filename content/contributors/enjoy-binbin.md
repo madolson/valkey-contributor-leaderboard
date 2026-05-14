@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 831,
+  "score": 832,
   "commit_count": 321,
-  "review_count": 510,
+  "review_count": 511,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2590,6 +2590,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3684",
       "commit_url": "https://github.com/valkey-io/valkey/commit/fc849f087d731bea4ee7fb85b702664ae7583384"
+    },
+    {
+      "sha": "5b167f4556",
+      "message": "Add check to disallow `CLUSTER SETSLOT` to target self (#3689)",
+      "date": "2026-05-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3689",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5b167f45562e59fda28f03fc828aef84834aa88a"
     },
     {
       "sha": "9a35437f8d",

@@ -2,14 +2,23 @@
   "title": "martinrvisser",
   "login": "martinrvisser",
   "avatar_url": "https://avatars.githubusercontent.com/u/7462581?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey",
-    "valkey-io.github.io"
+    "valkey-io.github.io",
+    "valkey-ldap"
   ],
   "commit_list": [
+    {
+      "sha": "41bdcc8b62",
+      "message": "A vulnerability in logging.rs panics on any NUL byte in message. Usernames are added into log strings (e.g. \"failed to authenticate LDAP user {username}\"), so attackers can send user\\x001 as the username to crash the server.",
+      "date": "2026-05-13",
+      "repo": "valkey-ldap",
+      "pr_url": "https://github.com/valkey-io/valkey-ldap/pull/63",
+      "commit_url": "https://github.com/valkey-io/valkey-ldap/commit/41bdcc8b62a1a8ef35d862c08eb2fe4d1c7b2e21"
+    },
     {
       "sha": "6444717517",
       "message": "Module command result callback addition (#2936)",

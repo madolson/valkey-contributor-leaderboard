@@ -2,8 +2,8 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 176,
-  "commit_count": 99,
+  "score": 177,
+  "commit_count": 100,
   "review_count": 77,
   "repos": [
     "libvalkey",
@@ -12,6 +12,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "fdf13ca0de",
+      "message": "Update deps/libvalkey to version 0.5.0 (#3697)",
+      "date": "2026-05-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3697",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fdf13ca0def87dd31bf29c0b2be4021d8d9ad7b4"
+    },
     {
       "sha": "afc8294635",
       "message": "Fix intermittent test failures due to the toleration test (#170)",

@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 224,
+  "score": 230,
   "commit_count": 49,
-  "review_count": 175,
+  "review_count": 181,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -404,6 +404,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9d5cded7ea",
+      "message": "refactor(cd): Test package locally before publishing to NuGet (#402)",
+      "date": "2026-05-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/402",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/9d5cded7ea88a6b883c0335dc260613412eebf48"
+    },
+    {
+      "sha": "786e369bb8",
+      "message": "Cherry-pick `release-1.1` CHANGELOG into `main` (#403)",
+      "date": "2026-05-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/403",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/786e369bb897477986046821f4dd7dd257f110c6"
+    },
+    {
+      "sha": "435c804779",
+      "message": "fix(ci): Add Content-Length header to NuGet re-list request (#401)",
+      "date": "2026-05-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/401",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/435c8047795b097b0f9fa49f6215ac0e1c52d7d0"
+    },
+    {
+      "sha": "05c79b79ad",
+      "message": "chore(ci): Add workflow to re-list unlisted NuGet packages (#400)",
+      "date": "2026-05-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/400",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/05c79b79ad2023dc7590bfc39b8454316eb99cbc"
+    },
+    {
+      "sha": "3a8ca540d1",
+      "message": "Improve lint job performance (#394)",
+      "date": "2026-05-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/394",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3a8ca540d1b06201e154f1ed1ea60645ad44e6a0"
+    },
+    {
+      "sha": "cb15a4934d",
+      "message": "Adding reusable test and nightly FMT (#192)",
+      "date": "2026-05-13",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/192",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/cb15a4934d5d6fa15e0ef712d8f553af867f61ea"
+    },
     {
       "sha": "2d56a9b02b",
       "message": "Add Redis 7.1 and 7.2 to CI test matrix (#395)",

@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 145,
+  "score": 149,
   "commit_count": 38,
-  "review_count": 107,
+  "review_count": 111,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -317,6 +317,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9d5cded7ea",
+      "message": "refactor(cd): Test package locally before publishing to NuGet (#402)",
+      "date": "2026-05-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/402",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/9d5cded7ea88a6b883c0335dc260613412eebf48"
+    },
+    {
+      "sha": "786e369bb8",
+      "message": "Cherry-pick `release-1.1` CHANGELOG into `main` (#403)",
+      "date": "2026-05-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/403",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/786e369bb897477986046821f4dd7dd257f110c6"
+    },
+    {
+      "sha": "435c804779",
+      "message": "fix(ci): Add Content-Length header to NuGet re-list request (#401)",
+      "date": "2026-05-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/401",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/435c8047795b097b0f9fa49f6215ac0e1c52d7d0"
+    },
+    {
+      "sha": "05c79b79ad",
+      "message": "chore(ci): Add workflow to re-list unlisted NuGet packages (#400)",
+      "date": "2026-05-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/400",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/05c79b79ad2023dc7590bfc39b8454316eb99cbc"
+    },
     {
       "sha": "2d56a9b02b",
       "message": "Add Redis 7.1 and 7.2 to CI test matrix (#395)",

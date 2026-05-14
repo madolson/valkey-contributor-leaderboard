@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1127,
+  "score": 1129,
   "commit_count": 151,
-  "review_count": 976,
+  "review_count": 978,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1230,6 +1230,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3667",
       "commit_url": "https://github.com/valkey-io/valkey/commit/4344e5b6fdbba8b1efd82470bfbc0e7513443bd5"
+    },
+    {
+      "sha": "fdf13ca0de",
+      "message": "Update deps/libvalkey to version 0.5.0 (#3697)",
+      "date": "2026-05-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3697",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fdf13ca0def87dd31bf29c0b2be4021d8d9ad7b4"
+    },
+    {
+      "sha": "5b167f4556",
+      "message": "Add check to disallow `CLUSTER SETSLOT` to target self (#3689)",
+      "date": "2026-05-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3689",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5b167f45562e59fda28f03fc828aef84834aa88a"
     },
     {
       "sha": "d4337d6662",

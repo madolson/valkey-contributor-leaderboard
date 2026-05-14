@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 234,
-  "commit_count": 49,
+  "score": 235,
+  "commit_count": 50,
   "review_count": 185,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "1b85d1acce",
+      "message": "Fix RunByMain shutdown leak by draining pending one-shots (#1029)",
+      "date": "2026-05-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1029",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1b85d1acce5ece7a0b1e1f5a766cb3148659173b"
+    },
     {
       "sha": "70b8c2025c",
       "message": "Fix timefmt causes OOM on empty input, Issue: #962 (#963)",
