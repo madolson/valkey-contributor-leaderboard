@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 222,
+  "score": 223,
   "commit_count": 50,
-  "review_count": 172,
+  "review_count": 173,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -414,6 +414,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e3f8317411",
+      "message": "fix(pysync): correctly mention supported features (#211)",
+      "date": "2026-05-14",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/211",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/e3f8317411bd82edffb3c824c12699797f17f66e"
+    },
     {
       "sha": "7803996f54",
       "message": "Fix TCP deadlock in MultiplexedConnection with large payloads (#5892)",

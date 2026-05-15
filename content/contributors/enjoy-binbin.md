@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 832,
-  "commit_count": 321,
+  "score": 833,
+  "commit_count": 322,
   "review_count": 511,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "390a11c895",
+      "message": "Set repl-timeout for slotmigrations tests to prevent disconnections (#3703)",
+      "date": "2026-05-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3703",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/390a11c895d5dd1aa570ef7b6e78206ab1bf9776"
+    },
     {
       "sha": "a813df0546",
       "message": "Improve CLUSTERSCAN error handling test with broader coverage (#3674)",

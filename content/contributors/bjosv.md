@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 177,
+  "score": 178,
   "commit_count": 100,
-  "review_count": 77,
+  "review_count": 78,
   "repos": [
     "libvalkey",
     "valkey",
@@ -814,6 +814,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3c08e8d7b9",
+      "message": "docs: Remove image.tag=main override in quickstart (#183)",
+      "date": "2026-05-14",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/183",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3c08e8d7b9f7edecc17446c206ec1d58da90cba3"
+    },
     {
       "sha": "a420772789",
       "message": "docs: Add valkeynode-design.md (#162)",

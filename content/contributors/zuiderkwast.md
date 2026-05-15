@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1129,
+  "score": 1131,
   "commit_count": 151,
-  "review_count": 978,
+  "review_count": 980,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1223,6 +1223,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "390a11c895",
+      "message": "Set repl-timeout for slotmigrations tests to prevent disconnections (#3703)",
+      "date": "2026-05-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3703",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/390a11c895d5dd1aa570ef7b6e78206ab1bf9776"
+    },
+    {
+      "sha": "390a11c895",
+      "message": "Set repl-timeout for slotmigrations tests to prevent disconnections (#3703)",
+      "date": "2026-05-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3703",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/390a11c895d5dd1aa570ef7b6e78206ab1bf9776"
+    },
     {
       "sha": "4344e5b6fd",
       "message": "Minor cleanup and fix typo in bzmpop get_keys_function (#3667)",

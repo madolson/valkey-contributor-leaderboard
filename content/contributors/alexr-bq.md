@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 149,
+  "score": 152,
   "commit_count": 38,
-  "review_count": 111,
+  "review_count": 114,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -332,6 +332,30 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/403",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/786e369bb897477986046821f4dd7dd257f110c6"
+    },
+    {
+      "sha": "74a6c9a37a",
+      "message": "Update README with up-to-date information (#5941)",
+      "date": "2026-05-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5941",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/74a6c9a37a6123915628d484b9d1392f16aa5841"
+    },
+    {
+      "sha": "6c31dbbb5e",
+      "message": "Add Windows 11 ARM to CI test matrix and simplify matrix infrastructure (#396)",
+      "date": "2026-05-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/396",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/6c31dbbb5e14737183629a3515d42284b1aeb7f3"
+    },
+    {
+      "sha": "ccfac112a2",
+      "message": "refactor: remove PreExecCheck leaky abstraction and fix sync-over-async (#405)",
+      "date": "2026-05-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/405",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/ccfac112a2379b19b163638e47294267825dc4c9"
     },
     {
       "sha": "435c804779",

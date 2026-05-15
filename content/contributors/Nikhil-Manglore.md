@@ -2,9 +2,9 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 236,
+  "score": 237,
   "commit_count": 90,
-  "review_count": 146,
+  "review_count": 147,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -743,6 +743,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ab5475f2be",
+      "message": "Automated Updates for Valkey Bundle (#112)",
+      "date": "2026-05-14",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/112",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/ab5475f2bed6e35ea471f9aa572183712c3e6375"
+    },
     {
       "sha": "199d49a432",
       "message": "Automatically create github issues for test failures from daily CI runs (#3358)",

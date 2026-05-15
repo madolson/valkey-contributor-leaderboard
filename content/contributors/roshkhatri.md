@@ -2,8 +2,8 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 339,
-  "commit_count": 131,
+  "score": 340,
+  "commit_count": 132,
   "review_count": 208,
   "repos": [
     "valkey",
@@ -19,6 +19,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "ab5475f2be",
+      "message": "Automated Updates for Valkey Bundle (#112)",
+      "date": "2026-05-14",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/112",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/ab5475f2bed6e35ea471f9aa572183712c3e6375"
+    },
     {
       "sha": "8ee03af75f",
       "message": "fix: gate JSON.DEBUG KEYTABLE-CORRUPT behind json.debug-mode config (#98)",

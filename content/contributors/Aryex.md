@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 96,
-  "commit_count": 35,
+  "score": 98,
+  "commit_count": 37,
   "review_count": 61,
   "repos": [
     "valkey-doc",
@@ -14,6 +14,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "74a6c9a37a",
+      "message": "Update README with up-to-date information (#5941)",
+      "date": "2026-05-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5941",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/74a6c9a37a6123915628d484b9d1392f16aa5841"
+    },
+    {
+      "sha": "e3f8317411",
+      "message": "fix(pysync): correctly mention supported features (#211)",
+      "date": "2026-05-14",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/211",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/e3f8317411bd82edffb3c824c12699797f17f66e"
+    },
     {
       "sha": "cb15a4934d",
       "message": "Adding reusable test and nightly FMT (#192)",

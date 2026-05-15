@@ -2,14 +2,22 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 49,
-  "commit_count": 14,
+  "score": 50,
+  "commit_count": 15,
   "review_count": 35,
   "repos": [
     "valkey",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "3c08e8d7b9",
+      "message": "docs: Remove image.tag=main override in quickstart (#183)",
+      "date": "2026-05-14",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/183",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3c08e8d7b9f7edecc17446c206ec1d58da90cba3"
+    },
     {
       "sha": "a420772789",
       "message": "docs: Add valkeynode-design.md (#162)",
