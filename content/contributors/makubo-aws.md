@@ -2,9 +2,9 @@
   "title": "makubo-aws",
   "login": "makubo-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/203714000?v=4",
-  "score": 5,
+  "score": 6,
   "commit_count": 3,
-  "review_count": 2,
+  "review_count": 3,
   "repos": [
     "valkey-doc",
     "valkey-io.github.io"
@@ -36,6 +36,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "11cbe2c167",
+      "message": "Use Valkeyrie Bot for assign-blog-reviewers workflow (#551)",
+      "date": "2026-05-15",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/551",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/11cbe2c167cd9c004d7cd8db1023a0465076f945"
+    },
     {
       "sha": "c44aa79699",
       "message": "Add blog: Reduce Token Cost for LLMs, AI Agent Memory with Valkey and Mem0 (#503)",

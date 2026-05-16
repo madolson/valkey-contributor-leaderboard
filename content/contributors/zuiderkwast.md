@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1131,
+  "score": 1132,
   "commit_count": 151,
-  "review_count": 980,
+  "review_count": 981,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1238,6 +1238,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3703",
       "commit_url": "https://github.com/valkey-io/valkey/commit/390a11c895d5dd1aa570ef7b6e78206ab1bf9776"
+    },
+    {
+      "sha": "dae77b606c",
+      "message": "Update `cluster-spec.md` to mention enabling support for multi database cluster (#438)",
+      "date": "2026-05-15",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/438",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/dae77b606ce430bac607a7b08983323a05e86f56"
     },
     {
       "sha": "4344e5b6fd",

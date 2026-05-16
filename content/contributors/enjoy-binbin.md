@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 833,
+  "score": 834,
   "commit_count": 322,
-  "review_count": 511,
+  "review_count": 512,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2591,6 +2591,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dae77b606c",
+      "message": "Update `cluster-spec.md` to mention enabling support for multi database cluster (#438)",
+      "date": "2026-05-15",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/438",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/dae77b606ce430bac607a7b08983323a05e86f56"
+    },
     {
       "sha": "fc849f087d",
       "message": "Fix weekly workflow startup_failure caused by permissions mismatch (#3684)",

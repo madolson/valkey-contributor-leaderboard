@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 234,
+  "score": 235,
   "commit_count": 49,
-  "review_count": 185,
+  "review_count": 186,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -404,6 +404,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b33c24281e",
+      "message": "Core: Propagate per-command response timeout to multiplexed connection (#5916)",
+      "date": "2026-05-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5916",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b33c24281e6a34fb9a4ab5ec47c4ca23abef57d8"
+    },
     {
       "sha": "9d5cded7ea",
       "message": "refactor(cd): Test package locally before publishing to NuGet (#402)",

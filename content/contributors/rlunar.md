@@ -2,9 +2,9 @@
   "title": "rlunar",
   "login": "rlunar",
   "avatar_url": "https://avatars.githubusercontent.com/u/2453805?v=4",
-  "score": 10,
+  "score": 11,
   "commit_count": 8,
-  "review_count": 2,
+  "review_count": 3,
   "repos": [
     "valkey-bundle",
     "valkey-io.github.io",
@@ -77,6 +77,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fb5b295599",
+      "message": "Remove intro paragraph above demo video (#552)",
+      "date": "2026-05-15",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/552",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/fb5b295599696b9f86d0cfba9078d8e2049c93dd"
+    },
     {
       "sha": "27d20eb9d7",
       "message": "Add demo video section to Valkey Admin blog post (#548)",

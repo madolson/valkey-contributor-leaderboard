@@ -2,8 +2,8 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 247,
-  "commit_count": 91,
+  "score": 248,
+  "commit_count": 92,
   "review_count": 156,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "7cb0d02c41",
+      "message": "Use protobuf Arena for fanout response deserialization (#1040)",
+      "date": "2026-05-16",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1040",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7cb0d02c41a03f48d0c6dd2ffc8e955bbd77ae18"
+    },
     {
       "sha": "a2bb4f6dbd",
       "message": "Allow python integ tests to be run with integration/run.sh (#1006)",

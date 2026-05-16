@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 223,
+  "score": 224,
   "commit_count": 50,
-  "review_count": 173,
+  "review_count": 174,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -414,6 +414,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b33c24281e",
+      "message": "Core: Propagate per-command response timeout to multiplexed connection (#5916)",
+      "date": "2026-05-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5916",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b33c24281e6a34fb9a4ab5ec47c4ca23abef57d8"
+    },
     {
       "sha": "e3f8317411",
       "message": "fix(pysync): correctly mention supported features (#211)",

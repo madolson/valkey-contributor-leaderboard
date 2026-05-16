@@ -2,8 +2,8 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 835,
-  "commit_count": 180,
+  "score": 836,
+  "commit_count": 181,
   "review_count": 655,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "11cbe2c167",
+      "message": "Use Valkeyrie Bot for assign-blog-reviewers workflow (#551)",
+      "date": "2026-05-15",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/551",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/11cbe2c167cd9c004d7cd8db1023a0465076f945"
+    },
     {
       "sha": "a07828f235",
       "message": "Update website for version 7.2.13 (#535)",

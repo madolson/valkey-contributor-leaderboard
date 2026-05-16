@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 235,
+  "score": 236,
   "commit_count": 50,
-  "review_count": 185,
+  "review_count": 186,
   "repos": [
     "valkey",
     "valkey-json",
@@ -413,6 +413,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7cb0d02c41",
+      "message": "Use protobuf Arena for fanout response deserialization (#1040)",
+      "date": "2026-05-16",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1040",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7cb0d02c41a03f48d0c6dd2ffc8e955bbd77ae18"
+    },
     {
       "sha": "7cac0c7ca9",
       "message": "[DOCUMENTATION] Updating QUICK_START.md (#990)",

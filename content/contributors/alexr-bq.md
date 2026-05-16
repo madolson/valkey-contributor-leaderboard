@@ -318,6 +318,14 @@
   ],
   "review_list": [
     {
+      "sha": "ae1212b297",
+      "message": "Updated attribution files for commit 9d5cded7ea88a6b883c0335dc260613412eebf48 (#404)",
+      "date": "2026-05-15",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/404",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/ae1212b297def2e861a79a5a967a8e6a685c050a"
+    },
+    {
       "sha": "9d5cded7ea",
       "message": "refactor(cd): Test package locally before publishing to NuGet (#402)",
       "date": "2026-05-14",

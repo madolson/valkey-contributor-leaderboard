@@ -2,8 +2,8 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 121,
-  "commit_count": 29,
+  "score": 122,
+  "commit_count": 30,
   "review_count": 92,
   "repos": [
     "spring-data-valkey",
@@ -11,6 +11,14 @@
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "b33c24281e",
+      "message": "Core: Propagate per-command response timeout to multiplexed connection (#5916)",
+      "date": "2026-05-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5916",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b33c24281e6a34fb9a4ab5ec47c4ca23abef57d8"
+    },
     {
       "sha": "39ffba3594",
       "message": "Add recommended config and log output reference to logging guide (#204)",

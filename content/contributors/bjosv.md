@@ -2,16 +2,25 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 178,
-  "commit_count": 100,
-  "review_count": 78,
+  "score": 180,
+  "commit_count": 101,
+  "review_count": 79,
   "repos": [
     "libvalkey",
     "valkey",
     "valkey-doc",
+    "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "8421ca3426",
+      "message": "fixup: update chart version and add changelog file",
+      "date": "2026-05-14",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/174",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/8421ca342657efa3bbec12cf01c1bbd7ef6e3b32"
+    },
     {
       "sha": "fdf13ca0de",
       "message": "Update deps/libvalkey to version 0.5.0 (#3697)",
@@ -814,6 +823,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "363d2dace0",
+      "message": "add resetpass to UserAclSpec (#166)",
+      "date": "2026-05-15",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/166",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/363d2dace00a78b9985b0fc68e3aa20a29380df8"
+    },
     {
       "sha": "3c08e8d7b9",
       "message": "docs: Remove image.tag=main override in quickstart (#183)",

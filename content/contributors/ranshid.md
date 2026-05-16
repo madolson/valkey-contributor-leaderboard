@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 272,
+  "score": 273,
   "commit_count": 88,
-  "review_count": 184,
+  "review_count": 185,
   "repos": [
     "valkey",
     "valkey-container",
@@ -721,6 +721,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0321a69e62",
+      "message": "Fix deferred freeClient clobbering replication state after replicaof (#3719)",
+      "date": "2026-05-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3719",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0321a69e62f5148096d03358e26a1b884af3b969"
+    },
     {
       "sha": "ca9dee353d",
       "message": "Add optional REPLACE argument to MOVE (#2993)",
