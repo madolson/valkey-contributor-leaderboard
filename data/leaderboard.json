@@ -603,7 +603,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
       "name": "",
       "company": "",
-      "commits": 92,
+      "commits": 93,
       "reviews": 156,
       "repos": [
         "valkey",
@@ -628,7 +628,7 @@
           "reviews": 0
         },
         "valkey-search": {
-          "commits": 73,
+          "commits": 74,
           "reviews": 92
         },
         "valkey-test-framework": {
@@ -652,7 +652,7 @@
           "reviews": 2
         }
       },
-      "score": 248
+      "score": 249
     },
     {
       "login": "Nikhil-Manglore",
@@ -748,7 +748,7 @@
       "name": "Allen Samuels",
       "company": "Amazon Web Services",
       "commits": 50,
-      "reviews": 186,
+      "reviews": 187,
       "repos": [
         "valkey",
         "valkey-json",
@@ -765,7 +765,7 @@
         },
         "valkey-search": {
           "commits": 47,
-          "reviews": 182
+          "reviews": 183
         },
         "valkey": {
           "commits": 2,
@@ -776,7 +776,7 @@
           "reviews": 1
         }
       },
-      "score": 236
+      "score": 237
     },
     {
       "login": "xShinnRyuu",

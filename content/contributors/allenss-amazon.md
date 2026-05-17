@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 236,
+  "score": 237,
   "commit_count": 50,
-  "review_count": 186,
+  "review_count": 187,
   "repos": [
     "valkey",
     "valkey-json",
@@ -420,6 +420,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1040",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/7cb0d02c41a03f48d0c6dd2ffc8e955bbd77ae18"
+    },
+    {
+      "sha": "da3872fc8b",
+      "message": "Fix Reader Thread Scaling Bottlenecks due to PausePoint Mutex (#1037)",
+      "date": "2026-05-16",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1037",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/da3872fc8b93b345831ca00a3c4d3022f8a3fe45"
     },
     {
       "sha": "7cac0c7ca9",
