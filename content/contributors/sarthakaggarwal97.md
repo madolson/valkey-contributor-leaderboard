@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 284,
+  "score": 285,
   "commit_count": 84,
-  "review_count": 200,
+  "review_count": 201,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -686,6 +686,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5a604b3ef2",
+      "message": "Use full hash-seed bytes when deriving SipHash seed (#3654)",
+      "date": "2026-05-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3654",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5a604b3ef2a5f5e37b202ba6d2f9082df87af454"
+    },
     {
       "sha": "d4337d6662",
       "message": "Fix CLUSTERSCAN fingerprint to use configurable_hash_seed (#3679)",

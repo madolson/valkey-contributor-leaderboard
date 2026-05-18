@@ -2,9 +2,9 @@
   "title": "eifrah-aws",
   "login": "eifrah-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/170855270?v=4",
-  "score": 208,
+  "score": 209,
   "commit_count": 89,
-  "review_count": 119,
+  "review_count": 120,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -729,6 +729,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ad3b33e3ba",
+      "message": "cmake: Fix missing release_header dependency for cli, benchmark, and gtest (#3683)",
+      "date": "2026-05-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3683",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ad3b33e3ba95bcfee71830fe8f4aefbb26eb1ec8"
+    },
     {
       "sha": "0c81b53d6a",
       "message": "Avoid having server.h being included by cli and benchmark (#3420)",

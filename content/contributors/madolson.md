@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 836,
+  "score": 837,
   "commit_count": 181,
-  "review_count": 655,
+  "review_count": 656,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1465,6 +1465,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5a604b3ef2",
+      "message": "Use full hash-seed bytes when deriving SipHash seed (#3654)",
+      "date": "2026-05-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3654",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5a604b3ef2a5f5e37b202ba6d2f9082df87af454"
+    },
     {
       "sha": "a813df0546",
       "message": "Improve CLUSTERSCAN error handling test with broader coverage (#3674)",

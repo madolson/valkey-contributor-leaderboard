@@ -37,7 +37,7 @@
       "name": "Viktor S\u00f6derqvist",
       "company": "Ericsson Software Technology",
       "commits": 151,
-      "reviews": 981,
+      "reviews": 982,
       "repos": [
         "libvalkey",
         "valkey",
@@ -52,7 +52,7 @@
         },
         "valkey": {
           "commits": 106,
-          "reviews": 800
+          "reviews": 801
         },
         "valkey-container": {
           "commits": 0,
@@ -91,7 +91,7 @@
           "reviews": 1
         }
       },
-      "score": 1132
+      "score": 1133
     },
     {
       "login": "madolson",
@@ -100,7 +100,7 @@
       "name": "Madelyn Olson",
       "company": "Amazon Web Services",
       "commits": 181,
-      "reviews": 655,
+      "reviews": 656,
       "repos": [
         "valkey",
         "valkey-admin",
@@ -117,7 +117,7 @@
         },
         "valkey": {
           "commits": 95,
-          "reviews": 469
+          "reviews": 470
         },
         "valkey-bloom": {
           "commits": 1,
@@ -156,7 +156,7 @@
           "reviews": 2
         }
       },
-      "score": 836
+      "score": 837
     },
     {
       "login": "enjoy-binbin",
@@ -164,8 +164,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
       "name": "Binbin",
       "company": "Tencent Cloud NoSQL",
-      "commits": 322,
-      "reviews": 512,
+      "commits": 323,
+      "reviews": 513,
       "repos": [
         "valkey",
         "valkey-bloom",
@@ -175,8 +175,8 @@
       ],
       "per_repo": {
         "valkey": {
-          "commits": 300,
-          "reviews": 480
+          "commits": 301,
+          "reviews": 481
         },
         "valkey-bloom": {
           "commits": 1,
@@ -199,7 +199,7 @@
           "reviews": 1
         }
       },
-      "score": 834
+      "score": 836
     },
     {
       "login": "yipin-chen",
@@ -384,7 +384,7 @@
       "name": "Sarthak Aggarwal",
       "company": "aws @valkey-io @opensearch-project",
       "commits": 84,
-      "reviews": 200,
+      "reviews": 201,
       "repos": [
         "valkey",
         "valkey-doc",
@@ -394,7 +394,7 @@
       "per_repo": {
         "valkey": {
           "commits": 61,
-          "reviews": 155
+          "reviews": 156
         },
         "valkey-container": {
           "commits": 0,
@@ -429,7 +429,7 @@
           "reviews": 4
         }
       },
-      "score": 284
+      "score": 285
     },
     {
       "login": "hpatro",
@@ -851,7 +851,7 @@
       "name": "",
       "company": "",
       "commits": 89,
-      "reviews": 119,
+      "reviews": 120,
       "repos": [
         "valkey",
         "valkey-doc",
@@ -864,7 +864,7 @@
       "per_repo": {
         "valkey": {
           "commits": 11,
-          "reviews": 1
+          "reviews": 2
         },
         "valkey-json": {
           "commits": 1,
@@ -891,7 +891,7 @@
           "reviews": 38
         }
       },
-      "score": 208
+      "score": 209
     },
     {
       "login": "jamesx-improving",
@@ -3996,6 +3996,25 @@
       "score": 8
     },
     {
+      "login": "poiuj",
+      "id": 1099644,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1099644?v=4",
+      "name": "Vadym Khoptynets",
+      "company": "AWS",
+      "commits": 8,
+      "reviews": 0,
+      "repos": [
+        "valkey"
+      ],
+      "per_repo": {
+        "valkey": {
+          "commits": 8,
+          "reviews": 0
+        }
+      },
+      "score": 8
+    },
+    {
       "login": "aradz44",
       "id": 112960166,
       "avatar_url": "https://avatars.githubusercontent.com/u/112960166?v=4",
@@ -4274,25 +4293,6 @@
         "valkey": {
           "commits": 6,
           "reviews": 1
-        }
-      },
-      "score": 7
-    },
-    {
-      "login": "poiuj",
-      "id": 1099644,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1099644?v=4",
-      "name": "Vadym Khoptynets",
-      "company": "AWS",
-      "commits": 7,
-      "reviews": 0,
-      "repos": [
-        "valkey"
-      ],
-      "per_repo": {
-        "valkey": {
-          "commits": 7,
-          "reviews": 0
         }
       },
       "score": 7

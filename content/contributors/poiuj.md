@@ -2,13 +2,21 @@
   "title": "poiuj",
   "login": "poiuj",
   "avatar_url": "https://avatars.githubusercontent.com/u/1099644?v=4",
-  "score": 7,
-  "commit_count": 7,
+  "score": 8,
+  "commit_count": 8,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "ad3b33e3ba",
+      "message": "cmake: Fix missing release_header dependency for cli, benchmark, and gtest (#3683)",
+      "date": "2026-05-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3683",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ad3b33e3ba95bcfee71830fe8f4aefbb26eb1ec8"
+    },
     {
       "sha": "44dc58181d",
       "message": "Fix a typo in aof-multi-part.tcl (#2922)",

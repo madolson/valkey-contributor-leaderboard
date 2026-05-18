@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1132,
+  "score": 1133,
   "commit_count": 151,
-  "review_count": 981,
+  "review_count": 982,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1223,6 +1223,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5a604b3ef2",
+      "message": "Use full hash-seed bytes when deriving SipHash seed (#3654)",
+      "date": "2026-05-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3654",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5a604b3ef2a5f5e37b202ba6d2f9082df87af454"
+    },
     {
       "sha": "390a11c895",
       "message": "Set repl-timeout for slotmigrations tests to prevent disconnections (#3703)",

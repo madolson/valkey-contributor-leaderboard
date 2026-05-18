@@ -147305,6 +147305,50 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1037"
+    },
+    {
+      "sha": "5a604b3ef2a5f5e37b202ba6d2f9082df87af454",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Use full hash-seed bytes when deriving SipHash seed (#3654)",
+      "date": "2026-05-18T05:10:57Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-05-12T12:50:03Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-05-13T14:05:00Z"
+        },
+        {
+          "login": "madolson",
+          "date": "2026-05-18T05:10:50Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3654"
+    },
+    {
+      "sha": "ad3b33e3ba95bcfee71830fe8f4aefbb26eb1ec8",
+      "author_login": "poiuj",
+      "author_id": 1099644,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1099644?v=4",
+      "message": "cmake: Fix missing release_header dependency for cli, benchmark, and gtest (#3683)",
+      "date": "2026-05-18T02:44:33Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "eifrah-aws",
+          "date": "2026-05-13T06:49:36Z"
+        },
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-05-13T07:36:03Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3683"
     }
   ]
 }

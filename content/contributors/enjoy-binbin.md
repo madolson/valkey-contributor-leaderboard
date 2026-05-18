@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 834,
-  "commit_count": 322,
-  "review_count": 512,
+  "score": 836,
+  "commit_count": 323,
+  "review_count": 513,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "5a604b3ef2",
+      "message": "Use full hash-seed bytes when deriving SipHash seed (#3654)",
+      "date": "2026-05-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3654",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5a604b3ef2a5f5e37b202ba6d2f9082df87af454"
+    },
     {
       "sha": "390a11c895",
       "message": "Set repl-timeout for slotmigrations tests to prevent disconnections (#3703)",
@@ -2591,6 +2599,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ad3b33e3ba",
+      "message": "cmake: Fix missing release_header dependency for cli, benchmark, and gtest (#3683)",
+      "date": "2026-05-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3683",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ad3b33e3ba95bcfee71830fe8f4aefbb26eb1ec8"
+    },
     {
       "sha": "dae77b606c",
       "message": "Update `cluster-spec.md` to mention enabling support for multi database cluster (#438)",
