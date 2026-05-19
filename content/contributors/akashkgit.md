@@ -2,13 +2,21 @@
   "title": "akashkgit",
   "login": "akashkgit",
   "avatar_url": "https://avatars.githubusercontent.com/u/45854686?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "f2fe917bb8",
+      "message": "Revert \"IO-Threads redesign cleanup work (#3544)\" (#3756)",
+      "date": "2026-05-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3756",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f2fe917bb8953dcd378f05d58c5e1e878c30a5b2"
+    },
     {
       "sha": "fdd9039307",
       "message": "IO-Threads redesign cleanup work (#3544)",

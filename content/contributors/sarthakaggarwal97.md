@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 285,
+  "score": 286,
   "commit_count": 84,
-  "review_count": 201,
+  "review_count": 202,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -693,6 +693,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3654",
       "commit_url": "https://github.com/valkey-io/valkey/commit/5a604b3ef2a5f5e37b202ba6d2f9082df87af454"
+    },
+    {
+      "sha": "54fbe4a19d",
+      "message": "Update the datasize to match the automated perfs (#3753)",
+      "date": "2026-05-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3753",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/54fbe4a19d88d1e52dbce32e2c8fea01b222c38f"
     },
     {
       "sha": "d4337d6662",

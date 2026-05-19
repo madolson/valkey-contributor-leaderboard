@@ -147349,6 +147349,153 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey/pull/3683"
+    },
+    {
+      "sha": "82740995e01887f3fc7ff8ea05714a27c28001d7",
+      "author_login": "ranshid",
+      "author_id": 88133677,
+      "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
+      "message": "Fix flaky block_keyspace_notification test for HGETDEL notify race (#3766)",
+      "date": "2026-05-19T04:53:47Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-05-19T04:52:26Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3766"
+    },
+    {
+      "sha": "54fbe4a19d88d1e52dbce32e2c8fea01b222c38f",
+      "author_login": "roshkhatri",
+      "author_id": 117414976,
+      "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
+      "message": "Update the datasize to match the automated perfs (#3753)",
+      "date": "2026-05-18T21:34:40Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-05-18T18:04:12Z"
+        },
+        {
+          "login": "madolson",
+          "date": "2026-05-18T21:34:34Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3753"
+    },
+    {
+      "sha": "f2fe917bb8953dcd378f05d58c5e1e878c30a5b2",
+      "author_login": "akashkgit",
+      "author_id": 45854686,
+      "avatar_url": "https://avatars.githubusercontent.com/u/45854686?v=4",
+      "message": "Revert \"IO-Threads redesign cleanup work (#3544)\" (#3756)",
+      "date": "2026-05-18T21:24:39Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-05-18T21:24:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3756"
+    },
+    {
+      "sha": "29468070036a0449b713842b6930609962439b2c",
+      "author_login": "1fanwang",
+      "author_id": 21269208,
+      "avatar_url": "https://avatars.githubusercontent.com/u/21269208?v=4",
+      "message": "Restore ERR prefix and error-code preservation in Lua scripting (#3678)",
+      "date": "2026-05-18T18:30:21Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "ranshid",
+          "date": "2026-05-18T18:30:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3678"
+    },
+    {
+      "sha": "bfeb3685e95bf7b305038bda6b3d0f58a7a2984d",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Fix buffered_reply assert in HFE commands with module keyspace notifications (#3743)",
+      "date": "2026-05-18T17:54:16Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "ranshid",
+          "date": "2026-05-18T13:00:56Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3743"
+    },
+    {
+      "sha": "69bd02b2e490b69c7edea63c75627950962b4e3e",
+      "author_login": "yanamolo",
+      "author_id": 59420437,
+      "avatar_url": "https://avatars.githubusercontent.com/u/59420437?v=4",
+      "message": "Extend CAPA REDIRECT to cover keyless commands on cluster replicas (#3505)",
+      "date": "2026-05-18T08:46:40Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "ranshid",
+          "date": "2026-05-18T06:17:03Z"
+        },
+        {
+          "login": "ranshid",
+          "date": "2026-05-18T07:21:45Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3505"
+    },
+    {
+      "sha": "ac81b54f58ef62b7a6d4f720f1ed3f3d4004d677",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Backport sweep: list cumulative state, open PRs ready (#6)",
+      "date": "2026-05-18T19:01:27Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "193e5e86e83097c0211ba7c926921a85298ee0b6",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "[feat] Add minimal pod disruption budget (#182)",
+      "date": "2026-05-18T17:37:05Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-05-15T13:58:18Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/182"
+    },
+    {
+      "sha": "0886dc49469817ed0619c2f68edb4035780ff682",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "[fix] Switch to test-e2e context if it exists already (#181)",
+      "date": "2026-05-18T17:36:40Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-05-15T14:00:55Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/181"
     }
   ]
 }

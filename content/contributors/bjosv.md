@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 180,
+  "score": 182,
   "commit_count": 101,
-  "review_count": 79,
+  "review_count": 81,
   "repos": [
     "libvalkey",
     "valkey",
@@ -823,6 +823,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "193e5e86e8",
+      "message": "[feat] Add minimal pod disruption budget (#182)",
+      "date": "2026-05-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/182",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/193e5e86e83097c0211ba7c926921a85298ee0b6"
+    },
+    {
+      "sha": "0886dc4946",
+      "message": "[fix] Switch to test-e2e context if it exists already (#181)",
+      "date": "2026-05-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/181",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0886dc49469817ed0619c2f68edb4035780ff682"
+    },
     {
       "sha": "363d2dace0",
       "message": "add resetpass to UserAclSpec (#166)",

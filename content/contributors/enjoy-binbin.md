@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 836,
-  "commit_count": 323,
-  "review_count": 513,
+  "score": 838,
+  "commit_count": 324,
+  "review_count": 514,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -20,6 +20,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3654",
       "commit_url": "https://github.com/valkey-io/valkey/commit/5a604b3ef2a5f5e37b202ba6d2f9082df87af454"
+    },
+    {
+      "sha": "bfeb3685e9",
+      "message": "Fix buffered_reply assert in HFE commands with module keyspace notifications (#3743)",
+      "date": "2026-05-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3743",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bfeb3685e95bf7b305038bda6b3d0f58a7a2984d"
     },
     {
       "sha": "390a11c895",
@@ -2599,6 +2607,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "82740995e0",
+      "message": "Fix flaky block_keyspace_notification test for HGETDEL notify race (#3766)",
+      "date": "2026-05-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3766",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/82740995e01887f3fc7ff8ea05714a27c28001d7"
+    },
     {
       "sha": "ad3b33e3ba",
       "message": "cmake: Fix missing release_header dependency for cli, benchmark, and gtest (#3683)",

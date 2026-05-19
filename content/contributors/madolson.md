@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 837,
+  "score": 839,
   "commit_count": 181,
-  "review_count": 656,
+  "review_count": 658,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1472,6 +1472,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3654",
       "commit_url": "https://github.com/valkey-io/valkey/commit/5a604b3ef2a5f5e37b202ba6d2f9082df87af454"
+    },
+    {
+      "sha": "54fbe4a19d",
+      "message": "Update the datasize to match the automated perfs (#3753)",
+      "date": "2026-05-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3753",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/54fbe4a19d88d1e52dbce32e2c8fea01b222c38f"
+    },
+    {
+      "sha": "f2fe917bb8",
+      "message": "Revert \"IO-Threads redesign cleanup work (#3544)\" (#3756)",
+      "date": "2026-05-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3756",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f2fe917bb8953dcd378f05d58c5e1e878c30a5b2"
     },
     {
       "sha": "a813df0546",

@@ -2,8 +2,8 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 340,
-  "commit_count": 132,
+  "score": 341,
+  "commit_count": 133,
   "review_count": 208,
   "repos": [
     "valkey",
@@ -19,6 +19,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "54fbe4a19d",
+      "message": "Update the datasize to match the automated perfs (#3753)",
+      "date": "2026-05-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3753",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/54fbe4a19d88d1e52dbce32e2c8fea01b222c38f"
+    },
     {
       "sha": "ab5475f2be",
       "message": "Automated Updates for Valkey Bundle (#112)",

@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 273,
-  "commit_count": 88,
-  "review_count": 185,
+  "score": 278,
+  "commit_count": 89,
+  "review_count": 189,
   "repos": [
     "valkey",
     "valkey-container",
@@ -15,6 +15,14 @@
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "82740995e0",
+      "message": "Fix flaky block_keyspace_notification test for HGETDEL notify race (#3766)",
+      "date": "2026-05-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3766",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/82740995e01887f3fc7ff8ea05714a27c28001d7"
+    },
     {
       "sha": "7803996f54",
       "message": "Fix TCP deadlock in MultiplexedConnection with large payloads (#5892)",
@@ -721,6 +729,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2946807003",
+      "message": "Restore ERR prefix and error-code preservation in Lua scripting (#3678)",
+      "date": "2026-05-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3678",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/29468070036a0449b713842b6930609962439b2c"
+    },
+    {
+      "sha": "bfeb3685e9",
+      "message": "Fix buffered_reply assert in HFE commands with module keyspace notifications (#3743)",
+      "date": "2026-05-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3743",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bfeb3685e95bf7b305038bda6b3d0f58a7a2984d"
+    },
+    {
+      "sha": "69bd02b2e4",
+      "message": "Extend CAPA REDIRECT to cover keyless commands on cluster replicas (#3505)",
+      "date": "2026-05-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3505",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/69bd02b2e490b69c7edea63c75627950962b4e3e"
+    },
+    {
+      "sha": "69bd02b2e4",
+      "message": "Extend CAPA REDIRECT to cover keyless commands on cluster replicas (#3505)",
+      "date": "2026-05-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3505",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/69bd02b2e490b69c7edea63c75627950962b4e3e"
+    },
     {
       "sha": "0321a69e62",
       "message": "Fix deferred freeClient clobbering replication state after replicaof (#3719)",

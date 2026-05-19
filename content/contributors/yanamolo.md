@@ -2,14 +2,22 @@
   "title": "yanamolo",
   "login": "yanamolo",
   "avatar_url": "https://avatars.githubusercontent.com/u/59420437?v=4",
-  "score": 14,
-  "commit_count": 14,
+  "score": 15,
+  "commit_count": 15,
   "review_count": 0,
   "repos": [
     "valkey",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "69bd02b2e4",
+      "message": "Extend CAPA REDIRECT to cover keyless commands on cluster replicas (#3505)",
+      "date": "2026-05-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3505",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/69bd02b2e490b69c7edea63c75627950962b4e3e"
+    },
     {
       "sha": "994d87a0f2",
       "message": "Deflake test 'LATENCY GRAPH can output the event graph' (#3260)",

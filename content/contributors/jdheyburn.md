@@ -2,14 +2,30 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 52,
-  "commit_count": 15,
+  "score": 54,
+  "commit_count": 17,
   "review_count": 37,
   "repos": [
     "valkey",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "193e5e86e8",
+      "message": "[feat] Add minimal pod disruption budget (#182)",
+      "date": "2026-05-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/182",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/193e5e86e83097c0211ba7c926921a85298ee0b6"
+    },
+    {
+      "sha": "0886dc4946",
+      "message": "[fix] Switch to test-e2e context if it exists already (#181)",
+      "date": "2026-05-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/181",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0886dc49469817ed0619c2f68edb4035780ff682"
+    },
     {
       "sha": "3c08e8d7b9",
       "message": "docs: Remove image.tag=main override in quickstart (#183)",
