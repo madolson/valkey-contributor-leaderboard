@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 838,
+  "score": 839,
   "commit_count": 324,
-  "review_count": 514,
+  "review_count": 515,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2614,6 +2614,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3766",
       "commit_url": "https://github.com/valkey-io/valkey/commit/82740995e01887f3fc7ff8ea05714a27c28001d7"
+    },
+    {
+      "sha": "f3ea299c6b",
+      "message": "Add Valkey 9.1 release announcement blog post (#553)",
+      "date": "2026-05-19",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/553",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f3ea299c6b0b08fe0a72bf8e193e3c601edf6a65"
     },
     {
       "sha": "ad3b33e3ba",

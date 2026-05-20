@@ -2,19 +2,44 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 839,
-  "commit_count": 181,
-  "review_count": 658,
+  "score": 843,
+  "commit_count": 184,
+  "review_count": 659,
   "repos": [
     "valkey",
     "valkey-admin",
     "valkey-bloom",
+    "valkey-ci-agent",
     "valkey-container",
     "valkey-doc",
     "valkey-hashes",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "2393606c40",
+      "message": "Make PR references clickable hyperlinks in backport PR bodies (#7)",
+      "date": "2026-05-19",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/7",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/2393606c4048b05ad8e533356dbde792aabbef47"
+    },
+    {
+      "sha": "0b13d7b8a2",
+      "message": "Update to version 9.1.0 (#144)",
+      "date": "2026-05-19",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/144",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/0b13d7b8a234042024becc42064620bd7cf48bb1"
+    },
+    {
+      "sha": "62f9b303ff",
+      "message": "Update website for version 9.1.0 (#555)",
+      "date": "2026-05-19",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/555",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/62f9b303ffb72b1e465942002bbc51e2cc1c7ffa"
+    },
     {
       "sha": "11cbe2c167",
       "message": "Use Valkeyrie Bot for assign-blog-reviewers workflow (#551)",
@@ -1465,6 +1490,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f3ea299c6b",
+      "message": "Add Valkey 9.1 release announcement blog post (#553)",
+      "date": "2026-05-19",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/553",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f3ea299c6b0b08fe0a72bf8e193e3c601edf6a65"
+    },
     {
       "sha": "5a604b3ef2",
       "message": "Use full hash-seed bytes when deriving SipHash seed (#3654)",

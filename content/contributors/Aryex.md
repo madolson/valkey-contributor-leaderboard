@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 98,
-  "commit_count": 37,
+  "score": 99,
+  "commit_count": 38,
   "review_count": 61,
   "repos": [
     "valkey-doc",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "a349ed6a9f",
+      "message": "Add Compression Documentations (#215)",
+      "date": "2026-05-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/215",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/a349ed6a9f56a7666d7dc6f0498b41cb4d8f8c0b"
+    },
     {
       "sha": "74a6c9a37a",
       "message": "Update README with up-to-date information (#5941)",

@@ -2,8 +2,8 @@
   "title": "rlunar",
   "login": "rlunar",
   "avatar_url": "https://avatars.githubusercontent.com/u/2453805?v=4",
-  "score": 11,
-  "commit_count": 8,
+  "score": 13,
+  "commit_count": 10,
   "review_count": 3,
   "repos": [
     "valkey-bundle",
@@ -11,6 +11,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "cf1f462a22",
+      "message": "Update site banner to Valkey 9.1 and fix featured image path casing (#556)",
+      "date": "2026-05-19",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/556",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/cf1f462a22cdce21c3ad93573b29e20808a07b72"
+    },
+    {
+      "sha": "f3ea299c6b",
+      "message": "Add Valkey 9.1 release announcement blog post (#553)",
+      "date": "2026-05-19",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/553",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f3ea299c6b0b08fe0a72bf8e193e3c601edf6a65"
+    },
     {
       "sha": "e15f8629e5",
       "message": "Add blog post: Valkey at Laracon India 2026 (#513)",

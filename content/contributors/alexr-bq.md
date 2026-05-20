@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 152,
+  "score": 154,
   "commit_count": 38,
-  "review_count": 114,
+  "review_count": 116,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -317,6 +317,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3e1c974018",
+      "message": "Bump the patch-updates group with 1 update (#407)",
+      "date": "2026-05-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/407",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3e1c9740186d94124394cdb8ff3f75485efc46c5"
+    },
+    {
+      "sha": "3b2dd7c89a",
+      "message": "chore(deps): bump the minor-updates group with 2 updates (#408)",
+      "date": "2026-05-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/408",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3b2dd7c89abda6b4cf67027852dcf30d99e94829"
+    },
+    {
+      "sha": "9bc4dc5124",
+      "message": "chore(deps): bump github/codeql-action from 4.35.4 to 4.35.5 in the patch-updates group (#406)",
+      "date": "2026-05-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/406",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/9bc4dc512471fc3ad86e80e68a0a668059e59580"
+    },
+    {
+      "sha": "f1ff2df919",
+      "message": "chore: Upgrade build SDK to .NET 10 (#409)",
+      "date": "2026-05-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/409",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/f1ff2df9197c86732d806d1c32168f140fba8a03"
+    },
+    {
+      "sha": "a349ed6a9f",
+      "message": "Add Compression Documentations (#215)",
+      "date": "2026-05-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/215",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/a349ed6a9f56a7666d7dc6f0498b41cb4d8f8c0b"
+    },
     {
       "sha": "ae1212b297",
       "message": "Updated attribution files for commit 9d5cded7ea88a6b883c0335dc260613412eebf48 (#404)",

@@ -2,8 +2,8 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 277,
-  "commit_count": 59,
+  "score": 278,
+  "commit_count": 60,
   "review_count": 218,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "4b25a70646",
+      "message": "Update affiliation for hpatro (#3782)",
+      "date": "2026-05-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3782",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4b25a7064677ecb3d594a5033971058ef01334f9"
+    },
     {
       "sha": "b2e0f6322d",
       "message": "Add cluster bus network traffic usage metric in bytes (#3396)",

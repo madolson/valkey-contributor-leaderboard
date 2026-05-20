@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 286,
+  "score": 288,
   "commit_count": 84,
-  "review_count": 202,
+  "review_count": 204,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -686,6 +686,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4b25a70646",
+      "message": "Update affiliation for hpatro (#3782)",
+      "date": "2026-05-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3782",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4b25a7064677ecb3d594a5033971058ef01334f9"
+    },
+    {
+      "sha": "2393606c40",
+      "message": "Make PR references clickable hyperlinks in backport PR bodies (#7)",
+      "date": "2026-05-19",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/7",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/2393606c4048b05ad8e533356dbde792aabbef47"
+    },
     {
       "sha": "5a604b3ef2",
       "message": "Use full hash-seed bytes when deriving SipHash seed (#3654)",

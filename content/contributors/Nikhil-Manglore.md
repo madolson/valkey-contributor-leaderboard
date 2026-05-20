@@ -2,9 +2,9 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 237,
+  "score": 238,
   "commit_count": 90,
-  "review_count": 147,
+  "review_count": 148,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -743,6 +743,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "67f4e198ea",
+      "message": "Remove update-try-valkey from website update (#54)",
+      "date": "2026-05-19",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/54",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/67f4e198ea9454558458e5b595dbae6e23f32aa0"
+    },
     {
       "sha": "ab5475f2be",
       "message": "Automated Updates for Valkey Bundle (#112)",

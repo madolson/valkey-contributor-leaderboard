@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 235,
+  "score": 236,
   "commit_count": 49,
-  "review_count": 186,
+  "review_count": 187,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -404,6 +404,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c83a49c97e",
+      "message": "build(deps-dev): bump uuid from 13.0.0 to 14.0.0 in /node (#5773)",
+      "date": "2026-05-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5773",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c83a49c97e27b5a582f70ceebf2b37205cdb0dc8"
+    },
+    {
+      "sha": "1794366575",
+      "message": "build(deps-dev): update types-protobuf requirement from ~=6.30.2 to ~=6.32.1 in /python (#5776)",
+      "date": "2026-05-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5776",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1794366575364260032053849282e97d8c4a6bad"
+    },
+    {
+      "sha": "20c188d69b",
+      "message": "chore(deps-dev): update wheel requirement from >=0.45 to >=0.47.0 in /python (#5834)",
+      "date": "2026-05-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5834",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/20c188d69ba8eb222df7a6e521b5e5f4909e97f2"
+    },
+    {
+      "sha": "6efff3f82f",
+      "message": "chore(deps-dev): bump maturin from 1.13.1 to 1.13.3 in /python in the patch-updates group across 1 directory (#5910)",
+      "date": "2026-05-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5910",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6efff3f82f0252491e18a199ad1e1c5e13e41ced"
+    },
+    {
+      "sha": "f1ff2df919",
+      "message": "chore: Upgrade build SDK to .NET 10 (#409)",
+      "date": "2026-05-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/409",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/f1ff2df9197c86732d806d1c32168f140fba8a03"
+    },
     {
       "sha": "b33c24281e",
       "message": "Core: Propagate per-command response timeout to multiplexed connection (#5916)",

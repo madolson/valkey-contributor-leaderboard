@@ -2,9 +2,9 @@
   "title": "pnbrown",
   "login": "pnbrown",
   "avatar_url": "https://avatars.githubusercontent.com/u/10396286?v=4",
-  "score": 8,
+  "score": 9,
   "commit_count": 7,
-  "review_count": 1,
+  "review_count": 2,
   "repos": [
     "valkey-io.github.io"
   ],
@@ -67,6 +67,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cf1f462a22",
+      "message": "Update site banner to Valkey 9.1 and fix featured image path casing (#556)",
+      "date": "2026-05-19",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/556",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/cf1f462a22cdce21c3ad93573b29e20808a07b72"
+    },
     {
       "sha": "45d6c9638a",
       "message": "Adding an ACL section for each command on their command page",

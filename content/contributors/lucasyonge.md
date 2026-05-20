@@ -2,9 +2,9 @@
   "title": "lucasyonge",
   "login": "lucasyonge",
   "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
-  "score": 9,
+  "score": 12,
   "commit_count": 4,
-  "review_count": 5,
+  "review_count": 8,
   "repos": [
     "valkey",
     "valkey-io.github.io"
@@ -44,6 +44,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4b25a70646",
+      "message": "Update affiliation for hpatro (#3782)",
+      "date": "2026-05-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3782",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4b25a7064677ecb3d594a5033971058ef01334f9"
+    },
+    {
+      "sha": "0b13d7b8a2",
+      "message": "Update to version 9.1.0 (#144)",
+      "date": "2026-05-19",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/144",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/0b13d7b8a234042024becc42064620bd7cf48bb1"
+    },
+    {
+      "sha": "62f9b303ff",
+      "message": "Update website for version 9.1.0 (#555)",
+      "date": "2026-05-19",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/555",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/62f9b303ffb72b1e465942002bbc51e2cc1c7ffa"
+    },
     {
       "sha": "72fc5b14b1",
       "message": "Fix compilation error: replace deprecated je_calloc with zcalloc_num (#3592)",
