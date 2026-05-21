@@ -2,8 +2,8 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 163,
-  "commit_count": 128,
+  "score": 165,
+  "commit_count": 130,
   "review_count": 35,
   "repos": [
     "valkey",
@@ -12,6 +12,22 @@
     "valkey-swift"
   ],
   "commit_list": [
+    {
+      "sha": "058fde34ae",
+      "message": "Add internal sentinel client (#373)",
+      "date": "2026-05-20",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/373",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/058fde34ae26049bf307cfa74e1ce00853aa0fef"
+    },
+    {
+      "sha": "e93f72554e",
+      "message": "Valkey 9.1 command changes (#388)",
+      "date": "2026-05-20",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/388",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/e93f72554e0961e056243dae0b204d5c7d843f49"
+    },
     {
       "sha": "2be2b83266",
       "message": "Valkey-swift 1.0 announcement (#500)",

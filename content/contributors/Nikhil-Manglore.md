@@ -2,9 +2,9 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 238,
+  "score": 239,
   "commit_count": 90,
-  "review_count": 148,
+  "review_count": 149,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -743,6 +743,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "00c4d3a9ae",
+      "message": "Record valkey commit SHA in fuzzer artifacts manifest (#103)",
+      "date": "2026-05-20",
+      "repo": "valkey-fuzzer",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/103",
+      "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/00c4d3a9aef8c481922f09831c9d8107052651c1"
+    },
     {
       "sha": "67f4e198ea",
       "message": "Remove update-try-valkey from website update (#54)",

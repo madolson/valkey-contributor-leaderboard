@@ -533,6 +533,14 @@
   ],
   "review_list": [
     {
+      "sha": "8601df1fc6",
+      "message": "Updated attribution files for commit c83a49c97e27b5a582f70ceebf2b37205cdb0dc8 (#5930)",
+      "date": "2026-05-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5930",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8601df1fc6cd8b0d0ac09ccaa11a8e6ab2d490bd"
+    },
+    {
       "sha": "75c9c14ad1",
       "message": "Updated attribution files for commit 863a8ef9bf03f9e74dc4ff55a5d94b9e9c2f2ce7 (#5792)",
       "date": "2026-04-29",

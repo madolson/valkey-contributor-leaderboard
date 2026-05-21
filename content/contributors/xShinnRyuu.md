@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 236,
+  "score": 238,
   "commit_count": 49,
-  "review_count": 187,
+  "review_count": 189,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -404,6 +404,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cfd91a5254",
+      "message": "Core: Add dedicated timeout watchdog thread independent of Tokio runtime (#5917)",
+      "date": "2026-05-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5917",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cfd91a5254d35e773fed2c731b6c6699506f5948"
+    },
+    {
+      "sha": "8601df1fc6",
+      "message": "Updated attribution files for commit c83a49c97e27b5a582f70ceebf2b37205cdb0dc8 (#5930)",
+      "date": "2026-05-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5930",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8601df1fc6cd8b0d0ac09ccaa11a8e6ab2d490bd"
+    },
+    {
+      "sha": "de63653007",
+      "message": "Cherry pick #5952 to main: Java: Add a synchronous check on inflight request limits before submitting tasks (#5976)",
+      "date": "2026-05-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5976",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/de636530078bf1c7822748a2dc9786f94d545346"
+    },
     {
       "sha": "c83a49c97e",
       "message": "build(deps-dev): bump uuid from 13.0.0 to 14.0.0 in /node (#5773)",

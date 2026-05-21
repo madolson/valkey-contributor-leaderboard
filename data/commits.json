@@ -147856,6 +147856,177 @@
       "repo": "valkey-search",
       "reviewed": false,
       "pr_url": ""
+    },
+    {
+      "sha": "00c4d3a9aef8c481922f09831c9d8107052651c1",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Record valkey commit SHA in fuzzer artifacts manifest (#103)",
+      "date": "2026-05-20T18:32:01Z",
+      "repo": "valkey-fuzzer",
+      "reviewed": [
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-05-20T18:23:09Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/103"
+    },
+    {
+      "sha": "cfd91a5254d35e773fed2c731b6c6699506f5948",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "Core: Add dedicated timeout watchdog thread independent of Tokio runtime (#5917)",
+      "date": "2026-05-20T22:44:25Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-05-19T21:53:53Z"
+        },
+        {
+          "login": "jduo",
+          "date": "2026-05-20T18:07:56Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5917"
+    },
+    {
+      "sha": "8601df1fc6cd8b0d0ac09ccaa11a8e6ab2d490bd",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Updated attribution files for commit c83a49c97e27b5a582f70ceebf2b37205cdb0dc8 (#5930)",
+      "date": "2026-05-20T22:42:46Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-05-12T17:32:10Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-05-20T22:21:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5930"
+    },
+    {
+      "sha": "de636530078bf1c7822748a2dc9786f94d545346",
+      "author_login": "jduo",
+      "author_id": 1657237,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
+      "message": "Cherry pick #5952 to main: Java: Add a synchronous check on inflight request limits before submitting tasks (#5976)",
+      "date": "2026-05-20T21:15:21Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-05-19T23:15:07Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-05-19T23:57:06Z"
+        },
+        {
+          "login": "jeremyprime",
+          "date": "2026-05-20T16:48:51Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5976"
+    },
+    {
+      "sha": "420bb11d488ece2c7ed56922bfdb95ba738c37d9",
+      "author_login": "alexey-temnikov",
+      "author_id": 7035336,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
+      "message": "ci: harden network calls against transient registry flakes (#217)",
+      "date": "2026-05-20T17:08:02Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-05-20T17:07:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/217"
+    },
+    {
+      "sha": "c3ea5f5c51a9df1399d5228c83b8f52ff5314481",
+      "author_login": "pratheep-kumar",
+      "author_id": 40911083,
+      "avatar_url": "https://avatars.githubusercontent.com/u/40911083?v=4",
+      "message": "Setting blocking paramter while creating connection (#93)",
+      "date": "2026-05-20T12:49:30Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "Sasidharan3094",
+          "date": "2026-05-20T12:41:51Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/93"
+    },
+    {
+      "sha": "acd8b0f9bcb7165e960a30446bd42b1eb1905597",
+      "author_login": "Sasidharan3094",
+      "author_id": 56465593,
+      "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
+      "message": "Fixing ruby standalone tests and hash command reorder (#91)",
+      "date": "2026-05-20T09:18:18Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "pratheep-kumar",
+          "date": "2026-05-20T08:53:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/91"
+    },
+    {
+      "sha": "a83f17a372a8e656e55c5f9794039f6649382246",
+      "author_login": "rueian",
+      "author_id": 2727535,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
+      "message": "feat: impl WithOnReceiveReturnHook (#139)",
+      "date": "2026-05-20T23:21:46Z",
+      "repo": "valkey-go",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "058fde34ae26049bf307cfa74e1ce00853aa0fef",
+      "author_login": "adam-fowler",
+      "author_id": 9382567,
+      "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
+      "message": "Add internal sentinel client (#373)",
+      "date": "2026-05-20T16:36:31Z",
+      "repo": "valkey-swift",
+      "reviewed": [
+        {
+          "login": "nilanshu-sharma",
+          "date": "2026-05-20T16:23:57Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/373"
+    },
+    {
+      "sha": "e93f72554e0961e056243dae0b204d5c7d843f49",
+      "author_login": "adam-fowler",
+      "author_id": 9382567,
+      "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
+      "message": "Valkey 9.1 command changes (#388)",
+      "date": "2026-05-20T15:07:57Z",
+      "repo": "valkey-swift",
+      "reviewed": [
+        {
+          "login": "nilanshu-sharma",
+          "date": "2026-05-15T21:25:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/388"
     }
   ]
 }

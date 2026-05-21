@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 224,
-  "commit_count": 50,
-  "review_count": 174,
+  "score": 226,
+  "commit_count": 51,
+  "review_count": 175,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "de63653007",
+      "message": "Cherry pick #5952 to main: Java: Add a synchronous check on inflight request limits before submitting tasks (#5976)",
+      "date": "2026-05-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5976",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/de636530078bf1c7822748a2dc9786f94d545346"
+    },
     {
       "sha": "cbcfafd5c3",
       "message": "docs(concepts): Add Memory Model page (#212)",
@@ -414,6 +422,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cfd91a5254",
+      "message": "Core: Add dedicated timeout watchdog thread independent of Tokio runtime (#5917)",
+      "date": "2026-05-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5917",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cfd91a5254d35e773fed2c731b6c6699506f5948"
+    },
     {
       "sha": "b33c24281e",
       "message": "Core: Propagate per-command response timeout to multiplexed connection (#5916)",

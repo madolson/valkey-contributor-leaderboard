@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 99,
+  "score": 100,
   "commit_count": 38,
-  "review_count": 61,
+  "review_count": 62,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -320,6 +320,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "420bb11d48",
+      "message": "ci: harden network calls against transient registry flakes (#217)",
+      "date": "2026-05-20",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/217",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/420bb11d488ece2c7ed56922bfdb95ba738c37d9"
+    },
     {
       "sha": "3a8ca540d1",
       "message": "Improve lint job performance (#394)",

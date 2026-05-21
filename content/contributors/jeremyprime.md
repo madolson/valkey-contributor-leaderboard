@@ -2,15 +2,23 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 122,
-  "commit_count": 30,
-  "review_count": 92,
+  "score": 124,
+  "commit_count": 31,
+  "review_count": 93,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "cfd91a5254",
+      "message": "Core: Add dedicated timeout watchdog thread independent of Tokio runtime (#5917)",
+      "date": "2026-05-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5917",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cfd91a5254d35e773fed2c731b6c6699506f5948"
+    },
     {
       "sha": "b33c24281e",
       "message": "Core: Propagate per-command response timeout to multiplexed connection (#5916)",
@@ -253,6 +261,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "de63653007",
+      "message": "Cherry pick #5952 to main: Java: Add a synchronous check on inflight request limits before submitting tasks (#5976)",
+      "date": "2026-05-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5976",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/de636530078bf1c7822748a2dc9786f94d545346"
+    },
     {
       "sha": "6b57f41ffc",
       "message": "Updated attribution files for commit af028806fe9fcf910aa9b5f1128a80461c7448ed (#5879)",

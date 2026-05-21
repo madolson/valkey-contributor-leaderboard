@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 711,
+  "score": 712,
   "commit_count": 45,
-  "review_count": 666,
+  "review_count": 667,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "de63653007",
+      "message": "Cherry pick #5952 to main: Java: Add a synchronous check on inflight request limits before submitting tasks (#5976)",
+      "date": "2026-05-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5976",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/de636530078bf1c7822748a2dc9786f94d545346"
+    },
     {
       "sha": "d44d901530",
       "message": "fix: java workflow correctly skips container tests on windows only and moved start time (#5882)",

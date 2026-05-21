@@ -2,9 +2,9 @@
   "title": "nilanshu-sharma",
   "login": "nilanshu-sharma",
   "avatar_url": "https://avatars.githubusercontent.com/u/220134298?v=4",
-  "score": 115,
+  "score": 117,
   "commit_count": 14,
-  "review_count": 101,
+  "review_count": 103,
   "repos": [
     "valkey-swift"
   ],
@@ -123,6 +123,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "058fde34ae",
+      "message": "Add internal sentinel client (#373)",
+      "date": "2026-05-20",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/373",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/058fde34ae26049bf307cfa74e1ce00853aa0fef"
+    },
+    {
+      "sha": "e93f72554e",
+      "message": "Valkey 9.1 command changes (#388)",
+      "date": "2026-05-20",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/388",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/e93f72554e0961e056243dae0b204d5c7d843f49"
+    },
     {
       "sha": "c4fec4d006",
       "message": "Update docs with code snippets (#385)",

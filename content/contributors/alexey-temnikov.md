@@ -2,8 +2,8 @@
   "title": "alexey-temnikov",
   "login": "alexey-temnikov",
   "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
-  "score": 18,
-  "commit_count": 9,
+  "score": 19,
+  "commit_count": 10,
   "review_count": 9,
   "repos": [
     "valkey-admin",
@@ -12,6 +12,14 @@
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "420bb11d48",
+      "message": "ci: harden network calls against transient registry flakes (#217)",
+      "date": "2026-05-20",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/217",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/420bb11d488ece2c7ed56922bfdb95ba738c37d9"
+    },
     {
       "sha": "7fc871e4c7",
       "message": "docs(lettuce): Fix stale 'lazyConnect not supported' entry (#205)",

@@ -2,8 +2,8 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 288,
-  "commit_count": 84,
+  "score": 289,
+  "commit_count": 85,
   "review_count": 204,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "00c4d3a9ae",
+      "message": "Record valkey commit SHA in fuzzer artifacts manifest (#103)",
+      "date": "2026-05-20",
+      "repo": "valkey-fuzzer",
+      "pr_url": "https://github.com/valkey-io/valkey-fuzzer/pull/103",
+      "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/00c4d3a9aef8c481922f09831c9d8107052651c1"
+    },
     {
       "sha": "fc849f087d",
       "message": "Fix weekly workflow startup_failure caused by permissions mismatch (#3684)",

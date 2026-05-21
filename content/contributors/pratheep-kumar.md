@@ -2,14 +2,22 @@
   "title": "pratheep-kumar",
   "login": "pratheep-kumar",
   "avatar_url": "https://avatars.githubusercontent.com/u/40911083?v=4",
-  "score": 31,
-  "commit_count": 16,
-  "review_count": 15,
+  "score": 33,
+  "commit_count": 17,
+  "review_count": 16,
   "repos": [
     "valkey-glide",
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "c3ea5f5c51",
+      "message": "Setting blocking paramter while creating connection (#93)",
+      "date": "2026-05-20",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/93",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/c3ea5f5c51a9df1399d5228c83b8f52ff5314481"
+    },
     {
       "sha": "bab3cb3884",
       "message": "Removing protobuf layer in connection creation (#87)",
@@ -140,6 +148,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "acd8b0f9bc",
+      "message": "Fixing ruby standalone tests and hash command reorder (#91)",
+      "date": "2026-05-20",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/91",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/acd8b0f9bcb7165e960a30446bd42b1eb1905597"
+    },
     {
       "sha": "0729035605",
       "message": "Adding support for GETSET command (#90)",
