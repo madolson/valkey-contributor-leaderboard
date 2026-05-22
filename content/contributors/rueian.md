@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 36,
+  "score": 37,
   "commit_count": 8,
-  "review_count": 28,
+  "review_count": 29,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -77,6 +77,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "873127484c",
+      "message": "valkeycompat: fall back to `redis` struct tag for go-redis compatibility (#138)",
+      "date": "2026-05-21",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/138",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/873127484c04836551183b675ac6e4ac967f97d7"
+    },
     {
       "sha": "01972143af",
       "message": "docs: update SendToReplicas examples in readme (#135)",

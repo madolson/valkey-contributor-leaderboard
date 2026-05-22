@@ -148027,6 +148027,344 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-swift/pull/388"
+    },
+    {
+      "sha": "8d3e6c306bf15de84496e173399424b411672783",
+      "author_login": "chenshi5012",
+      "author_id": 10794822,
+      "avatar_url": "https://avatars.githubusercontent.com/u/10794822?v=4",
+      "message": "Fix \"time_t' different  typedef  on 32-bit /64-bit systems (#3787)",
+      "date": "2026-05-22T03:32:41Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-05-20T07:55:35Z"
+        },
+        {
+          "login": "roshkhatri",
+          "date": "2026-05-21T16:56:16Z"
+        },
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-05-22T03:31:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3787"
+    },
+    {
+      "sha": "fa57b3c5ebb81579edbc19378a2c628d79e3e308",
+      "author_login": "zhijun42",
+      "author_id": 158313558,
+      "avatar_url": "https://avatars.githubusercontent.com/u/158313558?v=4",
+      "message": "Sentinel: Refactor test design to allow two clusters setup to help avoid data leakage during failover (#2717)",
+      "date": "2026-05-21T20:01:42Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "hwware",
+          "date": "2025-11-13T19:43:14Z"
+        },
+        {
+          "login": "lucasyonge",
+          "date": "2026-05-21T18:39:40Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2717"
+    },
+    {
+      "sha": "d778b377150c6323fd52dab3da5562cf9b77cfa2",
+      "author_login": "chx9",
+      "author_id": 97815621,
+      "avatar_url": "https://avatars.githubusercontent.com/u/97815621?v=4",
+      "message": "Fix double-finish and RESP reply violation in cluster slot migration (#3723)",
+      "date": "2026-05-21T11:18:20Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-05-15T11:23:38Z"
+        },
+        {
+          "login": "murphyjacob4",
+          "date": "2026-05-15T13:02:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3723"
+    },
+    {
+      "sha": "aa7488f4b191a727e4c3e3f0456f6a1f0ee08527",
+      "author_login": "ranshid",
+      "author_id": 88133677,
+      "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
+      "message": "Fix heap-use-after-free in ACL LOAD when client free is deferred (#3800)",
+      "date": "2026-05-21T09:39:37Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-05-21T04:52:31Z"
+        },
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-05-21T04:55:37Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3800"
+    },
+    {
+      "sha": "712a1d7eeaceba3a9f954c9eb5b222b74a4fdcd7",
+      "author_login": "cjx-zar",
+      "author_id": 56825069,
+      "avatar_url": "https://avatars.githubusercontent.com/u/56825069?v=4",
+      "message": "remove 'validate_scale_to' check in replica (#94)",
+      "date": "2026-05-21T18:52:24Z",
+      "repo": "valkey-bloom",
+      "reviewed": [
+        {
+          "login": "zackcam",
+          "date": "2026-05-19T17:30:21Z"
+        },
+        {
+          "login": "KarthikSubbarao",
+          "date": "2026-05-21T18:52:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/94"
+    },
+    {
+      "sha": "4b9c78471510d460c2b2ec4126130ae3f69a6725",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Automated update for unstable module versions",
+      "date": "2026-05-22T04:30:44Z",
+      "repo": "valkey-bundle",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c1e4f25bc2b9e7e2d8995f416f62c3fea880bbb6",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Drop naive syntax validators from conflict resolver (#11)",
+      "date": "2026-05-22T06:45:36Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "53501a27070a1c6e6e8453488cfc255e3d02f936",
+      "author_login": "Aksha1812",
+      "author_id": 48383029,
+      "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
+      "message": "Add valkey-search to repos.yml for automated backporting (#10)",
+      "date": "2026-05-22T04:04:07Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-05-22T04:03:49Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/10"
+    },
+    {
+      "sha": "10b99e0fb77684cc00a189d7709c639dc2d4ed7a",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Backport sweep: filter project-board PRs by source repo and auto-create missing labels (#9)",
+      "date": "2026-05-22T01:48:53Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "0fdd50f75f3bc4d117192264db8603a97619f878",
+      "author_login": "affonsov",
+      "author_id": 67347924,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
+      "message": "docs: add documentation update reminder to PR template and contributing guide (#5943)",
+      "date": "2026-05-21T19:45:56Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "alexr-bq",
+          "date": "2026-05-19T19:46:42Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-05-21T00:27:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5943"
+    },
+    {
+      "sha": "1474524d3b623ba55efdf673b731955dfd8f01a6",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Fix flaky scan_with_options and scan_binary_with_options tests (#5902)",
+      "date": "2026-05-21T16:19:40Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-05-11T22:37:45Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-05-21T00:28:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5902"
+    },
+    {
+      "sha": "b6051e4cc34b788e46391be2e260bced4e706ace",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Fix flaky OpenTelemetryTests memory leak tests (#5896)",
+      "date": "2026-05-21T16:14:57Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-05-11T22:23:47Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-05-21T00:28:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5896"
+    },
+    {
+      "sha": "79ccfa208fd98d6da2786272feec7902c58b1cb7",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Go: Fix flaky TestScriptKillWithRoute race condition (#5950)",
+      "date": "2026-05-21T16:14:36Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-05-20T16:59:39Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-05-21T00:26:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5950"
+    },
+    {
+      "sha": "4f224885fbbb4be40f1a04e1a7fa21bbf33068b8",
+      "author_login": "alexey-temnikov",
+      "author_id": 7035336,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
+      "message": "docs(client-side-caching): clarify TTL-only limits and managed-service compatibility (#216)",
+      "date": "2026-05-21T21:39:50Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-05-21T18:20:45Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-05-21T21:05:16Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/216"
+    },
+    {
+      "sha": "873127484c04836551183b675ac6e4ac967f97d7",
+      "author_login": "Luis729",
+      "author_id": 13097797,
+      "avatar_url": "https://avatars.githubusercontent.com/u/13097797?v=4",
+      "message": "valkeycompat: fall back to `redis` struct tag for go-redis compatibility (#138)",
+      "date": "2026-05-21T16:01:35Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-05-21T16:01:22Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/138"
+    },
+    {
+      "sha": "5bc82660cfcae84a9a86b1082d448a28c846e655",
+      "author_login": "rjd15372",
+      "author_id": 1948156,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1948156?v=4",
+      "message": "Fix CHANGELOG entry for 1.1.0 release",
+      "date": "2026-05-21T14:10:18Z",
+      "repo": "valkey-ldap",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "bcd83796c740ca1e24c28a4dd672bf1ccd610569",
+      "author_login": "rjd15372",
+      "author_id": 1948156,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1948156?v=4",
+      "message": "Begin of 1.2.0 development",
+      "date": "2026-05-21T11:15:43Z",
+      "repo": "valkey-ldap",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "2c4aba9d57c0ca37e5bda905b23fa957079ec95a",
+      "author_login": "rjd15372",
+      "author_id": 1948156,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1948156?v=4",
+      "message": "Bump to 1.1.0",
+      "date": "2026-05-21T10:56:37Z",
+      "repo": "valkey-ldap",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "080ba9d87f6153325ef3b254cf5223e94637fa9e",
+      "author_login": "yeomin4242",
+      "author_id": 111717431,
+      "avatar_url": "https://avatars.githubusercontent.com/u/111717431?v=4",
+      "message": "chore: remove ConfigMap suffix from managed resource names (#190)",
+      "date": "2026-05-21T18:58:48Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-05-21T11:04:14Z"
+        },
+        {
+          "login": "jdheyburn",
+          "date": "2026-05-21T18:58:42Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/190"
+    },
+    {
+      "sha": "e365922003127e2a6c694b6535cbe6bb48bde2b8",
+      "author_login": "EvgeniyPatlan",
+      "author_id": 18436759,
+      "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
+      "message": "fix: optional Lua module and system-jemalloc link fix for 9.1 (#55)",
+      "date": "2026-05-21T21:00:35Z",
+      "repo": "valkey-release-automation",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-05-21T21:00:22Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/55"
     }
   ]
 }

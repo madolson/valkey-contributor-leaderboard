@@ -2,13 +2,22 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 64,
-  "commit_count": 41,
+  "score": 65,
+  "commit_count": 42,
   "review_count": 23,
   "repos": [
+    "valkey-ci-agent",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "53501a2707",
+      "message": "Add valkey-search to repos.yml for automated backporting (#10)",
+      "date": "2026-05-22",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/10",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/53501a27070a1c6e6e8453488cfc255e3d02f936"
+    },
     {
       "sha": "7cac0c7ca9",
       "message": "[DOCUMENTATION] Updating QUICK_START.md (#990)",

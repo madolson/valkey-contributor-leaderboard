@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 204,
+  "score": 205,
   "commit_count": 65,
-  "review_count": 139,
+  "review_count": 140,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -532,6 +532,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "79ccfa208f",
+      "message": "Go: Fix flaky TestScriptKillWithRoute race condition (#5950)",
+      "date": "2026-05-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5950",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/79ccfa208fd98d6da2786272feec7902c58b1cb7"
+    },
     {
       "sha": "8601df1fc6",
       "message": "Updated attribution files for commit c83a49c97e27b5a582f70ceebf2b37205cdb0dc8 (#5930)",

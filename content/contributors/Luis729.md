@@ -2,13 +2,21 @@
   "title": "Luis729",
   "login": "Luis729",
   "avatar_url": "https://avatars.githubusercontent.com/u/13097797?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-go"
   ],
   "commit_list": [
+    {
+      "sha": "873127484c",
+      "message": "valkeycompat: fall back to `redis` struct tag for go-redis compatibility (#138)",
+      "date": "2026-05-21",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/138",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/873127484c04836551183b675ac6e4ac967f97d7"
+    },
     {
       "sha": "a87459a484",
       "message": "Call hmset from valkeycompat hmset (#128)",

@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 182,
+  "score": 183,
   "commit_count": 101,
-  "review_count": 81,
+  "review_count": 82,
   "repos": [
     "libvalkey",
     "valkey",
@@ -823,6 +823,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "080ba9d87f",
+      "message": "chore: remove ConfigMap suffix from managed resource names (#190)",
+      "date": "2026-05-21",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/190",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/080ba9d87f6153325ef3b254cf5223e94637fa9e"
+    },
     {
       "sha": "193e5e86e8",
       "message": "[feat] Add minimal pod disruption budget (#182)",

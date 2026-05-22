@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 712,
+  "score": 717,
   "commit_count": 45,
-  "review_count": 667,
+  "review_count": 672,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0fdd50f75f",
+      "message": "docs: add documentation update reminder to PR template and contributing guide (#5943)",
+      "date": "2026-05-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5943",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0fdd50f75f3bc4d117192264db8603a97619f878"
+    },
+    {
+      "sha": "1474524d3b",
+      "message": "Fix flaky scan_with_options and scan_binary_with_options tests (#5902)",
+      "date": "2026-05-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5902",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1474524d3b623ba55efdf673b731955dfd8f01a6"
+    },
+    {
+      "sha": "b6051e4cc3",
+      "message": "Fix flaky OpenTelemetryTests memory leak tests (#5896)",
+      "date": "2026-05-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5896",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b6051e4cc34b788e46391be2e260bced4e706ace"
+    },
+    {
+      "sha": "79ccfa208f",
+      "message": "Go: Fix flaky TestScriptKillWithRoute race condition (#5950)",
+      "date": "2026-05-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5950",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/79ccfa208fd98d6da2786272feec7902c58b1cb7"
+    },
+    {
+      "sha": "4f224885fb",
+      "message": "docs(client-side-caching): clarify TTL-only limits and managed-service compatibility (#216)",
+      "date": "2026-05-21",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/216",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/4f224885fbbb4be40f1a04e1a7fa21bbf33068b8"
+    },
     {
       "sha": "de63653007",
       "message": "Cherry pick #5952 to main: Java: Add a synchronous check on inflight request limits before submitting tasks (#5976)",

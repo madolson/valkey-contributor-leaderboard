@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 100,
+  "score": 102,
   "commit_count": 38,
-  "review_count": 62,
+  "review_count": 64,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -320,6 +320,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1474524d3b",
+      "message": "Fix flaky scan_with_options and scan_binary_with_options tests (#5902)",
+      "date": "2026-05-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5902",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1474524d3b623ba55efdf673b731955dfd8f01a6"
+    },
+    {
+      "sha": "b6051e4cc3",
+      "message": "Fix flaky OpenTelemetryTests memory leak tests (#5896)",
+      "date": "2026-05-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5896",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b6051e4cc34b788e46391be2e260bced4e706ace"
+    },
     {
       "sha": "420bb11d48",
       "message": "ci: harden network calls against transient registry flakes (#217)",

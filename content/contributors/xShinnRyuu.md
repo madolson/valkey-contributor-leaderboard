@@ -2,14 +2,38 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 238,
-  "commit_count": 49,
+  "score": 241,
+  "commit_count": 52,
   "review_count": 189,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "1474524d3b",
+      "message": "Fix flaky scan_with_options and scan_binary_with_options tests (#5902)",
+      "date": "2026-05-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5902",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1474524d3b623ba55efdf673b731955dfd8f01a6"
+    },
+    {
+      "sha": "b6051e4cc3",
+      "message": "Fix flaky OpenTelemetryTests memory leak tests (#5896)",
+      "date": "2026-05-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5896",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b6051e4cc34b788e46391be2e260bced4e706ace"
+    },
+    {
+      "sha": "79ccfa208f",
+      "message": "Go: Fix flaky TestScriptKillWithRoute race condition (#5950)",
+      "date": "2026-05-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5950",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/79ccfa208fd98d6da2786272feec7902c58b1cb7"
+    },
     {
       "sha": "b6b2cd69ce",
       "message": "Enable PeriodicCheck parameter for Go Client in AdvancedClusterClient Configuration (#5839)",

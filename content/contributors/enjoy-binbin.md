@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 839,
+  "score": 843,
   "commit_count": 324,
-  "review_count": 515,
+  "review_count": 519,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2607,6 +2607,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8d3e6c306b",
+      "message": "Fix \"time_t' different  typedef  on 32-bit /64-bit systems (#3787)",
+      "date": "2026-05-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3787",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8d3e6c306bf15de84496e173399424b411672783"
+    },
+    {
+      "sha": "8d3e6c306b",
+      "message": "Fix \"time_t' different  typedef  on 32-bit /64-bit systems (#3787)",
+      "date": "2026-05-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3787",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8d3e6c306bf15de84496e173399424b411672783"
+    },
+    {
+      "sha": "d778b37715",
+      "message": "Fix double-finish and RESP reply violation in cluster slot migration (#3723)",
+      "date": "2026-05-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3723",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d778b377150c6323fd52dab3da5562cf9b77cfa2"
+    },
+    {
+      "sha": "aa7488f4b1",
+      "message": "Fix heap-use-after-free in ACL LOAD when client free is deferred (#3800)",
+      "date": "2026-05-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3800",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/aa7488f4b191a727e4c3e3f0456f6a1f0ee08527"
+    },
     {
       "sha": "82740995e0",
       "message": "Fix flaky block_keyspace_notification test for HGETDEL notify race (#3766)",

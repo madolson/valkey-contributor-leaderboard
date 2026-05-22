@@ -2,13 +2,22 @@
   "title": "cjx-zar",
   "login": "cjx-zar",
   "avatar_url": "https://avatars.githubusercontent.com/u/56825069?v=4",
-  "score": 5,
-  "commit_count": 4,
+  "score": 6,
+  "commit_count": 5,
   "review_count": 1,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-bloom"
   ],
   "commit_list": [
+    {
+      "sha": "712a1d7eea",
+      "message": "remove 'validate_scale_to' check in replica (#94)",
+      "date": "2026-05-21",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/94",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/712a1d7eeaceba3a9f954c9eb5b222b74a4fdcd7"
+    },
     {
       "sha": "1e2ca5ec5d",
       "message": "fix alignment different between c and c++ in gtest (#3331)",

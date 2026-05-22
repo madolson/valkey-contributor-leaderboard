@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 106,
+  "score": 107,
   "commit_count": 42,
-  "review_count": 64,
+  "review_count": 65,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d778b37715",
+      "message": "Fix double-finish and RESP reply violation in cluster slot migration (#3723)",
+      "date": "2026-05-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3723",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d778b377150c6323fd52dab3da5562cf9b77cfa2"
+    },
     {
       "sha": "62f9b303ff",
       "message": "Update website for version 9.1.0 (#555)",

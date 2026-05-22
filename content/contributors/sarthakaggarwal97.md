@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 289,
+  "score": 290,
   "commit_count": 85,
-  "review_count": 204,
+  "review_count": 205,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -694,6 +694,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "53501a2707",
+      "message": "Add valkey-search to repos.yml for automated backporting (#10)",
+      "date": "2026-05-22",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/10",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/53501a27070a1c6e6e8453488cfc255e3d02f936"
+    },
     {
       "sha": "4b25a70646",
       "message": "Update affiliation for hpatro (#3782)",

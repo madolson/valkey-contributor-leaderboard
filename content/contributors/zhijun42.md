@@ -2,13 +2,21 @@
   "title": "zhijun42",
   "login": "zhijun42",
   "avatar_url": "https://avatars.githubusercontent.com/u/158313558?v=4",
-  "score": 13,
-  "commit_count": 13,
+  "score": 14,
+  "commit_count": 14,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "fa57b3c5eb",
+      "message": "Sentinel: Refactor test design to allow two clusters setup to help avoid data leakage during failover (#2717)",
+      "date": "2026-05-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2717",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fa57b3c5ebb81579edbc19378a2c628d79e3e308"
+    },
     {
       "sha": "8bb8d9168f",
       "message": "Enhance cluster stale packet detection to prevent sub-replica and empty primary (#2811)",

@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 345,
+  "score": 347,
   "commit_count": 134,
-  "review_count": 211,
+  "review_count": 213,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1093,6 +1093,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8d3e6c306b",
+      "message": "Fix \"time_t' different  typedef  on 32-bit /64-bit systems (#3787)",
+      "date": "2026-05-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3787",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8d3e6c306bf15de84496e173399424b411672783"
+    },
+    {
+      "sha": "e365922003",
+      "message": "fix: optional Lua module and system-jemalloc link fix for 9.1 (#55)",
+      "date": "2026-05-21",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/55",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/e365922003127e2a6c694b6535cbe6bb48bde2b8"
+    },
     {
       "sha": "0b13d7b8a2",
       "message": "Update to version 9.1.0 (#144)",

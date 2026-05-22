@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 154,
+  "score": 155,
   "commit_count": 38,
-  "review_count": 116,
+  "review_count": 117,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -317,6 +317,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0fdd50f75f",
+      "message": "docs: add documentation update reminder to PR template and contributing guide (#5943)",
+      "date": "2026-05-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5943",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0fdd50f75f3bc4d117192264db8603a97619f878"
+    },
     {
       "sha": "3e1c974018",
       "message": "Bump the patch-updates group with 1 update (#407)",

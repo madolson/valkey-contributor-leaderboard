@@ -2,9 +2,9 @@
   "title": "hwware",
   "login": "hwware",
   "avatar_url": "https://avatars.githubusercontent.com/u/51993843?v=4",
-  "score": 164,
+  "score": 165,
   "commit_count": 52,
-  "review_count": 112,
+  "review_count": 113,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -429,6 +429,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fa57b3c5eb",
+      "message": "Sentinel: Refactor test design to allow two clusters setup to help avoid data leakage during failover (#2717)",
+      "date": "2026-05-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2717",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fa57b3c5ebb81579edbc19378a2c628d79e3e308"
+    },
     {
       "sha": "231a9e731e",
       "message": "Fix XREAD returning error on empty stream with + ID (#2742)",

@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 81,
+  "score": 82,
   "commit_count": 22,
-  "review_count": 59,
+  "review_count": 60,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -190,6 +190,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "aa7488f4b1",
+      "message": "Fix heap-use-after-free in ACL LOAD when client free is deferred (#3800)",
+      "date": "2026-05-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3800",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/aa7488f4b191a727e4c3e3f0456f6a1f0ee08527"
+    },
     {
       "sha": "6713eda266",
       "message": "Drop eol fedora and debian. Add ubuntu 26.04 (#21)",

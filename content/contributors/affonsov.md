@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 116,
-  "commit_count": 63,
-  "review_count": 53,
+  "score": 118,
+  "commit_count": 64,
+  "review_count": 54,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "0fdd50f75f",
+      "message": "docs: add documentation update reminder to PR template and contributing guide (#5943)",
+      "date": "2026-05-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5943",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0fdd50f75f3bc4d117192264db8603a97619f878"
+    },
     {
       "sha": "5623c22b67",
       "message": "fix(node): allow protobufjs build scripts in pnpm test (#5899)",
@@ -518,6 +526,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4f224885fb",
+      "message": "docs(client-side-caching): clarify TTL-only limits and managed-service compatibility (#216)",
+      "date": "2026-05-21",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/216",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/4f224885fbbb4be40f1a04e1a7fa21bbf33068b8"
+    },
     {
       "sha": "d44d901530",
       "message": "fix: java workflow correctly skips container tests on windows only and moved start time (#5882)",

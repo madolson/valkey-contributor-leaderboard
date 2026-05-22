@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 54,
+  "score": 55,
   "commit_count": 17,
-  "review_count": 37,
+  "review_count": 38,
   "repos": [
     "valkey",
     "valkey-operator"
@@ -148,6 +148,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "080ba9d87f",
+      "message": "chore: remove ConfigMap suffix from managed resource names (#190)",
+      "date": "2026-05-21",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/190",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/080ba9d87f6153325ef3b254cf5223e94637fa9e"
+    },
     {
       "sha": "363d2dace0",
       "message": "add resetpass to UserAclSpec (#166)",

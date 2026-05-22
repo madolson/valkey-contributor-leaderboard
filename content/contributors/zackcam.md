@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 55,
+  "score": 56,
   "commit_count": 38,
-  "review_count": 17,
+  "review_count": 18,
   "repos": [
     "valkey-bloom",
     "valkey-doc",
@@ -320,6 +320,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "712a1d7eea",
+      "message": "remove 'validate_scale_to' check in replica (#94)",
+      "date": "2026-05-21",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/94",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/712a1d7eeaceba3a9f954c9eb5b222b74a4fdcd7"
+    },
     {
       "sha": "523e19a984",
       "message": "Prevalidate in BF.LOAD (#89)",

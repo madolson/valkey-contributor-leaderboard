@@ -2,9 +2,9 @@
   "title": "lucasyonge",
   "login": "lucasyonge",
   "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
-  "score": 12,
+  "score": 13,
   "commit_count": 4,
-  "review_count": 8,
+  "review_count": 9,
   "repos": [
     "valkey",
     "valkey-io.github.io"
@@ -44,6 +44,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fa57b3c5eb",
+      "message": "Sentinel: Refactor test design to allow two clusters setup to help avoid data leakage during failover (#2717)",
+      "date": "2026-05-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2717",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fa57b3c5ebb81579edbc19378a2c628d79e3e308"
+    },
     {
       "sha": "4b25a70646",
       "message": "Update affiliation for hpatro (#3782)",

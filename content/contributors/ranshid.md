@@ -2,8 +2,8 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 278,
-  "commit_count": 89,
+  "score": 279,
+  "commit_count": 90,
   "review_count": 189,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "aa7488f4b1",
+      "message": "Fix heap-use-after-free in ACL LOAD when client free is deferred (#3800)",
+      "date": "2026-05-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3800",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/aa7488f4b191a727e4c3e3f0456f6a1f0ee08527"
+    },
     {
       "sha": "82740995e0",
       "message": "Fix flaky block_keyspace_notification test for HGETDEL notify race (#3766)",

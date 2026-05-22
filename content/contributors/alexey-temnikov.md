@@ -2,8 +2,8 @@
   "title": "alexey-temnikov",
   "login": "alexey-temnikov",
   "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
-  "score": 19,
-  "commit_count": 10,
+  "score": 20,
+  "commit_count": 11,
   "review_count": 9,
   "repos": [
     "valkey-admin",
@@ -12,6 +12,14 @@
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "4f224885fb",
+      "message": "docs(client-side-caching): clarify TTL-only limits and managed-service compatibility (#216)",
+      "date": "2026-05-21",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/216",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/4f224885fbbb4be40f1a04e1a7fa21bbf33068b8"
+    },
     {
       "sha": "420bb11d48",
       "message": "ci: harden network calls against transient registry flakes (#217)",

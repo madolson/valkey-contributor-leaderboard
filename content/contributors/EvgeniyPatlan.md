@@ -2,8 +2,8 @@
   "title": "EvgeniyPatlan",
   "login": "EvgeniyPatlan",
   "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
-  "score": 5,
-  "commit_count": 4,
+  "score": 6,
+  "commit_count": 5,
   "review_count": 1,
   "repos": [
     "valkey-ldap",
@@ -11,6 +11,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "e365922003",
+      "message": "fix: optional Lua module and system-jemalloc link fix for 9.1 (#55)",
+      "date": "2026-05-21",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/55",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/e365922003127e2a6c694b6535cbe6bb48bde2b8"
+    },
     {
       "sha": "65b29a4327",
       "message": "Add changes to support 9.1 builds (#52)",
