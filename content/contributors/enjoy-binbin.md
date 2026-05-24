@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 843,
-  "commit_count": 324,
+  "score": 846,
+  "commit_count": 327,
   "review_count": 519,
   "repos": [
     "valkey",
@@ -13,6 +13,30 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "cce8f49b6f",
+      "message": "Restrict zmadvise_dontneed_range() to jemalloc builds (#3791)",
+      "date": "2026-05-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3791",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cce8f49b6f10d3d43e4e322c73be9e65fc683a55"
+    },
+    {
+      "sha": "c59b247132",
+      "message": "Document database-level ACL rules in valkey.conf and acl.c (#3808)",
+      "date": "2026-05-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3808",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c59b247132a5ee5a9bc476b8e195e59e41b3cb73"
+    },
+    {
+      "sha": "355d30642b",
+      "message": "Remove MIGRATE command dead code in ACLSelectorCheckCmd (#3804)",
+      "date": "2026-05-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3804",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/355d30642bd299f6ea1fbfcaacba02d2e4646f3a"
+    },
     {
       "sha": "5a604b3ef2",
       "message": "Use full hash-seed bytes when deriving SipHash seed (#3654)",

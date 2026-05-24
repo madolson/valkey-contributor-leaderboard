@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 308,
+  "score": 309,
   "commit_count": 109,
-  "review_count": 199,
+  "review_count": 200,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -886,6 +886,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "79a15517a2",
+      "message": "Go: Support custom socket address resolution (#5891)",
+      "date": "2026-05-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5891",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/79a15517a21cca780c61c4b11e94a7e908dc708e"
+    },
     {
       "sha": "cb15a4934d",
       "message": "Adding reusable test and nightly FMT (#192)",

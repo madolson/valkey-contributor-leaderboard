@@ -2,14 +2,22 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 73,
-  "commit_count": 26,
+  "score": 74,
+  "commit_count": 27,
   "review_count": 47,
   "repos": [
     "valkey",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "604dcdb00d",
+      "message": "hashtable: disallow insert during safe iteration (fixes #2302) (#3796)",
+      "date": "2026-05-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3796",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/604dcdb00df81dacf2520ac85fe1c53897fe2baf"
+    },
     {
       "sha": "cea9354b56",
       "message": "Big Endian: add daily workflow UT job and fix UTs (#3330)",

@@ -148365,6 +148365,224 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/55"
+    },
+    {
+      "sha": "9b91cf0016c59c172ced4d4bda71e9704edcbe7d",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Update slides skill and community deck",
+      "date": "2026-05-22T22:53:06Z",
+      "repo": "assets",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c3f3e13631d1df4f2faa1c246026d687d26cb2fd",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Add Valkey community deck and slides skill doc",
+      "date": "2026-05-22T17:48:01Z",
+      "repo": "assets",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "cce8f49b6f10d3d43e4e322c73be9e65fc683a55",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Restrict zmadvise_dontneed_range() to jemalloc builds (#3791)",
+      "date": "2026-05-24T03:52:13Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-05-21T19:07:34Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-05-22T08:56:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3791"
+    },
+    {
+      "sha": "c59b247132a5ee5a9bc476b8e195e59e41b3cb73",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Document database-level ACL rules in valkey.conf and acl.c (#3808)",
+      "date": "2026-05-23T02:33:49Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-05-22T09:55:36Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-05-22T12:11:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3808"
+    },
+    {
+      "sha": "355d30642bd299f6ea1fbfcaacba02d2e4646f3a",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Remove MIGRATE command dead code in ACLSelectorCheckCmd (#3804)",
+      "date": "2026-05-23T02:33:08Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "nmvk",
+          "date": "2026-05-22T05:00:49Z"
+        },
+        {
+          "login": "dvkashapov",
+          "date": "2026-05-22T08:04:28Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-05-22T13:18:27Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3804"
+    },
+    {
+      "sha": "604dcdb00df81dacf2520ac85fe1c53897fe2baf",
+      "author_login": "rainsupreme",
+      "author_id": 20649182,
+      "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
+      "message": "hashtable: disallow insert during safe iteration (fixes #2302) (#3796)",
+      "date": "2026-05-22T21:07:58Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-05-22T15:00:06Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3796"
+    },
+    {
+      "sha": "6d51044013a8a4334a1cc241dcddcd4ead1b817f",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Fix: treat auto-merged files without conflict markers as resolved (#13)",
+      "date": "2026-05-22T16:15:14Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "80c4af7bdda7f0e04889677ddf3df8541d4cf408",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Log git stderr and validation output on failure (#12)",
+      "date": "2026-05-22T15:17:23Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "79a15517a21cca780c61c4b11e94a7e908dc708e",
+      "author_login": "affonsov",
+      "author_id": 67347924,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
+      "message": "Go: Support custom socket address resolution (#5891)",
+      "date": "2026-05-23T08:58:14Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "alexr-bq",
+          "date": "2026-05-22T22:01:10Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-05-22T22:01:47Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5891"
+    },
+    {
+      "sha": "c53df65751236ec41c38a59634fbbb2740711d46",
+      "author_login": "affonsov",
+      "author_id": 67347924,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
+      "message": "Node: Support custom socket address resolution when connecting to valkey (#5890)",
+      "date": "2026-05-22T23:49:13Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "alexr-bq",
+          "date": "2026-05-19T18:21:17Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-05-21T15:40:57Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5890"
+    },
+    {
+      "sha": "0289b2f41a013ebfb2a9311a82077d20136c6f5f",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "chore: Add prefix to headless service resource (#189)",
+      "date": "2026-05-22T09:33:24Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-05-22T07:25:21Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/189"
+    },
+    {
+      "sha": "2425608c6e8cc4fcaa5971aa413fc2779077fd5b",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "docs: Add doc about updating RBAC permissions (#192)",
+      "date": "2026-05-22T09:26:27Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-05-22T07:59:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/192"
+    },
+    {
+      "sha": "280174795b3481c031c67fce57748988dfd288b4",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Compatibility statement improvement (#1059)",
+      "date": "2026-05-22T21:30:57Z",
+      "repo": "valkey-search",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d8fe21b67c608e5b96c3b64949479d391ab7e7f6",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Initial compatibility statement (#981)",
+      "date": "2026-05-22T21:02:44Z",
+      "repo": "valkey-search",
+      "reviewed": false,
+      "pr_url": ""
     }
   ]
 }

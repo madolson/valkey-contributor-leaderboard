@@ -2,9 +2,9 @@
   "title": "nmvk",
   "login": "nmvk",
   "avatar_url": "https://avatars.githubusercontent.com/u/1668438?v=4",
-  "score": 10,
+  "score": 11,
   "commit_count": 7,
-  "review_count": 3,
+  "review_count": 4,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -68,6 +68,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "355d30642b",
+      "message": "Remove MIGRATE command dead code in ACLSelectorCheckCmd (#3804)",
+      "date": "2026-05-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3804",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/355d30642bd299f6ea1fbfcaacba02d2e4646f3a"
+    },
     {
       "sha": "a813df0546",
       "message": "Improve CLUSTERSCAN error handling test with broader coverage (#3674)",

@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 717,
+  "score": 718,
   "commit_count": 45,
-  "review_count": 672,
+  "review_count": 673,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c53df65751",
+      "message": "Node: Support custom socket address resolution when connecting to valkey (#5890)",
+      "date": "2026-05-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5890",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c53df65751236ec41c38a59634fbbb2740711d46"
+    },
     {
       "sha": "0fdd50f75f",
       "message": "docs: add documentation update reminder to PR template and contributing guide (#5943)",

@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 155,
+  "score": 157,
   "commit_count": 38,
-  "review_count": 117,
+  "review_count": 119,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -317,6 +317,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "79a15517a2",
+      "message": "Go: Support custom socket address resolution (#5891)",
+      "date": "2026-05-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5891",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/79a15517a21cca780c61c4b11e94a7e908dc708e"
+    },
+    {
+      "sha": "c53df65751",
+      "message": "Node: Support custom socket address resolution when connecting to valkey (#5890)",
+      "date": "2026-05-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5890",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c53df65751236ec41c38a59634fbbb2740711d46"
+    },
     {
       "sha": "0fdd50f75f",
       "message": "docs: add documentation update reminder to PR template and contributing guide (#5943)",

@@ -2,14 +2,30 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 55,
-  "commit_count": 17,
+  "score": 57,
+  "commit_count": 19,
   "review_count": 38,
   "repos": [
     "valkey",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "0289b2f41a",
+      "message": "chore: Add prefix to headless service resource (#189)",
+      "date": "2026-05-22",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/189",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0289b2f41a013ebfb2a9311a82077d20136c6f5f"
+    },
+    {
+      "sha": "2425608c6e",
+      "message": "docs: Add doc about updating RBAC permissions (#192)",
+      "date": "2026-05-22",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/192",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2425608c6e8cc4fcaa5971aa413fc2779077fd5b"
+    },
     {
       "sha": "193e5e86e8",
       "message": "[feat] Add minimal pod disruption budget (#182)",
