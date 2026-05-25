@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 843,
+  "score": 844,
   "commit_count": 184,
-  "review_count": 659,
+  "review_count": 660,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1490,6 +1490,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "42765b2ff6",
+      "message": "Fix integer overflow in WAIT and WAITAOF numreplicas parameter (#3407)",
+      "date": "2026-05-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3407",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/42765b2ff63ddc556ce43f41d255b38b77c8f168"
+    },
     {
       "sha": "f3ea299c6b",
       "message": "Add Valkey 9.1 release announcement blog post (#553)",

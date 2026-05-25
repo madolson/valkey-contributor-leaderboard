@@ -148583,6 +148583,26 @@
       "repo": "valkey-search",
       "reviewed": false,
       "pr_url": ""
+    },
+    {
+      "sha": "42765b2ff63ddc556ce43f41d255b38b77c8f168",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Fix integer overflow in WAIT and WAITAOF numreplicas parameter (#3407)",
+      "date": "2026-05-25T05:59:37Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-04-27T03:53:16Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-05-22T12:29:27Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3407"
     }
   ]
 }

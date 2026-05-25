@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1137,
+  "score": 1138,
   "commit_count": 151,
-  "review_count": 986,
+  "review_count": 987,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1223,6 +1223,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "42765b2ff6",
+      "message": "Fix integer overflow in WAIT and WAITAOF numreplicas parameter (#3407)",
+      "date": "2026-05-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3407",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/42765b2ff63ddc556ce43f41d255b38b77c8f168"
+    },
     {
       "sha": "cce8f49b6f",
       "message": "Restrict zmadvise_dontneed_range() to jemalloc builds (#3791)",

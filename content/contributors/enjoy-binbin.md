@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 846,
-  "commit_count": 327,
+  "score": 847,
+  "commit_count": 328,
   "review_count": 519,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "42765b2ff6",
+      "message": "Fix integer overflow in WAIT and WAITAOF numreplicas parameter (#3407)",
+      "date": "2026-05-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3407",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/42765b2ff63ddc556ce43f41d255b38b77c8f168"
+    },
     {
       "sha": "cce8f49b6f",
       "message": "Restrict zmadvise_dontneed_range() to jemalloc builds (#3791)",

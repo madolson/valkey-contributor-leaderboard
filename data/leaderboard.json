@@ -37,7 +37,7 @@
       "name": "Viktor S\u00f6derqvist",
       "company": "Ericsson Software Technology",
       "commits": 151,
-      "reviews": 986,
+      "reviews": 987,
       "repos": [
         "libvalkey",
         "valkey",
@@ -52,7 +52,7 @@
         },
         "valkey": {
           "commits": 106,
-          "reviews": 805
+          "reviews": 806
         },
         "valkey-container": {
           "commits": 0,
@@ -91,7 +91,7 @@
           "reviews": 1
         }
       },
-      "score": 1137
+      "score": 1138
     },
     {
       "login": "enjoy-binbin",
@@ -99,7 +99,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
       "name": "Binbin",
       "company": "Tencent Cloud NoSQL",
-      "commits": 327,
+      "commits": 328,
       "reviews": 519,
       "repos": [
         "valkey",
@@ -110,7 +110,7 @@
       ],
       "per_repo": {
         "valkey": {
-          "commits": 305,
+          "commits": 306,
           "reviews": 486
         },
         "valkey-bloom": {
@@ -134,7 +134,7 @@
           "reviews": 1
         }
       },
-      "score": 846
+      "score": 847
     },
     {
       "login": "madolson",
@@ -143,7 +143,7 @@
       "name": "Madelyn Olson",
       "company": "Amazon Web Services",
       "commits": 184,
-      "reviews": 659,
+      "reviews": 660,
       "repos": [
         "valkey",
         "valkey-admin",
@@ -161,7 +161,7 @@
         },
         "valkey": {
           "commits": 95,
-          "reviews": 472
+          "reviews": 473
         },
         "valkey-bloom": {
           "commits": 1,
@@ -204,7 +204,7 @@
           "reviews": 0
         }
       },
-      "score": 843
+      "score": 844
     },
     {
       "login": "yipin-chen",
