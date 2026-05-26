@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1138,
-  "commit_count": 151,
-  "review_count": 987,
+  "score": 1142,
+  "commit_count": 152,
+  "review_count": 990,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "d9ba5aba38",
+      "message": "Improved Tcl stacktraces (#3612)",
+      "date": "2026-05-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3612",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d9ba5aba3854a236298a159241d377532aa2c8e7"
+    },
     {
       "sha": "9a35437f8d",
       "message": "Document INFO fields used_active_time_{main_thread,io_thread_N} (#437)",
@@ -1230,6 +1238,30 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3407",
       "commit_url": "https://github.com/valkey-io/valkey/commit/42765b2ff63ddc556ce43f41d255b38b77c8f168"
+    },
+    {
+      "sha": "1c49ca05c4",
+      "message": "Trigger failover check ASAP when cluster-replica-no-failover is disabled (#3827)",
+      "date": "2026-05-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3827",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1c49ca05c46bdfa986b397c81d01242981dfadf4"
+    },
+    {
+      "sha": "68ed258a52",
+      "message": "Fix timing issue in cluster manual-takeover test (#3826)",
+      "date": "2026-05-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3826",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/68ed258a527d5e0920405204b86f796ab2559754"
+    },
+    {
+      "sha": "5ff1fd6bc4",
+      "message": "Add Redis compatibility reference to the migration page (#426)",
+      "date": "2026-05-25",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/426",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/5ff1fd6bc415601ccbc8be612061227c542f3500"
     },
     {
       "sha": "cce8f49b6f",

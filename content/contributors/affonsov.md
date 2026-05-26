@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 120,
+  "score": 122,
   "commit_count": 66,
-  "review_count": 54,
+  "review_count": 56,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -542,6 +542,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "343145f0b6",
+      "message": "Python: Fix sync client FFI signature mismatch for address resolver (#6013)",
+      "date": "2026-05-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6013",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/343145f0b69332135df9a81cec6fd44f7fe08ff4"
+    },
+    {
+      "sha": "ff6976e8c6",
+      "message": "fix(tests): Fix flaky tests and add reusable test infrastructure (#399)",
+      "date": "2026-05-25",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/399",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/ff6976e8c6a7577067061b8a9e4556f519ca33e8"
+    },
     {
       "sha": "4f224885fb",
       "message": "docs(client-side-caching): clarify TTL-only limits and managed-service compatibility (#216)",

@@ -148603,6 +148603,246 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey/pull/3407"
+    },
+    {
+      "sha": "d9ba5aba3854a236298a159241d377532aa2c8e7",
+      "author_login": "zuiderkwast",
+      "author_id": 273886,
+      "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
+      "message": "Improved Tcl stacktraces (#3612)",
+      "date": "2026-05-25T19:39:42Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-05-06T05:27:27Z"
+        },
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-05-24T03:36:53Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3612"
+    },
+    {
+      "sha": "1c49ca05c46bdfa986b397c81d01242981dfadf4",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Trigger failover check ASAP when cluster-replica-no-failover is disabled (#3827)",
+      "date": "2026-05-25T11:21:51Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-05-25T10:35:34Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3827"
+    },
+    {
+      "sha": "68ed258a527d5e0920405204b86f796ab2559754",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Fix timing issue in cluster manual-takeover test (#3826)",
+      "date": "2026-05-25T11:20:46Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-05-25T10:25:47Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3826"
+    },
+    {
+      "sha": "db96bb156804824aaf36fc2a3f6f9975d4acd108",
+      "author_login": "nassery318",
+      "author_id": 86083902,
+      "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
+      "message": "restricting destructive commands that cause server issues (#358)",
+      "date": "2026-05-25T18:03:10Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "arseny-kostenko",
+          "date": "2026-05-25T18:01:44Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/358"
+    },
+    {
+      "sha": "5ff1fd6bc415601ccbc8be612061227c542f3500",
+      "author_login": "kovan",
+      "author_id": 217326,
+      "avatar_url": "https://avatars.githubusercontent.com/u/217326?v=4",
+      "message": "Add Redis compatibility reference to the migration page (#426)",
+      "date": "2026-05-25T17:45:48Z",
+      "repo": "valkey-doc",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-05-25T17:24:16Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/426"
+    },
+    {
+      "sha": "5233c40c4bf14407d78bc66649ee13f2a1ead048",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Python: Include _fast_response extension in glide-sync wheel (#6015)",
+      "date": "2026-05-26T02:49:53Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-05-25T23:48:37Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-05-25T23:49:18Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6015"
+    },
+    {
+      "sha": "343145f0b69332135df9a81cec6fd44f7fe08ff4",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Python: Fix sync client FFI signature mismatch for address resolver (#6013)",
+      "date": "2026-05-25T22:59:11Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-05-25T20:12:44Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-05-25T20:33:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6013"
+    },
+    {
+      "sha": "efccf41d186726470081f618429712b3d5bc506c",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Fix Java scriptKill flaky tests by replacing Thread.sleep with polling (#5951)",
+      "date": "2026-05-25T17:06:40Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-05-21T00:26:16Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-05-22T17:11:16Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5951"
+    },
+    {
+      "sha": "3f1dbad0f1f48c38f0c9b336f9d10bc688183aae",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump taiki-e/install-action from 2.79.1 to 2.79.7 in the patch-updates group (#410)",
+      "date": "2026-05-25T23:27:12Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-05-25T18:12:02Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-05-25T20:51:54Z"
+        },
+        {
+          "login": "alexr-bq",
+          "date": "2026-05-25T22:43:58Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/410"
+    },
+    {
+      "sha": "5533f3566cdda2f0cd666c6fd4f0a7211bc5bfd0",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump github/codeql-action from 4.35.5 to 4.36.0 in the minor-updates group (#411)",
+      "date": "2026-05-25T23:26:52Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-05-25T18:11:09Z"
+        },
+        {
+          "login": "alexr-bq",
+          "date": "2026-05-25T22:44:05Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/411"
+    },
+    {
+      "sha": "ff6976e8c6a7577067061b8a9e4556f519ca33e8",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "fix(tests): Fix flaky tests and add reusable test infrastructure (#399)",
+      "date": "2026-05-25T17:07:42Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "alexr-bq",
+          "date": "2026-05-13T20:40:50Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-05-19T18:05:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/399"
+    },
+    {
+      "sha": "b884d726695855d7aa67856246cbc5e099571302",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump deps/luajit from `18b087c` to `8f421c8` (#23)",
+      "date": "2026-05-26T05:53:26Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-05-26T05:52:55Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/23"
+    },
+    {
+      "sha": "59b6941d33476d8e52d7c4476aea24b161cf6905",
+      "author_login": "secwall",
+      "author_id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "message": "Backport upstream changes from 9.1 (#22)",
+      "date": "2026-05-25T09:58:25Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-05-25T09:37:16Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/22"
     }
   ]
 }

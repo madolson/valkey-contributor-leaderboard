@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 309,
+  "score": 310,
   "commit_count": 109,
-  "review_count": 200,
+  "review_count": 201,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -886,6 +886,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "efccf41d18",
+      "message": "Fix Java scriptKill flaky tests by replacing Thread.sleep with polling (#5951)",
+      "date": "2026-05-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5951",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/efccf41d186726470081f618429712b3d5bc506c"
+    },
     {
       "sha": "79a15517a2",
       "message": "Go: Support custom socket address resolution (#5891)",

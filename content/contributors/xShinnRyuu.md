@@ -2,14 +2,38 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 241,
-  "commit_count": 52,
+  "score": 244,
+  "commit_count": 55,
   "review_count": 189,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "5233c40c4b",
+      "message": "Python: Include _fast_response extension in glide-sync wheel (#6015)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6015",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5233c40c4bf14407d78bc66649ee13f2a1ead048"
+    },
+    {
+      "sha": "343145f0b6",
+      "message": "Python: Fix sync client FFI signature mismatch for address resolver (#6013)",
+      "date": "2026-05-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6013",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/343145f0b69332135df9a81cec6fd44f7fe08ff4"
+    },
+    {
+      "sha": "efccf41d18",
+      "message": "Fix Java scriptKill flaky tests by replacing Thread.sleep with polling (#5951)",
+      "date": "2026-05-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5951",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/efccf41d186726470081f618429712b3d5bc506c"
+    },
     {
       "sha": "1474524d3b",
       "message": "Fix flaky scan_with_options and scan_binary_with_options tests (#5902)",
@@ -428,6 +452,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3f1dbad0f1",
+      "message": "chore(deps): bump taiki-e/install-action from 2.79.1 to 2.79.7 in the patch-updates group (#410)",
+      "date": "2026-05-25",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/410",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3f1dbad0f1f48c38f0c9b336f9d10bc688183aae"
+    },
     {
       "sha": "cfd91a5254",
       "message": "Core: Add dedicated timeout watchdog thread independent of Tokio runtime (#5917)",

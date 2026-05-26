@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 177,
-  "commit_count": 111,
+  "score": 178,
+  "commit_count": 112,
   "review_count": 66,
   "repos": [
     "valkey-doc",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "ff6976e8c6",
+      "message": "fix(tests): Fix flaky tests and add reusable test infrastructure (#399)",
+      "date": "2026-05-25",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/399",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/ff6976e8c6a7577067061b8a9e4556f519ca33e8"
+    },
     {
       "sha": "f1ff2df919",
       "message": "chore: Upgrade build SDK to .NET 10 (#409)",
@@ -904,6 +912,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3f1dbad0f1",
+      "message": "chore(deps): bump taiki-e/install-action from 2.79.1 to 2.79.7 in the patch-updates group (#410)",
+      "date": "2026-05-25",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/410",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3f1dbad0f1f48c38f0c9b336f9d10bc688183aae"
+    },
+    {
+      "sha": "5533f3566c",
+      "message": "chore(deps): bump github/codeql-action from 4.35.5 to 4.36.0 in the minor-updates group (#411)",
+      "date": "2026-05-25",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/411",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5533f3566cdda2f0cd666c6fd4f0a7211bc5bfd0"
+    },
     {
       "sha": "c83a49c97e",
       "message": "build(deps-dev): bump uuid from 13.0.0 to 14.0.0 in /node (#5773)",

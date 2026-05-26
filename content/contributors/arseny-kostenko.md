@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 200,
+  "score": 201,
   "commit_count": 19,
-  "review_count": 181,
+  "review_count": 182,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "db96bb1568",
+      "message": "restricting destructive commands that cause server issues (#358)",
+      "date": "2026-05-25",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/358",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/db96bb156804824aaf36fc2a3f6f9975d4acd108"
+    },
     {
       "sha": "6782ab1c13",
       "message": "Catch errors when permission denied (#354)",

@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 85,
+  "score": 86,
   "commit_count": 22,
-  "review_count": 63,
+  "review_count": 64,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -190,6 +190,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b884d72669",
+      "message": "Bump deps/luajit from `18b087c` to `8f421c8` (#23)",
+      "date": "2026-05-26",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/23",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/b884d726695855d7aa67856246cbc5e099571302"
+    },
+    {
+      "sha": "59b6941d33",
+      "message": "Backport upstream changes from 9.1 (#22)",
+      "date": "2026-05-25",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/22",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/59b6941d33476d8e52d7c4476aea24b161cf6905"
+    },
     {
       "sha": "cce8f49b6f",
       "message": "Restrict zmadvise_dontneed_range() to jemalloc builds (#3791)",

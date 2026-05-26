@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 157,
+  "score": 158,
   "commit_count": 38,
-  "review_count": 119,
+  "review_count": 120,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -317,6 +317,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3f1dbad0f1",
+      "message": "chore(deps): bump taiki-e/install-action from 2.79.1 to 2.79.7 in the patch-updates group (#410)",
+      "date": "2026-05-25",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/410",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3f1dbad0f1f48c38f0c9b336f9d10bc688183aae"
+    },
+    {
+      "sha": "5533f3566c",
+      "message": "chore(deps): bump github/codeql-action from 4.35.5 to 4.36.0 in the minor-updates group (#411)",
+      "date": "2026-05-25",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/411",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5533f3566cdda2f0cd666c6fd4f0a7211bc5bfd0"
+    },
+    {
+      "sha": "ff6976e8c6",
+      "message": "fix(tests): Fix flaky tests and add reusable test infrastructure (#399)",
+      "date": "2026-05-25",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/399",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/ff6976e8c6a7577067061b8a9e4556f519ca33e8"
+    },
     {
       "sha": "79a15517a2",
       "message": "Go: Support custom socket address resolution (#5891)",

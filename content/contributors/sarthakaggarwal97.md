@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 290,
+  "score": 291,
   "commit_count": 85,
-  "review_count": 205,
+  "review_count": 206,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -694,6 +694,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d9ba5aba38",
+      "message": "Improved Tcl stacktraces (#3612)",
+      "date": "2026-05-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3612",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d9ba5aba3854a236298a159241d377532aa2c8e7"
+    },
     {
       "sha": "53501a2707",
       "message": "Add valkey-search to repos.yml for automated backporting (#10)",

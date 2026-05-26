@@ -2,14 +2,22 @@
   "title": "secwall",
   "login": "secwall",
   "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
-  "score": 17,
-  "commit_count": 15,
+  "score": 18,
+  "commit_count": 16,
   "review_count": 2,
   "repos": [
     "valkey",
     "valkey-luajit"
   ],
   "commit_list": [
+    {
+      "sha": "59b6941d33",
+      "message": "Backport upstream changes from 9.1 (#22)",
+      "date": "2026-05-25",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/22",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/59b6941d33476d8e52d7c4476aea24b161cf6905"
+    },
     {
       "sha": "6713eda266",
       "message": "Drop eol fedora and debian. Add ubuntu 26.04 (#21)",

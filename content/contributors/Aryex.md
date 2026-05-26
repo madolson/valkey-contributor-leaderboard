@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 102,
+  "score": 103,
   "commit_count": 38,
-  "review_count": 64,
+  "review_count": 65,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -320,6 +320,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "343145f0b6",
+      "message": "Python: Fix sync client FFI signature mismatch for address resolver (#6013)",
+      "date": "2026-05-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6013",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/343145f0b69332135df9a81cec6fd44f7fe08ff4"
+    },
     {
       "sha": "1474524d3b",
       "message": "Fix flaky scan_with_options and scan_binary_with_options tests (#5902)",

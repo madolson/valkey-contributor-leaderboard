@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 718,
+  "score": 720,
   "commit_count": 45,
-  "review_count": 673,
+  "review_count": 675,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5233c40c4b",
+      "message": "Python: Include _fast_response extension in glide-sync wheel (#6015)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6015",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5233c40c4bf14407d78bc66649ee13f2a1ead048"
+    },
+    {
+      "sha": "efccf41d18",
+      "message": "Fix Java scriptKill flaky tests by replacing Thread.sleep with polling (#5951)",
+      "date": "2026-05-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5951",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/efccf41d186726470081f618429712b3d5bc506c"
+    },
     {
       "sha": "c53df65751",
       "message": "Node: Support custom socket address resolution when connecting to valkey (#5890)",

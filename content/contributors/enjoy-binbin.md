@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 847,
-  "commit_count": 328,
-  "review_count": 519,
+  "score": 850,
+  "commit_count": 330,
+  "review_count": 520,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -20,6 +20,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3407",
       "commit_url": "https://github.com/valkey-io/valkey/commit/42765b2ff63ddc556ce43f41d255b38b77c8f168"
+    },
+    {
+      "sha": "1c49ca05c4",
+      "message": "Trigger failover check ASAP when cluster-replica-no-failover is disabled (#3827)",
+      "date": "2026-05-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3827",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1c49ca05c46bdfa986b397c81d01242981dfadf4"
+    },
+    {
+      "sha": "68ed258a52",
+      "message": "Fix timing issue in cluster manual-takeover test (#3826)",
+      "date": "2026-05-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3826",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/68ed258a527d5e0920405204b86f796ab2559754"
     },
     {
       "sha": "cce8f49b6f",
@@ -2639,6 +2655,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d9ba5aba38",
+      "message": "Improved Tcl stacktraces (#3612)",
+      "date": "2026-05-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3612",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d9ba5aba3854a236298a159241d377532aa2c8e7"
+    },
     {
       "sha": "8d3e6c306b",
       "message": "Fix \"time_t' different  typedef  on 32-bit /64-bit systems (#3787)",

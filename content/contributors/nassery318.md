@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 106,
-  "commit_count": 92,
+  "score": 107,
+  "commit_count": 93,
   "review_count": 14,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "db96bb1568",
+      "message": "restricting destructive commands that cause server issues (#358)",
+      "date": "2026-05-25",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/358",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/db96bb156804824aaf36fc2a3f6f9975d4acd108"
+    },
     {
       "sha": "508ebd84b1",
       "message": "use cluster alias in views instead of cluster id if available (#341)",

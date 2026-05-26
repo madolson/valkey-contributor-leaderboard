@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 205,
+  "score": 206,
   "commit_count": 65,
-  "review_count": 140,
+  "review_count": 141,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -532,6 +532,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5233c40c4b",
+      "message": "Python: Include _fast_response extension in glide-sync wheel (#6015)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6015",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5233c40c4bf14407d78bc66649ee13f2a1ead048"
+    },
     {
       "sha": "79ccfa208f",
       "message": "Go: Fix flaky TestScriptKillWithRoute race condition (#5950)",
