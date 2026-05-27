@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 178,
-  "commit_count": 112,
+  "score": 179,
+  "commit_count": 113,
   "review_count": 66,
   "repos": [
     "valkey-doc",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "194cdba365",
+      "message": "Clean up `dependabot` configuration (#412)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/412",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/194cdba365afe49ad6a3866ea9532a53ebe1a5a6"
+    },
     {
       "sha": "ff6976e8c6",
       "message": "fix(tests): Fix flaky tests and add reusable test infrastructure (#399)",
@@ -912,6 +920,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f3948babc6",
+      "message": "chore(deps): bump taiki-e/install-action from 2.79.7 to 2.79.8 in the patch-updates group (#413)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/413",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/f3948babc6a3d3a12a3391e36862f154f23b8e4f"
+    },
     {
       "sha": "3f1dbad0f1",
       "message": "chore(deps): bump taiki-e/install-action from 2.79.1 to 2.79.7 in the patch-updates group (#410)",

@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 844,
+  "score": 846,
   "commit_count": 184,
-  "review_count": 660,
+  "review_count": 662,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1490,6 +1490,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "93e84bdbe5",
+      "message": "Remove references to closed Discord channel (#3722)",
+      "date": "2026-05-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3722",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/93e84bdbe58ebe2b491442fb0341381b85ecc8dd"
+    },
+    {
+      "sha": "ed1d6f9e83",
+      "message": "Add events page intro (meetup, asana form), new events, and sort order (#504)",
+      "date": "2026-05-26",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/504",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/ed1d6f9e830167b67aac4e3d84faf9c4187f6a7d"
+    },
     {
       "sha": "42765b2ff6",
       "message": "Fix integer overflow in WAIT and WAITAOF numreplicas parameter (#3407)",

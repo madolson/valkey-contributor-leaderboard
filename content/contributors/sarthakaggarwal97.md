@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 291,
-  "commit_count": 85,
-  "review_count": 206,
+  "score": 293,
+  "commit_count": 86,
+  "review_count": 207,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "93e84bdbe5",
+      "message": "Remove references to closed Discord channel (#3722)",
+      "date": "2026-05-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3722",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/93e84bdbe58ebe2b491442fb0341381b85ecc8dd"
+    },
     {
       "sha": "00c4d3a9ae",
       "message": "Record valkey commit SHA in fuzzer artifacts manifest (#103)",
@@ -694,6 +702,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "12e12c6cb5",
+      "message": "Add on-demand parameterized benchmark workflow for PRs (#3433)",
+      "date": "2026-05-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3433",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/12e12c6cb56d77e5bb26d2adae8777ec183897f0"
+    },
     {
       "sha": "d9ba5aba38",
       "message": "Improved Tcl stacktraces (#3612)",

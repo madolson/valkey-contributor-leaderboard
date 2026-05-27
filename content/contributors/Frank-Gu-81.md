@@ -2,13 +2,21 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "2dc8e1f6a2",
+      "message": "Add SCORE_FIELD support and SCORE range validation to FT.CREATE (#1008)",
+      "date": "2026-05-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1008",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2dc8e1f6a273f945e54828731c59a8db68983481"
+    },
     {
       "sha": "153e037b44",
       "message": "fix test_dropindex_with_background_queries heap-use-after-free leak (#961)",

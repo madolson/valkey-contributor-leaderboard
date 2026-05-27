@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 57,
+  "score": 60,
   "commit_count": 19,
-  "review_count": 38,
+  "review_count": 41,
   "repos": [
     "valkey",
     "valkey-operator"
@@ -164,6 +164,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f7f193738f",
+      "message": "fix: handle fragmented slot ranges in assignSlotsToPendingPrimaries (#196)",
+      "date": "2026-05-26",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/196",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/f7f193738ffb4716df6a2d4cd32e804bdc077c3a"
+    },
+    {
+      "sha": "6985556263",
+      "message": "Filter informer cache to operator-managed resources only (#194)",
+      "date": "2026-05-26",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/194",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6985556263b6d60d9ba5fc014bb2963012ce1306"
+    },
+    {
+      "sha": "edecf1be7a",
+      "message": "perf: pipeline getNodeState to save valkey roundtrips (#195)",
+      "date": "2026-05-26",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/195",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/edecf1be7aa31e62777892cb622b37306a20d7a7"
+    },
     {
       "sha": "080ba9d87f",
       "message": "chore: remove ConfigMap suffix from managed resource names (#190)",

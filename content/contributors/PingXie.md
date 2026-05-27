@@ -2,9 +2,9 @@
   "title": "PingXie",
   "login": "PingXie",
   "avatar_url": "https://avatars.githubusercontent.com/u/11568491?v=4",
-  "score": 201,
+  "score": 202,
   "commit_count": 10,
-  "review_count": 191,
+  "review_count": 192,
   "repos": [
     "valkey",
     "valkey-go",
@@ -93,6 +93,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8ee3fd704c",
+      "message": "Trigger cluster state update immediately when cluster-require-full-coverage changes (#3676)",
+      "date": "2026-05-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3676",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8ee3fd704ce3d42854cae55005433ff711206015"
+    },
     {
       "sha": "9e0303bc53",
       "message": "Revert #3088 (#3137)",

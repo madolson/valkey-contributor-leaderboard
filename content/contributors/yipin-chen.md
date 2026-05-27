@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 720,
+  "score": 722,
   "commit_count": 45,
-  "review_count": 675,
+  "review_count": 677,
   "repos": [
     "valkey-glide"
   ],
@@ -372,12 +372,28 @@
   ],
   "review_list": [
     {
+      "sha": "67feff5175",
+      "message": "Core: Phase 2 client-side caching - server-assisted invalidation via CLIENT TRACKING (#5962)",
+      "date": "2026-05-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5962",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67feff51757d609570832e99b3fcd5d0fd243b4a"
+    },
+    {
       "sha": "5233c40c4b",
       "message": "Python: Include _fast_response extension in glide-sync wheel (#6015)",
       "date": "2026-05-26",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6015",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5233c40c4bf14407d78bc66649ee13f2a1ead048"
+    },
+    {
+      "sha": "87c9991c1e",
+      "message": "Implement connection refresh on circular moved (#5893)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5893",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/87c9991c1e77e3968f14f443e2f05222d4b9c410"
     },
     {
       "sha": "efccf41d18",

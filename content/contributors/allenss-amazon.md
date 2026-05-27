@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 237,
-  "commit_count": 50,
+  "score": 238,
+  "commit_count": 51,
   "review_count": 187,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "66bbdce0c1",
+      "message": "Fix compatibility test suite (#1009)",
+      "date": "2026-05-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1009",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/66bbdce0c16c2991e0a26258f2c3f8f497684b7c"
+    },
     {
       "sha": "1b85d1acce",
       "message": "Fix RunByMain shutdown leak by draining pending one-shots (#1029)",

@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 103,
+  "score": 105,
   "commit_count": 38,
-  "review_count": 65,
+  "review_count": 67,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -320,6 +320,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "93ba228151",
+      "message": "Go: Add MIGRATE command support (#5935)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5935",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/93ba228151f67d41195de0b54a5fbdb471d417fb"
+    },
+    {
+      "sha": "4165bf6c53",
+      "message": "Node.js: Add MIGRATE command support (#5934)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5934",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4165bf6c538f350d21bf642a02a4107ddb3a90f1"
+    },
     {
       "sha": "343145f0b6",
       "message": "Python: Fix sync client FFI signature mismatch for address resolver (#6013)",

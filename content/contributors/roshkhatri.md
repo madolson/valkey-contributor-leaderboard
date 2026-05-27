@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 347,
-  "commit_count": 134,
-  "review_count": 213,
+  "score": 349,
+  "commit_count": 135,
+  "review_count": 214,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -19,6 +19,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "12e12c6cb5",
+      "message": "Add on-demand parameterized benchmark workflow for PRs (#3433)",
+      "date": "2026-05-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3433",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/12e12c6cb56d77e5bb26d2adae8777ec183897f0"
+    },
     {
       "sha": "67f4e198ea",
       "message": "Remove update-try-valkey from website update (#54)",
@@ -1093,6 +1101,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ddadbdf5df",
+      "message": "docs: Add clang-format setup and usage instructions to CONTRIBUTING.md (#3590)",
+      "date": "2026-05-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3590",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ddadbdf5df2dc3c2f6af67e21091a77b548e9021"
+    },
     {
       "sha": "8d3e6c306b",
       "message": "Fix \"time_t' different  typedef  on 32-bit /64-bit systems (#3787)",

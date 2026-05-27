@@ -2,15 +2,24 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 37,
-  "commit_count": 8,
+  "score": 38,
+  "commit_count": 9,
   "review_count": 29,
   "repos": [
     "valkey",
     "valkey-doc",
-    "valkey-glide"
+    "valkey-glide",
+    "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "edecf1be7a",
+      "message": "perf: pipeline getNodeState to save valkey roundtrips (#195)",
+      "date": "2026-05-26",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/195",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/edecf1be7aa31e62777892cb622b37306a20d7a7"
+    },
     {
       "sha": "c6af7b1ba4",
       "message": "Update valkey-go's client_capa_redirect feature (#369)",

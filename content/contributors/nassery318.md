@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 107,
-  "commit_count": 93,
+  "score": 108,
+  "commit_count": 94,
   "review_count": 14,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "ff5ecd06e7",
+      "message": "upgraded glide client from 2.3.1 to latest 2.4.0 (#359)",
+      "date": "2026-05-26",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/359",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/ff5ecd06e7af5045a7dc399134bb6521297544f1"
+    },
     {
       "sha": "db96bb1568",
       "message": "restricting destructive commands that cause server issues (#358)",

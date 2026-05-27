@@ -2,9 +2,9 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 239,
+  "score": 240,
   "commit_count": 90,
-  "review_count": 149,
+  "review_count": 150,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -743,6 +743,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "12e12c6cb5",
+      "message": "Add on-demand parameterized benchmark workflow for PRs (#3433)",
+      "date": "2026-05-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3433",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/12e12c6cb56d77e5bb26d2adae8777ec183897f0"
+    },
     {
       "sha": "00c4d3a9ae",
       "message": "Record valkey commit SHA in fuzzer artifacts manifest (#103)",

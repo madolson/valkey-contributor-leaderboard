@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 122,
-  "commit_count": 66,
+  "score": 126,
+  "commit_count": 70,
   "review_count": 56,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,38 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "67feff5175",
+      "message": "Core: Phase 2 client-side caching - server-assisted invalidation via CLIENT TRACKING (#5962)",
+      "date": "2026-05-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5962",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67feff51757d609570832e99b3fcd5d0fd243b4a"
+    },
+    {
+      "sha": "93ba228151",
+      "message": "Go: Add MIGRATE command support (#5935)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5935",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/93ba228151f67d41195de0b54a5fbdb471d417fb"
+    },
+    {
+      "sha": "4165bf6c53",
+      "message": "Node.js: Add MIGRATE command support (#5934)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5934",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4165bf6c538f350d21bf642a02a4107ddb3a90f1"
+    },
+    {
+      "sha": "7a822d45e7",
+      "message": "Support custom socket address resolution (#392)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/392",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/7a822d45e7dd0338144cf2f381dec193cf4690c0"
+    },
     {
       "sha": "79a15517a2",
       "message": "Go: Support custom socket address resolution (#5891)",

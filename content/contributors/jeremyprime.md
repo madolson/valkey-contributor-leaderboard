@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 124,
+  "score": 125,
   "commit_count": 31,
-  "review_count": 93,
+  "review_count": 94,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -261,6 +261,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "67feff5175",
+      "message": "Core: Phase 2 client-side caching - server-assisted invalidation via CLIENT TRACKING (#5962)",
+      "date": "2026-05-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5962",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67feff51757d609570832e99b3fcd5d0fd243b4a"
+    },
     {
       "sha": "de63653007",
       "message": "Cherry pick #5952 to main: Java: Add a synchronous check on inflight request limits before submitting tasks (#5976)",

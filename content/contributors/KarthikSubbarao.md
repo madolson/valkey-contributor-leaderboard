@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 250,
+  "score": 252,
   "commit_count": 93,
-  "review_count": 157,
+  "review_count": 159,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -761,6 +761,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "66bbdce0c1",
+      "message": "Fix compatibility test suite (#1009)",
+      "date": "2026-05-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1009",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/66bbdce0c16c2991e0a26258f2c3f8f497684b7c"
+    },
+    {
+      "sha": "2dc8e1f6a2",
+      "message": "Add SCORE_FIELD support and SCORE range validation to FT.CREATE (#1008)",
+      "date": "2026-05-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1008",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2dc8e1f6a273f945e54828731c59a8db68983481"
+    },
     {
       "sha": "712a1d7eea",
       "message": "remove 'validate_scale_to' check in replica (#94)",

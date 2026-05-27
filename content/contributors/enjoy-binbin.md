@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 850,
-  "commit_count": 330,
-  "review_count": 520,
+  "score": 853,
+  "commit_count": 331,
+  "review_count": 522,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "8ee3fd704c",
+      "message": "Trigger cluster state update immediately when cluster-require-full-coverage changes (#3676)",
+      "date": "2026-05-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3676",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8ee3fd704ce3d42854cae55005433ff711206015"
+    },
     {
       "sha": "42765b2ff6",
       "message": "Fix integer overflow in WAIT and WAITAOF numreplicas parameter (#3407)",
@@ -2655,6 +2663,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "93e84bdbe5",
+      "message": "Remove references to closed Discord channel (#3722)",
+      "date": "2026-05-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3722",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/93e84bdbe58ebe2b491442fb0341381b85ecc8dd"
+    },
+    {
+      "sha": "ddadbdf5df",
+      "message": "docs: Add clang-format setup and usage instructions to CONTRIBUTING.md (#3590)",
+      "date": "2026-05-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3590",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ddadbdf5df2dc3c2f6af67e21091a77b548e9021"
+    },
     {
       "sha": "d9ba5aba38",
       "message": "Improved Tcl stacktraces (#3612)",

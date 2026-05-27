@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1142,
+  "score": 1147,
   "commit_count": 152,
-  "review_count": 990,
+  "review_count": 995,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1231,6 +1231,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8ee3fd704c",
+      "message": "Trigger cluster state update immediately when cluster-require-full-coverage changes (#3676)",
+      "date": "2026-05-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3676",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8ee3fd704ce3d42854cae55005433ff711206015"
+    },
+    {
+      "sha": "8ee3fd704c",
+      "message": "Trigger cluster state update immediately when cluster-require-full-coverage changes (#3676)",
+      "date": "2026-05-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3676",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8ee3fd704ce3d42854cae55005433ff711206015"
+    },
+    {
+      "sha": "12e12c6cb5",
+      "message": "Add on-demand parameterized benchmark workflow for PRs (#3433)",
+      "date": "2026-05-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3433",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/12e12c6cb56d77e5bb26d2adae8777ec183897f0"
+    },
+    {
+      "sha": "12e12c6cb5",
+      "message": "Add on-demand parameterized benchmark workflow for PRs (#3433)",
+      "date": "2026-05-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3433",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/12e12c6cb56d77e5bb26d2adae8777ec183897f0"
+    },
+    {
+      "sha": "ddadbdf5df",
+      "message": "docs: Add clang-format setup and usage instructions to CONTRIBUTING.md (#3590)",
+      "date": "2026-05-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3590",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ddadbdf5df2dc3c2f6af67e21091a77b548e9021"
+    },
     {
       "sha": "42765b2ff6",
       "message": "Fix integer overflow in WAIT and WAITAOF numreplicas parameter (#3407)",

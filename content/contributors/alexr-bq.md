@@ -2,15 +2,23 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 158,
-  "commit_count": 38,
-  "review_count": 120,
+  "score": 161,
+  "commit_count": 39,
+  "review_count": 122,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "87c9991c1e",
+      "message": "Implement connection refresh on circular moved (#5893)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5893",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/87c9991c1e77e3968f14f443e2f05222d4b9c410"
+    },
     {
       "sha": "af028806fe",
       "message": "Compression Bugfixes (#5895)",
@@ -317,6 +325,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7a822d45e7",
+      "message": "Support custom socket address resolution (#392)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/392",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/7a822d45e7dd0338144cf2f381dec193cf4690c0"
+    },
+    {
+      "sha": "f3948babc6",
+      "message": "chore(deps): bump taiki-e/install-action from 2.79.7 to 2.79.8 in the patch-updates group (#413)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/413",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/f3948babc6a3d3a12a3391e36862f154f23b8e4f"
+    },
+    {
+      "sha": "194cdba365",
+      "message": "Clean up `dependabot` configuration (#412)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/412",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/194cdba365afe49ad6a3866ea9532a53ebe1a5a6"
+    },
     {
       "sha": "3f1dbad0f1",
       "message": "chore(deps): bump taiki-e/install-action from 2.79.1 to 2.79.7 in the patch-updates group (#410)",

@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 226,
+  "score": 227,
   "commit_count": 51,
-  "review_count": 175,
+  "review_count": 176,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -422,6 +422,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "87c9991c1e",
+      "message": "Implement connection refresh on circular moved (#5893)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5893",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/87c9991c1e77e3968f14f443e2f05222d4b9c410"
+    },
     {
       "sha": "cfd91a5254",
       "message": "Core: Add dedicated timeout watchdog thread independent of Tokio runtime (#5917)",

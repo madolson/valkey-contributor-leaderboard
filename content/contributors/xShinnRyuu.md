@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 244,
+  "score": 248,
   "commit_count": 55,
-  "review_count": 189,
+  "review_count": 193,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -452,6 +452,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "93ba228151",
+      "message": "Go: Add MIGRATE command support (#5935)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5935",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/93ba228151f67d41195de0b54a5fbdb471d417fb"
+    },
+    {
+      "sha": "4165bf6c53",
+      "message": "Node.js: Add MIGRATE command support (#5934)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5934",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4165bf6c538f350d21bf642a02a4107ddb3a90f1"
+    },
+    {
+      "sha": "7a822d45e7",
+      "message": "Support custom socket address resolution (#392)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/392",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/7a822d45e7dd0338144cf2f381dec193cf4690c0"
+    },
+    {
+      "sha": "194cdba365",
+      "message": "Clean up `dependabot` configuration (#412)",
+      "date": "2026-05-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/412",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/194cdba365afe49ad6a3866ea9532a53ebe1a5a6"
+    },
     {
       "sha": "3f1dbad0f1",
       "message": "chore(deps): bump taiki-e/install-action from 2.79.1 to 2.79.7 in the patch-updates group (#410)",

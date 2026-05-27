@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 201,
+  "score": 202,
   "commit_count": 19,
-  "review_count": 182,
+  "review_count": 183,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ff5ecd06e7",
+      "message": "upgraded glide client from 2.3.1 to latest 2.4.0 (#359)",
+      "date": "2026-05-26",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/359",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/ff5ecd06e7af5045a7dc399134bb6521297544f1"
+    },
     {
       "sha": "db96bb1568",
       "message": "restricting destructive commands that cause server issues (#358)",

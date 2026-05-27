@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 56,
+  "score": 57,
   "commit_count": 38,
-  "review_count": 18,
+  "review_count": 19,
   "repos": [
     "valkey-bloom",
     "valkey-doc",
@@ -320,6 +320,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2dc8e1f6a2",
+      "message": "Add SCORE_FIELD support and SCORE range validation to FT.CREATE (#1008)",
+      "date": "2026-05-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1008",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2dc8e1f6a273f945e54828731c59a8db68983481"
+    },
     {
       "sha": "712a1d7eea",
       "message": "remove 'validate_scale_to' check in replica (#94)",

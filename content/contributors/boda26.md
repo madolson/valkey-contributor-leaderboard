@@ -2,9 +2,9 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 63,
+  "score": 64,
   "commit_count": 38,
-  "review_count": 25,
+  "review_count": 26,
   "repos": [
     "valkey-search"
   ],
@@ -315,6 +315,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2dc8e1f6a2",
+      "message": "Add SCORE_FIELD support and SCORE range validation to FT.CREATE (#1008)",
+      "date": "2026-05-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1008",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2dc8e1f6a273f945e54828731c59a8db68983481"
+    },
     {
       "sha": "1b85d1acce",
       "message": "Fix RunByMain shutdown leak by draining pending one-shots (#1029)",

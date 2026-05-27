@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 185,
-  "commit_count": 101,
-  "review_count": 84,
+  "score": 188,
+  "commit_count": 103,
+  "review_count": 85,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,22 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "f7f193738f",
+      "message": "fix: handle fragmented slot ranges in assignSlotsToPendingPrimaries (#196)",
+      "date": "2026-05-26",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/196",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/f7f193738ffb4716df6a2d4cd32e804bdc077c3a"
+    },
+    {
+      "sha": "6985556263",
+      "message": "Filter informer cache to operator-managed resources only (#194)",
+      "date": "2026-05-26",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/194",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6985556263b6d60d9ba5fc014bb2963012ce1306"
+    },
     {
       "sha": "8421ca3426",
       "message": "fixup: update chart version and add changelog file",
@@ -823,6 +839,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "edecf1be7a",
+      "message": "perf: pipeline getNodeState to save valkey roundtrips (#195)",
+      "date": "2026-05-26",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/195",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/edecf1be7aa31e62777892cb622b37306a20d7a7"
+    },
     {
       "sha": "0289b2f41a",
       "message": "chore: Add prefix to headless service resource (#189)",
