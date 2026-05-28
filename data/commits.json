@@ -149211,6 +149211,237 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1008"
+    },
+    {
+      "sha": "fde41abe5924056c39ef9ef294ee67acec4aaceb",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "Add AGENTS.md file (#79)",
+      "date": "2026-05-27T17:14:31Z",
+      "repo": "spring-data-valkey",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-05-27T17:03:08Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/79"
+    },
+    {
+      "sha": "c1dbcde71c1855354d7c33662db9833aa571fd65",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "Add missing actuator config (#80)",
+      "date": "2026-05-27T17:14:10Z",
+      "repo": "spring-data-valkey",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-05-26T21:09:48Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/80"
+    },
+    {
+      "sha": "6c146c2c58db23d79e0b7b82fd20683cad3d0afd",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "Change cluster client aggregation to test minimum clients not exact (#72)",
+      "date": "2026-05-27T17:13:48Z",
+      "repo": "spring-data-valkey",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-05-26T21:53:09Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/72"
+    },
+    {
+      "sha": "7c3821f188773115f475e89d0c35f493e604d5cc",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Add full sync function test case for CVE-2026-23631 (#3795)",
+      "date": "2026-05-28T07:10:50Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-05-25T14:22:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3795"
+    },
+    {
+      "sha": "e4fdae45ab0d7f3867c55e44515762cf6f805d63",
+      "author_login": "jjuleslasarte",
+      "author_id": 140852041,
+      "avatar_url": "https://avatars.githubusercontent.com/u/140852041?v=4",
+      "message": "Force listpack validation on load to prevent deferred assertions (#3721)",
+      "date": "2026-05-27T17:12:59Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-05-27T15:11:09Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3721"
+    },
+    {
+      "sha": "ce9de18d42d598a84d6b54be0584fa75a69fb451",
+      "author_login": "nassery318",
+      "author_id": 86083902,
+      "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
+      "message": "added the command auto complete feature (#361)",
+      "date": "2026-05-27T18:48:05Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "arseny-kostenko",
+          "date": "2026-05-27T18:39:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/361"
+    },
+    {
+      "sha": "a88b9b55d373e18da71de2e9bbe90e8843543b9b",
+      "author_login": "roshkhatri",
+      "author_id": 117414976,
+      "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
+      "message": "Automated Updates for Valkey Bundle (#113)",
+      "date": "2026-05-27T18:37:24Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-05-19T21:13:22Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/113"
+    },
+    {
+      "sha": "14e29b4ebdf83bf15755121a6e39638a6681329e",
+      "author_login": "affonsov",
+      "author_id": 67347924,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
+      "message": "Python: Add MIGRATE command support (#5933)",
+      "date": "2026-05-27T23:01:37Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-05-13T18:34:40Z"
+        },
+        {
+          "login": "alexr-bq",
+          "date": "2026-05-22T17:36:03Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5933"
+    },
+    {
+      "sha": "8b1be23d887530e9836b44f33cbdc1ed69a41eb7",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "fix: Correct client info default values (#415)",
+      "date": "2026-05-27T18:52:45Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "alexr-bq",
+          "date": "2026-05-26T23:21:38Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-05-26T23:39:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/415"
+    },
+    {
+      "sha": "095b5c789ed5b19383081a5fd865d90276cd0da1",
+      "author_login": "alexey-temnikov",
+      "author_id": 7035336,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
+      "message": "ci: harden external link check against transient TLS/network flakes (#218)",
+      "date": "2026-05-27T16:47:40Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-05-27T16:47:25Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/218"
+    },
+    {
+      "sha": "98825542debea324e3913efe4e2ed7d8bbe6b54c",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "Updated deployment workflow to run on each commit to main (#220)",
+      "date": "2026-05-27T16:46:33Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "4451d0b692a5d1edea9afc782e23338ddb29c8c2",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "PHP: Update lib-name and lib version (#210)",
+      "date": "2026-05-27T22:11:01Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-05-27T18:44:39Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-05-27T21:53:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/210"
+    },
+    {
+      "sha": "2b7d06b2ff92920cf2f26aba83ec6a11190d635b",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "feat: add watch-namespace flag to filter namespaces to watch for resources (#175)",
+      "date": "2026-05-27T22:16:02Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-05-27T21:15:19Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/175"
+    },
+    {
+      "sha": "6e04a99e03cb42f455893ca66b349f11d24d985d",
+      "author_login": "bjosv",
+      "author_id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "message": "Set config epoch on new nodes before MEET to prevent slot loss (#197)",
+      "date": "2026-05-27T18:14:08Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-05-27T18:13:57Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/197"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 248,
+  "score": 250,
   "commit_count": 55,
-  "review_count": 193,
+  "review_count": 195,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -452,6 +452,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6c146c2c58",
+      "message": "Change cluster client aggregation to test minimum clients not exact (#72)",
+      "date": "2026-05-27",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/72",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/6c146c2c58db23d79e0b7b82fd20683cad3d0afd"
+    },
+    {
+      "sha": "14e29b4ebd",
+      "message": "Python: Add MIGRATE command support (#5933)",
+      "date": "2026-05-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5933",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/14e29b4ebdf83bf15755121a6e39638a6681329e"
+    },
     {
       "sha": "93ba228151",
       "message": "Go: Add MIGRATE command support (#5935)",

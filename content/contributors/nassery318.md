@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 108,
-  "commit_count": 94,
+  "score": 109,
+  "commit_count": 95,
   "review_count": 14,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "ce9de18d42",
+      "message": "added the command auto complete feature (#361)",
+      "date": "2026-05-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/361",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/ce9de18d42d598a84d6b54be0584fa75a69fb451"
+    },
     {
       "sha": "ff5ecd06e7",
       "message": "upgraded glide client from 2.3.1 to latest 2.4.0 (#359)",

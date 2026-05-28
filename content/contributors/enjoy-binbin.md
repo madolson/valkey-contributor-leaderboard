@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 853,
-  "commit_count": 331,
+  "score": 854,
+  "commit_count": 332,
   "review_count": 522,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "7c3821f188",
+      "message": "Add full sync function test case for CVE-2026-23631 (#3795)",
+      "date": "2026-05-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3795",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7c3821f188773115f475e89d0c35f493e604d5cc"
+    },
     {
       "sha": "8ee3fd704c",
       "message": "Trigger cluster state update immediately when cluster-require-full-coverage changes (#3676)",

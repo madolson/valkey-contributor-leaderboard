@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1147,
+  "score": 1149,
   "commit_count": 152,
-  "review_count": 995,
+  "review_count": 997,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1232,6 +1232,14 @@
   ],
   "review_list": [
     {
+      "sha": "7c3821f188",
+      "message": "Add full sync function test case for CVE-2026-23631 (#3795)",
+      "date": "2026-05-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3795",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7c3821f188773115f475e89d0c35f493e604d5cc"
+    },
+    {
       "sha": "8ee3fd704c",
       "message": "Trigger cluster state update immediately when cluster-require-full-coverage changes (#3676)",
       "date": "2026-05-27",
@@ -1246,6 +1254,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3676",
       "commit_url": "https://github.com/valkey-io/valkey/commit/8ee3fd704ce3d42854cae55005433ff711206015"
+    },
+    {
+      "sha": "e4fdae45ab",
+      "message": "Force listpack validation on load to prevent deferred assertions (#3721)",
+      "date": "2026-05-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3721",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e4fdae45ab0d7f3867c55e44515762cf6f805d63"
     },
     {
       "sha": "12e12c6cb5",

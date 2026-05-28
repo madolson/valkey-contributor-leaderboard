@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 126,
-  "commit_count": 70,
+  "score": 127,
+  "commit_count": 71,
   "review_count": 56,
   "repos": [
     "valkey-glide",
@@ -19,6 +19,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5962",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67feff51757d609570832e99b3fcd5d0fd243b4a"
+    },
+    {
+      "sha": "14e29b4ebd",
+      "message": "Python: Add MIGRATE command support (#5933)",
+      "date": "2026-05-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5933",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/14e29b4ebdf83bf15755121a6e39638a6681329e"
     },
     {
       "sha": "93ba228151",

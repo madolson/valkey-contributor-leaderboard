@@ -2,8 +2,8 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 125,
-  "commit_count": 31,
+  "score": 128,
+  "commit_count": 34,
   "review_count": 94,
   "repos": [
     "spring-data-valkey",
@@ -11,6 +11,30 @@
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "fde41abe59",
+      "message": "Add AGENTS.md file (#79)",
+      "date": "2026-05-27",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/79",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/fde41abe5924056c39ef9ef294ee67acec4aaceb"
+    },
+    {
+      "sha": "c1dbcde71c",
+      "message": "Add missing actuator config (#80)",
+      "date": "2026-05-27",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/80",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/c1dbcde71c1855354d7c33662db9833aa571fd65"
+    },
+    {
+      "sha": "6c146c2c58",
+      "message": "Change cluster client aggregation to test minimum clients not exact (#72)",
+      "date": "2026-05-27",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/72",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/6c146c2c58db23d79e0b7b82fd20683cad3d0afd"
+    },
     {
       "sha": "cfd91a5254",
       "message": "Core: Add dedicated timeout watchdog thread independent of Tokio runtime (#5917)",

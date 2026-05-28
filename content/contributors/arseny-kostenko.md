@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 202,
+  "score": 203,
   "commit_count": 19,
-  "review_count": 183,
+  "review_count": 184,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ce9de18d42",
+      "message": "added the command auto complete feature (#361)",
+      "date": "2026-05-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/361",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/ce9de18d42d598a84d6b54be0584fa75a69fb451"
+    },
     {
       "sha": "ff5ecd06e7",
       "message": "upgraded glide client from 2.3.1 to latest 2.4.0 (#359)",

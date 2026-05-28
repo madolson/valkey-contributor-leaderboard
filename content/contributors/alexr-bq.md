@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 161,
+  "score": 163,
   "commit_count": 39,
-  "review_count": 122,
+  "review_count": 124,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -325,6 +325,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "14e29b4ebd",
+      "message": "Python: Add MIGRATE command support (#5933)",
+      "date": "2026-05-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5933",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/14e29b4ebdf83bf15755121a6e39638a6681329e"
+    },
+    {
+      "sha": "8b1be23d88",
+      "message": "fix: Correct client info default values (#415)",
+      "date": "2026-05-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/415",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8b1be23d887530e9836b44f33cbdc1ed69a41eb7"
+    },
     {
       "sha": "7a822d45e7",
       "message": "Support custom socket address resolution (#392)",

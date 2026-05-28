@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 722,
+  "score": 724,
   "commit_count": 45,
-  "review_count": 677,
+  "review_count": 679,
   "repos": [
     "valkey-glide"
   ],
@@ -378,6 +378,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5962",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67feff51757d609570832e99b3fcd5d0fd243b4a"
+    },
+    {
+      "sha": "8b1be23d88",
+      "message": "fix: Correct client info default values (#415)",
+      "date": "2026-05-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/415",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8b1be23d887530e9836b44f33cbdc1ed69a41eb7"
+    },
+    {
+      "sha": "4451d0b692",
+      "message": "PHP: Update lib-name and lib version (#210)",
+      "date": "2026-05-27",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/210",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/4451d0b692a5d1edea9afc782e23338ddb29c8c2"
     },
     {
       "sha": "5233c40c4b",

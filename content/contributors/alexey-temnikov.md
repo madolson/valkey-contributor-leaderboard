@@ -2,8 +2,8 @@
   "title": "alexey-temnikov",
   "login": "alexey-temnikov",
   "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
-  "score": 20,
-  "commit_count": 11,
+  "score": 21,
+  "commit_count": 12,
   "review_count": 9,
   "repos": [
     "valkey-admin",
@@ -12,6 +12,14 @@
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "095b5c789e",
+      "message": "ci: harden external link check against transient TLS/network flakes (#218)",
+      "date": "2026-05-27",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/218",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/095b5c789ed5b19383081a5fd865d90276cd0da1"
+    },
     {
       "sha": "4f224885fb",
       "message": "docs(client-side-caching): clarify TTL-only limits and managed-service compatibility (#216)",

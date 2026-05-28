@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 105,
+  "score": 108,
   "commit_count": 38,
-  "review_count": 67,
+  "review_count": 70,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -320,6 +320,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fde41abe59",
+      "message": "Add AGENTS.md file (#79)",
+      "date": "2026-05-27",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/79",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/fde41abe5924056c39ef9ef294ee67acec4aaceb"
+    },
+    {
+      "sha": "c1dbcde71c",
+      "message": "Add missing actuator config (#80)",
+      "date": "2026-05-27",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/80",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/c1dbcde71c1855354d7c33662db9833aa571fd65"
+    },
+    {
+      "sha": "095b5c789e",
+      "message": "ci: harden external link check against transient TLS/network flakes (#218)",
+      "date": "2026-05-27",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/218",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/095b5c789ed5b19383081a5fd865d90276cd0da1"
+    },
     {
       "sha": "93ba228151",
       "message": "Go: Add MIGRATE command support (#5935)",

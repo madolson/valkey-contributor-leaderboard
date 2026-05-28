@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 188,
-  "commit_count": 103,
-  "review_count": 85,
+  "score": 190,
+  "commit_count": 104,
+  "review_count": 86,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "6e04a99e03",
+      "message": "Set config epoch on new nodes before MEET to prevent slot loss (#197)",
+      "date": "2026-05-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/197",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6e04a99e03cb42f455893ca66b349f11d24d985d"
+    },
     {
       "sha": "f7f193738f",
       "message": "fix: handle fragmented slot ranges in assignSlotsToPendingPrimaries (#196)",
@@ -839,6 +847,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2b7d06b2ff",
+      "message": "feat: add watch-namespace flag to filter namespaces to watch for resources (#175)",
+      "date": "2026-05-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/175",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2b7d06b2ff92920cf2f26aba83ec6a11190d635b"
+    },
     {
       "sha": "edecf1be7a",
       "message": "perf: pipeline getNodeState to save valkey roundtrips (#195)",
