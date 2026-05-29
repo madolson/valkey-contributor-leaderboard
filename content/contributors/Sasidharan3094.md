@@ -2,14 +2,22 @@
   "title": "Sasidharan3094",
   "login": "Sasidharan3094",
   "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
-  "score": 32,
-  "commit_count": 20,
-  "review_count": 12,
+  "score": 34,
+  "commit_count": 21,
+  "review_count": 13,
   "repos": [
     "valkey-glide",
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "1904698a83",
+      "message": "Adding documentation and examples (#94)",
+      "date": "2026-05-28",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/94",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/1904698a83f4b528001090b8497f734ecc3bc830"
+    },
     {
       "sha": "acd8b0f9bc",
       "message": "Fixing ruby standalone tests and hash command reorder (#91)",
@@ -172,6 +180,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6aabe92f48",
+      "message": "Modify Repo to use submodule + Add CD pipeline (#95)",
+      "date": "2026-05-28",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/95",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6aabe92f48345af36f20f463541e8c7860a5f0ad"
+    },
     {
       "sha": "c3ea5f5c51",
       "message": "Setting blocking paramter while creating connection (#93)",

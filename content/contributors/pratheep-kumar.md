@@ -2,9 +2,9 @@
   "title": "pratheep-kumar",
   "login": "pratheep-kumar",
   "avatar_url": "https://avatars.githubusercontent.com/u/40911083?v=4",
-  "score": 33,
+  "score": 34,
   "commit_count": 17,
-  "review_count": 16,
+  "review_count": 17,
   "repos": [
     "valkey-glide",
     "valkey-glide-ruby"
@@ -148,6 +148,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1904698a83",
+      "message": "Adding documentation and examples (#94)",
+      "date": "2026-05-28",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/94",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/1904698a83f4b528001090b8497f734ecc3bc830"
+    },
     {
       "sha": "acd8b0f9bc",
       "message": "Fixing ruby standalone tests and hash command reorder (#91)",

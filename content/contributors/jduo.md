@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 227,
+  "score": 229,
   "commit_count": 51,
-  "review_count": 176,
+  "review_count": 178,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -422,6 +422,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b16a9019c0",
+      "message": "Core: track post-RESET connection state in handle_reset_command (#5959)",
+      "date": "2026-05-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5959",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b16a9019c0200626afa172968ae8d3b4ee359e86"
+    },
+    {
+      "sha": "6aabe92f48",
+      "message": "Modify Repo to use submodule + Add CD pipeline (#95)",
+      "date": "2026-05-28",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/95",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6aabe92f48345af36f20f463541e8c7860a5f0ad"
+    },
     {
       "sha": "87c9991c1e",
       "message": "Implement connection refresh on circular moved (#5893)",

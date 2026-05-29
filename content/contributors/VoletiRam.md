@@ -2,9 +2,9 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 32,
+  "score": 34,
   "commit_count": 20,
-  "review_count": 12,
+  "review_count": 14,
   "repos": [
     "valkey",
     "valkey-perf-benchmark",
@@ -174,6 +174,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5ee719c5ce",
+      "message": "Fix flakey mrmwmutex test (#863)",
+      "date": "2026-05-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/863",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5ee719c5cee6b8d2b647e2d7b51e57ee084f8c65"
+    },
+    {
+      "sha": "1ab782074b",
+      "message": "Disable flaky test under ASAN. Memory usage patterns under ASAN make \u2026 (#1067)",
+      "date": "2026-05-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1067",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1ab782074bf9c97feb214958db379a5686fef343"
+    },
     {
       "sha": "de0bb244db",
       "message": "Slot Ownership check (#921)",

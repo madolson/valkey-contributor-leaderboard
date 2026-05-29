@@ -2,9 +2,9 @@
   "title": "EvgeniyPatlan",
   "login": "EvgeniyPatlan",
   "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
-  "score": 6,
+  "score": 7,
   "commit_count": 5,
-  "review_count": 1,
+  "review_count": 2,
   "repos": [
     "valkey-ldap",
     "valkey-luajit",
@@ -53,6 +53,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9afd47a6eb",
+      "message": "Delete packaging/common/debian/compat",
+      "date": "2026-05-28",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/57",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/9afd47a6ebc0dfeeda01fedd0971634084e76f70"
+    },
     {
       "sha": "15edca2217",
       "message": "Pin dependencies in GitHub Workflows and dockertest.sh (#132)",

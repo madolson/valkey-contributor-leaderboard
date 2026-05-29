@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 109,
-  "commit_count": 95,
+  "score": 110,
+  "commit_count": 96,
   "review_count": 14,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "d299a5077c",
+      "message": "extended the valkey commands list from 67 to 257 (#362)",
+      "date": "2026-05-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/362",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/d299a5077c1f5769396cb7ba00620f934c81f2dc"
+    },
     {
       "sha": "ce9de18d42",
       "message": "added the command auto complete feature (#361)",

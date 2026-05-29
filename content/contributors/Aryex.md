@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 108,
+  "score": 109,
   "commit_count": 38,
-  "review_count": 70,
+  "review_count": 71,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -320,6 +320,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3376878e26",
+      "message": "fix go docs after glideft refactor (#207)",
+      "date": "2026-05-28",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/207",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/3376878e26f42039ad2d0acea7ece7120f5995bc"
+    },
     {
       "sha": "fde41abe59",
       "message": "Add AGENTS.md file (#79)",

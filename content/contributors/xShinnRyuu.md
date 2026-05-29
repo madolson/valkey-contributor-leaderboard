@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 250,
+  "score": 254,
   "commit_count": 55,
-  "review_count": 195,
+  "review_count": 199,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -452,6 +452,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "103ebd3e6d",
+      "message": "Node.js: Add RESET command support (#5945)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5945",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/103ebd3e6da9a0fdb5cf80ad2ab8fb89335ea8ff"
+    },
+    {
+      "sha": "70a9ad0359",
+      "message": "Python: Add RESET command support (#5944)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5944",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/70a9ad035926fb3af2ed7745b183eec8e47f1caa"
+    },
+    {
+      "sha": "b16a9019c0",
+      "message": "Core: track post-RESET connection state in handle_reset_command (#5959)",
+      "date": "2026-05-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5959",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b16a9019c0200626afa172968ae8d3b4ee359e86"
+    },
+    {
+      "sha": "3376878e26",
+      "message": "fix go docs after glideft refactor (#207)",
+      "date": "2026-05-28",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/207",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/3376878e26f42039ad2d0acea7ece7120f5995bc"
+    },
     {
       "sha": "6c146c2c58",
       "message": "Change cluster client aggregation to test minimum clients not exact (#72)",

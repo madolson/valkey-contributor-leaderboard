@@ -2,15 +2,24 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 163,
-  "commit_count": 39,
-  "review_count": 124,
+  "score": 166,
+  "commit_count": 40,
+  "review_count": 126,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
-    "valkey-glide-php"
+    "valkey-glide-php",
+    "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "6aabe92f48",
+      "message": "Modify Repo to use submodule + Add CD pipeline (#95)",
+      "date": "2026-05-28",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/95",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6aabe92f48345af36f20f463541e8c7860a5f0ad"
+    },
     {
       "sha": "87c9991c1e",
       "message": "Implement connection refresh on circular moved (#5893)",
@@ -325,6 +334,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "103ebd3e6d",
+      "message": "Node.js: Add RESET command support (#5945)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5945",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/103ebd3e6da9a0fdb5cf80ad2ab8fb89335ea8ff"
+    },
+    {
+      "sha": "70a9ad0359",
+      "message": "Python: Add RESET command support (#5944)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5944",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/70a9ad035926fb3af2ed7745b183eec8e47f1caa"
+    },
     {
       "sha": "14e29b4ebd",
       "message": "Python: Add MIGRATE command support (#5933)",

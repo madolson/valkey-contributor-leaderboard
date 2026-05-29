@@ -149442,6 +149442,244 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/197"
+    },
+    {
+      "sha": "2035fb30c6250836a8ef5f18d7357cabedd5c41f",
+      "author_login": "zackcam",
+      "author_id": 181388575,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
+      "message": "Redacting customer information when hide_user_data_from_log is true in rdb.c, networking.c, debug.c and t_hash  (#3872)",
+      "date": "2026-05-29T06:02:20Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-05-29T05:10:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3872"
+    },
+    {
+      "sha": "d299a5077c1f5769396cb7ba00620f934c81f2dc",
+      "author_login": "nassery318",
+      "author_id": 86083902,
+      "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
+      "message": "extended the valkey commands list from 67 to 257 (#362)",
+      "date": "2026-05-28T19:17:55Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "arseny-kostenko",
+          "date": "2026-05-28T19:15:54Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/362"
+    },
+    {
+      "sha": "7056e606ef30cfd14a2254fa58198c78cebaa7a5",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Improve backport sweep validation handling (#16)",
+      "date": "2026-05-28T21:39:32Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "103ebd3e6da9a0fdb5cf80ad2ab8fb89335ea8ff",
+      "author_login": "affonsov",
+      "author_id": 67347924,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
+      "message": "Node.js: Add RESET command support (#5945)",
+      "date": "2026-05-29T06:45:42Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "alexr-bq",
+          "date": "2026-05-19T20:04:15Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-05-20T21:18:57Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5945"
+    },
+    {
+      "sha": "70a9ad035926fb3af2ed7745b183eec8e47f1caa",
+      "author_login": "affonsov",
+      "author_id": 67347924,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
+      "message": "Python: Add RESET command support (#5944)",
+      "date": "2026-05-29T00:34:44Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "alexr-bq",
+          "date": "2026-05-22T17:29:09Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-05-22T17:41:58Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5944"
+    },
+    {
+      "sha": "b16a9019c0200626afa172968ae8d3b4ee359e86",
+      "author_login": "affonsov",
+      "author_id": 67347924,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
+      "message": "Core: track post-RESET connection state in handle_reset_command (#5959)",
+      "date": "2026-05-28T21:50:32Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-05-22T15:51:03Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-05-27T23:42:35Z"
+        },
+        {
+          "login": "jduo",
+          "date": "2026-05-28T16:48:27Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5959"
+    },
+    {
+      "sha": "3376878e26f42039ad2d0acea7ece7120f5995bc",
+      "author_login": "edlng",
+      "author_id": 76571219,
+      "avatar_url": "https://avatars.githubusercontent.com/u/76571219?v=4",
+      "message": "fix go docs after glideft refactor (#207)",
+      "date": "2026-05-28T21:16:22Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-05-05T17:38:13Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-05-20T17:03:13Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/207"
+    },
+    {
+      "sha": "6aabe92f48345af36f20f463541e8c7860a5f0ad",
+      "author_login": "alexr-bq",
+      "author_id": 72045206,
+      "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
+      "message": "Modify Repo to use submodule + Add CD pipeline (#95)",
+      "date": "2026-05-28T19:01:09Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "Sasidharan3094",
+          "date": "2026-05-28T08:44:52Z"
+        },
+        {
+          "login": "jduo",
+          "date": "2026-05-28T18:58:19Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/95"
+    },
+    {
+      "sha": "1904698a83f4b528001090b8497f734ecc3bc830",
+      "author_login": "Sasidharan3094",
+      "author_id": 56465593,
+      "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
+      "message": "Adding documentation and examples (#94)",
+      "date": "2026-05-28T08:22:03Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "pratheep-kumar",
+          "date": "2026-05-28T08:20:22Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/94"
+    },
+    {
+      "sha": "f3ceed18d8119e3e63bc690c6aefb2e9b2ce0c46",
+      "author_login": "EvgeniyPatlan",
+      "author_id": 18436759,
+      "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
+      "message": "Merge pull request #57 from apolIinaria/main",
+      "date": "2026-05-28T18:22:25Z",
+      "repo": "valkey-release-automation",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "9afd47a6ebc0dfeeda01fedd0971634084e76f70",
+      "author_login": "apolIinaria",
+      "author_id": 149688034,
+      "avatar_url": "https://avatars.githubusercontent.com/u/149688034?v=4",
+      "message": "Delete packaging/common/debian/compat",
+      "date": "2026-05-28T14:00:52Z",
+      "repo": "valkey-release-automation",
+      "reviewed": [
+        {
+          "login": "EvgeniyPatlan",
+          "date": "2026-05-28T18:21:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/57"
+    },
+    {
+      "sha": "9de44314a8aa1ee6b286e34582ac9cd9051d0487",
+      "author_login": "apolIinaria",
+      "author_id": 149688034,
+      "avatar_url": "https://avatars.githubusercontent.com/u/149688034?v=4",
+      "message": "Add debhelper-compat to Build-Depends",
+      "date": "2026-05-28T14:00:48Z",
+      "repo": "valkey-release-automation",
+      "reviewed": [
+        {
+          "login": "EvgeniyPatlan",
+          "date": "2026-05-28T18:21:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/57"
+    },
+    {
+      "sha": "5ee719c5cee6b8d2b647e2d7b51e57ee084f8c65",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Fix flakey mrmwmutex test (#863)",
+      "date": "2026-05-28T22:22:06Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "VoletiRam",
+          "date": "2026-05-28T21:51:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/863"
+    },
+    {
+      "sha": "1ab782074bf9c97feb214958db379a5686fef343",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Disable flaky test under ASAN. Memory usage patterns under ASAN make \u2026 (#1067)",
+      "date": "2026-05-28T18:16:37Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "VoletiRam",
+          "date": "2026-05-28T18:10:26Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1067"
     }
   ]
 }

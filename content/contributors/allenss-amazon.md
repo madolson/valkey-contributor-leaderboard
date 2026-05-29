@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 238,
-  "commit_count": 51,
+  "score": 240,
+  "commit_count": 53,
   "review_count": 187,
   "repos": [
     "valkey",
@@ -11,6 +11,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "5ee719c5ce",
+      "message": "Fix flakey mrmwmutex test (#863)",
+      "date": "2026-05-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/863",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5ee719c5cee6b8d2b647e2d7b51e57ee084f8c65"
+    },
+    {
+      "sha": "1ab782074b",
+      "message": "Disable flaky test under ASAN. Memory usage patterns under ASAN make \u2026 (#1067)",
+      "date": "2026-05-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1067",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1ab782074bf9c97feb214958db379a5686fef343"
+    },
     {
       "sha": "66bbdce0c1",
       "message": "Fix compatibility test suite (#1009)",

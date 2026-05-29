@@ -2,10 +2,11 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 57,
-  "commit_count": 38,
+  "score": 58,
+  "commit_count": 39,
   "review_count": 19,
   "repos": [
+    "valkey",
     "valkey-bloom",
     "valkey-doc",
     "valkey-io.github.io",
@@ -14,6 +15,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "2035fb30c6",
+      "message": "Redacting customer information when hide_user_data_from_log is true in rdb.c, networking.c, debug.c and t_hash  (#3872)",
+      "date": "2026-05-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3872",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2035fb30c6250836a8ef5f18d7357cabedd5c41f"
+    },
     {
       "sha": "c6c1558fe0",
       "message": "Moving metric increment to very end of decode (#93)",

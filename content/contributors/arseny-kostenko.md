@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 203,
+  "score": 204,
   "commit_count": 19,
-  "review_count": 184,
+  "review_count": 185,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d299a5077c",
+      "message": "extended the valkey commands list from 67 to 257 (#362)",
+      "date": "2026-05-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/362",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/d299a5077c1f5769396cb7ba00620f934c81f2dc"
+    },
     {
       "sha": "ce9de18d42",
       "message": "added the command auto complete feature (#361)",

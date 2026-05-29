@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 127,
-  "commit_count": 71,
+  "score": 130,
+  "commit_count": 74,
   "review_count": 56,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,30 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "103ebd3e6d",
+      "message": "Node.js: Add RESET command support (#5945)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5945",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/103ebd3e6da9a0fdb5cf80ad2ab8fb89335ea8ff"
+    },
+    {
+      "sha": "70a9ad0359",
+      "message": "Python: Add RESET command support (#5944)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5944",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/70a9ad035926fb3af2ed7745b183eec8e47f1caa"
+    },
+    {
+      "sha": "b16a9019c0",
+      "message": "Core: track post-RESET connection state in handle_reset_command (#5959)",
+      "date": "2026-05-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5959",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b16a9019c0200626afa172968ae8d3b4ee359e86"
+    },
     {
       "sha": "67feff5175",
       "message": "Core: Phase 2 client-side caching - server-assisted invalidation via CLIENT TRACKING (#5962)",

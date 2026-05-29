@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 846,
+  "score": 847,
   "commit_count": 184,
-  "review_count": 662,
+  "review_count": 663,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1490,6 +1490,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2035fb30c6",
+      "message": "Redacting customer information when hide_user_data_from_log is true in rdb.c, networking.c, debug.c and t_hash  (#3872)",
+      "date": "2026-05-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3872",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2035fb30c6250836a8ef5f18d7357cabedd5c41f"
+    },
     {
       "sha": "93e84bdbe5",
       "message": "Remove references to closed Discord channel (#3722)",

@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 128,
+  "score": 129,
   "commit_count": 34,
-  "review_count": 94,
+  "review_count": 95,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -285,6 +285,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b16a9019c0",
+      "message": "Core: track post-RESET connection state in handle_reset_command (#5959)",
+      "date": "2026-05-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5959",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b16a9019c0200626afa172968ae8d3b4ee359e86"
+    },
     {
       "sha": "67feff5175",
       "message": "Core: Phase 2 client-side caching - server-assisted invalidation via CLIENT TRACKING (#5962)",
