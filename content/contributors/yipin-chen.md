@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 724,
+  "score": 725,
   "commit_count": 45,
-  "review_count": 679,
+  "review_count": 680,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5287ff84dd",
+      "message": "Core/FFI: MonitorClient for MONITOR command (#5977)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5977",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5287ff84dd4612f9d1ffe048a20fd4897ebced09"
+    },
     {
       "sha": "67feff5175",
       "message": "Core: Phase 2 client-side caching - server-assisted invalidation via CLIENT TRACKING (#5962)",

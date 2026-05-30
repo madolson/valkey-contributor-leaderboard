@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 180,
+  "score": 181,
   "commit_count": 114,
-  "review_count": 66,
+  "review_count": 67,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -928,6 +928,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2453808b1b",
+      "message": "fix(ci): Update `valkey-bundle` image to a stable version (#418)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/418",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2453808b1bbcfa8dc2eab121dc5738cc11bd7304"
+    },
     {
       "sha": "f3948babc6",
       "message": "chore(deps): bump taiki-e/install-action from 2.79.7 to 2.79.8 in the patch-updates group (#413)",

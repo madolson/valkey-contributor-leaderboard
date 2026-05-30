@@ -2,13 +2,21 @@
   "title": "prashanna-frsh",
   "login": "prashanna-frsh",
   "avatar_url": "https://avatars.githubusercontent.com/u/227337935?v=4",
-  "score": 13,
-  "commit_count": 13,
+  "score": 14,
+  "commit_count": 14,
   "review_count": 0,
   "repos": [
     "valkey-glide"
   ],
   "commit_list": [
+    {
+      "sha": "613b0bd350",
+      "message": "feat(jedis-compatibility): standalone JedisPool parity (broken resour\u2026 (#5793)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5793",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/613b0bd3504600e092030dbba558a348e30380f6"
+    },
     {
       "sha": "b72ebd1fce",
       "message": "feat(java): Add support for cluster management and node management commands (#5503)",

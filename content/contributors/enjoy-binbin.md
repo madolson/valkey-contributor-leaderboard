@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 854,
+  "score": 855,
   "commit_count": 332,
-  "review_count": 522,
+  "review_count": 523,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2671,6 +2671,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "01034bfff4",
+      "message": "Fix fragile memefficiency test (#3838)",
+      "date": "2026-05-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3838",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/01034bfff4528ecb433fe08838de2b8fe9c1180a"
+    },
     {
       "sha": "93e84bdbe5",
       "message": "Remove references to closed Discord channel (#3722)",

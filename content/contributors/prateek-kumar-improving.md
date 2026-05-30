@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 311,
+  "score": 319,
   "commit_count": 110,
-  "review_count": 201,
+  "review_count": 209,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -894,6 +894,70 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "235459c72b",
+      "message": "[Go] Fix/flaky TestPubSubPatternCoexistence and TestPubSubExactCoexistence (#6009)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6009",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/235459c72b93ba29e2ba906ca90dc32be8976743"
+    },
+    {
+      "sha": "235459c72b",
+      "message": "[Go] Fix/flaky TestPubSubPatternCoexistence and TestPubSubExactCoexistence (#6009)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6009",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/235459c72b93ba29e2ba906ca90dc32be8976743"
+    },
+    {
+      "sha": "e8f4c1c54b",
+      "message": "[Python] Fix flaky test: test_tls_with_self_signed_certificate_succeeds (#6024)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6024",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e8f4c1c54b301e25058ff09d6eff47efeec28a71"
+    },
+    {
+      "sha": "3fc2ba876f",
+      "message": "[Python] Fix flaky test: test_sync_standalone_scan_with_count timeout (#6026)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6026",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3fc2ba876f6ad848f46a1adf360ccb9ab1113467"
+    },
+    {
+      "sha": "5271e8cab2",
+      "message": "[Core] Fix flaky test test_pipeline_can_reconnect (#6028)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6028",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5271e8cab2999dd9fec6491dc23020cae5ab7752"
+    },
+    {
+      "sha": "db44232087",
+      "message": "[Go] Fix flaky TestZScan by removing invalid no-duplicates assertion (#6030)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6030",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/db4423208757b188c82a7c8893336aca43ce3809"
+    },
+    {
+      "sha": "613b0bd350",
+      "message": "feat(jedis-compatibility): standalone JedisPool parity (broken resour\u2026 (#5793)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5793",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/613b0bd3504600e092030dbba558a348e30380f6"
+    },
+    {
+      "sha": "ae7af2018d",
+      "message": "Java: Add RESET command support (#5947)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5947",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ae7af2018d32ec904d32955303ac92f1908df803"
+    },
     {
       "sha": "efccf41d18",
       "message": "Fix Java scriptKill flaky tests by replacing Thread.sleep with polling (#5951)",

@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 109,
+  "score": 116,
   "commit_count": 38,
-  "review_count": 71,
+  "review_count": 78,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -320,6 +320,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "235459c72b",
+      "message": "[Go] Fix/flaky TestPubSubPatternCoexistence and TestPubSubExactCoexistence (#6009)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6009",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/235459c72b93ba29e2ba906ca90dc32be8976743"
+    },
+    {
+      "sha": "e8f4c1c54b",
+      "message": "[Python] Fix flaky test: test_tls_with_self_signed_certificate_succeeds (#6024)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6024",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e8f4c1c54b301e25058ff09d6eff47efeec28a71"
+    },
+    {
+      "sha": "3fc2ba876f",
+      "message": "[Python] Fix flaky test: test_sync_standalone_scan_with_count timeout (#6026)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6026",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3fc2ba876f6ad848f46a1adf360ccb9ab1113467"
+    },
+    {
+      "sha": "5271e8cab2",
+      "message": "[Core] Fix flaky test test_pipeline_can_reconnect (#6028)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6028",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5271e8cab2999dd9fec6491dc23020cae5ab7752"
+    },
+    {
+      "sha": "db44232087",
+      "message": "[Go] Fix flaky TestZScan by removing invalid no-duplicates assertion (#6030)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6030",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/db4423208757b188c82a7c8893336aca43ce3809"
+    },
+    {
+      "sha": "c881ab485c",
+      "message": "fix(ci): Update `valkey-bundle` image to a stable version (#6049)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6049",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c881ab485c664ab16f9fc92888bddf871c5d117c"
+    },
+    {
+      "sha": "db80a1da44",
+      "message": "fix(ci): Update `valkey-bundle` image to a stable version (#214)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/214",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/db80a1da4496f1c8155647d7782dc4d2227c95e2"
+    },
     {
       "sha": "3376878e26",
       "message": "fix go docs after glideft refactor (#207)",

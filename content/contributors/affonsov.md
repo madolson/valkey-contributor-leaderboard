@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 130,
-  "commit_count": 74,
-  "review_count": 56,
+  "score": 134,
+  "commit_count": 77,
+  "review_count": 57,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -27,6 +27,30 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5944",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/70a9ad035926fb3af2ed7745b183eec8e47f1caa"
+    },
+    {
+      "sha": "2d8207b2ba",
+      "message": "Go: Add RESET command support (#5946)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5946",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2d8207b2badaa1929a002355cc09ecc92c91599f"
+    },
+    {
+      "sha": "ae7af2018d",
+      "message": "Java: Add RESET command support (#5947)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5947",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ae7af2018d32ec904d32955303ac92f1908df803"
+    },
+    {
+      "sha": "5287ff84dd",
+      "message": "Core/FFI: MonitorClient for MONITOR command (#5977)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5977",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5287ff84dd4612f9d1ffe048a20fd4897ebced09"
     },
     {
       "sha": "b16a9019c0",
@@ -606,6 +630,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "98bb7dfe3c",
+      "message": "Commit lock files (#5859)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5859",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/98bb7dfe3c6450d9497efe409c79bb1ef73091fa"
+    },
     {
       "sha": "343145f0b6",
       "message": "Python: Fix sync client FFI signature mismatch for address resolver (#6013)",

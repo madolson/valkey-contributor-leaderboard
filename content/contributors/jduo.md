@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 229,
+  "score": 230,
   "commit_count": 51,
-  "review_count": 178,
+  "review_count": 179,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -422,6 +422,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5287ff84dd",
+      "message": "Core/FFI: MonitorClient for MONITOR command (#5977)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5977",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5287ff84dd4612f9d1ffe048a20fd4897ebced09"
+    },
     {
       "sha": "b16a9019c0",
       "message": "Core: track post-RESET connection state in handle_reset_command (#5959)",

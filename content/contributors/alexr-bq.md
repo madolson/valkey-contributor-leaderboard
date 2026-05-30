@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 166,
+  "score": 167,
   "commit_count": 40,
-  "review_count": 126,
+  "review_count": 127,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -349,6 +349,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5944",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/70a9ad035926fb3af2ed7745b183eec8e47f1caa"
+    },
+    {
+      "sha": "2d8207b2ba",
+      "message": "Go: Add RESET command support (#5946)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5946",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2d8207b2badaa1929a002355cc09ecc92c91599f"
     },
     {
       "sha": "14e29b4ebd",

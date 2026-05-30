@@ -2,8 +2,8 @@
   "title": "edlng",
   "login": "edlng",
   "avatar_url": "https://avatars.githubusercontent.com/u/76571219?v=4",
-  "score": 171,
-  "commit_count": 109,
+  "score": 174,
+  "commit_count": 112,
   "review_count": 62,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,30 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "c881ab485c",
+      "message": "fix(ci): Update `valkey-bundle` image to a stable version (#6049)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6049",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c881ab485c664ab16f9fc92888bddf871c5d117c"
+    },
+    {
+      "sha": "2453808b1b",
+      "message": "fix(ci): Update `valkey-bundle` image to a stable version (#418)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/418",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2453808b1bbcfa8dc2eab121dc5738cc11bd7304"
+    },
+    {
+      "sha": "db80a1da44",
+      "message": "fix(ci): Update `valkey-bundle` image to a stable version (#214)",
+      "date": "2026-05-29",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/214",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/db80a1da4496f1c8155647d7782dc4d2227c95e2"
+    },
     {
       "sha": "3376878e26",
       "message": "fix go docs after glideft refactor (#207)",

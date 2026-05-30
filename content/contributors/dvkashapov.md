@@ -191,6 +191,14 @@
   ],
   "review_list": [
     {
+      "sha": "2808b19343",
+      "message": "Bump deps/luajit from `8f421c8` to `b925b3e` (#24)",
+      "date": "2026-05-29",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/24",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/2808b19343e8f16b2e3faf4d1a7bf5ac85193430"
+    },
+    {
       "sha": "b884d72669",
       "message": "Bump deps/luajit from `18b087c` to `8f421c8` (#23)",
       "date": "2026-05-26",
