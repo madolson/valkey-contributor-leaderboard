@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 116,
+  "score": 117,
   "commit_count": 38,
-  "review_count": 78,
+  "review_count": 79,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -320,6 +320,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d17cf7dfba",
+      "message": "fix(core): avoid panic on cluster scan with AZ affinity read strategy (#5936)",
+      "date": "2026-05-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5936",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d17cf7dfbaef247b6211324fa7a035c873b6c0cc"
+    },
     {
       "sha": "235459c72b",
       "message": "[Go] Fix/flaky TestPubSubPatternCoexistence and TestPubSubExactCoexistence (#6009)",

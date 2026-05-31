@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 266,
+  "score": 267,
   "commit_count": 60,
-  "review_count": 206,
+  "review_count": 207,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -492,6 +492,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d17cf7dfba",
+      "message": "fix(core): avoid panic on cluster scan with AZ affinity read strategy (#5936)",
+      "date": "2026-05-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5936",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d17cf7dfbaef247b6211324fa7a035c873b6c0cc"
+    },
     {
       "sha": "103ebd3e6d",
       "message": "Node.js: Add RESET command support (#5945)",

@@ -149998,6 +149998,37 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/24"
+    },
+    {
+      "sha": "d17cf7dfbaef247b6211324fa7a035c873b6c0cc",
+      "author_login": "SAY-5",
+      "author_id": 240962040,
+      "avatar_url": "https://avatars.githubusercontent.com/u/240962040?v=4",
+      "message": "fix(core): avoid panic on cluster scan with AZ affinity read strategy (#5936)",
+      "date": "2026-05-30T20:10:27Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-05-27T00:10:26Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-05-27T23:45:05Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5936"
+    },
+    {
+      "sha": "6b64a23b114db7ccbcb3097ec560325691fa16e5",
+      "author_login": "ProjectMutilation",
+      "author_id": 64891287,
+      "avatar_url": "https://avatars.githubusercontent.com/u/64891287?v=4",
+      "message": "fix: potential nil dereference (#995)",
+      "date": "2026-05-30T23:02:26Z",
+      "repo": "valkey-go",
+      "reviewed": false,
+      "pr_url": ""
     }
   ]
 }
