@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 855,
-  "commit_count": 332,
-  "review_count": 523,
+  "score": 857,
+  "commit_count": 333,
+  "review_count": 524,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "7abe49a6ce",
+      "message": "Add ALL_DBS flag to CLUSTER FLUSHSLOT for database-level ACL (#3806)",
+      "date": "2026-05-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3806",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7abe49a6ce6933434410022be8459cfd01cfc2bc"
+    },
     {
       "sha": "7c3821f188",
       "message": "Add full sync function test case for CVE-2026-23631 (#3795)",
@@ -2671,6 +2679,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f25ec5e40a",
+      "message": "Fix use-after-free in VM_RegisterClusterMessageReceiver (#3846)",
+      "date": "2026-05-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3846",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f25ec5e40aaabc5c9bffe59b9fb9449304ffa8da"
+    },
     {
       "sha": "01034bfff4",
       "message": "Fix fragile memefficiency test (#3838)",

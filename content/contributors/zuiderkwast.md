@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1149,
+  "score": 1150,
   "commit_count": 152,
-  "review_count": 997,
+  "review_count": 998,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1231,6 +1231,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7abe49a6ce",
+      "message": "Add ALL_DBS flag to CLUSTER FLUSHSLOT for database-level ACL (#3806)",
+      "date": "2026-05-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3806",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7abe49a6ce6933434410022be8459cfd01cfc2bc"
+    },
     {
       "sha": "7c3821f188",
       "message": "Add full sync function test case for CVE-2026-23631 (#3795)",

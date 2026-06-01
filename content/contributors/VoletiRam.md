@@ -2,9 +2,9 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 34,
+  "score": 35,
   "commit_count": 20,
-  "review_count": 14,
+  "review_count": 15,
   "repos": [
     "valkey",
     "valkey-perf-benchmark",
@@ -174,6 +174,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fe65a492f6",
+      "message": "Fix ThreadPool Shutdown timing holes (#1062)",
+      "date": "2026-05-31",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1062",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/fe65a492f6d3d441f3b13ffd1faa660a48575820"
+    },
     {
       "sha": "5ee719c5ce",
       "message": "Fix flakey mrmwmutex test (#863)",

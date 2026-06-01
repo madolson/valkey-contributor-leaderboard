@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 240,
-  "commit_count": 53,
+  "score": 241,
+  "commit_count": 54,
   "review_count": 187,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "fe65a492f6",
+      "message": "Fix ThreadPool Shutdown timing holes (#1062)",
+      "date": "2026-05-31",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1062",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/fe65a492f6d3d441f3b13ffd1faa660a48575820"
+    },
     {
       "sha": "5ee719c5ce",
       "message": "Fix flakey mrmwmutex test (#863)",

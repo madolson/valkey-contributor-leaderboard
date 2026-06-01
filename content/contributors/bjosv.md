@@ -2,8 +2,8 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 190,
-  "commit_count": 104,
+  "score": 191,
+  "commit_count": 105,
   "review_count": 86,
   "repos": [
     "libvalkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "37421b7157",
+      "message": "fix: check primary node first when resolving shard index (#207)",
+      "date": "2026-05-31",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/207",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/37421b715702b102a972fff4408e3d75a7287318"
+    },
     {
       "sha": "6e04a99e03",
       "message": "Set config epoch on new nodes before MEET to prevent slot loss (#197)",

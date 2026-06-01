@@ -2,8 +2,8 @@
   "title": "eifrah-aws",
   "login": "eifrah-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/170855270?v=4",
-  "score": 209,
-  "commit_count": 89,
+  "score": 211,
+  "commit_count": 91,
   "review_count": 120,
   "repos": [
     "valkey",
@@ -15,6 +15,22 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "0ff817e8cc",
+      "message": "CMake: Plain and keyword can not be mixed (#3658)",
+      "date": "2026-05-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3658",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0ff817e8cc7f3c1980ee3c7b9245d13241e388fc"
+    },
+    {
+      "sha": "f25ec5e40a",
+      "message": "Fix use-after-free in VM_RegisterClusterMessageReceiver (#3846)",
+      "date": "2026-05-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3846",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f25ec5e40aaabc5c9bffe59b9fb9449304ffa8da"
+    },
     {
       "sha": "96763ade54",
       "message": "Fix Deferred Reply Placeholders in Active Deferred Buffers (#3578)",

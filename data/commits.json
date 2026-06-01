@@ -150029,6 +150029,241 @@
       "repo": "valkey-go",
       "reviewed": false,
       "pr_url": ""
+    },
+    {
+      "sha": "7abe49a6ce6933434410022be8459cfd01cfc2bc",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Add ALL_DBS flag to CLUSTER FLUSHSLOT for database-level ACL (#3806)",
+      "date": "2026-05-31T20:22:43Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-05-22T08:08:43Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-05-22T14:30:47Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3806"
+    },
+    {
+      "sha": "0ff817e8cc7f3c1980ee3c7b9245d13241e388fc",
+      "author_login": "eifrah-aws",
+      "author_id": 170855270,
+      "avatar_url": "https://avatars.githubusercontent.com/u/170855270?v=4",
+      "message": "CMake: Plain and keyword can not be mixed (#3658)",
+      "date": "2026-05-31T19:44:37Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "ranshid",
+          "date": "2026-05-28T11:34:42Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3658"
+    },
+    {
+      "sha": "f25ec5e40aaabc5c9bffe59b9fb9449304ffa8da",
+      "author_login": "eifrah-aws",
+      "author_id": 170855270,
+      "avatar_url": "https://avatars.githubusercontent.com/u/170855270?v=4",
+      "message": "Fix use-after-free in VM_RegisterClusterMessageReceiver (#3846)",
+      "date": "2026-05-31T08:36:09Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-05-27T12:11:09Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-05-27T18:09:11Z"
+        },
+        {
+          "login": "ranshid",
+          "date": "2026-05-31T08:36:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3846"
+    },
+    {
+      "sha": "37421b715702b102a972fff4408e3d75a7287318",
+      "author_login": "bjosv",
+      "author_id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "message": "fix: check primary node first when resolving shard index (#207)",
+      "date": "2026-05-31T19:53:21Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-05-29T09:36:55Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/207"
+    },
+    {
+      "sha": "0f348fe18b54974f0aaced6a51eb3010d8da440f",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Update description of search.emulate-release and associated INFO fields",
+      "date": "2026-05-31T17:36:38Z",
+      "repo": "valkey-search",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "fe65a492f6d3d441f3b13ffd1faa660a48575820",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Fix ThreadPool Shutdown timing holes (#1062)",
+      "date": "2026-05-31T16:08:49Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "VoletiRam",
+          "date": "2026-05-29T18:45:56Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1062"
+    },
+    {
+      "sha": "a256ee24d7c0ff70b5a19f0b6b21d77c687239bc",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Revert \"valkey: add application-developer skill (#2)\"",
+      "date": "2026-05-31T20:44:17Z",
+      "repo": "valkey-skills",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "478d84e845f094470edbb6ce1a18dc3669e7bd85",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Revert \"ci: agnix lint + upstream-valkey version watch (#3)\"",
+      "date": "2026-05-31T20:44:17Z",
+      "repo": "valkey-skills",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e9618aff69474c819b5540992bbd73831afb41d9",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Revert \"docs: add CLAUDE.md (AGENTS.md symlinked) (#4)\"",
+      "date": "2026-05-31T20:44:17Z",
+      "repo": "valkey-skills",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "93f1fa63dd789c7a766977f4b8a6d1d3f1562eb2",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Revert \"packaging: add Claude Code marketplace + plugin + Codex plugin manifests (#5)\"",
+      "date": "2026-05-31T20:44:17Z",
+      "repo": "valkey-skills",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "112be854c2306c373a4092daa4a15219b08f9e71",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Revert \"docs: add README with skill overview, install, contributing (#6)\"",
+      "date": "2026-05-31T20:44:17Z",
+      "repo": "valkey-skills",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "1a672f0ca9a609c6cd569eacb16ecfe24a464907",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Revert \"docs: add COPYING, CONTRIBUTING.md, CODEOWNERS (#7)\"",
+      "date": "2026-05-31T20:44:17Z",
+      "repo": "valkey-skills",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d7bfd42b3b960d7e6b989ad47f0bc764798d61e1",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "docs: add COPYING, CONTRIBUTING.md, CODEOWNERS (#7)",
+      "date": "2026-05-31T20:41:27Z",
+      "repo": "valkey-skills",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "01685bd8a6188a9cc934e7e42c5efd02f384533c",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "docs: add README with skill overview, install, contributing (#6)",
+      "date": "2026-05-31T20:41:24Z",
+      "repo": "valkey-skills",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "650d442168e9f1e0b7beae85d773dab7b331b96f",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "packaging: add Claude Code marketplace + plugin + Codex plugin manifests (#5)",
+      "date": "2026-05-31T20:41:21Z",
+      "repo": "valkey-skills",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "303aa962caf246dd0af27b2f10338ea543e00383",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "docs: add CLAUDE.md (AGENTS.md symlinked) (#4)",
+      "date": "2026-05-31T20:41:18Z",
+      "repo": "valkey-skills",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ee953b20f4545c07ad12ac7455a8b7833632ea9b",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "ci: agnix lint + upstream-valkey version watch (#3)",
+      "date": "2026-05-31T20:41:15Z",
+      "repo": "valkey-skills",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7785b32166dda9455dd4871bf4f18f141f5ddc19",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "valkey: add application-developer skill (#2)",
+      "date": "2026-05-31T20:41:11Z",
+      "repo": "valkey-skills",
+      "reviewed": false,
+      "pr_url": ""
     }
   ]
 }

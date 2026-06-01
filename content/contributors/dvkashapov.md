@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 86,
+  "score": 87,
   "commit_count": 22,
-  "review_count": 64,
+  "review_count": 65,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -190,6 +190,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7abe49a6ce",
+      "message": "Add ALL_DBS flag to CLUSTER FLUSHSLOT for database-level ACL (#3806)",
+      "date": "2026-05-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3806",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7abe49a6ce6933434410022be8459cfd01cfc2bc"
+    },
     {
       "sha": "2808b19343",
       "message": "Bump deps/luajit from `8f421c8` to `b925b3e` (#24)",

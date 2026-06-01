@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 293,
+  "score": 294,
   "commit_count": 86,
-  "review_count": 207,
+  "review_count": 208,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -702,6 +702,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f25ec5e40a",
+      "message": "Fix use-after-free in VM_RegisterClusterMessageReceiver (#3846)",
+      "date": "2026-05-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3846",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f25ec5e40aaabc5c9bffe59b9fb9449304ffa8da"
+    },
     {
       "sha": "12e12c6cb5",
       "message": "Add on-demand parameterized benchmark workflow for PRs (#3433)",

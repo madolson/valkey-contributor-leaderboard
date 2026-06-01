@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 279,
+  "score": 281,
   "commit_count": 90,
-  "review_count": 189,
+  "review_count": 191,
   "repos": [
     "valkey",
     "valkey-container",
@@ -737,6 +737,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0ff817e8cc",
+      "message": "CMake: Plain and keyword can not be mixed (#3658)",
+      "date": "2026-05-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3658",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0ff817e8cc7f3c1980ee3c7b9245d13241e388fc"
+    },
+    {
+      "sha": "f25ec5e40a",
+      "message": "Fix use-after-free in VM_RegisterClusterMessageReceiver (#3846)",
+      "date": "2026-05-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3846",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f25ec5e40aaabc5c9bffe59b9fb9449304ffa8da"
+    },
     {
       "sha": "2946807003",
       "message": "Restore ERR prefix and error-code preservation in Lua scripting (#3678)",
