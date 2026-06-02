@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 241,
+  "score": 242,
   "commit_count": 54,
-  "review_count": 187,
+  "review_count": 188,
   "repos": [
     "valkey",
     "valkey-json",
@@ -445,6 +445,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "147b0b2bf9",
+      "message": "Run CI workflows on all release branches (#1058)",
+      "date": "2026-06-01",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1058",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/147b0b2bf99c110e7fd97351d5c9b0d6cd3dda17"
+    },
     {
       "sha": "7cb0d02c41",
       "message": "Use protobuf Arena for fanout response deserialization (#1040)",

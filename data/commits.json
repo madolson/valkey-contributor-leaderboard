@@ -150264,6 +150264,222 @@
       "repo": "valkey-skills",
       "reviewed": false,
       "pr_url": ""
+    },
+    {
+      "sha": "6b301246b6658e26b62c970c9e409d6ab7457763",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "Set client lib-name to GlideSpringDataValkey (#87)",
+      "date": "2026-06-01T22:38:21Z",
+      "repo": "spring-data-valkey",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-06-01T16:41:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/87"
+    },
+    {
+      "sha": "34bd3695490054ec78c5d9b06b1daed62745a1fa",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "Skip production examples (#90)",
+      "date": "2026-06-01T22:27:51Z",
+      "repo": "spring-data-valkey",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-06-01T21:27:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/90"
+    },
+    {
+      "sha": "49c478f27633027422d251fefe90af952fdcafe2",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "Update Valkey GLIDE dependency to Uber Jar (#86)",
+      "date": "2026-06-01T22:27:35Z",
+      "repo": "spring-data-valkey",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-06-01T21:16:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/86"
+    },
+    {
+      "sha": "12061032d0099c4033f29db0123a1c6d6de4888d",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Validate every DB clause in COPY against ACL db= permissions (#3801)",
+      "date": "2026-06-02T02:15:20Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-05-22T08:31:23Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-05-22T10:22:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3801"
+    },
+    {
+      "sha": "c15ecf1dd83cd045fc3538e81df4ae91ab0ff11c",
+      "author_login": "jjuleslasarte",
+      "author_id": 140852041,
+      "avatar_url": "https://avatars.githubusercontent.com/u/140852041?v=4",
+      "message": "Replace AUTOMATION_PAT with Valkeyrie Bot GitHub App token (#3851)",
+      "date": "2026-06-01T19:29:15Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-05-27T17:54:35Z"
+        },
+        {
+          "login": "madolson",
+          "date": "2026-06-01T19:28:21Z"
+        },
+        {
+          "login": "roshkhatri",
+          "date": "2026-06-01T19:28:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3851"
+    },
+    {
+      "sha": "e71299d5962eda173828d99378464d9df892e01f",
+      "author_login": "eifrah-aws",
+      "author_id": 170855270,
+      "avatar_url": "https://avatars.githubusercontent.com/u/170855270?v=4",
+      "message": "Harden SENTINEL commands and config rewrite against control-character injection (#3847)",
+      "date": "2026-06-01T19:02:38Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "lucasyonge",
+          "date": "2026-05-29T12:30:25Z"
+        },
+        {
+          "login": "ranshid",
+          "date": "2026-06-01T19:01:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3847"
+    },
+    {
+      "sha": "ab6e04e9e2dc5b828941886ae72185ebb8c3755d",
+      "author_login": "Nikhil-Manglore",
+      "author_id": 46588759,
+      "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
+      "message": "Adding maintainers.md file (#110)",
+      "date": "2026-06-02T00:31:23Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-06-02T00:31:18Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/110"
+    },
+    {
+      "sha": "fee1cb90bb75b046f74970512d1106a45d06a330",
+      "author_login": "roshkhatri",
+      "author_id": 117414976,
+      "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
+      "message": "Replace VALKEY_BUNDLE_PAT_FOR_PR with Valkeyrie Bot GitHub App tokens (#114)",
+      "date": "2026-06-02T00:30:17Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-06-01T19:46:56Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/114"
+    },
+    {
+      "sha": "53bde5f846c7c6ceba04726ced3e371e6bdd13e2",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Update/review prs.md comment resolving policy (#6061)",
+      "date": "2026-06-02T03:47:30Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-06-01T20:54:28Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-06-01T22:54:15Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6061"
+    },
+    {
+      "sha": "d6f59b30ff890ec70dbba4e0fbb30035850c5d48",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "feat(ci): add coverage measurement and enforcement (#416)",
+      "date": "2026-06-02T02:53:35Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-06-01T17:20:59Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-06-01T17:24:47Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/416"
+    },
+    {
+      "sha": "57309189384a6256365a9fbbb67cf86577038d0e",
+      "author_login": "secwall",
+      "author_id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "message": "Add packages publish",
+      "date": "2026-06-02T06:07:05Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-06-02T05:39:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/25"
+    },
+    {
+      "sha": "147b0b2bf99c110e7fd97351d5c9b0d6cd3dda17",
+      "author_login": "Aksha1812",
+      "author_id": 48383029,
+      "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
+      "message": "Run CI workflows on all release branches (#1058)",
+      "date": "2026-06-01T18:47:23Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-06-01T18:46:50Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1058"
     }
   ]
 }

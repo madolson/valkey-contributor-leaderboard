@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 350,
-  "commit_count": 136,
-  "review_count": 214,
+  "score": 353,
+  "commit_count": 137,
+  "review_count": 216,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -19,6 +19,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "fee1cb90bb",
+      "message": "Replace VALKEY_BUNDLE_PAT_FOR_PR with Valkeyrie Bot GitHub App tokens (#114)",
+      "date": "2026-06-02",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/114",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/fee1cb90bb75b046f74970512d1106a45d06a330"
+    },
     {
       "sha": "a88b9b55d3",
       "message": "Automated Updates for Valkey Bundle (#113)",
@@ -1109,6 +1117,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ab6e04e9e2",
+      "message": "Adding maintainers.md file (#110)",
+      "date": "2026-06-02",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/110",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/ab6e04e9e2dc5b828941886ae72185ebb8c3755d"
+    },
+    {
+      "sha": "c15ecf1dd8",
+      "message": "Replace AUTOMATION_PAT with Valkeyrie Bot GitHub App token (#3851)",
+      "date": "2026-06-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3851",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c15ecf1dd83cd045fc3538e81df4ae91ab0ff11c"
+    },
     {
       "sha": "ddadbdf5df",
       "message": "docs: Add clang-format setup and usage instructions to CONTRIBUTING.md (#3590)",

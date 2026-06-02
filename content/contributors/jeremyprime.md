@@ -2,15 +2,23 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 129,
-  "commit_count": 34,
-  "review_count": 95,
+  "score": 133,
+  "commit_count": 35,
+  "review_count": 98,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "34bd369549",
+      "message": "Skip production examples (#90)",
+      "date": "2026-06-01",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/90",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/34bd3695490054ec78c5d9b06b1daed62745a1fa"
+    },
     {
       "sha": "fde41abe59",
       "message": "Add AGENTS.md file (#79)",
@@ -285,6 +293,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d6f59b30ff",
+      "message": "feat(ci): add coverage measurement and enforcement (#416)",
+      "date": "2026-06-02",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/416",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d6f59b30ff890ec70dbba4e0fbb30035850c5d48"
+    },
+    {
+      "sha": "6b301246b6",
+      "message": "Set client lib-name to GlideSpringDataValkey (#87)",
+      "date": "2026-06-01",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/87",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/6b301246b6658e26b62c970c9e409d6ab7457763"
+    },
+    {
+      "sha": "49c478f276",
+      "message": "Update Valkey GLIDE dependency to Uber Jar (#86)",
+      "date": "2026-06-01",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/86",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/49c478f27633027422d251fefe90af952fdcafe2"
+    },
     {
       "sha": "b16a9019c0",
       "message": "Core: track post-RESET connection state in handle_reset_command (#5959)",

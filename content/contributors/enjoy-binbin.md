@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 857,
-  "commit_count": 333,
+  "score": 858,
+  "commit_count": 334,
   "review_count": 524,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "12061032d0",
+      "message": "Validate every DB clause in COPY against ACL db= permissions (#3801)",
+      "date": "2026-06-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3801",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/12061032d0099c4033f29db0123a1c6d6de4888d"
+    },
     {
       "sha": "7abe49a6ce",
       "message": "Add ALL_DBS flag to CLUSTER FLUSHSLOT for database-level ACL (#3806)",

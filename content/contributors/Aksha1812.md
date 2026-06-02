@@ -2,14 +2,22 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 65,
-  "commit_count": 42,
+  "score": 66,
+  "commit_count": 43,
   "review_count": 23,
   "repos": [
     "valkey-ci-agent",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "147b0b2bf9",
+      "message": "Run CI workflows on all release branches (#1058)",
+      "date": "2026-06-01",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1058",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/147b0b2bf99c110e7fd97351d5c9b0d6cd3dda17"
+    },
     {
       "sha": "53501a2707",
       "message": "Add valkey-search to repos.yml for automated backporting (#10)",

@@ -2,9 +2,9 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 241,
-  "commit_count": 90,
-  "review_count": 151,
+  "score": 243,
+  "commit_count": 91,
+  "review_count": 152,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -21,6 +21,14 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "ab6e04e9e2",
+      "message": "Adding maintainers.md file (#110)",
+      "date": "2026-06-02",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/110",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/ab6e04e9e2dc5b828941886ae72185ebb8c3755d"
+    },
     {
       "sha": "daf0f985da",
       "message": "Clone specific bloom version for tests instead of unstable (#107)",
@@ -743,6 +751,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fee1cb90bb",
+      "message": "Replace VALKEY_BUNDLE_PAT_FOR_PR with Valkeyrie Bot GitHub App tokens (#114)",
+      "date": "2026-06-02",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/114",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/fee1cb90bb75b046f74970512d1106a45d06a330"
+    },
     {
       "sha": "a88b9b55d3",
       "message": "Automated Updates for Valkey Bundle (#113)",

@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1150,
+  "score": 1151,
   "commit_count": 152,
-  "review_count": 998,
+  "review_count": 999,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1231,6 +1231,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "12061032d0",
+      "message": "Validate every DB clause in COPY against ACL db= permissions (#3801)",
+      "date": "2026-06-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3801",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/12061032d0099c4033f29db0123a1c6d6de4888d"
+    },
     {
       "sha": "7abe49a6ce",
       "message": "Add ALL_DBS flag to CLUSTER FLUSHSLOT for database-level ACL (#3806)",

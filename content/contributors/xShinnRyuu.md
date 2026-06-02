@@ -2,14 +2,22 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 267,
-  "commit_count": 60,
-  "review_count": 207,
+  "score": 269,
+  "commit_count": 61,
+  "review_count": 208,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "53bde5f846",
+      "message": "Update/review prs.md comment resolving policy (#6061)",
+      "date": "2026-06-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6061",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/53bde5f846c7c6ceba04726ced3e371e6bdd13e2"
+    },
     {
       "sha": "235459c72b",
       "message": "[Go] Fix/flaky TestPubSubPatternCoexistence and TestPubSubExactCoexistence (#6009)",
@@ -492,6 +500,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d6f59b30ff",
+      "message": "feat(ci): add coverage measurement and enforcement (#416)",
+      "date": "2026-06-02",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/416",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d6f59b30ff890ec70dbba4e0fbb30035850c5d48"
+    },
     {
       "sha": "d17cf7dfba",
       "message": "fix(core): avoid panic on cluster scan with AZ affinity read strategy (#5936)",

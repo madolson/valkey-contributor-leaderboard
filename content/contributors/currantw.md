@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 181,
-  "commit_count": 114,
-  "review_count": 67,
+  "score": 183,
+  "commit_count": 115,
+  "review_count": 68,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "d6f59b30ff",
+      "message": "feat(ci): add coverage measurement and enforcement (#416)",
+      "date": "2026-06-02",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/416",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d6f59b30ff890ec70dbba4e0fbb30035850c5d48"
+    },
     {
       "sha": "8b1be23d88",
       "message": "fix: Correct client info default values (#415)",
@@ -928,6 +936,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "53bde5f846",
+      "message": "Update/review prs.md comment resolving policy (#6061)",
+      "date": "2026-06-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6061",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/53bde5f846c7c6ceba04726ced3e371e6bdd13e2"
+    },
     {
       "sha": "2453808b1b",
       "message": "fix(ci): Update `valkey-bundle` image to a stable version (#418)",

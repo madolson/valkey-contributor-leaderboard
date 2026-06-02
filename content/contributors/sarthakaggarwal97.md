@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 294,
+  "score": 295,
   "commit_count": 86,
-  "review_count": 208,
+  "review_count": 209,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -702,6 +702,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c15ecf1dd8",
+      "message": "Replace AUTOMATION_PAT with Valkeyrie Bot GitHub App token (#3851)",
+      "date": "2026-06-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3851",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c15ecf1dd83cd045fc3538e81df4ae91ab0ff11c"
+    },
     {
       "sha": "f25ec5e40a",
       "message": "Fix use-after-free in VM_RegisterClusterMessageReceiver (#3846)",

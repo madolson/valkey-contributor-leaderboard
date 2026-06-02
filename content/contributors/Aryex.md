@@ -2,10 +2,11 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 117,
-  "commit_count": 38,
-  "review_count": 79,
+  "score": 121,
+  "commit_count": 40,
+  "review_count": 81,
   "repos": [
+    "spring-data-valkey",
     "valkey-doc",
     "valkey-glide",
     "valkey-glide-csharp",
@@ -14,6 +15,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "6b301246b6",
+      "message": "Set client lib-name to GlideSpringDataValkey (#87)",
+      "date": "2026-06-01",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/87",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/6b301246b6658e26b62c970c9e409d6ab7457763"
+    },
+    {
+      "sha": "49c478f276",
+      "message": "Update Valkey GLIDE dependency to Uber Jar (#86)",
+      "date": "2026-06-01",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/86",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/49c478f27633027422d251fefe90af952fdcafe2"
+    },
     {
       "sha": "a349ed6a9f",
       "message": "Add Compression Documentations (#215)",
@@ -320,6 +337,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "53bde5f846",
+      "message": "Update/review prs.md comment resolving policy (#6061)",
+      "date": "2026-06-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6061",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/53bde5f846c7c6ceba04726ced3e371e6bdd13e2"
+    },
+    {
+      "sha": "34bd369549",
+      "message": "Skip production examples (#90)",
+      "date": "2026-06-01",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/90",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/34bd3695490054ec78c5d9b06b1daed62745a1fa"
+    },
     {
       "sha": "d17cf7dfba",
       "message": "fix(core): avoid panic on cluster scan with AZ affinity read strategy (#5936)",

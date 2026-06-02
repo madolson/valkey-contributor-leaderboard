@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 847,
+  "score": 848,
   "commit_count": 184,
-  "review_count": 663,
+  "review_count": 664,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1490,6 +1490,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c15ecf1dd8",
+      "message": "Replace AUTOMATION_PAT with Valkeyrie Bot GitHub App token (#3851)",
+      "date": "2026-06-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3851",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c15ecf1dd83cd045fc3538e81df4ae91ab0ff11c"
+    },
     {
       "sha": "2035fb30c6",
       "message": "Redacting customer information when hide_user_data_from_log is true in rdb.c, networking.c, debug.c and t_hash  (#3872)",

@@ -2,9 +2,9 @@
   "title": "lucasyonge",
   "login": "lucasyonge",
   "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
-  "score": 13,
+  "score": 14,
   "commit_count": 4,
-  "review_count": 9,
+  "review_count": 10,
   "repos": [
     "valkey",
     "valkey-io.github.io"
@@ -44,6 +44,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e71299d596",
+      "message": "Harden SENTINEL commands and config rewrite against control-character injection (#3847)",
+      "date": "2026-06-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3847",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e71299d5962eda173828d99378464d9df892e01f"
+    },
     {
       "sha": "fa57b3c5eb",
       "message": "Sentinel: Refactor test design to allow two clusters setup to help avoid data leakage during failover (#2717)",

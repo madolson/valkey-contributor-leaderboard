@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 281,
+  "score": 282,
   "commit_count": 90,
-  "review_count": 191,
+  "review_count": 192,
   "repos": [
     "valkey",
     "valkey-container",
@@ -737,6 +737,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e71299d596",
+      "message": "Harden SENTINEL commands and config rewrite against control-character injection (#3847)",
+      "date": "2026-06-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3847",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e71299d5962eda173828d99378464d9df892e01f"
+    },
     {
       "sha": "0ff817e8cc",
       "message": "CMake: Plain and keyword can not be mixed (#3658)",

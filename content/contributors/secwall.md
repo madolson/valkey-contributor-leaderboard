@@ -2,14 +2,22 @@
   "title": "secwall",
   "login": "secwall",
   "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
-  "score": 18,
-  "commit_count": 16,
+  "score": 19,
+  "commit_count": 17,
   "review_count": 2,
   "repos": [
     "valkey",
     "valkey-luajit"
   ],
   "commit_list": [
+    {
+      "sha": "5730918938",
+      "message": "Add packages publish",
+      "date": "2026-06-02",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/25",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/57309189384a6256365a9fbbb67cf86577038d0e"
+    },
     {
       "sha": "59b6941d33",
       "message": "Backport upstream changes from 9.1 (#22)",
