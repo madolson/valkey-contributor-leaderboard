@@ -2,13 +2,21 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 77,
-  "commit_count": 56,
-  "review_count": 21,
+  "score": 79,
+  "commit_count": 57,
+  "review_count": 22,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "3c12295349",
+      "message": "Create and seed numbered databases for test environments (cluster and standalone) (#365)",
+      "date": "2026-06-02",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/365",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/3c12295349f4f1fec83423f6ac89bc732dbbdb7e"
+    },
     {
       "sha": "7c4c2794e0",
       "message": "Revise readme to include website (#352)",
@@ -459,6 +467,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a5cc0248d4",
+      "message": "replaced blocking key info commands with pagination for different key\u2026 (#364)",
+      "date": "2026-06-02",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/364",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/a5cc0248d4180ebf60822088933e452e8f3d6566"
+    },
     {
       "sha": "364ee30d71",
       "message": "Check for preconfigured connection details before reconciling (#343)",

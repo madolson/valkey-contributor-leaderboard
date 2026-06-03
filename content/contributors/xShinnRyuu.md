@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 269,
+  "score": 271,
   "commit_count": 61,
-  "review_count": 208,
+  "review_count": 210,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -507,6 +507,22 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/416",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d6f59b30ff890ec70dbba4e0fbb30035850c5d48"
+    },
+    {
+      "sha": "bf68f1d162",
+      "message": "changelog: add Go and Java RESET command support entries (#6067)",
+      "date": "2026-06-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6067",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bf68f1d162d7e20f263905d652fe01527cb99b3b"
+    },
+    {
+      "sha": "f37caab09a",
+      "message": "docs: add PR reviewing guide and developer references section (#420)",
+      "date": "2026-06-02",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/420",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/f37caab09a3246a3a009d06ca1ebf3aad76a0573"
     },
     {
       "sha": "d17cf7dfba",

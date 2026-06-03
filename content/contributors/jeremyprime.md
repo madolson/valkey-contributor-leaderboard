@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 133,
+  "score": 135,
   "commit_count": 35,
-  "review_count": 98,
+  "review_count": 100,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -300,6 +300,22 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/416",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d6f59b30ff890ec70dbba4e0fbb30035850c5d48"
+    },
+    {
+      "sha": "c6d21c90b4",
+      "message": "test: fix ValkeyStandalone qualifier typo (#89)",
+      "date": "2026-06-02",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/89",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/c6d21c90b40f5e82a6d411e94e02338323b348fc"
+    },
+    {
+      "sha": "28baced955",
+      "message": "Increased testBLMove and testPTtlTimeUnitConversionTransaction check parameters to reduce flakiness (#91)",
+      "date": "2026-06-02",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/91",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/28baced955f7651b61f065f3360e829da8b2fb12"
     },
     {
       "sha": "6b301246b6",

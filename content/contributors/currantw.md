@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 183,
-  "commit_count": 115,
-  "review_count": 68,
+  "score": 185,
+  "commit_count": 116,
+  "review_count": 69,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -21,6 +21,14 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/416",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d6f59b30ff890ec70dbba4e0fbb30035850c5d48"
+    },
+    {
+      "sha": "f37caab09a",
+      "message": "docs: add PR reviewing guide and developer references section (#420)",
+      "date": "2026-06-02",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/420",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/f37caab09a3246a3a009d06ca1ebf3aad76a0573"
     },
     {
       "sha": "8b1be23d88",
@@ -943,6 +951,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6061",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/53bde5f846c7c6ceba04726ced3e371e6bdd13e2"
+    },
+    {
+      "sha": "bf68f1d162",
+      "message": "changelog: add Go and Java RESET command support entries (#6067)",
+      "date": "2026-06-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6067",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bf68f1d162d7e20f263905d652fe01527cb99b3b"
     },
     {
       "sha": "2453808b1b",

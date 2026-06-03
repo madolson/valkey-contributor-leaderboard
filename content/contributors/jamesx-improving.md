@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 207,
+  "score": 208,
   "commit_count": 65,
-  "review_count": 142,
+  "review_count": 143,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -532,6 +532,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a929e53994",
+      "message": "PHP: add PHPRedis compatibility check script (#209)",
+      "date": "2026-06-02",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/209",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/a929e5399435d39bde10aa999367b8b3c56a92b2"
+    },
     {
       "sha": "4451d0b692",
       "message": "PHP: Update lib-name and lib version (#210)",

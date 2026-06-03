@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 204,
+  "score": 205,
   "commit_count": 19,
-  "review_count": 185,
+  "review_count": 186,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3c12295349",
+      "message": "Create and seed numbered databases for test environments (cluster and standalone) (#365)",
+      "date": "2026-06-02",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/365",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/3c12295349f4f1fec83423f6ac89bc732dbbdb7e"
+    },
     {
       "sha": "d299a5077c",
       "message": "extended the valkey commands list from 67 to 257 (#362)",

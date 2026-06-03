@@ -2,8 +2,8 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 319,
-  "commit_count": 110,
+  "score": 320,
+  "commit_count": 111,
   "review_count": 209,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "a929e53994",
+      "message": "PHP: add PHPRedis compatibility check script (#209)",
+      "date": "2026-06-02",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/209",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/a929e5399435d39bde10aa999367b8b3c56a92b2"
+    },
     {
       "sha": "4451d0b692",
       "message": "PHP: Update lib-name and lib version (#210)",

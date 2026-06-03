@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 110,
-  "commit_count": 96,
+  "score": 111,
+  "commit_count": 97,
   "review_count": 14,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "a5cc0248d4",
+      "message": "replaced blocking key info commands with pagination for different key\u2026 (#364)",
+      "date": "2026-06-02",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/364",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/a5cc0248d4180ebf60822088933e452e8f3d6566"
+    },
     {
       "sha": "d299a5077c",
       "message": "extended the valkey commands list from 67 to 257 (#362)",

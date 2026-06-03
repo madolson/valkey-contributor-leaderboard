@@ -2,8 +2,8 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 243,
-  "commit_count": 91,
+  "score": 244,
+  "commit_count": 92,
   "review_count": 152,
   "repos": [
     "valkey",
@@ -28,6 +28,14 @@
       "repo": "valkey-bundle",
       "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/110",
       "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/ab6e04e9e2dc5b828941886ae72185ebb8c3755d"
+    },
+    {
+      "sha": "e1d9fe9419",
+      "message": "Updating the Architectural Diagrams in the README (#45)",
+      "date": "2026-06-02",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/45",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/e1d9fe941911caad3736ffa5e7377d1ec300f003"
     },
     {
       "sha": "daf0f985da",

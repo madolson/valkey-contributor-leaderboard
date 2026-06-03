@@ -2,13 +2,21 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 31,
-  "commit_count": 14,
+  "score": 32,
+  "commit_count": 15,
   "review_count": 17,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "df793a6df9",
+      "message": "fix empty IP in 'CLUSTER SLOTS' for single shard clusters (#204)",
+      "date": "2026-06-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/204",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/df793a6df92d33055b9ad91b7a161f19a8713af1"
+    },
     {
       "sha": "0b8b87d10d",
       "message": "fixed pre-commit local go version (#168)",

@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 134,
-  "commit_count": 77,
+  "score": 135,
+  "commit_count": 78,
   "review_count": 57,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "bf68f1d162",
+      "message": "changelog: add Go and Java RESET command support entries (#6067)",
+      "date": "2026-06-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6067",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bf68f1d162d7e20f263905d652fe01527cb99b3b"
+    },
     {
       "sha": "103ebd3e6d",
       "message": "Node.js: Add RESET command support (#5945)",

@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 112,
+  "score": 113,
   "commit_count": 13,
-  "review_count": 99,
+  "review_count": 100,
   "repos": [
     "valkey-io.github.io",
     "valkey-operator"
@@ -116,6 +116,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "373a560dfe",
+      "message": "Fix CI to test merge result instead of fork branch in isolation (#562)",
+      "date": "2026-06-02",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/562",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/373a560dfe23d24c4f6911075f4a5cdb565c9e3d"
+    },
     {
       "sha": "3f072a5d4e",
       "message": "Add workflow to auto-assign technical-blog-reviewers (#514)",

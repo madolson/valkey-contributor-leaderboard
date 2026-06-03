@@ -2,8 +2,8 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 282,
-  "commit_count": 90,
+  "score": 283,
+  "commit_count": 91,
   "review_count": 192,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "3cfaf5777b",
+      "message": "Deflake temp-rdb checks in shutdown test (#3892)",
+      "date": "2026-06-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3892",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3cfaf5777bb41fd3b4c9dabed2a96a95a92d2583"
+    },
     {
       "sha": "aa7488f4b1",
       "message": "Fix heap-use-after-free in ACL LOAD when client free is deferred (#3800)",

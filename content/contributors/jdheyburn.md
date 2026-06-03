@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 63,
+  "score": 65,
   "commit_count": 20,
-  "review_count": 43,
+  "review_count": 45,
   "repos": [
     "valkey",
     "valkey-operator"
@@ -172,6 +172,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6be74d2ebb",
+      "message": "fix: rolling update loses all keys when replicas are not synced (#208)",
+      "date": "2026-06-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/208",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6be74d2ebbbab4f1ec982a7464d36c9c6a36d3f0"
+    },
+    {
+      "sha": "df793a6df9",
+      "message": "fix empty IP in 'CLUSTER SLOTS' for single shard clusters (#204)",
+      "date": "2026-06-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/204",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/df793a6df92d33055b9ad91b7a161f19a8713af1"
+    },
     {
       "sha": "37421b7157",
       "message": "fix: check primary node first when resolving shard index (#207)",

@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 167,
+  "score": 168,
   "commit_count": 40,
-  "review_count": 127,
+  "review_count": 128,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -334,6 +334,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f37caab09a",
+      "message": "docs: add PR reviewing guide and developer references section (#420)",
+      "date": "2026-06-02",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/420",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/f37caab09a3246a3a009d06ca1ebf3aad76a0573"
+    },
     {
       "sha": "103ebd3e6d",
       "message": "Node.js: Add RESET command support (#5945)",

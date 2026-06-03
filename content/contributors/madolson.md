@@ -2,8 +2,8 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 848,
-  "commit_count": 184,
+  "score": 850,
+  "commit_count": 186,
   "review_count": 664,
   "repos": [
     "valkey",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "097e9e09f0",
+      "message": "Update versions.json and Dockerfiles for version 8.1.8 (#145)",
+      "date": "2026-06-02",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/145",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/097e9e09f08b332b542270949bee119be911983e"
+    },
+    {
+      "sha": "373a560dfe",
+      "message": "Fix CI to test merge result instead of fork branch in isolation (#562)",
+      "date": "2026-06-02",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/562",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/373a560dfe23d24c4f6911075f4a5cdb565c9e3d"
+    },
     {
       "sha": "2393606c40",
       "message": "Make PR references clickable hyperlinks in backport PR bodies (#7)",

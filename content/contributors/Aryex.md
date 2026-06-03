@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 121,
-  "commit_count": 40,
-  "review_count": 81,
+  "score": 123,
+  "commit_count": 41,
+  "review_count": 82,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "28baced955",
+      "message": "Increased testBLMove and testPTtlTimeUnitConversionTransaction check parameters to reduce flakiness (#91)",
+      "date": "2026-06-02",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/91",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/28baced955f7651b61f065f3360e829da8b2fb12"
+    },
     {
       "sha": "6b301246b6",
       "message": "Set client lib-name to GlideSpringDataValkey (#87)",
@@ -344,6 +352,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6061",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/53bde5f846c7c6ceba04726ced3e371e6bdd13e2"
+    },
+    {
+      "sha": "c6d21c90b4",
+      "message": "test: fix ValkeyStandalone qualifier typo (#89)",
+      "date": "2026-06-02",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/89",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/c6d21c90b40f5e82a6d411e94e02338323b348fc"
     },
     {
       "sha": "34bd369549",

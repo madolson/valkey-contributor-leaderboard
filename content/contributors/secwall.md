@@ -2,14 +2,22 @@
   "title": "secwall",
   "login": "secwall",
   "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
-  "score": 19,
-  "commit_count": 17,
+  "score": 20,
+  "commit_count": 18,
   "review_count": 2,
   "repos": [
     "valkey",
     "valkey-luajit"
   ],
   "commit_list": [
+    {
+      "sha": "1d4abb95f7",
+      "message": "Drop nightly packaging (#27)",
+      "date": "2026-06-03",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/27",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/1d4abb95f7ccaeddf7cadec4c58aa547c4df894e"
+    },
     {
       "sha": "5730918938",
       "message": "Add packages publish",
@@ -148,6 +156,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "57d93393db",
+      "message": "Bump actions/checkout from 6.0.2 to 6.0.3",
+      "date": "2026-06-03",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/26",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/57d93393db4cfaf3aed457438b45c95096b3776f"
+    },
     {
       "sha": "524fed709e",
       "message": "Bump actions/upload-artifact from 7.0.0 to 7.0.1 (#20)",

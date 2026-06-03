@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 230,
+  "score": 231,
   "commit_count": 51,
-  "review_count": 179,
+  "review_count": 180,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -422,6 +422,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a929e53994",
+      "message": "PHP: add PHPRedis compatibility check script (#209)",
+      "date": "2026-06-02",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/209",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/a929e5399435d39bde10aa999367b8b3c56a92b2"
+    },
     {
       "sha": "5287ff84dd",
       "message": "Core/FFI: MonitorClient for MONITOR command (#5977)",

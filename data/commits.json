@@ -150480,6 +150480,295 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1058"
+    },
+    {
+      "sha": "c6d21c90b40f5e82a6d411e94e02338323b348fc",
+      "author_login": "charles-openclaw",
+      "author_id": 289069675,
+      "avatar_url": "https://avatars.githubusercontent.com/u/289069675?v=4",
+      "message": "test: fix ValkeyStandalone qualifier typo (#89)",
+      "date": "2026-06-02T16:54:41Z",
+      "repo": "spring-data-valkey",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-06-01T22:55:05Z"
+        },
+        {
+          "login": "jeremyprime",
+          "date": "2026-06-02T16:54:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/89"
+    },
+    {
+      "sha": "28baced955f7651b61f065f3360e829da8b2fb12",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "Increased testBLMove and testPTtlTimeUnitConversionTransaction check parameters to reduce flakiness (#91)",
+      "date": "2026-06-02T16:35:24Z",
+      "repo": "spring-data-valkey",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-06-02T15:47:12Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/91"
+    },
+    {
+      "sha": "3cfaf5777bb41fd3b4c9dabed2a96a95a92d2583",
+      "author_login": "ranshid",
+      "author_id": 88133677,
+      "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
+      "message": "Deflake temp-rdb checks in shutdown test (#3892)",
+      "date": "2026-06-02T09:26:26Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-06-02T06:53:45Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3892"
+    },
+    {
+      "sha": "3c12295349f4f1fec83423f6ac89bc732dbbdb7e",
+      "author_login": "ArgusLi",
+      "author_id": 43020525,
+      "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
+      "message": "Create and seed numbered databases for test environments (cluster and standalone) (#365)",
+      "date": "2026-06-02T21:20:50Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "arseny-kostenko",
+          "date": "2026-06-02T21:08:55Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/365"
+    },
+    {
+      "sha": "a5cc0248d4180ebf60822088933e452e8f3d6566",
+      "author_login": "nassery318",
+      "author_id": 86083902,
+      "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
+      "message": "replaced blocking key info commands with pagination for different key\u2026 (#364)",
+      "date": "2026-06-02T18:37:04Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ArgusLi",
+          "date": "2026-06-02T18:35:44Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/364"
+    },
+    {
+      "sha": "ed17a66d500699e18166e6748e1ff0712d8e86d8",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Preserve backport sweep PR body entries (#21)",
+      "date": "2026-06-02T19:59:12Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "097e9e09f08b332b542270949bee119be911983e",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Update versions.json and Dockerfiles for version 8.1.8 (#145)",
+      "date": "2026-06-02T20:20:17Z",
+      "repo": "valkey-container",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-06-02T20:20:11Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/145"
+    },
+    {
+      "sha": "bf68f1d162d7e20f263905d652fe01527cb99b3b",
+      "author_login": "affonsov",
+      "author_id": 67347924,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
+      "message": "changelog: add Go and Java RESET command support entries (#6067)",
+      "date": "2026-06-02T21:40:42Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-05-29T21:29:52Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-05-29T22:00:48Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6067"
+    },
+    {
+      "sha": "f37caab09a3246a3a009d06ca1ebf3aad76a0573",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "docs: add PR reviewing guide and developer references section (#420)",
+      "date": "2026-06-02T19:06:07Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-06-02T03:52:11Z"
+        },
+        {
+          "login": "alexr-bq",
+          "date": "2026-06-02T17:47:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/420"
+    },
+    {
+      "sha": "a929e5399435d39bde10aa999367b8b3c56a92b2",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "PHP: add PHPRedis compatibility check script (#209)",
+      "date": "2026-06-02T20:56:20Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "jduo",
+          "date": "2026-05-29T17:04:33Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-06-02T00:40:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/209"
+    },
+    {
+      "sha": "4d68b09df13b9f58cf4a10c9d52263e4fdd32f16",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Update hash for 8.1.8",
+      "date": "2026-06-02T18:31:52Z",
+      "repo": "valkey-hashes",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "373a560dfe23d24c4f6911075f4a5cdb565c9e3d",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Fix CI to test merge result instead of fork branch in isolation (#562)",
+      "date": "2026-06-02T19:19:55Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "stockholmux",
+          "date": "2026-06-02T18:21:36Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/562"
+    },
+    {
+      "sha": "1d4abb95f7ccaeddf7cadec4c58aa547c4df894e",
+      "author_login": "secwall",
+      "author_id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "message": "Drop nightly packaging (#27)",
+      "date": "2026-06-03T07:01:59Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-06-03T07:01:53Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/27"
+    },
+    {
+      "sha": "57d93393db4cfaf3aed457438b45c95096b3776f",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump actions/checkout from 6.0.2 to 6.0.3",
+      "date": "2026-06-03T04:32:37Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "secwall",
+          "date": "2026-06-03T04:32:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/26"
+    },
+    {
+      "sha": "6be74d2ebbbab4f1ec982a7464d36c9c6a36d3f0",
+      "author_login": "bjosv",
+      "author_id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "message": "fix: rolling update loses all keys when replicas are not synced (#208)",
+      "date": "2026-06-02T17:54:59Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-06-02T17:54:52Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/208"
+    },
+    {
+      "sha": "df793a6df92d33055b9ad91b7a161f19a8713af1",
+      "author_login": "sandeepkunusoth",
+      "author_id": 31273507,
+      "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
+      "message": "fix empty IP in 'CLUSTER SLOTS' for single shard clusters (#204)",
+      "date": "2026-06-02T17:54:19Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-06-02T17:50:15Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/204"
+    },
+    {
+      "sha": "e1d9fe941911caad3736ffa5e7377d1ec300f003",
+      "author_login": "Nikhil-Manglore",
+      "author_id": 46588759,
+      "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
+      "message": "Updating the Architectural Diagrams in the README (#45)",
+      "date": "2026-06-02T20:16:25Z",
+      "repo": "valkey-release-automation",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-06-02T20:16:15Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/45"
+    },
+    {
+      "sha": "f7060cf17a8a4126ab47e019febbf455e4e3102a",
+      "author_login": "jjuleslasarte",
+      "author_id": 140852041,
+      "avatar_url": "https://avatars.githubusercontent.com/u/140852041?v=4",
+      "message": "Replace AUTOMATION_PAT with Valkeyrie Bot GitHub App tokens (#56)",
+      "date": "2026-06-02T20:15:33Z",
+      "repo": "valkey-release-automation",
+      "reviewed": false,
+      "pr_url": ""
     }
   ]
 }

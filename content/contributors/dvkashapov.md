@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 89,
+  "score": 90,
   "commit_count": 22,
-  "review_count": 67,
+  "review_count": 68,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -190,6 +190,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1d4abb95f7",
+      "message": "Drop nightly packaging (#27)",
+      "date": "2026-06-03",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/27",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/1d4abb95f7ccaeddf7cadec4c58aa547c4df894e"
+    },
     {
       "sha": "12061032d0",
       "message": "Validate every DB clause in COPY against ACL db= permissions (#3801)",

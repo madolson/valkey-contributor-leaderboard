@@ -2,8 +2,8 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 191,
-  "commit_count": 105,
+  "score": 192,
+  "commit_count": 106,
   "review_count": 86,
   "repos": [
     "libvalkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "6be74d2ebb",
+      "message": "fix: rolling update loses all keys when replicas are not synced (#208)",
+      "date": "2026-06-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/208",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6be74d2ebbbab4f1ec982a7464d36c9c6a36d3f0"
+    },
     {
       "sha": "37421b7157",
       "message": "fix: check primary node first when resolving shard index (#207)",

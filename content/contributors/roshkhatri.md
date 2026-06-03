@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 353,
+  "score": 355,
   "commit_count": 137,
-  "review_count": 216,
+  "review_count": 218,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1124,6 +1124,22 @@
       "repo": "valkey-bundle",
       "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/110",
       "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/ab6e04e9e2dc5b828941886ae72185ebb8c3755d"
+    },
+    {
+      "sha": "097e9e09f0",
+      "message": "Update versions.json and Dockerfiles for version 8.1.8 (#145)",
+      "date": "2026-06-02",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/145",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/097e9e09f08b332b542270949bee119be911983e"
+    },
+    {
+      "sha": "e1d9fe9419",
+      "message": "Updating the Architectural Diagrams in the README (#45)",
+      "date": "2026-06-02",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/45",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/e1d9fe941911caad3736ffa5e7377d1ec300f003"
     },
     {
       "sha": "c15ecf1dd8",
