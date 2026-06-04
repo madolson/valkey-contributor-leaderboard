@@ -150769,6 +150769,60 @@
       "repo": "valkey-release-automation",
       "reviewed": false,
       "pr_url": ""
+    },
+    {
+      "sha": "3100f9dfe8656cf7572a07a84c031b5fbec5ffbc",
+      "author_login": "jjuleslasarte",
+      "author_id": 140852041,
+      "avatar_url": "https://avatars.githubusercontent.com/u/140852041?v=4",
+      "message": "Add CLUSTER SAVECONFIG before pause in shard restart tests (#3904)",
+      "date": "2026-06-04T03:56:47Z",
+      "repo": "valkey"
+    },
+    {
+      "sha": "d7384b9192363f463c6e7204e2f15ed5f55c0a36",
+      "author_login": "eifrah-aws",
+      "author_id": 170855270,
+      "avatar_url": "https://avatars.githubusercontent.com/u/170855270?v=4",
+      "message": "Fix cluster AUX-field control-character and delimiter injection (#3848)",
+      "date": "2026-06-03T19:23:46Z",
+      "repo": "valkey"
+    },
+    {
+      "sha": "87b3aaad8341c497592759e5caef1c4504fb080b",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Stop skipping backport candidates that touch workflow files (#22)",
+      "date": "2026-06-03T19:59:05Z",
+      "repo": "valkey-ci-agent"
+    },
+    {
+      "sha": "27e0ea3e72431cb5345c4f3997c32cf77db32137",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "fix(build): fix Makefile issues across Go and root targets (#6143)",
+      "date": "2026-06-03T23:33:29Z",
+      "repo": "valkey-glide"
+    },
+    {
+      "sha": "90dd658654971fadce0f3c2c1f111990c7cd9a3e",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Java: Skip AZ affinity tests on Windows due to zero replicas (#6128)",
+      "date": "2026-06-03T22:20:16Z",
+      "repo": "valkey-glide"
+    },
+    {
+      "sha": "bfd31dac2c1ece212088a98ed3b56dfad653627c",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "[Python] Fix flaky test: test_sync_pubsub_sharded_large_size_message_callback (#6027)",
+      "date": "2026-06-03T21:51:24Z",
+      "repo": "valkey-glide"
     }
   ]
 }
