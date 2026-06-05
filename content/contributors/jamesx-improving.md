@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 208,
+  "score": 209,
   "commit_count": 65,
-  "review_count": 143,
+  "review_count": 144,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -532,6 +532,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "de78ad99be",
+      "message": "FFI: Enable client-side caching support on the URI API (#5860)",
+      "date": "2026-06-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5860",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/de78ad99be1f627069f31f3e4f635534877b8ffb"
+    },
     {
       "sha": "a929e53994",
       "message": "PHP: add PHPRedis compatibility check script (#209)",

@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 123,
+  "score": 126,
   "commit_count": 41,
-  "review_count": 82,
+  "review_count": 85,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -345,6 +345,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2833580220",
+      "message": "Update Starlight default description and fixed c# example checker(#222)",
+      "date": "2026-06-04",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/222",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/28335802200458f9c280c89a47b80e5fc5467a24"
+    },
+    {
+      "sha": "90dd658654",
+      "message": "Java: Skip AZ affinity tests on Windows due to zero replicas (#6128)",
+      "date": "2026-06-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6128",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/90dd658654971fadce0f3c2c1f111990c7cd9a3e"
+    },
+    {
+      "sha": "bfd31dac2c",
+      "message": "[Python] Fix flaky test: test_sync_pubsub_sharded_large_size_message_callback (#6027)",
+      "date": "2026-06-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6027",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bfd31dac2c1ece212088a98ed3b56dfad653627c"
+    },
     {
       "sha": "53bde5f846",
       "message": "Update/review prs.md comment resolving policy (#6061)",

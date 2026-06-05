@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 320,
+  "score": 323,
   "commit_count": 111,
-  "review_count": 209,
+  "review_count": 212,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -902,6 +902,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0ea0cd34fa",
+      "message": "Java: Add support for `SAVE`, `BGSAVE`, `BGREWRITEAOF` commands (#6165)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6165",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0ea0cd34fa427cf843fa6c0e4e0c5ca04d9d09e8"
+    },
+    {
+      "sha": "8f00aae152",
+      "message": "feat: add address resolver support for standalone and cluster clients (#196)",
+      "date": "2026-06-04",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/196",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/8f00aae152a379035898821c822ab68e3c1838b5"
+    },
+    {
+      "sha": "bfd31dac2c",
+      "message": "[Python] Fix flaky test: test_sync_pubsub_sharded_large_size_message_callback (#6027)",
+      "date": "2026-06-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6027",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bfd31dac2c1ece212088a98ed3b56dfad653627c"
+    },
     {
       "sha": "235459c72b",
       "message": "[Go] Fix/flaky TestPubSubPatternCoexistence and TestPubSubExactCoexistence (#6009)",

@@ -2,13 +2,21 @@
   "title": "jjuleslasarte",
   "login": "jjuleslasarte",
   "avatar_url": "https://avatars.githubusercontent.com/u/140852041?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "3100f9dfe8",
+      "message": "Add CLUSTER SAVECONFIG before pause in shard restart tests (#3904)",
+      "date": "2026-06-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3904",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3100f9dfe8656cf7572a07a84c031b5fbec5ffbc"
+    },
     {
       "sha": "c15ecf1dd8",
       "message": "Replace AUTOMATION_PAT with Valkeyrie Bot GitHub App token (#3851)",

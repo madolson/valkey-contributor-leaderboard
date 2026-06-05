@@ -2,13 +2,29 @@
   "title": "crystalphamLF",
   "login": "crystalphamLF",
   "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "f9c59a943a",
+      "message": "Change author photo extension to .jpeg (#564)",
+      "date": "2026-06-03",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/564",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f9c59a943a59c85fbc3b887f16d73506acd6d24f"
+    },
+    {
+      "sha": "1626a5e426",
+      "message": "Valkey participants blog for momento (#523)",
+      "date": "2026-06-03",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/523",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/1626a5e426dfc015c5aaebb8a42bb5958a9a72f2"
+    },
     {
       "sha": "f4b81db969",
       "message": "Newsletter updates with folder rename (#454)",

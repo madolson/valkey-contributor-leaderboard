@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 90,
+  "score": 91,
   "commit_count": 22,
-  "review_count": 68,
+  "review_count": 69,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -197,6 +197,14 @@
       "repo": "valkey-luajit",
       "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/27",
       "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/1d4abb95f7ccaeddf7cadec4c58aa547c4df894e"
+    },
+    {
+      "sha": "1ec3b0e257",
+      "message": "Avoid merging deb file names",
+      "date": "2026-06-03",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/28",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/1ec3b0e257ca1e31e1d3e852f0a25dbd56704422"
     },
     {
       "sha": "12061032d0",

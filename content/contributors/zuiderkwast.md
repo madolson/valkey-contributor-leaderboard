@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1151,
+  "score": 1154,
   "commit_count": 152,
-  "review_count": 999,
+  "review_count": 1002,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1231,6 +1231,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c8c38e778b",
+      "message": "Remove apt-get upgrade in clang-format CI job (#3913)",
+      "date": "2026-06-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3913",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c8c38e778b00f567245009269a8019c634179ba5"
+    },
+    {
+      "sha": "c52e942afb",
+      "message": "Update website for version 8.1.8 (#563)",
+      "date": "2026-06-04",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/563",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c52e942afb5dbe1b6180e5ffcb03b4c01f49bb03"
+    },
+    {
+      "sha": "d7384b9192",
+      "message": "Fix cluster AUX-field control-character and delimiter injection (#3848)",
+      "date": "2026-06-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3848",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d7384b9192363f463c6e7204e2f15ed5f55c0a36"
+    },
     {
       "sha": "12061032d0",
       "message": "Validate every DB clause in COPY against ACL db= permissions (#3801)",

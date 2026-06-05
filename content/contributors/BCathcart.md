@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 75,
+  "score": 76,
   "commit_count": 35,
-  "review_count": 40,
+  "review_count": 41,
   "repos": [
     "valkey",
     "valkey-io.github.io",
@@ -293,6 +293,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b4bdc1535b",
+      "message": "Optimize content fetch: eliminate double key open, use HashGet for specific field access (#1045)",
+      "date": "2026-06-04",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1045",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/b4bdc1535bf4fd0d9215a1dcb5d88bc610526e5a"
+    },
     {
       "sha": "63574f75e6",
       "message": "Fix build script for ASAN integration tests (#777)",

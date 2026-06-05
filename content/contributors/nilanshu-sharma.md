@@ -2,9 +2,9 @@
   "title": "nilanshu-sharma",
   "login": "nilanshu-sharma",
   "avatar_url": "https://avatars.githubusercontent.com/u/220134298?v=4",
-  "score": 117,
+  "score": 119,
   "commit_count": 14,
-  "review_count": 103,
+  "review_count": 105,
   "repos": [
     "valkey-swift"
   ],
@@ -123,6 +123,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1d03810820",
+      "message": "Fix crash, when connection that is running keep-alive is closed (#389)",
+      "date": "2026-06-04",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/389",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/1d03810820a36b2fd9e7a1519efe006ea39f0fa1"
+    },
+    {
+      "sha": "a71a2b70c7",
+      "message": "Cluster readonly node AZ selection (#391)",
+      "date": "2026-06-03",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/391",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/a71a2b70c73a100af4dfb722f0e39ab393faec20"
+    },
     {
       "sha": "058fde34ae",
       "message": "Add internal sentinel client (#373)",

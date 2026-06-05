@@ -2,9 +2,9 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 66,
+  "score": 69,
   "commit_count": 43,
-  "review_count": 23,
+  "review_count": 26,
   "repos": [
     "valkey-ci-agent",
     "valkey-search"
@@ -356,6 +356,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8c260dba83",
+      "message": "Support Borrowed InternedString Ptr to avoid ref counting  (#1043)",
+      "date": "2026-06-05",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1043",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8c260dba836ecc4a5f6ce1bf19f5b12c7dad96d5"
+    },
+    {
+      "sha": "b668a71735",
+      "message": "Fix allow_replace_deleted_ not set before LoadIndex (#1019)",
+      "date": "2026-06-05",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1019",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/b668a71735c78ce808454bd0012aa4a9d8e3b748"
+    },
+    {
+      "sha": "b4bdc1535b",
+      "message": "Optimize content fetch: eliminate double key open, use HashGet for specific field access (#1045)",
+      "date": "2026-06-04",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1045",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/b4bdc1535bf4fd0d9215a1dcb5d88bc610526e5a"
+    },
     {
       "sha": "cabb67073e",
       "message": "docker update test (#1007)",

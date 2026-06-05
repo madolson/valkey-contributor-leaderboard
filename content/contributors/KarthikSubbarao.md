@@ -2,8 +2,8 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 252,
-  "commit_count": 93,
+  "score": 254,
+  "commit_count": 95,
   "review_count": 159,
   "repos": [
     "valkey",
@@ -15,6 +15,22 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "8c260dba83",
+      "message": "Support Borrowed InternedString Ptr to avoid ref counting  (#1043)",
+      "date": "2026-06-05",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1043",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8c260dba836ecc4a5f6ce1bf19f5b12c7dad96d5"
+    },
+    {
+      "sha": "b4bdc1535b",
+      "message": "Optimize content fetch: eliminate double key open, use HashGet for specific field access (#1045)",
+      "date": "2026-06-04",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1045",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/b4bdc1535bf4fd0d9215a1dcb5d88bc610526e5a"
+    },
     {
       "sha": "7cb0d02c41",
       "message": "Use protobuf Arena for fanout response deserialization (#1040)",

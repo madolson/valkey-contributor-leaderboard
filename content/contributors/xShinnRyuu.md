@@ -2,14 +2,38 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 271,
-  "commit_count": 61,
-  "review_count": 210,
+  "score": 278,
+  "commit_count": 64,
+  "review_count": 214,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "16be93b127",
+      "message": "Fix PubSub test timeouts on Windows CI (#6085, #6088) (#6090)",
+      "date": "2026-06-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6090",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/16be93b12796e50e2207f26a5995325ab89c351d"
+    },
+    {
+      "sha": "90dd658654",
+      "message": "Java: Skip AZ affinity tests on Windows due to zero replicas (#6128)",
+      "date": "2026-06-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6128",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/90dd658654971fadce0f3c2c1f111990c7cd9a3e"
+    },
+    {
+      "sha": "bfd31dac2c",
+      "message": "[Python] Fix flaky test: test_sync_pubsub_sharded_large_size_message_callback (#6027)",
+      "date": "2026-06-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6027",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bfd31dac2c1ece212088a98ed3b56dfad653627c"
+    },
     {
       "sha": "53bde5f846",
       "message": "Update/review prs.md comment resolving policy (#6061)",
@@ -500,6 +524,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cfddef6307",
+      "message": "Pin all GitHub Actions (#5987)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5987",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cfddef63078dd3fe3171226a9505b25ce6a03253"
+    },
+    {
+      "sha": "87d8c1a753",
+      "message": "docs: fix `CHANGELOG` formatting and consistency (#6142)",
+      "date": "2026-06-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6142",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/87d8c1a7534d15e615b360d46f0c0af22939fadd"
+    },
+    {
+      "sha": "4c5636cfa3",
+      "message": "go: apply gofumpt and golines formatting (#6051)",
+      "date": "2026-06-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6051",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4c5636cfa327e354d5ac65bc85fb384ef81ae3f6"
+    },
+    {
+      "sha": "27e0ea3e72",
+      "message": "fix(build): fix Makefile issues across Go and root targets (#6143)",
+      "date": "2026-06-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6143",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/27e0ea3e72431cb5345c4f3997c32cf77db32137"
+    },
     {
       "sha": "d6f59b30ff",
       "message": "feat(ci): add coverage measurement and enforcement (#416)",

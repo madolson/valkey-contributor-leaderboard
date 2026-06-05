@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 283,
+  "score": 284,
   "commit_count": 91,
-  "review_count": 192,
+  "review_count": 193,
   "repos": [
     "valkey",
     "valkey-container",
@@ -745,6 +745,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d7384b9192",
+      "message": "Fix cluster AUX-field control-character and delimiter injection (#3848)",
+      "date": "2026-06-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3848",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d7384b9192363f463c6e7204e2f15ed5f55c0a36"
+    },
     {
       "sha": "e71299d596",
       "message": "Harden SENTINEL commands and config rewrite against control-character injection (#3847)",

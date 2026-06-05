@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 850,
-  "commit_count": 186,
-  "review_count": 664,
+  "score": 852,
+  "commit_count": 187,
+  "review_count": 665,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "c52e942afb",
+      "message": "Update website for version 8.1.8 (#563)",
+      "date": "2026-06-04",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/563",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c52e942afb5dbe1b6180e5ffcb03b4c01f49bb03"
+    },
     {
       "sha": "097e9e09f0",
       "message": "Update versions.json and Dockerfiles for version 8.1.8 (#145)",
@@ -1506,6 +1514,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1626a5e426",
+      "message": "Valkey participants blog for momento (#523)",
+      "date": "2026-06-03",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/523",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/1626a5e426dfc015c5aaebb8a42bb5958a9a72f2"
+    },
     {
       "sha": "c15ecf1dd8",
       "message": "Replace AUTOMATION_PAT with Valkeyrie Bot GitHub App token (#3851)",

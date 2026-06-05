@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 135,
-  "commit_count": 78,
-  "review_count": 57,
+  "score": 145,
+  "commit_count": 80,
+  "review_count": 65,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,22 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "de78ad99be",
+      "message": "FFI: Enable client-side caching support on the URI API (#5860)",
+      "date": "2026-06-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5860",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/de78ad99be1f627069f31f3e4f635534877b8ffb"
+    },
+    {
+      "sha": "8f00aae152",
+      "message": "feat: add address resolver support for standalone and cluster clients (#196)",
+      "date": "2026-06-04",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/196",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/8f00aae152a379035898821c822ab68e3c1838b5"
+    },
     {
       "sha": "bf68f1d162",
       "message": "changelog: add Go and Java RESET command support entries (#6067)",
@@ -638,6 +654,70 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0ea0cd34fa",
+      "message": "Java: Add support for `SAVE`, `BGSAVE`, `BGREWRITEAOF` commands (#6165)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6165",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0ea0cd34fa427cf843fa6c0e4e0c5ca04d9d09e8"
+    },
+    {
+      "sha": "cfddef6307",
+      "message": "Pin all GitHub Actions (#5987)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5987",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cfddef63078dd3fe3171226a9505b25ce6a03253"
+    },
+    {
+      "sha": "87d8c1a753",
+      "message": "docs: fix `CHANGELOG` formatting and consistency (#6142)",
+      "date": "2026-06-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6142",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/87d8c1a7534d15e615b360d46f0c0af22939fadd"
+    },
+    {
+      "sha": "4c5636cfa3",
+      "message": "go: apply gofumpt and golines formatting (#6051)",
+      "date": "2026-06-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6051",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4c5636cfa327e354d5ac65bc85fb384ef81ae3f6"
+    },
+    {
+      "sha": "16be93b127",
+      "message": "Fix PubSub test timeouts on Windows CI (#6085, #6088) (#6090)",
+      "date": "2026-06-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6090",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/16be93b12796e50e2207f26a5995325ab89c351d"
+    },
+    {
+      "sha": "711b75f83a",
+      "message": "feat(client): Add `CLIENT PAUSE` and `CLIENT UNPAUSE` commands (#6068)",
+      "date": "2026-06-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6068",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/711b75f83a43ac63a3248e70f28d07fc00417192"
+    },
+    {
+      "sha": "27e0ea3e72",
+      "message": "fix(build): fix Makefile issues across Go and root targets (#6143)",
+      "date": "2026-06-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6143",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/27e0ea3e72431cb5345c4f3997c32cf77db32137"
+    },
+    {
+      "sha": "90dd658654",
+      "message": "Java: Skip AZ affinity tests on Windows due to zero replicas (#6128)",
+      "date": "2026-06-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6128",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/90dd658654971fadce0f3c2c1f111990c7cd9a3e"
+    },
     {
       "sha": "98bb7dfe3c",
       "message": "Commit lock files (#5859)",

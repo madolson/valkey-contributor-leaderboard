@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 168,
+  "score": 169,
   "commit_count": 40,
-  "review_count": 128,
+  "review_count": 129,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -334,6 +334,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "711b75f83a",
+      "message": "feat(client): Add `CLIENT PAUSE` and `CLIENT UNPAUSE` commands (#6068)",
+      "date": "2026-06-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6068",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/711b75f83a43ac63a3248e70f28d07fc00417192"
+    },
+    {
+      "sha": "5e9b6f87cc",
+      "message": "chore(deps): bump the minor-updates group with 3 updates (#421)",
+      "date": "2026-06-03",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/421",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5e9b6f87cc762907a34954d5a3a2f58910787b3c"
+    },
     {
       "sha": "f37caab09a",
       "message": "docs: add PR reviewing guide and developer references section (#420)",

@@ -2,8 +2,8 @@
   "title": "secwall",
   "login": "secwall",
   "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
-  "score": 20,
-  "commit_count": 18,
+  "score": 21,
+  "commit_count": 19,
   "review_count": 2,
   "repos": [
     "valkey",
@@ -17,6 +17,14 @@
       "repo": "valkey-luajit",
       "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/27",
       "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/1d4abb95f7ccaeddf7cadec4c58aa547c4df894e"
+    },
+    {
+      "sha": "1ec3b0e257",
+      "message": "Avoid merging deb file names",
+      "date": "2026-06-03",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/28",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/1ec3b0e257ca1e31e1d3e852f0a25dbd56704422"
     },
     {
       "sha": "5730918938",

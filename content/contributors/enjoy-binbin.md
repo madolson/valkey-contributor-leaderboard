@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 859,
-  "commit_count": 334,
-  "review_count": 525,
+  "score": 861,
+  "commit_count": 335,
+  "review_count": 526,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "c340f0ec24",
+      "message": "Support reusing an externally built valkey-server binary for test (#97)",
+      "date": "2026-06-04",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/97",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/c340f0ec2447bfdc080325aa9ff27bc6fe4988f8"
+    },
     {
       "sha": "12061032d0",
       "message": "Validate every DB clause in COPY against ACL db= permissions (#3801)",
@@ -2687,6 +2695,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3100f9dfe8",
+      "message": "Add CLUSTER SAVECONFIG before pause in shard restart tests (#3904)",
+      "date": "2026-06-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3904",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3100f9dfe8656cf7572a07a84c031b5fbec5ffbc"
+    },
     {
       "sha": "3cfaf5777b",
       "message": "Deflake temp-rdb checks in shutdown test (#3892)",

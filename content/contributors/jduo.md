@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 231,
+  "score": 233,
   "commit_count": 51,
-  "review_count": 180,
+  "review_count": 182,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -422,6 +422,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "de78ad99be",
+      "message": "FFI: Enable client-side caching support on the URI API (#5860)",
+      "date": "2026-06-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5860",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/de78ad99be1f627069f31f3e4f635534877b8ffb"
+    },
+    {
+      "sha": "8f00aae152",
+      "message": "feat: add address resolver support for standalone and cluster clients (#196)",
+      "date": "2026-06-04",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/196",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/8f00aae152a379035898821c822ab68e3c1838b5"
+    },
     {
       "sha": "a929e53994",
       "message": "PHP: add PHPRedis compatibility check script (#209)",

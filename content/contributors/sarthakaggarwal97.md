@@ -2,8 +2,8 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 295,
-  "commit_count": 86,
+  "score": 296,
+  "commit_count": 87,
   "review_count": 209,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "c8c38e778b",
+      "message": "Remove apt-get upgrade in clang-format CI job (#3913)",
+      "date": "2026-06-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3913",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c8c38e778b00f567245009269a8019c634179ba5"
+    },
     {
       "sha": "93e84bdbe5",
       "message": "Remove references to closed Discord channel (#3722)",

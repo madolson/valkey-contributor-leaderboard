@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 355,
+  "score": 356,
   "commit_count": 137,
-  "review_count": 218,
+  "review_count": 219,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1117,6 +1117,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "87185f5f16",
+      "message": "build and publish packages during release (#58)",
+      "date": "2026-06-04",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/58",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/87185f5f16ef27aa9bad0d810cda401ba226d713"
+    },
     {
       "sha": "ab6e04e9e2",
       "message": "Adding maintainers.md file (#110)",

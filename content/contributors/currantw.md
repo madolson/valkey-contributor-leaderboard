@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 185,
-  "commit_count": 116,
-  "review_count": 69,
+  "score": 190,
+  "commit_count": 120,
+  "review_count": 70,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -14,6 +14,38 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "0ea0cd34fa",
+      "message": "Java: Add support for `SAVE`, `BGSAVE`, `BGREWRITEAOF` commands (#6165)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6165",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0ea0cd34fa427cf843fa6c0e4e0c5ca04d9d09e8"
+    },
+    {
+      "sha": "87d8c1a753",
+      "message": "docs: fix `CHANGELOG` formatting and consistency (#6142)",
+      "date": "2026-06-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6142",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/87d8c1a7534d15e615b360d46f0c0af22939fadd"
+    },
+    {
+      "sha": "711b75f83a",
+      "message": "feat(client): Add `CLIENT PAUSE` and `CLIENT UNPAUSE` commands (#6068)",
+      "date": "2026-06-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6068",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/711b75f83a43ac63a3248e70f28d07fc00417192"
+    },
+    {
+      "sha": "27e0ea3e72",
+      "message": "fix(build): fix Makefile issues across Go and root targets (#6143)",
+      "date": "2026-06-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6143",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/27e0ea3e72431cb5345c4f3997c32cf77db32137"
+    },
     {
       "sha": "d6f59b30ff",
       "message": "feat(ci): add coverage measurement and enforcement (#416)",
@@ -944,6 +976,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "16be93b127",
+      "message": "Fix PubSub test timeouts on Windows CI (#6085, #6088) (#6090)",
+      "date": "2026-06-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6090",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/16be93b12796e50e2207f26a5995325ab89c351d"
+    },
+    {
+      "sha": "5e9b6f87cc",
+      "message": "chore(deps): bump the minor-updates group with 3 updates (#421)",
+      "date": "2026-06-03",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/421",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5e9b6f87cc762907a34954d5a3a2f58910787b3c"
+    },
     {
       "sha": "53bde5f846",
       "message": "Update/review prs.md comment resolving policy (#6061)",

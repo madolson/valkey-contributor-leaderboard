@@ -2,8 +2,8 @@
   "title": "eifrah-aws",
   "login": "eifrah-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/170855270?v=4",
-  "score": 212,
-  "commit_count": 92,
+  "score": 213,
+  "commit_count": 93,
   "review_count": 120,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "d7384b9192",
+      "message": "Fix cluster AUX-field control-character and delimiter injection (#3848)",
+      "date": "2026-06-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3848",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d7384b9192363f463c6e7204e2f15ed5f55c0a36"
+    },
     {
       "sha": "e71299d596",
       "message": "Harden SENTINEL commands and config rewrite against control-character injection (#3847)",

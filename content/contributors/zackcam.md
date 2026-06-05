@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 58,
+  "score": 59,
   "commit_count": 39,
-  "review_count": 19,
+  "review_count": 20,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -329,6 +329,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c340f0ec24",
+      "message": "Support reusing an externally built valkey-server binary for test (#97)",
+      "date": "2026-06-04",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/97",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/c340f0ec2447bfdc080325aa9ff27bc6fe4988f8"
+    },
     {
       "sha": "2dc8e1f6a2",
       "message": "Add SCORE_FIELD support and SCORE range validation to FT.CREATE (#1008)",
