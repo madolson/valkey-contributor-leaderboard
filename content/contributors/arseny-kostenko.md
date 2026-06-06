@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 205,
+  "score": 206,
   "commit_count": 19,
-  "review_count": 186,
+  "review_count": 187,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8a4f1ab285",
+      "message": "Numbered Databases New Connection Support (#366)",
+      "date": "2026-06-05",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/366",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/8a4f1ab2852c8fef5e32d729f302810c3f78df99"
+    },
     {
       "sha": "3c12295349",
       "message": "Create and seed numbered databases for test environments (cluster and standalone) (#365)",

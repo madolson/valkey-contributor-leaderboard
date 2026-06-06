@@ -2,13 +2,21 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 79,
-  "commit_count": 57,
+  "score": 80,
+  "commit_count": 58,
   "review_count": 22,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "8a4f1ab285",
+      "message": "Numbered Databases New Connection Support (#366)",
+      "date": "2026-06-05",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/366",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/8a4f1ab2852c8fef5e32d729f302810c3f78df99"
+    },
     {
       "sha": "3c12295349",
       "message": "Create and seed numbered databases for test environments (cluster and standalone) (#365)",

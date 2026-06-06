@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 233,
+  "score": 234,
   "commit_count": 51,
-  "review_count": 182,
+  "review_count": 183,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -422,6 +422,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4133f08a20",
+      "message": "fix(test): fix flaky `PAUSE`/`UNPAUSE` test (#6169)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6169",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4133f08a206a658f2608b0a140347c40a455cf04"
+    },
     {
       "sha": "de78ad99be",
       "message": "FFI: Enable client-side caching support on the URI API (#5860)",

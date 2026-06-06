@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1154,
+  "score": 1155,
   "commit_count": 152,
-  "review_count": 1002,
+  "review_count": 1003,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1231,6 +1231,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "45f0074b0f",
+      "message": "Fix issues in valkeyClusterAsyncCallback (#306)",
+      "date": "2026-06-05",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/306",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/45f0074b0f0a55a035891b4df4d5ce871457be28"
+    },
     {
       "sha": "c8c38e778b",
       "message": "Remove apt-get upgrade in clang-format CI job (#3913)",

@@ -2,8 +2,8 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 169,
-  "commit_count": 40,
+  "score": 170,
+  "commit_count": 41,
   "review_count": 129,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "1465b38eee",
+      "message": "Fix setting of library name (#97)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/97",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/1465b38eeeff76335c698b2f824ec5322a25fd53"
+    },
     {
       "sha": "6aabe92f48",
       "message": "Modify Repo to use submodule + Add CD pipeline (#95)",

@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 190,
-  "commit_count": 120,
-  "review_count": 70,
+  "score": 192,
+  "commit_count": 121,
+  "review_count": 71,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -21,6 +21,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6165",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0ea0cd34fa427cf843fa6c0e4e0c5ca04d9d09e8"
+    },
+    {
+      "sha": "4133f08a20",
+      "message": "fix(test): fix flaky `PAUSE`/`UNPAUSE` test (#6169)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6169",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4133f08a206a658f2608b0a140347c40a455cf04"
     },
     {
       "sha": "87d8c1a753",
@@ -976,6 +984,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1465b38eee",
+      "message": "Fix setting of library name (#97)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/97",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/1465b38eeeff76335c698b2f824ec5322a25fd53"
+    },
     {
       "sha": "16be93b127",
       "message": "Fix PubSub test timeouts on Windows CI (#6085, #6088) (#6090)",

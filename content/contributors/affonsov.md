@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 145,
-  "commit_count": 80,
-  "review_count": 65,
+  "score": 148,
+  "commit_count": 81,
+  "review_count": 67,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "2d0d0bdfe3",
+      "message": "Java: Add multi-key MIGRATE support to standalone client (#6063)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6063",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2d0d0bdfe3402f44bbe2d4569dbf2dd0f68f894e"
+    },
     {
       "sha": "de78ad99be",
       "message": "FFI: Enable client-side caching support on the URI API (#5860)",
@@ -669,6 +677,38 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5987",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cfddef63078dd3fe3171226a9505b25ce6a03253"
+    },
+    {
+      "sha": "c019f1b83f",
+      "message": "build(deps-dev): bump tmp from 0.2.5 to 0.2.7 in /node (#6069)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6069",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c019f1b83f2a9bbf8e803c550c859307d8b9ca62"
+    },
+    {
+      "sha": "28039ea560",
+      "message": "build(deps): bump the patch-updates group in /glide-core with 7 updates (#6106)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6106",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/28039ea560cbfd38287481b388918136e43bc401"
+    },
+    {
+      "sha": "6ae2047f3b",
+      "message": "docs: add C# client-side caching examples (#234)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/234",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/6ae2047f3b793c8a7244801dbd64ac0c416f23e6"
+    },
+    {
+      "sha": "2395f1f605",
+      "message": "docs: add PHP examples to client-side caching page (#226)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/226",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/2395f1f605bacbba017f07159d34680ebfe04aa6"
     },
     {
       "sha": "87d8c1a753",

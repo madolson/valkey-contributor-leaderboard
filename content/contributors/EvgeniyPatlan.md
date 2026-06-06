@@ -2,9 +2,9 @@
   "title": "EvgeniyPatlan",
   "login": "EvgeniyPatlan",
   "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
-  "score": 8,
+  "score": 9,
   "commit_count": 6,
-  "review_count": 2,
+  "review_count": 3,
   "repos": [
     "valkey-ldap",
     "valkey-luajit",
@@ -61,6 +61,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0c5a1b9ab0",
+      "message": "disable auto-enable/start of services after install",
+      "date": "2026-06-05",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/59",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/0c5a1b9ab0029af58ac86e64ffd1fc1c3266c82e"
+    },
     {
       "sha": "9afd47a6eb",
       "message": "Delete packaging/common/debian/compat",

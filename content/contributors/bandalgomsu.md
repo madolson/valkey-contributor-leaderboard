@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 15,
-  "commit_count": 15,
+  "score": 17,
+  "commit_count": 17,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "beea10a226",
+      "message": "Refactor support for lua/multi on single slot indexes (#866)",
+      "date": "2026-06-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/866",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/beea10a226cb0909194a718182b2a9fe66db22fd"
+    },
+    {
+      "sha": "5f261980c9",
+      "message": "Fix numeric range search doesn't accept scientific notation (#937)",
+      "date": "2026-06-05",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/937",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5f261980c905796c8205f8f6ba760ef0ce9906ef"
+    },
     {
       "sha": "ca9dee353d",
       "message": "Add optional REPLACE argument to MOVE (#2993)",

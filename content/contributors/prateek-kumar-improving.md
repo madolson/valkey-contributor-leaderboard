@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 323,
-  "commit_count": 111,
-  "review_count": 212,
+  "score": 328,
+  "commit_count": 112,
+  "review_count": 216,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "cc1e64bb69",
+      "message": "Add Release 1.1 changes to main (#222)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/222",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/cc1e64bb695bc4f0100c9834b0b69da05c12df89"
+    },
     {
       "sha": "a929e53994",
       "message": "PHP: add PHPRedis compatibility check script (#209)",
@@ -903,12 +911,44 @@
   ],
   "review_list": [
     {
+      "sha": "d531c8206b",
+      "message": "docs: update PHP/C# Search and JSON module commands version support (#228)",
+      "date": "2026-06-06",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/228",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/d531c8206b367ad9a7e9e59d38bcd910e2dfdef4"
+    },
+    {
       "sha": "0ea0cd34fa",
       "message": "Java: Add support for `SAVE`, `BGSAVE`, `BGREWRITEAOF` commands (#6165)",
       "date": "2026-06-05",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6165",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0ea0cd34fa427cf843fa6c0e4e0c5ca04d9d09e8"
+    },
+    {
+      "sha": "2d0d0bdfe3",
+      "message": "Java: Add multi-key MIGRATE support to standalone client (#6063)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6063",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2d0d0bdfe3402f44bbe2d4569dbf2dd0f68f894e"
+    },
+    {
+      "sha": "2b003703b1",
+      "message": "fix(core): honor AWS_ENDPOINT_URL_STS in IAM credentials-provider loader (#5968)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5968",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2b003703b13280d1596e5ff86d5f86985c3f94dc"
+    },
+    {
+      "sha": "1465b38eee",
+      "message": "Fix setting of library name (#97)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/97",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/1465b38eeeff76335c698b2f824ec5322a25fd53"
     },
     {
       "sha": "8f00aae152",

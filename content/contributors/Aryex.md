@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 126,
-  "commit_count": 41,
-  "review_count": 85,
+  "score": 131,
+  "commit_count": 44,
+  "review_count": 87,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -15,6 +15,30 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "d531c8206b",
+      "message": "docs: update PHP/C# Search and JSON module commands version support (#228)",
+      "date": "2026-06-06",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/228",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/d531c8206b367ad9a7e9e59d38bcd910e2dfdef4"
+    },
+    {
+      "sha": "6ae2047f3b",
+      "message": "docs: add C# client-side caching examples (#234)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/234",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/6ae2047f3b793c8a7244801dbd64ac0c416f23e6"
+    },
+    {
+      "sha": "2395f1f605",
+      "message": "docs: add PHP examples to client-side caching page (#226)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/226",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/2395f1f605bacbba017f07159d34680ebfe04aa6"
+    },
     {
       "sha": "28baced955",
       "message": "Increased testBLMove and testPTtlTimeUnitConversionTransaction check parameters to reduce flakiness (#91)",
@@ -345,6 +369,78 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "138f44d164",
+      "message": "build(deps-dev): bump semver from 7.7.4 to 7.8.1 in /node in the minor-updates group (#6099)",
+      "date": "2026-06-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6099",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/138f44d16441062716862c789bfcb8ebe31a8164"
+    },
+    {
+      "sha": "c019f1b83f",
+      "message": "build(deps-dev): bump tmp from 0.2.5 to 0.2.7 in /node (#6069)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6069",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c019f1b83f2a9bbf8e803c550c859307d8b9ca62"
+    },
+    {
+      "sha": "a9608684ec",
+      "message": "build(deps-dev): bump typescript-eslint from 8.59.1 to 8.60.1 in the minor-updates group (#6097)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6097",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a9608684ec2926321b1c69b38223eebf7cdd866a"
+    },
+    {
+      "sha": "30c825f40e",
+      "message": "build(deps-dev): bump ts-jest from 29.4.9 to 29.4.11 in /node in the patch-updates group (#6096)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6096",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/30c825f40e61f0c3f9a8efb095d0b1e50f4cc5d0"
+    },
+    {
+      "sha": "aa00023bf0",
+      "message": "build(deps): bump the patch-updates group in /java with 2 updates (#6098)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6098",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/aa00023bf0c5fc90ee3f91565e63a639c827b9a2"
+    },
+    {
+      "sha": "4fa47848d0",
+      "message": "build(deps): bump serial_test from 3.4.0 to 3.5.0 in /glide-core in the minor-updates group (#6107)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6107",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4fa47848d04ceb3e96070072f826b86f7d898be3"
+    },
+    {
+      "sha": "28039ea560",
+      "message": "build(deps): bump the patch-updates group in /glide-core with 7 updates (#6106)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6106",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/28039ea560cbfd38287481b388918136e43bc401"
+    },
+    {
+      "sha": "db5350a692",
+      "message": "Java: Add Checkstyle to Java lint pipeline (#5687)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5687",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/db5350a6925c69c1bfb8b0bd94f0102db4efc774"
+    },
+    {
+      "sha": "cc1e64bb69",
+      "message": "Add Release 1.1 changes to main (#222)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/222",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/cc1e64bb695bc4f0100c9834b0b69da05c12df89"
+    },
     {
       "sha": "2833580220",
       "message": "Update Starlight default description and fixed c# example checker(#222)",

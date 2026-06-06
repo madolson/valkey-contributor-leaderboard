@@ -2,8 +2,8 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 192,
-  "commit_count": 106,
+  "score": 193,
+  "commit_count": 107,
   "review_count": 86,
   "repos": [
     "libvalkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "45f0074b0f",
+      "message": "Fix issues in valkeyClusterAsyncCallback (#306)",
+      "date": "2026-06-05",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/306",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/45f0074b0f0a55a035891b4df4d5ce871457be28"
+    },
     {
       "sha": "6be74d2ebb",
       "message": "fix: rolling update loses all keys when replicas are not synced (#208)",
@@ -863,6 +871,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b0422e080e",
+      "message": "chore(deps): bump docker/metadata-action from 6.0.0 to 6.1.0 (#220)",
+      "date": "2026-06-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/220",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/b0422e080e8e75987aae96ec6e6f0e5e932489e7"
+    },
+    {
+      "sha": "2894a1f0a0",
+      "message": "chore(deps): bump actions/checkout from 6.0.2 to 6.0.3 (#221)",
+      "date": "2026-06-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/221",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2894a1f0a0d93a826c9a69d0bd52621053ac3955"
+    },
+    {
+      "sha": "0315f36b07",
+      "message": "chore(deps): bump docker/login-action from 4.1.0 to 4.2.0 (#217)",
+      "date": "2026-06-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/217",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0315f36b072a80b0e7f391fd0b58d7d40d3701eb"
+    },
     {
       "sha": "2b7d06b2ff",
       "message": "feat: add watch-namespace flag to filter namespaces to watch for resources (#175)",

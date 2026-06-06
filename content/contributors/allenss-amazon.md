@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 242,
+  "score": 245,
   "commit_count": 54,
-  "review_count": 188,
+  "review_count": 191,
   "repos": [
     "valkey",
     "valkey-json",
@@ -445,6 +445,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "beea10a226",
+      "message": "Refactor support for lua/multi on single slot indexes (#866)",
+      "date": "2026-06-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/866",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/beea10a226cb0909194a718182b2a9fe66db22fd"
+    },
+    {
+      "sha": "08a27f3794",
+      "message": "Add .skills directory with stale-prs workflow (#1038)",
+      "date": "2026-06-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1038",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/08a27f37940b7dfebc61d327f81beab67c48e44c"
+    },
+    {
+      "sha": "5f261980c9",
+      "message": "Fix numeric range search doesn't accept scientific notation (#937)",
+      "date": "2026-06-05",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/937",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5f261980c905796c8205f8f6ba760ef0ce9906ef"
+    },
     {
       "sha": "147b0b2bf9",
       "message": "Run CI workflows on all release branches (#1058)",

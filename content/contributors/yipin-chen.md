@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 725,
+  "score": 727,
   "commit_count": 45,
-  "review_count": 680,
+  "review_count": 682,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2d0d0bdfe3",
+      "message": "Java: Add multi-key MIGRATE support to standalone client (#6063)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6063",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2d0d0bdfe3402f44bbe2d4569dbf2dd0f68f894e"
+    },
+    {
+      "sha": "cc1e64bb69",
+      "message": "Add Release 1.1 changes to main (#222)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/222",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/cc1e64bb695bc4f0100c9834b0b69da05c12df89"
+    },
     {
       "sha": "5287ff84dd",
       "message": "Core/FFI: MonitorClient for MONITOR command (#5977)",

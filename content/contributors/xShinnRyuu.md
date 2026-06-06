@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 278,
+  "score": 281,
   "commit_count": 64,
-  "review_count": 214,
+  "review_count": 217,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -525,12 +525,76 @@
   ],
   "review_list": [
     {
+      "sha": "138f44d164",
+      "message": "build(deps-dev): bump semver from 7.7.4 to 7.8.1 in /node in the minor-updates group (#6099)",
+      "date": "2026-06-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6099",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/138f44d16441062716862c789bfcb8ebe31a8164"
+    },
+    {
       "sha": "cfddef6307",
       "message": "Pin all GitHub Actions (#5987)",
       "date": "2026-06-05",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5987",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cfddef63078dd3fe3171226a9505b25ce6a03253"
+    },
+    {
+      "sha": "a9608684ec",
+      "message": "build(deps-dev): bump typescript-eslint from 8.59.1 to 8.60.1 in the minor-updates group (#6097)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6097",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a9608684ec2926321b1c69b38223eebf7cdd866a"
+    },
+    {
+      "sha": "30c825f40e",
+      "message": "build(deps-dev): bump ts-jest from 29.4.9 to 29.4.11 in /node in the patch-updates group (#6096)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6096",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/30c825f40e61f0c3f9a8efb095d0b1e50f4cc5d0"
+    },
+    {
+      "sha": "aa00023bf0",
+      "message": "build(deps): bump the patch-updates group in /java with 2 updates (#6098)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6098",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/aa00023bf0c5fc90ee3f91565e63a639c827b9a2"
+    },
+    {
+      "sha": "4fa47848d0",
+      "message": "build(deps): bump serial_test from 3.4.0 to 3.5.0 in /glide-core in the minor-updates group (#6107)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6107",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4fa47848d04ceb3e96070072f826b86f7d898be3"
+    },
+    {
+      "sha": "db5350a692",
+      "message": "Java: Add Checkstyle to Java lint pipeline (#5687)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5687",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/db5350a6925c69c1bfb8b0bd94f0102db4efc774"
+    },
+    {
+      "sha": "4133f08a20",
+      "message": "fix(test): fix flaky `PAUSE`/`UNPAUSE` test (#6169)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6169",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4133f08a206a658f2608b0a140347c40a455cf04"
+    },
+    {
+      "sha": "2b003703b1",
+      "message": "fix(core): honor AWS_ENDPOINT_URL_STS in IAM credentials-provider loader (#5968)",
+      "date": "2026-06-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5968",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2b003703b13280d1596e5ff86d5f86985c3f94dc"
     },
     {
       "sha": "87d8c1a753",
