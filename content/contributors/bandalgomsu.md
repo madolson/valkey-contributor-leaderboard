@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 17,
-  "commit_count": 17,
+  "score": 18,
+  "commit_count": 18,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -18,6 +18,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/866",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/beea10a226cb0909194a718182b2a9fe66db22fd"
+    },
+    {
+      "sha": "e38a5d9c43",
+      "message": "Update CME error message for MULTI/EXEC and Lua (#1112)",
+      "date": "2026-06-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1112",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e38a5d9c43d6fe4c570cfca3ee7cec0ac4795d40"
     },
     {
       "sha": "5f261980c9",

@@ -710,7 +710,7 @@
       "name": "Allen Samuels",
       "company": "Amazon Web Services",
       "commits": 54,
-      "reviews": 191,
+      "reviews": 192,
       "repos": [
         "valkey",
         "valkey-json",
@@ -727,7 +727,7 @@
         },
         "valkey-search": {
           "commits": 51,
-          "reviews": 187
+          "reviews": 188
         },
         "valkey": {
           "commits": 2,
@@ -738,7 +738,7 @@
           "reviews": 1
         }
       },
-      "score": 245
+      "score": 246
     },
     {
       "login": "Nikhil-Manglore",
@@ -1971,6 +1971,34 @@
       "score": 68
     },
     {
+      "login": "jdheyburn",
+      "id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "name": "Joseph Heyburn",
+      "company": "braze-inc",
+      "commits": 21,
+      "reviews": 46,
+      "repos": [
+        "valkey",
+        "valkey-operator"
+      ],
+      "per_repo": {
+        "valkey-operator": {
+          "commits": 20,
+          "reviews": 44
+        },
+        "valkey": {
+          "commits": 1,
+          "reviews": 0
+        },
+        "valkey-helm": {
+          "commits": 0,
+          "reviews": 2
+        }
+      },
+      "score": 67
+    },
+    {
       "login": "rjd15372",
       "id": 1948156,
       "avatar_url": "https://avatars.githubusercontent.com/u/1948156?v=4",
@@ -2009,34 +2037,6 @@
         "valkey-doc": {
           "commits": 2,
           "reviews": 0
-        }
-      },
-      "score": 65
-    },
-    {
-      "login": "jdheyburn",
-      "id": 34041368,
-      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-      "name": "Joseph Heyburn",
-      "company": "braze-inc",
-      "commits": 20,
-      "reviews": 45,
-      "repos": [
-        "valkey",
-        "valkey-operator"
-      ],
-      "per_repo": {
-        "valkey-operator": {
-          "commits": 19,
-          "reviews": 43
-        },
-        "valkey": {
-          "commits": 1,
-          "reviews": 0
-        },
-        "valkey-helm": {
-          "commits": 0,
-          "reviews": 2
         }
       },
       "score": 65
@@ -2701,17 +2701,17 @@
       "name": "sandeep kunusoth",
       "company": "",
       "commits": 15,
-      "reviews": 17,
+      "reviews": 18,
       "repos": [
         "valkey-operator"
       ],
       "per_repo": {
         "valkey-operator": {
           "commits": 15,
-          "reviews": 17
+          "reviews": 18
         }
       },
-      "score": 32
+      "score": 33
     },
     {
       "login": "ahmedsobeh",
@@ -3268,7 +3268,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
       "name": "",
       "company": "Nexon",
-      "commits": 17,
+      "commits": 18,
       "reviews": 0,
       "repos": [
         "valkey",
@@ -3281,7 +3281,7 @@
           "reviews": 0
         },
         "valkey-search": {
-          "commits": 9,
+          "commits": 10,
           "reviews": 0
         },
         "valkey": {
@@ -3289,7 +3289,7 @@
           "reviews": 0
         }
       },
-      "score": 17
+      "score": 18
     },
     {
       "login": "gmbnomis",
@@ -3680,6 +3680,40 @@
       "score": 11
     },
     {
+      "login": "hieu2102",
+      "id": 13182932,
+      "avatar_url": "https://avatars.githubusercontent.com/u/13182932?v=4",
+      "name": "hieu2102",
+      "company": "",
+      "commits": 11,
+      "reviews": 0,
+      "repos": [
+        "valkey",
+        "valkey-bundle",
+        "valkey-doc",
+        "valkey-operator"
+      ],
+      "per_repo": {
+        "valkey-operator": {
+          "commits": 6,
+          "reviews": 0
+        },
+        "valkey": {
+          "commits": 2,
+          "reviews": 0
+        },
+        "valkey-bundle": {
+          "commits": 2,
+          "reviews": 0
+        },
+        "valkey-doc": {
+          "commits": 1,
+          "reviews": 0
+        }
+      },
+      "score": 11
+    },
+    {
       "login": "baswanth09",
       "id": 122412818,
       "avatar_url": "https://avatars.githubusercontent.com/u/122412818?v=4",
@@ -3793,40 +3827,6 @@
         },
         "valkey-admin": {
           "commits": 3,
-          "reviews": 0
-        }
-      },
-      "score": 10
-    },
-    {
-      "login": "hieu2102",
-      "id": 13182932,
-      "avatar_url": "https://avatars.githubusercontent.com/u/13182932?v=4",
-      "name": "hieu2102",
-      "company": "",
-      "commits": 10,
-      "reviews": 0,
-      "repos": [
-        "valkey",
-        "valkey-bundle",
-        "valkey-doc",
-        "valkey-operator"
-      ],
-      "per_repo": {
-        "valkey-operator": {
-          "commits": 5,
-          "reviews": 0
-        },
-        "valkey": {
-          "commits": 2,
-          "reviews": 0
-        },
-        "valkey-bundle": {
-          "commits": 2,
-          "reviews": 0
-        },
-        "valkey-doc": {
-          "commits": 1,
           "reviews": 0
         }
       },

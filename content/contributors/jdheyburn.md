@@ -2,14 +2,22 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 65,
-  "commit_count": 20,
-  "review_count": 45,
+  "score": 67,
+  "commit_count": 21,
+  "review_count": 46,
   "repos": [
     "valkey",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "5d5093a79a",
+      "message": "docs: Add AGENTS.md and update documentation (#188)",
+      "date": "2026-06-06",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/188",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/5d5093a79ad2886346a38ae77e374f6e90988f8a"
+    },
     {
       "sha": "2b7d06b2ff",
       "message": "feat: add watch-namespace flag to filter namespaces to watch for resources (#175)",
@@ -172,6 +180,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "69b1b1a00b",
+      "message": "add modules workaround docs (#214)",
+      "date": "2026-06-06",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/214",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/69b1b1a00bf283368a6e2c2b15b55c0a0a081bd5"
+    },
     {
       "sha": "6be74d2ebb",
       "message": "fix: rolling update loses all keys when replicas are not synced (#208)",

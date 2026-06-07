@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 32,
+  "score": 33,
   "commit_count": 15,
-  "review_count": 17,
+  "review_count": 18,
   "repos": [
     "valkey-operator"
   ],
@@ -131,6 +131,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a3eb6bbff0",
+      "message": "chore(deps): bump docker/build-push-action from 7.1.0 to 7.2.0 (#218)",
+      "date": "2026-06-06",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/218",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a3eb6bbff087403d1560ef78c0f284d3516a1aeb"
+    },
+    {
+      "sha": "5d5093a79a",
+      "message": "docs: Add AGENTS.md and update documentation (#188)",
+      "date": "2026-06-06",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/188",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/5d5093a79ad2886346a38ae77e374f6e90988f8a"
+    },
     {
       "sha": "311cb25412",
       "message": "Delete old events in BeforeSuite to prevent stale event assertions (#169)",

@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 245,
+  "score": 246,
   "commit_count": 54,
-  "review_count": 191,
+  "review_count": 192,
   "repos": [
     "valkey",
     "valkey-json",
@@ -460,6 +460,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1038",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/08a27f37940b7dfebc61d327f81beab67c48e44c"
+    },
+    {
+      "sha": "e38a5d9c43",
+      "message": "Update CME error message for MULTI/EXEC and Lua (#1112)",
+      "date": "2026-06-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1112",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e38a5d9c43d6fe4c570cfca3ee7cec0ac4795d40"
     },
     {
       "sha": "5f261980c9",

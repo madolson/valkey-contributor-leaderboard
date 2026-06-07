@@ -151797,6 +151797,90 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/937"
+    },
+    {
+      "sha": "d42c32d1e46954b184f8630870e416078aca9fc9",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "build(deps-dev): update packaging requirement from >=22.0 to >=26.2 in /python (#5831)",
+      "date": "2026-06-07T02:05:06Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-04-27T22:55:17Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-06-05T23:16:09Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5831"
+    },
+    {
+      "sha": "a3eb6bbff087403d1560ef78c0f284d3516a1aeb",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump docker/build-push-action from 7.1.0 to 7.2.0 (#218)",
+      "date": "2026-06-06T16:20:13Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "sandeepkunusoth",
+          "date": "2026-06-06T16:20:12Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/218"
+    },
+    {
+      "sha": "69b1b1a00bf283368a6e2c2b15b55c0a0a081bd5",
+      "author_login": "hieu2102",
+      "author_id": 13182932,
+      "avatar_url": "https://avatars.githubusercontent.com/u/13182932?v=4",
+      "message": "add modules workaround docs (#214)",
+      "date": "2026-06-06T15:54:17Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-06-06T15:53:45Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/214"
+    },
+    {
+      "sha": "5d5093a79ad2886346a38ae77e374f6e90988f8a",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "docs: Add AGENTS.md and update documentation (#188)",
+      "date": "2026-06-06T15:46:47Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "sandeepkunusoth",
+          "date": "2026-05-28T20:25:38Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/188"
+    },
+    {
+      "sha": "e38a5d9c43d6fe4c570cfca3ee7cec0ac4795d40",
+      "author_login": "bandalgomsu",
+      "author_id": 121839239,
+      "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
+      "message": "Update CME error message for MULTI/EXEC and Lua (#1112)",
+      "date": "2026-06-06T13:47:37Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-06-06T13:47:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1112"
     }
   ]
 }

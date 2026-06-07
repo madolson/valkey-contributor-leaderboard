@@ -525,6 +525,14 @@
   ],
   "review_list": [
     {
+      "sha": "d42c32d1e4",
+      "message": "build(deps-dev): update packaging requirement from >=22.0 to >=26.2 in /python (#5831)",
+      "date": "2026-06-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5831",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d42c32d1e46954b184f8630870e416078aca9fc9"
+    },
+    {
       "sha": "138f44d164",
       "message": "build(deps-dev): bump semver from 7.7.4 to 7.8.1 in /node in the minor-updates group (#6099)",
       "date": "2026-06-06",
