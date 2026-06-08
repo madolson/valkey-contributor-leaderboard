@@ -2,8 +2,8 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 167,
-  "commit_count": 132,
+  "score": 168,
+  "commit_count": 133,
   "review_count": 35,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-swift"
   ],
   "commit_list": [
+    {
+      "sha": "6984965a17",
+      "message": "Only store hash value of healthyState of a cluster (#390)",
+      "date": "2026-06-08",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/390",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/6984965a171375c17076ff1415ed6257398c6ee0"
+    },
     {
       "sha": "1d03810820",
       "message": "Fix crash, when connection that is running keep-alive is closed (#389)",

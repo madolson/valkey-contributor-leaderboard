@@ -151881,6 +151881,101 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1112"
+    },
+    {
+      "sha": "88b07c24931cc4b2d5c13782500e66685fe02f8e",
+      "author_login": "sandeepkunusoth",
+      "author_id": 31273507,
+      "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
+      "message": "fix: Liveness and readiness probe scripts with sh for supporting alpine images (#205)",
+      "date": "2026-06-07T21:32:17Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-06-07T19:52:11Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/205"
+    },
+    {
+      "sha": "3c72d4a1816e5a5dfa066ca6831abedc1ed641b6",
+      "author_login": "bjosv",
+      "author_id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "message": "fix: disable replica migration and validity factor in cluster config (#222)",
+      "date": "2026-06-07T10:18:51Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-06-04T15:49:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/222"
+    },
+    {
+      "sha": "a87fed98a50a5d93551e0dfcc2a1a12f7a184915",
+      "author_login": "DharmendraChoudhary67",
+      "author_id": 205940164,
+      "avatar_url": "https://avatars.githubusercontent.com/u/205940164?v=4",
+      "message": "feat: add shard-aware topology spread constraints (#163)",
+      "date": "2026-06-07T09:37:49Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-06-06T15:45:54Z"
+        },
+        {
+          "login": "bjosv",
+          "date": "2026-06-07T09:36:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/163"
+    },
+    {
+      "sha": "2aee18775f1a00fe814994a1a3f406fd88870ec5",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump docker/setup-buildx-action from 4.0.0 to 4.1.0 (#219)",
+      "date": "2026-06-07T09:31:38Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-06-07T09:31:19Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/219"
+    },
+    {
+      "sha": "6984965a171375c17076ff1415ed6257398c6ee0",
+      "author_login": "adam-fowler",
+      "author_id": 9382567,
+      "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
+      "message": "Only store hash value of healthyState of a cluster (#390)",
+      "date": "2026-06-08T06:56:39Z",
+      "repo": "valkey-swift",
+      "reviewed": [
+        {
+          "login": "nilanshu-sharma",
+          "date": "2026-06-04T00:27:14Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/390"
+    },
+    {
+      "sha": "cd066c9e51f64b322f3bfaa8e86ae6d26f079e3c",
+      "author_login": "PingXie",
+      "author_id": 11568491,
+      "avatar_url": "https://avatars.githubusercontent.com/u/11568491?v=4",
+      "message": "Require near-duplicate evidence for fuzzy provenance matches",
+      "date": "2026-06-07T08:07:41Z",
+      "repo": "verify-provenance",
+      "reviewed": false,
+      "pr_url": ""
     }
   ]
 }

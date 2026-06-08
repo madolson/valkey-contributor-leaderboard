@@ -1086,8 +1086,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
       "name": "Bj\u00f6rn Svensson",
       "company": "Ericsson",
-      "commits": 107,
-      "reviews": 86,
+      "commits": 108,
+      "reviews": 87,
       "repos": [
         "libvalkey",
         "valkey",
@@ -1101,8 +1101,8 @@
           "reviews": 32
         },
         "valkey-operator": {
-          "commits": 18,
-          "reviews": 51
+          "commits": 19,
+          "reviews": 52
         },
         "valkey": {
           "commits": 7,
@@ -1117,7 +1117,7 @@
           "reviews": 1
         }
       },
-      "score": 193
+      "score": 195
     },
     {
       "login": "currantw",
@@ -1292,7 +1292,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
       "name": "Adam Fowler",
       "company": "",
-      "commits": 132,
+      "commits": 133,
       "reviews": 35,
       "repos": [
         "valkey",
@@ -1306,7 +1306,7 @@
           "reviews": 0
         },
         "valkey-swift": {
-          "commits": 126,
+          "commits": 127,
           "reviews": 35
         },
         "valkey": {
@@ -1318,7 +1318,7 @@
           "reviews": 0
         }
       },
-      "score": 167
+      "score": 168
     },
     {
       "login": "hwware",
@@ -1538,6 +1538,29 @@
       "score": 131
     },
     {
+      "login": "nilanshu-sharma",
+      "id": 220134298,
+      "avatar_url": "https://avatars.githubusercontent.com/u/220134298?v=4",
+      "name": "Nilanshu Sharma",
+      "company": "Apple",
+      "commits": 14,
+      "reviews": 106,
+      "repos": [
+        "valkey-swift"
+      ],
+      "per_repo": {
+        "valkey-swift": {
+          "commits": 14,
+          "reviews": 105
+        },
+        "valkey": {
+          "commits": 0,
+          "reviews": 1
+        }
+      },
+      "score": 120
+    },
+    {
       "login": "mkmkme",
       "id": 4062234,
       "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
@@ -1563,29 +1586,6 @@
           "reviews": 2
         },
         "valkey-json": {
-          "commits": 0,
-          "reviews": 1
-        }
-      },
-      "score": 119
-    },
-    {
-      "login": "nilanshu-sharma",
-      "id": 220134298,
-      "avatar_url": "https://avatars.githubusercontent.com/u/220134298?v=4",
-      "name": "Nilanshu Sharma",
-      "company": "Apple",
-      "commits": 14,
-      "reviews": 105,
-      "repos": [
-        "valkey-swift"
-      ],
-      "per_repo": {
-        "valkey-swift": {
-          "commits": 14,
-          "reviews": 104
-        },
-        "valkey": {
           "commits": 0,
           "reviews": 1
         }
@@ -1915,6 +1915,34 @@
       "score": 70
     },
     {
+      "login": "jdheyburn",
+      "id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "name": "Joseph Heyburn",
+      "company": "braze-inc",
+      "commits": 21,
+      "reviews": 49,
+      "repos": [
+        "valkey",
+        "valkey-operator"
+      ],
+      "per_repo": {
+        "valkey-operator": {
+          "commits": 20,
+          "reviews": 47
+        },
+        "valkey": {
+          "commits": 1,
+          "reviews": 0
+        },
+        "valkey-helm": {
+          "commits": 0,
+          "reviews": 2
+        }
+      },
+      "score": 70
+    },
+    {
       "login": "Aksha1812",
       "id": 48383029,
       "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
@@ -1969,34 +1997,6 @@
         }
       },
       "score": 68
-    },
-    {
-      "login": "jdheyburn",
-      "id": 34041368,
-      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-      "name": "Joseph Heyburn",
-      "company": "braze-inc",
-      "commits": 21,
-      "reviews": 46,
-      "repos": [
-        "valkey",
-        "valkey-operator"
-      ],
-      "per_repo": {
-        "valkey-operator": {
-          "commits": 20,
-          "reviews": 44
-        },
-        "valkey": {
-          "commits": 1,
-          "reviews": 0
-        },
-        "valkey-helm": {
-          "commits": 0,
-          "reviews": 2
-        }
-      },
-      "score": 67
     },
     {
       "login": "rjd15372",
@@ -2678,6 +2678,25 @@
       "score": 34
     },
     {
+      "login": "sandeepkunusoth",
+      "id": 31273507,
+      "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
+      "name": "sandeep kunusoth",
+      "company": "",
+      "commits": 16,
+      "reviews": 18,
+      "repos": [
+        "valkey-operator"
+      ],
+      "per_repo": {
+        "valkey-operator": {
+          "commits": 16,
+          "reviews": 18
+        }
+      },
+      "score": 34
+    },
+    {
       "login": "lilpoozie2005",
       "id": 0,
       "avatar_url": "https://github.com/lilpoozie2005.png?size=64",
@@ -2693,25 +2712,6 @@
         }
       },
       "score": 34
-    },
-    {
-      "login": "sandeepkunusoth",
-      "id": 31273507,
-      "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-      "name": "sandeep kunusoth",
-      "company": "",
-      "commits": 15,
-      "reviews": 18,
-      "repos": [
-        "valkey-operator"
-      ],
-      "per_repo": {
-        "valkey-operator": {
-          "commits": 15,
-          "reviews": 18
-        }
-      },
-      "score": 33
     },
     {
       "login": "ahmedsobeh",
@@ -7442,6 +7442,25 @@
       "score": 2
     },
     {
+      "login": "DharmendraChoudhary67",
+      "id": 205940164,
+      "avatar_url": "https://avatars.githubusercontent.com/u/205940164?v=4",
+      "name": "",
+      "company": "",
+      "commits": 2,
+      "reviews": 0,
+      "repos": [
+        "valkey-operator"
+      ],
+      "per_repo": {
+        "valkey-operator": {
+          "commits": 2,
+          "reviews": 0
+        }
+      },
+      "score": 2
+    },
+    {
       "login": "apolIinaria",
       "id": 149688034,
       "avatar_url": "https://avatars.githubusercontent.com/u/149688034?v=4",
@@ -11581,25 +11600,6 @@
       ],
       "per_repo": {
         "valkey": {
-          "commits": 1,
-          "reviews": 0
-        }
-      },
-      "score": 1
-    },
-    {
-      "login": "DharmendraChoudhary67",
-      "id": 205940164,
-      "avatar_url": "https://avatars.githubusercontent.com/u/205940164?v=4",
-      "name": "",
-      "company": "",
-      "commits": 1,
-      "reviews": 0,
-      "repos": [
-        "valkey-operator"
-      ],
-      "per_repo": {
-        "valkey-operator": {
           "commits": 1,
           "reviews": 0
         }

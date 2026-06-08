@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 67,
+  "score": 70,
   "commit_count": 21,
-  "review_count": 46,
+  "review_count": 49,
   "repos": [
     "valkey",
     "valkey-operator"
@@ -180,6 +180,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "88b07c2493",
+      "message": "fix: Liveness and readiness probe scripts with sh for supporting alpine images (#205)",
+      "date": "2026-06-07",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/205",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/88b07c24931cc4b2d5c13782500e66685fe02f8e"
+    },
+    {
+      "sha": "3c72d4a181",
+      "message": "fix: disable replica migration and validity factor in cluster config (#222)",
+      "date": "2026-06-07",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/222",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3c72d4a1816e5a5dfa066ca6831abedc1ed641b6"
+    },
+    {
+      "sha": "a87fed98a5",
+      "message": "feat: add shard-aware topology spread constraints (#163)",
+      "date": "2026-06-07",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/163",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a87fed98a50a5d93551e0dfcc2a1a12f7a184915"
+    },
     {
       "sha": "69b1b1a00b",
       "message": "add modules workaround docs (#214)",

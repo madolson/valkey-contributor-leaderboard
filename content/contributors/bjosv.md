@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 193,
-  "commit_count": 107,
-  "review_count": 86,
+  "score": 195,
+  "commit_count": 108,
+  "review_count": 87,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "3c72d4a181",
+      "message": "fix: disable replica migration and validity factor in cluster config (#222)",
+      "date": "2026-06-07",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/222",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3c72d4a1816e5a5dfa066ca6831abedc1ed641b6"
+    },
     {
       "sha": "45f0074b0f",
       "message": "Fix issues in valkeyClusterAsyncCallback (#306)",
@@ -871,6 +879,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a87fed98a5",
+      "message": "feat: add shard-aware topology spread constraints (#163)",
+      "date": "2026-06-07",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/163",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a87fed98a50a5d93551e0dfcc2a1a12f7a184915"
+    },
+    {
+      "sha": "2aee18775f",
+      "message": "chore(deps): bump docker/setup-buildx-action from 4.0.0 to 4.1.0 (#219)",
+      "date": "2026-06-07",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/219",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2aee18775f1a00fe814994a1a3f406fd88870ec5"
+    },
     {
       "sha": "b0422e080e",
       "message": "chore(deps): bump docker/metadata-action from 6.0.0 to 6.1.0 (#220)",

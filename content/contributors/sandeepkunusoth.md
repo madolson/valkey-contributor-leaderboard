@@ -2,13 +2,21 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 33,
-  "commit_count": 15,
+  "score": 34,
+  "commit_count": 16,
   "review_count": 18,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "88b07c2493",
+      "message": "fix: Liveness and readiness probe scripts with sh for supporting alpine images (#205)",
+      "date": "2026-06-07",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/205",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/88b07c24931cc4b2d5c13782500e66685fe02f8e"
+    },
     {
       "sha": "df793a6df9",
       "message": "fix empty IP in 'CLUSTER SLOTS' for single shard clusters (#204)",
