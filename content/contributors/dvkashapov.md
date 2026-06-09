@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 91,
+  "score": 93,
   "commit_count": 22,
-  "review_count": 69,
+  "review_count": 71,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -190,6 +190,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2013e029c3",
+      "message": "Fix server crash on FUNCTION DELETE after case-only function name collision (#3925)",
+      "date": "2026-06-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3925",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2013e029c3c644bbb059384e1136b6f237a6279f"
+    },
+    {
+      "sha": "b0137ef851",
+      "message": "Report exact dbid for COPY in ACL LOG when db= access is denied (#3888)",
+      "date": "2026-06-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3888",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b0137ef851a22fecbfd5999ae2d2b270ecd73dc8"
+    },
     {
       "sha": "1d4abb95f7",
       "message": "Drop nightly packaging (#27)",

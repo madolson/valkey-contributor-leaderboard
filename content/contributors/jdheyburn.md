@@ -2,14 +2,38 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 70,
-  "commit_count": 21,
-  "review_count": 49,
+  "score": 74,
+  "commit_count": 24,
+  "review_count": 50,
   "repos": [
     "valkey",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "d1947d293f",
+      "message": "[enhancement] Roll replicas first during ValkeyNode updates (#228)",
+      "date": "2026-06-08",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/228",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d1947d293f6056821610e0105ce375070f1f2c6c"
+    },
+    {
+      "sha": "4c52117093",
+      "message": "fix: New cluster rolls immediately after creation (#230)",
+      "date": "2026-06-08",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/230",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/4c521170931f56aabda583e4c164f77f1420b7bc"
+    },
+    {
+      "sha": "a759ded4af",
+      "message": "enhancement: Use Recreate deployment strategy (#225)",
+      "date": "2026-06-08",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/225",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a759ded4af16de5493ff96063e9b71187485222f"
+    },
     {
       "sha": "5d5093a79a",
       "message": "docs: Add AGENTS.md and update documentation (#188)",
@@ -180,6 +204,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "77c6c5b3b9",
+      "message": "(feat) support images from private container registry (#234)",
+      "date": "2026-06-09",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/234",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/77c6c5b3b954733932df6d544d57073a62cc270b"
+    },
     {
       "sha": "88b07c2493",
       "message": "fix: Liveness and readiness probe scripts with sh for supporting alpine images (#205)",

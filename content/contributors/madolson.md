@@ -2,8 +2,8 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 852,
-  "commit_count": 187,
+  "score": 853,
+  "commit_count": 188,
   "review_count": 665,
   "repos": [
     "valkey",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "2013e029c3",
+      "message": "Fix server crash on FUNCTION DELETE after case-only function name collision (#3925)",
+      "date": "2026-06-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3925",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2013e029c3c644bbb059384e1136b6f237a6279f"
+    },
     {
       "sha": "c52e942afb",
       "message": "Update website for version 8.1.8 (#563)",

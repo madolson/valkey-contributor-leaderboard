@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 278,
+  "score": 280,
   "commit_count": 60,
-  "review_count": 218,
+  "review_count": 220,
   "repos": [
     "valkey",
     "valkey-container",
@@ -496,6 +496,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f7b236dfe2",
+      "message": "Fix typo option name in repl-ping-replica-period comment in valkey.conf (#3937)",
+      "date": "2026-06-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3937",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f7b236dfe2fa18c396679006897c28417ef23959"
+    },
+    {
+      "sha": "2013e029c3",
+      "message": "Fix server crash on FUNCTION DELETE after case-only function name collision (#3925)",
+      "date": "2026-06-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3925",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2013e029c3c644bbb059384e1136b6f237a6279f"
+    },
     {
       "sha": "199d49a432",
       "message": "Automatically create github issues for test failures from daily CI runs (#3358)",

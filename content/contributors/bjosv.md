@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 195,
+  "score": 198,
   "commit_count": 108,
-  "review_count": 87,
+  "review_count": 90,
   "repos": [
     "libvalkey",
     "valkey",
@@ -879,6 +879,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d1947d293f",
+      "message": "[enhancement] Roll replicas first during ValkeyNode updates (#228)",
+      "date": "2026-06-08",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/228",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d1947d293f6056821610e0105ce375070f1f2c6c"
+    },
+    {
+      "sha": "4c52117093",
+      "message": "fix: New cluster rolls immediately after creation (#230)",
+      "date": "2026-06-08",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/230",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/4c521170931f56aabda583e4c164f77f1420b7bc"
+    },
+    {
+      "sha": "a759ded4af",
+      "message": "enhancement: Use Recreate deployment strategy (#225)",
+      "date": "2026-06-08",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/225",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a759ded4af16de5493ff96063e9b71187485222f"
+    },
     {
       "sha": "a87fed98a5",
       "message": "feat: add shard-aware topology spread constraints (#163)",

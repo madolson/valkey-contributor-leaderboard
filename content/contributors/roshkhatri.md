@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 356,
-  "commit_count": 137,
-  "review_count": 219,
+  "score": 362,
+  "commit_count": 138,
+  "review_count": 224,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -19,6 +19,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "8f6466dfe3",
+      "message": "Adds custom server configs support (#31)",
+      "date": "2026-06-08",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/31",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/8f6466dfe373a8ef6f40c1e98333cf44d2a2e99f"
+    },
     {
       "sha": "fee1cb90bb",
       "message": "Replace VALKEY_BUNDLE_PAT_FOR_PR with Valkeyrie Bot GitHub App tokens (#114)",
@@ -1117,6 +1125,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "84c5d41211",
+      "message": "Automated Updates for Valkey Bundle (#115)",
+      "date": "2026-06-09",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/115",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/84c5d412110fae9b5926b7c02d03fce96d1003df"
+    },
+    {
+      "sha": "5c9bb25d80",
+      "message": "Strip [bot] suffix from github.actor when constructing Docker image tags. (#116)",
+      "date": "2026-06-09",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/116",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/5c9bb25d80d635446886ea4cac11cc09d79ba93e"
+    },
+    {
+      "sha": "8ff1f53b7d",
+      "message": "Support reusing externally built valkey-server and valkeymodule.h for test (#103)",
+      "date": "2026-06-09",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/103",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/8ff1f53b7db9a5d69c716b6b4a6bdb4fefc63a9e"
+    },
+    {
+      "sha": "5e98983ff4",
+      "message": "Support running integration tests against an external Valkey server (#102)",
+      "date": "2026-06-09",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/102",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/5e98983ff497d0e4fc0b58ecb1db79469084c269"
+    },
+    {
+      "sha": "abe67bf6e3",
+      "message": "Pull the unstable/main branches of all module repositories for the daily bundle build.  (#111)",
+      "date": "2026-06-08",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/111",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/abe67bf6e3ea81280908b422935270b9bab9c654"
+    },
+    {
+      "sha": "3ff5f2cc55",
+      "message": "Add group, scenario, and description columns to metrics.json (#56)",
+      "date": "2026-06-08",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/56",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/3ff5f2cc558c1f78c7954f41e65dd2ea3173ff51"
+    },
     {
       "sha": "87185f5f16",
       "message": "build and publish packages during release (#58)",

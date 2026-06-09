@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 234,
+  "score": 235,
   "commit_count": 51,
-  "review_count": 183,
+  "review_count": 184,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -422,6 +422,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e1e75bb0fc",
+      "message": "Replace unmaintained iai-callgrind with gungraun (#6209)",
+      "date": "2026-06-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6209",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e1e75bb0fc7f8fbbaaaa60307b40fc1c8a11801a"
+    },
     {
       "sha": "4133f08a20",
       "message": "fix(test): fix flaky `PAUSE`/`UNPAUSE` test (#6169)",

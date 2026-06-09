@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1155,
+  "score": 1156,
   "commit_count": 152,
-  "review_count": 1003,
+  "review_count": 1004,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1231,6 +1231,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b0137ef851",
+      "message": "Report exact dbid for COPY in ACL LOG when db= access is denied (#3888)",
+      "date": "2026-06-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3888",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b0137ef851a22fecbfd5999ae2d2b270ecd73dc8"
+    },
     {
       "sha": "45f0074b0f",
       "message": "Fix issues in valkeyClusterAsyncCallback (#306)",

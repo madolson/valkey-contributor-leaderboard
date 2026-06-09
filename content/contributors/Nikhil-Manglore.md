@@ -2,8 +2,8 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 244,
-  "commit_count": 92,
+  "score": 246,
+  "commit_count": 94,
   "review_count": 152,
   "repos": [
     "valkey",
@@ -21,6 +21,22 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "5c9bb25d80",
+      "message": "Strip [bot] suffix from github.actor when constructing Docker image tags. (#116)",
+      "date": "2026-06-09",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/116",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/5c9bb25d80d635446886ea4cac11cc09d79ba93e"
+    },
+    {
+      "sha": "abe67bf6e3",
+      "message": "Pull the unstable/main branches of all module repositories for the daily bundle build.  (#111)",
+      "date": "2026-06-08",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/111",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/abe67bf6e3ea81280908b422935270b9bab9c654"
+    },
     {
       "sha": "ab6e04e9e2",
       "message": "Adding maintainers.md file (#110)",

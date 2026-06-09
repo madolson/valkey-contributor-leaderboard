@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 281,
+  "score": 282,
   "commit_count": 64,
-  "review_count": 217,
+  "review_count": 218,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -524,6 +524,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e1e75bb0fc",
+      "message": "Replace unmaintained iai-callgrind with gungraun (#6209)",
+      "date": "2026-06-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6209",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e1e75bb0fc7f8fbbaaaa60307b40fc1c8a11801a"
+    },
     {
       "sha": "d42c32d1e4",
       "message": "build(deps-dev): update packaging requirement from >=22.0 to >=26.2 in /python (#5831)",

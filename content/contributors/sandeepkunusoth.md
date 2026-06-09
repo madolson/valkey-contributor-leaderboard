@@ -2,13 +2,21 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 34,
-  "commit_count": 16,
-  "review_count": 18,
+  "score": 36,
+  "commit_count": 17,
+  "review_count": 19,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "77c6c5b3b9",
+      "message": "(feat) support images from private container registry (#234)",
+      "date": "2026-06-09",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/234",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/77c6c5b3b954733932df6d544d57073a62cc270b"
+    },
     {
       "sha": "88b07c2493",
       "message": "fix: Liveness and readiness probe scripts with sh for supporting alpine images (#205)",
@@ -139,6 +147,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a759ded4af",
+      "message": "enhancement: Use Recreate deployment strategy (#225)",
+      "date": "2026-06-08",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/225",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a759ded4af16de5493ff96063e9b71187485222f"
+    },
     {
       "sha": "a3eb6bbff0",
       "message": "chore(deps): bump docker/build-push-action from 7.1.0 to 7.2.0 (#218)",

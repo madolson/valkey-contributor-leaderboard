@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 296,
+  "score": 297,
   "commit_count": 87,
-  "review_count": 209,
+  "review_count": 210,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -710,6 +710,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8f6466dfe3",
+      "message": "Adds custom server configs support (#31)",
+      "date": "2026-06-08",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/31",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/8f6466dfe373a8ef6f40c1e98333cf44d2a2e99f"
+    },
     {
       "sha": "c15ecf1dd8",
       "message": "Replace AUTOMATION_PAT with Valkeyrie Bot GitHub App token (#3851)",

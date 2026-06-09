@@ -343,6 +343,14 @@
   ],
   "review_list": [
     {
+      "sha": "6adcf454c6",
+      "message": "chore(deps): bump the patch-updates group with 3 updates (#424)",
+      "date": "2026-06-08",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/424",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/6adcf454c63420e95e97830e9f500d2b8fc4b2f8"
+    },
+    {
       "sha": "711b75f83a",
       "message": "feat(client): Add `CLIENT PAUSE` and `CLIENT UNPAUSE` commands (#6068)",
       "date": "2026-06-04",

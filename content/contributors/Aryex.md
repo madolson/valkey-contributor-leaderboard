@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 131,
-  "commit_count": 44,
+  "score": 132,
+  "commit_count": 45,
   "review_count": 87,
   "repos": [
     "spring-data-valkey",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "ec836c9459",
+      "message": "Added high-availability page (#219)",
+      "date": "2026-06-08",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/219",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/ec836c94598af7870843471d3a6641916d1716a6"
+    },
     {
       "sha": "d531c8206b",
       "message": "docs: update PHP/C# Search and JSON module commands version support (#228)",

@@ -2,15 +2,23 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 135,
-  "commit_count": 35,
-  "review_count": 100,
+  "score": 137,
+  "commit_count": 36,
+  "review_count": 101,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "e1e75bb0fc",
+      "message": "Replace unmaintained iai-callgrind with gungraun (#6209)",
+      "date": "2026-06-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6209",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e1e75bb0fc7f8fbbaaaa60307b40fc1c8a11801a"
+    },
     {
       "sha": "34bd369549",
       "message": "Skip production examples (#90)",
@@ -293,6 +301,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ec836c9459",
+      "message": "Added high-availability page (#219)",
+      "date": "2026-06-08",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/219",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/ec836c94598af7870843471d3a6641916d1716a6"
+    },
     {
       "sha": "d6f59b30ff",
       "message": "feat(ci): add coverage measurement and enforcement (#416)",

@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 107,
+  "score": 108,
   "commit_count": 42,
-  "review_count": 65,
+  "review_count": 66,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2013e029c3",
+      "message": "Fix server crash on FUNCTION DELETE after case-only function name collision (#3925)",
+      "date": "2026-06-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3925",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2013e029c3c644bbb059384e1136b6f237a6279f"
+    },
     {
       "sha": "d778b37715",
       "message": "Fix double-finish and RESP reply violation in cluster slot migration (#3723)",

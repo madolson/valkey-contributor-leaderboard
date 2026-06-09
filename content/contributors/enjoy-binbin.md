@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 861,
-  "commit_count": 335,
-  "review_count": 526,
+  "score": 866,
+  "commit_count": 339,
+  "review_count": 527,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -13,6 +13,38 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "8ff1f53b7d",
+      "message": "Support reusing externally built valkey-server and valkeymodule.h for test (#103)",
+      "date": "2026-06-09",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/103",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/8ff1f53b7db9a5d69c716b6b4a6bdb4fefc63a9e"
+    },
+    {
+      "sha": "5e98983ff4",
+      "message": "Support running integration tests against an external Valkey server (#102)",
+      "date": "2026-06-09",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/102",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/5e98983ff497d0e4fc0b58ecb1db79469084c269"
+    },
+    {
+      "sha": "f7b236dfe2",
+      "message": "Fix typo option name in repl-ping-replica-period comment in valkey.conf (#3937)",
+      "date": "2026-06-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3937",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f7b236dfe2fa18c396679006897c28417ef23959"
+    },
+    {
+      "sha": "b0137ef851",
+      "message": "Report exact dbid for COPY in ACL LOG when db= access is denied (#3888)",
+      "date": "2026-06-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3888",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b0137ef851a22fecbfd5999ae2d2b270ecd73dc8"
+    },
     {
       "sha": "c340f0ec24",
       "message": "Support reusing an externally built valkey-server binary for test (#97)",
@@ -2695,6 +2727,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2013e029c3",
+      "message": "Fix server crash on FUNCTION DELETE after case-only function name collision (#3925)",
+      "date": "2026-06-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3925",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2013e029c3c644bbb059384e1136b6f237a6279f"
+    },
     {
       "sha": "3100f9dfe8",
       "message": "Add CLUSTER SAVECONFIG before pause in shard restart tests (#3904)",

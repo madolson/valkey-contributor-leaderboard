@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 284,
+  "score": 285,
   "commit_count": 91,
-  "review_count": 193,
+  "review_count": 194,
   "repos": [
     "valkey",
     "valkey-container",
@@ -745,6 +745,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d9a80af14a",
+      "message": "Assertion check on null key for volatile fields based object (#3897)",
+      "date": "2026-06-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3897",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d9a80af14ac31d6a39e22c8e25f3ceeb798bf17e"
+    },
     {
       "sha": "d7384b9192",
       "message": "Fix cluster AUX-field control-character and delimiter injection (#3848)",

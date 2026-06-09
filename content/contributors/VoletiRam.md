@@ -2,9 +2,9 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 35,
+  "score": 36,
   "commit_count": 20,
-  "review_count": 15,
+  "review_count": 16,
   "repos": [
     "valkey",
     "valkey-perf-benchmark",
@@ -174,6 +174,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3ff5f2cc55",
+      "message": "Add group, scenario, and description columns to metrics.json (#56)",
+      "date": "2026-06-08",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/56",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/3ff5f2cc558c1f78c7954f41e65dd2ea3173ff51"
+    },
     {
       "sha": "fe65a492f6",
       "message": "Fix ThreadPool Shutdown timing holes (#1062)",
