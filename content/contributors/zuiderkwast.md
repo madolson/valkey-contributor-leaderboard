@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1156,
+  "score": 1158,
   "commit_count": 152,
-  "review_count": 1004,
+  "review_count": 1006,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1231,6 +1231,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c3766df270",
+      "message": "Align THP advice in createLatencyReport with checkTHPEnabled (#3947)",
+      "date": "2026-06-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3947",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c3766df270376e6397c4a68a9abc04f1facec8ad"
+    },
+    {
+      "sha": "d0ffbabb00",
+      "message": "Avoid random() % 0 undefined behaviour when cluster-node-timeout < 30 (#3941)",
+      "date": "2026-06-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3941",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d0ffbabb002214b6103c2031fcdc805b142b5085"
+    },
     {
       "sha": "b0137ef851",
       "message": "Report exact dbid for COPY in ACL LOG when db= access is denied (#3888)",

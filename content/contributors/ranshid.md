@@ -2,8 +2,8 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 285,
-  "commit_count": 91,
+  "score": 286,
+  "commit_count": 92,
   "review_count": 194,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "e1bc58c72f",
+      "message": "Fix crash when active field-expiry leaves a single-entry HT vset bucket (#3950)",
+      "date": "2026-06-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3950",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e1bc58c72f622969f56dc5686c059d0d8af7f5c2"
+    },
     {
       "sha": "3cfaf5777b",
       "message": "Deflake temp-rdb checks in shutdown test (#3892)",

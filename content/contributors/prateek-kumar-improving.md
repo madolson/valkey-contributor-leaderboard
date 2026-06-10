@@ -2,8 +2,8 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 328,
-  "commit_count": 112,
+  "score": 329,
+  "commit_count": 113,
   "review_count": 216,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "9fceec1bdf",
+      "message": "Java: Add failover and ReplicaOf command (#6170)",
+      "date": "2026-06-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6170",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9fceec1bdfe1a6a7b331225101f028dc0767e306"
+    },
     {
       "sha": "cc1e64bb69",
       "message": "Add Release 1.1 changes to main (#222)",

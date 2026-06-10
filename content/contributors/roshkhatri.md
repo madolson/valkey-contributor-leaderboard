@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 362,
-  "commit_count": 138,
-  "review_count": 224,
+  "score": 364,
+  "commit_count": 139,
+  "review_count": 225,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -19,6 +19,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "859649d9ab",
+      "message": "Fix IO-Threads redesign cleanup perf regression from #3544 (#3938)",
+      "date": "2026-06-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3938",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/859649d9abc29459acdec292c8a012249f76715a"
+    },
     {
       "sha": "8f6466dfe3",
       "message": "Adds custom server configs support (#31)",
@@ -1125,6 +1133,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "faf58c3395",
+      "message": "Fixing out of range crash (#109)",
+      "date": "2026-06-10",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/109",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/faf58c339572c71600b4b1e55198a9ea0af212e3"
+    },
     {
       "sha": "84c5d41211",
       "message": "Automated Updates for Valkey Bundle (#115)",

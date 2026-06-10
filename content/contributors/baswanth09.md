@@ -2,14 +2,22 @@
   "title": "baswanth09",
   "login": "baswanth09",
   "avatar_url": "https://avatars.githubusercontent.com/u/122412818?v=4",
-  "score": 11,
-  "commit_count": 11,
+  "score": 12,
+  "commit_count": 12,
   "review_count": 0,
   "repos": [
     "valkey",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "844be9cecd",
+      "message": "Fix memory reporting when reader/writer threads change at runtime (#1119)",
+      "date": "2026-06-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1119",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/844be9cecdda323a9c8d85e0906ea5e3e4098615"
+    },
     {
       "sha": "63574f75e6",
       "message": "Fix build script for ASAN integration tests (#777)",

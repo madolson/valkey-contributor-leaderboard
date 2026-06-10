@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 297,
-  "commit_count": 87,
-  "review_count": 210,
+  "score": 299,
+  "commit_count": 88,
+  "review_count": 211,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "948aaf8b42",
+      "message": "Deflake cluster-shards \"same shard id after restart\" test (#3949)",
+      "date": "2026-06-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3949",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/948aaf8b42066600ba86454c89514605a2b1cb06"
+    },
     {
       "sha": "c8c38e778b",
       "message": "Remove apt-get upgrade in clang-format CI job (#3913)",
@@ -710,6 +718,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d0ffbabb00",
+      "message": "Avoid random() % 0 undefined behaviour when cluster-node-timeout < 30 (#3941)",
+      "date": "2026-06-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3941",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d0ffbabb002214b6103c2031fcdc805b142b5085"
+    },
     {
       "sha": "8f6466dfe3",
       "message": "Adds custom server configs support (#31)",

@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 282,
+  "score": 283,
   "commit_count": 64,
-  "review_count": 218,
+  "review_count": 219,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -524,6 +524,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "546af0b3ee",
+      "message": "Go: Add MEMORY DOCTOR / MEMORY MALLOC-STATS / MEMORY PURGE / MEMORY STATS commands (#5986)",
+      "date": "2026-06-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5986",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/546af0b3eef6af63e2982ea287f4c136fde3b4e5"
+    },
     {
       "sha": "e1e75bb0fc",
       "message": "Replace unmaintained iai-callgrind with gungraun (#6209)",

@@ -2,15 +2,31 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 246,
-  "commit_count": 54,
-  "review_count": 192,
+  "score": 250,
+  "commit_count": 56,
+  "review_count": 194,
   "repos": [
     "valkey",
     "valkey-json",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "ac4ced1389",
+      "message": "Fix GetTargetsForSlot to resolve slots in the middle/end of a range (#1117)",
+      "date": "2026-06-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1117",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ac4ced1389cc3725fab5015b156cb7475fe32878"
+    },
+    {
+      "sha": "22788c40e2",
+      "message": "Implement space savings for Tag and Numeric (#1026)",
+      "date": "2026-06-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1026",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/22788c40e2936ec4df96ce5b4f9c84e247d944de"
+    },
     {
       "sha": "fe65a492f6",
       "message": "Fix ThreadPool Shutdown timing holes (#1062)",
@@ -445,6 +461,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "844be9cecd",
+      "message": "Fix memory reporting when reader/writer threads change at runtime (#1119)",
+      "date": "2026-06-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1119",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/844be9cecdda323a9c8d85e0906ea5e3e4098615"
+    },
+    {
+      "sha": "e8a1603531",
+      "message": "Fix SIGSEGV on FT.SEARCH query with empty OR right-hand side (#1115)",
+      "date": "2026-06-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1115",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e8a16035317aad49c304c84953b985c7395aa627"
+    },
     {
       "sha": "beea10a226",
       "message": "Refactor support for lua/multi on single slot indexes (#866)",

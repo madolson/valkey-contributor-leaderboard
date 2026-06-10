@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 132,
-  "commit_count": 45,
-  "review_count": 87,
+  "score": 135,
+  "commit_count": 46,
+  "review_count": 89,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "30a87e921f",
+      "message": "Implemented pipelining for cluster mode (#92)",
+      "date": "2026-06-09",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/92",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/30a87e921f24798c635b0e320b6ff3662de1ad54"
+    },
     {
       "sha": "ec836c9459",
       "message": "Added high-availability page (#219)",
@@ -377,6 +385,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c10fc118e4",
+      "message": "Document AZ affinity configuration (#93)",
+      "date": "2026-06-09",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/93",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/c10fc118e41bc0faac68506489eda4429eade64a"
+    },
+    {
+      "sha": "0c804829c1",
+      "message": "Fix search indexing for Comparison Charts (#225)",
+      "date": "2026-06-09",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/225",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/0c804829c1f02bad5146465dc743963cf4640bd7"
+    },
     {
       "sha": "d42c32d1e4",
       "message": "build(deps-dev): update packaging requirement from >=22.0 to >=26.2 in /python (#5831)",

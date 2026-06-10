@@ -2,13 +2,29 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 80,
-  "commit_count": 58,
+  "score": 82,
+  "commit_count": 60,
   "review_count": 22,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "384bf306ee",
+      "message": "Add db to cluster client nodes. (#368)",
+      "date": "2026-06-09",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/368",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/384bf306eefed91c798edb01c439d34d377aa8c5"
+    },
+    {
+      "sha": "3cde1ed2d5",
+      "message": "Remove db on all boundaries between connectionId and metricsId (#367)",
+      "date": "2026-06-09",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/367",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/3cde1ed2d5616d5294d398923bcce807fd2f784d"
+    },
     {
       "sha": "8a4f1ab285",
       "message": "Numbered Databases New Connection Support (#366)",

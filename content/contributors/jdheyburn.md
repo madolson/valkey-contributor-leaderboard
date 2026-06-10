@@ -2,14 +2,22 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 74,
-  "commit_count": 24,
+  "score": 75,
+  "commit_count": 25,
   "review_count": 50,
   "repos": [
     "valkey",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "c9a0e9276f",
+      "message": "feat: Live configuration apply framework with MVP configs (#209)",
+      "date": "2026-06-09",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/209",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c9a0e9276fce41fa12b5908d9bde155b2eea1b94"
+    },
     {
       "sha": "d1947d293f",
       "message": "[enhancement] Roll replicas first during ValkeyNode updates (#228)",

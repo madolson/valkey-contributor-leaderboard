@@ -2,15 +2,31 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 137,
-  "commit_count": 36,
-  "review_count": 101,
+  "score": 141,
+  "commit_count": 38,
+  "review_count": 103,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "c10fc118e4",
+      "message": "Document AZ affinity configuration (#93)",
+      "date": "2026-06-09",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/93",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/c10fc118e41bc0faac68506489eda4429eade64a"
+    },
+    {
+      "sha": "449f61ac75",
+      "message": "Core, Java, Python, Node, Go: Add client-wide circuit breaker (#6050)",
+      "date": "2026-06-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6050",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/449f61ac75e907fcac20e11ce849ac74e31c9b5c"
+    },
     {
       "sha": "e1e75bb0fc",
       "message": "Replace unmaintained iai-callgrind with gungraun (#6209)",
@@ -301,6 +317,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "30a87e921f",
+      "message": "Implemented pipelining for cluster mode (#92)",
+      "date": "2026-06-09",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/92",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/30a87e921f24798c635b0e320b6ff3662de1ad54"
+    },
+    {
+      "sha": "390725f682",
+      "message": "Core: make pipeline send-timeout liveness-aware (#5446) (#6136)",
+      "date": "2026-06-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6136",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/390725f682c4d81554e05a484e0e621fc1e49abc"
+    },
     {
       "sha": "ec836c9459",
       "message": "Added high-availability page (#219)",

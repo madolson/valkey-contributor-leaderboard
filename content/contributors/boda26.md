@@ -2,9 +2,9 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 64,
+  "score": 65,
   "commit_count": 38,
-  "review_count": 26,
+  "review_count": 27,
   "repos": [
     "valkey-search"
   ],
@@ -315,6 +315,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ac4ced1389",
+      "message": "Fix GetTargetsForSlot to resolve slots in the middle/end of a range (#1117)",
+      "date": "2026-06-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1117",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ac4ced1389cc3725fab5015b156cb7475fe32878"
+    },
     {
       "sha": "2dc8e1f6a2",
       "message": "Add SCORE_FIELD support and SCORE range validation to FT.CREATE (#1008)",

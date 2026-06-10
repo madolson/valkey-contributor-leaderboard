@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 280,
+  "score": 281,
   "commit_count": 60,
-  "review_count": 220,
+  "review_count": 221,
   "repos": [
     "valkey",
     "valkey-container",
@@ -496,6 +496,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "69004cae7f",
+      "message": "Fix shard_id format specifier in UPDATE message log (#3942)",
+      "date": "2026-06-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3942",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/69004cae7f0c8417f63d96970128a332f1a0d5a1"
+    },
     {
       "sha": "f7b236dfe2",
       "message": "Fix typo option name in repl-ping-replica-period comment in valkey.conf (#3937)",

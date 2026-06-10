@@ -2,13 +2,21 @@
   "title": "hashrr",
   "login": "hashrr",
   "avatar_url": "https://avatars.githubusercontent.com/u/84803301?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "0c804829c1",
+      "message": "Fix search indexing for Comparison Charts (#225)",
+      "date": "2026-06-09",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/225",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/0c804829c1f02bad5146465dc743963cf4640bd7"
+    },
     {
       "sha": "2833580220",
       "message": "Update Starlight default description and fixed c# example checker(#222)",

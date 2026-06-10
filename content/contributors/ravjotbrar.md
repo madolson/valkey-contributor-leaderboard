@@ -2,9 +2,9 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 143,
+  "score": 145,
   "commit_count": 84,
-  "review_count": 59,
+  "review_count": 61,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
@@ -684,6 +684,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "384bf306ee",
+      "message": "Add db to cluster client nodes. (#368)",
+      "date": "2026-06-09",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/368",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/384bf306eefed91c798edb01c439d34d377aa8c5"
+    },
+    {
+      "sha": "3cde1ed2d5",
+      "message": "Remove db on all boundaries between connectionId and metricsId (#367)",
+      "date": "2026-06-09",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/367",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/3cde1ed2d5616d5294d398923bcce807fd2f784d"
+    },
     {
       "sha": "9ba5e88b05",
       "message": "Update version to 1.0.1 (#344)",

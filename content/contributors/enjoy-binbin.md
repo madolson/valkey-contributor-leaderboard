@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 866,
-  "commit_count": 339,
-  "review_count": 527,
+  "score": 871,
+  "commit_count": 342,
+  "review_count": 529,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "c3766df270",
+      "message": "Align THP advice in createLatencyReport with checkTHPEnabled (#3947)",
+      "date": "2026-06-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3947",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c3766df270376e6397c4a68a9abc04f1facec8ad"
+    },
     {
       "sha": "8ff1f53b7d",
       "message": "Support reusing externally built valkey-server and valkeymodule.h for test (#103)",
@@ -28,6 +36,22 @@
       "repo": "valkey-json",
       "pr_url": "https://github.com/valkey-io/valkey-json/pull/102",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/5e98983ff497d0e4fc0b58ecb1db79469084c269"
+    },
+    {
+      "sha": "d0ffbabb00",
+      "message": "Avoid random() % 0 undefined behaviour when cluster-node-timeout < 30 (#3941)",
+      "date": "2026-06-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3941",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d0ffbabb002214b6103c2031fcdc805b142b5085"
+    },
+    {
+      "sha": "69004cae7f",
+      "message": "Fix shard_id format specifier in UPDATE message log (#3942)",
+      "date": "2026-06-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3942",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/69004cae7f0c8417f63d96970128a332f1a0d5a1"
     },
     {
       "sha": "f7b236dfe2",
@@ -2727,6 +2751,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e1bc58c72f",
+      "message": "Fix crash when active field-expiry leaves a single-entry HT vset bucket (#3950)",
+      "date": "2026-06-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3950",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e1bc58c72f622969f56dc5686c059d0d8af7f5c2"
+    },
+    {
+      "sha": "948aaf8b42",
+      "message": "Deflake cluster-shards \"same shard id after restart\" test (#3949)",
+      "date": "2026-06-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3949",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/948aaf8b42066600ba86454c89514605a2b1cb06"
+    },
     {
       "sha": "2013e029c3",
       "message": "Fix server crash on FUNCTION DELETE after case-only function name collision (#3925)",

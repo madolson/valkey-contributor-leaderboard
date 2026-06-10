@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 235,
+  "score": 237,
   "commit_count": 51,
-  "review_count": 184,
+  "review_count": 186,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -422,6 +422,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "390725f682",
+      "message": "Core: make pipeline send-timeout liveness-aware (#5446) (#6136)",
+      "date": "2026-06-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6136",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/390725f682c4d81554e05a484e0e621fc1e49abc"
+    },
+    {
+      "sha": "449f61ac75",
+      "message": "Core, Java, Python, Node, Go: Add client-wide circuit breaker (#6050)",
+      "date": "2026-06-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6050",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/449f61ac75e907fcac20e11ce849ac74e31c9b5c"
+    },
     {
       "sha": "e1e75bb0fc",
       "message": "Replace unmaintained iai-callgrind with gungraun (#6209)",

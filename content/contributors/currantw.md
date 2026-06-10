@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 192,
+  "score": 193,
   "commit_count": 121,
-  "review_count": 71,
+  "review_count": 72,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -984,6 +984,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9fceec1bdf",
+      "message": "Java: Add failover and ReplicaOf command (#6170)",
+      "date": "2026-06-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6170",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9fceec1bdfe1a6a7b331225101f028dc0767e306"
+    },
     {
       "sha": "6adcf454c6",
       "message": "chore(deps): bump the patch-updates group with 3 updates (#424)",

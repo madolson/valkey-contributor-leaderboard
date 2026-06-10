@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 853,
+  "score": 854,
   "commit_count": 188,
-  "review_count": 665,
+  "review_count": 666,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1522,6 +1522,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "859649d9ab",
+      "message": "Fix IO-Threads redesign cleanup perf regression from #3544 (#3938)",
+      "date": "2026-06-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3938",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/859649d9abc29459acdec292c8a012249f76715a"
+    },
     {
       "sha": "1626a5e426",
       "message": "Valkey participants blog for momento (#523)",

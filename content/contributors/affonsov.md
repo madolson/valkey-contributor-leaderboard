@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 148,
+  "score": 149,
   "commit_count": 81,
-  "review_count": 67,
+  "review_count": 68,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -662,6 +662,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9fceec1bdf",
+      "message": "Java: Add failover and ReplicaOf command (#6170)",
+      "date": "2026-06-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6170",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9fceec1bdfe1a6a7b331225101f028dc0767e306"
+    },
     {
       "sha": "0ea0cd34fa",
       "message": "Java: Add support for `SAVE`, `BGSAVE`, `BGREWRITEAOF` commands (#6165)",

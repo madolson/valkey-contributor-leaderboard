@@ -152318,6 +152318,384 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/56"
+    },
+    {
+      "sha": "30a87e921f24798c635b0e320b6ff3662de1ad54",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "Implemented pipelining for cluster mode (#92)",
+      "date": "2026-06-09T18:15:33Z",
+      "repo": "spring-data-valkey",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-06-09T18:02:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/92"
+    },
+    {
+      "sha": "c10fc118e41bc0faac68506489eda4429eade64a",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "Document AZ affinity configuration (#93)",
+      "date": "2026-06-09T17:52:52Z",
+      "repo": "spring-data-valkey",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-06-09T17:47:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/93"
+    },
+    {
+      "sha": "e1bc58c72f622969f56dc5686c059d0d8af7f5c2",
+      "author_login": "ranshid",
+      "author_id": 88133677,
+      "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
+      "message": "Fix crash when active field-expiry leaves a single-entry HT vset bucket (#3950)",
+      "date": "2026-06-10T04:36:27Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-06-10T03:25:56Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3950"
+    },
+    {
+      "sha": "c3766df270376e6397c4a68a9abc04f1facec8ad",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Align THP advice in createLatencyReport with checkTHPEnabled (#3947)",
+      "date": "2026-06-10T04:28:35Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-06-09T17:53:54Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3947"
+    },
+    {
+      "sha": "948aaf8b42066600ba86454c89514605a2b1cb06",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Deflake cluster-shards \"same shard id after restart\" test (#3949)",
+      "date": "2026-06-10T03:23:41Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-06-10T03:23:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3949"
+    },
+    {
+      "sha": "859649d9abc29459acdec292c8a012249f76715a",
+      "author_login": "roshkhatri",
+      "author_id": 117414976,
+      "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
+      "message": "Fix IO-Threads redesign cleanup perf regression from #3544 (#3938)",
+      "date": "2026-06-09T23:45:31Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-06-09T23:45:18Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3938"
+    },
+    {
+      "sha": "d0ffbabb002214b6103c2031fcdc805b142b5085",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Avoid random() % 0 undefined behaviour when cluster-node-timeout < 30 (#3941)",
+      "date": "2026-06-09T16:09:38Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-06-09T03:43:36Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-06-09T08:24:55Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3941"
+    },
+    {
+      "sha": "69004cae7f0c8417f63d96970128a332f1a0d5a1",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Fix shard_id format specifier in UPDATE message log (#3942)",
+      "date": "2026-06-09T10:00:30Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "hpatro",
+          "date": "2026-06-09T10:00:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3942"
+    },
+    {
+      "sha": "384bf306eefed91c798edb01c439d34d377aa8c5",
+      "author_login": "ArgusLi",
+      "author_id": 43020525,
+      "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
+      "message": "Add db to cluster client nodes. (#368)",
+      "date": "2026-06-09T21:17:43Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ravjotbrar",
+          "date": "2026-06-09T21:13:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/368"
+    },
+    {
+      "sha": "3cde1ed2d5616d5294d398923bcce807fd2f784d",
+      "author_login": "ArgusLi",
+      "author_id": 43020525,
+      "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
+      "message": "Remove db on all boundaries between connectionId and metricsId (#367)",
+      "date": "2026-06-09T16:01:03Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ravjotbrar",
+          "date": "2026-06-09T15:45:47Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/367"
+    },
+    {
+      "sha": "9fceec1bdfe1a6a7b331225101f028dc0767e306",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "Java: Add failover and ReplicaOf command (#6170)",
+      "date": "2026-06-09T19:29:55Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-06-05T20:25:20Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-06-09T19:21:05Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6170"
+    },
+    {
+      "sha": "390725f682c4d81554e05a484e0e621fc1e49abc",
+      "author_login": "khaeransori",
+      "author_id": 3052454,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3052454?v=4",
+      "message": "Core: make pipeline send-timeout liveness-aware (#5446) (#6136)",
+      "date": "2026-06-09T17:54:59Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-06-09T16:48:30Z"
+        },
+        {
+          "login": "jduo",
+          "date": "2026-06-09T17:49:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6136"
+    },
+    {
+      "sha": "546af0b3eef6af63e2982ea287f4c136fde3b4e5",
+      "author_login": "sdg3iv",
+      "author_id": 73583751,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73583751?v=4",
+      "message": "Go: Add MEMORY DOCTOR / MEMORY MALLOC-STATS / MEMORY PURGE / MEMORY STATS commands (#5986)",
+      "date": "2026-06-09T17:11:27Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-05-27T16:01:17Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-06-09T17:11:09Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5986"
+    },
+    {
+      "sha": "449f61ac75e907fcac20e11ce849ac74e31c9b5c",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "Core, Java, Python, Node, Go: Add client-wide circuit breaker (#6050)",
+      "date": "2026-06-09T15:42:40Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jduo",
+          "date": "2026-06-05T19:44:44Z"
+        },
+        {
+          "login": "avifenesh",
+          "date": "2026-06-09T09:50:04Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6050"
+    },
+    {
+      "sha": "0c804829c1f02bad5146465dc743963cf4640bd7",
+      "author_login": "hashrr",
+      "author_id": 84803301,
+      "avatar_url": "https://avatars.githubusercontent.com/u/84803301?v=4",
+      "message": "Fix search indexing for Comparison Charts (#225)",
+      "date": "2026-06-09T16:22:30Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-06-09T16:20:42Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/225"
+    },
+    {
+      "sha": "63550f19efa99b139795ac7e6d71f34378107ca5",
+      "author_login": "slash-init",
+      "author_id": 186584533,
+      "avatar_url": "https://avatars.githubusercontent.com/u/186584533?v=4",
+      "message": "feat: add INCREX command support (#1003)",
+      "date": "2026-06-10T05:14:11Z",
+      "repo": "valkey-go",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "bb773bf9bf45fda671c332b19158bbb8d929a33c",
+      "author_login": "junghwan16",
+      "author_id": 50140505,
+      "avatar_url": "https://avatars.githubusercontent.com/u/50140505?v=4",
+      "message": "Add VISMEMBER command (#1001)",
+      "date": "2026-06-10T05:14:06Z",
+      "repo": "valkey-go",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "faf58c339572c71600b4b1e55198a9ea0af212e3",
+      "author_login": "zackcam",
+      "author_id": 181388575,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
+      "message": "Fixing out of range crash (#109)",
+      "date": "2026-06-10T04:50:17Z",
+      "repo": "valkey-json",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-06-10T04:49:25Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/109"
+    },
+    {
+      "sha": "c9a0e9276fce41fa12b5908d9bde155b2eea1b94",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "feat: Live configuration apply framework with MVP configs (#209)",
+      "date": "2026-06-09T09:54:01Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-06-09T09:15:19Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/209"
+    },
+    {
+      "sha": "ac4ced1389cc3725fab5015b156cb7475fe32878",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Fix GetTargetsForSlot to resolve slots in the middle/end of a range (#1117)",
+      "date": "2026-06-10T03:26:34Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "boda26",
+          "date": "2026-06-09T22:40:27Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1117"
+    },
+    {
+      "sha": "844be9cecdda323a9c8d85e0906ea5e3e4098615",
+      "author_login": "baswanth09",
+      "author_id": 122412818,
+      "avatar_url": "https://avatars.githubusercontent.com/u/122412818?v=4",
+      "message": "Fix memory reporting when reader/writer threads change at runtime (#1119)",
+      "date": "2026-06-10T01:41:45Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-06-10T01:41:27Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1119"
+    },
+    {
+      "sha": "e8a16035317aad49c304c84953b985c7395aa627",
+      "author_login": "Aksha1812",
+      "author_id": 48383029,
+      "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
+      "message": "Fix SIGSEGV on FT.SEARCH query with empty OR right-hand side (#1115)",
+      "date": "2026-06-09T23:53:54Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-06-09T22:59:20Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1115"
+    },
+    {
+      "sha": "22788c40e2936ec4df96ce5b4f9c84e247d944de",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Implement space savings for Tag and Numeric (#1026)",
+      "date": "2026-06-09T22:13:07Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Aksha1812",
+          "date": "2026-06-09T08:06:54Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1026"
     }
   ]
 }

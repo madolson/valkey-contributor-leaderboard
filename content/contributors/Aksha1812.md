@@ -2,14 +2,22 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 70,
-  "commit_count": 44,
-  "review_count": 26,
+  "score": 72,
+  "commit_count": 45,
+  "review_count": 27,
   "repos": [
     "valkey-ci-agent",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "e8a1603531",
+      "message": "Fix SIGSEGV on FT.SEARCH query with empty OR right-hand side (#1115)",
+      "date": "2026-06-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1115",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e8a16035317aad49c304c84953b985c7395aa627"
+    },
     {
       "sha": "08a27f3794",
       "message": "Add .skills directory with stale-prs workflow (#1038)",
@@ -364,6 +372,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "22788c40e2",
+      "message": "Implement space savings for Tag and Numeric (#1026)",
+      "date": "2026-06-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1026",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/22788c40e2936ec4df96ce5b4f9c84e247d944de"
+    },
     {
       "sha": "8c260dba83",
       "message": "Support Borrowed InternedString Ptr to avoid ref counting  (#1043)",

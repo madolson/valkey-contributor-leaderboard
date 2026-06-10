@@ -2,8 +2,8 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 59,
-  "commit_count": 39,
+  "score": 60,
+  "commit_count": 40,
   "review_count": 20,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "faf58c3395",
+      "message": "Fixing out of range crash (#109)",
+      "date": "2026-06-10",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/109",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/faf58c339572c71600b4b1e55198a9ea0af212e3"
+    },
     {
       "sha": "2035fb30c6",
       "message": "Redacting customer information when hide_user_data_from_log is true in rdb.c, networking.c, debug.c and t_hash  (#3872)",
