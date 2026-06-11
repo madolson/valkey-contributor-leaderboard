@@ -152696,6 +152696,330 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1026"
+    },
+    {
+      "sha": "f3bdf50db381647481def0c91b30b4df4e3b7642",
+      "author_login": "dvkashapov",
+      "author_id": 81564730,
+      "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
+      "message": "Omit alldbs rule in ACL SAVE/LIST and CONFIG REWRITE for compatibility (#3964)",
+      "date": "2026-06-10T21:45:40Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-06-10T15:34:25Z"
+        },
+        {
+          "login": "madolson",
+          "date": "2026-06-10T21:45:26Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3964"
+    },
+    {
+      "sha": "719268e847e7cdd0b0c7932049ceaf04251eccdb",
+      "author_login": "roshkhatri",
+      "author_id": 117414976,
+      "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
+      "message": "Fix module loading failure for redis module (#3374)",
+      "date": "2026-06-10T17:27:43Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-03-18T17:50:20Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-03-30T17:43:29Z"
+        },
+        {
+          "login": "PingXie",
+          "date": "2026-05-18T02:10:22Z"
+        },
+        {
+          "login": "PingXie",
+          "date": "2026-06-07T21:45:36Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3374"
+    },
+    {
+      "sha": "f7690377fba28c7ae793792cd301f68e68970368",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Increase the cluster-node-timeout to have longer delay between failover of each shard (#3946)",
+      "date": "2026-06-10T09:03:51Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-06-09T16:39:32Z"
+        },
+        {
+          "login": "hpatro",
+          "date": "2026-06-10T09:02:59Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3946"
+    },
+    {
+      "sha": "6a444f8daaf411cfbbeff19dd6f6d9696d3347fa",
+      "author_login": "nassery318",
+      "author_id": 86083902,
+      "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
+      "message": "Refactor info from server to metrics (#369)",
+      "date": "2026-06-10T17:07:04Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "arseny-kostenko",
+          "date": "2026-06-10T17:04:42Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/369"
+    },
+    {
+      "sha": "f428f3e318f3d5465674e95761ee18efdc5ab0b0",
+      "author_login": "somechris",
+      "author_id": 3330451,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3330451?v=4",
+      "message": "`BF.INFO`: documentation and reabability nits (#104)",
+      "date": "2026-06-10T20:28:39Z",
+      "repo": "valkey-bloom",
+      "reviewed": [
+        {
+          "login": "zackcam",
+          "date": "2026-06-09T18:59:40Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/104"
+    },
+    {
+      "sha": "838a27bab295c5253e323d481f2da861ae72747d",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "Updated command routing and timeout docs (#235)",
+      "date": "2026-06-10T16:08:03Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-06-09T22:52:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/235"
+    },
+    {
+      "sha": "6396496631c06a577cf6d19ae92a3360dc9cea73",
+      "author_login": "alexr-bq",
+      "author_id": 72045206,
+      "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
+      "message": "Replace Docker cluster with cluster_manager.py (#108)",
+      "date": "2026-06-10T20:03:11Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-06-10T00:33:07Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-06-10T19:28:50Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/108"
+    },
+    {
+      "sha": "12dc308b17320e3995e1b62ad0735adb94cf3ab9",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "Merge pull request #179 from jdheyburn/valkey-operator-0.2.0",
+      "date": "2026-06-10T16:29:52Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-06-10T12:13:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/179"
+    },
+    {
+      "sha": "e4a8c2ef7d24872e6acf7cacb045d1d2db181cbb",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "Merge branch 'main' into valkey-operator-0.2.0",
+      "date": "2026-06-10T12:57:48Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-06-10T12:13:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/179"
+    },
+    {
+      "sha": "42e477760ddd15673f2ea0041a386843cd0db043",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "Merge pull request #172 from jdheyburn/valkey-operator/feat/add-watch-namespaces",
+      "date": "2026-06-10T12:56:06Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-06-10T12:18:16Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/172"
+    },
+    {
+      "sha": "a967047554d440c3293d0294066856572a2bebcc",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "Release 0.2.0 valkey-operator",
+      "date": "2026-06-09T18:14:14Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-06-10T12:13:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/179"
+    },
+    {
+      "sha": "782434708443e9ae7e8d6f343ab293b556f923ad",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "Merge branch 'main' into valkey-operator/feat/add-watch-namespaces",
+      "date": "2026-06-02T18:04:37Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-06-10T12:18:16Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/172"
+    },
+    {
+      "sha": "f055f3d453ad577982e51e076a085bc70962be04",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "Update README",
+      "date": "2026-05-12T12:56:04Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-06-10T12:18:16Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/172"
+    },
+    {
+      "sha": "7cfe9000edcfafc9b6c5cbd58cdf49af1f4f43f2",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "feat: add manager.watchNamespaces value",
+      "date": "2026-05-12T10:11:29Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-06-10T12:18:16Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/172"
+    },
+    {
+      "sha": "d02632adddb2e58fd66f6344a41fbc9a68e1f170",
+      "author_login": "allenheltondev",
+      "author_id": 53385551,
+      "avatar_url": "https://avatars.githubusercontent.com/u/53385551?v=4",
+      "message": "Adding blog post for architecting for 1b rps (#533)",
+      "date": "2026-06-10T21:39:02Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "ksmotiv8",
+          "date": "2026-06-03T17:18:38Z"
+        },
+        {
+          "login": "crystalphamLF",
+          "date": "2026-06-04T23:04:54Z"
+        },
+        {
+          "login": "stockholmux",
+          "date": "2026-06-10T21:19:28Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/533"
+    },
+    {
+      "sha": "8a826757c5eb4f795383cfef6a30061236c1cc85",
+      "author_login": "zackcam",
+      "author_id": 181388575,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
+      "message": "Fix for crash when key contains ~ (#108)",
+      "date": "2026-06-10T17:18:49Z",
+      "repo": "valkey-json",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-06-10T17:18:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/108"
+    },
+    {
+      "sha": "d1b1672a21874bf72273af3a28bce8bf5293229b",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Implement search.emulate_release capability as described in COMPATIBILITY.md (#1063)",
+      "date": "2026-06-11T02:18:16Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "BCathcart",
+          "date": "2026-06-10T21:27:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1063"
+    },
+    {
+      "sha": "e1b4e036465a22aab4f4fd4f0a6a897e8683496a",
+      "author_login": "Aksha1812",
+      "author_id": 48383029,
+      "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
+      "message": "Add backporting instructions to BACKPORTING.md (#1055)",
+      "date": "2026-06-10T17:21:23Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-06-10T04:10:17Z"
+        },
+        {
+          "login": "allenss-amazon",
+          "date": "2026-06-10T17:21:13Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1055"
     }
   ]
 }

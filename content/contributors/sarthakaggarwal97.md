@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 299,
+  "score": 301,
   "commit_count": 88,
-  "review_count": 211,
+  "review_count": 213,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -718,6 +718,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "719268e847",
+      "message": "Fix module loading failure for redis module (#3374)",
+      "date": "2026-06-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3374",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/719268e847e7cdd0b0c7932049ceaf04251eccdb"
+    },
+    {
+      "sha": "f7690377fb",
+      "message": "Increase the cluster-node-timeout to have longer delay between failover of each shard (#3946)",
+      "date": "2026-06-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3946",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f7690377fba28c7ae793792cd301f68e68970368"
+    },
     {
       "sha": "d0ffbabb00",
       "message": "Avoid random() % 0 undefined behaviour when cluster-node-timeout < 30 (#3941)",

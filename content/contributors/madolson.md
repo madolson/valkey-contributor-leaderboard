@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 854,
+  "score": 855,
   "commit_count": 188,
-  "review_count": 666,
+  "review_count": 667,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1522,6 +1522,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f3bdf50db3",
+      "message": "Omit alldbs rule in ACL SAVE/LIST and CONFIG REWRITE for compatibility (#3964)",
+      "date": "2026-06-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3964",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f3bdf50db381647481def0c91b30b4df4e3b7642"
+    },
     {
       "sha": "859649d9ab",
       "message": "Fix IO-Threads redesign cleanup perf regression from #3544 (#3938)",

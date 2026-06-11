@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 76,
+  "score": 77,
   "commit_count": 35,
-  "review_count": 41,
+  "review_count": 42,
   "repos": [
     "valkey",
     "valkey-io.github.io",
@@ -293,6 +293,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d1b1672a21",
+      "message": "Implement search.emulate_release capability as described in COMPATIBILITY.md (#1063)",
+      "date": "2026-06-11",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1063",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d1b1672a21874bf72273af3a28bce8bf5293229b"
+    },
     {
       "sha": "b4bdc1535b",
       "message": "Optimize content fetch: eliminate double key open, use HashGet for specific field access (#1045)",

@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1158,
+  "score": 1159,
   "commit_count": 152,
-  "review_count": 1006,
+  "review_count": 1007,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1238,6 +1238,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3947",
       "commit_url": "https://github.com/valkey-io/valkey/commit/c3766df270376e6397c4a68a9abc04f1facec8ad"
+    },
+    {
+      "sha": "f3bdf50db3",
+      "message": "Omit alldbs rule in ACL SAVE/LIST and CONFIG REWRITE for compatibility (#3964)",
+      "date": "2026-06-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3964",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f3bdf50db381647481def0c91b30b4df4e3b7642"
     },
     {
       "sha": "d0ffbabb00",

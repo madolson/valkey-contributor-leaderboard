@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 199,
+  "score": 201,
   "commit_count": 108,
-  "review_count": 91,
+  "review_count": 93,
   "repos": [
     "libvalkey",
     "valkey",
@@ -879,6 +879,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "12dc308b17",
+      "message": "Merge pull request #179 from jdheyburn/valkey-operator-0.2.0",
+      "date": "2026-06-10",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/179",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/12dc308b17320e3995e1b62ad0735adb94cf3ab9"
+    },
+    {
+      "sha": "42e477760d",
+      "message": "Merge pull request #172 from jdheyburn/valkey-operator/feat/add-watch-namespaces",
+      "date": "2026-06-10",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/172",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/42e477760ddd15673f2ea0041a386843cd0db043"
+    },
     {
       "sha": "c9a0e9276f",
       "message": "feat: Live configuration apply framework with MVP configs (#209)",

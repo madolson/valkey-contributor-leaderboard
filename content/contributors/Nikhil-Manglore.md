@@ -2,9 +2,9 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 246,
+  "score": 247,
   "commit_count": 94,
-  "review_count": 152,
+  "review_count": 153,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -775,6 +775,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "719268e847",
+      "message": "Fix module loading failure for redis module (#3374)",
+      "date": "2026-06-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3374",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/719268e847e7cdd0b0c7932049ceaf04251eccdb"
+    },
     {
       "sha": "fee1cb90bb",
       "message": "Replace VALKEY_BUNDLE_PAT_FOR_PR with Valkeyrie Bot GitHub App tokens (#114)",

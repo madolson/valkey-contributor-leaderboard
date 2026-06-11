@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 364,
-  "commit_count": 139,
-  "review_count": 225,
+  "score": 366,
+  "commit_count": 140,
+  "review_count": 226,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -19,6 +19,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "719268e847",
+      "message": "Fix module loading failure for redis module (#3374)",
+      "date": "2026-06-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3374",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/719268e847e7cdd0b0c7932049ceaf04251eccdb"
+    },
     {
       "sha": "859649d9ab",
       "message": "Fix IO-Threads redesign cleanup perf regression from #3544 (#3938)",
@@ -1140,6 +1148,14 @@
       "repo": "valkey-json",
       "pr_url": "https://github.com/valkey-io/valkey-json/pull/109",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/faf58c339572c71600b4b1e55198a9ea0af212e3"
+    },
+    {
+      "sha": "8a826757c5",
+      "message": "Fix for crash when key contains ~ (#108)",
+      "date": "2026-06-10",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/108",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/8a826757c5eb4f795383cfef6a30061236c1cc85"
     },
     {
       "sha": "84c5d41211",

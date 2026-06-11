@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 329,
+  "score": 330,
   "commit_count": 113,
-  "review_count": 216,
+  "review_count": 217,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -918,6 +918,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6396496631",
+      "message": "Replace Docker cluster with cluster_manager.py (#108)",
+      "date": "2026-06-10",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/108",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6396496631c06a577cf6d19ae92a3360dc9cea73"
+    },
     {
       "sha": "d531c8206b",
       "message": "docs: update PHP/C# Search and JSON module commands version support (#228)",

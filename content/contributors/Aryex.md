@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 135,
-  "commit_count": 46,
-  "review_count": 89,
+  "score": 137,
+  "commit_count": 47,
+  "review_count": 90,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "838a27bab2",
+      "message": "Updated command routing and timeout docs (#235)",
+      "date": "2026-06-10",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/235",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/838a27bab295c5253e323d481f2da861ae72747d"
+    },
     {
       "sha": "30a87e921f",
       "message": "Implemented pipelining for cluster mode (#92)",
@@ -385,6 +393,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6396496631",
+      "message": "Replace Docker cluster with cluster_manager.py (#108)",
+      "date": "2026-06-10",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/108",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6396496631c06a577cf6d19ae92a3360dc9cea73"
+    },
     {
       "sha": "c10fc118e4",
       "message": "Document AZ affinity configuration (#93)",

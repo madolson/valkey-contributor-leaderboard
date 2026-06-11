@@ -2,15 +2,23 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 250,
-  "commit_count": 56,
-  "review_count": 194,
+  "score": 253,
+  "commit_count": 57,
+  "review_count": 196,
   "repos": [
     "valkey",
     "valkey-json",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "d1b1672a21",
+      "message": "Implement search.emulate_release capability as described in COMPATIBILITY.md (#1063)",
+      "date": "2026-06-11",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1063",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d1b1672a21874bf72273af3a28bce8bf5293229b"
+    },
     {
       "sha": "ac4ced1389",
       "message": "Fix GetTargetsForSlot to resolve slots in the middle/end of a range (#1117)",
@@ -468,6 +476,22 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1119",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/844be9cecdda323a9c8d85e0906ea5e3e4098615"
+    },
+    {
+      "sha": "e1b4e03646",
+      "message": "Add backporting instructions to BACKPORTING.md (#1055)",
+      "date": "2026-06-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1055",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e1b4e036465a22aab4f4fd4f0a6a897e8683496a"
+    },
+    {
+      "sha": "e1b4e03646",
+      "message": "Add backporting instructions to BACKPORTING.md (#1055)",
+      "date": "2026-06-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1055",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e1b4e036465a22aab4f4fd4f0a6a897e8683496a"
     },
     {
       "sha": "e8a1603531",

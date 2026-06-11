@@ -2,14 +2,22 @@
   "title": "allenheltondev",
   "login": "allenheltondev",
   "avatar_url": "https://avatars.githubusercontent.com/u/53385551?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "d02632addd",
+      "message": "Adding blog post for architecting for 1b rps (#533)",
+      "date": "2026-06-10",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/533",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/d02632adddb2e58fd66f6344a41fbc9a68e1f170"
+    },
     {
       "sha": "b8167b3a07",
       "message": "Blog on operational lessons learned from Unlocked (#457)",

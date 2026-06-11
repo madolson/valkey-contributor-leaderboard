@@ -2,8 +2,8 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 170,
-  "commit_count": 41,
+  "score": 171,
+  "commit_count": 42,
   "review_count": 129,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "6396496631",
+      "message": "Replace Docker cluster with cluster_manager.py (#108)",
+      "date": "2026-06-10",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/108",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6396496631c06a577cf6d19ae92a3360dc9cea73"
+    },
     {
       "sha": "1465b38eee",
       "message": "Fix setting of library name (#97)",

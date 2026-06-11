@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 281,
+  "score": 282,
   "commit_count": 60,
-  "review_count": 221,
+  "review_count": 222,
   "repos": [
     "valkey",
     "valkey-container",
@@ -496,6 +496,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f7690377fb",
+      "message": "Increase the cluster-node-timeout to have longer delay between failover of each shard (#3946)",
+      "date": "2026-06-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3946",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f7690377fba28c7ae793792cd301f68e68970368"
+    },
     {
       "sha": "69004cae7f",
       "message": "Fix shard_id format specifier in UPDATE message log (#3942)",

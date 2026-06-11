@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 149,
+  "score": 150,
   "commit_count": 81,
-  "review_count": 68,
+  "review_count": 69,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -662,6 +662,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "838a27bab2",
+      "message": "Updated command routing and timeout docs (#235)",
+      "date": "2026-06-10",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/235",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/838a27bab295c5253e323d481f2da861ae72747d"
+    },
     {
       "sha": "9fceec1bdf",
       "message": "Java: Add failover and ReplicaOf command (#6170)",

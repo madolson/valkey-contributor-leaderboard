@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 111,
-  "commit_count": 97,
+  "score": 112,
+  "commit_count": 98,
   "review_count": 14,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "6a444f8daa",
+      "message": "Refactor info from server to metrics (#369)",
+      "date": "2026-06-10",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/369",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/6a444f8daaf411cfbbeff19dd6f6d9696d3347fa"
+    },
     {
       "sha": "a5cc0248d4",
       "message": "replaced blocking key info commands with pagination for different key\u2026 (#364)",

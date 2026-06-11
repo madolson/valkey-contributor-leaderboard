@@ -2,9 +2,9 @@
   "title": "PingXie",
   "login": "PingXie",
   "avatar_url": "https://avatars.githubusercontent.com/u/11568491?v=4",
-  "score": 202,
+  "score": 204,
   "commit_count": 10,
-  "review_count": 192,
+  "review_count": 194,
   "repos": [
     "valkey",
     "valkey-go",
@@ -93,6 +93,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "719268e847",
+      "message": "Fix module loading failure for redis module (#3374)",
+      "date": "2026-06-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3374",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/719268e847e7cdd0b0c7932049ceaf04251eccdb"
+    },
+    {
+      "sha": "719268e847",
+      "message": "Fix module loading failure for redis module (#3374)",
+      "date": "2026-06-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3374",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/719268e847e7cdd0b0c7932049ceaf04251eccdb"
+    },
     {
       "sha": "8ee3fd704c",
       "message": "Trigger cluster state update immediately when cluster-require-full-coverage changes (#3676)",

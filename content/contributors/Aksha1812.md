@@ -2,14 +2,22 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 72,
-  "commit_count": 45,
+  "score": 73,
+  "commit_count": 46,
   "review_count": 27,
   "repos": [
     "valkey-ci-agent",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "e1b4e03646",
+      "message": "Add backporting instructions to BACKPORTING.md (#1055)",
+      "date": "2026-06-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1055",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e1b4e036465a22aab4f4fd4f0a6a897e8683496a"
+    },
     {
       "sha": "e8a1603531",
       "message": "Fix SIGSEGV on FT.SEARCH query with empty OR right-hand side (#1115)",

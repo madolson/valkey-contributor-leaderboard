@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 206,
+  "score": 207,
   "commit_count": 19,
-  "review_count": 187,
+  "review_count": 188,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6a444f8daa",
+      "message": "Refactor info from server to metrics (#369)",
+      "date": "2026-06-10",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/369",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/6a444f8daaf411cfbbeff19dd6f6d9696d3347fa"
+    },
     {
       "sha": "8a4f1ab285",
       "message": "Numbered Databases New Connection Support (#366)",

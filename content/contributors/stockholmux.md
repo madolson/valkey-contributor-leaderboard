@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 113,
+  "score": 114,
   "commit_count": 13,
-  "review_count": 100,
+  "review_count": 101,
   "repos": [
     "valkey-io.github.io",
     "valkey-operator"
@@ -116,6 +116,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d02632addd",
+      "message": "Adding blog post for architecting for 1b rps (#533)",
+      "date": "2026-06-10",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/533",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/d02632adddb2e58fd66f6344a41fbc9a68e1f170"
+    },
     {
       "sha": "373a560dfe",
       "message": "Fix CI to test merge result instead of fork branch in isolation (#562)",

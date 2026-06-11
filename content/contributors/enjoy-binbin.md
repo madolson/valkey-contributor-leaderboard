@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 871,
-  "commit_count": 342,
+  "score": 872,
+  "commit_count": 343,
   "review_count": 529,
   "repos": [
     "valkey",
@@ -20,6 +20,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3947",
       "commit_url": "https://github.com/valkey-io/valkey/commit/c3766df270376e6397c4a68a9abc04f1facec8ad"
+    },
+    {
+      "sha": "f7690377fb",
+      "message": "Increase the cluster-node-timeout to have longer delay between failover of each shard (#3946)",
+      "date": "2026-06-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3946",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f7690377fba28c7ae793792cd301f68e68970368"
     },
     {
       "sha": "8ff1f53b7d",

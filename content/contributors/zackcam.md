@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 60,
-  "commit_count": 40,
-  "review_count": 20,
+  "score": 62,
+  "commit_count": 41,
+  "review_count": 21,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -22,6 +22,14 @@
       "repo": "valkey-json",
       "pr_url": "https://github.com/valkey-io/valkey-json/pull/109",
       "commit_url": "https://github.com/valkey-io/valkey-json/commit/faf58c339572c71600b4b1e55198a9ea0af212e3"
+    },
+    {
+      "sha": "8a826757c5",
+      "message": "Fix for crash when key contains ~ (#108)",
+      "date": "2026-06-10",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/108",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/8a826757c5eb4f795383cfef6a30061236c1cc85"
     },
     {
       "sha": "2035fb30c6",
@@ -337,6 +345,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f428f3e318",
+      "message": "`BF.INFO`: documentation and reabability nits (#104)",
+      "date": "2026-06-10",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/104",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/f428f3e318f3d5465674e95761ee18efdc5ab0b0"
+    },
     {
       "sha": "c340f0ec24",
       "message": "Support reusing an externally built valkey-server binary for test (#97)",
