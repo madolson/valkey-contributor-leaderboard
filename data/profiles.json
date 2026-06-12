@@ -2150,5 +2150,13 @@
   "somechris": {
     "name": "Christian Aistleitner",
     "company": ""
+  },
+  "rickrams": {
+    "name": "Rick Ramsay",
+    "company": "AWS"
+  },
+  "gluxier": {
+    "name": "",
+    "company": ""
   }
 }

@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 112,
-  "commit_count": 98,
+  "score": 113,
+  "commit_count": 99,
   "review_count": 14,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "c893146b0b",
+      "message": "exposed KEY_VALUE_SIZE_LIMIT_BYTES as a configurable env in docker compose (#370)",
+      "date": "2026-06-11",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/370",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/c893146b0b94d5cf19725c10c6caf148be890870"
+    },
     {
       "sha": "6a444f8daa",
       "message": "Refactor info from server to metrics (#369)",

@@ -2,14 +2,22 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 145,
-  "commit_count": 84,
+  "score": 146,
+  "commit_count": 85,
   "review_count": 61,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "5b8d610e8e",
+      "message": "Set NodeDiscoveryMode to Static in client creation (#371)",
+      "date": "2026-06-11",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/371",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/5b8d610e8e3eb81c52b30abd15f5249c9459b9ac"
+    },
     {
       "sha": "8dea9be017",
       "message": "Add link for Valkey Admin (#539)",

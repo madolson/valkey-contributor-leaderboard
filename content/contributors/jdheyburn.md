@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 77,
+  "score": 78,
   "commit_count": 27,
-  "review_count": 50,
+  "review_count": 51,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -229,6 +229,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dd70f1cee6",
+      "message": "Filter Secrets by managed-by label to reduce cache memory usage (#238)",
+      "date": "2026-06-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/238",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/dd70f1cee6309eb99edf3a9c662adb6fecac8bae"
+    },
     {
       "sha": "77c6c5b3b9",
       "message": "(feat) support images from private container registry (#234)",

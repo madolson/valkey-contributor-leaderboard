@@ -2,9 +2,9 @@
   "title": "nmvk",
   "login": "nmvk",
   "avatar_url": "https://avatars.githubusercontent.com/u/1668438?v=4",
-  "score": 11,
+  "score": 12,
   "commit_count": 7,
-  "review_count": 4,
+  "review_count": 5,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -68,6 +68,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "86acf8d337",
+      "message": "Stabilize CLUSTERSCAN unassigned-slot test by retrying DELSLOTS (#3959)",
+      "date": "2026-06-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3959",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/86acf8d33728807dae5fc97d3d9559d2562691a0"
+    },
     {
       "sha": "355d30642b",
       "message": "Remove MIGRATE command dead code in ACLSelectorCheckCmd (#3804)",

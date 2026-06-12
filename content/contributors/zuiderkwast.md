@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1159,
+  "score": 1161,
   "commit_count": 152,
-  "review_count": 1007,
+  "review_count": 1009,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1231,6 +1231,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "86acf8d337",
+      "message": "Stabilize CLUSTERSCAN unassigned-slot test by retrying DELSLOTS (#3959)",
+      "date": "2026-06-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3959",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/86acf8d33728807dae5fc97d3d9559d2562691a0"
+    },
+    {
+      "sha": "98005d1c8c",
+      "message": "Reject NAN scores in listpack/ziplist-encoded sorted sets on RDB load (#3921)",
+      "date": "2026-06-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3921",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/98005d1c8ca56d5887d81ed4256dfc10ebc09912"
+    },
     {
       "sha": "c3766df270",
       "message": "Align THP advice in createLatencyReport with checkTHPEnabled (#3947)",

@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 114,
+  "score": 115,
   "commit_count": 13,
-  "review_count": 101,
+  "review_count": 102,
   "repos": [
     "valkey-io.github.io",
     "valkey-operator"
@@ -116,6 +116,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3bf7b349d7",
+      "message": "Add Unlocked Seattle recap blog (#577)",
+      "date": "2026-06-11",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/577",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/3bf7b349d7793ae6d20f3ac4932683f9b9f26150"
+    },
     {
       "sha": "d02632addd",
       "message": "Adding blog post for architecting for 1b rps (#533)",

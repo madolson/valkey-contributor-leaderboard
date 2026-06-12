@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 855,
-  "commit_count": 188,
-  "review_count": 667,
+  "score": 859,
+  "commit_count": 191,
+  "review_count": 668,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -16,6 +16,30 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "98005d1c8c",
+      "message": "Reject NAN scores in listpack/ziplist-encoded sorted sets on RDB load (#3921)",
+      "date": "2026-06-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3921",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/98005d1c8ca56d5887d81ed4256dfc10ebc09912"
+    },
+    {
+      "sha": "63dc7484bb",
+      "message": "Reject integer overflow of length fields in zipmapValidateIntegrity (#3920)",
+      "date": "2026-06-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3920",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/63dc7484bbd326806090acef4369b644e65a51a2"
+    },
+    {
+      "sha": "4f11dd6355",
+      "message": "Add Sarthak Aggarwal as a committer (#3975)",
+      "date": "2026-06-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3975",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4f11dd63551c3098e2dedc38e52faca0aeec4a9f"
+    },
     {
       "sha": "2013e029c3",
       "message": "Fix server crash on FUNCTION DELETE after case-only function name collision (#3925)",
@@ -1522,6 +1546,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "69d3f50c8b",
+      "message": "Exit with error when getRDB ftruncate fails (#3945)",
+      "date": "2026-06-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3945",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/69d3f50c8bea67b402730c45732e11098dc916a5"
+    },
     {
       "sha": "f3bdf50db3",
       "message": "Omit alldbs rule in ACL SAVE/LIST and CONFIG REWRITE for compatibility (#3964)",

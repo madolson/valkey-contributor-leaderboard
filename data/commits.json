@@ -153020,6 +153020,352 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1055"
+    },
+    {
+      "sha": "ce8d17759e3f528029261b81a65cebe94b56883a",
+      "author_login": "rickrams",
+      "author_id": 49293857,
+      "avatar_url": "https://avatars.githubusercontent.com/u/49293857?v=4",
+      "message": "Fix RESP3 type violation in addReplyCommandSubCommands (#3939)",
+      "date": "2026-06-12T02:48:27Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-06-09T03:41:18Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3939"
+    },
+    {
+      "sha": "86acf8d33728807dae5fc97d3d9559d2562691a0",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Stabilize CLUSTERSCAN unassigned-slot test by retrying DELSLOTS (#3959)",
+      "date": "2026-06-12T02:18:46Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "nmvk",
+          "date": "2026-06-10T07:29:34Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-06-11T06:20:29Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-06-11T21:05:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3959"
+    },
+    {
+      "sha": "69d3f50c8bea67b402730c45732e11098dc916a5",
+      "author_login": "gluxier",
+      "author_id": 291904744,
+      "avatar_url": "https://avatars.githubusercontent.com/u/291904744?v=4",
+      "message": "Exit with error when getRDB ftruncate fails (#3945)",
+      "date": "2026-06-11T21:13:42Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-06-11T06:32:54Z"
+        },
+        {
+          "login": "madolson",
+          "date": "2026-06-11T21:13:21Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3945"
+    },
+    {
+      "sha": "98005d1c8ca56d5887d81ed4256dfc10ebc09912",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Reject NAN scores in listpack/ziplist-encoded sorted sets on RDB load (#3921)",
+      "date": "2026-06-11T21:01:28Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-06-05T04:55:28Z"
+        },
+        {
+          "login": "murphyjacob4",
+          "date": "2026-06-05T18:01:40Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-06-05T21:08:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3921"
+    },
+    {
+      "sha": "63dc7484bbd326806090acef4369b644e65a51a2",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Reject integer overflow of length fields in zipmapValidateIntegrity (#3920)",
+      "date": "2026-06-11T21:01:08Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-06-05T04:54:36Z"
+        },
+        {
+          "login": "murphyjacob4",
+          "date": "2026-06-05T18:04:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3920"
+    },
+    {
+      "sha": "4f11dd63551c3098e2dedc38e52faca0aeec4a9f",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Add Sarthak Aggarwal as a committer (#3975)",
+      "date": "2026-06-11T18:20:40Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-06-11T18:14:20Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-06-11T18:19:44Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3975"
+    },
+    {
+      "sha": "5b8d610e8e3eb81c52b30abd15f5249c9459b9ac",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Set NodeDiscoveryMode to Static in client creation (#371)",
+      "date": "2026-06-11T20:38:34Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ArgusLi",
+          "date": "2026-06-11T18:49:15Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/371"
+    },
+    {
+      "sha": "c893146b0b94d5cf19725c10c6caf148be890870",
+      "author_login": "nassery318",
+      "author_id": 86083902,
+      "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
+      "message": "exposed KEY_VALUE_SIZE_LIMIT_BYTES as a configurable env in docker compose (#370)",
+      "date": "2026-06-11T17:13:10Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "arseny-kostenko",
+          "date": "2026-06-11T17:08:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/370"
+    },
+    {
+      "sha": "24fe3b9a207f48a6358c46661c8afdbdc2f543e6",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Fix backport-poll workflow: drop invalid repositories token scope (#29)",
+      "date": "2026-06-12T04:57:31Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "a87b8ef023c12b60f710290867d9519ebc718b97",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Top up backport sweep PRs between daily runs (#28)",
+      "date": "2026-06-12T04:49:55Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "fe2b64ff45477d7eba4f1f8f749b8ce695da0d91",
+      "author_login": "jamesx-improving",
+      "author_id": 126831592,
+      "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
+      "message": "chore: temporarily allow pyo3 advisory pending version bump (#6228)",
+      "date": "2026-06-12T00:19:28Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jduo",
+          "date": "2026-06-11T23:54:11Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-06-12T00:06:20Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-06-12T00:09:57Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6228"
+    },
+    {
+      "sha": "3686d8487f9ae8d7179e48f6de0e8ef7b5e77185",
+      "author_login": "jduo",
+      "author_id": 1657237,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
+      "message": "fix(ffi): avoid heap corruption in convert_vec_to_pointer (#6225)",
+      "date": "2026-06-11T23:23:46Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-06-11T21:42:35Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-06-11T22:24:27Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6225"
+    },
+    {
+      "sha": "1b95d2e8a156359044103b0144737ae6b5d5d8c1",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "Add `SAVE`, `BGSAVE`, `BGREWRITEAOF` commands (Node, Python, Go) (#6188)",
+      "date": "2026-06-11T22:40:47Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-06-08T22:10:42Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-06-11T19:00:08Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6188"
+    },
+    {
+      "sha": "16d5d8937492dbbcd3829f496bb9734e495a6eae",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Update CD workflows to be consistent across all clients, add pre-publish smoke tests, and better AWS_ACTION gates (#6062)",
+      "date": "2026-06-11T17:54:50Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-06-04T23:02:54Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-06-10T19:59:39Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-06-11T17:43:54Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6062"
+    },
+    {
+      "sha": "3bf7b349d7793ae6d20f3ac4932683f9b9f26150",
+      "author_login": "crystalphamLF",
+      "author_id": 211876879,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
+      "message": "Add Unlocked Seattle recap blog (#577)",
+      "date": "2026-06-11T17:38:52Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "stockholmux",
+          "date": "2026-06-11T16:37:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/577"
+    },
+    {
+      "sha": "653d4022e9b34428301edd0627bf0c15e2d59a0e",
+      "author_login": "roshkhatri",
+      "author_id": 117414976,
+      "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
+      "message": "Fix unbounded array Reserve in legacy RDB load (#111)",
+      "date": "2026-06-11T18:53:07Z",
+      "repo": "valkey-json",
+      "reviewed": [
+        {
+          "login": "zackcam",
+          "date": "2026-06-10T00:15:12Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/111"
+    },
+    {
+      "sha": "0c320dda894d0ab38e00bf09c370e40cd512b259",
+      "author_login": "roshkhatri",
+      "author_id": 117414976,
+      "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
+      "message": "Fix JSON.MSET duplicate-key crash (#112)",
+      "date": "2026-06-11T18:52:14Z",
+      "repo": "valkey-json",
+      "reviewed": [
+        {
+          "login": "zackcam",
+          "date": "2026-06-10T17:22:19Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/112"
+    },
+    {
+      "sha": "dd70f1cee6309eb99edf3a9c662adb6fecac8bae",
+      "author_login": "bjosv",
+      "author_id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "message": "Filter Secrets by managed-by label to reduce cache memory usage (#238)",
+      "date": "2026-06-11T09:52:01Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-06-10T06:32:25Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/238"
+    },
+    {
+      "sha": "d45263a832a2f2a752de02fc1f4e4b60fc086804",
+      "author_login": "Aksha1812",
+      "author_id": 48383029,
+      "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
+      "message": "Simply CI workflow branch verification  (#1130)",
+      "date": "2026-06-11T23:42:28Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "BCathcart",
+          "date": "2026-06-11T23:42:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1130"
     }
   ]
 }

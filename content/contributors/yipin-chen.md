@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 727,
+  "score": 728,
   "commit_count": 45,
-  "review_count": 682,
+  "review_count": 683,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fe2b64ff45",
+      "message": "chore: temporarily allow pyo3 advisory pending version bump (#6228)",
+      "date": "2026-06-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6228",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fe2b64ff45477d7eba4f1f8f749b8ce695da0d91"
+    },
     {
       "sha": "2d0d0bdfe3",
       "message": "Java: Add multi-key MIGRATE support to standalone client (#6063)",

@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 301,
+  "score": 303,
   "commit_count": 88,
-  "review_count": 213,
+  "review_count": 215,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -718,6 +718,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "86acf8d337",
+      "message": "Stabilize CLUSTERSCAN unassigned-slot test by retrying DELSLOTS (#3959)",
+      "date": "2026-06-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3959",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/86acf8d33728807dae5fc97d3d9559d2562691a0"
+    },
+    {
+      "sha": "4f11dd6355",
+      "message": "Add Sarthak Aggarwal as a committer (#3975)",
+      "date": "2026-06-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3975",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4f11dd63551c3098e2dedc38e52faca0aeec4a9f"
+    },
     {
       "sha": "719268e847",
       "message": "Fix module loading failure for redis module (#3374)",

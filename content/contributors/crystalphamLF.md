@@ -2,13 +2,21 @@
   "title": "crystalphamLF",
   "login": "crystalphamLF",
   "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
-  "score": 5,
-  "commit_count": 4,
+  "score": 6,
+  "commit_count": 5,
   "review_count": 1,
   "repos": [
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "3bf7b349d7",
+      "message": "Add Unlocked Seattle recap blog (#577)",
+      "date": "2026-06-11",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/577",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/3bf7b349d7793ae6d20f3ac4932683f9b9f26150"
+    },
     {
       "sha": "f9c59a943a",
       "message": "Change author photo extension to .jpeg (#564)",

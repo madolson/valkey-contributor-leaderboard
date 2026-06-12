@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 150,
+  "score": 151,
   "commit_count": 81,
-  "review_count": 69,
+  "review_count": 70,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -662,6 +662,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1b95d2e8a1",
+      "message": "Add `SAVE`, `BGSAVE`, `BGREWRITEAOF` commands (Node, Python, Go) (#6188)",
+      "date": "2026-06-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6188",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1b95d2e8a156359044103b0144737ae6b5d5d8c1"
+    },
     {
       "sha": "838a27bab2",
       "message": "Updated command routing and timeout docs (#235)",

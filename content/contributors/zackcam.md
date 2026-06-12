@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 62,
+  "score": 64,
   "commit_count": 41,
-  "review_count": 21,
+  "review_count": 23,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -345,6 +345,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "653d4022e9",
+      "message": "Fix unbounded array Reserve in legacy RDB load (#111)",
+      "date": "2026-06-11",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/111",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/653d4022e9b34428301edd0627bf0c15e2d59a0e"
+    },
+    {
+      "sha": "0c320dda89",
+      "message": "Fix JSON.MSET duplicate-key crash (#112)",
+      "date": "2026-06-11",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/112",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/0c320dda894d0ab38e00bf09c370e40cd512b259"
+    },
     {
       "sha": "f428f3e318",
       "message": "`BF.INFO`: documentation and reabability nits (#104)",

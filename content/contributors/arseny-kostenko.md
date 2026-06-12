@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 207,
+  "score": 208,
   "commit_count": 19,
-  "review_count": 188,
+  "review_count": 189,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c893146b0b",
+      "message": "exposed KEY_VALUE_SIZE_LIMIT_BYTES as a configurable env in docker compose (#370)",
+      "date": "2026-06-11",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/370",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/c893146b0b94d5cf19725c10c6caf148be890870"
+    },
     {
       "sha": "6a444f8daa",
       "message": "Refactor info from server to metrics (#369)",

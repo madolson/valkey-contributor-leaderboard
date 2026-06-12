@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 237,
-  "commit_count": 51,
-  "review_count": 186,
+  "score": 239,
+  "commit_count": 52,
+  "review_count": 187,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "3686d8487f",
+      "message": "fix(ffi): avoid heap corruption in convert_vec_to_pointer (#6225)",
+      "date": "2026-06-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6225",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3686d8487f9ae8d7179e48f6de0e8ef7b5e77185"
+    },
     {
       "sha": "de63653007",
       "message": "Cherry pick #5952 to main: Java: Add a synchronous check on inflight request limits before submitting tasks (#5976)",
@@ -422,6 +430,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fe2b64ff45",
+      "message": "chore: temporarily allow pyo3 advisory pending version bump (#6228)",
+      "date": "2026-06-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6228",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fe2b64ff45477d7eba4f1f8f749b8ce695da0d91"
+    },
     {
       "sha": "390725f682",
       "message": "Core: make pipeline send-timeout liveness-aware (#5446) (#6136)",

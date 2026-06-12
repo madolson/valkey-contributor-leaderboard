@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 141,
+  "score": 142,
   "commit_count": 38,
-  "review_count": 103,
+  "review_count": 104,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -317,6 +317,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3686d8487f",
+      "message": "fix(ffi): avoid heap corruption in convert_vec_to_pointer (#6225)",
+      "date": "2026-06-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6225",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3686d8487f9ae8d7179e48f6de0e8ef7b5e77185"
+    },
     {
       "sha": "30a87e921f",
       "message": "Implemented pipelining for cluster mode (#92)",

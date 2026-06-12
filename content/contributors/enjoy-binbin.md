@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 872,
-  "commit_count": 343,
-  "review_count": 529,
+  "score": 877,
+  "commit_count": 344,
+  "review_count": 533,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "86acf8d337",
+      "message": "Stabilize CLUSTERSCAN unassigned-slot test by retrying DELSLOTS (#3959)",
+      "date": "2026-06-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3959",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/86acf8d33728807dae5fc97d3d9559d2562691a0"
+    },
     {
       "sha": "c3766df270",
       "message": "Align THP advice in createLatencyReport with checkTHPEnabled (#3947)",
@@ -2759,6 +2767,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ce8d17759e",
+      "message": "Fix RESP3 type violation in addReplyCommandSubCommands (#3939)",
+      "date": "2026-06-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3939",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ce8d17759e3f528029261b81a65cebe94b56883a"
+    },
+    {
+      "sha": "69d3f50c8b",
+      "message": "Exit with error when getRDB ftruncate fails (#3945)",
+      "date": "2026-06-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3945",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/69d3f50c8bea67b402730c45732e11098dc916a5"
+    },
+    {
+      "sha": "98005d1c8c",
+      "message": "Reject NAN scores in listpack/ziplist-encoded sorted sets on RDB load (#3921)",
+      "date": "2026-06-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3921",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/98005d1c8ca56d5887d81ed4256dfc10ebc09912"
+    },
+    {
+      "sha": "63dc7484bb",
+      "message": "Reject integer overflow of length fields in zipmapValidateIntegrity (#3920)",
+      "date": "2026-06-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3920",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/63dc7484bbd326806090acef4369b644e65a51a2"
+    },
     {
       "sha": "e1bc58c72f",
       "message": "Fix crash when active field-expiry leaves a single-entry HT vset bucket (#3950)",

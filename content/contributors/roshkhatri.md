@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 366,
-  "commit_count": 140,
-  "review_count": 226,
+  "score": 369,
+  "commit_count": 142,
+  "review_count": 227,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -19,6 +19,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "653d4022e9",
+      "message": "Fix unbounded array Reserve in legacy RDB load (#111)",
+      "date": "2026-06-11",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/111",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/653d4022e9b34428301edd0627bf0c15e2d59a0e"
+    },
+    {
+      "sha": "0c320dda89",
+      "message": "Fix JSON.MSET duplicate-key crash (#112)",
+      "date": "2026-06-11",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/112",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/0c320dda894d0ab38e00bf09c370e40cd512b259"
+    },
     {
       "sha": "719268e847",
       "message": "Fix module loading failure for redis module (#3374)",
@@ -1141,6 +1157,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4f11dd6355",
+      "message": "Add Sarthak Aggarwal as a committer (#3975)",
+      "date": "2026-06-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3975",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4f11dd63551c3098e2dedc38e52faca0aeec4a9f"
+    },
     {
       "sha": "faf58c3395",
       "message": "Fixing out of range crash (#109)",

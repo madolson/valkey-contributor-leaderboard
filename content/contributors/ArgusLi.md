@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 82,
+  "score": 83,
   "commit_count": 60,
-  "review_count": 22,
+  "review_count": 23,
   "repos": [
     "valkey-admin"
   ],
@@ -491,6 +491,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5b8d610e8e",
+      "message": "Set NodeDiscoveryMode to Static in client creation (#371)",
+      "date": "2026-06-11",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/371",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/5b8d610e8e3eb81c52b30abd15f5249c9459b9ac"
+    },
     {
       "sha": "a5cc0248d4",
       "message": "replaced blocking key info commands with pagination for different key\u2026 (#364)",

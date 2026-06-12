@@ -2,8 +2,8 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 201,
-  "commit_count": 108,
+  "score": 202,
+  "commit_count": 109,
   "review_count": 93,
   "repos": [
     "libvalkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "dd70f1cee6",
+      "message": "Filter Secrets by managed-by label to reduce cache memory usage (#238)",
+      "date": "2026-06-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/238",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/dd70f1cee6309eb99edf3a9c662adb6fecac8bae"
+    },
     {
       "sha": "3c72d4a181",
       "message": "fix: disable replica migration and validity factor in cluster config (#222)",

@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 108,
+  "score": 110,
   "commit_count": 42,
-  "review_count": 66,
+  "review_count": 68,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "98005d1c8c",
+      "message": "Reject NAN scores in listpack/ziplist-encoded sorted sets on RDB load (#3921)",
+      "date": "2026-06-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3921",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/98005d1c8ca56d5887d81ed4256dfc10ebc09912"
+    },
+    {
+      "sha": "63dc7484bb",
+      "message": "Reject integer overflow of length fields in zipmapValidateIntegrity (#3920)",
+      "date": "2026-06-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3920",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/63dc7484bbd326806090acef4369b644e65a51a2"
+    },
     {
       "sha": "2013e029c3",
       "message": "Fix server crash on FUNCTION DELETE after case-only function name collision (#3925)",

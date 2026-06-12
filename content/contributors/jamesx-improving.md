@@ -2,14 +2,22 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 210,
-  "commit_count": 65,
-  "review_count": 145,
+  "score": 213,
+  "commit_count": 66,
+  "review_count": 147,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "fe2b64ff45",
+      "message": "chore: temporarily allow pyo3 advisory pending version bump (#6228)",
+      "date": "2026-06-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6228",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fe2b64ff45477d7eba4f1f8f749b8ce695da0d91"
+    },
     {
       "sha": "5f54e5a1d7",
       "message": "CI: Add reusable test workflow (#356)",
@@ -532,6 +540,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "16d5d89374",
+      "message": "Update CD workflows to be consistent across all clients, add pre-publish smoke tests, and better AWS_ACTION gates (#6062)",
+      "date": "2026-06-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6062",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/16d5d8937492dbbcd3829f496bb9734e495a6eae"
+    },
+    {
+      "sha": "16d5d89374",
+      "message": "Update CD workflows to be consistent across all clients, add pre-publish smoke tests, and better AWS_ACTION gates (#6062)",
+      "date": "2026-06-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6062",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/16d5d8937492dbbcd3829f496bb9734e495a6eae"
+    },
     {
       "sha": "546af0b3ee",
       "message": "Go: Add MEMORY DOCTOR / MEMORY MALLOC-STATS / MEMORY PURGE / MEMORY STATS commands (#5986)",

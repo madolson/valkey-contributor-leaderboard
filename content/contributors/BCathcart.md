@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 77,
+  "score": 78,
   "commit_count": 35,
-  "review_count": 42,
+  "review_count": 43,
   "repos": [
     "valkey",
     "valkey-io.github.io",
@@ -300,6 +300,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1063",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/d1b1672a21874bf72273af3a28bce8bf5293229b"
+    },
+    {
+      "sha": "d45263a832",
+      "message": "Simply CI workflow branch verification  (#1130)",
+      "date": "2026-06-11",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1130",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d45263a832a2f2a752de02fc1f4e4b60fc086804"
     },
     {
       "sha": "b4bdc1535b",
