@@ -2,8 +2,8 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 213,
-  "commit_count": 66,
+  "score": 214,
+  "commit_count": 67,
   "review_count": 147,
   "repos": [
     "valkey-glide",
@@ -17,6 +17,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6228",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fe2b64ff45477d7eba4f1f8f749b8ce695da0d91"
+    },
+    {
+      "sha": "cc0fb9e285",
+      "message": "chore(python): upgrade pyo3 from 0.25 to 0.29 (#6238)",
+      "date": "2026-06-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6238",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cc0fb9e285bab8537317b6d3ae62fb522cb0c2c0"
     },
     {
       "sha": "5f54e5a1d7",

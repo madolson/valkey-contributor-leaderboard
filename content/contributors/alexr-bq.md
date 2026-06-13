@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 171,
+  "score": 172,
   "commit_count": 42,
-  "review_count": 129,
+  "review_count": 130,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -350,6 +350,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "06950a8bf5",
+      "message": "Core: Extend timeout watchdog with structured diagnostics (#6044)",
+      "date": "2026-06-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6044",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/06950a8bf5f8fdeefcd5e54c20f340a689304c7e"
+    },
     {
       "sha": "6adcf454c6",
       "message": "chore(deps): bump the patch-updates group with 3 updates (#424)",

@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 142,
+  "score": 143,
   "commit_count": 38,
-  "review_count": 104,
+  "review_count": 105,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -317,6 +317,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "06950a8bf5",
+      "message": "Core: Extend timeout watchdog with structured diagnostics (#6044)",
+      "date": "2026-06-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6044",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/06950a8bf5f8fdeefcd5e54c20f340a689304c7e"
+    },
     {
       "sha": "3686d8487f",
       "message": "fix(ffi): avoid heap corruption in convert_vec_to_pointer (#6225)",

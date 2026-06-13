@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1161,
+  "score": 1162,
   "commit_count": 152,
-  "review_count": 1009,
+  "review_count": 1010,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1238,6 +1238,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3959",
       "commit_url": "https://github.com/valkey-io/valkey/commit/86acf8d33728807dae5fc97d3d9559d2562691a0"
+    },
+    {
+      "sha": "b4ea71ee19",
+      "message": "Fix off_t to int truncation in bio repl transfer size reporting (#3811)",
+      "date": "2026-06-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3811",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b4ea71ee19c1e8af3177c7df3bce229e35359aba"
     },
     {
       "sha": "98005d1c8c",

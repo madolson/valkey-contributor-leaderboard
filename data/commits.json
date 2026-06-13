@@ -153366,6 +153366,113 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1130"
+    },
+    {
+      "sha": "b4ea71ee19c1e8af3177c7df3bce229e35359aba",
+      "author_login": "chx9",
+      "author_id": 97815621,
+      "avatar_url": "https://avatars.githubusercontent.com/u/97815621?v=4",
+      "message": "Fix off_t to int truncation in bio repl transfer size reporting (#3811)",
+      "date": "2026-06-12T09:08:05Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-05-24T03:48:51Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-06-12T09:07:54Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3811"
+    },
+    {
+      "sha": "cc0fb9e285bab8537317b6d3ae62fb522cb0c2c0",
+      "author_login": "jamesx-improving",
+      "author_id": 126831592,
+      "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
+      "message": "chore(python): upgrade pyo3 from 0.25 to 0.29 (#6238)",
+      "date": "2026-06-12T22:42:08Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jduo",
+          "date": "2026-06-12T19:25:14Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-06-12T19:25:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6238"
+    },
+    {
+      "sha": "06950a8bf5f8fdeefcd5e54c20f340a689304c7e",
+      "author_login": "jduo",
+      "author_id": 1657237,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
+      "message": "Core: Extend timeout watchdog with structured diagnostics (#6044)",
+      "date": "2026-06-12T15:18:16Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-06-04T17:23:14Z"
+        },
+        {
+          "login": "alexr-bq",
+          "date": "2026-06-04T20:53:56Z"
+        },
+        {
+          "login": "avifenesh",
+          "date": "2026-06-11T19:36:52Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6044"
+    },
+    {
+      "sha": "7fffd1c847b408914d4be93a93ffff77ba456481",
+      "author_login": "bogdanp05",
+      "author_id": 7281856,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
+      "message": "Merge pull request #310 from kurtmckee/fix-ci",
+      "date": "2026-06-12T08:17:19Z",
+      "repo": "valkey-py",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "efcafe0881004a5d8c4a67090967d035d2b62ce1",
+      "author_login": "kurtmckee",
+      "author_id": 39996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/39996?v=4",
+      "message": "Fix CI: Add new `id` response to test",
+      "date": "2026-06-11T15:22:50Z",
+      "repo": "valkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-06-11T15:35:06Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/310"
+    },
+    {
+      "sha": "046c7fb9e8260c2d69d05141b1519903c4e40efe",
+      "author_login": "kurtmckee",
+      "author_id": 39996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/39996?v=4",
+      "message": "Fix CI: Add new `databases` response to test",
+      "date": "2026-06-11T15:22:45Z",
+      "repo": "valkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-06-11T15:35:06Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/310"
     }
   ]
 }

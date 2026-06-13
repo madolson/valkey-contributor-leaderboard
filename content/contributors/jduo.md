@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 239,
-  "commit_count": 52,
-  "review_count": 187,
+  "score": 241,
+  "commit_count": 53,
+  "review_count": 188,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "06950a8bf5",
+      "message": "Core: Extend timeout watchdog with structured diagnostics (#6044)",
+      "date": "2026-06-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6044",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/06950a8bf5f8fdeefcd5e54c20f340a689304c7e"
+    },
     {
       "sha": "3686d8487f",
       "message": "fix(ffi): avoid heap corruption in convert_vec_to_pointer (#6225)",
@@ -437,6 +445,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6228",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fe2b64ff45477d7eba4f1f8f749b8ce695da0d91"
+    },
+    {
+      "sha": "cc0fb9e285",
+      "message": "chore(python): upgrade pyo3 from 0.25 to 0.29 (#6238)",
+      "date": "2026-06-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6238",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cc0fb9e285bab8537317b6d3ae62fb522cb0c2c0"
     },
     {
       "sha": "390725f682",

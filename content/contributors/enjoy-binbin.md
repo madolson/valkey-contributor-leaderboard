@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 877,
+  "score": 878,
   "commit_count": 344,
-  "review_count": 533,
+  "review_count": 534,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2774,6 +2774,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3939",
       "commit_url": "https://github.com/valkey-io/valkey/commit/ce8d17759e3f528029261b81a65cebe94b56883a"
+    },
+    {
+      "sha": "b4ea71ee19",
+      "message": "Fix off_t to int truncation in bio repl transfer size reporting (#3811)",
+      "date": "2026-06-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3811",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b4ea71ee19c1e8af3177c7df3bce229e35359aba"
     },
     {
       "sha": "69d3f50c8b",

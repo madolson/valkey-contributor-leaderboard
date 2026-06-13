@@ -2,13 +2,21 @@
   "title": "chx9",
   "login": "chx9",
   "avatar_url": "https://avatars.githubusercontent.com/u/97815621?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "b4ea71ee19",
+      "message": "Fix off_t to int truncation in bio repl transfer size reporting (#3811)",
+      "date": "2026-06-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3811",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b4ea71ee19c1e8af3177c7df3bce229e35359aba"
+    },
     {
       "sha": "d778b37715",
       "message": "Fix double-finish and RESP reply violation in cluster slot migration (#3723)",

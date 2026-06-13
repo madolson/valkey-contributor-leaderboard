@@ -2,8 +2,8 @@
   "title": "kurtmckee",
   "login": "kurtmckee",
   "avatar_url": "https://avatars.githubusercontent.com/u/39996?v=4",
-  "score": 21,
-  "commit_count": 19,
+  "score": 22,
+  "commit_count": 20,
   "review_count": 2,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "efcafe0881",
+      "message": "Fix CI: Add new `id` response to test",
+      "date": "2026-06-11",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/310",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/efcafe0881004a5d8c4a67090967d035d2b62ce1"
+    },
     {
       "sha": "7714186d2c",
       "message": "Begin resolving type annotation issues",

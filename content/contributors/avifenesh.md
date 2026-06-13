@@ -2,9 +2,9 @@
   "title": "avifenesh",
   "login": "avifenesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
-  "score": 256,
+  "score": 257,
   "commit_count": 93,
-  "review_count": 163,
+  "review_count": 164,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -758,6 +758,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "06950a8bf5",
+      "message": "Core: Extend timeout watchdog with structured diagnostics (#6044)",
+      "date": "2026-06-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6044",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/06950a8bf5f8fdeefcd5e54c20f340a689304c7e"
+    },
     {
       "sha": "449f61ac75",
       "message": "Core, Java, Python, Node, Go: Add client-wide circuit breaker (#6050)",

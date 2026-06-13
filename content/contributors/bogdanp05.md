@@ -2,9 +2,9 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 41,
+  "score": 42,
   "commit_count": 6,
-  "review_count": 35,
+  "review_count": 36,
   "repos": [
     "libvalkey-py",
     "valkey",
@@ -61,6 +61,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "efcafe0881",
+      "message": "Fix CI: Add new `id` response to test",
+      "date": "2026-06-11",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/310",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/efcafe0881004a5d8c4a67090967d035d2b62ce1"
+    },
     {
       "sha": "3444012055",
       "message": "Merge pull request #76 from valkey-io/mkmkme/v4.1.0rc4",
