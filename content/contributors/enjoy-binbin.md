@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 878,
-  "commit_count": 344,
+  "score": 879,
+  "commit_count": 345,
   "review_count": 534,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "ed6e9a91d7",
+      "message": "Enable multi-command parsing for replicated clients (#3597)",
+      "date": "2026-06-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3597",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ed6e9a91d7ac5b6ba519a20555d1152709a546c4"
+    },
     {
       "sha": "86acf8d337",
       "message": "Stabilize CLUSTERSCAN unassigned-slot test by retrying DELSLOTS (#3959)",

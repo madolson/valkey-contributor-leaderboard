@@ -2,8 +2,8 @@
   "title": "PingXie",
   "login": "PingXie",
   "avatar_url": "https://avatars.githubusercontent.com/u/11568491?v=4",
-  "score": 204,
-  "commit_count": 10,
+  "score": 205,
+  "commit_count": 11,
   "review_count": 194,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "699c64e3e0",
+      "message": " Update provenance guard action to require near-duplicate evidence for fuzzy provenance matches (#3933)",
+      "date": "2026-06-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3933",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/699c64e3e0bc9f32fe593ef7a623c7d2043d84fe"
+    },
     {
       "sha": "5b7ac66918",
       "message": "Fix verify-provenance action pin (#3594)",

@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 172,
+  "score": 173,
   "commit_count": 42,
-  "review_count": 130,
+  "review_count": 131,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -350,6 +350,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fb1e15a593",
+      "message": "Python: Change async client to use FFI for requests and unnamed pipe for responses instead of UDS for both (#5637)",
+      "date": "2026-06-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5637",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fb1e15a593f1d939010f3e4641b3aa046c3de950"
+    },
     {
       "sha": "06950a8bf5",
       "message": "Core: Extend timeout watchdog with structured diagnostics (#6044)",

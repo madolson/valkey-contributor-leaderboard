@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 253,
+  "score": 254,
   "commit_count": 57,
-  "review_count": 196,
+  "review_count": 197,
   "repos": [
     "valkey",
     "valkey-json",
@@ -469,6 +469,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "be614f3b91",
+      "message": "Avoid ref counting in Text iterators + Postings ContainsFields short circuit (#1044)",
+      "date": "2026-06-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1044",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/be614f3b916deb9601f1d7a3dbad26073bd9ccff"
+    },
     {
       "sha": "844be9cecd",
       "message": "Fix memory reporting when reader/writer threads change at runtime (#1119)",

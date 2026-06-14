@@ -153473,6 +153473,119 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-py/pull/310"
+    },
+    {
+      "sha": "699c64e3e0bc9f32fe593ef7a623c7d2043d84fe",
+      "author_login": "PingXie",
+      "author_id": 11568491,
+      "avatar_url": "https://avatars.githubusercontent.com/u/11568491?v=4",
+      "message": " Update provenance guard action to require near-duplicate evidence for fuzzy provenance matches (#3933)",
+      "date": "2026-06-14T03:14:33Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-06-12T08:30:04Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3933"
+    },
+    {
+      "sha": "ed6e9a91d7ac5b6ba519a20555d1152709a546c4",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Enable multi-command parsing for replicated clients (#3597)",
+      "date": "2026-06-13T07:56:19Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "jjuleslasarte",
+          "date": "2026-05-01T23:03:38Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-05-22T13:50:41Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-05-25T09:15:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3597"
+    },
+    {
+      "sha": "fb1e15a593f1d939010f3e4641b3aa046c3de950",
+      "author_login": "jduo",
+      "author_id": 1657237,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
+      "message": "Python: Change async client to use FFI for requests and unnamed pipe for responses instead of UDS for both (#5637)",
+      "date": "2026-06-13T08:38:09Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-04-08T22:11:14Z"
+        },
+        {
+          "login": "alexr-bq",
+          "date": "2026-06-04T19:13:59Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5637"
+    },
+    {
+      "sha": "99a1960a87e6363d293895c5fc2967062a2a79b4",
+      "author_login": "kiranmagic7",
+      "author_id": 262980978,
+      "avatar_url": "https://avatars.githubusercontent.com/u/262980978?v=4",
+      "message": "feat(cmds): add Redis array command builders (#1002)",
+      "date": "2026-06-13T20:38:41Z",
+      "repo": "valkey-go",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "1df03ce72581556059c83e863ab8e0ea1a9fd5b1",
+      "author_login": "mvanhorn",
+      "author_id": 455140,
+      "avatar_url": "https://avatars.githubusercontent.com/u/455140?v=4",
+      "message": "fix: guard parseSlots against malformed CLUSTER SLOTS replies during failover (#1004)",
+      "date": "2026-06-13T19:26:10Z",
+      "repo": "valkey-go",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "be614f3b916deb9601f1d7a3dbad26073bd9ccff",
+      "author_login": "KarthikSubbarao",
+      "author_id": 104098378,
+      "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
+      "message": "Avoid ref counting in Text iterators + Postings ContainsFields short circuit (#1044)",
+      "date": "2026-06-14T04:22:08Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Aksha1812",
+          "date": "2026-06-02T18:46:32Z"
+        },
+        {
+          "login": "allenss-amazon",
+          "date": "2026-06-05T20:34:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1044"
+    },
+    {
+      "sha": "76588a161686a5bcab40ef11e8d1dff3a18aa8ef",
+      "author_login": "PingXie",
+      "author_id": 11568491,
+      "avatar_url": "https://avatars.githubusercontent.com/u/11568491?v=4",
+      "message": "Unify provenance normalization configuration",
+      "date": "2026-06-14T02:14:50Z",
+      "repo": "verify-provenance",
+      "reviewed": false,
+      "pr_url": ""
     }
   ]
 }

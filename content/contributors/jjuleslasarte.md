@@ -2,9 +2,9 @@
   "title": "jjuleslasarte",
   "login": "jjuleslasarte",
   "avatar_url": "https://avatars.githubusercontent.com/u/140852041?v=4",
-  "score": 4,
+  "score": 5,
   "commit_count": 4,
-  "review_count": 0,
+  "review_count": 1,
   "repos": [
     "valkey"
   ],
@@ -42,5 +42,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/ddadbdf5df2dc3c2f6af67e21091a77b548e9021"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "ed6e9a91d7",
+      "message": "Enable multi-command parsing for replicated clients (#3597)",
+      "date": "2026-06-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3597",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ed6e9a91d7ac5b6ba519a20555d1152709a546c4"
+    }
+  ]
 }

@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1162,
+  "score": 1165,
   "commit_count": 152,
-  "review_count": 1010,
+  "review_count": 1013,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1231,6 +1231,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "699c64e3e0",
+      "message": " Update provenance guard action to require near-duplicate evidence for fuzzy provenance matches (#3933)",
+      "date": "2026-06-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3933",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/699c64e3e0bc9f32fe593ef7a623c7d2043d84fe"
+    },
+    {
+      "sha": "ed6e9a91d7",
+      "message": "Enable multi-command parsing for replicated clients (#3597)",
+      "date": "2026-06-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3597",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ed6e9a91d7ac5b6ba519a20555d1152709a546c4"
+    },
+    {
+      "sha": "ed6e9a91d7",
+      "message": "Enable multi-command parsing for replicated clients (#3597)",
+      "date": "2026-06-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3597",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ed6e9a91d7ac5b6ba519a20555d1152709a546c4"
+    },
     {
       "sha": "86acf8d337",
       "message": "Stabilize CLUSTERSCAN unassigned-slot test by retrying DELSLOTS (#3959)",

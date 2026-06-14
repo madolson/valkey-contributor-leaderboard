@@ -2,8 +2,8 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 254,
-  "commit_count": 95,
+  "score": 255,
+  "commit_count": 96,
   "review_count": 159,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "be614f3b91",
+      "message": "Avoid ref counting in Text iterators + Postings ContainsFields short circuit (#1044)",
+      "date": "2026-06-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1044",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/be614f3b916deb9601f1d7a3dbad26073bd9ccff"
+    },
     {
       "sha": "8c260dba83",
       "message": "Support Borrowed InternedString Ptr to avoid ref counting  (#1043)",

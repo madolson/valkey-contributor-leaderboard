@@ -2,9 +2,9 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 74,
+  "score": 75,
   "commit_count": 47,
-  "review_count": 27,
+  "review_count": 28,
   "repos": [
     "valkey-ci-agent",
     "valkey-search"
@@ -388,6 +388,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "be614f3b91",
+      "message": "Avoid ref counting in Text iterators + Postings ContainsFields short circuit (#1044)",
+      "date": "2026-06-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1044",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/be614f3b916deb9601f1d7a3dbad26073bd9ccff"
+    },
     {
       "sha": "22788c40e2",
       "message": "Implement space savings for Tag and Numeric (#1026)",
