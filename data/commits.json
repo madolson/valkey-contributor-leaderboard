@@ -153586,6 +153586,38 @@
       "repo": "verify-provenance",
       "reviewed": false,
       "pr_url": ""
+    },
+    {
+      "sha": "fa239232c81f2bff2a35a3f4ff2f899dd4abc5b6",
+      "author_login": "skourta",
+      "author_id": 34842963,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34842963?v=4",
+      "message": "Guard sentinel/cluster err.txt valgrind scan with $::valgrind (#3982)",
+      "date": "2026-06-15T02:44:07Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-06-13T07:54:44Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3982"
+    },
+    {
+      "sha": "4e9b84e47a2cf481e6402487003b4646eccf74ca",
+      "author_login": "sriramtallapragada",
+      "author_id": 111308318,
+      "avatar_url": "https://avatars.githubusercontent.com/u/111308318?v=4",
+      "message": "opt-in static-TTL client-side cache (skip MULTI/PTTL/EXEC, 2-cmd wire) (#143)",
+      "date": "2026-06-15T07:07:31Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-06-15T07:07:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/143"
     }
   ]
 }

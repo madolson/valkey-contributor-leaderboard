@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 38,
+  "score": 39,
   "commit_count": 9,
-  "review_count": 29,
+  "review_count": 30,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -86,6 +86,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4e9b84e47a",
+      "message": "opt-in static-TTL client-side cache (skip MULTI/PTTL/EXEC, 2-cmd wire) (#143)",
+      "date": "2026-06-15",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/143",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/4e9b84e47a2cf481e6402487003b4646eccf74ca"
+    },
     {
       "sha": "873127484c",
       "message": "valkeycompat: fall back to `redis` struct tag for go-redis compatibility (#138)",

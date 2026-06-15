@@ -100,7 +100,7 @@
       "name": "Binbin",
       "company": "Tencent Cloud NoSQL",
       "commits": 345,
-      "reviews": 534,
+      "reviews": 535,
       "repos": [
         "valkey",
         "valkey-bloom",
@@ -111,7 +111,7 @@
       "per_repo": {
         "valkey": {
           "commits": 320,
-          "reviews": 501
+          "reviews": 502
         },
         "valkey-bloom": {
           "commits": 2,
@@ -134,7 +134,7 @@
           "reviews": 1
         }
       },
-      "score": 879
+      "score": 880
     },
     {
       "login": "madolson",
@@ -2391,7 +2391,7 @@
       "name": "Rueian",
       "company": "",
       "commits": 9,
-      "reviews": 29,
+      "reviews": 30,
       "repos": [
         "valkey",
         "valkey-doc",
@@ -2401,7 +2401,7 @@
       "per_repo": {
         "valkey-go": {
           "commits": 0,
-          "reviews": 29
+          "reviews": 30
         },
         "valkey": {
           "commits": 3,
@@ -2420,7 +2420,7 @@
           "reviews": 0
         }
       },
-      "score": 38
+      "score": 39
     },
     {
       "login": "daddaman-amz",
@@ -11983,6 +11983,44 @@
       ],
       "per_repo": {
         "valkey": {
+          "commits": 1,
+          "reviews": 0
+        }
+      },
+      "score": 1
+    },
+    {
+      "login": "skourta",
+      "id": 34842963,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34842963?v=4",
+      "name": "Smail KOURTA",
+      "company": "",
+      "commits": 1,
+      "reviews": 0,
+      "repos": [
+        "valkey"
+      ],
+      "per_repo": {
+        "valkey": {
+          "commits": 1,
+          "reviews": 0
+        }
+      },
+      "score": 1
+    },
+    {
+      "login": "sriramtallapragada",
+      "id": 111308318,
+      "avatar_url": "https://avatars.githubusercontent.com/u/111308318?v=4",
+      "name": "Sriram Tallapragada",
+      "company": "",
+      "commits": 1,
+      "reviews": 0,
+      "repos": [
+        "valkey-go"
+      ],
+      "per_repo": {
+        "valkey-go": {
           "commits": 1,
           "reviews": 0
         }

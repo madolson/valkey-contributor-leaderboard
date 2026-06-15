@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 879,
+  "score": 880,
   "commit_count": 345,
-  "review_count": 534,
+  "review_count": 535,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2775,6 +2775,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fa239232c8",
+      "message": "Guard sentinel/cluster err.txt valgrind scan with $::valgrind (#3982)",
+      "date": "2026-06-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3982",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fa239232c81f2bff2a35a3f4ff2f899dd4abc5b6"
+    },
     {
       "sha": "ce8d17759e",
       "message": "Fix RESP3 type violation in addReplyCommandSubCommands (#3939)",
