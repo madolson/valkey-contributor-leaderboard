@@ -2,13 +2,21 @@
   "title": "Luis729",
   "login": "Luis729",
   "avatar_url": "https://avatars.githubusercontent.com/u/13097797?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey-go"
   ],
   "commit_list": [
+    {
+      "sha": "0b96488863",
+      "message": "Distribute # of calls to server during topology refresh (#141)",
+      "date": "2026-06-16",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/141",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/0b96488863fa90c3e2d852810672babcfbb3d886"
+    },
     {
       "sha": "873127484c",
       "message": "valkeycompat: fall back to `redis` struct tag for go-redis compatibility (#138)",

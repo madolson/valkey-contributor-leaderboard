@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 78,
+  "score": 79,
   "commit_count": 35,
-  "review_count": 43,
+  "review_count": 44,
   "repos": [
     "valkey",
     "valkey-io.github.io",
@@ -293,6 +293,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1a43d0b5c1",
+      "message": "Fix reclaimable_memory underflow issue (#1131)",
+      "date": "2026-06-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1131",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1a43d0b5c14926336e98728d0bd1dbc845acfee6"
+    },
     {
       "sha": "d1b1672a21",
       "message": "Implement search.emulate_release capability as described in COMPATIBILITY.md (#1063)",

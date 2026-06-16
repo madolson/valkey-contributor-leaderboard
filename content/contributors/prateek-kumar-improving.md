@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 332,
+  "score": 335,
   "commit_count": 113,
-  "review_count": 219,
+  "review_count": 222,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -918,6 +918,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "80b79e28a7",
+      "message": "Go: Add LATENCY HISTORY, LATEST, and RESET commands (#5958)",
+      "date": "2026-06-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5958",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/80b79e28a709d32efe068427d3971a2ac70d5ef2"
+    },
+    {
+      "sha": "a799daaf0b",
+      "message": "docs: add PHP OPT_REPLY_LITERAL and setOption/getOption (#233)",
+      "date": "2026-06-15",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/233",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/a799daaf0b399c6755d83c601729495d101b3c2f"
+    },
+    {
+      "sha": "a799daaf0b",
+      "message": "docs: add PHP OPT_REPLY_LITERAL and setOption/getOption (#233)",
+      "date": "2026-06-15",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/233",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/a799daaf0b399c6755d83c601729495d101b3c2f"
+    },
     {
       "sha": "1b95d2e8a1",
       "message": "Add `SAVE`, `BGSAVE`, `BGREWRITEAOF` commands (Node, Python, Go) (#6188)",

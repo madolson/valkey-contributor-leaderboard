@@ -2,14 +2,22 @@
   "title": "zhulipeng",
   "login": "zhulipeng",
   "avatar_url": "https://avatars.githubusercontent.com/u/698621?v=4",
-  "score": 27,
-  "commit_count": 21,
+  "score": 28,
+  "commit_count": 22,
   "review_count": 6,
   "repos": [
     "valkey",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "b0c7ed3df3",
+      "message": "Update GitHub username for Lipeng Zhu from lipzhu to zhulipeng (#571)",
+      "date": "2026-06-15",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/571",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/b0c7ed3df3de0363ef701ec9caf426d0e7938eac"
+    },
     {
       "sha": "68ada496f5",
       "message": "[Blog] Performance Optimization Methodology for Valkey - Part 1 (#262)",

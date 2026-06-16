@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 202,
+  "score": 203,
   "commit_count": 109,
-  "review_count": 93,
+  "review_count": 94,
   "repos": [
     "libvalkey",
     "valkey",
@@ -887,6 +887,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "51fc871b48",
+      "message": "Make `ffc.h` the default string to double parser (#318)",
+      "date": "2026-06-15",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/318",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/51fc871b4802b23ee46a05d5142bb56bcf51036b"
+    },
     {
       "sha": "12dc308b17",
       "message": "Merge pull request #179 from jdheyburn/valkey-operator-0.2.0",

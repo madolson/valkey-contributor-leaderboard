@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 39,
+  "score": 40,
   "commit_count": 9,
-  "review_count": 30,
+  "review_count": 31,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -86,6 +86,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0b96488863",
+      "message": "Distribute # of calls to server during topology refresh (#141)",
+      "date": "2026-06-16",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/141",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/0b96488863fa90c3e2d852810672babcfbb3d886"
+    },
     {
       "sha": "4e9b84e47a",
       "message": "opt-in static-TTL client-side cache (skip MULTI/PTTL/EXEC, 2-cmd wire) (#143)",

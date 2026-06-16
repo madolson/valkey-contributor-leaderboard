@@ -2,14 +2,22 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 287,
-  "commit_count": 65,
+  "score": 288,
+  "commit_count": 66,
   "review_count": 222,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "3641a9b582",
+      "message": "[Java] Remove inaccurate JVM-heap OpenTelemetry memory-leak tests (#6119)",
+      "date": "2026-06-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6119",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3641a9b582b0148364d2e523778f553d79adabd1"
+    },
     {
       "sha": "16d5d89374",
       "message": "Update CD workflows to be consistent across all clients, add pre-publish smoke tests, and better AWS_ACTION gates (#6062)",

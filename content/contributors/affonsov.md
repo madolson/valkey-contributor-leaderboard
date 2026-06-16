@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 151,
+  "score": 153,
   "commit_count": 81,
-  "review_count": 70,
+  "review_count": 72,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -662,6 +662,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "80b79e28a7",
+      "message": "Go: Add LATENCY HISTORY, LATEST, and RESET commands (#5958)",
+      "date": "2026-06-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5958",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/80b79e28a709d32efe068427d3971a2ac70d5ef2"
+    },
+    {
+      "sha": "3641a9b582",
+      "message": "[Java] Remove inaccurate JVM-heap OpenTelemetry memory-leak tests (#6119)",
+      "date": "2026-06-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6119",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3641a9b582b0148364d2e523778f553d79adabd1"
+    },
     {
       "sha": "1b95d2e8a1",
       "message": "Add `SAVE`, `BGSAVE`, `BGREWRITEAOF` commands (Node, Python, Go) (#6188)",

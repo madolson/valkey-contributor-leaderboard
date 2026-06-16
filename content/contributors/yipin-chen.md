@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 728,
+  "score": 729,
   "commit_count": 45,
-  "review_count": 683,
+  "review_count": 684,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3641a9b582",
+      "message": "[Java] Remove inaccurate JVM-heap OpenTelemetry memory-leak tests (#6119)",
+      "date": "2026-06-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6119",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3641a9b582b0148364d2e523778f553d79adabd1"
+    },
     {
       "sha": "fe2b64ff45",
       "message": "chore: temporarily allow pyo3 advisory pending version bump (#6228)",

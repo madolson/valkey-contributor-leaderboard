@@ -153618,6 +153618,176 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-go/pull/143"
+    },
+    {
+      "sha": "51fc871b4802b23ee46a05d5142bb56bcf51036b",
+      "author_login": "michael-grunder",
+      "author_id": 468149,
+      "avatar_url": "https://avatars.githubusercontent.com/u/468149?v=4",
+      "message": "Make `ffc.h` the default string to double parser (#318)",
+      "date": "2026-06-15T08:07:35Z",
+      "repo": "libvalkey",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-06-12T07:20:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/318"
+    },
+    {
+      "sha": "20b6276661fcdc6883dbd87b901db314236c7cde",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Mark backport board items done once they land (#32)",
+      "date": "2026-06-15T23:58:16Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "cc330e7ea4a3d5489ef4809afed06bc261578bab",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Add manual workflow to revert a commit on a backport branch (#26)",
+      "date": "2026-06-15T15:12:30Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "80b79e28a709d32efe068427d3971a2ac70d5ef2",
+      "author_login": "jagathprabhu",
+      "author_id": 253705802,
+      "avatar_url": "https://avatars.githubusercontent.com/u/253705802?v=4",
+      "message": "Go: Add LATENCY HISTORY, LATEST, and RESET commands (#5958)",
+      "date": "2026-06-15T22:44:47Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-05-27T05:08:58Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-06-11T16:55:54Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-06-11T19:02:12Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5958"
+    },
+    {
+      "sha": "3641a9b582b0148364d2e523778f553d79adabd1",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "[Java] Remove inaccurate JVM-heap OpenTelemetry memory-leak tests (#6119)",
+      "date": "2026-06-15T17:06:40Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-06-12T17:36:54Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-06-15T16:35:57Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-06-15T16:50:20Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6119"
+    },
+    {
+      "sha": "a799daaf0b399c6755d83c601729495d101b3c2f",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "docs: add PHP OPT_REPLY_LITERAL and setOption/getOption (#233)",
+      "date": "2026-06-15T20:12:58Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-06-15T18:20:23Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-06-15T18:20:38Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/233"
+    },
+    {
+      "sha": "0b96488863fa90c3e2d852810672babcfbb3d886",
+      "author_login": "Luis729",
+      "author_id": 13097797,
+      "avatar_url": "https://avatars.githubusercontent.com/u/13097797?v=4",
+      "message": "Distribute # of calls to server during topology refresh (#141)",
+      "date": "2026-06-16T03:53:09Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-06-16T02:53:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/141"
+    },
+    {
+      "sha": "b0c7ed3df3de0363ef701ec9caf426d0e7938eac",
+      "author_login": "zhulipeng",
+      "author_id": 698621,
+      "avatar_url": "https://avatars.githubusercontent.com/u/698621?v=4",
+      "message": "Update GitHub username for Lipeng Zhu from lipzhu to zhulipeng (#571)",
+      "date": "2026-06-15T21:31:02Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-06-15T21:30:34Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/571"
+    },
+    {
+      "sha": "f1277da3e062c81157d17471235b45d57ee7603e",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Suppress core dumps around ASSERT_DEATH and EXPECT_DEATH testing calls (#868)",
+      "date": "2026-06-16T01:37:02Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Aksha1812",
+          "date": "2026-06-15T20:53:59Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/868"
+    },
+    {
+      "sha": "1a43d0b5c14926336e98728d0bd1dbc845acfee6",
+      "author_login": "boda26",
+      "author_id": 54991825,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
+      "message": "Fix reclaimable_memory underflow issue (#1131)",
+      "date": "2026-06-15T20:49:44Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "BCathcart",
+          "date": "2026-06-15T20:48:50Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1131"
     }
   ]
 }

@@ -2,13 +2,21 @@
   "title": "michael-grunder",
   "login": "michael-grunder",
   "avatar_url": "https://avatars.githubusercontent.com/u/468149?v=4",
-  "score": 70,
-  "commit_count": 17,
+  "score": 71,
+  "commit_count": 18,
   "review_count": 53,
   "repos": [
     "libvalkey"
   ],
   "commit_list": [
+    {
+      "sha": "51fc871b48",
+      "message": "Make `ffc.h` the default string to double parser (#318)",
+      "date": "2026-06-15",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/318",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/51fc871b4802b23ee46a05d5142bb56bcf51036b"
+    },
     {
       "sha": "0fa8098772",
       "message": "Additional overflow protection for MAP/ATTR",

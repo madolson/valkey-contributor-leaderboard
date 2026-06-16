@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 859,
+  "score": 860,
   "commit_count": 191,
-  "review_count": 668,
+  "review_count": 669,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1546,6 +1546,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b0c7ed3df3",
+      "message": "Update GitHub username for Lipeng Zhu from lipzhu to zhulipeng (#571)",
+      "date": "2026-06-15",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/571",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/b0c7ed3df3de0363ef701ec9caf426d0e7938eac"
+    },
     {
       "sha": "69d3f50c8b",
       "message": "Exit with error when getRDB ftruncate fails (#3945)",

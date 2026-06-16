@@ -2,13 +2,21 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 65,
-  "commit_count": 38,
+  "score": 66,
+  "commit_count": 39,
   "review_count": 27,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "1a43d0b5c1",
+      "message": "Fix reclaimable_memory underflow issue (#1131)",
+      "date": "2026-06-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1131",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1a43d0b5c14926336e98728d0bd1dbc845acfee6"
+    },
     {
       "sha": "77ca3d5501",
       "message": "fix aggregate recursion depth (#973)",

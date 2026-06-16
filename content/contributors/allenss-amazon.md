@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 254,
-  "commit_count": 57,
+  "score": 255,
+  "commit_count": 58,
   "review_count": 197,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "f1277da3e0",
+      "message": "Suppress core dumps around ASSERT_DEATH and EXPECT_DEATH testing calls (#868)",
+      "date": "2026-06-16",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/868",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/f1277da3e062c81157d17471235b45d57ee7603e"
+    },
     {
       "sha": "d1b1672a21",
       "message": "Implement search.emulate_release capability as described in COMPATIBILITY.md (#1063)",

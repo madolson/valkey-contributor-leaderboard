@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 137,
-  "commit_count": 47,
-  "review_count": 90,
+  "score": 139,
+  "commit_count": 48,
+  "review_count": 91,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "a799daaf0b",
+      "message": "docs: add PHP OPT_REPLY_LITERAL and setOption/getOption (#233)",
+      "date": "2026-06-15",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/233",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/a799daaf0b399c6755d83c601729495d101b3c2f"
+    },
     {
       "sha": "838a27bab2",
       "message": "Updated command routing and timeout docs (#235)",
@@ -393,6 +401,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3641a9b582",
+      "message": "[Java] Remove inaccurate JVM-heap OpenTelemetry memory-leak tests (#6119)",
+      "date": "2026-06-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6119",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3641a9b582b0148364d2e523778f553d79adabd1"
+    },
     {
       "sha": "6396496631",
       "message": "Replace Docker cluster with cluster_manager.py (#108)",

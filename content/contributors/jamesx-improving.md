@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 214,
+  "score": 215,
   "commit_count": 67,
-  "review_count": 147,
+  "review_count": 148,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -548,6 +548,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "80b79e28a7",
+      "message": "Go: Add LATENCY HISTORY, LATEST, and RESET commands (#5958)",
+      "date": "2026-06-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5958",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/80b79e28a709d32efe068427d3971a2ac70d5ef2"
+    },
     {
       "sha": "16d5d89374",
       "message": "Update CD workflows to be consistent across all clients, add pre-publish smoke tests, and better AWS_ACTION gates (#6062)",

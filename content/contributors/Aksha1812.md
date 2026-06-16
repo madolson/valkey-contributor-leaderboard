@@ -2,9 +2,9 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 75,
+  "score": 76,
   "commit_count": 47,
-  "review_count": 28,
+  "review_count": 29,
   "repos": [
     "valkey-ci-agent",
     "valkey-search"
@@ -388,6 +388,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f1277da3e0",
+      "message": "Suppress core dumps around ASSERT_DEATH and EXPECT_DEATH testing calls (#868)",
+      "date": "2026-06-16",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/868",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/f1277da3e062c81157d17471235b45d57ee7603e"
+    },
     {
       "sha": "be614f3b91",
       "message": "Avoid ref counting in Text iterators + Postings ContainsFields short circuit (#1044)",
