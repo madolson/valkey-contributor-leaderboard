@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 242,
-  "commit_count": 54,
-  "review_count": 188,
+  "score": 244,
+  "commit_count": 55,
+  "review_count": 189,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "d14dbdb259",
+      "message": "fix(python): pin pytest<9.1 to fix fixture finalizer assertion errors (#6268)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6268",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d14dbdb259d58472ebbf19e52d84259865e80527"
+    },
     {
       "sha": "fb1e15a593",
       "message": "Python: Change async client to use FFI for requests and unnamed pipe for responses instead of UDS for both (#5637)",
@@ -446,6 +454,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a05b0667fb",
+      "message": "Python: Add missing dependency for python async (#6256)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6256",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a05b0667fb092e038dd59879d6c604aa5b7e4fd0"
+    },
     {
       "sha": "fe2b64ff45",
       "message": "chore: temporarily allow pyo3 advisory pending version bump (#6228)",

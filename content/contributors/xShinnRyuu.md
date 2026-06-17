@@ -2,14 +2,46 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 288,
-  "commit_count": 66,
-  "review_count": 222,
+  "score": 294,
+  "commit_count": 70,
+  "review_count": 224,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "c0984ef12d",
+      "message": "deps(node): fix transitive dev-only advisories in node/ and examples/node/ (js-yaml, markdown-it, @babel/core, minimatch) (#6277)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6277",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c0984ef12da20e86f1849157d32620e6c776d631"
+    },
+    {
+      "sha": "307ad2447d",
+      "message": "[Go] Fix flaky TestScriptKillWithRoute race condition (#6194)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6194",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/307ad2447dd93fa453e27a2156b7b70c4a11b5d4"
+    },
+    {
+      "sha": "5308dc9bdf",
+      "message": "[Node] Fix flaky CompressionMaxSize.test.ts beforeAll timeout (#6197)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6197",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5308dc9bdf9d453bdd69c3c2a613bf7391e0ea62"
+    },
+    {
+      "sha": "3c51249c08",
+      "message": "Node: Fix flaky migrate and move tests connection timeout (#6043)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6043",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3c51249c08cebe1083ba6b951441fd79545ab042"
+    },
     {
       "sha": "3641a9b582",
       "message": "[Java] Remove inaccurate JVM-heap OpenTelemetry memory-leak tests (#6119)",
@@ -540,6 +572,118 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b571957a36",
+      "message": "build(deps): bump minimatch, eslint and prettier-eslint (#6262)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6262",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b571957a36584d3df0b4c38099794baad0018cd3"
+    },
+    {
+      "sha": "8b3a9486f2",
+      "message": "build(deps-dev): bump protobufjs-cli from 1.2.2 to 1.3.2 in /node (#6265)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6265",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8b3a9486f2942d7467fcc1d4b4c620f4f7999440"
+    },
+    {
+      "sha": "34e93d01f5",
+      "message": "build(deps): bump pyo3 from 0.25.1 to 0.29.0 in /python/glide-shared in the cargo group across 1 directory (#6245)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6245",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/34e93d01f597aa233125c49381067580c968f808"
+    },
+    {
+      "sha": "daba1a12b0",
+      "message": "Updated attribution files for commit 80b79e28a709d32efe068427d3971a2ac70d5ef2 (#5984)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5984",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/daba1a12b0116a0611b612bd20a56f130a4c45d0"
+    },
+    {
+      "sha": "daba1a12b0",
+      "message": "Updated attribution files for commit 80b79e28a709d32efe068427d3971a2ac70d5ef2 (#5984)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5984",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/daba1a12b0116a0611b612bd20a56f130a4c45d0"
+    },
+    {
+      "sha": "3551f51d96",
+      "message": "build(deps-dev): bump eslint-plugin-jsdoc from 62.9.0 to 63.0.2 (#6202)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6202",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3551f51d96a9adfa5b9349c04d2a1e4e52663b84"
+    },
+    {
+      "sha": "d018e6efcb",
+      "message": "build(deps-dev): bump prettier from 3.8.3 to 3.8.4 in the patch-updates group (#6246)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6246",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d018e6efcb0842e99a24eac8c49b63207379f8ae"
+    },
+    {
+      "sha": "8284ade7cd",
+      "message": "build(deps): bump uuid from 1.23.2 to 1.23.3 in /glide-core in the patch-updates group (#6251)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6251",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8284ade7cda7cab7cfb1c2eaf05f0c8ed5134b26"
+    },
+    {
+      "sha": "1bac22e38f",
+      "message": "build(deps): bump dashmap from 6.1.0 to 6.2.1 in /java in the minor-updates group across 1 directory (#6102)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6102",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1bac22e38ffbddb20f4f05fcca00326a3222fdc9"
+    },
+    {
+      "sha": "80cb5c96da",
+      "message": "feat(go): support external OpenTelemetry span context (#6003)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6003",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/80cb5c96da2a68d14e090a61b74867cb4d1176f5"
+    },
+    {
+      "sha": "3bad95b99b",
+      "message": "Docs: Update Python documentation URL (#6223)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6223",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3bad95b99b0c3af8cd37b0bccd3e9515b31b34df"
+    },
+    {
+      "sha": "993e2ab069",
+      "message": "build(deps-dev): bump typedoc-plugin-markdown from 4.11.0 to 4.12.0 in /node in the minor-updates group across 1 directory (#6199)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6199",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/993e2ab06931e18e9873cdacd70203975e5ea765"
+    },
+    {
+      "sha": "5df232e0e9",
+      "message": "build(deps-dev): bump semver from 7.8.1 to 7.8.4 in /node in the patch-updates group across 1 directory (#6198)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6198",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5df232e0e9907e5d658bd575691e9047379c77e4"
+    },
+    {
+      "sha": "f772db9938",
+      "message": "chore(deps): bump taiki-e/install-action from 2.81.8 to 2.81.10 in the patch-updates group (#426)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/426",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/f772db9938b20fd443b3cccc25c31b10beb65ce5"
+    },
     {
       "sha": "fe2b64ff45",
       "message": "chore: temporarily allow pyo3 advisory pending version bump (#6228)",

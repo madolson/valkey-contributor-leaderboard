@@ -2,14 +2,22 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 215,
-  "commit_count": 67,
-  "review_count": 148,
+  "score": 218,
+  "commit_count": 68,
+  "review_count": 150,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "a05b0667fb",
+      "message": "Python: Add missing dependency for python async (#6256)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6256",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a05b0667fb092e038dd59879d6c604aa5b7e4fd0"
+    },
     {
       "sha": "fe2b64ff45",
       "message": "chore: temporarily allow pyo3 advisory pending version bump (#6228)",
@@ -548,6 +556,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c0984ef12d",
+      "message": "deps(node): fix transitive dev-only advisories in node/ and examples/node/ (js-yaml, markdown-it, @babel/core, minimatch) (#6277)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6277",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c0984ef12da20e86f1849157d32620e6c776d631"
+    },
+    {
+      "sha": "b571957a36",
+      "message": "build(deps): bump minimatch, eslint and prettier-eslint (#6262)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6262",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b571957a36584d3df0b4c38099794baad0018cd3"
+    },
+    {
+      "sha": "34e93d01f5",
+      "message": "build(deps): bump pyo3 from 0.25.1 to 0.29.0 in /python/glide-shared in the cargo group across 1 directory (#6245)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6245",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/34e93d01f597aa233125c49381067580c968f808"
+    },
+    {
+      "sha": "d14dbdb259",
+      "message": "fix(python): pin pytest<9.1 to fix fixture finalizer assertion errors (#6268)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6268",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d14dbdb259d58472ebbf19e52d84259865e80527"
+    },
     {
       "sha": "80b79e28a7",
       "message": "Go: Add LATENCY HISTORY, LATEST, and RESET commands (#5958)",

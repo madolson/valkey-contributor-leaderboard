@@ -2,8 +2,8 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1165,
-  "commit_count": 152,
+  "score": 1166,
+  "commit_count": 153,
   "review_count": 1013,
   "repos": [
     "libvalkey",
@@ -13,6 +13,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "6774c09978",
+      "message": "Add REUSE compliance for machine-readable licensing and SBOM generation (#3968)",
+      "date": "2026-06-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3968",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6774c09978edca5178ecb215d9c13821d10afcfb"
+    },
     {
       "sha": "d9ba5aba38",
       "message": "Improved Tcl stacktraces (#3612)",

@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 255,
+  "score": 258,
   "commit_count": 58,
-  "review_count": 197,
+  "review_count": 200,
   "repos": [
     "valkey",
     "valkey-json",
@@ -477,6 +477,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4b2c0859af",
+      "message": "Fix tag query parsing to support escaped closing brace (#979) + resolved merge conflicts (#1148)",
+      "date": "2026-06-17",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1148",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/4b2c0859af6ab0eb42fbf813bbd599971bfff310"
+    },
+    {
+      "sha": "72ea56f8cb",
+      "message": "Fix FLAT BLOCK_SIZE 0 livelock and bound INITIAL_CAP/BLOCK_SIZE (#1107, #1110) (#1122)",
+      "date": "2026-06-16",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1122",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/72ea56f8cb38fbc30dd269d5a9bdcf0b438c0c6a"
+    },
+    {
+      "sha": "c333fb3f1f",
+      "message": "Fix FT.INTERNAL_UPDATE crashes during AOF/RDB load (#1108, #1109) (#1146)",
+      "date": "2026-06-16",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1146",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c333fb3f1f733bd042f1da3ac6684d490578de6e"
+    },
     {
       "sha": "be614f3b91",
       "message": "Avoid ref counting in Text iterators + Postings ContainsFields short circuit (#1044)",

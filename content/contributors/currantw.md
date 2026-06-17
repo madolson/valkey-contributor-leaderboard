@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 194,
+  "score": 196,
   "commit_count": 122,
-  "review_count": 72,
+  "review_count": 74,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -992,6 +992,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a05b0667fb",
+      "message": "Python: Add missing dependency for python async (#6256)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6256",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a05b0667fb092e038dd59879d6c604aa5b7e4fd0"
+    },
+    {
+      "sha": "3c51249c08",
+      "message": "Node: Fix flaky migrate and move tests connection timeout (#6043)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6043",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3c51249c08cebe1083ba6b951441fd79545ab042"
+    },
+    {
+      "sha": "f772db9938",
+      "message": "chore(deps): bump taiki-e/install-action from 2.81.8 to 2.81.10 in the patch-updates group (#426)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/426",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/f772db9938b20fd443b3cccc25c31b10beb65ce5"
+    },
     {
       "sha": "9fceec1bdf",
       "message": "Java: Add failover and ReplicaOf command (#6170)",

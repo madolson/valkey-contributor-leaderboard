@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 335,
+  "score": 336,
   "commit_count": 113,
-  "review_count": 222,
+  "review_count": 223,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -918,6 +918,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cdee0fd7ee",
+      "message": "Java: implement MONITOR command (#6187)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6187",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cdee0fd7ee86dc2981b3a3cbca4298e720adfc5e"
+    },
     {
       "sha": "80b79e28a7",
       "message": "Go: Add LATENCY HISTORY, LATEST, and RESET commands (#5958)",

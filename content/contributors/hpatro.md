@@ -2,8 +2,8 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 282,
-  "commit_count": 60,
+  "score": 283,
+  "commit_count": 61,
   "review_count": 222,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "7b4eb6f391",
+      "message": "Update hpatro's affiliation (#582)",
+      "date": "2026-06-16",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/582",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/7b4eb6f3916396bf5ceda4fb401c7ed11ebabb69"
+    },
     {
       "sha": "4b25a70646",
       "message": "Update affiliation for hpatro (#3782)",

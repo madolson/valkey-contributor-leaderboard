@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 115,
+  "score": 118,
   "commit_count": 13,
-  "review_count": 102,
+  "review_count": 105,
   "repos": [
     "valkey-io.github.io",
     "valkey-operator"
@@ -116,6 +116,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7b4eb6f391",
+      "message": "Update hpatro's affiliation (#582)",
+      "date": "2026-06-16",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/582",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/7b4eb6f3916396bf5ceda4fb401c7ed11ebabb69"
+    },
+    {
+      "sha": "c2a6c1c266",
+      "message": "Add YouTube link to footer social links (#570)",
+      "date": "2026-06-16",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/570",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c2a6c1c26615108aa388913705b9794ae8ce3d90"
+    },
+    {
+      "sha": "4a152871a9",
+      "message": "Add Edith Puclla bio (#581)",
+      "date": "2026-06-16",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/581",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/4a152871a95ad337f42c5ed0c5e77424a407d4de"
+    },
     {
       "sha": "3bf7b349d7",
       "message": "Add Unlocked Seattle recap blog (#577)",

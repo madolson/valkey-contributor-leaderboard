@@ -2,14 +2,22 @@
   "title": "makubo-aws",
   "login": "makubo-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/203714000?v=4",
-  "score": 6,
-  "commit_count": 3,
+  "score": 7,
+  "commit_count": 4,
   "review_count": 3,
   "repos": [
     "valkey-doc",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "c2a6c1c266",
+      "message": "Add YouTube link to footer social links (#570)",
+      "date": "2026-06-16",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/570",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c2a6c1c26615108aa388913705b9794ae8ce3d90"
+    },
     {
       "sha": "83d8c17e25",
       "message": "Update Spring Data Valkey blog post (#496)",

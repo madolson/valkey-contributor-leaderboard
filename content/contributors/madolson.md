@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 860,
+  "score": 861,
   "commit_count": 191,
-  "review_count": 669,
+  "review_count": 670,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1546,6 +1546,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6774c09978",
+      "message": "Add REUSE compliance for machine-readable licensing and SBOM generation (#3968)",
+      "date": "2026-06-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3968",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6774c09978edca5178ecb215d9c13821d10afcfb"
+    },
     {
       "sha": "b0c7ed3df3",
       "message": "Update GitHub username for Lipeng Zhu from lipzhu to zhulipeng (#571)",

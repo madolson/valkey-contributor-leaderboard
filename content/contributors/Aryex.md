@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 139,
+  "score": 144,
   "commit_count": 48,
-  "review_count": 91,
+  "review_count": 96,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -401,6 +401,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cdee0fd7ee",
+      "message": "Java: implement MONITOR command (#6187)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6187",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cdee0fd7ee86dc2981b3a3cbca4298e720adfc5e"
+    },
+    {
+      "sha": "307ad2447d",
+      "message": "[Go] Fix flaky TestScriptKillWithRoute race condition (#6194)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6194",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/307ad2447dd93fa453e27a2156b7b70c4a11b5d4"
+    },
+    {
+      "sha": "5308dc9bdf",
+      "message": "[Node] Fix flaky CompressionMaxSize.test.ts beforeAll timeout (#6197)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6197",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5308dc9bdf9d453bdd69c3c2a613bf7391e0ea62"
+    },
+    {
+      "sha": "80cb5c96da",
+      "message": "feat(go): support external OpenTelemetry span context (#6003)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6003",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/80cb5c96da2a68d14e090a61b74867cb4d1176f5"
+    },
+    {
+      "sha": "3bad95b99b",
+      "message": "Docs: Update Python documentation URL (#6223)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6223",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3bad95b99b0c3af8cd37b0bccd3e9515b31b34df"
+    },
     {
       "sha": "3641a9b582",
       "message": "[Java] Remove inaccurate JVM-heap OpenTelemetry memory-leak tests (#6119)",

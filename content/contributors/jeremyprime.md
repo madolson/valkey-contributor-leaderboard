@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 144,
+  "score": 147,
   "commit_count": 38,
-  "review_count": 106,
+  "review_count": 109,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -317,6 +317,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a05b0667fb",
+      "message": "Python: Add missing dependency for python async (#6256)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6256",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a05b0667fb092e038dd59879d6c604aa5b7e4fd0"
+    },
+    {
+      "sha": "d14dbdb259",
+      "message": "fix(python): pin pytest<9.1 to fix fixture finalizer assertion errors (#6268)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6268",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d14dbdb259d58472ebbf19e52d84259865e80527"
+    },
+    {
+      "sha": "3bad95b99b",
+      "message": "Docs: Update Python documentation URL (#6223)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6223",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3bad95b99b0c3af8cd37b0bccd3e9515b31b34df"
+    },
     {
       "sha": "fb1e15a593",
       "message": "Python: Change async client to use FFI for requests and unnamed pipe for responses instead of UDS for both (#5637)",

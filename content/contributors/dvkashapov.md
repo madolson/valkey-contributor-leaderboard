@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 94,
+  "score": 95,
   "commit_count": 23,
-  "review_count": 71,
+  "review_count": 72,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -198,6 +198,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6774c09978",
+      "message": "Add REUSE compliance for machine-readable licensing and SBOM generation (#3968)",
+      "date": "2026-06-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3968",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6774c09978edca5178ecb215d9c13821d10afcfb"
+    },
     {
       "sha": "2013e029c3",
       "message": "Fix server crash on FUNCTION DELETE after case-only function name collision (#3925)",

@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 153,
-  "commit_count": 81,
-  "review_count": 72,
+  "score": 155,
+  "commit_count": 82,
+  "review_count": 73,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "cdee0fd7ee",
+      "message": "Java: implement MONITOR command (#6187)",
+      "date": "2026-06-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6187",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cdee0fd7ee86dc2981b3a3cbca4298e720adfc5e"
+    },
     {
       "sha": "2d0d0bdfe3",
       "message": "Java: Add multi-key MIGRATE support to standalone client (#6063)",
@@ -662,6 +670,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c0984ef12d",
+      "message": "deps(node): fix transitive dev-only advisories in node/ and examples/node/ (js-yaml, markdown-it, @babel/core, minimatch) (#6277)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6277",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c0984ef12da20e86f1849157d32620e6c776d631"
+    },
+    {
+      "sha": "b571957a36",
+      "message": "build(deps): bump minimatch, eslint and prettier-eslint (#6262)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6262",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b571957a36584d3df0b4c38099794baad0018cd3"
+    },
     {
       "sha": "80b79e28a7",
       "message": "Go: Add LATENCY HISTORY, LATEST, and RESET commands (#5958)",

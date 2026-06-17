@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 113,
-  "commit_count": 99,
+  "score": 114,
+  "commit_count": 100,
   "review_count": 14,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "5cb824cce1",
+      "message": "commands with no parameters will no longer get a trailing space and the ones with parameter will do (#372)",
+      "date": "2026-06-16",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/372",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/5cb824cce13c20ad8c239403a2d4b481b324766a"
+    },
     {
       "sha": "c893146b0b",
       "message": "exposed KEY_VALUE_SIZE_LIMIT_BYTES as a configurable env in docker compose (#370)",
