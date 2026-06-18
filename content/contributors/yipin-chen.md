@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 733,
+  "score": 735,
   "commit_count": 45,
-  "review_count": 688,
+  "review_count": 690,
   "repos": [
     "valkey-glide"
   ],
@@ -372,12 +372,28 @@
   ],
   "review_list": [
     {
+      "sha": "11dd9c303f",
+      "message": "Go: Add MonitorClient for MONITOR command (#6211)",
+      "date": "2026-06-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6211",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/11dd9c303f8355f8e95bdb29ebcdc2566a3ad8f5"
+    },
+    {
       "sha": "c0984ef12d",
       "message": "deps(node): fix transitive dev-only advisories in node/ and examples/node/ (js-yaml, markdown-it, @babel/core, minimatch) (#6277)",
       "date": "2026-06-17",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6277",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c0984ef12da20e86f1849157d32620e6c776d631"
+    },
+    {
+      "sha": "3d4ee6f70f",
+      "message": "deps(node): bump protobufjs to ^7.6.3 (CVE-2026-48712, CVE-2026-54269) (#6274)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6274",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3d4ee6f70f914eb2005cb8dc7d16d75ea5538207"
     },
     {
       "sha": "8b3a9486f2",

@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 155,
-  "commit_count": 82,
-  "review_count": 73,
+  "score": 159,
+  "commit_count": 85,
+  "review_count": 74,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,30 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "11dd9c303f",
+      "message": "Go: Add MonitorClient for MONITOR command (#6211)",
+      "date": "2026-06-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6211",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/11dd9c303f8355f8e95bdb29ebcdc2566a3ad8f5"
+    },
+    {
+      "sha": "09f154ac19",
+      "message": "Python: implement MONITOR command for sync and async clients (#6132)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6132",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/09f154ac19668dc9eba5facf5476b69e7876f86f"
+    },
+    {
+      "sha": "cb38d8f619",
+      "message": "Node.js: Add GlideMonitorClient for MONITOR command (#6212)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6212",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cb38d8f6196c04c5f2b5473eea8181b050f4a568"
+    },
     {
       "sha": "cdee0fd7ee",
       "message": "Java: implement MONITOR command (#6187)",
@@ -685,6 +709,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6262",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b571957a36584d3df0b4c38099794baad0018cd3"
+    },
+    {
+      "sha": "16492a5a59",
+      "message": "Node, Python, GO: Add failover and replicaOf commands (#6222)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6222",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/16492a5a5944c48b9451d9173051ade06d61a051"
     },
     {
       "sha": "80b79e28a7",

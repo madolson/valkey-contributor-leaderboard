@@ -154360,6 +154360,356 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1146"
+    },
+    {
+      "sha": "436dcaeee95a9f38e8326049a7175e5e2929c7f1",
+      "author_login": "JimB123",
+      "author_id": 7267136,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
+      "message": "Improve maintainability for kvstoreScan (#3588)",
+      "date": "2026-06-17T16:39:46Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-04-29T17:11:47Z"
+        },
+        {
+          "login": "murphyjacob4",
+          "date": "2026-04-29T19:15:05Z"
+        },
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-04-30T03:14:47Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3588"
+    },
+    {
+      "sha": "5ae43a4038465e881332c486a07859b1cb391528",
+      "author_login": "rainsupreme",
+      "author_id": 20649182,
+      "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
+      "message": "hashtable: scan no-duplicate guarantee and add HasPassedKey API (#3803)",
+      "date": "2026-06-17T16:36:26Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "JimB123",
+          "date": "2026-06-17T16:31:06Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3803"
+    },
+    {
+      "sha": "a010cfda27c6f6638b4c02fce7a80ffded32be2f",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "ci_fix: trigger fixes from an @valkeyrie-ops fix comment, and verify prerequisites before refusing (#36)",
+      "date": "2026-06-18T06:23:52Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "db76ce2275f21af043a0a9443ccaf5b2745ba769",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Add ci_fix: AI-assisted CI test-failure fixes via @valkeyrie-bot (#33)",
+      "date": "2026-06-17T17:13:40Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "15bd009fda5bf7d846c27de8ea66d9801b3c82fa",
+      "author_login": "Fusl",
+      "author_id": 2349496,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2349496?v=4",
+      "message": "scan: add note for accumulation bias/snowplow effect (#452)",
+      "date": "2026-06-17T15:28:45Z",
+      "repo": "valkey-doc",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-06-17T15:04:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/452"
+    },
+    {
+      "sha": "11dd9c303f8355f8e95bdb29ebcdc2566a3ad8f5",
+      "author_login": "affonsov",
+      "author_id": 67347924,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
+      "message": "Go: Add MonitorClient for MONITOR command (#6211)",
+      "date": "2026-06-18T00:14:06Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-06-16T16:49:15Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-06-16T23:53:26Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-06-17T23:52:11Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6211"
+    },
+    {
+      "sha": "5faa564719e350d9bdab8e07080889834baf1b91",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "Core: Use watchdog diagnostics to inform CB recovery (#6240)",
+      "date": "2026-06-17T22:04:32Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "avifenesh",
+          "date": "2026-06-17T19:52:59Z"
+        },
+        {
+          "login": "jduo",
+          "date": "2026-06-17T21:30:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6240"
+    },
+    {
+      "sha": "09f154ac19668dc9eba5facf5476b69e7876f86f",
+      "author_login": "affonsov",
+      "author_id": 67347924,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
+      "message": "Python: implement MONITOR command for sync and async clients (#6132)",
+      "date": "2026-06-17T20:55:33Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jduo",
+          "date": "2026-06-05T17:14:40Z"
+        },
+        {
+          "login": "alexr-bq",
+          "date": "2026-06-05T22:17:58Z"
+        },
+        {
+          "login": "jduo",
+          "date": "2026-06-17T19:52:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6132"
+    },
+    {
+      "sha": "cb38d8f6196c04c5f2b5473eea8181b050f4a568",
+      "author_login": "affonsov",
+      "author_id": 67347924,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
+      "message": "Node.js: Add GlideMonitorClient for MONITOR command (#6212)",
+      "date": "2026-06-17T18:30:39Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-06-16T23:40:57Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-06-17T15:37:54Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6212"
+    },
+    {
+      "sha": "3d4ee6f70f914eb2005cb8dc7d16d75ea5538207",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "deps(node): bump protobufjs to ^7.6.3 (CVE-2026-48712, CVE-2026-54269) (#6274)",
+      "date": "2026-06-17T17:44:11Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-06-17T15:46:47Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-06-17T16:57:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6274"
+    },
+    {
+      "sha": "16492a5a5944c48b9451d9173051ade06d61a051",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "Node, Python, GO: Add failover and replicaOf commands (#6222)",
+      "date": "2026-06-17T15:56:29Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-06-17T01:43:39Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-06-17T15:35:38Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6222"
+    },
+    {
+      "sha": "7420dc4d9022d1393130f70ad7ad8b38325d9dea",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "ci: updated pipeline to handle public branch (#250)",
+      "date": "2026-06-17T21:16:23Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e8f0319e2791b146bff58b4f9bbaf38deed62d14",
+      "author_login": "rueian",
+      "author_id": 2727535,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
+      "message": "perf: optimize ClearStaticTTL (#1006)",
+      "date": "2026-06-18T05:46:33Z",
+      "repo": "valkey-go",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "109e247d94d0be261b0924e3e11807fcecaf4c14",
+      "author_login": "rueian",
+      "author_id": 2727535,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
+      "message": "perf: optimize DelayDo",
+      "date": "2026-06-18T05:46:29Z",
+      "repo": "valkey-go",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3e068f0a3e18b47f038d07a4948c0b43c5c849af",
+      "author_login": "bjosv",
+      "author_id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "message": "fix: roll primaries shard-by-shard during rolling update without persistence (#252)",
+      "date": "2026-06-18T06:54:57Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-06-17T11:06:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/252"
+    },
+    {
+      "sha": "d1846061b5e4bade4fedf6f459d975693e0b5851",
+      "author_login": "sandeepkunusoth",
+      "author_id": 31273507,
+      "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
+      "message": "(bug) fixed Liveness and Readiness Probes to use operator managed user instead of default user (#235)",
+      "date": "2026-06-17T13:51:47Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-06-17T09:14:16Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/235"
+    },
+    {
+      "sha": "10a5affed8ea3629f722006f9552d09455d875e2",
+      "author_login": "daanvinken",
+      "author_id": 47114744,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
+      "message": "feat: add operator-specific Prometheus metrics (#159)",
+      "date": "2026-06-17T10:01:36Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-06-17T08:55:17Z"
+        },
+        {
+          "login": "SuperQ",
+          "date": "2026-06-17T09:03:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/159"
+    },
+    {
+      "sha": "cebde2510d38dd51817865baa2b608142cb59278",
+      "author_login": "bjosv",
+      "author_id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "message": "fix: recover cluster when majority of primaries are lost (#244)",
+      "date": "2026-06-17T08:41:21Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-06-16T15:42:13Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/244"
+    },
+    {
+      "sha": "4be0a528c4c77199f9df9b094b90ae21a6141333",
+      "author_login": "bogdanp05",
+      "author_id": 7281856,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
+      "message": "Merge pull request #311 from kurtmckee/set-ci-timeouts",
+      "date": "2026-06-17T15:39:06Z",
+      "repo": "valkey-py",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "33b5ccf0b59ea180f5242b91d6d36f5f30dac1c0",
+      "author_login": "kurtmckee",
+      "author_id": 39996,
+      "avatar_url": "https://avatars.githubusercontent.com/u/39996?v=4",
+      "message": "Set timeouts for each CI job",
+      "date": "2026-06-17T13:32:46Z",
+      "repo": "valkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-06-17T15:38:38Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/311"
+    },
+    {
+      "sha": "59c44b44b8a46e454aaf318eb41adcffdc6eb31b",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Fix race in UnTrackedKeys ingestion access vs negative queries (#1060)",
+      "date": "2026-06-17T19:30:58Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "BCathcart",
+          "date": "2026-06-17T19:30:45Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1060"
     }
   ]
 }

@@ -2,14 +2,22 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 13,
-  "commit_count": 9,
+  "score": 14,
+  "commit_count": 10,
   "review_count": 4,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "10a5affed8",
+      "message": "feat: add operator-specific Prometheus metrics (#159)",
+      "date": "2026-06-17",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/159",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/10a5affed8ea3629f722006f9552d09455d875e2"
+    },
     {
       "sha": "f12ce2d3f9",
       "message": "feat: add initial Helm chart for valkey-operator (#162)",

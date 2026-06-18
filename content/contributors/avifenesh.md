@@ -2,9 +2,9 @@
   "title": "avifenesh",
   "login": "avifenesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
-  "score": 257,
+  "score": 258,
   "commit_count": 93,
-  "review_count": 164,
+  "review_count": 165,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -758,6 +758,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5faa564719",
+      "message": "Core: Use watchdog diagnostics to inform CB recovery (#6240)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6240",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5faa564719e350d9bdab8e07080889834baf1b91"
+    },
     {
       "sha": "06950a8bf5",
       "message": "Core: Extend timeout watchdog with structured diagnostics (#6044)",

@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 110,
+  "score": 111,
   "commit_count": 42,
-  "review_count": 68,
+  "review_count": 69,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "436dcaeee9",
+      "message": "Improve maintainability for kvstoreScan (#3588)",
+      "date": "2026-06-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3588",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/436dcaeee95a9f38e8326049a7175e5e2929c7f1"
+    },
     {
       "sha": "98005d1c8c",
       "message": "Reject NAN scores in listpack/ziplist-encoded sorted sets on RDB load (#3921)",

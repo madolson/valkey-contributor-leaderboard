@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1166,
+  "score": 1167,
   "commit_count": 153,
-  "review_count": 1013,
+  "review_count": 1014,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1239,6 +1239,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "15bd009fda",
+      "message": "scan: add note for accumulation bias/snowplow effect (#452)",
+      "date": "2026-06-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/452",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/15bd009fda5bf7d846c27de8ea66d9801b3c82fa"
+    },
     {
       "sha": "699c64e3e0",
       "message": " Update provenance guard action to require near-duplicate evidence for fuzzy provenance matches (#3933)",

@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 258,
-  "commit_count": 58,
+  "score": 259,
+  "commit_count": 59,
   "review_count": 200,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "59c44b44b8",
+      "message": "Fix race in UnTrackedKeys ingestion access vs negative queries (#1060)",
+      "date": "2026-06-17",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1060",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/59c44b44b8a46e454aaf318eb41adcffdc6eb31b"
+    },
     {
       "sha": "f1277da3e0",
       "message": "Suppress core dumps around ASSERT_DEATH and EXPECT_DEATH testing calls (#868)",

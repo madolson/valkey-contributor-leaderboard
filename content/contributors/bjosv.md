@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 203,
-  "commit_count": 109,
-  "review_count": 94,
+  "score": 206,
+  "commit_count": 111,
+  "review_count": 95,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,22 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "3e068f0a3e",
+      "message": "fix: roll primaries shard-by-shard during rolling update without persistence (#252)",
+      "date": "2026-06-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/252",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3e068f0a3e18b47f038d07a4948c0b43c5c849af"
+    },
+    {
+      "sha": "cebde2510d",
+      "message": "fix: recover cluster when majority of primaries are lost (#244)",
+      "date": "2026-06-17",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/244",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/cebde2510d38dd51817865baa2b608142cb59278"
+    },
     {
       "sha": "dd70f1cee6",
       "message": "Filter Secrets by managed-by label to reduce cache memory usage (#238)",
@@ -887,6 +903,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "10a5affed8",
+      "message": "feat: add operator-specific Prometheus metrics (#159)",
+      "date": "2026-06-17",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/159",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/10a5affed8ea3629f722006f9552d09455d875e2"
+    },
     {
       "sha": "51fc871b48",
       "message": "Make `ffc.h` the default string to double parser (#318)",

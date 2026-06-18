@@ -2,8 +2,8 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 294,
-  "commit_count": 70,
+  "score": 295,
+  "commit_count": 71,
   "review_count": 224,
   "repos": [
     "valkey-glide",
@@ -17,6 +17,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6277",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c0984ef12da20e86f1849157d32620e6c776d631"
+    },
+    {
+      "sha": "3d4ee6f70f",
+      "message": "deps(node): bump protobufjs to ^7.6.3 (CVE-2026-48712, CVE-2026-54269) (#6274)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6274",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3d4ee6f70f914eb2005cb8dc7d16d75ea5538207"
     },
     {
       "sha": "307ad2447d",

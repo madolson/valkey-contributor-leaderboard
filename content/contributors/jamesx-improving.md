@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 218,
+  "score": 219,
   "commit_count": 68,
-  "review_count": 150,
+  "review_count": 151,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -571,6 +571,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6262",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b571957a36584d3df0b4c38099794baad0018cd3"
+    },
+    {
+      "sha": "3d4ee6f70f",
+      "message": "deps(node): bump protobufjs to ^7.6.3 (CVE-2026-48712, CVE-2026-54269) (#6274)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6274",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3d4ee6f70f914eb2005cb8dc7d16d75ea5538207"
     },
     {
       "sha": "34e93d01f5",

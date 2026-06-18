@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 880,
+  "score": 881,
   "commit_count": 345,
-  "review_count": 535,
+  "review_count": 536,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2775,6 +2775,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "436dcaeee9",
+      "message": "Improve maintainability for kvstoreScan (#3588)",
+      "date": "2026-06-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3588",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/436dcaeee95a9f38e8326049a7175e5e2929c7f1"
+    },
     {
       "sha": "fa239232c8",
       "message": "Guard sentinel/cluster err.txt valgrind scan with $::valgrind (#3982)",

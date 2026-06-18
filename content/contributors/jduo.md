@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 244,
+  "score": 247,
   "commit_count": 55,
-  "review_count": 189,
+  "review_count": 192,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -454,6 +454,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5faa564719",
+      "message": "Core: Use watchdog diagnostics to inform CB recovery (#6240)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6240",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5faa564719e350d9bdab8e07080889834baf1b91"
+    },
+    {
+      "sha": "09f154ac19",
+      "message": "Python: implement MONITOR command for sync and async clients (#6132)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6132",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/09f154ac19668dc9eba5facf5476b69e7876f86f"
+    },
+    {
+      "sha": "09f154ac19",
+      "message": "Python: implement MONITOR command for sync and async clients (#6132)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6132",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/09f154ac19668dc9eba5facf5476b69e7876f86f"
+    },
     {
       "sha": "a05b0667fb",
       "message": "Python: Add missing dependency for python async (#6256)",

@@ -2,14 +2,22 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 76,
-  "commit_count": 27,
-  "review_count": 49,
+  "score": 78,
+  "commit_count": 28,
+  "review_count": 50,
   "repos": [
     "valkey",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "5ae43a4038",
+      "message": "hashtable: scan no-duplicate guarantee and add HasPassedKey API (#3803)",
+      "date": "2026-06-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3803",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5ae43a4038465e881332c486a07859b1cb391528"
+    },
     {
       "sha": "604dcdb00d",
       "message": "hashtable: disallow insert during safe iteration (fixes #2302) (#3796)",
@@ -228,6 +236,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "436dcaeee9",
+      "message": "Improve maintainability for kvstoreScan (#3588)",
+      "date": "2026-06-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3588",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/436dcaeee95a9f38e8326049a7175e5e2929c7f1"
+    },
     {
       "sha": "12e12c6cb5",
       "message": "Add on-demand parameterized benchmark workflow for PRs (#3433)",

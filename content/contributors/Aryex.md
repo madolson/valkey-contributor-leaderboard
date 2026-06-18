@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 144,
+  "score": 147,
   "commit_count": 48,
-  "review_count": 96,
+  "review_count": 99,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -401,6 +401,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "11dd9c303f",
+      "message": "Go: Add MonitorClient for MONITOR command (#6211)",
+      "date": "2026-06-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6211",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/11dd9c303f8355f8e95bdb29ebcdc2566a3ad8f5"
+    },
+    {
+      "sha": "cb38d8f619",
+      "message": "Node.js: Add GlideMonitorClient for MONITOR command (#6212)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6212",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cb38d8f6196c04c5f2b5473eea8181b050f4a568"
+    },
+    {
+      "sha": "16492a5a59",
+      "message": "Node, Python, GO: Add failover and replicaOf commands (#6222)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6222",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/16492a5a5944c48b9451d9173051ade06d61a051"
+    },
     {
       "sha": "cdee0fd7ee",
       "message": "Java: implement MONITOR command (#6187)",

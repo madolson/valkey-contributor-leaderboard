@@ -2,8 +2,8 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 147,
-  "commit_count": 38,
+  "score": 148,
+  "commit_count": 39,
   "review_count": 109,
   "repos": [
     "spring-data-valkey",
@@ -11,6 +11,14 @@
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "5faa564719",
+      "message": "Core: Use watchdog diagnostics to inform CB recovery (#6240)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6240",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5faa564719e350d9bdab8e07080889834baf1b91"
+    },
     {
       "sha": "c10fc118e4",
       "message": "Document AZ affinity configuration (#93)",

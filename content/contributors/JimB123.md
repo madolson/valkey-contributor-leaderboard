@@ -2,14 +2,22 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 45,
-  "commit_count": 17,
-  "review_count": 28,
+  "score": 47,
+  "commit_count": 18,
+  "review_count": 29,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "436dcaeee9",
+      "message": "Improve maintainability for kvstoreScan (#3588)",
+      "date": "2026-06-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3588",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/436dcaeee95a9f38e8326049a7175e5e2929c7f1"
+    },
     {
       "sha": "16ed690fec",
       "message": "fix LTO compilation warning in eval (#3584)",
@@ -148,6 +156,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5ae43a4038",
+      "message": "hashtable: scan no-duplicate guarantee and add HasPassedKey API (#3803)",
+      "date": "2026-06-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3803",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5ae43a4038465e881332c486a07859b1cb391528"
+    },
     {
       "sha": "39036c7c06",
       "message": "Add structured datasets loading capability in valkey benchmark (#2823)",

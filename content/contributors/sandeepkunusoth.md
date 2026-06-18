@@ -2,13 +2,21 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 36,
-  "commit_count": 17,
+  "score": 37,
+  "commit_count": 18,
   "review_count": 19,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "d1846061b5",
+      "message": "(bug) fixed Liveness and Readiness Probes to use operator managed user instead of default user (#235)",
+      "date": "2026-06-17",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/235",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d1846061b5e4bade4fedf6f459d975693e0b5851"
+    },
     {
       "sha": "77c6c5b3b9",
       "message": "(feat) support images from private container registry (#234)",

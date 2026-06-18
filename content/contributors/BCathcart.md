@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 79,
+  "score": 80,
   "commit_count": 35,
-  "review_count": 44,
+  "review_count": 45,
   "repos": [
     "valkey",
     "valkey-io.github.io",
@@ -293,6 +293,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "59c44b44b8",
+      "message": "Fix race in UnTrackedKeys ingestion access vs negative queries (#1060)",
+      "date": "2026-06-17",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1060",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/59c44b44b8a46e454aaf318eb41adcffdc6eb31b"
+    },
     {
       "sha": "1a43d0b5c1",
       "message": "Fix reclaimable_memory underflow issue (#1131)",

@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 78,
+  "score": 81,
   "commit_count": 27,
-  "review_count": 51,
+  "review_count": 54,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -229,6 +229,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3e068f0a3e",
+      "message": "fix: roll primaries shard-by-shard during rolling update without persistence (#252)",
+      "date": "2026-06-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/252",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3e068f0a3e18b47f038d07a4948c0b43c5c849af"
+    },
+    {
+      "sha": "d1846061b5",
+      "message": "(bug) fixed Liveness and Readiness Probes to use operator managed user instead of default user (#235)",
+      "date": "2026-06-17",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/235",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d1846061b5e4bade4fedf6f459d975693e0b5851"
+    },
+    {
+      "sha": "cebde2510d",
+      "message": "fix: recover cluster when majority of primaries are lost (#244)",
+      "date": "2026-06-17",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/244",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/cebde2510d38dd51817865baa2b608142cb59278"
+    },
     {
       "sha": "dd70f1cee6",
       "message": "Filter Secrets by managed-by label to reduce cache memory usage (#238)",

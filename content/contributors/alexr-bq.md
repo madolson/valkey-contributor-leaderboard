@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 173,
+  "score": 174,
   "commit_count": 42,
-  "review_count": 131,
+  "review_count": 132,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -350,6 +350,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "09f154ac19",
+      "message": "Python: implement MONITOR command for sync and async clients (#6132)",
+      "date": "2026-06-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6132",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/09f154ac19668dc9eba5facf5476b69e7876f86f"
+    },
     {
       "sha": "fb1e15a593",
       "message": "Python: Change async client to use FFI for requests and unnamed pipe for responses instead of UDS for both (#5637)",

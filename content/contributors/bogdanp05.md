@@ -2,9 +2,9 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 42,
+  "score": 43,
   "commit_count": 6,
-  "review_count": 36,
+  "review_count": 37,
   "repos": [
     "libvalkey-py",
     "valkey",
@@ -61,6 +61,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "33b5ccf0b5",
+      "message": "Set timeouts for each CI job",
+      "date": "2026-06-17",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/311",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/33b5ccf0b59ea180f5242b91d6d36f5f30dac1c0"
+    },
     {
       "sha": "efcafe0881",
       "message": "Fix CI: Add new `id` response to test",

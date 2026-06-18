@@ -2,15 +2,24 @@
   "title": "Fusl",
   "login": "Fusl",
   "avatar_url": "https://avatars.githubusercontent.com/u/2349496?v=4",
-  "score": 18,
-  "commit_count": 14,
+  "score": 19,
+  "commit_count": 15,
   "review_count": 4,
   "repos": [
     "iovalkey",
     "valkey",
-    "valkey-bundle"
+    "valkey-bundle",
+    "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "15bd009fda",
+      "message": "scan: add note for accumulation bias/snowplow effect (#452)",
+      "date": "2026-06-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/452",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/15bd009fda5bf7d846c27de8ea66d9801b3c82fa"
+    },
     {
       "sha": "50667e0ad5",
       "message": "Skip sorting empty lists in sortCommandGeneric to prevent undefined behavior when calling pqsort (#2425)",
