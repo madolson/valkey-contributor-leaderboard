@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 259,
+  "score": 260,
   "commit_count": 59,
-  "review_count": 200,
+  "review_count": 201,
   "repos": [
     "valkey",
     "valkey-json",
@@ -485,6 +485,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ce011fb699",
+      "message": "Fix Race condition in VectorHNSW::AddRecordImpl during concurrent HSET with HNSW vector index (#1079)",
+      "date": "2026-06-18",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1079",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ce011fb699ef1b90621a1c65080eee443987a864"
+    },
     {
       "sha": "4b2c0859af",
       "message": "Fix tag query parsing to support escaped closing brace (#979) + resolved merge conflicts (#1148)",

@@ -2,14 +2,22 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 79,
-  "commit_count": 50,
+  "score": 80,
+  "commit_count": 51,
   "review_count": 29,
   "repos": [
     "valkey-ci-agent",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "ce011fb699",
+      "message": "Fix Race condition in VectorHNSW::AddRecordImpl during concurrent HSET with HNSW vector index (#1079)",
+      "date": "2026-06-18",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1079",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ce011fb699ef1b90621a1c65080eee443987a864"
+    },
     {
       "sha": "4b2c0859af",
       "message": "Fix tag query parsing to support escaped closing brace (#979) + resolved merge conflicts (#1148)",

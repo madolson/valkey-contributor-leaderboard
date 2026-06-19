@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 118,
+  "score": 119,
   "commit_count": 13,
-  "review_count": 105,
+  "review_count": 106,
   "repos": [
     "valkey-io.github.io",
     "valkey-operator"
@@ -116,6 +116,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "282a1172b3",
+      "message": "Add Dragos Andriciuc bio (#583)",
+      "date": "2026-06-18",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/583",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/282a1172b3c6349b8c530f1893d2833984725917"
+    },
     {
       "sha": "7b4eb6f391",
       "message": "Update hpatro's affiliation (#582)",

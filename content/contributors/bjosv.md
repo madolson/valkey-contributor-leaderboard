@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 206,
+  "score": 208,
   "commit_count": 111,
-  "review_count": 95,
+  "review_count": 97,
   "repos": [
     "libvalkey",
     "valkey",
@@ -903,6 +903,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4cfb2d60e6",
+      "message": "feat: fail over to the highest-offset replica (#249)",
+      "date": "2026-06-19",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/249",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/4cfb2d60e66adfff2a6ad95f3fbe4bf3ce8dcda4"
+    },
+    {
+      "sha": "06cd2def59",
+      "message": "chore(kubebuilder): update scaffold v4.14.0 -> v4.15.0 (#254)",
+      "date": "2026-06-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/254",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/06cd2def5916d41e8588cff92de44cc996329448"
+    },
     {
       "sha": "10a5affed8",
       "message": "feat: add operator-specific Prometheus metrics (#159)",

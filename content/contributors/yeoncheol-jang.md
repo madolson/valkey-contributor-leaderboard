@@ -2,13 +2,21 @@
   "title": "yeoncheol-jang",
   "login": "yeoncheol-jang",
   "avatar_url": "https://avatars.githubusercontent.com/u/65603611?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey-glide"
   ],
   "commit_list": [
+    {
+      "sha": "3b39fd7d7d",
+      "message": "perf(java): optimize memory consumption of GlideString validation (#6196)",
+      "date": "2026-06-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6196",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3b39fd7d7dcafe7414af55c6b80c6037cc066580"
+    },
     {
       "sha": "6536eb8ed5",
       "message": "fix(java): populate actual lib-ver instead of unknown (#5741)",

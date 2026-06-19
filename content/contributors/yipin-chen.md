@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 735,
+  "score": 736,
   "commit_count": 45,
-  "review_count": 690,
+  "review_count": 691,
   "repos": [
     "valkey-glide"
   ],
@@ -378,6 +378,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6211",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/11dd9c303f8355f8e95bdb29ebcdc2566a3ad8f5"
+    },
+    {
+      "sha": "d659325e98",
+      "message": "Node: Add MIGRATE KEYS (multi-key) variant (#6064)",
+      "date": "2026-06-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6064",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d659325e98eabf55cec6fa19bf5ea70758745085"
     },
     {
       "sha": "c0984ef12d",

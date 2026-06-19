@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1167,
+  "score": 1169,
   "commit_count": 153,
-  "review_count": 1014,
+  "review_count": 1016,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1239,6 +1239,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fe8f96a298",
+      "message": "Omit alldbs rule and drop mentions of sanitize-payload user flags (#448)",
+      "date": "2026-06-18",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/448",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/fe8f96a2985efbae06a03805cd3f86811907d26a"
+    },
+    {
+      "sha": "13bd25eafa",
+      "message": "Add cluster|syncslots to topics/acl.md (#449)",
+      "date": "2026-06-18",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/449",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/13bd25eafae60b83ad241d01b5ea3b1b7e9fb80f"
+    },
     {
       "sha": "15bd009fda",
       "message": "scan: add note for accumulation bias/snowplow effect (#452)",

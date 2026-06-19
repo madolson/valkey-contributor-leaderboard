@@ -2,9 +2,9 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 43,
+  "score": 44,
   "commit_count": 6,
-  "review_count": 37,
+  "review_count": 38,
   "repos": [
     "libvalkey-py",
     "valkey",
@@ -68,6 +68,14 @@
       "repo": "valkey-py",
       "pr_url": "https://github.com/valkey-io/valkey-py/pull/311",
       "commit_url": "https://github.com/valkey-io/valkey-py/commit/33b5ccf0b59ea180f5242b91d6d36f5f30dac1c0"
+    },
+    {
+      "sha": "943ce56017",
+      "message": "Fix resource warnings: unclosed sockets / SSL sockets / a PEM file",
+      "date": "2026-06-17",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/290",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/943ce5601778014f1b746da13adaeadd7547ab3a"
     },
     {
       "sha": "efcafe0881",

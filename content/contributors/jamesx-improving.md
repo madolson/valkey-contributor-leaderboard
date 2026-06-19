@@ -2,14 +2,22 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 219,
-  "commit_count": 68,
+  "score": 220,
+  "commit_count": 69,
   "review_count": 151,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "9945255cdf",
+      "message": "CI: Add self-hosted x86 Linux runners (#6184)",
+      "date": "2026-06-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6184",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9945255cdf51e7e75b084fb248d6410cc08b4f76"
+    },
     {
       "sha": "a05b0667fb",
       "message": "Python: Add missing dependency for python async (#6256)",

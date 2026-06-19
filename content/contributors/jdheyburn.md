@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 81,
+  "score": 82,
   "commit_count": 27,
-  "review_count": 54,
+  "review_count": 55,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -229,6 +229,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4cfb2d60e6",
+      "message": "feat: fail over to the highest-offset replica (#249)",
+      "date": "2026-06-19",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/249",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/4cfb2d60e66adfff2a6ad95f3fbe4bf3ce8dcda4"
+    },
     {
       "sha": "3e068f0a3e",
       "message": "fix: roll primaries shard-by-shard during rolling update without persistence (#252)",

@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 159,
-  "commit_count": 85,
+  "score": 161,
+  "commit_count": 87,
   "review_count": 74,
   "repos": [
     "valkey-glide",
@@ -19,6 +19,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6211",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/11dd9c303f8355f8e95bdb29ebcdc2566a3ad8f5"
+    },
+    {
+      "sha": "d659325e98",
+      "message": "Node: Add MIGRATE KEYS (multi-key) variant (#6064)",
+      "date": "2026-06-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6064",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d659325e98eabf55cec6fa19bf5ea70758745085"
+    },
+    {
+      "sha": "6ec356fda7",
+      "message": "Java: Phase 2 client-side caching - serverAssisted field and clientTrackingInfo (#5965)",
+      "date": "2026-06-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5965",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6ec356fda775b72903143d17df2314a598b19947"
     },
     {
       "sha": "09f154ac19",

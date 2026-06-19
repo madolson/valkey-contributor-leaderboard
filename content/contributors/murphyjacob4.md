@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 111,
+  "score": 112,
   "commit_count": 42,
-  "review_count": 69,
+  "review_count": 70,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "13bd25eafa",
+      "message": "Add cluster|syncslots to topics/acl.md (#449)",
+      "date": "2026-06-18",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/449",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/13bd25eafae60b83ad241d01b5ea3b1b7e9fb80f"
+    },
     {
       "sha": "436dcaeee9",
       "message": "Improve maintainability for kvstoreScan (#3588)",

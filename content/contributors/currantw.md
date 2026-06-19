@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 196,
+  "score": 200,
   "commit_count": 122,
-  "review_count": 74,
+  "review_count": 78,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -992,6 +992,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d659325e98",
+      "message": "Node: Add MIGRATE KEYS (multi-key) variant (#6064)",
+      "date": "2026-06-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6064",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d659325e98eabf55cec6fa19bf5ea70758745085"
+    },
+    {
+      "sha": "d659325e98",
+      "message": "Node: Add MIGRATE KEYS (multi-key) variant (#6064)",
+      "date": "2026-06-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6064",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d659325e98eabf55cec6fa19bf5ea70758745085"
+    },
+    {
+      "sha": "6ec356fda7",
+      "message": "Java: Phase 2 client-side caching - serverAssisted field and clientTrackingInfo (#5965)",
+      "date": "2026-06-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5965",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6ec356fda775b72903143d17df2314a598b19947"
+    },
+    {
+      "sha": "6ec356fda7",
+      "message": "Java: Phase 2 client-side caching - serverAssisted field and clientTrackingInfo (#5965)",
+      "date": "2026-06-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5965",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6ec356fda775b72903143d17df2314a598b19947"
+    },
     {
       "sha": "a05b0667fb",
       "message": "Python: Add missing dependency for python async (#6256)",

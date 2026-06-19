@@ -2,13 +2,21 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 37,
-  "commit_count": 18,
+  "score": 38,
+  "commit_count": 19,
   "review_count": 19,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "06cd2def59",
+      "message": "chore(kubebuilder): update scaffold v4.14.0 -> v4.15.0 (#254)",
+      "date": "2026-06-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/254",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/06cd2def5916d41e8588cff92de44cc996329448"
+    },
     {
       "sha": "d1846061b5",
       "message": "(bug) fixed Liveness and Readiness Probes to use operator managed user instead of default user (#235)",

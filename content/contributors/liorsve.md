@@ -2,9 +2,9 @@
   "title": "liorsve",
   "login": "liorsve",
   "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
-  "score": 102,
+  "score": 103,
   "commit_count": 81,
-  "review_count": 21,
+  "review_count": 22,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -663,6 +663,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9945255cdf",
+      "message": "CI: Add self-hosted x86 Linux runners (#6184)",
+      "date": "2026-06-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6184",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9945255cdf51e7e75b084fb248d6410cc08b4f76"
+    },
     {
       "sha": "dc527e4fd7",
       "message": "Benchmark: Handle valkey-glide primary driver commit ID (#66)",

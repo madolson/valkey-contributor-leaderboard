@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 147,
-  "commit_count": 48,
-  "review_count": 99,
+  "score": 150,
+  "commit_count": 49,
+  "review_count": 101,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "2103d200e4",
+      "message": "docs: Go external OpenTelemetry span context propagation (#247)",
+      "date": "2026-06-18",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/247",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/2103d200e4bbad915284d316d7a25d671a772440"
+    },
     {
       "sha": "a799daaf0b",
       "message": "docs: add PHP OPT_REPLY_LITERAL and setOption/getOption (#233)",
@@ -408,6 +416,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6211",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/11dd9c303f8355f8e95bdb29ebcdc2566a3ad8f5"
+    },
+    {
+      "sha": "9945255cdf",
+      "message": "CI: Add self-hosted x86 Linux runners (#6184)",
+      "date": "2026-06-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6184",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9945255cdf51e7e75b084fb248d6410cc08b4f76"
+    },
+    {
+      "sha": "3b39fd7d7d",
+      "message": "perf(java): optimize memory consumption of GlideString validation (#6196)",
+      "date": "2026-06-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6196",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3b39fd7d7dcafe7414af55c6b80c6037cc066580"
     },
     {
       "sha": "cb38d8f619",

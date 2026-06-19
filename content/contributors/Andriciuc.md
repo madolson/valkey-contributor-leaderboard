@@ -2,13 +2,22 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
-    "valkey-doc"
+    "valkey-doc",
+    "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "282a1172b3",
+      "message": "Add Dragos Andriciuc bio (#583)",
+      "date": "2026-06-18",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/583",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/282a1172b3c6349b8c530f1893d2833984725917"
+    },
     {
       "sha": "b39df5ab39",
       "message": "Fix two links (#356)",

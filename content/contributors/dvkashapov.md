@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 95,
-  "commit_count": 23,
-  "review_count": 72,
+  "score": 97,
+  "commit_count": 24,
+  "review_count": 73,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-luajit"
   ],
   "commit_list": [
+    {
+      "sha": "fe8f96a298",
+      "message": "Omit alldbs rule and drop mentions of sanitize-payload user flags (#448)",
+      "date": "2026-06-18",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/448",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/fe8f96a2985efbae06a03805cd3f86811907d26a"
+    },
     {
       "sha": "f3bdf50db3",
       "message": "Omit alldbs rule in ACL SAVE/LIST and CONFIG REWRITE for compatibility (#3964)",
@@ -198,6 +206,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "13bd25eafa",
+      "message": "Add cluster|syncslots to topics/acl.md (#449)",
+      "date": "2026-06-18",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/449",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/13bd25eafae60b83ad241d01b5ea3b1b7e9fb80f"
+    },
     {
       "sha": "6774c09978",
       "message": "Add REUSE compliance for machine-readable licensing and SBOM generation (#3968)",
