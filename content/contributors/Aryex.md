@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 150,
-  "commit_count": 49,
-  "review_count": 101,
+  "score": 154,
+  "commit_count": 50,
+  "review_count": 104,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "573af4d53c",
+      "message": "Added Supported Commands and Custom Command Execution page (#238)",
+      "date": "2026-06-20",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/238",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/573af4d53c8040ddac0646dbad30bd1794eb5cf8"
+    },
     {
       "sha": "2103d200e4",
       "message": "docs: Go external OpenTelemetry span context propagation (#247)",
@@ -409,6 +417,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "34b196eb6a",
+      "message": "Add `LATENCY HISTORY`, `LATEST`, and `RESET` command support (#6257)",
+      "date": "2026-06-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6257",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/34b196eb6aeb68d1700b5d2b61bc980c820f5edc"
+    },
+    {
+      "sha": "38ede1a719",
+      "message": "CI/CD: Adopt shared actions from valkey-glide (#110)",
+      "date": "2026-06-19",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/110",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/38ede1a719b7859dfc6524d1ec893212cdbdb2bf"
+    },
+    {
+      "sha": "38ede1a719",
+      "message": "CI/CD: Adopt shared actions from valkey-glide (#110)",
+      "date": "2026-06-19",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/110",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/38ede1a719b7859dfc6524d1ec893212cdbdb2bf"
+    },
     {
       "sha": "11dd9c303f",
       "message": "Go: Add MonitorClient for MONITOR command (#6211)",

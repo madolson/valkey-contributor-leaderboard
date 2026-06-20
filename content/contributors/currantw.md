@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 200,
-  "commit_count": 122,
-  "review_count": 78,
+  "score": 203,
+  "commit_count": 123,
+  "review_count": 80,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "34b196eb6a",
+      "message": "Add `LATENCY HISTORY`, `LATEST`, and `RESET` command support (#6257)",
+      "date": "2026-06-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6257",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/34b196eb6aeb68d1700b5d2b61bc980c820f5edc"
+    },
     {
       "sha": "1b95d2e8a1",
       "message": "Add `SAVE`, `BGSAVE`, `BGREWRITEAOF` commands (Node, Python, Go) (#6188)",
@@ -992,6 +1000,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "94a96619ed",
+      "message": "Python: Add MIGRATE KEYS (multi-key) variant (#6066)",
+      "date": "2026-06-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6066",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/94a96619edae02e8676c2ef4f3a5a7eff5fe186a"
+    },
+    {
+      "sha": "28ecc0635d",
+      "message": "Use shared CI/CD actions/workflows (#425)",
+      "date": "2026-06-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/425",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/28ecc0635d7c2ecd8e17abe2cb7dd7819d2ebeef"
+    },
     {
       "sha": "d659325e98",
       "message": "Node: Add MIGRATE KEYS (multi-key) variant (#6064)",

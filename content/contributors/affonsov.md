@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 161,
-  "commit_count": 87,
+  "score": 162,
+  "commit_count": 88,
   "review_count": 74,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "94a96619ed",
+      "message": "Python: Add MIGRATE KEYS (multi-key) variant (#6066)",
+      "date": "2026-06-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6066",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/94a96619edae02e8676c2ef4f3a5a7eff5fe186a"
+    },
     {
       "sha": "11dd9c303f",
       "message": "Go: Add MonitorClient for MONITOR command (#6211)",

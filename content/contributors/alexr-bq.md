@@ -2,8 +2,8 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 174,
-  "commit_count": 42,
+  "score": 178,
+  "commit_count": 46,
   "review_count": 132,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,38 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "49bf2d3c71",
+      "message": "CI/CD workflow extraction of shared actions that other repos can use (#6218)",
+      "date": "2026-06-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6218",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/49bf2d3c7156d845a75114c90d9f416d80550d5e"
+    },
+    {
+      "sha": "28ecc0635d",
+      "message": "Use shared CI/CD actions/workflows (#425)",
+      "date": "2026-06-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/425",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/28ecc0635d7c2ecd8e17abe2cb7dd7819d2ebeef"
+    },
+    {
+      "sha": "6f2451ebac",
+      "message": "CI/CD - use shared actions/workflows (#223)",
+      "date": "2026-06-19",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/223",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/6f2451ebac1ce8c02f27098e5bd453eb23de6df9"
+    },
+    {
+      "sha": "38ede1a719",
+      "message": "CI/CD: Adopt shared actions from valkey-glide (#110)",
+      "date": "2026-06-19",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/110",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/38ede1a719b7859dfc6524d1ec893212cdbdb2bf"
+    },
     {
       "sha": "6396496631",
       "message": "Replace Docker cluster with cluster_manager.py (#108)",

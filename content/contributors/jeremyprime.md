@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 148,
+  "score": 149,
   "commit_count": 39,
-  "review_count": 109,
+  "review_count": 110,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -325,6 +325,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "886af70c41",
+      "message": "Benchmark: optimize by parallel builds and caching (#76)",
+      "date": "2026-06-19",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/76",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/886af70c41c873777ac57cbff0e6d8408300b4f0"
+    },
     {
       "sha": "a05b0667fb",
       "message": "Python: Add missing dependency for python async (#6256)",

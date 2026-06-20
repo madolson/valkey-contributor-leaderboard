@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 736,
+  "score": 742,
   "commit_count": 45,
-  "review_count": 691,
+  "review_count": 697,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "573af4d53c",
+      "message": "Added Supported Commands and Custom Command Execution page (#238)",
+      "date": "2026-06-20",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/238",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/573af4d53c8040ddac0646dbad30bd1794eb5cf8"
+    },
+    {
+      "sha": "49bf2d3c71",
+      "message": "CI/CD workflow extraction of shared actions that other repos can use (#6218)",
+      "date": "2026-06-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6218",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/49bf2d3c7156d845a75114c90d9f416d80550d5e"
+    },
+    {
+      "sha": "94a96619ed",
+      "message": "Python: Add MIGRATE KEYS (multi-key) variant (#6066)",
+      "date": "2026-06-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6066",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/94a96619edae02e8676c2ef4f3a5a7eff5fe186a"
+    },
+    {
+      "sha": "28ecc0635d",
+      "message": "Use shared CI/CD actions/workflows (#425)",
+      "date": "2026-06-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/425",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/28ecc0635d7c2ecd8e17abe2cb7dd7819d2ebeef"
+    },
+    {
+      "sha": "6f2451ebac",
+      "message": "CI/CD - use shared actions/workflows (#223)",
+      "date": "2026-06-19",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/223",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/6f2451ebac1ce8c02f27098e5bd453eb23de6df9"
+    },
+    {
+      "sha": "38ede1a719",
+      "message": "CI/CD: Adopt shared actions from valkey-glide (#110)",
+      "date": "2026-06-19",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/110",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/38ede1a719b7859dfc6524d1ec893212cdbdb2bf"
+    },
     {
       "sha": "11dd9c303f",
       "message": "Go: Add MonitorClient for MONITOR command (#6211)",

@@ -2,8 +2,8 @@
   "title": "liorsve",
   "login": "liorsve",
   "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
-  "score": 103,
-  "commit_count": 81,
+  "score": 104,
+  "commit_count": 82,
   "review_count": 22,
   "repos": [
     "spring-data-valkey",
@@ -13,6 +13,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "886af70c41",
+      "message": "Benchmark: optimize by parallel builds and caching (#76)",
+      "date": "2026-06-19",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/76",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/886af70c41c873777ac57cbff0e6d8408300b4f0"
+    },
     {
       "sha": "530cbcd889",
       "message": "Python: Downgrade protobuf dependency to >=3.20 (#5655)",
