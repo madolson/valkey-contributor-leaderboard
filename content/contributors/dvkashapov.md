@@ -207,6 +207,14 @@
   ],
   "review_list": [
     {
+      "sha": "ca8c1bb7f6",
+      "message": "Bump softprops/action-gh-release from 3.0.0 to 3.0.1 (#32)",
+      "date": "2026-06-20",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/32",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/ca8c1bb7f630136f828509419694cb1d12dc9f27"
+    },
+    {
       "sha": "13bd25eafa",
       "message": "Add cluster|syncslots to topics/acl.md (#449)",
       "date": "2026-06-18",
