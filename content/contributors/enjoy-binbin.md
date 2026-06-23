@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 881,
+  "score": 883,
   "commit_count": 345,
-  "review_count": 536,
+  "review_count": 538,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2775,6 +2775,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bee30d47de",
+      "message": "Extend zmalloc_purge to also trim the libc main arena (#3640)",
+      "date": "2026-06-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3640",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bee30d47de7af7a167ffef862b8aef532f9b0a18"
+    },
+    {
+      "sha": "fa62dce94f",
+      "message": "Reduce execution time for replica migration tests (#4006)",
+      "date": "2026-06-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4006",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fa62dce94f62f5f83371fa36b7af40e89f3e5f56"
+    },
     {
       "sha": "436dcaeee9",
       "message": "Improve maintainability for kvstoreScan (#3588)",

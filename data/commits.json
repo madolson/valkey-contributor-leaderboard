@@ -155252,6 +155252,134 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/32"
+    },
+    {
+      "sha": "bee30d47de7af7a167ffef862b8aef532f9b0a18",
+      "author_login": "webbsssss",
+      "author_id": 250015813,
+      "avatar_url": "https://avatars.githubusercontent.com/u/250015813?v=4",
+      "message": "Extend zmalloc_purge to also trim the libc main arena (#3640)",
+      "date": "2026-06-22T13:37:29Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-05-07T17:19:24Z"
+        },
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-05-09T08:52:18Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-06-09T10:30:04Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3640"
+    },
+    {
+      "sha": "fa62dce94f62f5f83371fa36b7af40e89f3e5f56",
+      "author_login": "sushilpaneru1",
+      "author_id": 2618768,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2618768?v=4",
+      "message": "Reduce execution time for replica migration tests (#4006)",
+      "date": "2026-06-22T12:57:43Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-06-19T07:53:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4006"
+    },
+    {
+      "sha": "1c37ba8bf79c054e3d2f2550ea37cafc87b0ccb9",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump the minor-updates group with 2 updates (#428)",
+      "date": "2026-06-23T05:00:40Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-06-22T23:10:46Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-06-22T23:11:25Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/428"
+    },
+    {
+      "sha": "c93696247450dfd31c0c8a29e9f37671808b3d14",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump actions/checkout from 6.0.3 to 7.0.0 (#429)",
+      "date": "2026-06-22T23:11:42Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-06-22T23:08:41Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-06-22T23:10:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/429"
+    },
+    {
+      "sha": "45a5668d98b3aca60a86bd62a02f02596b657778",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "Merge pull request #171 from tkarger/patch-2",
+      "date": "2026-06-22T15:16:02Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-06-18T14:18:09Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/171"
+    },
+    {
+      "sha": "323c70b609f61febe52178bf06247d153b9342b5",
+      "author_login": "tkarger",
+      "author_id": 49390121,
+      "avatar_url": "https://avatars.githubusercontent.com/u/49390121?v=4",
+      "message": "Update valkey-operator helm install notes",
+      "date": "2026-05-08T08:58:07Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-06-18T14:18:09Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/171"
+    },
+    {
+      "sha": "d900f015529684935fea9da6924b192808626fa7",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Reimplement TAG field using RAX tree to save space. (#1031)",
+      "date": "2026-06-23T05:25:51Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "BCathcart",
+          "date": "2026-06-23T03:47:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1031"
     }
   ]
 }

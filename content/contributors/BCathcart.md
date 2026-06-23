@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 80,
+  "score": 81,
   "commit_count": 35,
-  "review_count": 45,
+  "review_count": 46,
   "repos": [
     "valkey",
     "valkey-io.github.io",
@@ -293,6 +293,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d900f01552",
+      "message": "Reimplement TAG field using RAX tree to save space. (#1031)",
+      "date": "2026-06-23",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1031",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d900f015529684935fea9da6924b192808626fa7"
+    },
     {
       "sha": "59c44b44b8",
       "message": "Fix race in UnTrackedKeys ingestion access vs negative queries (#1060)",

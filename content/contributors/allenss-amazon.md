@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 260,
-  "commit_count": 59,
+  "score": 261,
+  "commit_count": 60,
   "review_count": 201,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "d900f01552",
+      "message": "Reimplement TAG field using RAX tree to save space. (#1031)",
+      "date": "2026-06-23",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1031",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d900f015529684935fea9da6924b192808626fa7"
+    },
     {
       "sha": "59c44b44b8",
       "message": "Fix race in UnTrackedKeys ingestion access vs negative queries (#1060)",

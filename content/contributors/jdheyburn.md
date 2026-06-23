@@ -2,8 +2,8 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 82,
-  "commit_count": 27,
+  "score": 83,
+  "commit_count": 28,
   "review_count": 55,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "45a5668d98",
+      "message": "Merge pull request #171 from tkarger/patch-2",
+      "date": "2026-06-22",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/171",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/45a5668d98b3aca60a86bd62a02f02596b657778"
+    },
     {
       "sha": "12dc308b17",
       "message": "Merge pull request #179 from jdheyburn/valkey-operator-0.2.0",

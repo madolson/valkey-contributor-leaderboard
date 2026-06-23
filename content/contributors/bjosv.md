@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 208,
+  "score": 210,
   "commit_count": 111,
-  "review_count": 97,
+  "review_count": 99,
   "repos": [
     "libvalkey",
     "valkey",
@@ -904,6 +904,14 @@
   ],
   "review_list": [
     {
+      "sha": "45a5668d98",
+      "message": "Merge pull request #171 from tkarger/patch-2",
+      "date": "2026-06-22",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/171",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/45a5668d98b3aca60a86bd62a02f02596b657778"
+    },
+    {
       "sha": "4cfb2d60e6",
       "message": "feat: fail over to the highest-offset replica (#249)",
       "date": "2026-06-19",
@@ -1158,6 +1166,14 @@
       "repo": "valkey-operator",
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/161",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c7b51b361387e1f24b15b7724656bd00182ced97"
+    },
+    {
+      "sha": "323c70b609",
+      "message": "Update valkey-operator helm install notes",
+      "date": "2026-05-08",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/171",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/323c70b609f61febe52178bf06247d153b9342b5"
     },
     {
       "sha": "f12ce2d3f9",

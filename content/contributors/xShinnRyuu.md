@@ -581,6 +581,22 @@
   ],
   "review_list": [
     {
+      "sha": "1c37ba8bf7",
+      "message": "chore(deps): bump the minor-updates group with 2 updates (#428)",
+      "date": "2026-06-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/428",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/1c37ba8bf79c054e3d2f2550ea37cafc87b0ccb9"
+    },
+    {
+      "sha": "c936962474",
+      "message": "chore(deps): bump actions/checkout from 6.0.3 to 7.0.0 (#429)",
+      "date": "2026-06-22",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/429",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/c93696247450dfd31c0c8a29e9f37671808b3d14"
+    },
+    {
       "sha": "9945255cdf",
       "message": "CI: Add self-hosted x86 Linux runners (#6184)",
       "date": "2026-06-18",

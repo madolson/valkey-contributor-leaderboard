@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1169,
+  "score": 1170,
   "commit_count": 153,
-  "review_count": 1016,
+  "review_count": 1017,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1239,6 +1239,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bee30d47de",
+      "message": "Extend zmalloc_purge to also trim the libc main arena (#3640)",
+      "date": "2026-06-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3640",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bee30d47de7af7a167ffef862b8aef532f9b0a18"
+    },
     {
       "sha": "fe8f96a298",
       "message": "Omit alldbs rule and drop mentions of sanitize-payload user flags (#448)",
