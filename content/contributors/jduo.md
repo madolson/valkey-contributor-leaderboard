@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 247,
+  "score": 248,
   "commit_count": 55,
-  "review_count": 192,
+  "review_count": 193,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -454,6 +454,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1821f57edf",
+      "message": "Node: Improve performance of Client initial connection with TLS (#6219)",
+      "date": "2026-06-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6219",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1821f57edf2a548e114f03731520c8618ba1c8a6"
+    },
     {
       "sha": "5faa564719",
       "message": "Core: Use watchdog diagnostics to inform CB recovery (#6240)",

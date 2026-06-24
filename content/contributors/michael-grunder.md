@@ -2,9 +2,9 @@
   "title": "michael-grunder",
   "login": "michael-grunder",
   "avatar_url": "https://avatars.githubusercontent.com/u/468149?v=4",
-  "score": 71,
+  "score": 74,
   "commit_count": 18,
-  "review_count": 53,
+  "review_count": 56,
   "repos": [
     "libvalkey"
   ],
@@ -155,6 +155,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "248d7f5ce3",
+      "message": "Add c-ares support for DNS resolution with timeout (#323)",
+      "date": "2026-06-24",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/323",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/248d7f5ce3ef4ce006d1dec0b04bd24fdf37c9f5"
+    },
+    {
+      "sha": "b64aa06988",
+      "message": "Suppress constant-promotion warnings on Solaris Sun CC (#326)",
+      "date": "2026-06-23",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/326",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/b64aa06988a1afc33fa97e9ce5aaaba71bc027f5"
+    },
+    {
+      "sha": "6249038b07",
+      "message": "Replace strncpy with length-validated memcpy for Unix socket path (#327)",
+      "date": "2026-06-23",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/327",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/6249038b0794b85bc480a71639f96e5a36965a9f"
+    },
     {
       "sha": "61b27c4530",
       "message": "Try all addresses from DNS before failing to connect (#300)",

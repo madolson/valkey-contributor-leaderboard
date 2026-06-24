@@ -155380,6 +155380,372 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1031"
+    },
+    {
+      "sha": "248d7f5ce3ef4ce006d1dec0b04bd24fdf37c9f5",
+      "author_login": "bjosv",
+      "author_id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "message": "Add c-ares support for DNS resolution with timeout (#323)",
+      "date": "2026-06-24T07:04:48Z",
+      "repo": "libvalkey",
+      "reviewed": [
+        {
+          "login": "michael-grunder",
+          "date": "2026-06-23T16:33:20Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/323"
+    },
+    {
+      "sha": "b64aa06988a1afc33fa97e9ce5aaaba71bc027f5",
+      "author_login": "bjosv",
+      "author_id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "message": "Suppress constant-promotion warnings on Solaris Sun CC (#326)",
+      "date": "2026-06-23T16:36:42Z",
+      "repo": "libvalkey",
+      "reviewed": [
+        {
+          "login": "michael-grunder",
+          "date": "2026-06-23T15:11:59Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/326"
+    },
+    {
+      "sha": "6249038b0794b85bc480a71639f96e5a36965a9f",
+      "author_login": "bjosv",
+      "author_id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "message": "Replace strncpy with length-validated memcpy for Unix socket path (#327)",
+      "date": "2026-06-23T16:35:02Z",
+      "repo": "libvalkey",
+      "reviewed": [
+        {
+          "login": "michael-grunder",
+          "date": "2026-06-23T15:13:56Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/327"
+    },
+    {
+      "sha": "1e726d74ff0618177bfd8f233518342493571ce3",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump the github-actions group across 1 directory with 10 updates (#322)",
+      "date": "2026-06-23T07:53:32Z",
+      "repo": "libvalkey",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "2cdedcf710d9739b7b2f1b2237587bd23c8d4a9b",
+      "author_login": "bjosv",
+      "author_id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "message": "Fix unused variable warnings in rdma.c with NDEBUG (#312)",
+      "date": "2026-06-23T07:47:47Z",
+      "repo": "libvalkey",
+      "reviewed": [
+        {
+          "login": "pizhenwei",
+          "date": "2026-05-15T08:21:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/312"
+    },
+    {
+      "sha": "662c875997ca660745c86a391edd6e7af0ca1107",
+      "author_login": "wheresNasha",
+      "author_id": 64091618,
+      "avatar_url": "https://avatars.githubusercontent.com/u/64091618?v=4",
+      "message": "Fix cluster SCAN behavior for Valkey GLIDE client (fixes #21) (#94)",
+      "date": "2026-06-23T16:41:20Z",
+      "repo": "spring-data-valkey",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ead3dc6f290a9af3bf2e2b77a8f6c1699bdb61eb",
+      "author_login": "hpatro",
+      "author_id": 30795839,
+      "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
+      "message": "Add design doc for I/O threads (#4022)",
+      "date": "2026-06-24T00:26:59Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-06-23T21:09:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4022"
+    },
+    {
+      "sha": "ebe6215928fdd9d575ec626467126df1b176bedf",
+      "author_login": "BChan-0",
+      "author_id": 213245020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/213245020?v=4",
+      "message": "Remove test failure detector workflow (#3919)",
+      "date": "2026-06-23T20:42:58Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-06-04T19:59:28Z"
+        },
+        {
+          "login": "hanxizh9910",
+          "date": "2026-06-04T20:59:55Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-06-23T20:42:04Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3919"
+    },
+    {
+      "sha": "6ac85d08208246f3b75c37f943cc81ed5b978859",
+      "author_login": "justinfung",
+      "author_id": 2661325,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661325?v=4",
+      "message": "Remove unused dict callback parameter from functionReset and related functions (#3357)",
+      "date": "2026-06-23T20:09:54Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-03-24T21:28:38Z"
+        },
+        {
+          "login": "madolson",
+          "date": "2026-06-23T20:09:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3357"
+    },
+    {
+      "sha": "ae0ec1dfe3e2e52f1d0ff326ed296c4eafb0321c",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Post AI conflict resolutions as comments on backport PRs (#42)",
+      "date": "2026-06-24T02:49:09Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "1a96dbf8cca43e8cc15fef9cd43fd6068c6af3b6",
+      "author_login": "BChan-0",
+      "author_id": 213245020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/213245020?v=4",
+      "message": "Adding support for test failure detection in valkey (#24)",
+      "date": "2026-06-23T20:48:09Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": [
+        {
+          "login": "asagege",
+          "date": "2026-06-23T00:01:04Z"
+        },
+        {
+          "login": "hanxizh9910",
+          "date": "2026-06-23T05:58:43Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-06-23T20:11:05Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-06-23T20:45:08Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/24"
+    },
+    {
+      "sha": "67c4bf2ed81a6bbedfad8f5278316df8e654e8f1",
+      "author_login": "affonsov",
+      "author_id": 67347924,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
+      "message": "Changelog: Add missing changelog entris for multi-key MIGRATE and monitor (#6185)",
+      "date": "2026-06-23T18:56:32Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-06-12T19:26:37Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-06-22T20:57:28Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-06-22T21:20:25Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6185"
+    },
+    {
+      "sha": "1821f57edf2a548e114f03731520c8618ba1c8a6",
+      "author_login": "jamesx-improving",
+      "author_id": 126831592,
+      "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
+      "message": "Node: Improve performance of Client initial connection with TLS (#6219)",
+      "date": "2026-06-23T18:26:29Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jduo",
+          "date": "2026-06-22T17:36:13Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-06-23T18:24:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6219"
+    },
+    {
+      "sha": "9c1ffa27cf2e2a00004ff5f739c45ad45080f974",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "docs: updated status for replicaof and failover commands",
+      "date": "2026-06-23T23:45:41Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3e5f9d4eb4b2de9f133af41f8c60aa0ac54b998b",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "docs: updated MONITOR command support status",
+      "date": "2026-06-23T23:31:17Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "36c91c1dc3ca141d3fc8a0bff96fea107046521f",
+      "author_login": "kiro-agent",
+      "author_id": 244629292,
+      "avatar_url": "https://avatars.githubusercontent.com/u/244629292?v=4",
+      "message": "docs: update LATENCY commands to available for Python, Node.js, Java, Go",
+      "date": "2026-06-23T23:05:54Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7ef0b7d2537bcefc1c4dc96f9beff510465607cd",
+      "author_login": "Sagar2366",
+      "author_id": 26805882,
+      "avatar_url": "https://avatars.githubusercontent.com/u/26805882?v=4",
+      "message": "feat(operator): add PodDisruptionBudget support (#193)",
+      "date": "2026-06-23T16:45:13Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-06-23T16:44:48Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/193"
+    },
+    {
+      "sha": "21dd262717e51d28f647d49ead4a73d4185768be",
+      "author_login": "melancholictheory",
+      "author_id": 61789920,
+      "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
+      "message": "feat: inject shutdown-on-sigterm failover by default (#268)",
+      "date": "2026-06-23T17:49:58Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-06-22T09:04:42Z"
+        },
+        {
+          "login": "bjosv",
+          "date": "2026-06-23T17:46:04Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/268"
+    },
+    {
+      "sha": "e49046845cc6da62a7eec756c318b3c136065e6d",
+      "author_login": "daanvinken",
+      "author_id": 47114744,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
+      "message": "fix: filter excess shard pods in scheduling issue check (#273)",
+      "date": "2026-06-23T16:47:30Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-06-23T16:47:18Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/273"
+    },
+    {
+      "sha": "98a34f70ba9cac30884e72077d9de88ecb1187a5",
+      "author_login": "daanvinken",
+      "author_id": 47114744,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
+      "message": "fix: surface ValkeyNode reconcile errors in status conditions (#257)",
+      "date": "2026-06-23T15:42:44Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "sandeepkunusoth",
+          "date": "2026-06-18T14:01:27Z"
+        },
+        {
+          "login": "jdheyburn",
+          "date": "2026-06-23T15:42:38Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/257"
+    },
+    {
+      "sha": "3a012298d724e02beeef86df43b6cbbd60de70c8",
+      "author_login": "daanvinken",
+      "author_id": 47114744,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
+      "message": "fix: scale-down blocked when excess shard pod is unschedulable (#258)",
+      "date": "2026-06-23T15:40:06Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-06-23T15:39:50Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/258"
+    },
+    {
+      "sha": "ada7859e84e0a0fd0c837247d4e54b59568c5a65",
+      "author_login": "bandalgomsu",
+      "author_id": 121839239,
+      "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
+      "message": "Fix coordinator bytes-in counting before response mutation (#1046)",
+      "date": "2026-06-24T01:16:35Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Aksha1812",
+          "date": "2026-06-22T21:18:55Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1046"
     }
   ]
 }

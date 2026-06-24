@@ -2,9 +2,9 @@
   "title": "pizhenwei",
   "login": "pizhenwei",
   "avatar_url": "https://avatars.githubusercontent.com/u/5586500?v=4",
-  "score": 43,
+  "score": 44,
   "commit_count": 33,
-  "review_count": 10,
+  "review_count": 11,
   "repos": [
     "libvalkey",
     "valkey",
@@ -277,6 +277,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2cdedcf710",
+      "message": "Fix unused variable warnings in rdma.c with NDEBUG (#312)",
+      "date": "2026-06-23",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/312",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/2cdedcf710d9739b7b2f1b2237587bd23c8d4a9b"
+    },
     {
       "sha": "75fee11c6c",
       "message": "Fixes server crash when RDMA benchmark clients disconnect (#3448)",

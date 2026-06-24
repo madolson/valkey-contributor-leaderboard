@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 38,
+  "score": 39,
   "commit_count": 19,
-  "review_count": 19,
+  "review_count": 20,
   "repos": [
     "valkey-operator"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "98a34f70ba",
+      "message": "fix: surface ValkeyNode reconcile errors in status conditions (#257)",
+      "date": "2026-06-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/257",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/98a34f70ba9cac30884e72077d9de88ecb1187a5"
+    },
     {
       "sha": "a759ded4af",
       "message": "enhancement: Use Recreate deployment strategy (#225)",

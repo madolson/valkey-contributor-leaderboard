@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 742,
+  "score": 744,
   "commit_count": 45,
-  "review_count": 697,
+  "review_count": 699,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "67c4bf2ed8",
+      "message": "Changelog: Add missing changelog entris for multi-key MIGRATE and monitor (#6185)",
+      "date": "2026-06-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6185",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67c4bf2ed81a6bbedfad8f5278316df8e654e8f1"
+    },
+    {
+      "sha": "1821f57edf",
+      "message": "Node: Improve performance of Client initial connection with TLS (#6219)",
+      "date": "2026-06-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6219",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1821f57edf2a548e114f03731520c8618ba1c8a6"
+    },
     {
       "sha": "573af4d53c",
       "message": "Added Supported Commands and Custom Command Execution page (#238)",

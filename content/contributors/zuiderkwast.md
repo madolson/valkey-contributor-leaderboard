@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1170,
+  "score": 1171,
   "commit_count": 153,
-  "review_count": 1017,
+  "review_count": 1018,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1239,6 +1239,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ead3dc6f29",
+      "message": "Add design doc for I/O threads (#4022)",
+      "date": "2026-06-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4022",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ead3dc6f290a9af3bf2e2b77a8f6c1699bdb61eb"
+    },
     {
       "sha": "bee30d47de",
       "message": "Extend zmalloc_purge to also trim the libc main arena (#3640)",

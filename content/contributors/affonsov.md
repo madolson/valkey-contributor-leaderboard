@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 162,
-  "commit_count": 88,
+  "score": 163,
+  "commit_count": 89,
   "review_count": 74,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "67c4bf2ed8",
+      "message": "Changelog: Add missing changelog entris for multi-key MIGRATE and monitor (#6185)",
+      "date": "2026-06-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6185",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67c4bf2ed81a6bbedfad8f5278316df8e654e8f1"
+    },
     {
       "sha": "94a96619ed",
       "message": "Python: Add MIGRATE KEYS (multi-key) variant (#6066)",

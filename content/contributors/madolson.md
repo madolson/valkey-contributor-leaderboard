@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 861,
+  "score": 862,
   "commit_count": 191,
-  "review_count": 670,
+  "review_count": 671,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1546,6 +1546,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6ac85d0820",
+      "message": "Remove unused dict callback parameter from functionReset and related functions (#3357)",
+      "date": "2026-06-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3357",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6ac85d08208246f3b75c37f943cc81ed5b978859"
+    },
     {
       "sha": "6774c09978",
       "message": "Add REUSE compliance for machine-readable licensing and SBOM generation (#3968)",

@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 18,
-  "commit_count": 18,
+  "score": 19,
+  "commit_count": 19,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "ada7859e84",
+      "message": "Fix coordinator bytes-in counting before response mutation (#1046)",
+      "date": "2026-06-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1046",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ada7859e84e0a0fd0c837247d4e54b59568c5a65"
+    },
     {
       "sha": "beea10a226",
       "message": "Refactor support for lua/multi on single slot indexes (#866)",

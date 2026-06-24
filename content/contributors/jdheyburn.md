@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 83,
+  "score": 88,
   "commit_count": 28,
-  "review_count": 55,
+  "review_count": 60,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -237,6 +237,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7ef0b7d253",
+      "message": "feat(operator): add PodDisruptionBudget support (#193)",
+      "date": "2026-06-23",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/193",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/7ef0b7d2537bcefc1c4dc96f9beff510465607cd"
+    },
+    {
+      "sha": "21dd262717",
+      "message": "feat: inject shutdown-on-sigterm failover by default (#268)",
+      "date": "2026-06-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/268",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/21dd262717e51d28f647d49ead4a73d4185768be"
+    },
+    {
+      "sha": "e49046845c",
+      "message": "fix: filter excess shard pods in scheduling issue check (#273)",
+      "date": "2026-06-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/273",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/e49046845cc6da62a7eec756c318b3c136065e6d"
+    },
+    {
+      "sha": "98a34f70ba",
+      "message": "fix: surface ValkeyNode reconcile errors in status conditions (#257)",
+      "date": "2026-06-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/257",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/98a34f70ba9cac30884e72077d9de88ecb1187a5"
+    },
+    {
+      "sha": "3a012298d7",
+      "message": "fix: scale-down blocked when excess shard pod is unschedulable (#258)",
+      "date": "2026-06-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/258",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3a012298d724e02beeef86df43b6cbbd60de70c8"
+    },
     {
       "sha": "4cfb2d60e6",
       "message": "feat: fail over to the highest-offset replica (#249)",

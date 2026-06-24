@@ -2,8 +2,8 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 283,
-  "commit_count": 61,
+  "score": 284,
+  "commit_count": 62,
   "review_count": 222,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "ead3dc6f29",
+      "message": "Add design doc for I/O threads (#4022)",
+      "date": "2026-06-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4022",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ead3dc6f290a9af3bf2e2b77a8f6c1699bdb61eb"
+    },
     {
       "sha": "7b4eb6f391",
       "message": "Update hpatro's affiliation (#582)",

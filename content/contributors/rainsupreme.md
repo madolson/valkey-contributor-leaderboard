@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 79,
+  "score": 80,
   "commit_count": 28,
-  "review_count": 51,
+  "review_count": 52,
   "repos": [
     "valkey",
     "valkey-perf-benchmark"
@@ -236,6 +236,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6ac85d0820",
+      "message": "Remove unused dict callback parameter from functionReset and related functions (#3357)",
+      "date": "2026-06-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3357",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6ac85d08208246f3b75c37f943cc81ed5b978859"
+    },
     {
       "sha": "bee30d47de",
       "message": "Extend zmalloc_purge to also trim the libc main arena (#3640)",

@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 346,
+  "score": 347,
   "commit_count": 114,
-  "review_count": 232,
+  "review_count": 233,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -926,6 +926,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "67c4bf2ed8",
+      "message": "Changelog: Add missing changelog entris for multi-key MIGRATE and monitor (#6185)",
+      "date": "2026-06-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6185",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67c4bf2ed81a6bbedfad8f5278316df8e654e8f1"
+    },
     {
       "sha": "49bf2d3c71",
       "message": "CI/CD workflow extraction of shared actions that other repos can use (#6218)",

@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 210,
-  "commit_count": 111,
-  "review_count": 99,
+  "score": 215,
+  "commit_count": 115,
+  "review_count": 100,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,38 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "248d7f5ce3",
+      "message": "Add c-ares support for DNS resolution with timeout (#323)",
+      "date": "2026-06-24",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/323",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/248d7f5ce3ef4ce006d1dec0b04bd24fdf37c9f5"
+    },
+    {
+      "sha": "b64aa06988",
+      "message": "Suppress constant-promotion warnings on Solaris Sun CC (#326)",
+      "date": "2026-06-23",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/326",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/b64aa06988a1afc33fa97e9ce5aaaba71bc027f5"
+    },
+    {
+      "sha": "6249038b07",
+      "message": "Replace strncpy with length-validated memcpy for Unix socket path (#327)",
+      "date": "2026-06-23",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/327",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/6249038b0794b85bc480a71639f96e5a36965a9f"
+    },
+    {
+      "sha": "2cdedcf710",
+      "message": "Fix unused variable warnings in rdma.c with NDEBUG (#312)",
+      "date": "2026-06-23",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/312",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/2cdedcf710d9739b7b2f1b2237587bd23c8d4a9b"
+    },
     {
       "sha": "3e068f0a3e",
       "message": "fix: roll primaries shard-by-shard during rolling update without persistence (#252)",
@@ -903,6 +935,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "21dd262717",
+      "message": "feat: inject shutdown-on-sigterm failover by default (#268)",
+      "date": "2026-06-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/268",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/21dd262717e51d28f647d49ead4a73d4185768be"
+    },
     {
       "sha": "45a5668d98",
       "message": "Merge pull request #171 from tkarger/patch-2",

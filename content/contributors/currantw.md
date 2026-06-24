@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 203,
+  "score": 204,
   "commit_count": 123,
-  "review_count": 80,
+  "review_count": 81,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -1007,6 +1007,14 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/428",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/1c37ba8bf79c054e3d2f2550ea37cafc87b0ccb9"
+    },
+    {
+      "sha": "67c4bf2ed8",
+      "message": "Changelog: Add missing changelog entris for multi-key MIGRATE and monitor (#6185)",
+      "date": "2026-06-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6185",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67c4bf2ed81a6bbedfad8f5278316df8e654e8f1"
     },
     {
       "sha": "c936962474",

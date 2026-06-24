@@ -2,9 +2,9 @@
   "title": "hanxizh9910",
   "login": "hanxizh9910",
   "avatar_url": "https://avatars.githubusercontent.com/u/220982061?v=4",
-  "score": 37,
+  "score": 39,
   "commit_count": 34,
-  "review_count": 3,
+  "review_count": 5,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -288,6 +288,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ebe6215928",
+      "message": "Remove test failure detector workflow (#3919)",
+      "date": "2026-06-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3919",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ebe6215928fdd9d575ec626467126df1b176bedf"
+    },
+    {
+      "sha": "1a96dbf8cc",
+      "message": "Adding support for test failure detection in valkey (#24)",
+      "date": "2026-06-23",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/24",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/1a96dbf8cca43e8cc15fef9cd43fd6068c6af3b6"
+    },
     {
       "sha": "8ee03af75f",
       "message": "fix: gate JSON.DEBUG KEYTABLE-CORRUPT behind json.debug-mode config (#98)",

@@ -2,14 +2,38 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 14,
-  "commit_count": 10,
+  "score": 17,
+  "commit_count": 13,
   "review_count": 4,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "e49046845c",
+      "message": "fix: filter excess shard pods in scheduling issue check (#273)",
+      "date": "2026-06-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/273",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/e49046845cc6da62a7eec756c318b3c136065e6d"
+    },
+    {
+      "sha": "98a34f70ba",
+      "message": "fix: surface ValkeyNode reconcile errors in status conditions (#257)",
+      "date": "2026-06-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/257",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/98a34f70ba9cac30884e72077d9de88ecb1187a5"
+    },
+    {
+      "sha": "3a012298d7",
+      "message": "fix: scale-down blocked when excess shard pod is unschedulable (#258)",
+      "date": "2026-06-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/258",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3a012298d724e02beeef86df43b6cbbd60de70c8"
+    },
     {
       "sha": "10a5affed8",
       "message": "feat: add operator-specific Prometheus metrics (#159)",

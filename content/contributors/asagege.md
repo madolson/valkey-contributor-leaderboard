@@ -2,9 +2,9 @@
   "title": "asagege",
   "login": "asagege",
   "avatar_url": "https://avatars.githubusercontent.com/u/124027677?v=4",
-  "score": 9,
+  "score": 10,
   "commit_count": 9,
-  "review_count": 0,
+  "review_count": 1,
   "repos": [
     "valkey"
   ],
@@ -82,5 +82,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/1c5572fed0c6d1fe3dc0094cb72283555df0bb48"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "1a96dbf8cc",
+      "message": "Adding support for test failure detection in valkey (#24)",
+      "date": "2026-06-23",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/24",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/1a96dbf8cca43e8cc15fef9cd43fd6068c6af3b6"
+    }
+  ]
 }
