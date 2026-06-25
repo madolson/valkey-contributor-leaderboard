@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 154,
+  "score": 156,
   "commit_count": 50,
-  "review_count": 104,
+  "review_count": 106,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -417,6 +417,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ac0fe94987",
+      "message": "dev(python): add `clean` command to `dev.py` (#6320)",
+      "date": "2026-06-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6320",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ac0fe94987faec4cba7946282889b06202cf400c"
+    },
+    {
+      "sha": "7a3482cceb",
+      "message": "fix(node): use only primary address in Static mode write test (#5997)",
+      "date": "2026-06-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5997",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7a3482cceb3a9c947a8395aab6064b6acd5312a2"
+    },
     {
       "sha": "34b196eb6a",
       "message": "Add `LATENCY HISTORY`, `LATEST`, and `RESET` command support (#6257)",

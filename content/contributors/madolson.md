@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 862,
+  "score": 863,
   "commit_count": 191,
-  "review_count": 671,
+  "review_count": 672,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1546,6 +1546,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c4cfa0fba2",
+      "message": "Skip NOT_KEY commands in client tracking (#3699)",
+      "date": "2026-06-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3699",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c4cfa0fba252a9881ecf025edcca03d8e880f4b6"
+    },
     {
       "sha": "6ac85d0820",
       "message": "Remove unused dict callback parameter from functionReset and related functions (#3357)",

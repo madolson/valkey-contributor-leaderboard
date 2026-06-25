@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 248,
+  "score": 249,
   "commit_count": 55,
-  "review_count": 193,
+  "review_count": 194,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -454,6 +454,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cb6a47371a",
+      "message": "fix(python): use response_buffer.nbytes for buffer GET capacity (#6311)",
+      "date": "2026-06-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6311",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cb6a47371a53cdfe093b56de90f2802456894754"
+    },
     {
       "sha": "1821f57edf",
       "message": "Node: Improve performance of Client initial connection with TLS (#6219)",

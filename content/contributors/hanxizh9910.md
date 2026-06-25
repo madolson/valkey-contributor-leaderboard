@@ -2,8 +2,8 @@
   "title": "hanxizh9910",
   "login": "hanxizh9910",
   "avatar_url": "https://avatars.githubusercontent.com/u/220982061?v=4",
-  "score": 39,
-  "commit_count": 34,
+  "score": 40,
+  "commit_count": 35,
   "review_count": 5,
   "repos": [
     "valkey",
@@ -11,9 +11,18 @@
     "valkey-container",
     "valkey-doc",
     "valkey-json",
+    "valkey-perf-benchmark",
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "67021836ff",
+      "message": " Add automated performance regression detection and notification (#57)",
+      "date": "2026-06-24",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/57",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/67021836ffee0e77e558cad0b8deb06d6fb5972c"
+    },
     {
       "sha": "199d49a432",
       "message": "Automatically create github issues for test failures from daily CI runs (#3358)",

@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 307,
-  "commit_count": 88,
-  "review_count": 219,
+  "score": 310,
+  "commit_count": 89,
+  "review_count": 221,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "79bca53000",
+      "message": "Reduce io-threads modifiability test iterations under Valgrind (#3980)",
+      "date": "2026-06-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3980",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/79bca53000d0821f44777507e358eabd4519a65f"
+    },
     {
       "sha": "948aaf8b42",
       "message": "Deflake cluster-shards \"same shard id after restart\" test (#3949)",
@@ -718,6 +726,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2253589b2e",
+      "message": "Increase max proctitle length from 255 to 1024 (#3843)",
+      "date": "2026-06-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3843",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2253589b2e2193390d1237d8240ff72a374639c1"
+    },
+    {
+      "sha": "67021836ff",
+      "message": " Add automated performance regression detection and notification (#57)",
+      "date": "2026-06-24",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/57",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/67021836ffee0e77e558cad0b8deb06d6fb5972c"
+    },
     {
       "sha": "ebe6215928",
       "message": "Remove test failure detector workflow (#3919)",

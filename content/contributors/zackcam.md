@@ -2,8 +2,8 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 64,
-  "commit_count": 41,
+  "score": 66,
+  "commit_count": 43,
   "review_count": 23,
   "repos": [
     "valkey",
@@ -15,6 +15,22 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "5e2f9fd316",
+      "message": "Making it so ASAN failures fail the CI workflows (#115)",
+      "date": "2026-06-24",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/115",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/5e2f9fd3161eebffeb18d4fc73bba7c1ded793cd"
+    },
+    {
+      "sha": "62aec99cac",
+      "message": "fixing heap-use-after-free bugs in JSON.MSET by closing key handles (ValkeyModule_CloseKey) within the operation loop (#116)",
+      "date": "2026-06-24",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/116",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/62aec99cacc5359388349ec72a0b01de58ce9495"
+    },
     {
       "sha": "faf58c3395",
       "message": "Fixing out of range crash (#109)",

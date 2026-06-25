@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 744,
+  "score": 748,
   "commit_count": 45,
-  "review_count": 699,
+  "review_count": 703,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ac0fe94987",
+      "message": "dev(python): add `clean` command to `dev.py` (#6320)",
+      "date": "2026-06-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6320",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ac0fe94987faec4cba7946282889b06202cf400c"
+    },
+    {
+      "sha": "7a3482cceb",
+      "message": "fix(node): use only primary address in Static mode write test (#5997)",
+      "date": "2026-06-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5997",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7a3482cceb3a9c947a8395aab6064b6acd5312a2"
+    },
+    {
+      "sha": "4996a81b33",
+      "message": "Fix scriptKill_unkillable flaky test (#6055)",
+      "date": "2026-06-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6055",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4996a81b334f3b05ebedaaafefed818ff9afd15c"
+    },
+    {
+      "sha": "0344e6ddc1",
+      "message": "Fix flaky test_sync_pubsub_combined_exact_and_pattern_one_client (#6089)",
+      "date": "2026-06-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6089",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0344e6ddc1cd8d5fc0fdd645fa47eb9a5452d2e6"
+    },
     {
       "sha": "67c4bf2ed8",
       "message": "Changelog: Add missing changelog entris for multi-key MIGRATE and monitor (#6185)",

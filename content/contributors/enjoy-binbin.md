@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 883,
-  "commit_count": 345,
-  "review_count": 538,
+  "score": 888,
+  "commit_count": 347,
+  "review_count": 541,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -13,6 +13,22 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "0473793194",
+      "message": "Tighten NOT_KEY handling and add test coverage for NOT_KEY commands (#3675)",
+      "date": "2026-06-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3675",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/04737931942da5ec27571061643f17ac2e92bb1f"
+    },
+    {
+      "sha": "21f5000e73",
+      "message": "Make commandlog-request-larger-than and commandlog-reply-larger-than become SIGNED_MEMORY_CONFIG (#2648)",
+      "date": "2026-06-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2648",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/21f5000e7361a46edb663ab2f62502fdb13a6b39"
+    },
     {
       "sha": "ed6e9a91d7",
       "message": "Enable multi-command parsing for replicated clients (#3597)",
@@ -2775,6 +2791,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c4cfa0fba2",
+      "message": "Skip NOT_KEY commands in client tracking (#3699)",
+      "date": "2026-06-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3699",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c4cfa0fba252a9881ecf025edcca03d8e880f4b6"
+    },
+    {
+      "sha": "79bca53000",
+      "message": "Reduce io-threads modifiability test iterations under Valgrind (#3980)",
+      "date": "2026-06-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3980",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/79bca53000d0821f44777507e358eabd4519a65f"
+    },
+    {
+      "sha": "2253589b2e",
+      "message": "Increase max proctitle length from 255 to 1024 (#3843)",
+      "date": "2026-06-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3843",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2253589b2e2193390d1237d8240ff72a374639c1"
+    },
     {
       "sha": "bee30d47de",
       "message": "Extend zmalloc_purge to also trim the libc main arena (#3640)",

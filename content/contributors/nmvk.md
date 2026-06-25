@@ -2,14 +2,22 @@
   "title": "nmvk",
   "login": "nmvk",
   "avatar_url": "https://avatars.githubusercontent.com/u/1668438?v=4",
-  "score": 12,
-  "commit_count": 7,
-  "review_count": 5,
+  "score": 15,
+  "commit_count": 8,
+  "review_count": 7,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "c4cfa0fba2",
+      "message": "Skip NOT_KEY commands in client tracking (#3699)",
+      "date": "2026-06-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3699",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c4cfa0fba252a9881ecf025edcca03d8e880f4b6"
+    },
     {
       "sha": "96a6bc5d27",
       "message": "Fix the memory leak in valkey-benchmark (#3643)",
@@ -68,6 +76,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0473793194",
+      "message": "Tighten NOT_KEY handling and add test coverage for NOT_KEY commands (#3675)",
+      "date": "2026-06-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3675",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/04737931942da5ec27571061643f17ac2e92bb1f"
+    },
+    {
+      "sha": "0473793194",
+      "message": "Tighten NOT_KEY handling and add test coverage for NOT_KEY commands (#3675)",
+      "date": "2026-06-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3675",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/04737931942da5ec27571061643f17ac2e92bb1f"
+    },
     {
       "sha": "86acf8d337",
       "message": "Stabilize CLUSTERSCAN unassigned-slot test by retrying DELSLOTS (#3959)",

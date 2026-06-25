@@ -2,13 +2,21 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 83,
-  "commit_count": 60,
-  "review_count": 23,
+  "score": 85,
+  "commit_count": 61,
+  "review_count": 24,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "0a58993ead",
+      "message": "Refactor connectionId, nodeId, clusterId (#375)",
+      "date": "2026-06-24",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/375",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/0a58993ead4199b3cba437a779f87450274ee201"
+    },
     {
       "sha": "384bf306ee",
       "message": "Add db to cluster client nodes. (#368)",
@@ -491,6 +499,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6d0e8e01d9",
+      "message": " Improve error handling for unsupported server commands (#373)",
+      "date": "2026-06-24",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/373",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/6d0e8e01d94ad7d0aadf29d547e66d66571b0935"
+    },
     {
       "sha": "5b8d610e8e",
       "message": "Set NodeDiscoveryMode to Static in client creation (#371)",

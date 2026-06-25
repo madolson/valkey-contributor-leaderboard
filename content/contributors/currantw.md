@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 204,
-  "commit_count": 123,
-  "review_count": 81,
+  "score": 208,
+  "commit_count": 124,
+  "review_count": 84,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "ac0fe94987",
+      "message": "dev(python): add `clean` command to `dev.py` (#6320)",
+      "date": "2026-06-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6320",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ac0fe94987faec4cba7946282889b06202cf400c"
+    },
     {
       "sha": "34b196eb6a",
       "message": "Add `LATENCY HISTORY`, `LATEST`, and `RESET` command support (#6257)",
@@ -1000,6 +1008,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cb6a47371a",
+      "message": "fix(python): use response_buffer.nbytes for buffer GET capacity (#6311)",
+      "date": "2026-06-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6311",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cb6a47371a53cdfe093b56de90f2802456894754"
+    },
+    {
+      "sha": "4996a81b33",
+      "message": "Fix scriptKill_unkillable flaky test (#6055)",
+      "date": "2026-06-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6055",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4996a81b334f3b05ebedaaafefed818ff9afd15c"
+    },
+    {
+      "sha": "0344e6ddc1",
+      "message": "Fix flaky test_sync_pubsub_combined_exact_and_pattern_one_client (#6089)",
+      "date": "2026-06-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6089",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0344e6ddc1cd8d5fc0fdd645fa47eb9a5452d2e6"
+    },
     {
       "sha": "1c37ba8bf7",
       "message": "chore(deps): bump the minor-updates group with 2 updates (#428)",

@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 163,
+  "score": 164,
   "commit_count": 89,
-  "review_count": 74,
+  "review_count": 75,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -726,6 +726,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cb6a47371a",
+      "message": "fix(python): use response_buffer.nbytes for buffer GET capacity (#6311)",
+      "date": "2026-06-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6311",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cb6a47371a53cdfe093b56de90f2802456894754"
+    },
     {
       "sha": "c0984ef12d",
       "message": "deps(node): fix transitive dev-only advisories in node/ and examples/node/ (js-yaml, markdown-it, @babel/core, minimatch) (#6277)",

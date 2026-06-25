@@ -2,13 +2,21 @@
   "title": "omerrubi-amzn",
   "login": "omerrubi-amzn",
   "avatar_url": "https://avatars.githubusercontent.com/u/169974275?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-glide"
   ],
   "commit_list": [
+    {
+      "sha": "cb6a47371a",
+      "message": "fix(python): use response_buffer.nbytes for buffer GET capacity (#6311)",
+      "date": "2026-06-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6311",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cb6a47371a53cdfe093b56de90f2802456894754"
+    },
     {
       "sha": "3e44f331f2",
       "message": "feat(python-sync): add response buffer support to get() to improve performance by reducing copies (#5493)",

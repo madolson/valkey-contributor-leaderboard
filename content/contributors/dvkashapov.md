@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 97,
+  "score": 98,
   "commit_count": 24,
-  "review_count": 73,
+  "review_count": 74,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -206,6 +206,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2253589b2e",
+      "message": "Increase max proctitle length from 255 to 1024 (#3843)",
+      "date": "2026-06-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3843",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2253589b2e2193390d1237d8240ff72a374639c1"
+    },
     {
       "sha": "ca8c1bb7f6",
       "message": "Bump softprops/action-gh-release from 3.0.0 to 3.0.1 (#32)",

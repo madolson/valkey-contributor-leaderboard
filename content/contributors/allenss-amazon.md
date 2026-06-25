@@ -2,15 +2,31 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 261,
-  "commit_count": 60,
-  "review_count": 201,
+  "score": 265,
+  "commit_count": 62,
+  "review_count": 203,
   "repos": [
     "valkey",
     "valkey-json",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "4174285614",
+      "message": "Drain in-flight async query operations before shutting down in cancel/timeout tests (#1087)",
+      "date": "2026-06-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1087",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/4174285614df79b23b1be885d2c3bfea18fa65da"
+    },
+    {
+      "sha": "5d95e4c757",
+      "message": "Guard against disengaged optional in InTrackedMutationRecords (#1120)",
+      "date": "2026-06-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1120",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5d95e4c757599ab828b8c0cab5c684226883b23d"
+    },
     {
       "sha": "d900f01552",
       "message": "Reimplement TAG field using RAX tree to save space. (#1031)",
@@ -493,6 +509,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ec0c01a133",
+      "message": "Minor fix : Fix _cluster_slots_complete to treat empty CLUSTER SLOTS as incomplete (#1181)",
+      "date": "2026-06-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1181",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ec0c01a13367abf3183b5b4211d0d999ab04526c"
+    },
+    {
+      "sha": "29ab9f3046",
+      "message": "Workaround fix for ostringstream crash (#1032)",
+      "date": "2026-06-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1032",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/29ab9f30462f0a6e06ea4a4692dfbe0baac47131"
+    },
     {
       "sha": "ce011fb699",
       "message": "Fix Race condition in VectorHNSW::AddRecordImpl during concurrent HSET with HNSW vector index (#1079)",

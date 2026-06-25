@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1171,
+  "score": 1174,
   "commit_count": 153,
-  "review_count": 1018,
+  "review_count": 1021,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1240,12 +1240,36 @@
   ],
   "review_list": [
     {
+      "sha": "0473793194",
+      "message": "Tighten NOT_KEY handling and add test coverage for NOT_KEY commands (#3675)",
+      "date": "2026-06-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3675",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/04737931942da5ec27571061643f17ac2e92bb1f"
+    },
+    {
       "sha": "ead3dc6f29",
       "message": "Add design doc for I/O threads (#4022)",
       "date": "2026-06-24",
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4022",
       "commit_url": "https://github.com/valkey-io/valkey/commit/ead3dc6f290a9af3bf2e2b77a8f6c1699bdb61eb"
+    },
+    {
+      "sha": "79bca53000",
+      "message": "Reduce io-threads modifiability test iterations under Valgrind (#3980)",
+      "date": "2026-06-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3980",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/79bca53000d0821f44777507e358eabd4519a65f"
+    },
+    {
+      "sha": "21f5000e73",
+      "message": "Make commandlog-request-larger-than and commandlog-reply-larger-than become SIGNED_MEMORY_CONFIG (#2648)",
+      "date": "2026-06-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2648",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/21f5000e7361a46edb663ab2f62502fdb13a6b39"
     },
     {
       "sha": "bee30d47de",

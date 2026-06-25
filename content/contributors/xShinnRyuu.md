@@ -2,14 +2,38 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 298,
-  "commit_count": 71,
+  "score": 301,
+  "commit_count": 74,
   "review_count": 227,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "7a3482cceb",
+      "message": "fix(node): use only primary address in Static mode write test (#5997)",
+      "date": "2026-06-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5997",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7a3482cceb3a9c947a8395aab6064b6acd5312a2"
+    },
+    {
+      "sha": "4996a81b33",
+      "message": "Fix scriptKill_unkillable flaky test (#6055)",
+      "date": "2026-06-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6055",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4996a81b334f3b05ebedaaafefed818ff9afd15c"
+    },
+    {
+      "sha": "0344e6ddc1",
+      "message": "Fix flaky test_sync_pubsub_combined_exact_and_pattern_one_client (#6089)",
+      "date": "2026-06-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6089",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0344e6ddc1cd8d5fc0fdd645fa47eb9a5452d2e6"
+    },
     {
       "sha": "c0984ef12d",
       "message": "deps(node): fix transitive dev-only advisories in node/ and examples/node/ (js-yaml, markdown-it, @babel/core, minimatch) (#6277)",

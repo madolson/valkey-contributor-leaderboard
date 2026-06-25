@@ -2,13 +2,21 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 66,
-  "commit_count": 39,
+  "score": 67,
+  "commit_count": 40,
   "review_count": 27,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "29ab9f3046",
+      "message": "Workaround fix for ostringstream crash (#1032)",
+      "date": "2026-06-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1032",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/29ab9f30462f0a6e06ea4a4692dfbe0baac47131"
+    },
     {
       "sha": "1a43d0b5c1",
       "message": "Fix reclaimable_memory underflow issue (#1131)",

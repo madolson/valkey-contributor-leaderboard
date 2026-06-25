@@ -2,14 +2,22 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 81,
-  "commit_count": 51,
-  "review_count": 30,
+  "score": 84,
+  "commit_count": 52,
+  "review_count": 32,
   "repos": [
     "valkey-ci-agent",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "ec0c01a133",
+      "message": "Minor fix : Fix _cluster_slots_complete to treat empty CLUSTER SLOTS as incomplete (#1181)",
+      "date": "2026-06-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1181",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ec0c01a13367abf3183b5b4211d0d999ab04526c"
+    },
     {
       "sha": "ce011fb699",
       "message": "Fix Race condition in VectorHNSW::AddRecordImpl during concurrent HSET with HNSW vector index (#1079)",
@@ -420,6 +428,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4174285614",
+      "message": "Drain in-flight async query operations before shutting down in cancel/timeout tests (#1087)",
+      "date": "2026-06-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1087",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/4174285614df79b23b1be885d2c3bfea18fa65da"
+    },
+    {
+      "sha": "5d95e4c757",
+      "message": "Guard against disengaged optional in InTrackedMutationRecords (#1120)",
+      "date": "2026-06-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1120",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5d95e4c757599ab828b8c0cab5c684226883b23d"
+    },
     {
       "sha": "ada7859e84",
       "message": "Fix coordinator bytes-in counting before response mutation (#1046)",

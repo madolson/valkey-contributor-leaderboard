@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 369,
+  "score": 372,
   "commit_count": 142,
-  "review_count": 227,
+  "review_count": 230,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1157,6 +1157,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5e2f9fd316",
+      "message": "Making it so ASAN failures fail the CI workflows (#115)",
+      "date": "2026-06-24",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/115",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/5e2f9fd3161eebffeb18d4fc73bba7c1ded793cd"
+    },
+    {
+      "sha": "62aec99cac",
+      "message": "fixing heap-use-after-free bugs in JSON.MSET by closing key handles (ValkeyModule_CloseKey) within the operation loop (#116)",
+      "date": "2026-06-24",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/116",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/62aec99cacc5359388349ec72a0b01de58ce9495"
+    },
+    {
+      "sha": "67021836ff",
+      "message": " Add automated performance regression detection and notification (#57)",
+      "date": "2026-06-24",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/57",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/67021836ffee0e77e558cad0b8deb06d6fb5972c"
+    },
     {
       "sha": "4f11dd6355",
       "message": "Add Sarthak Aggarwal as a committer (#3975)",
