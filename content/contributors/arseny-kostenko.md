@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 209,
+  "score": 210,
   "commit_count": 19,
-  "review_count": 190,
+  "review_count": 191,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c45e48e374",
+      "message": "End to end implementation of big keys from metrics, to server and to \u2026 (#376)",
+      "date": "2026-06-25",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/376",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/c45e48e374bc43a8e443b654b340c1511be78de4"
+    },
     {
       "sha": "5cb824cce1",
       "message": "commands with no parameters will no longer get a trailing space and the ones with parameter will do (#372)",

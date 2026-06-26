@@ -2,13 +2,22 @@
   "title": "kiro-agent",
   "login": "kiro-agent",
   "avatar_url": "https://avatars.githubusercontent.com/u/244629292?v=4",
-  "score": 1,
-  "commit_count": 1,
+  "score": 2,
+  "commit_count": 2,
   "review_count": 0,
   "repos": [
-    "valkey-admin"
+    "valkey-admin",
+    "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "47b03e12e7",
+      "message": "docs: added notes on supported event loop for Python",
+      "date": "2026-06-25",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/242",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/47b03e12e7dd084d76015c61b4b4ee1d44f7f0cb"
+    },
     {
       "sha": "5eabfeb213",
       "message": "Refactor auto-connection logic to epic and update README for Electron support",

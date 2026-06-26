@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 888,
+  "score": 889,
   "commit_count": 347,
-  "review_count": 541,
+  "review_count": 542,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2798,6 +2798,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3699",
       "commit_url": "https://github.com/valkey-io/valkey/commit/c4cfa0fba252a9881ecf025edcca03d8e880f4b6"
+    },
+    {
+      "sha": "d38ff73aa2",
+      "message": "Fix HGETDEL FIELDS token validation (#4049)",
+      "date": "2026-06-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4049",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d38ff73aa251432a0e58c179decca5365d85b345"
     },
     {
       "sha": "79bca53000",

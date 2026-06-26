@@ -156216,6 +156216,267 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1032"
+    },
+    {
+      "sha": "d38ff73aa251432a0e58c179decca5365d85b345",
+      "author_login": "lcxn123",
+      "author_id": 156999965,
+      "avatar_url": "https://avatars.githubusercontent.com/u/156999965?v=4",
+      "message": "Fix HGETDEL FIELDS token validation (#4049)",
+      "date": "2026-06-25T12:55:31Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-06-24T22:46:38Z"
+        },
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-06-25T12:55:05Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4049"
+    },
+    {
+      "sha": "c45e48e374bc43a8e443b654b340c1511be78de4",
+      "author_login": "nassery318",
+      "author_id": 86083902,
+      "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
+      "message": "End to end implementation of big keys from metrics, to server and to \u2026 (#376)",
+      "date": "2026-06-25T18:48:01Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "arseny-kostenko",
+          "date": "2026-06-25T18:46:37Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/376"
+    },
+    {
+      "sha": "1f80cd9ab5a9993922faa57c24809dc039c9095b",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Skip scheduled fuzzer monitor on forks (#43)",
+      "date": "2026-06-25T16:22:51Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "9f9c942915471f4768ca190e4fcba77dc23957f2",
+      "author_login": "affonsov",
+      "author_id": 67347924,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
+      "message": "Python: fix MonitorClient trio compatibility via anyio (#6327)",
+      "date": "2026-06-26T01:01:34Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-06-25T16:58:30Z"
+        },
+        {
+          "login": "jduo",
+          "date": "2026-06-25T21:12:53Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6327"
+    },
+    {
+      "sha": "47b03e12e7dd084d76015c61b4b4ee1d44f7f0cb",
+      "author_login": "kiro-agent",
+      "author_id": 244629292,
+      "avatar_url": "https://avatars.githubusercontent.com/u/244629292?v=4",
+      "message": "docs: added notes on supported event loop for Python",
+      "date": "2026-06-25T16:07:00Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "jduo",
+          "date": "2026-06-24T22:17:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/242"
+    },
+    {
+      "sha": "107aa7b0ba81bbe0d8ff300a9292d4068a37672d",
+      "author_login": "affonsov",
+      "author_id": 67347924,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
+      "message": "docs: Add MONITOR command documentation and update routing",
+      "date": "2026-06-25T15:56:35Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-06-24T20:39:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/255"
+    },
+    {
+      "sha": "21bec1054b83f0897073744994ff8b5d6c6b952a",
+      "author_login": "Bloodraven21",
+      "author_id": 60031755,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60031755?v=4",
+      "message": "Merge pull request #197 from somaz94/feat/operator-aggregated-clusterroles",
+      "date": "2026-06-26T04:37:09Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "daanvinken",
+          "date": "2026-06-25T18:03:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/197"
+    },
+    {
+      "sha": "9050bc1ca76bc6ad9459a3a8107dd8b021d40ace",
+      "author_login": "somaz94",
+      "author_id": 112675579,
+      "avatar_url": "https://avatars.githubusercontent.com/u/112675579?v=4",
+      "message": "feat(operator): add aggregated admin/editor/viewer ClusterRoles for Valkey CRDs",
+      "date": "2026-06-26T01:37:24Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "Bloodraven21",
+          "date": "2026-06-25T07:30:32Z"
+        },
+        {
+          "login": "daanvinken",
+          "date": "2026-06-25T18:03:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/197"
+    },
+    {
+      "sha": "9b9d78b042aa715e266c83e9e9c1afb5996f6058",
+      "author_login": "somaz94",
+      "author_id": 112675579,
+      "avatar_url": "https://avatars.githubusercontent.com/u/112675579?v=4",
+      "message": "feat(operator): add topologySpreadConstraints support to valkey-operator chart (#195)",
+      "date": "2026-06-25T11:01:37Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "Bloodraven21",
+          "date": "2026-06-25T10:33:58Z"
+        },
+        {
+          "login": "jdheyburn",
+          "date": "2026-06-25T11:01:31Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/195"
+    },
+    {
+      "sha": "6dcb2903958014a9efa05e4fa529a762fbe43f38",
+      "author_login": "hieu2102",
+      "author_id": 13182932,
+      "avatar_url": "https://avatars.githubusercontent.com/u/13182932?v=4",
+      "message": "change RL10 image to rockylinux/rockylinux:10",
+      "date": "2026-06-25T08:49:44Z",
+      "repo": "valkey-ldap",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "8ea79744d8c2f54f831a1f93625967865642e163",
+      "author_login": "hieu2102",
+      "author_id": 13182932,
+      "avatar_url": "https://avatars.githubusercontent.com/u/13182932?v=4",
+      "message": "add rockylinux 10 to package platforms",
+      "date": "2026-06-25T08:49:44Z",
+      "repo": "valkey-ldap",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "2cd7db387b6c00a8fec01f4336fa8978fd3e8f8b",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump deps/luajit from `8e6520a` to `9d145d2`",
+      "date": "2026-06-25T17:15:54Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "secwall",
+          "date": "2026-06-25T17:15:48Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/34"
+    },
+    {
+      "sha": "f6f9cafa4b25b7a119cac2c3f53f1c77b3919a3c",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Enable thread-safety checking, fix violations it found. (#1082)",
+      "date": "2026-06-26T04:00:25Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Aksha1812",
+          "date": "2026-06-25T23:44:52Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1082"
+    },
+    {
+      "sha": "cf1c9bb26a39c92a3783e66f88028988e421dc79",
+      "author_login": "Aksha1812",
+      "author_id": 48383029,
+      "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
+      "message": "JSON string values with backslash escapes are indexed un-decoded (#1174)",
+      "date": "2026-06-25T22:14:02Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-06-25T22:13:52Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1174"
+    },
+    {
+      "sha": "fa920966a6868beee1c4b83affc8c9f5042e7157",
+      "author_login": "bandalgomsu",
+      "author_id": 121839239,
+      "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
+      "message": "Allow FT._debug to use when client is admin (#914)",
+      "date": "2026-06-25T17:59:41Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "KarthikSubbarao",
+          "date": "2026-06-25T17:57:49Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/914"
+    },
+    {
+      "sha": "067b45462160179820b96789e620116ce8c90a48",
+      "author_login": "Aksha1812",
+      "author_id": 48383029,
+      "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
+      "message": "Replace deque with flat hash map for tracked_vectors (#1015)",
+      "date": "2026-06-25T17:48:22Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-05-05T16:46:14Z"
+        },
+        {
+          "login": "allenss-amazon",
+          "date": "2026-06-25T17:34:16Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1015"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 19,
-  "commit_count": 19,
+  "score": 20,
+  "commit_count": 20,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "fa920966a6",
+      "message": "Allow FT._debug to use when client is admin (#914)",
+      "date": "2026-06-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/914",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/fa920966a6868beee1c4b83affc8c9f5042e7157"
+    },
     {
       "sha": "ada7859e84",
       "message": "Fix coordinator bytes-in counting before response mutation (#1046)",

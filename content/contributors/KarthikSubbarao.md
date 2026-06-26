@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 255,
+  "score": 256,
   "commit_count": 96,
-  "review_count": 159,
+  "review_count": 160,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -785,6 +785,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fa920966a6",
+      "message": "Allow FT._debug to use when client is admin (#914)",
+      "date": "2026-06-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/914",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/fa920966a6868beee1c4b83affc8c9f5042e7157"
+    },
     {
       "sha": "66bbdce0c1",
       "message": "Fix compatibility test suite (#1009)",

@@ -2,9 +2,9 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 17,
+  "score": 19,
   "commit_count": 13,
-  "review_count": 4,
+  "review_count": 6,
   "repos": [
     "valkey-helm",
     "valkey-operator"
@@ -116,6 +116,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "21bec1054b",
+      "message": "Merge pull request #197 from somaz94/feat/operator-aggregated-clusterroles",
+      "date": "2026-06-26",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/197",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/21bec1054b83f0897073744994ff8b5d6c6b952a"
+    },
+    {
+      "sha": "9050bc1ca7",
+      "message": "feat(operator): add aggregated admin/editor/viewer ClusterRoles for Valkey CRDs",
+      "date": "2026-06-26",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/197",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/9050bc1ca76bc6ad9459a3a8107dd8b021d40ace"
+    },
     {
       "sha": "b272a09c86",
       "message": "[docs] Add quickstart guide and restructure README for v0.1.0 (#155)",

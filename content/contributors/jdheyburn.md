@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 91,
+  "score": 92,
   "commit_count": 30,
-  "review_count": 61,
+  "review_count": 62,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -253,6 +253,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9b9d78b042",
+      "message": "feat(operator): add topologySpreadConstraints support to valkey-operator chart (#195)",
+      "date": "2026-06-25",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/195",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/9b9d78b042aa715e266c83e9e9c1afb5996f6058"
+    },
     {
       "sha": "dd42ccac70",
       "message": "added networkPolicy to valkey operator helm chart (#194)",

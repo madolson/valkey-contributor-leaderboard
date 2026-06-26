@@ -2,15 +2,23 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 265,
-  "commit_count": 62,
-  "review_count": 203,
+  "score": 269,
+  "commit_count": 63,
+  "review_count": 206,
   "repos": [
     "valkey",
     "valkey-json",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "f6f9cafa4b",
+      "message": "Enable thread-safety checking, fix violations it found. (#1082)",
+      "date": "2026-06-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1082",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/f6f9cafa4b25b7a119cac2c3f53f1c77b3919a3c"
+    },
     {
       "sha": "4174285614",
       "message": "Drain in-flight async query operations before shutting down in cancel/timeout tests (#1087)",
@@ -524,6 +532,30 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1032",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/29ab9f30462f0a6e06ea4a4692dfbe0baac47131"
+    },
+    {
+      "sha": "cf1c9bb26a",
+      "message": "JSON string values with backslash escapes are indexed un-decoded (#1174)",
+      "date": "2026-06-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1174",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/cf1c9bb26a39c92a3783e66f88028988e421dc79"
+    },
+    {
+      "sha": "067b454621",
+      "message": "Replace deque with flat hash map for tracked_vectors (#1015)",
+      "date": "2026-06-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1015",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/067b45462160179820b96789e620116ce8c90a48"
+    },
+    {
+      "sha": "067b454621",
+      "message": "Replace deque with flat hash map for tracked_vectors (#1015)",
+      "date": "2026-06-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1015",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/067b45462160179820b96789e620116ce8c90a48"
     },
     {
       "sha": "ce011fb699",

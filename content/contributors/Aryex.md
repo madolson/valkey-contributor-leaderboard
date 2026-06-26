@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 156,
+  "score": 158,
   "commit_count": 50,
-  "review_count": 106,
+  "review_count": 108,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -418,12 +418,28 @@
   ],
   "review_list": [
     {
+      "sha": "9f9c942915",
+      "message": "Python: fix MonitorClient trio compatibility via anyio (#6327)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6327",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9f9c942915471f4768ca190e4fcba77dc23957f2"
+    },
+    {
       "sha": "ac0fe94987",
       "message": "dev(python): add `clean` command to `dev.py` (#6320)",
       "date": "2026-06-25",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6320",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ac0fe94987faec4cba7946282889b06202cf400c"
+    },
+    {
+      "sha": "107aa7b0ba",
+      "message": "docs: Add MONITOR command documentation and update routing",
+      "date": "2026-06-25",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/255",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/107aa7b0ba81bbe0d8ff300a9292d4068a37672d"
     },
     {
       "sha": "7a3482cceb",

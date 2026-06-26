@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 114,
-  "commit_count": 100,
+  "score": 115,
+  "commit_count": 101,
   "review_count": 14,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "c45e48e374",
+      "message": "End to end implementation of big keys from metrics, to server and to \u2026 (#376)",
+      "date": "2026-06-25",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/376",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/c45e48e374bc43a8e443b654b340c1511be78de4"
+    },
     {
       "sha": "5cb824cce1",
       "message": "commands with no parameters will no longer get a trailing space and the ones with parameter will do (#372)",

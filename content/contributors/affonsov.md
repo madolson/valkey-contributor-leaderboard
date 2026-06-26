@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 164,
-  "commit_count": 89,
+  "score": 166,
+  "commit_count": 91,
   "review_count": 75,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,22 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "9f9c942915",
+      "message": "Python: fix MonitorClient trio compatibility via anyio (#6327)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6327",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9f9c942915471f4768ca190e4fcba77dc23957f2"
+    },
+    {
+      "sha": "107aa7b0ba",
+      "message": "docs: Add MONITOR command documentation and update routing",
+      "date": "2026-06-25",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/255",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/107aa7b0ba81bbe0d8ff300a9292d4068a37672d"
+    },
     {
       "sha": "67c4bf2ed8",
       "message": "Changelog: Add missing changelog entris for multi-key MIGRATE and monitor (#6185)",

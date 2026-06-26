@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 249,
+  "score": 251,
   "commit_count": 55,
-  "review_count": 194,
+  "review_count": 196,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -454,6 +454,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9f9c942915",
+      "message": "Python: fix MonitorClient trio compatibility via anyio (#6327)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6327",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9f9c942915471f4768ca190e4fcba77dc23957f2"
+    },
+    {
+      "sha": "47b03e12e7",
+      "message": "docs: added notes on supported event loop for Python",
+      "date": "2026-06-25",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/242",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/47b03e12e7dd084d76015c61b4b4ee1d44f7f0cb"
+    },
     {
       "sha": "cb6a47371a",
       "message": "fix(python): use response_buffer.nbytes for buffer GET capacity (#6311)",
