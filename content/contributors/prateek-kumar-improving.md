@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 347,
-  "commit_count": 114,
-  "review_count": 233,
+  "score": 349,
+  "commit_count": 115,
+  "review_count": 234,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "e95bd4a4d8",
+      "message": "PHP: Fix pie install (#229)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/229",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/e95bd4a4d819d1bb74e61d173e51222485539e45"
+    },
     {
       "sha": "16492a5a59",
       "message": "Node, Python, GO: Add failover and replicaOf commands (#6222)",
@@ -926,6 +934,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6707667814",
+      "message": "test(ffi): add native-memory leak regression tests for OpenTelemetry spans (#6227)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6227",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67076678143537704bc0b22bb4e6d53e783bb1f1"
+    },
     {
       "sha": "67c4bf2ed8",
       "message": "Changelog: Add missing changelog entris for multi-key MIGRATE and monitor (#6185)",

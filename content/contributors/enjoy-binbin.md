@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 889,
-  "commit_count": 347,
+  "score": 890,
+  "commit_count": 348,
   "review_count": 542,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "9cd063ee15",
+      "message": "Add logging for rejected MFSTART messages in cluster primary (#4058)",
+      "date": "2026-06-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4058",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9cd063ee150d6c3f91f1efa1853ba99aa1542cc8"
+    },
     {
       "sha": "0473793194",
       "message": "Tighten NOT_KEY handling and add test coverage for NOT_KEY commands (#3675)",

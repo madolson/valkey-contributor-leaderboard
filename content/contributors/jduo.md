@@ -2,8 +2,8 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 251,
-  "commit_count": 55,
+  "score": 252,
+  "commit_count": 56,
   "review_count": 196,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "480d3b5958",
+      "message": "perf(python): optimize test client pooling and pubsub teardown (#6335)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6335",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/480d3b59589725ed791f485dcd7d8c4c6888ebf4"
+    },
     {
       "sha": "d14dbdb259",
       "message": "fix(python): pin pytest<9.1 to fix fixture finalizer assertion errors (#6268)",

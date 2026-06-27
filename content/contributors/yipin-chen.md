@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 748,
+  "score": 749,
   "commit_count": 45,
-  "review_count": 703,
+  "review_count": 704,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9a63972b9c",
+      "message": "Fix flaky test_pipeline_all_primary_routing timeout (#6339)",
+      "date": "2026-06-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6339",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9a63972b9c6d523b73be280919bb7aadf565f489"
+    },
     {
       "sha": "ac0fe94987",
       "message": "dev(python): add `clean` command to `dev.py` (#6320)",

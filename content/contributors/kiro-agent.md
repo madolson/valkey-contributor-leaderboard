@@ -2,14 +2,22 @@
   "title": "kiro-agent",
   "login": "kiro-agent",
   "avatar_url": "https://avatars.githubusercontent.com/u/244629292?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-admin",
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "770e4f96f0",
+      "message": "docs: add address resolver how-to guide",
+      "date": "2026-06-27",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/232",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/770e4f96f019651055a672665aa422e6249c972e"
+    },
     {
       "sha": "47b03e12e7",
       "message": "docs: added notes on supported event loop for Python",

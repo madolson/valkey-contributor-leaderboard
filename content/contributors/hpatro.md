@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 284,
+  "score": 285,
   "commit_count": 62,
-  "review_count": 222,
+  "review_count": 223,
   "repos": [
     "valkey",
     "valkey-container",
@@ -512,6 +512,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9cd063ee15",
+      "message": "Add logging for rejected MFSTART messages in cluster primary (#4058)",
+      "date": "2026-06-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4058",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9cd063ee150d6c3f91f1efa1853ba99aa1542cc8"
+    },
     {
       "sha": "f7690377fb",
       "message": "Increase the cluster-node-timeout to have longer delay between failover of each shard (#3946)",

@@ -2,14 +2,38 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 301,
-  "commit_count": 74,
+  "score": 304,
+  "commit_count": 77,
   "review_count": 227,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "9a63972b9c",
+      "message": "Fix flaky test_pipeline_all_primary_routing timeout (#6339)",
+      "date": "2026-06-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6339",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9a63972b9c6d523b73be280919bb7aadf565f489"
+    },
+    {
+      "sha": "d35b639441",
+      "message": "[CI] Add retry logic to cargo-zigbuild install (#6313)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6313",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d35b6394413cc782e3daeb39a38581d17cca94dc"
+    },
+    {
+      "sha": "6707667814",
+      "message": "test(ffi): add native-memory leak regression tests for OpenTelemetry spans (#6227)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6227",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67076678143537704bc0b22bb4e6d53e783bb1f1"
+    },
     {
       "sha": "7a3482cceb",
       "message": "fix(node): use only primary address in Static mode write test (#5997)",

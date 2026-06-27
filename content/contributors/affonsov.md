@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 166,
+  "score": 171,
   "commit_count": 91,
-  "review_count": 75,
+  "review_count": 80,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -742,6 +742,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "770e4f96f0",
+      "message": "docs: add address resolver how-to guide",
+      "date": "2026-06-27",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/232",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/770e4f96f019651055a672665aa422e6249c972e"
+    },
+    {
+      "sha": "6707667814",
+      "message": "test(ffi): add native-memory leak regression tests for OpenTelemetry spans (#6227)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6227",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67076678143537704bc0b22bb4e6d53e783bb1f1"
+    },
+    {
+      "sha": "1b0ffb144a",
+      "message": "Add MEMORY commands, remove LATENCY/MEMORY batch support (Java, Python, Node, Go) (#6307)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6307",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1b0ffb144a765c73433f50bdbc14b050cfd8256f"
+    },
+    {
+      "sha": "480d3b5958",
+      "message": "perf(python): optimize test client pooling and pubsub teardown (#6335)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6335",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/480d3b59589725ed791f485dcd7d8c4c6888ebf4"
+    },
+    {
+      "sha": "e95bd4a4d8",
+      "message": "PHP: Fix pie install (#229)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/229",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/e95bd4a4d819d1bb74e61d173e51222485539e45"
+    },
     {
       "sha": "cb6a47371a",
       "message": "fix(python): use response_buffer.nbytes for buffer GET capacity (#6311)",

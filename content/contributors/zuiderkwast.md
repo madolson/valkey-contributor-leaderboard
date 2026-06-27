@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1174,
+  "score": 1175,
   "commit_count": 153,
-  "review_count": 1021,
+  "review_count": 1022,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1239,6 +1239,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "aaa859d532",
+      "message": "Fix build warnings with OpenSSL 4.0 (#4016)",
+      "date": "2026-06-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4016",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/aaa859d532e3ea56aa711de84d5784a60b7fde01"
+    },
     {
       "sha": "0473793194",
       "message": "Tighten NOT_KEY handling and add test coverage for NOT_KEY commands (#3675)",

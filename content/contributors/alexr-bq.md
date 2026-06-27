@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 178,
+  "score": 179,
   "commit_count": 46,
-  "review_count": 132,
+  "review_count": 133,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -382,6 +382,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e95bd4a4d8",
+      "message": "PHP: Fix pie install (#229)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/229",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/e95bd4a4d819d1bb74e61d173e51222485539e45"
+    },
     {
       "sha": "09f154ac19",
       "message": "Python: implement MONITOR command for sync and async clients (#6132)",

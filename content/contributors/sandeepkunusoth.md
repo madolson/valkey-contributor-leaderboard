@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 39,
+  "score": 40,
   "commit_count": 19,
-  "review_count": 20,
+  "review_count": 21,
   "repos": [
     "valkey-operator"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5ac4d51170",
+      "message": "fix: Ensure shards required (#283)",
+      "date": "2026-06-26",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/283",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/5ac4d51170d6199140348a39259d8b60239ae81e"
+    },
     {
       "sha": "98a34f70ba",
       "message": "fix: surface ValkeyNode reconcile errors in status conditions (#257)",

@@ -2,14 +2,22 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 148,
-  "commit_count": 86,
+  "score": 149,
+  "commit_count": 87,
   "review_count": 62,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "46c1afbb42",
+      "message": "Add CSP (#377)",
+      "date": "2026-06-26",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/377",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/46c1afbb423901b0fb9902a7ab84c0abb500625a"
+    },
     {
       "sha": "6d0e8e01d9",
       "message": " Improve error handling for unsupported server commands (#373)",

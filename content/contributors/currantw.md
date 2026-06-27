@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 208,
-  "commit_count": 124,
-  "review_count": 84,
+  "score": 213,
+  "commit_count": 125,
+  "review_count": 88,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "1b0ffb144a",
+      "message": "Add MEMORY commands, remove LATENCY/MEMORY batch support (Java, Python, Node, Go) (#6307)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6307",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1b0ffb144a765c73433f50bdbc14b050cfd8256f"
+    },
     {
       "sha": "ac0fe94987",
       "message": "dev(python): add `clean` command to `dev.py` (#6320)",
@@ -1008,6 +1016,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9a63972b9c",
+      "message": "Fix flaky test_pipeline_all_primary_routing timeout (#6339)",
+      "date": "2026-06-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6339",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9a63972b9c6d523b73be280919bb7aadf565f489"
+    },
+    {
+      "sha": "d35b639441",
+      "message": "[CI] Add retry logic to cargo-zigbuild install (#6313)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6313",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d35b6394413cc782e3daeb39a38581d17cca94dc"
+    },
+    {
+      "sha": "846549a095",
+      "message": "fix: suppress false-positive response-wait warnings for blocking commands (#6291)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6291",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/846549a095bda29fd23ebbfac2543ad3aa4ecd73"
+    },
+    {
+      "sha": "480d3b5958",
+      "message": "perf(python): optimize test client pooling and pubsub teardown (#6335)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6335",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/480d3b59589725ed791f485dcd7d8c4c6888ebf4"
+    },
     {
       "sha": "cb6a47371a",
       "message": "fix(python): use response_buffer.nbytes for buffer GET capacity (#6311)",

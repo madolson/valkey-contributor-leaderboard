@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 269,
-  "commit_count": 63,
+  "score": 270,
+  "commit_count": 64,
   "review_count": 206,
   "repos": [
     "valkey",
@@ -18,6 +18,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1082",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/f6f9cafa4b25b7a119cac2c3f53f1c77b3919a3c"
+    },
+    {
+      "sha": "bc4baceb54",
+      "message": "Remove timeout settings in integration tests, defer to waiter default (#1154)",
+      "date": "2026-06-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1154",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/bc4baceb54bcae1329aa375a1b1d8a14c10d195a"
     },
     {
       "sha": "4174285614",

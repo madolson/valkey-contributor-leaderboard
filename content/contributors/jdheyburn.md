@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 92,
+  "score": 93,
   "commit_count": 30,
-  "review_count": 62,
+  "review_count": 63,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -253,6 +253,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8a253112cb",
+      "message": "added metrics auth rbac (#198)",
+      "date": "2026-06-26",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/198",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/8a253112cbad381ddf2d0d4cc4fbfaa72e805f8a"
+    },
     {
       "sha": "9b9d78b042",
       "message": "feat(operator): add topologySpreadConstraints support to valkey-operator chart (#195)",

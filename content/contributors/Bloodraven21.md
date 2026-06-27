@@ -2,8 +2,8 @@
   "title": "Bloodraven21",
   "login": "Bloodraven21",
   "avatar_url": "https://avatars.githubusercontent.com/u/60031755?v=4",
-  "score": 6,
-  "commit_count": 2,
+  "score": 7,
+  "commit_count": 3,
   "review_count": 4,
   "repos": [
     "valkey-helm"
@@ -16,6 +16,14 @@
       "repo": "valkey-helm",
       "pr_url": "https://github.com/valkey-io/valkey-helm/pull/197",
       "commit_url": "https://github.com/valkey-io/valkey-helm/commit/21bec1054b83f0897073744994ff8b5d6c6b952a"
+    },
+    {
+      "sha": "8a253112cb",
+      "message": "added metrics auth rbac (#198)",
+      "date": "2026-06-26",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/198",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/8a253112cbad381ddf2d0d4cc4fbfaa72e805f8a"
     },
     {
       "sha": "dd42ccac70",

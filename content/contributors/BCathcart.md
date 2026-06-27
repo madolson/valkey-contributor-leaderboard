@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 81,
+  "score": 82,
   "commit_count": 35,
-  "review_count": 46,
+  "review_count": 47,
   "repos": [
     "valkey",
     "valkey-io.github.io",
@@ -293,6 +293,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bc4baceb54",
+      "message": "Remove timeout settings in integration tests, defer to waiter default (#1154)",
+      "date": "2026-06-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1154",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/bc4baceb54bcae1329aa375a1b1d8a14c10d195a"
+    },
     {
       "sha": "d900f01552",
       "message": "Reimplement TAG field using RAX tree to save space. (#1031)",

@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 221,
+  "score": 222,
   "commit_count": 70,
-  "review_count": 151,
+  "review_count": 152,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -572,6 +572,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d35b639441",
+      "message": "[CI] Add retry logic to cargo-zigbuild install (#6313)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6313",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d35b6394413cc782e3daeb39a38581d17cca94dc"
+    },
     {
       "sha": "c0984ef12d",
       "message": "deps(node): fix transitive dev-only advisories in node/ and examples/node/ (js-yaml, markdown-it, @babel/core, minimatch) (#6277)",

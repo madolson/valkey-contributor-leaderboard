@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 215,
+  "score": 216,
   "commit_count": 115,
-  "review_count": 100,
+  "review_count": 101,
   "repos": [
     "libvalkey",
     "valkey",
@@ -935,6 +935,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5ac4d51170",
+      "message": "fix: Ensure shards required (#283)",
+      "date": "2026-06-26",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/283",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/5ac4d51170d6199140348a39259d8b60239ae81e"
+    },
     {
       "sha": "21dd262717",
       "message": "feat: inject shutdown-on-sigterm failover by default (#268)",

@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 210,
+  "score": 211,
   "commit_count": 19,
-  "review_count": 191,
+  "review_count": 192,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "46c1afbb42",
+      "message": "Add CSP (#377)",
+      "date": "2026-06-26",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/377",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/46c1afbb423901b0fb9902a7ab84c0abb500625a"
+    },
     {
       "sha": "c45e48e374",
       "message": "End to end implementation of big keys from metrics, to server and to \u2026 (#376)",

@@ -156477,6 +156477,270 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1015"
+    },
+    {
+      "sha": "aaa859d532e3ea56aa711de84d5784a60b7fde01",
+      "author_login": "pkhartsk",
+      "author_id": 225215338,
+      "avatar_url": "https://avatars.githubusercontent.com/u/225215338?v=4",
+      "message": "Fix build warnings with OpenSSL 4.0 (#4016)",
+      "date": "2026-06-26T21:47:22Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-06-23T10:15:16Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4016"
+    },
+    {
+      "sha": "9cd063ee150d6c3f91f1efa1853ba99aa1542cc8",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Add logging for rejected MFSTART messages in cluster primary (#4058)",
+      "date": "2026-06-26T10:40:38Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "hpatro",
+          "date": "2026-06-26T10:40:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4058"
+    },
+    {
+      "sha": "46c1afbb423901b0fb9902a7ab84c0abb500625a",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Add CSP (#377)",
+      "date": "2026-06-26T17:14:57Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "arseny-kostenko",
+          "date": "2026-06-26T17:02:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/377"
+    },
+    {
+      "sha": "9a63972b9c6d523b73be280919bb7aadf565f489",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Fix flaky test_pipeline_all_primary_routing timeout (#6339)",
+      "date": "2026-06-27T00:26:19Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-06-26T01:18:14Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-06-26T23:02:11Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6339"
+    },
+    {
+      "sha": "d35b6394413cc782e3daeb39a38581d17cca94dc",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "[CI] Add retry logic to cargo-zigbuild install (#6313)",
+      "date": "2026-06-26T23:04:34Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-06-26T22:00:44Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-06-26T22:02:48Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6313"
+    },
+    {
+      "sha": "846549a095bda29fd23ebbfac2543ad3aa4ecd73",
+      "author_login": "mvanhorn",
+      "author_id": 455140,
+      "avatar_url": "https://avatars.githubusercontent.com/u/455140?v=4",
+      "message": "fix: suppress false-positive response-wait warnings for blocking commands (#6291)",
+      "date": "2026-06-26T21:56:58Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-06-26T17:37:32Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-06-26T21:56:03Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6291"
+    },
+    {
+      "sha": "67076678143537704bc0b22bb4e6d53e783bb1f1",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "test(ffi): add native-memory leak regression tests for OpenTelemetry spans (#6227)",
+      "date": "2026-06-26T21:51:48Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-06-26T01:10:38Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-06-26T17:28:08Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6227"
+    },
+    {
+      "sha": "1b0ffb144a765c73433f50bdbc14b050cfd8256f",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "Add MEMORY commands, remove LATENCY/MEMORY batch support (Java, Python, Node, Go) (#6307)",
+      "date": "2026-06-26T21:08:42Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-06-26T18:47:32Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-06-26T19:05:26Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6307"
+    },
+    {
+      "sha": "480d3b59589725ed791f485dcd7d8c4c6888ebf4",
+      "author_login": "jduo",
+      "author_id": 1657237,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
+      "message": "perf(python): optimize test client pooling and pubsub teardown (#6335)",
+      "date": "2026-06-26T17:57:56Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-06-26T00:08:39Z"
+        },
+        {
+          "login": "jeremyprime",
+          "date": "2026-06-26T15:42:09Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-06-26T17:51:37Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6335"
+    },
+    {
+      "sha": "770e4f96f019651055a672665aa422e6249c972e",
+      "author_login": "kiro-agent",
+      "author_id": 244629292,
+      "avatar_url": "https://avatars.githubusercontent.com/u/244629292?v=4",
+      "message": "docs: add address resolver how-to guide",
+      "date": "2026-06-27T00:12:43Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-06-24T17:30:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/232"
+    },
+    {
+      "sha": "e95bd4a4d819d1bb74e61d173e51222485539e45",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "PHP: Fix pie install (#229)",
+      "date": "2026-06-26T17:29:05Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-06-25T20:05:08Z"
+        },
+        {
+          "login": "alexr-bq",
+          "date": "2026-06-26T17:13:26Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/229"
+    },
+    {
+      "sha": "8a253112cbad381ddf2d0d4cc4fbfaa72e805f8a",
+      "author_login": "Bloodraven21",
+      "author_id": 60031755,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60031755?v=4",
+      "message": "added metrics auth rbac (#198)",
+      "date": "2026-06-26T13:52:39Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "deepakpunjabi",
+          "date": "2026-06-26T13:08:01Z"
+        },
+        {
+          "login": "jdheyburn",
+          "date": "2026-06-26T13:52:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/198"
+    },
+    {
+      "sha": "5ac4d51170d6199140348a39259d8b60239ae81e",
+      "author_login": "deepakpunjabi",
+      "author_id": 17640076,
+      "avatar_url": "https://avatars.githubusercontent.com/u/17640076?v=4",
+      "message": "fix: Ensure shards required (#283)",
+      "date": "2026-06-26T16:17:48Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "sandeepkunusoth",
+          "date": "2026-06-26T05:41:47Z"
+        },
+        {
+          "login": "bjosv",
+          "date": "2026-06-26T10:54:51Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/283"
+    },
+    {
+      "sha": "bc4baceb54bcae1329aa375a1b1d8a14c10d195a",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Remove timeout settings in integration tests, defer to waiter default (#1154)",
+      "date": "2026-06-26T17:32:57Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "BCathcart",
+          "date": "2026-06-23T17:31:51Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1154"
     }
   ]
 }

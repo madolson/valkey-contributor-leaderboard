@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 149,
+  "score": 151,
   "commit_count": 39,
-  "review_count": 110,
+  "review_count": 112,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -325,6 +325,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "846549a095",
+      "message": "fix: suppress false-positive response-wait warnings for blocking commands (#6291)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6291",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/846549a095bda29fd23ebbfac2543ad3aa4ecd73"
+    },
+    {
+      "sha": "480d3b5958",
+      "message": "perf(python): optimize test client pooling and pubsub teardown (#6335)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6335",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/480d3b59589725ed791f485dcd7d8c4c6888ebf4"
+    },
     {
       "sha": "886af70c41",
       "message": "Benchmark: optimize by parallel builds and caching (#76)",

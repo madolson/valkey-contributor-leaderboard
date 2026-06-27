@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 158,
+  "score": 159,
   "commit_count": 50,
-  "review_count": 108,
+  "review_count": 109,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -424,6 +424,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6327",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9f9c942915471f4768ca190e4fcba77dc23957f2"
+    },
+    {
+      "sha": "1b0ffb144a",
+      "message": "Add MEMORY commands, remove LATENCY/MEMORY batch support (Java, Python, Node, Go) (#6307)",
+      "date": "2026-06-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6307",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1b0ffb144a765c73433f50bdbc14b050cfd8256f"
     },
     {
       "sha": "ac0fe94987",
