@@ -156741,6 +156741,42 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1154"
+    },
+    {
+      "sha": "5d936c69632eeed48b544673f2a0b87e16020e34",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "Client-side caching: add `serverAssisted` config and `CLIENT TRACKINGINFO` command (Node, Python, Go, Java) (#6344)",
+      "date": "2026-06-27T21:30:07Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-06-26T22:07:49Z"
+        },
+        {
+          "login": "jduo",
+          "date": "2026-06-26T22:37:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6344"
+    },
+    {
+      "sha": "57e4802fd4d12263fa15fe1edef7f32477fdae6d",
+      "author_login": "Luis729",
+      "author_id": 13097797,
+      "avatar_url": "https://avatars.githubusercontent.com/u/13097797?v=4",
+      "message": "Add remaining commands to valkeycompatmock (#137)",
+      "date": "2026-06-27T23:54:17Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-06-27T23:53:49Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/137"
     }
   ]
 }

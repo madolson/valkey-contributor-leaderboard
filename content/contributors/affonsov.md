@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 171,
+  "score": 172,
   "commit_count": 91,
-  "review_count": 80,
+  "review_count": 81,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -749,6 +749,14 @@
       "repo": "valkey-glide-docs",
       "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/232",
       "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/770e4f96f019651055a672665aa422e6249c972e"
+    },
+    {
+      "sha": "5d936c6963",
+      "message": "Client-side caching: add `serverAssisted` config and `CLIENT TRACKINGINFO` command (Node, Python, Go, Java) (#6344)",
+      "date": "2026-06-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6344",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5d936c69632eeed48b544673f2a0b87e16020e34"
     },
     {
       "sha": "6707667814",

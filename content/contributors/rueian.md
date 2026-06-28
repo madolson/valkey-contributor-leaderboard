@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 40,
+  "score": 41,
   "commit_count": 9,
-  "review_count": 31,
+  "review_count": 32,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -86,6 +86,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "57e4802fd4",
+      "message": "Add remaining commands to valkeycompatmock (#137)",
+      "date": "2026-06-27",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/137",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/57e4802fd4d12263fa15fe1edef7f32477fdae6d"
+    },
     {
       "sha": "0b96488863",
       "message": "Distribute # of calls to server during topology refresh (#141)",

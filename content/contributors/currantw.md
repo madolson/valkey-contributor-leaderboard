@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 213,
-  "commit_count": 125,
+  "score": 214,
+  "commit_count": 126,
   "review_count": 88,
   "repos": [
     "valkey-doc",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "5d936c6963",
+      "message": "Client-side caching: add `serverAssisted` config and `CLIENT TRACKINGINFO` command (Node, Python, Go, Java) (#6344)",
+      "date": "2026-06-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6344",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5d936c69632eeed48b544673f2a0b87e16020e34"
+    },
     {
       "sha": "1b0ffb144a",
       "message": "Add MEMORY commands, remove LATENCY/MEMORY batch support (Java, Python, Node, Go) (#6307)",

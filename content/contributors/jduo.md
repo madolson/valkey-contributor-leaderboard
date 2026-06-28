@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 252,
+  "score": 253,
   "commit_count": 56,
-  "review_count": 196,
+  "review_count": 197,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -462,6 +462,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5d936c6963",
+      "message": "Client-side caching: add `serverAssisted` config and `CLIENT TRACKINGINFO` command (Node, Python, Go, Java) (#6344)",
+      "date": "2026-06-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6344",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5d936c69632eeed48b544673f2a0b87e16020e34"
+    },
     {
       "sha": "9f9c942915",
       "message": "Python: fix MonitorClient trio compatibility via anyio (#6327)",

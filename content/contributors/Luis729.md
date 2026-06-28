@@ -2,13 +2,21 @@
   "title": "Luis729",
   "login": "Luis729",
   "avatar_url": "https://avatars.githubusercontent.com/u/13097797?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey-go"
   ],
   "commit_list": [
+    {
+      "sha": "57e4802fd4",
+      "message": "Add remaining commands to valkeycompatmock (#137)",
+      "date": "2026-06-27",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/137",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/57e4802fd4d12263fa15fe1edef7f32477fdae6d"
+    },
     {
       "sha": "0b96488863",
       "message": "Distribute # of calls to server during topology refresh (#141)",
