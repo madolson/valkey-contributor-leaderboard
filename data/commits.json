@@ -156777,6 +156777,22 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-go/pull/137"
+    },
+    {
+      "sha": "689906a9134b8576edfa85e95738fc3428a8dcb8",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Cleanup redundant incrRefCount and fix new_argv alloc size around HDEL (#4059)",
+      "date": "2026-06-29T02:19:55Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "hpatro",
+          "date": "2026-06-26T10:51:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4059"
     }
   ]
 }

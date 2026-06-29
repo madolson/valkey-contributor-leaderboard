@@ -99,7 +99,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
       "name": "Binbin",
       "company": "Tencent Cloud NoSQL",
-      "commits": 348,
+      "commits": 349,
       "reviews": 542,
       "repos": [
         "valkey",
@@ -110,7 +110,7 @@
       ],
       "per_repo": {
         "valkey": {
-          "commits": 323,
+          "commits": 324,
           "reviews": 509
         },
         "valkey-bloom": {
@@ -134,7 +134,7 @@
           "reviews": 1
         }
       },
-      "score": 890
+      "score": 891
     },
     {
       "login": "madolson",
@@ -485,6 +485,62 @@
       "score": 304
     },
     {
+      "login": "hpatro",
+      "id": 30795839,
+      "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
+      "name": "Harkrishn Patro",
+      "company": "AWS",
+      "commits": 62,
+      "reviews": 224,
+      "repos": [
+        "valkey",
+        "valkey-container",
+        "valkey-doc",
+        "valkey-hashes",
+        "valkey-io.github.io",
+        "valkey-rfc"
+      ],
+      "per_repo": {
+        "valkey": {
+          "commits": 53,
+          "reviews": 184
+        },
+        "valkey-bloom": {
+          "commits": 0,
+          "reviews": 1
+        },
+        "valkey-rfc": {
+          "commits": 1,
+          "reviews": 1
+        },
+        "valkey-json": {
+          "commits": 0,
+          "reviews": 2
+        },
+        "valkey-bundle": {
+          "commits": 0,
+          "reviews": 2
+        },
+        "valkey-container": {
+          "commits": 1,
+          "reviews": 13
+        },
+        "valkey-doc": {
+          "commits": 3,
+          "reviews": 6
+        },
+        "valkey-hashes": {
+          "commits": 1,
+          "reviews": 4
+        },
+        "valkey-io.github.io": {
+          "commits": 3,
+          "reviews": 11
+        }
+      },
+      "score": 286
+    },
+    {
       "login": "ranshid",
       "id": 88133677,
       "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
@@ -536,62 +592,6 @@
         }
       },
       "score": 286
-    },
-    {
-      "login": "hpatro",
-      "id": 30795839,
-      "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-      "name": "Harkrishn Patro",
-      "company": "AWS",
-      "commits": 62,
-      "reviews": 223,
-      "repos": [
-        "valkey",
-        "valkey-container",
-        "valkey-doc",
-        "valkey-hashes",
-        "valkey-io.github.io",
-        "valkey-rfc"
-      ],
-      "per_repo": {
-        "valkey": {
-          "commits": 53,
-          "reviews": 183
-        },
-        "valkey-bloom": {
-          "commits": 0,
-          "reviews": 1
-        },
-        "valkey-rfc": {
-          "commits": 1,
-          "reviews": 1
-        },
-        "valkey-json": {
-          "commits": 0,
-          "reviews": 2
-        },
-        "valkey-bundle": {
-          "commits": 0,
-          "reviews": 2
-        },
-        "valkey-container": {
-          "commits": 1,
-          "reviews": 13
-        },
-        "valkey-doc": {
-          "commits": 3,
-          "reviews": 6
-        },
-        "valkey-hashes": {
-          "commits": 1,
-          "reviews": 4
-        },
-        "valkey-io.github.io": {
-          "commits": 3,
-          "reviews": 11
-        }
-      },
-      "score": 285
     },
     {
       "login": "allenss-amazon",

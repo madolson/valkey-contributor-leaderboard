@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 890,
-  "commit_count": 348,
+  "score": 891,
+  "commit_count": 349,
   "review_count": 542,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "689906a913",
+      "message": "Cleanup redundant incrRefCount and fix new_argv alloc size around HDEL (#4059)",
+      "date": "2026-06-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4059",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/689906a9134b8576edfa85e95738fc3428a8dcb8"
+    },
     {
       "sha": "9cd063ee15",
       "message": "Add logging for rejected MFSTART messages in cluster primary (#4058)",
