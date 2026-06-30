@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 253,
-  "commit_count": 56,
-  "review_count": 197,
+  "score": 255,
+  "commit_count": 57,
+  "review_count": 198,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "b5069d3568",
+      "message": "Python: Fix pubsub pipe head-of-line blocking and add lifecycle tests (#6321)",
+      "date": "2026-06-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6321",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b5069d35686902cc9bb0b1fc246d78e646212cc0"
+    },
     {
       "sha": "480d3b5958",
       "message": "perf(python): optimize test client pooling and pubsub teardown (#6335)",
@@ -462,6 +470,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4653765c67",
+      "message": "fix(python): trio backend race condition and utils asyncio usages (#6308)",
+      "date": "2026-06-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6308",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4653765c677d2c139a95834e61080010dc0ab5f2"
+    },
     {
       "sha": "5d936c6963",
       "message": "Client-side caching: add `serverAssisted` config and `CLIENT TRACKINGINFO` command (Node, Python, Go, Java) (#6344)",

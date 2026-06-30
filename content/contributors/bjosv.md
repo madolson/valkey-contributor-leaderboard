@@ -2,8 +2,8 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 216,
-  "commit_count": 115,
+  "score": 217,
+  "commit_count": 116,
   "review_count": 101,
   "repos": [
     "libvalkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "4bb5ea6cb7",
+      "message": "Fix async command timeout never firing under continuous writes (#328)",
+      "date": "2026-06-29",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/328",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/4bb5ea6cb7fedfd0da70661efaedba0f93243c8f"
+    },
     {
       "sha": "248d7f5ce3",
       "message": "Add c-ares support for DNS resolution with timeout (#323)",

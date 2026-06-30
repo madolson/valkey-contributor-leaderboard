@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 80,
+  "score": 82,
   "commit_count": 28,
-  "review_count": 52,
+  "review_count": 54,
   "repos": [
     "valkey",
     "valkey-perf-benchmark"
@@ -236,6 +236,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5b690cefd6",
+      "message": "Deflake diskless timeout rdb pipe test by tolerating either timeout-disconnect branch (#3772)",
+      "date": "2026-06-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3772",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5b690cefd6cad707a748879c2bab6b72e18efcb7"
+    },
+    {
+      "sha": "03b8a64581",
+      "message": "Add Grafana dashboard GitOps sync via gcx + enable kubernetesDashboards (#59)",
+      "date": "2026-06-29",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/59",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/03b8a645814d88ef73340e6911216adca64c3c30"
+    },
     {
       "sha": "6ac85d0820",
       "message": "Remove unused dict callback parameter from functionReset and related functions (#3357)",

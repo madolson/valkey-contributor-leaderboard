@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 304,
+  "score": 305,
   "commit_count": 77,
-  "review_count": 227,
+  "review_count": 228,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -628,6 +628,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c4f0b8a28e",
+      "message": "chore(deps): bump taiki-e/install-action from 2.82.2 to 2.82.6 in the patch-updates group (#432)",
+      "date": "2026-06-29",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/432",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/c4f0b8a28e610c040f2066568bcb875784f2dc6b"
+    },
+    {
+      "sha": "8760eb603c",
+      "message": "chore(deps): bump the minor-updates group with 3 updates (#433)",
+      "date": "2026-06-29",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/433",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8760eb603c7d12f216ef798fa113ff6b44aeff56"
+    },
+    {
+      "sha": "d9d73707cf",
+      "message": "chore(deps): bump actions/cache from 5.0.5 to 6.1.0 (#434)",
+      "date": "2026-06-29",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/434",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d9d73707cfa73de315112ab483ca3f688e480f8c"
+    },
+    {
+      "sha": "17548c74aa",
+      "message": "Add Full Matrix Tests (#111)",
+      "date": "2026-06-29",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/111",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/17548c74aa45d23dc3a8bba53cf676320062f8f5"
+    },
     {
       "sha": "1c37ba8bf7",
       "message": "chore(deps): bump the minor-updates group with 2 updates (#428)",

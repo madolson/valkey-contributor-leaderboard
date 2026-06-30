@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 286,
+  "score": 287,
   "commit_count": 92,
-  "review_count": 194,
+  "review_count": 195,
   "repos": [
     "valkey",
     "valkey-container",
@@ -753,6 +753,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "33cf4a4133",
+      "message": "Fix HRANDFIELD CASE 4 infinite loop when valid fields fewer than count (#4047)",
+      "date": "2026-06-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4047",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/33cf4a41334edaeffffce87aee48ed6c7ca6f745"
+    },
     {
       "sha": "d9a80af14a",
       "message": "Assertion check on null key for volatile fields based object (#3897)",

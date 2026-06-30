@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 270,
-  "commit_count": 64,
+  "score": 271,
+  "commit_count": 65,
   "review_count": 206,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "323c7dc1d9",
+      "message": "Vector Search performance improvement (#1163)",
+      "date": "2026-06-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1163",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/323c7dc1d956970e9ae6917c5134fa54d215ceef"
+    },
     {
       "sha": "f6f9cafa4b",
       "message": "Enable thread-safety checking, fix violations it found. (#1082)",

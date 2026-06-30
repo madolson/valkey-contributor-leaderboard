@@ -2,9 +2,9 @@
   "title": "liorsve",
   "login": "liorsve",
   "avatar_url": "https://avatars.githubusercontent.com/u/178275844?v=4",
-  "score": 104,
+  "score": 105,
   "commit_count": 82,
-  "review_count": 22,
+  "review_count": 23,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -671,6 +671,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b5069d3568",
+      "message": "Python: Fix pubsub pipe head-of-line blocking and add lifecycle tests (#6321)",
+      "date": "2026-06-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6321",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b5069d35686902cc9bb0b1fc246d78e646212cc0"
+    },
     {
       "sha": "9945255cdf",
       "message": "CI: Add self-hosted x86 Linux runners (#6184)",

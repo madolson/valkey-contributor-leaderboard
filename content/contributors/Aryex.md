@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 159,
-  "commit_count": 50,
-  "review_count": 109,
+  "score": 164,
+  "commit_count": 54,
+  "review_count": 110,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -12,9 +12,42 @@
     "valkey-glide-csharp",
     "valkey-glide-docs",
     "valkey-glide-php",
+    "valkey-glide-ruby",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "4653765c67",
+      "message": "fix(python): trio backend race condition and utils asyncio usages (#6308)",
+      "date": "2026-06-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6308",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4653765c677d2c139a95834e61080010dc0ab5f2"
+    },
+    {
+      "sha": "8b2b0d4072",
+      "message": "fixed typo",
+      "date": "2026-06-29",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/239",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/8b2b0d40726bc002fa96de4138e1137957591ad0"
+    },
+    {
+      "sha": "04e66e0685",
+      "message": "test(ruby): added default and ACL authentication tests",
+      "date": "2026-06-29",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/113",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/04e66e0685028fdcd56767d7edc63dcb020220fe"
+    },
+    {
+      "sha": "b8529c527f",
+      "message": "test(ruby): privatize CLIENT TRACKING, CLIENT CACHING, and CLIENT TRACKINGINFO",
+      "date": "2026-06-29",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/112",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/b8529c527f8059c4ca188029bcc7564fb799b52e"
+    },
     {
       "sha": "573af4d53c",
       "message": "Added Supported Commands and Custom Command Execution page (#238)",
@@ -417,6 +450,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "17548c74aa",
+      "message": "Add Full Matrix Tests (#111)",
+      "date": "2026-06-29",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/111",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/17548c74aa45d23dc3a8bba53cf676320062f8f5"
+    },
     {
       "sha": "9f9c942915",
       "message": "Python: fix MonitorClient trio compatibility via anyio (#6327)",

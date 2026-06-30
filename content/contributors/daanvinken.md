@@ -2,9 +2,9 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 19,
+  "score": 20,
   "commit_count": 13,
-  "review_count": 6,
+  "review_count": 7,
   "repos": [
     "valkey-helm",
     "valkey-operator"
@@ -116,6 +116,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "200ec069f6",
+      "message": "Merge pull request #208 from Bloodraven21/docs/operator_contributing.md",
+      "date": "2026-06-29",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/208",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/200ec069f6d35ed8001e630421402fc9c76db89d"
+    },
     {
       "sha": "21bec1054b",
       "message": "Merge pull request #197 from somaz94/feat/operator-aggregated-clusterroles",

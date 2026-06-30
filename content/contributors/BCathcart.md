@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 82,
+  "score": 83,
   "commit_count": 35,
-  "review_count": 47,
+  "review_count": 48,
   "repos": [
     "valkey",
     "valkey-io.github.io",
@@ -293,6 +293,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "323c7dc1d9",
+      "message": "Vector Search performance improvement (#1163)",
+      "date": "2026-06-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1163",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/323c7dc1d956970e9ae6917c5134fa54d215ceef"
+    },
     {
       "sha": "bc4baceb54",
       "message": "Remove timeout settings in integration tests, defer to waiter default (#1154)",

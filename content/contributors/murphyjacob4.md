@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 112,
+  "score": 113,
   "commit_count": 42,
-  "review_count": 70,
+  "review_count": 71,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "091d5ca622",
+      "message": "Restore client's selected DB after module keyspace notification (#4024)",
+      "date": "2026-06-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4024",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/091d5ca6221c9c79ec1471d1ec7e94759d27a9dc"
+    },
     {
       "sha": "13bd25eafa",
       "message": "Add cluster|syncslots to topics/acl.md (#449)",

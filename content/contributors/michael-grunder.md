@@ -2,9 +2,9 @@
   "title": "michael-grunder",
   "login": "michael-grunder",
   "avatar_url": "https://avatars.githubusercontent.com/u/468149?v=4",
-  "score": 74,
+  "score": 75,
   "commit_count": 18,
-  "review_count": 56,
+  "review_count": 57,
   "repos": [
     "libvalkey"
   ],
@@ -155,6 +155,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4bb5ea6cb7",
+      "message": "Fix async command timeout never firing under continuous writes (#328)",
+      "date": "2026-06-29",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/328",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/4bb5ea6cb7fedfd0da70661efaedba0f93243c8f"
+    },
     {
       "sha": "248d7f5ce3",
       "message": "Add c-ares support for DNS resolution with timeout (#323)",

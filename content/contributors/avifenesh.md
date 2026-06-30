@@ -2,9 +2,9 @@
   "title": "avifenesh",
   "login": "avifenesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
-  "score": 258,
+  "score": 259,
   "commit_count": 93,
-  "review_count": 165,
+  "review_count": 166,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -758,6 +758,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8f6a9e7452",
+      "message": "GO: Add migrate commands support for multiple keys (#6293)",
+      "date": "2026-06-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6293",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8f6a9e7452afdb958e56ae3414bcc81939d91453"
+    },
     {
       "sha": "5faa564719",
       "message": "Core: Use watchdog diagnostics to inform CB recovery (#6240)",

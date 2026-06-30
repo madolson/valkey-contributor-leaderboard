@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 179,
-  "commit_count": 46,
-  "review_count": 133,
+  "score": 184,
+  "commit_count": 47,
+  "review_count": 137,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "17548c74aa",
+      "message": "Add Full Matrix Tests (#111)",
+      "date": "2026-06-29",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/111",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/17548c74aa45d23dc3a8bba53cf676320062f8f5"
+    },
     {
       "sha": "49bf2d3c71",
       "message": "CI/CD workflow extraction of shared actions that other repos can use (#6218)",
@@ -382,6 +390,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "57315eb5f4",
+      "message": "PHP: Update package.json (#232)",
+      "date": "2026-06-29",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/232",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/57315eb5f4aef3bdc5ae7cfbdc78c8158f9b853e"
+    },
+    {
+      "sha": "04e66e0685",
+      "message": "test(ruby): added default and ACL authentication tests",
+      "date": "2026-06-29",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/113",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/04e66e0685028fdcd56767d7edc63dcb020220fe"
+    },
+    {
+      "sha": "04e66e0685",
+      "message": "test(ruby): added default and ACL authentication tests",
+      "date": "2026-06-29",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/113",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/04e66e0685028fdcd56767d7edc63dcb020220fe"
+    },
+    {
+      "sha": "b8529c527f",
+      "message": "test(ruby): privatize CLIENT TRACKING, CLIENT CACHING, and CLIENT TRACKINGINFO",
+      "date": "2026-06-29",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/112",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/b8529c527f8059c4ca188029bcc7564fb799b52e"
+    },
     {
       "sha": "e95bd4a4d8",
       "message": "PHP: Fix pie install (#229)",

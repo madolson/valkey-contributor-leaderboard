@@ -2,8 +2,8 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 373,
-  "commit_count": 142,
+  "score": 374,
+  "commit_count": 143,
   "review_count": 231,
   "repos": [
     "valkey",
@@ -19,6 +19,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "03b8a64581",
+      "message": "Add Grafana dashboard GitOps sync via gcx + enable kubernetesDashboards (#59)",
+      "date": "2026-06-29",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/59",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/03b8a645814d88ef73340e6911216adca64c3c30"
+    },
     {
       "sha": "653d4022e9",
       "message": "Fix unbounded array Reserve in legacy RDB load (#111)",

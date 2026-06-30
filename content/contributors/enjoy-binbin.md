@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 891,
-  "commit_count": 349,
-  "review_count": 542,
+  "score": 894,
+  "commit_count": 350,
+  "review_count": 544,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "091d5ca622",
+      "message": "Restore client's selected DB after module keyspace notification (#4024)",
+      "date": "2026-06-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4024",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/091d5ca6221c9c79ec1471d1ec7e94759d27a9dc"
+    },
     {
       "sha": "689906a913",
       "message": "Cleanup redundant incrRefCount and fix new_argv alloc size around HDEL (#4059)",
@@ -2807,6 +2815,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5b690cefd6",
+      "message": "Deflake diskless timeout rdb pipe test by tolerating either timeout-disconnect branch (#3772)",
+      "date": "2026-06-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3772",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5b690cefd6cad707a748879c2bab6b72e18efcb7"
+    },
+    {
+      "sha": "33cf4a4133",
+      "message": "Fix HRANDFIELD CASE 4 infinite loop when valid fields fewer than count (#4047)",
+      "date": "2026-06-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4047",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/33cf4a41334edaeffffce87aee48ed6c7ca6f745"
+    },
     {
       "sha": "c4cfa0fba2",
       "message": "Skip NOT_KEY commands in client tracking (#3699)",

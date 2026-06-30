@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 98,
+  "score": 99,
   "commit_count": 24,
-  "review_count": 74,
+  "review_count": 75,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -206,6 +206,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "091d5ca622",
+      "message": "Restore client's selected DB after module keyspace notification (#4024)",
+      "date": "2026-06-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4024",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/091d5ca6221c9c79ec1471d1ec7e94759d27a9dc"
+    },
     {
       "sha": "2253589b2e",
       "message": "Increase max proctitle length from 255 to 1024 (#3843)",

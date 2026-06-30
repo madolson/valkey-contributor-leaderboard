@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 172,
+  "score": 175,
   "commit_count": 91,
-  "review_count": 81,
+  "review_count": 84,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -742,6 +742,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4653765c67",
+      "message": "fix(python): trio backend race condition and utils asyncio usages (#6308)",
+      "date": "2026-06-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6308",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4653765c677d2c139a95834e61080010dc0ab5f2"
+    },
+    {
+      "sha": "8f6a9e7452",
+      "message": "GO: Add migrate commands support for multiple keys (#6293)",
+      "date": "2026-06-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6293",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8f6a9e7452afdb958e56ae3414bcc81939d91453"
+    },
+    {
+      "sha": "57315eb5f4",
+      "message": "PHP: Update package.json (#232)",
+      "date": "2026-06-29",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/232",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/57315eb5f4aef3bdc5ae7cfbdc78c8158f9b853e"
+    },
     {
       "sha": "770e4f96f0",
       "message": "docs: add address resolver how-to guide",

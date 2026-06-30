@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 310,
+  "score": 313,
   "commit_count": 89,
-  "review_count": 221,
+  "review_count": 224,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -726,6 +726,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5b690cefd6",
+      "message": "Deflake diskless timeout rdb pipe test by tolerating either timeout-disconnect branch (#3772)",
+      "date": "2026-06-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3772",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5b690cefd6cad707a748879c2bab6b72e18efcb7"
+    },
+    {
+      "sha": "5b690cefd6",
+      "message": "Deflake diskless timeout rdb pipe test by tolerating either timeout-disconnect branch (#3772)",
+      "date": "2026-06-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3772",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5b690cefd6cad707a748879c2bab6b72e18efcb7"
+    },
+    {
+      "sha": "091d5ca622",
+      "message": "Restore client's selected DB after module keyspace notification (#4024)",
+      "date": "2026-06-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4024",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/091d5ca6221c9c79ec1471d1ec7e94759d27a9dc"
+    },
     {
       "sha": "2253589b2e",
       "message": "Increase max proctitle length from 255 to 1024 (#3843)",

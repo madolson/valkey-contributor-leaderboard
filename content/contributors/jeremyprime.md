@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 151,
+  "score": 153,
   "commit_count": 39,
-  "review_count": 112,
+  "review_count": 114,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -325,6 +325,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b5069d3568",
+      "message": "Python: Fix pubsub pipe head-of-line blocking and add lifecycle tests (#6321)",
+      "date": "2026-06-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6321",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b5069d35686902cc9bb0b1fc246d78e646212cc0"
+    },
+    {
+      "sha": "8b2b0d4072",
+      "message": "fixed typo",
+      "date": "2026-06-29",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/239",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/8b2b0d40726bc002fa96de4138e1137957591ad0"
+    },
     {
       "sha": "846549a095",
       "message": "fix: suppress false-positive response-wait warnings for blocking commands (#6291)",

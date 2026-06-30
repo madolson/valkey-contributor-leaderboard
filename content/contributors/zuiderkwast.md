@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1175,
+  "score": 1176,
   "commit_count": 153,
-  "review_count": 1022,
+  "review_count": 1023,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1239,6 +1239,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "091d5ca622",
+      "message": "Restore client's selected DB after module keyspace notification (#4024)",
+      "date": "2026-06-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4024",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/091d5ca6221c9c79ec1471d1ec7e94759d27a9dc"
+    },
     {
       "sha": "aaa859d532",
       "message": "Fix build warnings with OpenSSL 4.0 (#4016)",
