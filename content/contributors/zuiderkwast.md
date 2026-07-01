@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1176,
+  "score": 1178,
   "commit_count": 153,
-  "review_count": 1023,
+  "review_count": 1025,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1239,6 +1239,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "406fe5431e",
+      "message": "Fix assert with CLUSTER REPLICATE for replicas that own slots (#4020)",
+      "date": "2026-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4020",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/406fe5431ea555c09d3ca2f3283dfa4a3c944254"
+    },
+    {
+      "sha": "14624e461a",
+      "message": "Optimize modules dict iteration with early return when empty (#4002)",
+      "date": "2026-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4002",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/14624e461a78dd82657cc422d65915d42f7491c2"
+    },
     {
       "sha": "091d5ca622",
       "message": "Restore client's selected DB after module keyspace notification (#4024)",

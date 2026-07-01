@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 99,
+  "score": 100,
   "commit_count": 24,
-  "review_count": 75,
+  "review_count": 76,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -213,6 +213,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4024",
       "commit_url": "https://github.com/valkey-io/valkey/commit/091d5ca6221c9c79ec1471d1ec7e94759d27a9dc"
+    },
+    {
+      "sha": "eefa8927dc",
+      "message": "fix: Reject corrupt stream RDB with shared NACK across consumers (#4073)",
+      "date": "2026-06-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4073",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/eefa8927dc2ba7bb9edf62f9288d155e74df59ff"
     },
     {
       "sha": "2253589b2e",

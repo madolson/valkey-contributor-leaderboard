@@ -2,8 +2,8 @@
   "title": "smkher",
   "login": "smkher",
   "avatar_url": "https://avatars.githubusercontent.com/u/3863574?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "eefa8927dc",
+      "message": "fix: Reject corrupt stream RDB with shared NACK across consumers (#4073)",
+      "date": "2026-06-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4073",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/eefa8927dc2ba7bb9edf62f9288d155e74df59ff"
+    },
     {
       "sha": "89643b75a1",
       "message": "fix: Handle macOS-incompatible script command in integration test runner (#1014)",

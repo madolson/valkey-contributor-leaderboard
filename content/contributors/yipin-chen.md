@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 749,
+  "score": 753,
   "commit_count": 45,
-  "review_count": 704,
+  "review_count": 708,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8815277106",
+      "message": "build(deps): update anyhow to 1.0.103 to fix RUSTSEC-2026-0190 (#6364)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6364",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/881527710637b236120968f14acb5195c72ada2c"
+    },
+    {
+      "sha": "6eb7464c21",
+      "message": "test(core): deflake subscription-survives-failover test (#5999)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5999",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6eb7464c2186b01bd33b803f395429df1f20a474"
+    },
+    {
+      "sha": "36c24cfb47",
+      "message": "test(node): fix flaky ClientSideCache beforeAll timeout (#6116)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6116",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/36c24cfb47cc0c33546800c09ab284c0554f3fa4"
+    },
+    {
+      "sha": "204dc7d161",
+      "message": "test(python): deterministic channel names in sync pubsub test (#6205)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6205",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/204dc7d161c423ff537bc975cf53427fe79cf70d"
+    },
     {
       "sha": "9a63972b9c",
       "message": "Fix flaky test_pipeline_all_primary_routing timeout (#6339)",

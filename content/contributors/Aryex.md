@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 164,
-  "commit_count": 54,
-  "review_count": 110,
+  "score": 166,
+  "commit_count": 55,
+  "review_count": 111,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "6f9fa294ad",
+      "message": "cd: Fix python and node release workflows (#6363)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6363",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6f9fa294ad768137e447a04f48e1543798f58a8b"
+    },
     {
       "sha": "4653765c67",
       "message": "fix(python): trio backend race condition and utils asyncio usages (#6308)",
@@ -450,6 +458,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ce0db4cd41",
+      "message": "Add MacOS support - CI and CD (#116)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/116",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ce0db4cd410df06433e02fa49b181554fa53bf52"
+    },
     {
       "sha": "17548c74aa",
       "message": "Add Full Matrix Tests (#111)",

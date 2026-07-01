@@ -2,8 +2,8 @@
   "title": "avifenesh",
   "login": "avifenesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
-  "score": 259,
-  "commit_count": 93,
+  "score": 260,
+  "commit_count": 94,
   "review_count": 166,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "e2706b00f6",
+      "message": "Node: Replace socket IPC with direct NAPI layer (#5325)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5325",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e2706b00f69ac2660946f13350f41f85af64ca6c"
+    },
     {
       "sha": "61e27067c7",
       "message": "Prevent zombie sub-command accumulation with InflightTracker (#5632)",

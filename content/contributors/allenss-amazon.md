@@ -2,15 +2,23 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 271,
-  "commit_count": 65,
-  "review_count": 206,
+  "score": 275,
+  "commit_count": 66,
+  "review_count": 209,
   "repos": [
     "valkey",
     "valkey-json",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "ae132bea8d",
+      "message": "Validate query vector size against index dimensions at parse time (#1192)",
+      "date": "2026-06-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1192",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ae132bea8db015c551ea6743e2e37ee34993c430"
+    },
     {
       "sha": "323c7dc1d9",
       "message": "Vector Search performance improvement (#1163)",
@@ -533,6 +541,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "226928b625",
+      "message": "Replace main branch release notes with development placeholder (#1199)",
+      "date": "2026-07-01",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1199",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/226928b625bdbbf9f9e73d4bb6540beeab867112"
+    },
+    {
+      "sha": "5a63e8269b",
+      "message": "Reset search.search-result-background-cleanup back to true (#1203)",
+      "date": "2026-07-01",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1203",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5a63e8269b8fd3b0fb98c47a150a7bab5f45e299"
+    },
+    {
+      "sha": "5c07b8b530",
+      "message": "Async Index Schema Destruction (#1202)",
+      "date": "2026-07-01",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1202",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5c07b8b5301228214be7f0989ecaa2e83c4f3340"
+    },
     {
       "sha": "ec0c01a133",
       "message": "Minor fix : Fix _cluster_slots_complete to treat empty CLUSTER SLOTS as incomplete (#1181)",

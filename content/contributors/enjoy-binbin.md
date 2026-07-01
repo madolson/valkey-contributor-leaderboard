@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 894,
-  "commit_count": 350,
-  "review_count": 544,
+  "score": 898,
+  "commit_count": 353,
+  "review_count": 545,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -13,6 +13,30 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "58cba3be75",
+      "message": "Validate node ID and shard ID from network messages before applying (#4065)",
+      "date": "2026-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4065",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/58cba3be7591e772ad4bcdbb779a4cf306d98235"
+    },
+    {
+      "sha": "406fe5431e",
+      "message": "Fix assert with CLUSTER REPLICATE for replicas that own slots (#4020)",
+      "date": "2026-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4020",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/406fe5431ea555c09d3ca2f3283dfa4a3c944254"
+    },
+    {
+      "sha": "14624e461a",
+      "message": "Optimize modules dict iteration with early return when empty (#4002)",
+      "date": "2026-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4002",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/14624e461a78dd82657cc422d65915d42f7491c2"
+    },
     {
       "sha": "091d5ca622",
       "message": "Restore client's selected DB after module keyspace notification (#4024)",
@@ -2815,6 +2839,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "af284c5f45",
+      "message": "Fix sentinel failover coordinated segfault when old leader's client is disconnected (#4068)",
+      "date": "2026-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4068",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/af284c5f45257b7e5138b74377cc1d309c3ed55f"
+    },
     {
       "sha": "5b690cefd6",
       "message": "Deflake diskless timeout rdb pipe test by tolerating either timeout-disconnect branch (#3772)",

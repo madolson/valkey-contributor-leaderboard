@@ -2,9 +2,9 @@
   "title": "rlunar",
   "login": "rlunar",
   "avatar_url": "https://avatars.githubusercontent.com/u/2453805?v=4",
-  "score": 14,
+  "score": 15,
   "commit_count": 10,
-  "review_count": 4,
+  "review_count": 5,
   "repos": [
     "valkey-bundle",
     "valkey-io.github.io",
@@ -93,6 +93,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1daa08078a",
+      "message": "Add ValkeyConf 2026 announcement blog post (#591)",
+      "date": "2026-06-30",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/591",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/1daa08078a13f0d78cc00f17993b62a5cae3e3af"
+    },
     {
       "sha": "f9c59a943a",
       "message": "Change author photo extension to .jpeg (#564)",

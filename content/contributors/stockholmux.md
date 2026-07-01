@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 119,
+  "score": 121,
   "commit_count": 13,
-  "review_count": 106,
+  "review_count": 108,
   "repos": [
     "valkey-io.github.io",
     "valkey-operator"
@@ -116,6 +116,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f49bbf2ccb",
+      "message": "Add Freshworks as a participant (#568)",
+      "date": "2026-06-30",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/568",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f49bbf2ccbf122fa69069b70b600e191d711e5e3"
+    },
+    {
+      "sha": "1daa08078a",
+      "message": "Add ValkeyConf 2026 announcement blog post (#591)",
+      "date": "2026-06-30",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/591",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/1daa08078a13f0d78cc00f17993b62a5cae3e3af"
+    },
     {
       "sha": "282a1172b3",
       "message": "Add Dragos Andriciuc bio (#583)",

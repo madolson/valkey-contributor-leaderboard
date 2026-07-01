@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 222,
+  "score": 223,
   "commit_count": 70,
-  "review_count": 152,
+  "review_count": 153,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -572,6 +572,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6f9fa294ad",
+      "message": "cd: Fix python and node release workflows (#6363)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6363",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6f9fa294ad768137e447a04f48e1543798f58a8b"
+    },
     {
       "sha": "d35b639441",
       "message": "[CI] Add retry logic to cargo-zigbuild install (#6313)",

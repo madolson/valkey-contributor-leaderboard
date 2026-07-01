@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 175,
+  "score": 182,
   "commit_count": 91,
-  "review_count": 84,
+  "review_count": 91,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -742,6 +742,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6f9fa294ad",
+      "message": "cd: Fix python and node release workflows (#6363)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6363",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6f9fa294ad768137e447a04f48e1543798f58a8b"
+    },
+    {
+      "sha": "d7e56f7be5",
+      "message": "test(core): deflake monitor start-and-receive-line test (#6163)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6163",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d7e56f7be5a172a9a7511395db1bf71c2d130177"
+    },
+    {
+      "sha": "6eb7464c21",
+      "message": "test(core): deflake subscription-survives-failover test (#5999)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5999",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6eb7464c2186b01bd33b803f395429df1f20a474"
+    },
+    {
+      "sha": "36c24cfb47",
+      "message": "test(node): fix flaky ClientSideCache beforeAll timeout (#6116)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6116",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/36c24cfb47cc0c33546800c09ab284c0554f3fa4"
+    },
+    {
+      "sha": "204dc7d161",
+      "message": "test(python): deterministic channel names in sync pubsub test (#6205)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6205",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/204dc7d161c423ff537bc975cf53427fe79cf70d"
+    },
+    {
+      "sha": "e2706b00f6",
+      "message": "Node: Replace socket IPC with direct NAPI layer (#5325)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5325",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e2706b00f69ac2660946f13350f41f85af64ca6c"
+    },
+    {
+      "sha": "9b25cf08d7",
+      "message": "PHP: Fix pie install using .tgz file (#233)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/233",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9b25cf08d731eae0437a044ddda6342c1ab9e97f"
+    },
     {
       "sha": "4653765c67",
       "message": "fix(python): trio backend race condition and utils asyncio usages (#6308)",

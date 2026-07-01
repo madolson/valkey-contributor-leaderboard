@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 313,
+  "score": 316,
   "commit_count": 89,
-  "review_count": 224,
+  "review_count": 227,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -727,6 +727,22 @@
   ],
   "review_list": [
     {
+      "sha": "406fe5431e",
+      "message": "Fix assert with CLUSTER REPLICATE for replicas that own slots (#4020)",
+      "date": "2026-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4020",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/406fe5431ea555c09d3ca2f3283dfa4a3c944254"
+    },
+    {
+      "sha": "14624e461a",
+      "message": "Optimize modules dict iteration with early return when empty (#4002)",
+      "date": "2026-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4002",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/14624e461a78dd82657cc422d65915d42f7491c2"
+    },
+    {
       "sha": "5b690cefd6",
       "message": "Deflake diskless timeout rdb pipe test by tolerating either timeout-disconnect branch (#3772)",
       "date": "2026-06-30",
@@ -749,6 +765,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4024",
       "commit_url": "https://github.com/valkey-io/valkey/commit/091d5ca6221c9c79ec1471d1ec7e94759d27a9dc"
+    },
+    {
+      "sha": "eefa8927dc",
+      "message": "fix: Reject corrupt stream RDB with shared NACK across consumers (#4073)",
+      "date": "2026-06-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4073",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/eefa8927dc2ba7bb9edf62f9288d155e74df59ff"
     },
     {
       "sha": "2253589b2e",

@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 184,
-  "commit_count": 47,
-  "review_count": 137,
+  "score": 187,
+  "commit_count": 48,
+  "review_count": 139,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "ce0db4cd41",
+      "message": "Add MacOS support - CI and CD (#116)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/116",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ce0db4cd410df06433e02fa49b181554fa53bf52"
+    },
     {
       "sha": "17548c74aa",
       "message": "Add Full Matrix Tests (#111)",
@@ -390,6 +398,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e2706b00f6",
+      "message": "Node: Replace socket IPC with direct NAPI layer (#5325)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5325",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e2706b00f69ac2660946f13350f41f85af64ca6c"
+    },
+    {
+      "sha": "9b25cf08d7",
+      "message": "PHP: Fix pie install using .tgz file (#233)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/233",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9b25cf08d731eae0437a044ddda6342c1ab9e97f"
+    },
     {
       "sha": "57315eb5f4",
       "message": "PHP: Update package.json (#232)",

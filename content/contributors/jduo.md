@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 255,
+  "score": 258,
   "commit_count": 57,
-  "review_count": 198,
+  "review_count": 201,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -470,6 +470,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8815277106",
+      "message": "build(deps): update anyhow to 1.0.103 to fix RUSTSEC-2026-0190 (#6364)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6364",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/881527710637b236120968f14acb5195c72ada2c"
+    },
+    {
+      "sha": "e2706b00f6",
+      "message": "Node: Replace socket IPC with direct NAPI layer (#5325)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5325",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e2706b00f69ac2660946f13350f41f85af64ca6c"
+    },
+    {
+      "sha": "e2706b00f6",
+      "message": "Node: Replace socket IPC with direct NAPI layer (#5325)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5325",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e2706b00f69ac2660946f13350f41f85af64ca6c"
+    },
     {
       "sha": "4653765c67",
       "message": "fix(python): trio backend race condition and utils asyncio usages (#6308)",

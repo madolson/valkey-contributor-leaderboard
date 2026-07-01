@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 286,
+  "score": 287,
   "commit_count": 62,
-  "review_count": 224,
+  "review_count": 225,
   "repos": [
     "valkey",
     "valkey-container",
@@ -512,6 +512,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "58cba3be75",
+      "message": "Validate node ID and shard ID from network messages before applying (#4065)",
+      "date": "2026-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4065",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/58cba3be7591e772ad4bcdbb779a4cf306d98235"
+    },
     {
       "sha": "689906a913",
       "message": "Cleanup redundant incrRefCount and fix new_argv alloc size around HDEL (#4059)",

@@ -2,13 +2,21 @@
   "title": "mtuteja-git",
   "login": "mtuteja-git",
   "avatar_url": "https://avatars.githubusercontent.com/u/93806838?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "f49bbf2ccb",
+      "message": "Add Freshworks as a participant (#568)",
+      "date": "2026-06-30",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/568",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f49bbf2ccbf122fa69069b70b600e191d711e5e3"
+    },
     {
       "sha": "ed1d6f9e83",
       "message": "Add events page intro (meetup, asana form), new events, and sort order (#504)",

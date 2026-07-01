@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 83,
+  "score": 84,
   "commit_count": 35,
-  "review_count": 48,
+  "review_count": 49,
   "repos": [
     "valkey",
     "valkey-io.github.io",
@@ -293,6 +293,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ae132bea8d",
+      "message": "Validate query vector size against index dimensions at parse time (#1192)",
+      "date": "2026-06-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1192",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ae132bea8db015c551ea6743e2e37ee34993c430"
+    },
     {
       "sha": "323c7dc1d9",
       "message": "Vector Search performance improvement (#1163)",

@@ -2,8 +2,8 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 256,
-  "commit_count": 96,
+  "score": 258,
+  "commit_count": 98,
   "review_count": 160,
   "repos": [
     "valkey",
@@ -15,6 +15,22 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "5a63e8269b",
+      "message": "Reset search.search-result-background-cleanup back to true (#1203)",
+      "date": "2026-07-01",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1203",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5a63e8269b8fd3b0fb98c47a150a7bab5f45e299"
+    },
+    {
+      "sha": "5c07b8b530",
+      "message": "Async Index Schema Destruction (#1202)",
+      "date": "2026-07-01",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1202",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5c07b8b5301228214be7f0989ecaa2e83c4f3340"
+    },
     {
       "sha": "be614f3b91",
       "message": "Avoid ref counting in Text iterators + Postings ContainsFields short circuit (#1044)",

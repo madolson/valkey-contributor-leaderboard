@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 153,
+  "score": 154,
   "commit_count": 39,
-  "review_count": 114,
+  "review_count": 115,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -325,6 +325,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e2706b00f6",
+      "message": "Node: Replace socket IPC with direct NAPI layer (#5325)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5325",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e2706b00f69ac2660946f13350f41f85af64ca6c"
+    },
     {
       "sha": "b5069d3568",
       "message": "Python: Fix pubsub pipe head-of-line blocking and add lifecycle tests (#6321)",

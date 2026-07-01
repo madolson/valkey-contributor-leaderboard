@@ -2,9 +2,9 @@
   "title": "makubo-aws",
   "login": "makubo-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/203714000?v=4",
-  "score": 7,
+  "score": 8,
   "commit_count": 4,
-  "review_count": 3,
+  "review_count": 4,
   "repos": [
     "valkey-doc",
     "valkey-io.github.io"
@@ -44,6 +44,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f49bbf2ccb",
+      "message": "Add Freshworks as a participant (#568)",
+      "date": "2026-06-30",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/568",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f49bbf2ccbf122fa69069b70b600e191d711e5e3"
+    },
     {
       "sha": "11cbe2c167",
       "message": "Use Valkeyrie Bot for assign-blog-reviewers workflow (#551)",

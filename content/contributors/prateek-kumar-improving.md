@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 351,
-  "commit_count": 117,
-  "review_count": 234,
+  "score": 355,
+  "commit_count": 118,
+  "review_count": 237,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "9b25cf08d7",
+      "message": "PHP: Fix pie install using .tgz file (#233)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/233",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9b25cf08d731eae0437a044ddda6342c1ab9e97f"
+    },
     {
       "sha": "8f6a9e7452",
       "message": "GO: Add migrate commands support for multiple keys (#6293)",
@@ -950,6 +958,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d7e56f7be5",
+      "message": "test(core): deflake monitor start-and-receive-line test (#6163)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6163",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d7e56f7be5a172a9a7511395db1bf71c2d130177"
+    },
+    {
+      "sha": "8815277106",
+      "message": "build(deps): update anyhow to 1.0.103 to fix RUSTSEC-2026-0190 (#6364)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6364",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/881527710637b236120968f14acb5195c72ada2c"
+    },
+    {
+      "sha": "ce0db4cd41",
+      "message": "Add MacOS support - CI and CD (#116)",
+      "date": "2026-06-30",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/116",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ce0db4cd410df06433e02fa49b181554fa53bf52"
+    },
     {
       "sha": "6707667814",
       "message": "test(ffi): add native-memory leak regression tests for OpenTelemetry spans (#6227)",
