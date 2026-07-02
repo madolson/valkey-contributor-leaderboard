@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 84,
+  "score": 85,
   "commit_count": 35,
-  "review_count": 49,
+  "review_count": 50,
   "repos": [
     "valkey",
     "valkey-io.github.io",
@@ -293,6 +293,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7204f2f2c8",
+      "message": "Validate HNSW index data when loading from an external file (#1191)",
+      "date": "2026-07-01",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1191",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7204f2f2c813ab5a552436c31b307006e2501eaf"
+    },
     {
       "sha": "ae132bea8d",
       "message": "Validate query vector size against index dimensions at parse time (#1192)",

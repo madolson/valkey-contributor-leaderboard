@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 100,
+  "score": 101,
   "commit_count": 24,
-  "review_count": 76,
+  "review_count": 77,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -206,6 +206,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ac61c11d0c",
+      "message": "Add C-readable test guidelines to unit test README (#4051)",
+      "date": "2026-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4051",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ac61c11d0cd0b772c204c56ecf170119aababf99"
+    },
     {
       "sha": "091d5ca622",
       "message": "Restore client's selected DB after module keyspace notification (#4024)",

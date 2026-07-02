@@ -157881,6 +157881,326 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1192"
+    },
+    {
+      "sha": "51543c01f132aa794511229475dbbec505218311",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Drop the link when gossip section contains invalid node IDs (#4077)",
+      "date": "2026-07-02T01:59:53Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "hpatro",
+          "date": "2026-07-01T09:29:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4077"
+    },
+    {
+      "sha": "64c73aacdeaf7c6078cdc526495526468909bc2e",
+      "author_login": "pkhartsk",
+      "author_id": 225215338,
+      "avatar_url": "https://avatars.githubusercontent.com/u/225215338?v=4",
+      "message": "Log certificate errors in isCertValid (OpenSSL 4.0 only) (#4064)",
+      "date": "2026-07-01T21:14:55Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-06-29T09:56:00Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-06-29T17:35:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4064"
+    },
+    {
+      "sha": "8eca03b005c3b9298366b9ccffe72c1e68c58e59",
+      "author_login": "AdityaTeltia",
+      "author_id": 67232537,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67232537?v=4",
+      "message": "Preparations to make serverObject (robj) opaque (#3149)",
+      "date": "2026-07-01T16:20:19Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-02-10T20:20:13Z"
+        },
+        {
+          "login": "rainsupreme",
+          "date": "2026-02-10T20:39:27Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-02-19T06:44:25Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-05-08T13:24:00Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3149"
+    },
+    {
+      "sha": "ac61c11d0cd0b772c204c56ecf170119aababf99",
+      "author_login": "rainsupreme",
+      "author_id": 20649182,
+      "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
+      "message": "Add C-readable test guidelines to unit test README (#4051)",
+      "date": "2026-07-01T09:02:15Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-06-25T03:51:38Z"
+        },
+        {
+          "login": "dvkashapov",
+          "date": "2026-06-26T13:12:57Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-06-30T21:56:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4051"
+    },
+    {
+      "sha": "e7a28204bbafc7a37ffda305ca722557beb286d7",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump the github-actions group with 9 updates (#147)",
+      "date": "2026-07-01T21:23:40Z",
+      "repo": "valkey-container",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-07-01T21:23:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/147"
+    },
+    {
+      "sha": "052ae4ef62b3ab055ce991d74ea27a5cf1762a20",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 2 updates (#6380)",
+      "date": "2026-07-01T21:50:03Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-01T19:32:41Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-07-01T20:55:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6380"
+    },
+    {
+      "sha": "04cd0ec60c4557a65df3660aa664bbb25e034c60",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "build(deps): bump the minor-updates group across 1 directory with 2 updates (#6381)",
+      "date": "2026-07-01T21:49:49Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-01T19:32:05Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-07-01T20:55:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6381"
+    },
+    {
+      "sha": "dcaa82c2e182876d4ce1ac4ef08f569454d6c33d",
+      "author_login": "patrickn2",
+      "author_id": 119355744,
+      "avatar_url": "https://avatars.githubusercontent.com/u/119355744?v=4",
+      "message": "feat: JSON.MERGE plus unit and integration tests (#95)",
+      "date": "2026-07-01T21:15:44Z",
+      "repo": "valkey-json",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-07-01T21:12:52Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/95"
+    },
+    {
+      "sha": "ca5162e159c4e6e3fa47d8bc85df5fdc112237ca",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump actions/checkout from 6.0.3 to 7.0.0 (#290)",
+      "date": "2026-07-02T05:23:33Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "sandeepkunusoth",
+          "date": "2026-07-02T05:23:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/290"
+    },
+    {
+      "sha": "66a291c60e19903aabaf98d216c1da697891ce0c",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump actions/setup-go from 6.4.0 to 6.5.0 (#289)",
+      "date": "2026-07-02T01:34:57Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "sandeepkunusoth",
+          "date": "2026-07-02T01:33:42Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/289"
+    },
+    {
+      "sha": "e0a3d581c66ea5d8e52aced11a7e34b73ee28940",
+      "author_login": "hieu2102",
+      "author_id": 13182932,
+      "avatar_url": "https://avatars.githubusercontent.com/u/13182932?v=4",
+      "message": "add dedicated replication system user (#237)",
+      "date": "2026-07-01T11:06:27Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-07-01T09:56:37Z"
+        },
+        {
+          "login": "jdheyburn",
+          "date": "2026-07-01T11:06:21Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/237"
+    },
+    {
+      "sha": "bedf2d79f0b5f24aa3c70028d7225024ec7c465c",
+      "author_login": "SuperQ",
+      "author_id": 1320667,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1320667?v=4",
+      "message": "Init cluster metrics (#285)",
+      "date": "2026-07-01T09:48:30Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-06-30T10:18:18Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/285"
+    },
+    {
+      "sha": "49a585b709d318444aa3cb2a8119682f516e77e1",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Open next development cycle on main (release stage \"dev\", drop stale CMake VERSION) (#1207)",
+      "date": "2026-07-01T23:18:32Z",
+      "repo": "valkey-search",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7204f2f2c813ab5a552436c31b307006e2501eaf",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Validate HNSW index data when loading from an external file (#1191)",
+      "date": "2026-07-01T17:27:48Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "BCathcart",
+          "date": "2026-07-01T16:12:12Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1191"
+    },
+    {
+      "sha": "d9ce093ebdeff3b0efb27488317da4a66f231b5c",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "packaging: Claude Code marketplace + plugin + Codex plugin manifests (#11)",
+      "date": "2026-07-01T18:33:41Z",
+      "repo": "valkey-skills",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7fb1b4aaf5278755bf60e3ef1c807270cf5fa8db",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "ci: agnix lint + upstream-valkey version watch (#9)",
+      "date": "2026-07-01T18:33:38Z",
+      "repo": "valkey-skills",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "0b90c3055a6c97316c506c984aae30d5130864b0",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "docs: add COPYING, CONTRIBUTING.md, CODEOWNERS (#13)",
+      "date": "2026-07-01T18:31:16Z",
+      "repo": "valkey-skills",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-06-30T21:55:20Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-skills/pull/13"
+    },
+    {
+      "sha": "89acf99bf5e5646c91559c3fa854db0b3008ef45",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "docs: README - why skills, what's in it, install (#12)",
+      "date": "2026-07-01T18:31:13Z",
+      "repo": "valkey-skills",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-06-30T21:47:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-skills/pull/12"
+    },
+    {
+      "sha": "da5c5736c7eb0b6669901410a3b27743de4e99ba",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "valkey: add application-developer skill (#8)",
+      "date": "2026-07-01T18:18:30Z",
+      "repo": "valkey-skills",
+      "reviewed": false,
+      "pr_url": ""
     }
   ]
 }

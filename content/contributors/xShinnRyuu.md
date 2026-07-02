@@ -669,6 +669,22 @@
   ],
   "review_list": [
     {
+      "sha": "052ae4ef62",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 2 updates (#6380)",
+      "date": "2026-07-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6380",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/052ae4ef62b3ab055ce991d74ea27a5cf1762a20"
+    },
+    {
+      "sha": "04cd0ec60c",
+      "message": "build(deps): bump the minor-updates group across 1 directory with 2 updates (#6381)",
+      "date": "2026-07-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6381",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/04cd0ec60c4557a65df3660aa664bbb25e034c60"
+    },
+    {
       "sha": "c4f0b8a28e",
       "message": "chore(deps): bump taiki-e/install-action from 2.82.2 to 2.82.6 in the patch-updates group (#432)",
       "date": "2026-06-29",

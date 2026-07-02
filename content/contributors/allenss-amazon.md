@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 275,
-  "commit_count": 66,
+  "score": 276,
+  "commit_count": 67,
   "review_count": 209,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "7204f2f2c8",
+      "message": "Validate HNSW index data when loading from an external file (#1191)",
+      "date": "2026-07-01",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1191",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7204f2f2c813ab5a552436c31b307006e2501eaf"
+    },
     {
       "sha": "ae132bea8d",
       "message": "Validate query vector size against index dimensions at parse time (#1192)",

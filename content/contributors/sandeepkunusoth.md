@@ -164,6 +164,22 @@
   ],
   "review_list": [
     {
+      "sha": "ca5162e159",
+      "message": "chore(deps): bump actions/checkout from 6.0.3 to 7.0.0 (#290)",
+      "date": "2026-07-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/290",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/ca5162e159c4e6e3fa47d8bc85df5fdc112237ca"
+    },
+    {
+      "sha": "66a291c60e",
+      "message": "chore(deps): bump actions/setup-go from 6.4.0 to 6.5.0 (#289)",
+      "date": "2026-07-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/289",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/66a291c60e19903aabaf98d216c1da697891ce0c"
+    },
+    {
       "sha": "5ac4d51170",
       "message": "fix: Ensure shards required (#283)",
       "date": "2026-06-26",

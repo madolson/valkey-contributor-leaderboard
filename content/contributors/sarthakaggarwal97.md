@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 316,
+  "score": 318,
   "commit_count": 89,
-  "review_count": 227,
+  "review_count": 229,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -741,6 +741,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4002",
       "commit_url": "https://github.com/valkey-io/valkey/commit/14624e461a78dd82657cc422d65915d42f7491c2"
+    },
+    {
+      "sha": "64c73aacde",
+      "message": "Log certificate errors in isCertValid (OpenSSL 4.0 only) (#4064)",
+      "date": "2026-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4064",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/64c73aacdeaf7c6078cdc526495526468909bc2e"
+    },
+    {
+      "sha": "ac61c11d0c",
+      "message": "Add C-readable test guidelines to unit test README (#4051)",
+      "date": "2026-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4051",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ac61c11d0cd0b772c204c56ecf170119aababf99"
     },
     {
       "sha": "5b690cefd6",

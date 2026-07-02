@@ -2,13 +2,21 @@
   "title": "SuperQ",
   "login": "SuperQ",
   "avatar_url": "https://avatars.githubusercontent.com/u/1320667?v=4",
-  "score": 6,
-  "commit_count": 5,
+  "score": 7,
+  "commit_count": 6,
   "review_count": 1,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "bedf2d79f0",
+      "message": "Init cluster metrics (#285)",
+      "date": "2026-07-01",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/285",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/bedf2d79f0b5f24aa3c70028d7225024ec7c465c"
+    },
     {
       "sha": "bd677c75e5",
       "message": "Add prefix to container image version tags. (#174)",

@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 374,
+  "score": 375,
   "commit_count": 143,
-  "review_count": 231,
+  "review_count": 232,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1165,6 +1165,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e7a28204bb",
+      "message": "Bump the github-actions group with 9 updates (#147)",
+      "date": "2026-07-01",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/147",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/e7a28204bbafc7a37ffda305ca722557beb286d7"
+    },
+    {
+      "sha": "dcaa82c2e1",
+      "message": "feat: JSON.MERGE plus unit and integration tests (#95)",
+      "date": "2026-07-01",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/95",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/dcaa82c2e182876d4ce1ac4ef08f569454d6c33d"
+    },
     {
       "sha": "d38ff73aa2",
       "message": "Fix HGETDEL FIELDS token validation (#4049)",

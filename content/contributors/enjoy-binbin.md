@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 898,
-  "commit_count": 353,
+  "score": 899,
+  "commit_count": 354,
   "review_count": 545,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "51543c01f1",
+      "message": "Drop the link when gossip section contains invalid node IDs (#4077)",
+      "date": "2026-07-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4077",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/51543c01f132aa794511229475dbbec505218311"
+    },
     {
       "sha": "58cba3be75",
       "message": "Validate node ID and shard ID from network messages before applying (#4065)",

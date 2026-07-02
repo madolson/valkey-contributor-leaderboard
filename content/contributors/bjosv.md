@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 217,
+  "score": 219,
   "commit_count": 116,
-  "review_count": 101,
+  "review_count": 103,
   "repos": [
     "libvalkey",
     "valkey",
@@ -943,6 +943,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e0a3d581c6",
+      "message": "add dedicated replication system user (#237)",
+      "date": "2026-07-01",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/237",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/e0a3d581c66ea5d8e52aced11a7e34b73ee28940"
+    },
+    {
+      "sha": "bedf2d79f0",
+      "message": "Init cluster metrics (#285)",
+      "date": "2026-07-01",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/285",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/bedf2d79f0b5f24aa3c70028d7225024ec7c465c"
+    },
     {
       "sha": "5ac4d51170",
       "message": "fix: Ensure shards required (#283)",

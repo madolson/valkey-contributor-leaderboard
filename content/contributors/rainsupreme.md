@@ -2,14 +2,22 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 82,
-  "commit_count": 28,
-  "review_count": 54,
+  "score": 86,
+  "commit_count": 29,
+  "review_count": 57,
   "repos": [
     "valkey",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "ac61c11d0c",
+      "message": "Add C-readable test guidelines to unit test README (#4051)",
+      "date": "2026-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4051",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ac61c11d0cd0b772c204c56ecf170119aababf99"
+    },
     {
       "sha": "5ae43a4038",
       "message": "hashtable: scan no-duplicate guarantee and add HasPassedKey API (#3803)",
@@ -236,6 +244,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8eca03b005",
+      "message": "Preparations to make serverObject (robj) opaque (#3149)",
+      "date": "2026-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3149",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8eca03b005c3b9298366b9ccffe72c1e68c58e59"
+    },
+    {
+      "sha": "0b90c3055a",
+      "message": "docs: add COPYING, CONTRIBUTING.md, CODEOWNERS (#13)",
+      "date": "2026-07-01",
+      "repo": "valkey-skills",
+      "pr_url": "https://github.com/valkey-io/valkey-skills/pull/13",
+      "commit_url": "https://github.com/valkey-io/valkey-skills/commit/0b90c3055a6c97316c506c984aae30d5130864b0"
+    },
+    {
+      "sha": "89acf99bf5",
+      "message": "docs: README - why skills, what's in it, install (#12)",
+      "date": "2026-07-01",
+      "repo": "valkey-skills",
+      "pr_url": "https://github.com/valkey-io/valkey-skills/pull/12",
+      "commit_url": "https://github.com/valkey-io/valkey-skills/commit/89acf99bf5e5646c91559c3fa854db0b3008ef45"
+    },
     {
       "sha": "5b690cefd6",
       "message": "Deflake diskless timeout rdb pipe test by tolerating either timeout-disconnect branch (#3772)",

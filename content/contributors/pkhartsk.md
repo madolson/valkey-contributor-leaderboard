@@ -2,13 +2,21 @@
   "title": "pkhartsk",
   "login": "pkhartsk",
   "avatar_url": "https://avatars.githubusercontent.com/u/225215338?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "64c73aacde",
+      "message": "Log certificate errors in isCertValid (OpenSSL 4.0 only) (#4064)",
+      "date": "2026-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4064",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/64c73aacdeaf7c6078cdc526495526468909bc2e"
+    },
     {
       "sha": "aaa859d532",
       "message": "Fix build warnings with OpenSSL 4.0 (#4016)",

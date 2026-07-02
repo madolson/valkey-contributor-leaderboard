@@ -2,16 +2,33 @@
   "title": "avifenesh",
   "login": "avifenesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
-  "score": 260,
-  "commit_count": 94,
+  "score": 262,
+  "commit_count": 96,
   "review_count": 166,
   "repos": [
     "valkey",
     "valkey-doc",
     "valkey-glide",
-    "valkey-io.github.io"
+    "valkey-io.github.io",
+    "valkey-skills"
   ],
   "commit_list": [
+    {
+      "sha": "0b90c3055a",
+      "message": "docs: add COPYING, CONTRIBUTING.md, CODEOWNERS (#13)",
+      "date": "2026-07-01",
+      "repo": "valkey-skills",
+      "pr_url": "https://github.com/valkey-io/valkey-skills/pull/13",
+      "commit_url": "https://github.com/valkey-io/valkey-skills/commit/0b90c3055a6c97316c506c984aae30d5130864b0"
+    },
+    {
+      "sha": "89acf99bf5",
+      "message": "docs: README - why skills, what's in it, install (#12)",
+      "date": "2026-07-01",
+      "repo": "valkey-skills",
+      "pr_url": "https://github.com/valkey-io/valkey-skills/pull/12",
+      "commit_url": "https://github.com/valkey-io/valkey-skills/commit/89acf99bf5e5646c91559c3fa854db0b3008ef45"
+    },
     {
       "sha": "e2706b00f6",
       "message": "Node: Replace socket IPC with direct NAPI layer (#5325)",

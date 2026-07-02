@@ -2,9 +2,9 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 247,
+  "score": 249,
   "commit_count": 94,
-  "review_count": 153,
+  "review_count": 155,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -775,6 +775,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8eca03b005",
+      "message": "Preparations to make serverObject (robj) opaque (#3149)",
+      "date": "2026-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3149",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8eca03b005c3b9298366b9ccffe72c1e68c58e59"
+    },
+    {
+      "sha": "8eca03b005",
+      "message": "Preparations to make serverObject (robj) opaque (#3149)",
+      "date": "2026-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3149",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8eca03b005c3b9298366b9ccffe72c1e68c58e59"
+    },
     {
       "sha": "719268e847",
       "message": "Fix module loading failure for redis module (#3374)",

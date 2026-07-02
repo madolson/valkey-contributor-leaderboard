@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 93,
+  "score": 94,
   "commit_count": 30,
-  "review_count": 63,
+  "review_count": 64,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -253,6 +253,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e0a3d581c6",
+      "message": "add dedicated replication system user (#237)",
+      "date": "2026-07-01",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/237",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/e0a3d581c66ea5d8e52aced11a7e34b73ee28940"
+    },
     {
       "sha": "8a253112cb",
       "message": "added metrics auth rbac (#198)",

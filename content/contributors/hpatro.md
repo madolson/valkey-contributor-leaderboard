@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 287,
+  "score": 288,
   "commit_count": 62,
-  "review_count": 225,
+  "review_count": 226,
   "repos": [
     "valkey",
     "valkey-container",
@@ -512,6 +512,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "51543c01f1",
+      "message": "Drop the link when gossip section contains invalid node IDs (#4077)",
+      "date": "2026-07-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4077",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/51543c01f132aa794511229475dbbec505218311"
+    },
     {
       "sha": "58cba3be75",
       "message": "Validate node ID and shard ID from network messages before applying (#4065)",
