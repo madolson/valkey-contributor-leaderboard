@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 115,
-  "commit_count": 101,
+  "score": 116,
+  "commit_count": 102,
   "review_count": 14,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "667d99805d",
+      "message": "added big keys configuration for top scan and scan limit (#378)",
+      "date": "2026-07-02",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/378",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/667d99805dfc55b089dd96439a5fcc9a1fe0e082"
+    },
     {
       "sha": "c45e48e374",
       "message": "End to end implementation of big keys from metrics, to server and to \u2026 (#376)",

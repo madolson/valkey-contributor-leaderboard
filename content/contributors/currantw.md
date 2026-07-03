@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 215,
-  "commit_count": 126,
-  "review_count": 89,
+  "score": 217,
+  "commit_count": 127,
+  "review_count": 90,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "4f9fd8f3e6",
+      "message": "feat: Add `BGSAVE` commands (#436)",
+      "date": "2026-07-02",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/436",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4f9fd8f3e60d53d2319d6ae7049c2ad46ac8e6e1"
+    },
     {
       "sha": "5d936c6963",
       "message": "Client-side caching: add `serverAssisted` config and `CLIENT TRACKINGINFO` command (Node, Python, Go, Java) (#6344)",
@@ -1024,6 +1032,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d41c989d4b",
+      "message": "docs: Add Pending 2.6 changelog section (#6398)",
+      "date": "2026-07-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6398",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d41c989d4b9257e09cc2d169d55ad6ca799d225e"
+    },
     {
       "sha": "8f6a9e7452",
       "message": "GO: Add migrate commands support for multiple keys (#6293)",

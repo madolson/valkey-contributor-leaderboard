@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 899,
-  "commit_count": 354,
-  "review_count": 545,
+  "score": 901,
+  "commit_count": 355,
+  "review_count": 546,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "debe5c5009",
+      "message": "Share pubsub pattern and watched key across clients (#4072)",
+      "date": "2026-07-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4072",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/debe5c500907f015885d0c45c93e77f444514f59"
+    },
     {
       "sha": "51543c01f1",
       "message": "Drop the link when gossip section contains invalid node IDs (#4077)",
@@ -2847,6 +2855,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "aa940b6f45",
+      "message": "Batch RESP frame in replicationFeedReplicas (#4044)",
+      "date": "2026-07-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4044",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/aa940b6f456544491d1b8c5427cb1fbda0f21628"
+    },
     {
       "sha": "af284c5f45",
       "message": "Fix sentinel failover coordinated segfault when old leader's client is disconnected (#4068)",

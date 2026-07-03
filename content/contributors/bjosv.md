@@ -944,6 +944,14 @@
   ],
   "review_list": [
     {
+      "sha": "799e8af298",
+      "message": "chore(deps): bump docker/build-push-action from 7.2.0 to 7.3.0 (#291)",
+      "date": "2026-07-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/291",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/799e8af29838c6bc1f8400dc7d477a7f28ec9d3e"
+    },
+    {
       "sha": "e0a3d581c6",
       "message": "add dedicated replication system user (#237)",
       "date": "2026-07-01",

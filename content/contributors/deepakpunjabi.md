@@ -2,13 +2,22 @@
   "title": "deepakpunjabi",
   "login": "deepakpunjabi",
   "avatar_url": "https://avatars.githubusercontent.com/u/17640076?v=4",
-  "score": 3,
-  "commit_count": 2,
+  "score": 4,
+  "commit_count": 3,
   "review_count": 1,
   "repos": [
+    "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "64e528416a",
+      "message": "Updated chart.version",
+      "date": "2026-07-02",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/203",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/64e528416a0ab813bb886128e4f9c46961451646"
+    },
     {
       "sha": "5ac4d51170",
       "message": "fix: Ensure shards required (#283)",

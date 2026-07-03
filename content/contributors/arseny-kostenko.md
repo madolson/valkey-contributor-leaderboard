@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 211,
+  "score": 213,
   "commit_count": 19,
-  "review_count": 192,
+  "review_count": 194,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0648584dbd",
+      "message": "Display binary values as hex and handle quotes in commands (#381)",
+      "date": "2026-07-02",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/381",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/0648584dbd6278c97608a03a54b8b3b9a79a0ca4"
+    },
+    {
+      "sha": "208ba0f416",
+      "message": "Add preconfigured metrics server for standalone (#379)",
+      "date": "2026-07-02",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/379",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/208ba0f416b5d1fbfbc399cacf0152ff865e4c49"
+    },
     {
       "sha": "46c1afbb42",
       "message": "Add CSP (#377)",

@@ -2,13 +2,21 @@
   "title": "Bloodraven21",
   "login": "Bloodraven21",
   "avatar_url": "https://avatars.githubusercontent.com/u/60031755?v=4",
-  "score": 8,
-  "commit_count": 4,
-  "review_count": 4,
+  "score": 11,
+  "commit_count": 5,
+  "review_count": 6,
   "repos": [
     "valkey-helm"
   ],
   "commit_list": [
+    {
+      "sha": "b127e94d19",
+      "message": "Merge pull request #203 from deepakpunjabi/fix/grace-period",
+      "date": "2026-07-02",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/203",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/b127e94d19028570b65afa461cb058d009449370"
+    },
     {
       "sha": "200ec069f6",
       "message": "Merge pull request #208 from Bloodraven21/docs/operator_contributing.md",
@@ -43,6 +51,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f7c35d5096",
+      "message": "Release v0.3.0 (#213)",
+      "date": "2026-07-02",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/213",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/f7c35d50965b2929dd07a2a2233aa707d2d2db5f"
+    },
+    {
+      "sha": "64e528416a",
+      "message": "Updated chart.version",
+      "date": "2026-07-02",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/203",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/64e528416a0ab813bb886128e4f9c46961451646"
+    },
     {
       "sha": "9050bc1ca7",
       "message": "feat(operator): add aggregated admin/editor/viewer ClusterRoles for Valkey CRDs",

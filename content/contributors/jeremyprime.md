@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 154,
+  "score": 155,
   "commit_count": 39,
-  "review_count": 115,
+  "review_count": 116,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -325,6 +325,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d41c989d4b",
+      "message": "docs: Add Pending 2.6 changelog section (#6398)",
+      "date": "2026-07-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6398",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d41c989d4b9257e09cc2d169d55ad6ca799d225e"
+    },
     {
       "sha": "e2706b00f6",
       "message": "Node: Replace socket IPC with direct NAPI layer (#5325)",

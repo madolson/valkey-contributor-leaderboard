@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 276,
+  "score": 278,
   "commit_count": 67,
-  "review_count": 209,
+  "review_count": 211,
   "repos": [
     "valkey",
     "valkey-json",
@@ -549,6 +549,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c093ab9f23",
+      "message": "Add issue templates for patch and major/minor release checklists",
+      "date": "2026-07-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1219",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c093ab9f230478d5a895f72dd75cf95355c256dc"
+    },
+    {
+      "sha": "e8e94d7005",
+      "message": "RemoveSubscription improper destruction handling fix (#1187)",
+      "date": "2026-07-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1187",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e8e94d70058813be888027bd95baf86766616340"
+    },
     {
       "sha": "226928b625",
       "message": "Replace main branch release notes with development placeholder (#1199)",

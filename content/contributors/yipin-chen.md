@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 753,
+  "score": 754,
   "commit_count": 45,
-  "review_count": 708,
+  "review_count": 709,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "acd067567d",
+      "message": "fix(python): correct set return type hint to Optional[Union[TOK, bytes]] (#6351)",
+      "date": "2026-07-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6351",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/acd067567d86a7a18ffbaf62b88a8b63446eb4fc"
+    },
     {
       "sha": "8815277106",
       "message": "build(deps): update anyhow to 1.0.103 to fix RUSTSEC-2026-0190 (#6364)",

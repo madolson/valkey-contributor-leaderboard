@@ -2,15 +2,23 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 94,
-  "commit_count": 30,
-  "review_count": 64,
+  "score": 96,
+  "commit_count": 31,
+  "review_count": 65,
   "repos": [
     "valkey",
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "f7c35d5096",
+      "message": "Release v0.3.0 (#213)",
+      "date": "2026-07-02",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/213",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/f7c35d50965b2929dd07a2a2233aa707d2d2db5f"
+    },
     {
       "sha": "6c83aa5998",
       "message": "Release valkey-operator 0.2.4",
@@ -253,6 +261,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "196a306aaa",
+      "message": "(feat) support readOnlyFileSystem using custom podSecurityContext (#288)",
+      "date": "2026-07-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/288",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/196a306aaa2179d8cd3eb3a6a6184cb6b325fae0"
+    },
     {
       "sha": "e0a3d581c6",
       "message": "add dedicated replication system user (#237)",

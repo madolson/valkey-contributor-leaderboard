@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1181,
+  "score": 1183,
   "commit_count": 153,
-  "review_count": 1028,
+  "review_count": 1030,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1239,6 +1239,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "debe5c5009",
+      "message": "Share pubsub pattern and watched key across clients (#4072)",
+      "date": "2026-07-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4072",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/debe5c500907f015885d0c45c93e77f444514f59"
+    },
+    {
+      "sha": "3c1233c21b",
+      "message": "Validate cluster-announce-ip is an IP address or hostname (#4055)",
+      "date": "2026-07-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4055",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3c1233c21b58a3d5093057f97a9c44ecbd8a6a93"
+    },
     {
       "sha": "406fe5431e",
       "message": "Fix assert with CLUSTER REPLICATE for replicas that own slots (#4020)",

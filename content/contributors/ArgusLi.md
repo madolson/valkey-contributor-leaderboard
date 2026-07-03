@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 85,
+  "score": 86,
   "commit_count": 61,
-  "review_count": 24,
+  "review_count": 25,
   "repos": [
     "valkey-admin"
   ],
@@ -499,6 +499,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "208ba0f416",
+      "message": "Add preconfigured metrics server for standalone (#379)",
+      "date": "2026-07-02",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/379",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/208ba0f416b5d1fbfbc399cacf0152ff865e4c49"
+    },
     {
       "sha": "6d0e8e01d9",
       "message": " Improve error handling for unsupported server commands (#373)",

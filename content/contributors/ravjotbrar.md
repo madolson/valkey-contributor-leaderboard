@@ -2,14 +2,30 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 149,
-  "commit_count": 87,
-  "review_count": 62,
+  "score": 153,
+  "commit_count": 89,
+  "review_count": 64,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "0648584dbd",
+      "message": "Display binary values as hex and handle quotes in commands (#381)",
+      "date": "2026-07-02",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/381",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/0648584dbd6278c97608a03a54b8b3b9a79a0ca4"
+    },
+    {
+      "sha": "208ba0f416",
+      "message": "Add preconfigured metrics server for standalone (#379)",
+      "date": "2026-07-02",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/379",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/208ba0f416b5d1fbfbc399cacf0152ff865e4c49"
+    },
     {
       "sha": "46c1afbb42",
       "message": "Add CSP (#377)",
@@ -708,6 +724,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "667d99805d",
+      "message": "added big keys configuration for top scan and scan limit (#378)",
+      "date": "2026-07-02",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/378",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/667d99805dfc55b089dd96439a5fcc9a1fe0e082"
+    },
+    {
+      "sha": "e62b4074fa",
+      "message": "Document Homebrew cask install for the desktop app (#380)",
+      "date": "2026-07-02",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/380",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/e62b4074fa755ee1584d9babe02315c324e7108b"
+    },
     {
       "sha": "0a58993ead",
       "message": "Refactor connectionId, nodeId, clusterId (#375)",

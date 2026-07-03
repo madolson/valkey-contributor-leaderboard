@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 166,
-  "commit_count": 55,
-  "review_count": 111,
+  "score": 169,
+  "commit_count": 56,
+  "review_count": 113,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "9c4f6c44e9",
+      "message": "test: add tests for connection lifecycles, FAILOVER and CLUSTER FAILOVER.",
+      "date": "2026-07-02",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/114",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/9c4f6c44e9fcbdb2a7dd8894cf49ff81392588d4"
+    },
     {
       "sha": "6f9fa294ad",
       "message": "cd: Fix python and node release workflows (#6363)",
@@ -458,6 +466,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a537e3e413",
+      "message": "test(java): make BatchTests client setup resilient to slow CI connects (#6395)",
+      "date": "2026-07-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6395",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a537e3e41307a9cac98866888b4b08b61dabec86"
+    },
+    {
+      "sha": "d41c989d4b",
+      "message": "docs: Add Pending 2.6 changelog section (#6398)",
+      "date": "2026-07-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6398",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d41c989d4b9257e09cc2d169d55ad6ca799d225e"
+    },
     {
       "sha": "052ae4ef62",
       "message": "build(deps): bump the patch-updates group across 1 directory with 2 updates (#6380)",

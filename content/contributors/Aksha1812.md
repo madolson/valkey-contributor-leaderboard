@@ -2,14 +2,30 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 88,
-  "commit_count": 55,
+  "score": 90,
+  "commit_count": 57,
   "review_count": 33,
   "repos": [
     "valkey-ci-agent",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "cd6e383b07",
+      "message": "Apply backport and ai-resolved-conflicts labels on sweep PRs (#48)",
+      "date": "2026-07-02",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/48",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/cd6e383b078f346a695827fa7c7aadd244b5bb39"
+    },
+    {
+      "sha": "c093ab9f23",
+      "message": "Add issue templates for patch and major/minor release checklists",
+      "date": "2026-07-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1219",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c093ab9f230478d5a895f72dd75cf95355c256dc"
+    },
     {
       "sha": "226928b625",
       "message": "Replace main branch release notes with development placeholder (#1199)",

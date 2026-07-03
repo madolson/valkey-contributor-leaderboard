@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 182,
+  "score": 185,
   "commit_count": 91,
-  "review_count": 91,
+  "review_count": 94,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -742,6 +742,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "acd067567d",
+      "message": "fix(python): correct set return type hint to Optional[Union[TOK, bytes]] (#6351)",
+      "date": "2026-07-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6351",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/acd067567d86a7a18ffbaf62b88a8b63446eb4fc"
+    },
+    {
+      "sha": "a537e3e413",
+      "message": "test(java): make BatchTests client setup resilient to slow CI connects (#6395)",
+      "date": "2026-07-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6395",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a537e3e41307a9cac98866888b4b08b61dabec86"
+    },
+    {
+      "sha": "4f9fd8f3e6",
+      "message": "feat: Add `BGSAVE` commands (#436)",
+      "date": "2026-07-02",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/436",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4f9fd8f3e60d53d2319d6ae7049c2ad46ac8e6e1"
+    },
     {
       "sha": "6f9fa294ad",
       "message": "cd: Fix python and node release workflows (#6363)",

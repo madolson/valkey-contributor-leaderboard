@@ -2,9 +2,9 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 20,
+  "score": 22,
   "commit_count": 13,
-  "review_count": 7,
+  "review_count": 9,
   "repos": [
     "valkey-helm",
     "valkey-operator"
@@ -116,6 +116,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b127e94d19",
+      "message": "Merge pull request #203 from deepakpunjabi/fix/grace-period",
+      "date": "2026-07-02",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/203",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/b127e94d19028570b65afa461cb058d009449370"
+    },
+    {
+      "sha": "64e528416a",
+      "message": "Updated chart.version",
+      "date": "2026-07-02",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/203",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/64e528416a0ab813bb886128e4f9c46961451646"
+    },
     {
       "sha": "200ec069f6",
       "message": "Merge pull request #208 from Bloodraven21/docs/operator_contributing.md",

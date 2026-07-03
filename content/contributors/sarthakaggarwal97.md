@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 318,
+  "score": 320,
   "commit_count": 89,
-  "review_count": 229,
+  "review_count": 231,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -726,6 +726,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cd6e383b07",
+      "message": "Apply backport and ai-resolved-conflicts labels on sweep PRs (#48)",
+      "date": "2026-07-02",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/48",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/cd6e383b078f346a695827fa7c7aadd244b5bb39"
+    },
+    {
+      "sha": "fcebf70d14",
+      "message": "Improvements and Minor Fixes to Test Failure Detector (#44)",
+      "date": "2026-07-02",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/44",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/fcebf70d14dd9a41b7b17ecff8b35d3c23de396d"
+    },
     {
       "sha": "406fe5431e",
       "message": "Fix assert with CLUSTER REPLICATE for replicas that own slots (#4020)",

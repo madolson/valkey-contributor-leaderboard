@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 187,
+  "score": 188,
   "commit_count": 48,
-  "review_count": 139,
+  "review_count": 140,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -398,6 +398,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9c4f6c44e9",
+      "message": "test: add tests for connection lifecycles, FAILOVER and CLUSTER FAILOVER.",
+      "date": "2026-07-02",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/114",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/9c4f6c44e9fcbdb2a7dd8894cf49ff81392588d4"
+    },
     {
       "sha": "e2706b00f6",
       "message": "Node: Replace socket IPC with direct NAPI layer (#5325)",

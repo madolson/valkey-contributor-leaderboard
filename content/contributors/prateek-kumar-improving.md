@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 355,
+  "score": 356,
   "commit_count": 118,
-  "review_count": 237,
+  "review_count": 238,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -958,6 +958,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4f9fd8f3e6",
+      "message": "feat: Add `BGSAVE` commands (#436)",
+      "date": "2026-07-02",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/436",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4f9fd8f3e60d53d2319d6ae7049c2ad46ac8e6e1"
+    },
     {
       "sha": "d7e56f7be5",
       "message": "test(core): deflake monitor start-and-receive-line test (#6163)",

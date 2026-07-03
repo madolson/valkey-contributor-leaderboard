@@ -2,8 +2,8 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 288,
-  "commit_count": 62,
+  "score": 289,
+  "commit_count": 63,
   "review_count": 226,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "aa940b6f45",
+      "message": "Batch RESP frame in replicationFeedReplicas (#4044)",
+      "date": "2026-07-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4044",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/aa940b6f456544491d1b8c5427cb1fbda0f21628"
+    },
     {
       "sha": "ead3dc6f29",
       "message": "Add design doc for I/O threads (#4022)",

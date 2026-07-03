@@ -2,13 +2,21 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 40,
-  "commit_count": 19,
+  "score": 41,
+  "commit_count": 20,
   "review_count": 21,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "196a306aaa",
+      "message": "(feat) support readOnlyFileSystem using custom podSecurityContext (#288)",
+      "date": "2026-07-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/288",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/196a306aaa2179d8cd3eb3a6a6184cb6b325fae0"
+    },
     {
       "sha": "06cd2def59",
       "message": "chore(kubebuilder): update scaffold v4.14.0 -> v4.15.0 (#254)",

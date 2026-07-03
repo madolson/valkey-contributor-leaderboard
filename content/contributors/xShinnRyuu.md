@@ -2,14 +2,38 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 310,
-  "commit_count": 82,
+  "score": 313,
+  "commit_count": 85,
   "review_count": 228,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "acd067567d",
+      "message": "fix(python): correct set return type hint to Optional[Union[TOK, bytes]] (#6351)",
+      "date": "2026-07-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6351",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/acd067567d86a7a18ffbaf62b88a8b63446eb4fc"
+    },
+    {
+      "sha": "a537e3e413",
+      "message": "test(java): make BatchTests client setup resilient to slow CI connects (#6395)",
+      "date": "2026-07-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6395",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a537e3e41307a9cac98866888b4b08b61dabec86"
+    },
+    {
+      "sha": "d41c989d4b",
+      "message": "docs: Add Pending 2.6 changelog section (#6398)",
+      "date": "2026-07-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6398",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d41c989d4b9257e09cc2d169d55ad6ca799d225e"
+    },
     {
       "sha": "d7e56f7be5",
       "message": "test(core): deflake monitor start-and-receive-line test (#6163)",
