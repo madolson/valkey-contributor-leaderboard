@@ -158908,6 +158908,148 @@
       "repo": "valkey-swift",
       "reviewed": false,
       "pr_url": ""
+    },
+    {
+      "sha": "ca4927ec44afebfab08b98799f94af4cf939ab21",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Optimize sendBulkToReplica to reduce lseek syscalls (#4053)",
+      "date": "2026-07-04T01:32:39Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-07-01T08:03:59Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4053"
+    },
+    {
+      "sha": "4b243c09cdbdbf0e655c9b9ff3ed1fb32459295e",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "Add `CLIENT PAUSE` and `CLIENT UNPAUSE` commands (#437)",
+      "date": "2026-07-03T20:13:53Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "alexr-bq",
+          "date": "2026-07-02T16:53:22Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-03T00:18:44Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/437"
+    },
+    {
+      "sha": "a16bc1308cd39c3f2e9da20c9bf935c47945c1fa",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "docs: add resilience best practices guide (#244)",
+      "date": "2026-07-03T17:31:39Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-06-30T18:31:55Z"
+        },
+        {
+          "login": "jduo",
+          "date": "2026-07-03T17:29:48Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/244"
+    },
+    {
+      "sha": "a12356c9bc8d2558c01e6491a47710994c712bce",
+      "author_login": "svenakela",
+      "author_id": 1113187,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1113187?v=4",
+      "message": "Mitigating differences in deployed manifest. (#164)",
+      "date": "2026-07-03T15:48:18Z",
+      "repo": "valkey-helm",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3bd63729da984b8edea8f01d8ec669d20d1ff911",
+      "author_login": "Bloodraven21",
+      "author_id": 60031755,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60031755?v=4",
+      "message": "updated readme for not supporting cluster mode (#216)",
+      "date": "2026-07-03T15:05:56Z",
+      "repo": "valkey-helm",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "a30d9b2a6df6097dd61eb0056c57613ff227f339",
+      "author_login": "Bloodraven21",
+      "author_id": 60031755,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60031755?v=4",
+      "message": "Merge pull request #196 from somaz94/feat/operator-servicemonitor",
+      "date": "2026-07-03T14:41:38Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "daanvinken",
+          "date": "2026-07-02T12:15:20Z"
+        },
+        {
+          "login": "daanvinken",
+          "date": "2026-07-03T14:40:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/196"
+    },
+    {
+      "sha": "0997efb5e73a2cc1bb3e708017599837864b68f8",
+      "author_login": "somaz94",
+      "author_id": 112675579,
+      "avatar_url": "https://avatars.githubusercontent.com/u/112675579?v=4",
+      "message": "feat(operator): add Prometheus ServiceMonitor support to valkey-operator chart",
+      "date": "2026-07-03T01:29:58Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "Bloodraven21",
+          "date": "2026-07-02T06:37:32Z"
+        },
+        {
+          "login": "daanvinken",
+          "date": "2026-07-02T12:15:20Z"
+        },
+        {
+          "login": "Bloodraven21",
+          "date": "2026-07-03T05:12:15Z"
+        },
+        {
+          "login": "daanvinken",
+          "date": "2026-07-03T14:40:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/196"
+    },
+    {
+      "sha": "9e51a16eca58887d02f7862313fff1396c5e9945",
+      "author_login": "yairgott",
+      "author_id": 19560967,
+      "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
+      "message": "Fixing debug mode compilation failure related to simsimd (#1223)",
+      "date": "2026-07-04T05:03:59Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-07-04T05:03:51Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1223"
     }
   ]
 }

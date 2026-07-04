@@ -2,8 +2,8 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 109,
-  "commit_count": 30,
+  "score": 110,
+  "commit_count": 31,
   "review_count": 79,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "9e51a16eca",
+      "message": "Fixing debug mode compilation failure related to simsimd (#1223)",
+      "date": "2026-07-04",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1223",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/9e51a16eca58887d02f7862313fff1396c5e9945"
+    },
     {
       "sha": "21de43864d",
       "message": "untrack missing fields to properly support negate queries (#740)",

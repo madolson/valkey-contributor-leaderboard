@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 169,
+  "score": 170,
   "commit_count": 56,
-  "review_count": 113,
+  "review_count": 114,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -473,6 +473,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6395",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a537e3e41307a9cac98866888b4b08b61dabec86"
+    },
+    {
+      "sha": "a16bc1308c",
+      "message": "docs: add resilience best practices guide (#244)",
+      "date": "2026-07-03",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/244",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/a16bc1308cd39c3f2e9da20c9bf935c47945c1fa"
     },
     {
       "sha": "d41c989d4b",

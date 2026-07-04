@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 278,
+  "score": 279,
   "commit_count": 67,
-  "review_count": 211,
+  "review_count": 212,
   "repos": [
     "valkey",
     "valkey-json",
@@ -549,6 +549,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9e51a16eca",
+      "message": "Fixing debug mode compilation failure related to simsimd (#1223)",
+      "date": "2026-07-04",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1223",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/9e51a16eca58887d02f7862313fff1396c5e9945"
+    },
     {
       "sha": "c093ab9f23",
       "message": "Add issue templates for patch and major/minor release checklists",

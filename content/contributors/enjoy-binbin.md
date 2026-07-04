@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 901,
-  "commit_count": 355,
+  "score": 902,
+  "commit_count": 356,
   "review_count": 546,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "ca4927ec44",
+      "message": "Optimize sendBulkToReplica to reduce lseek syscalls (#4053)",
+      "date": "2026-07-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4053",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ca4927ec44afebfab08b98799f94af4cf939ab21"
+    },
     {
       "sha": "debe5c5009",
       "message": "Share pubsub pattern and watched key across clients (#4072)",

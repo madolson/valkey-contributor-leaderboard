@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 313,
+  "score": 314,
   "commit_count": 85,
-  "review_count": 228,
+  "review_count": 229,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -692,6 +692,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4b243c09cd",
+      "message": "Add `CLIENT PAUSE` and `CLIENT UNPAUSE` commands (#437)",
+      "date": "2026-07-03",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/437",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4b243c09cdbdbf0e655c9b9ff3ed1fb32459295e"
+    },
     {
       "sha": "052ae4ef62",
       "message": "build(deps): bump the patch-updates group across 1 directory with 2 updates (#6380)",

@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 188,
+  "score": 189,
   "commit_count": 48,
-  "review_count": 140,
+  "review_count": 141,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -398,6 +398,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4b243c09cd",
+      "message": "Add `CLIENT PAUSE` and `CLIENT UNPAUSE` commands (#437)",
+      "date": "2026-07-03",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/437",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4b243c09cdbdbf0e655c9b9ff3ed1fb32459295e"
+    },
     {
       "sha": "9c4f6c44e9",
       "message": "test: add tests for connection lifecycles, FAILOVER and CLUSTER FAILOVER.",

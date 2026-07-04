@@ -2,9 +2,9 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 258,
+  "score": 259,
   "commit_count": 57,
-  "review_count": 201,
+  "review_count": 202,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -470,6 +470,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a16bc1308c",
+      "message": "docs: add resilience best practices guide (#244)",
+      "date": "2026-07-03",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/244",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/a16bc1308cd39c3f2e9da20c9bf935c47945c1fa"
+    },
     {
       "sha": "8815277106",
       "message": "build(deps): update anyhow to 1.0.103 to fix RUSTSEC-2026-0190 (#6364)",

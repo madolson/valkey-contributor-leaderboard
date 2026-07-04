@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 217,
-  "commit_count": 127,
+  "score": 218,
+  "commit_count": 128,
   "review_count": 90,
   "repos": [
     "valkey-doc",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "4b243c09cd",
+      "message": "Add `CLIENT PAUSE` and `CLIENT UNPAUSE` commands (#437)",
+      "date": "2026-07-03",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/437",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4b243c09cdbdbf0e655c9b9ff3ed1fb32459295e"
+    },
     {
       "sha": "4f9fd8f3e6",
       "message": "feat: Add `BGSAVE` commands (#436)",

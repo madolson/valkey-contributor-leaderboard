@@ -2,13 +2,21 @@
   "title": "Bloodraven21",
   "login": "Bloodraven21",
   "avatar_url": "https://avatars.githubusercontent.com/u/60031755?v=4",
-  "score": 11,
-  "commit_count": 5,
-  "review_count": 6,
+  "score": 14,
+  "commit_count": 6,
+  "review_count": 8,
   "repos": [
     "valkey-helm"
   ],
   "commit_list": [
+    {
+      "sha": "a30d9b2a6d",
+      "message": "Merge pull request #196 from somaz94/feat/operator-servicemonitor",
+      "date": "2026-07-03",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/196",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/a30d9b2a6df6097dd61eb0056c57613ff227f339"
+    },
     {
       "sha": "b127e94d19",
       "message": "Merge pull request #203 from deepakpunjabi/fix/grace-period",
@@ -51,6 +59,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0997efb5e7",
+      "message": "feat(operator): add Prometheus ServiceMonitor support to valkey-operator chart",
+      "date": "2026-07-03",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/196",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/0997efb5e73a2cc1bb3e708017599837864b68f8"
+    },
+    {
+      "sha": "0997efb5e7",
+      "message": "feat(operator): add Prometheus ServiceMonitor support to valkey-operator chart",
+      "date": "2026-07-03",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/196",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/0997efb5e73a2cc1bb3e708017599837864b68f8"
+    },
     {
       "sha": "f7c35d5096",
       "message": "Release v0.3.0 (#213)",

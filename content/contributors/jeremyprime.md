@@ -2,8 +2,8 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 155,
-  "commit_count": 39,
+  "score": 156,
+  "commit_count": 40,
   "review_count": 116,
   "repos": [
     "spring-data-valkey",
@@ -11,6 +11,14 @@
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "a16bc1308c",
+      "message": "docs: add resilience best practices guide (#244)",
+      "date": "2026-07-03",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/244",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/a16bc1308cd39c3f2e9da20c9bf935c47945c1fa"
+    },
     {
       "sha": "5faa564719",
       "message": "Core: Use watchdog diagnostics to inform CB recovery (#6240)",

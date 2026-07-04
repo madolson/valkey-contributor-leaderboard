@@ -2,13 +2,21 @@
   "title": "somaz94",
   "login": "somaz94",
   "avatar_url": "https://avatars.githubusercontent.com/u/112675579?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-helm"
   ],
   "commit_list": [
+    {
+      "sha": "0997efb5e7",
+      "message": "feat(operator): add Prometheus ServiceMonitor support to valkey-operator chart",
+      "date": "2026-07-03",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/196",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/0997efb5e73a2cc1bb3e708017599837864b68f8"
+    },
     {
       "sha": "9050bc1ca7",
       "message": "feat(operator): add aggregated admin/editor/viewer ClusterRoles for Valkey CRDs",
