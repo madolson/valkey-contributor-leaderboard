@@ -159050,6 +159050,17 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1223"
+    },
+    {
+      "sha": "c7f563970ae4702d1c83c9da27ac8cdbca15fa7b",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Fix Codex plugin install flow (#18)",
+      "date": "2026-07-04T12:19:03Z",
+      "repo": "valkey-skills",
+      "reviewed": false,
+      "pr_url": ""
     }
   ]
 }
