@@ -2,13 +2,22 @@
   "title": "tkarger",
   "login": "tkarger",
   "avatar_url": "https://avatars.githubusercontent.com/u/49390121?v=4",
-  "score": 1,
-  "commit_count": 1,
+  "score": 2,
+  "commit_count": 2,
   "review_count": 0,
   "repos": [
-    "valkey-helm"
+    "valkey-helm",
+    "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "49622ac494",
+      "message": "test: add default user password for e2e cluster test (#292)",
+      "date": "2026-07-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/292",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/49622ac4942b8af1ca50cb0dfc06356e3163b6d8"
+    },
     {
       "sha": "323c70b609",
       "message": "Update valkey-operator helm install notes",

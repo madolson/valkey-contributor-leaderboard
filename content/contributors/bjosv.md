@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 219,
+  "score": 220,
   "commit_count": 116,
-  "review_count": 103,
+  "review_count": 104,
   "repos": [
     "libvalkey",
     "valkey",
@@ -943,6 +943,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "49622ac494",
+      "message": "test: add default user password for e2e cluster test (#292)",
+      "date": "2026-07-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/292",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/49622ac4942b8af1ca50cb0dfc06356e3163b6d8"
+    },
     {
       "sha": "799e8af298",
       "message": "chore(deps): bump docker/build-push-action from 7.2.0 to 7.3.0 (#291)",

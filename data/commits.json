@@ -159061,6 +159061,33 @@
       "repo": "valkey-skills",
       "reviewed": false,
       "pr_url": ""
+    },
+    {
+      "sha": "9f63014ef8917950247a3e44de14a8ef3c073d14",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Fix macOS verifier setup and commit messages (#49)",
+      "date": "2026-07-05T16:34:31Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "49622ac4942b8af1ca50cb0dfc06356e3163b6d8",
+      "author_login": "tkarger",
+      "author_id": 49390121,
+      "avatar_url": "https://avatars.githubusercontent.com/u/49390121?v=4",
+      "message": "test: add default user password for e2e cluster test (#292)",
+      "date": "2026-07-05T13:08:49Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-07-05T13:06:21Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/292"
     }
   ]
 }

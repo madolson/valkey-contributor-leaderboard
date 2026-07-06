@@ -913,7 +913,7 @@
       "name": "Bj\u00f6rn Svensson",
       "company": "Ericsson",
       "commits": 116,
-      "reviews": 103,
+      "reviews": 104,
       "repos": [
         "libvalkey",
         "valkey",
@@ -928,7 +928,7 @@
         },
         "valkey-operator": {
           "commits": 22,
-          "reviews": 63
+          "reviews": 64
         },
         "valkey": {
           "commits": 7,
@@ -943,7 +943,7 @@
           "reviews": 5
         }
       },
-      "score": 219
+      "score": 220
     },
     {
       "login": "currantw",
@@ -7751,6 +7751,30 @@
       "score": 2
     },
     {
+      "login": "tkarger",
+      "id": 49390121,
+      "avatar_url": "https://avatars.githubusercontent.com/u/49390121?v=4",
+      "name": "Tim Karger",
+      "company": "iptch",
+      "commits": 2,
+      "reviews": 0,
+      "repos": [
+        "valkey-helm",
+        "valkey-operator"
+      ],
+      "per_repo": {
+        "valkey-helm": {
+          "commits": 1,
+          "reviews": 0
+        },
+        "valkey-operator": {
+          "commits": 1,
+          "reviews": 0
+        }
+      },
+      "score": 2
+    },
+    {
       "login": "dtaivpp",
       "id": 17506770,
       "avatar_url": "https://avatars.githubusercontent.com/u/17506770?v=4",
@@ -12287,25 +12311,6 @@
       ],
       "per_repo": {
         "valkey": {
-          "commits": 1,
-          "reviews": 0
-        }
-      },
-      "score": 1
-    },
-    {
-      "login": "tkarger",
-      "id": 49390121,
-      "avatar_url": "https://avatars.githubusercontent.com/u/49390121?v=4",
-      "name": "Tim Karger",
-      "company": "iptch",
-      "commits": 1,
-      "reviews": 0,
-      "repos": [
-        "valkey-helm"
-      ],
-      "per_repo": {
-        "valkey-helm": {
           "commits": 1,
           "reviews": 0
         }
