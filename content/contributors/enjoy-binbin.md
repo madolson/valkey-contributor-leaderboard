@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 902,
-  "commit_count": 356,
-  "review_count": 546,
+  "score": 908,
+  "commit_count": 360,
+  "review_count": 548,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -13,6 +13,38 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "327fbd3454",
+      "message": "Avoid UB in slot-entry parsing of cluster config (#4100)",
+      "date": "2026-07-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4100",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/327fbd345487d0103406a42a93c8aea268abeacd"
+    },
+    {
+      "sha": "5bcc9f7440",
+      "message": "Validate node ID when decoding open slots RDB aux field (#4098)",
+      "date": "2026-07-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4098",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5bcc9f7440d78976e6bdf5804d7dc74338313d95"
+    },
+    {
+      "sha": "b2a8911c75",
+      "message": "Fix gossip corruption debug log to print the offending entry (#4101)",
+      "date": "2026-07-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4101",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b2a8911c751f36678411ef77af1fc1090ce525ab"
+    },
+    {
+      "sha": "156a01e41f",
+      "message": "Save cluster config when node address is updated via gossip (#4089)",
+      "date": "2026-07-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4089",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/156a01e41f1df771dab90d7193decc8356e49b3c"
+    },
     {
       "sha": "ca4927ec44",
       "message": "Optimize sendBulkToReplica to reduce lseek syscalls (#4053)",
@@ -2863,6 +2895,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4b723ba7a9",
+      "message": "Avoid refreshing daylight-saving info on every event-loop wakeup (#4086)",
+      "date": "2026-07-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4086",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4b723ba7a9d62c7c6f4a7369ed15c7253ac2dece"
+    },
+    {
+      "sha": "db7193bbc4",
+      "message": "Fix DEBUG HELP typo and add missing subcommand entry (#4099)",
+      "date": "2026-07-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4099",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/db7193bbc4d957d4b1a778db3d26efa03978b976"
+    },
     {
       "sha": "aa940b6f45",
       "message": "Batch RESP frame in replicationFeedReplicas (#4044)",

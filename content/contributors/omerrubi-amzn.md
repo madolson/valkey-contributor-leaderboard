@@ -2,13 +2,29 @@
   "title": "omerrubi-amzn",
   "login": "omerrubi-amzn",
   "avatar_url": "https://avatars.githubusercontent.com/u/169974275?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey-glide"
   ],
   "commit_list": [
+    {
+      "sha": "28e99a6897",
+      "message": "feat(python): Add configurable lib_name and client_info_tag to client config (async + sync) (#6389)",
+      "date": "2026-07-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6389",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/28e99a6897a2697af22d49f5dcfa748e31bbb1b3"
+    },
+    {
+      "sha": "bd4e35bca0",
+      "message": "perf(glide-core): reduce per-command hot-path overhead (+12\u201316% cluster throughput) (#6399)",
+      "date": "2026-07-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6399",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bd4e35bca0e2693d122006fabbda43675a2d700b"
+    },
     {
       "sha": "cb6a47371a",
       "message": "fix(python): use response_buffer.nbytes for buffer GET capacity (#6311)",

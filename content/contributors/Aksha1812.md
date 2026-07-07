@@ -2,9 +2,9 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 90,
+  "score": 91,
   "commit_count": 57,
-  "review_count": 33,
+  "review_count": 34,
   "repos": [
     "valkey-ci-agent",
     "valkey-search"
@@ -468,6 +468,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "87978b530a",
+      "message": "The query vector is not normalized on the prefiltering query execution path (#1222)",
+      "date": "2026-07-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1222",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/87978b530ad6b18396f51d597e7b5ebb49e13106"
+    },
     {
       "sha": "f6f9cafa4b",
       "message": "Enable thread-safety checking, fix violations it found. (#1082)",

@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 156,
+  "score": 158,
   "commit_count": 40,
-  "review_count": 116,
+  "review_count": 118,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -333,6 +333,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "28e99a6897",
+      "message": "feat(python): Add configurable lib_name and client_info_tag to client config (async + sync) (#6389)",
+      "date": "2026-07-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6389",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/28e99a6897a2697af22d49f5dcfa748e31bbb1b3"
+    },
+    {
+      "sha": "bd4e35bca0",
+      "message": "perf(glide-core): reduce per-command hot-path overhead (+12\u201316% cluster throughput) (#6399)",
+      "date": "2026-07-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6399",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bd4e35bca0e2693d122006fabbda43675a2d700b"
+    },
     {
       "sha": "d41c989d4b",
       "message": "docs: Add Pending 2.6 changelog section (#6398)",

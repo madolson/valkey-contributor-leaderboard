@@ -2,15 +2,23 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 110,
-  "commit_count": 31,
-  "review_count": 79,
+  "score": 112,
+  "commit_count": 32,
+  "review_count": 80,
   "repos": [
     "valkey",
     "valkey-io.github.io",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "87978b530a",
+      "message": "The query vector is not normalized on the prefiltering query execution path (#1222)",
+      "date": "2026-07-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1222",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/87978b530ad6b18396f51d597e7b5ebb49e13106"
+    },
     {
       "sha": "9e51a16eca",
       "message": "Fixing debug mode compilation failure related to simsimd (#1223)",
@@ -261,6 +269,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a9a8b9ad21",
+      "message": "Handle kOneReplicaPerShard in GetTargetsForSlot for single-slot indexes (#1226)",
+      "date": "2026-07-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1226",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a9a8b9ad2183e59c33b76dd6dd4f210990f42506"
+    },
     {
       "sha": "96763ade54",
       "message": "Fix Deferred Reply Placeholders in Active Deferred Buffers (#3578)",

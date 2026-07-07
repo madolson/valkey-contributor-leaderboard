@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 85,
+  "score": 86,
   "commit_count": 35,
-  "review_count": 50,
+  "review_count": 51,
   "repos": [
     "valkey",
     "valkey-io.github.io",
@@ -293,6 +293,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "87978b530a",
+      "message": "The query vector is not normalized on the prefiltering query execution path (#1222)",
+      "date": "2026-07-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1222",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/87978b530ad6b18396f51d597e7b5ebb49e13106"
+    },
     {
       "sha": "7204f2f2c8",
       "message": "Validate HNSW index data when loading from an external file (#1191)",

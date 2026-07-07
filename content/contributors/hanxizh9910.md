@@ -2,8 +2,8 @@
   "title": "hanxizh9910",
   "login": "hanxizh9910",
   "avatar_url": "https://avatars.githubusercontent.com/u/220982061?v=4",
-  "score": 40,
-  "commit_count": 35,
+  "score": 41,
+  "commit_count": 36,
   "review_count": 5,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "8d7e713d31",
+      "message": "Add libbacktrace fallback for stack traces on musl/Alpine (#3581)",
+      "date": "2026-07-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3581",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8d7e713d31a7973f17c95307df0727ecd2efe3c6"
+    },
     {
       "sha": "67021836ff",
       "message": " Add automated performance regression detection and notification (#57)",

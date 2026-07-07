@@ -2,9 +2,9 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 44,
+  "score": 45,
   "commit_count": 6,
-  "review_count": 38,
+  "review_count": 39,
   "repos": [
     "libvalkey-py",
     "valkey",
@@ -61,6 +61,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b31f9fef26",
+      "message": "build(deps): bump rojopolis/spellcheck-github-actions (#79)",
+      "date": "2026-07-06",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/79",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/b31f9fef269475268cf51af99d96751d811c7e2b"
+    },
+    {
+      "sha": "8795d43208",
+      "message": "build(deps): bump actions/checkout from 6 to 7 (#77)",
+      "date": "2026-07-06",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/77",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/8795d432083cb534672974b74f988a8bbf604dcf"
+    },
+    {
+      "sha": "ef400f17c5",
+      "message": "build(deps): bump actions/cache from 5 to 6",
+      "date": "2026-07-06",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/324",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/ef400f17c5ee8bd307a10cd8ed6f164a49f82f4f"
+    },
+    {
+      "sha": "54e5fd55f6",
+      "message": "build(deps): bump actions/checkout from 6 to 7",
+      "date": "2026-07-06",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/323",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/54e5fd55f63fd04e49f7aff9ddc6cc5c88bf9203"
+    },
+    {
+      "sha": "eb35ba7b8d",
+      "message": "build(deps): bump rojopolis/spellcheck-github-actions",
+      "date": "2026-07-01",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/325",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/eb35ba7b8d9345a1e3c727949801a432385aa6b4"
+    },
+    {
+      "sha": "83b5244e2f",
+      "message": "Fix a \"title underline too short\" doc build warning",
+      "date": "2026-06-29",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/320",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/83b5244e2fdec6be460f597ee3d54b01a83b6bce"
+    },
     {
       "sha": "33b5ccf0b5",
       "message": "Set timeouts for each CI job",

@@ -2,14 +2,30 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 314,
-  "commit_count": 85,
+  "score": 316,
+  "commit_count": 87,
   "review_count": 229,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "6be2801727",
+      "message": "test(java): fix flaky memoryStats_multi_node_route assertion (#6355)",
+      "date": "2026-07-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6355",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6be2801727bf5c66ca11b9c977c0c94c216b3dca"
+    },
+    {
+      "sha": "dd473cead1",
+      "message": "Fix clientSideCache_set_and_get flaky test by polling for cache hit (#6306)",
+      "date": "2026-07-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6306",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dd473cead1d0da316d2ea3718cc0f5df02c9128d"
+    },
     {
       "sha": "acd067567d",
       "message": "fix(python): correct set return type hint to Optional[Union[TOK, bytes]] (#6351)",

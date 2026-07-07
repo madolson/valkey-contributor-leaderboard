@@ -2,8 +2,8 @@
   "title": "kurtmckee",
   "login": "kurtmckee",
   "avatar_url": "https://avatars.githubusercontent.com/u/39996?v=4",
-  "score": 24,
-  "commit_count": 22,
+  "score": 25,
+  "commit_count": 23,
   "review_count": 2,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "83b5244e2f",
+      "message": "Fix a \"title underline too short\" doc build warning",
+      "date": "2026-06-29",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/320",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/83b5244e2fdec6be460f597ee3d54b01a83b6bce"
+    },
     {
       "sha": "33b5ccf0b5",
       "message": "Set timeouts for each CI job",

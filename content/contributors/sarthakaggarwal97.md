@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 320,
+  "score": 321,
   "commit_count": 89,
-  "review_count": 231,
+  "review_count": 232,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -726,6 +726,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8d7e713d31",
+      "message": "Add libbacktrace fallback for stack traces on musl/Alpine (#3581)",
+      "date": "2026-07-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3581",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8d7e713d31a7973f17c95307df0727ecd2efe3c6"
+    },
     {
       "sha": "cd6e383b07",
       "message": "Apply backport and ai-resolved-conflicts labels on sweep PRs (#48)",

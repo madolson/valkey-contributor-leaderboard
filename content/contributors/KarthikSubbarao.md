@@ -2,8 +2,8 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 258,
-  "commit_count": 98,
+  "score": 259,
+  "commit_count": 99,
   "review_count": 160,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "a9a8b9ad21",
+      "message": "Handle kOneReplicaPerShard in GetTargetsForSlot for single-slot indexes (#1226)",
+      "date": "2026-07-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1226",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a9a8b9ad2183e59c33b76dd6dd4f210990f42506"
+    },
     {
       "sha": "5a63e8269b",
       "message": "Reset search.search-result-background-cleanup back to true (#1203)",

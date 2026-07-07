@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 375,
+  "score": 377,
   "commit_count": 143,
-  "review_count": 232,
+  "review_count": 234,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1165,6 +1165,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8d7e713d31",
+      "message": "Add libbacktrace fallback for stack traces on musl/Alpine (#3581)",
+      "date": "2026-07-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3581",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8d7e713d31a7973f17c95307df0727ecd2efe3c6"
+    },
+    {
+      "sha": "8d7e713d31",
+      "message": "Add libbacktrace fallback for stack traces on musl/Alpine (#3581)",
+      "date": "2026-07-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3581",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8d7e713d31a7973f17c95307df0727ecd2efe3c6"
+    },
     {
       "sha": "e7a28204bb",
       "message": "Bump the github-actions group with 9 updates (#147)",

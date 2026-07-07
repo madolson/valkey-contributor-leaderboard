@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 185,
+  "score": 189,
   "commit_count": 91,
-  "review_count": 94,
+  "review_count": 98,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -742,6 +742,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6be2801727",
+      "message": "test(java): fix flaky memoryStats_multi_node_route assertion (#6355)",
+      "date": "2026-07-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6355",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6be2801727bf5c66ca11b9c977c0c94c216b3dca"
+    },
+    {
+      "sha": "dd473cead1",
+      "message": "Fix clientSideCache_set_and_get flaky test by polling for cache hit (#6306)",
+      "date": "2026-07-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6306",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dd473cead1d0da316d2ea3718cc0f5df02c9128d"
+    },
+    {
+      "sha": "28e99a6897",
+      "message": "feat(python): Add configurable lib_name and client_info_tag to client config (async + sync) (#6389)",
+      "date": "2026-07-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6389",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/28e99a6897a2697af22d49f5dcfa748e31bbb1b3"
+    },
+    {
+      "sha": "bd4e35bca0",
+      "message": "perf(glide-core): reduce per-command hot-path overhead (+12\u201316% cluster throughput) (#6399)",
+      "date": "2026-07-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6399",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bd4e35bca0e2693d122006fabbda43675a2d700b"
+    },
     {
       "sha": "acd067567d",
       "message": "fix(python): correct set return type hint to Optional[Union[TOK, bytes]] (#6351)",
