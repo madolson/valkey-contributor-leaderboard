@@ -2,8 +2,8 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 259,
-  "commit_count": 57,
+  "score": 260,
+  "commit_count": 58,
   "review_count": 202,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "63cbf18118",
+      "message": "perf(test): optimize test client lifecycle for Node, Go, and Java (#6336)",
+      "date": "2026-07-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6336",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/63cbf18118fc28cf6ce780b625550ea2848468d4"
+    },
     {
       "sha": "b5069d3568",
       "message": "Python: Fix pubsub pipe head-of-line blocking and add lifecycle tests (#6321)",

@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 172,
+  "score": 173,
   "commit_count": 56,
-  "review_count": 116,
+  "review_count": 117,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -466,6 +466,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8044b23e26",
+      "message": "Fix flaky test: test_lazy_connection_establishes_on_first_command (#6221)",
+      "date": "2026-07-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6221",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8044b23e265d87b62fa4e75cb6bb4db263da8710"
+    },
     {
       "sha": "6be2801727",
       "message": "test(java): fix flaky memoryStats_multi_node_route assertion (#6355)",

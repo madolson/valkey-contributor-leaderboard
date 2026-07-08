@@ -62,6 +62,14 @@
   ],
   "review_list": [
     {
+      "sha": "12f16b4f7a",
+      "message": "build(deps): bump pypa/cibuildwheel from 3.4.1 to 4.1.0 (#78)",
+      "date": "2026-07-07",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/78",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/12f16b4f7a9b34009415f952d251fd9ee54af693"
+    },
+    {
       "sha": "b31f9fef26",
       "message": "build(deps): bump rojopolis/spellcheck-github-actions (#79)",
       "date": "2026-07-06",

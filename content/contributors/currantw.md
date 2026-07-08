@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 218,
-  "commit_count": 128,
+  "score": 219,
+  "commit_count": 129,
   "review_count": 90,
   "repos": [
     "valkey-doc",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "0291a19db3",
+      "message": "Add `LATENCY` commands (#438)",
+      "date": "2026-07-07",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/438",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/0291a19db371da95a722ebccf487e83716b981eb"
+    },
     {
       "sha": "4b243c09cd",
       "message": "Add `CLIENT PAUSE` and `CLIENT UNPAUSE` commands (#437)",

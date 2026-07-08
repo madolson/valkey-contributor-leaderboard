@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 356,
+  "score": 361,
   "commit_count": 118,
-  "review_count": 238,
+  "review_count": 243,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -958,6 +958,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1eb85d4e0a",
+      "message": "build(deps): bump opentelemetry stack to 0.32 to fix W3C Baggage unbounded allocation advisory (#6366)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6366",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1eb85d4e0abcee2d4b20b91e95e470db8989d77e"
+    },
+    {
+      "sha": "d67764cda5",
+      "message": "Update crossbeam-epoch to fix RUSTSEC-2026-0204 vulnerability (#6435)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6435",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d67764cda5c72612ebb915b6e6b2b7b99ec3dfb7"
+    },
+    {
+      "sha": "fdd752fa0c",
+      "message": "ci(dependabot): cover all cargo build roots so shared-dep bumps fan out automatically (#6376)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6376",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fdd752fa0c1549ff75efa883e0cd350777a283d4"
+    },
+    {
+      "sha": "e094fe54ac",
+      "message": "Fix Node 26.x container tests: install libatomic on Amazon Linux (#6393)",
+      "date": "2026-07-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6393",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e094fe54ac2f9f983e27f8b9f14a876ada673b0f"
+    },
+    {
+      "sha": "0291a19db3",
+      "message": "Add `LATENCY` commands (#438)",
+      "date": "2026-07-07",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/438",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/0291a19db371da95a722ebccf487e83716b981eb"
+    },
     {
       "sha": "4f9fd8f3e6",
       "message": "feat: Add `BGSAVE` commands (#436)",

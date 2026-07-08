@@ -207,6 +207,14 @@
   ],
   "review_list": [
     {
+      "sha": "d08c13f0af",
+      "message": "Bump deps/luajit from `a2bde60` to `acb2234` (#36)",
+      "date": "2026-07-07",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/36",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/d08c13f0afc23384d06fa27b1b40c76acd8d3237"
+    },
+    {
       "sha": "ac61c11d0c",
       "message": "Add C-readable test guidelines to unit test README (#4051)",
       "date": "2026-07-01",

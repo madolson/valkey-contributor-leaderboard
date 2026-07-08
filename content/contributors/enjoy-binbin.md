@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 908,
-  "commit_count": 360,
-  "review_count": 548,
+  "score": 910,
+  "commit_count": 361,
+  "review_count": 549,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "b2eefcabe6",
+      "message": "Fix racy remaining_repl_size assertion in slot migration test (#4115)",
+      "date": "2026-07-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4115",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b2eefcabe67b58923e34383afe1d5339b5a3ebf0"
+    },
     {
       "sha": "327fbd3454",
       "message": "Avoid UB in slot-entry parsing of cluster config (#4100)",
@@ -2895,6 +2903,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c2b8c17a93",
+      "message": "Send replica version on dual-channel RDB connection (#4105)",
+      "date": "2026-07-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4105",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c2b8c17a9303be8a3bc3cbe9470a1c8e9b07be41"
+    },
     {
       "sha": "4b723ba7a9",
       "message": "Avoid refreshing daylight-saving info on every event-loop wakeup (#4086)",

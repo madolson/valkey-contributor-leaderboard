@@ -2,9 +2,9 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 153,
+  "score": 154,
   "commit_count": 89,
-  "review_count": 64,
+  "review_count": 65,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
@@ -724,6 +724,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "be1628f3b9",
+      "message": "added access frequency for big keys using LFUs OBJECT FREQ (#383)",
+      "date": "2026-07-08",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/383",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/be1628f3b95578afe237b0eaa018444ee2fcea44"
+    },
     {
       "sha": "667d99805d",
       "message": "added big keys configuration for top scan and scan limit (#378)",

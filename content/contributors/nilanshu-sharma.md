@@ -2,9 +2,9 @@
   "title": "nilanshu-sharma",
   "login": "nilanshu-sharma",
   "avatar_url": "https://avatars.githubusercontent.com/u/220134298?v=4",
-  "score": 120,
+  "score": 121,
   "commit_count": 14,
-  "review_count": 106,
+  "review_count": 107,
   "repos": [
     "valkey-swift"
   ],
@@ -123,6 +123,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f4a8915f1b",
+      "message": "Don't cancel other pending commands on command cancellation (#396)",
+      "date": "2026-07-07",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/396",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/f4a8915f1b8dcea303c4760babf130c6f896b5af"
+    },
     {
       "sha": "6984965a17",
       "message": "Only store hash value of healthyState of a cluster (#390)",

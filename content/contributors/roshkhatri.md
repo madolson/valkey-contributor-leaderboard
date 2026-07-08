@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 377,
+  "score": 379,
   "commit_count": 143,
-  "review_count": 234,
+  "review_count": 236,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1165,6 +1165,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c2b8c17a93",
+      "message": "Send replica version on dual-channel RDB connection (#4105)",
+      "date": "2026-07-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4105",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c2b8c17a9303be8a3bc3cbe9470a1c8e9b07be41"
+    },
+    {
+      "sha": "fe700e1aba",
+      "message": "Fix benchmark comparison metric handling and significance logic (#60)",
+      "date": "2026-07-07",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/60",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/fe700e1aba542e5870c57f67dec041b939da5cda"
+    },
     {
       "sha": "8d7e713d31",
       "message": "Add libbacktrace fallback for stack traces on musl/Alpine (#3581)",

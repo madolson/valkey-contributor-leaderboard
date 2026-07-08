@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 41,
+  "score": 42,
   "commit_count": 20,
-  "review_count": 21,
+  "review_count": 22,
   "repos": [
     "valkey-operator"
   ],
@@ -171,6 +171,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a635afd9f7",
+      "message": "feat: add priorityClassName to ValkeyCluster and ValkeyNode specs (#294)",
+      "date": "2026-07-08",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/294",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a635afd9f7c2f960d7bcf619e911c24e43b36aef"
+    },
     {
       "sha": "ca5162e159",
       "message": "chore(deps): bump actions/checkout from 6.0.3 to 7.0.0 (#290)",

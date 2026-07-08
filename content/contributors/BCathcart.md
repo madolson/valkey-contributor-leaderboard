@@ -2,8 +2,8 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 86,
-  "commit_count": 35,
+  "score": 87,
+  "commit_count": 36,
   "review_count": 51,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "af1ca3ee84",
+      "message": "Revise outdated text index comments (#1231)",
+      "date": "2026-07-07",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1231",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/af1ca3ee84e0d9401d70dffd2b637161296022ce"
+    },
     {
       "sha": "923430d2ef",
       "message": "Fix dropindex while blocked queries crash (#956)",

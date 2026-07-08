@@ -2,8 +2,8 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 295,
-  "commit_count": 64,
+  "score": 296,
+  "commit_count": 65,
   "review_count": 231,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "c2b8c17a93",
+      "message": "Send replica version on dual-channel RDB connection (#4105)",
+      "date": "2026-07-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4105",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c2b8c17a9303be8a3bc3cbe9470a1c8e9b07be41"
+    },
     {
       "sha": "4b723ba7a9",
       "message": "Avoid refreshing daylight-saving info on every event-loop wakeup (#4086)",

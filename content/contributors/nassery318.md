@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 116,
-  "commit_count": 102,
+  "score": 117,
+  "commit_count": 103,
   "review_count": 14,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "be1628f3b9",
+      "message": "added access frequency for big keys using LFUs OBJECT FREQ (#383)",
+      "date": "2026-07-08",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/383",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/be1628f3b95578afe237b0eaa018444ee2fcea44"
+    },
     {
       "sha": "667d99805d",
       "message": "added big keys configuration for top scan and scan limit (#378)",

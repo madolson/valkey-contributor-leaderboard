@@ -159498,6 +159498,401 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1222"
+    },
+    {
+      "sha": "12f16b4f7a9b34009415f952d251fd9ee54af693",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "build(deps): bump pypa/cibuildwheel from 3.4.1 to 4.1.0 (#78)",
+      "date": "2026-07-07T07:53:25Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-07-07T07:53:19Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/78"
+    },
+    {
+      "sha": "b2eefcabe67b58923e34383afe1d5339b5a3ebf0",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Fix racy remaining_repl_size assertion in slot migration test (#4115)",
+      "date": "2026-07-08T02:09:03Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-07-07T21:32:48Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4115"
+    },
+    {
+      "sha": "c2b8c17a9303be8a3bc3cbe9470a1c8e9b07be41",
+      "author_login": "hpatro",
+      "author_id": 30795839,
+      "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
+      "message": "Send replica version on dual-channel RDB connection (#4105)",
+      "date": "2026-07-07T15:41:02Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-07-06T20:49:04Z"
+        },
+        {
+          "login": "dubey02",
+          "date": "2026-07-06T23:12:07Z"
+        },
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-07-07T03:03:48Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4105"
+    },
+    {
+      "sha": "be1628f3b95578afe237b0eaa018444ee2fcea44",
+      "author_login": "nassery318",
+      "author_id": 86083902,
+      "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
+      "message": "added access frequency for big keys using LFUs OBJECT FREQ (#383)",
+      "date": "2026-07-08T00:02:08Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ravjotbrar",
+          "date": "2026-07-07T21:22:42Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/383"
+    },
+    {
+      "sha": "c87037cd33abbaece50f71981d09bcda59b64766",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Detect hidden generated-file diffs in CI fixes (#53)",
+      "date": "2026-07-07T21:51:51Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "effa6a39031a4d2bfc7ef63d446ecdadf8c4db37",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Handle generated-file drift in CI fix verification (#51)",
+      "date": "2026-07-07T20:39:49Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3837caa011a03a047ce768f5fa8fa37e3859bed3",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Update documentation for Valkey 9.1.0 (#442)",
+      "date": "2026-07-08T03:16:44Z",
+      "repo": "valkey-doc",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "1eb85d4e0abcee2d4b20b91e95e470db8989d77e",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "build(deps): bump opentelemetry stack to 0.32 to fix W3C Baggage unbounded allocation advisory (#6366)",
+      "date": "2026-07-08T04:19:15Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-07-07T22:15:15Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-08T03:57:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6366"
+    },
+    {
+      "sha": "d67764cda5c72612ebb915b6e6b2b7b99ec3dfb7",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Update crossbeam-epoch to fix RUSTSEC-2026-0204 vulnerability (#6435)",
+      "date": "2026-07-08T04:18:58Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-07-07T22:16:52Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-08T04:00:40Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6435"
+    },
+    {
+      "sha": "fdd752fa0c1549ff75efa883e0cd350777a283d4",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "ci(dependabot): cover all cargo build roots so shared-dep bumps fan out automatically (#6376)",
+      "date": "2026-07-08T04:18:25Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-07-07T22:15:44Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-08T04:00:15Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6376"
+    },
+    {
+      "sha": "63cbf18118fc28cf6ce780b625550ea2848468d4",
+      "author_login": "jduo",
+      "author_id": 1657237,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
+      "message": "perf(test): optimize test client lifecycle for Node, Go, and Java (#6336)",
+      "date": "2026-07-07T20:14:54Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-07-07T17:30:57Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-07T18:39:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6336"
+    },
+    {
+      "sha": "e094fe54ac2f9f983e27f8b9f14a876ada673b0f",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Fix Node 26.x container tests: install libatomic on Amazon Linux (#6393)",
+      "date": "2026-07-07T18:42:47Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-07-07T00:12:54Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-07T17:47:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6393"
+    },
+    {
+      "sha": "8044b23e265d87b62fa4e75cb6bb4db263da8710",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Fix flaky test: test_lazy_connection_establishes_on_first_command (#6221)",
+      "date": "2026-07-07T16:46:41Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-07-07T00:17:31Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-07-07T16:08:38Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6221"
+    },
+    {
+      "sha": "0291a19db371da95a722ebccf487e83716b981eb",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "Add `LATENCY` commands (#438)",
+      "date": "2026-07-07T19:50:49Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-07T16:33:31Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-07-07T19:46:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/438"
+    },
+    {
+      "sha": "fdd1bd8e55be9e26239651725395e7a32201c456",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "test: add tests for connection lifecycles, FAILOVER and CLUSTER FAILOVER (#114).",
+      "date": "2026-07-07T23:12:15Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "a01ec72657b4ac2590bb22924f8c9df338739f64",
+      "author_login": "alexr-bq",
+      "author_id": 72045206,
+      "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
+      "message": "Add MacOS support - CI and CD (#116)",
+      "date": "2026-07-07T23:12:15Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b437b592ef501bbf9aa8431ec706ad7a671bad9c",
+      "author_login": "alexr-bq",
+      "author_id": 72045206,
+      "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
+      "message": "Add Full Matrix Tests (#111)",
+      "date": "2026-07-07T23:12:15Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "a11baf7b41a5088f44beeb090667bcdd3bdfb0f5",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "remove(ruby): removed CSC commands from public interface; tests removed accordingly.",
+      "date": "2026-07-07T23:12:15Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c10b18b6d31069b98fdaac45934eab4fac4eba2c",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "test: added commands tests for CLIENT TRACKING, CLIENT CACHING, and CLIENT TRACKINGINFO",
+      "date": "2026-07-07T23:12:15Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "179b2eabb8081313715b1378bd31d56975891fdf",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "test(ruby): added authentication integration tests",
+      "date": "2026-07-07T23:12:08Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d08c13f0afc23384d06fa27b1b40c76acd8d3237",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump deps/luajit from `a2bde60` to `acb2234` (#36)",
+      "date": "2026-07-07T18:12:28Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-07-07T18:12:12Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/36"
+    },
+    {
+      "sha": "a635afd9f7c2f960d7bcf619e911c24e43b36aef",
+      "author_login": "Sagar2366",
+      "author_id": 26805882,
+      "avatar_url": "https://avatars.githubusercontent.com/u/26805882?v=4",
+      "message": "feat: add priorityClassName to ValkeyCluster and ValkeyNode specs (#294)",
+      "date": "2026-07-08T04:12:01Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "sandeepkunusoth",
+          "date": "2026-07-06T22:39:18Z"
+        },
+        {
+          "login": "jdheyburn",
+          "date": "2026-07-07T10:24:53Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/294"
+    },
+    {
+      "sha": "fe700e1aba542e5870c57f67dec041b939da5cda",
+      "author_login": "michellee-10",
+      "author_id": 138150328,
+      "avatar_url": "https://avatars.githubusercontent.com/u/138150328?v=4",
+      "message": "Fix benchmark comparison metric handling and significance logic (#60)",
+      "date": "2026-07-07T20:38:04Z",
+      "repo": "valkey-perf-benchmark",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-07-07T20:37:51Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/60"
+    },
+    {
+      "sha": "af1ca3ee84e0d9401d70dffd2b637161296022ce",
+      "author_login": "BCathcart",
+      "author_id": 31714723,
+      "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
+      "message": "Revise outdated text index comments (#1231)",
+      "date": "2026-07-07T22:02:57Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-07-07T22:02:50Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1231"
+    },
+    {
+      "sha": "f4a8915f1b8dcea303c4760babf130c6f896b5af",
+      "author_login": "adam-fowler",
+      "author_id": 9382567,
+      "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
+      "message": "Don't cancel other pending commands on command cancellation (#396)",
+      "date": "2026-07-07T19:52:04Z",
+      "repo": "valkey-swift",
+      "reviewed": [
+        {
+          "login": "nilanshu-sharma",
+          "date": "2026-07-07T16:50:21Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/396"
     }
   ]
 }

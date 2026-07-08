@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 96,
+  "score": 97,
   "commit_count": 31,
-  "review_count": 65,
+  "review_count": 66,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -261,6 +261,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a635afd9f7",
+      "message": "feat: add priorityClassName to ValkeyCluster and ValkeyNode specs (#294)",
+      "date": "2026-07-08",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/294",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a635afd9f7c2f960d7bcf619e911c24e43b36aef"
+    },
     {
       "sha": "196a306aaa",
       "message": "(feat) support readOnlyFileSystem using custom podSecurityContext (#288)",

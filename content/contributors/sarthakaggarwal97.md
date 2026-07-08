@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 321,
+  "score": 322,
   "commit_count": 89,
-  "review_count": 232,
+  "review_count": 233,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -726,6 +726,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b2eefcabe6",
+      "message": "Fix racy remaining_repl_size assertion in slot migration test (#4115)",
+      "date": "2026-07-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4115",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b2eefcabe67b58923e34383afe1d5339b5a3ebf0"
+    },
     {
       "sha": "8d7e713d31",
       "message": "Add libbacktrace fallback for stack traces on musl/Alpine (#3581)",

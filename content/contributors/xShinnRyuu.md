@@ -2,14 +2,54 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 316,
-  "commit_count": 87,
-  "review_count": 229,
+  "score": 322,
+  "commit_count": 92,
+  "review_count": 230,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "1eb85d4e0a",
+      "message": "build(deps): bump opentelemetry stack to 0.32 to fix W3C Baggage unbounded allocation advisory (#6366)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6366",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1eb85d4e0abcee2d4b20b91e95e470db8989d77e"
+    },
+    {
+      "sha": "d67764cda5",
+      "message": "Update crossbeam-epoch to fix RUSTSEC-2026-0204 vulnerability (#6435)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6435",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d67764cda5c72612ebb915b6e6b2b7b99ec3dfb7"
+    },
+    {
+      "sha": "fdd752fa0c",
+      "message": "ci(dependabot): cover all cargo build roots so shared-dep bumps fan out automatically (#6376)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6376",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fdd752fa0c1549ff75efa883e0cd350777a283d4"
+    },
+    {
+      "sha": "e094fe54ac",
+      "message": "Fix Node 26.x container tests: install libatomic on Amazon Linux (#6393)",
+      "date": "2026-07-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6393",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e094fe54ac2f9f983e27f8b9f14a876ada673b0f"
+    },
+    {
+      "sha": "8044b23e26",
+      "message": "Fix flaky test: test_lazy_connection_establishes_on_first_command (#6221)",
+      "date": "2026-07-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6221",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8044b23e265d87b62fa4e75cb6bb4db263da8710"
+    },
     {
       "sha": "6be2801727",
       "message": "test(java): fix flaky memoryStats_multi_node_route assertion (#6355)",
@@ -708,6 +748,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "63cbf18118",
+      "message": "perf(test): optimize test client lifecycle for Node, Go, and Java (#6336)",
+      "date": "2026-07-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6336",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/63cbf18118fc28cf6ce780b625550ea2848468d4"
+    },
     {
       "sha": "4b243c09cd",
       "message": "Add `CLIENT PAUSE` and `CLIENT UNPAUSE` commands (#437)",

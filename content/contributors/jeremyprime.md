@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 158,
+  "score": 159,
   "commit_count": 40,
-  "review_count": 118,
+  "review_count": 119,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -333,6 +333,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "63cbf18118",
+      "message": "perf(test): optimize test client lifecycle for Node, Go, and Java (#6336)",
+      "date": "2026-07-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6336",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/63cbf18118fc28cf6ce780b625550ea2848468d4"
+    },
     {
       "sha": "28e99a6897",
       "message": "feat(python): Add configurable lib_name and client_info_tag to client config (async + sync) (#6389)",

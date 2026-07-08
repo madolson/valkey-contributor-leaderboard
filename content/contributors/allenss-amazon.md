@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 279,
+  "score": 280,
   "commit_count": 67,
-  "review_count": 212,
+  "review_count": 213,
   "repos": [
     "valkey",
     "valkey-json",
@@ -549,6 +549,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "af1ca3ee84",
+      "message": "Revise outdated text index comments (#1231)",
+      "date": "2026-07-07",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1231",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/af1ca3ee84e0d9401d70dffd2b637161296022ce"
+    },
     {
       "sha": "9e51a16eca",
       "message": "Fixing debug mode compilation failure related to simsimd (#1223)",

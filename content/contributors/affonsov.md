@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 189,
+  "score": 193,
   "commit_count": 91,
-  "review_count": 98,
+  "review_count": 102,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -742,6 +742,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1eb85d4e0a",
+      "message": "build(deps): bump opentelemetry stack to 0.32 to fix W3C Baggage unbounded allocation advisory (#6366)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6366",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1eb85d4e0abcee2d4b20b91e95e470db8989d77e"
+    },
+    {
+      "sha": "d67764cda5",
+      "message": "Update crossbeam-epoch to fix RUSTSEC-2026-0204 vulnerability (#6435)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6435",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d67764cda5c72612ebb915b6e6b2b7b99ec3dfb7"
+    },
+    {
+      "sha": "fdd752fa0c",
+      "message": "ci(dependabot): cover all cargo build roots so shared-dep bumps fan out automatically (#6376)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6376",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fdd752fa0c1549ff75efa883e0cd350777a283d4"
+    },
+    {
+      "sha": "0291a19db3",
+      "message": "Add `LATENCY` commands (#438)",
+      "date": "2026-07-07",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/438",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/0291a19db371da95a722ebccf487e83716b981eb"
+    },
     {
       "sha": "6be2801727",
       "message": "test(java): fix flaky memoryStats_multi_node_route assertion (#6355)",

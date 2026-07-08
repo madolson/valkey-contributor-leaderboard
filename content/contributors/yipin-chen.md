@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 754,
+  "score": 756,
   "commit_count": 45,
-  "review_count": 709,
+  "review_count": 711,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e094fe54ac",
+      "message": "Fix Node 26.x container tests: install libatomic on Amazon Linux (#6393)",
+      "date": "2026-07-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6393",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e094fe54ac2f9f983e27f8b9f14a876ada673b0f"
+    },
+    {
+      "sha": "8044b23e26",
+      "message": "Fix flaky test: test_lazy_connection_establishes_on_first_command (#6221)",
+      "date": "2026-07-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6221",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8044b23e265d87b62fa4e75cb6bb4db263da8710"
+    },
     {
       "sha": "acd067567d",
       "message": "fix(python): correct set return type hint to Optional[Union[TOK, bytes]] (#6351)",

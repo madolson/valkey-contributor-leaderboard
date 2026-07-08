@@ -2,8 +2,8 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 168,
-  "commit_count": 133,
+  "score": 169,
+  "commit_count": 134,
   "review_count": 35,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-swift"
   ],
   "commit_list": [
+    {
+      "sha": "f4a8915f1b",
+      "message": "Don't cancel other pending commands on command cancellation (#396)",
+      "date": "2026-07-07",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/396",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/f4a8915f1b8dcea303c4760babf130c6f896b5af"
+    },
     {
       "sha": "6984965a17",
       "message": "Only store hash value of healthyState of a cluster (#390)",
