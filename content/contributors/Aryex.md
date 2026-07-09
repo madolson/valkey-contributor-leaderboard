@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 173,
+  "score": 174,
   "commit_count": 56,
-  "review_count": 117,
+  "review_count": 118,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -466,6 +466,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e2c088d0c2",
+      "message": "feat(python-sync): add zero-copy buffers to mget (#6367)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6367",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e2c088d0c21243f3ea2cdf28d98eb5610534199d"
+    },
     {
       "sha": "8044b23e26",
       "message": "Fix flaky test: test_lazy_connection_establishes_on_first_command (#6221)",

@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 361,
+  "score": 363,
   "commit_count": 118,
-  "review_count": 243,
+  "review_count": 245,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -959,6 +959,14 @@
   ],
   "review_list": [
     {
+      "sha": "ce830a258f",
+      "message": "Add Rust to `dependabot` updates (#445)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/445",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/ce830a258f642f9f6dc602ea5b10ce329f5236ef"
+    },
+    {
       "sha": "1eb85d4e0a",
       "message": "build(deps): bump opentelemetry stack to 0.32 to fix W3C Baggage unbounded allocation advisory (#6366)",
       "date": "2026-07-08",
@@ -981,6 +989,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6376",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fdd752fa0c1549ff75efa883e0cd350777a283d4"
+    },
+    {
+      "sha": "e35f1f26f6",
+      "message": "Remove `NET8_0_OR_GREATER` preprocessor directives (#442)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/442",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e35f1f26f6f80e0199af37423ed2ec63e93e8a16"
     },
     {
       "sha": "e094fe54ac",

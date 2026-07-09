@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 219,
-  "commit_count": 129,
+  "score": 221,
+  "commit_count": 131,
   "review_count": 90,
   "repos": [
     "valkey-doc",
@@ -14,6 +14,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "ce830a258f",
+      "message": "Add Rust to `dependabot` updates (#445)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/445",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/ce830a258f642f9f6dc602ea5b10ce329f5236ef"
+    },
+    {
+      "sha": "e35f1f26f6",
+      "message": "Remove `NET8_0_OR_GREATER` preprocessor directives (#442)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/442",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e35f1f26f6f80e0199af37423ed2ec63e93e8a16"
+    },
     {
       "sha": "0291a19db3",
       "message": "Add `LATENCY` commands (#438)",
@@ -1048,6 +1064,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6d33926bd3",
+      "message": "chore(deps): bump the patch-updates group with 3 updates (#441)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/441",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/6d33926bd30b778afc29efce793b485f486afb4e"
+    },
     {
       "sha": "d41c989d4b",
       "message": "docs: Add Pending 2.6 changelog section (#6398)",

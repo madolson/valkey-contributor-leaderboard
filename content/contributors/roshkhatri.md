@@ -1166,6 +1166,14 @@
   ],
   "review_list": [
     {
+      "sha": "692ff85918",
+      "message": "Automated Updates for Valkey Bundle (#117)",
+      "date": "2026-07-08",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/117",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/692ff85918a80622725de4eac1fb9e9c5f18cfe9"
+    },
+    {
       "sha": "c2b8c17a93",
       "message": "Send replica version on dual-channel RDB connection (#4105)",
       "date": "2026-07-07",

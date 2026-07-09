@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 910,
-  "commit_count": 361,
+  "score": 912,
+  "commit_count": 363,
   "review_count": 549,
   "repos": [
     "valkey",
@@ -14,12 +14,28 @@
   ],
   "commit_list": [
     {
+      "sha": "301b6cde1c",
+      "message": "Fix CLUSTER BUMPEPOCH getting stuck when a dead node holds a high configEpoch (#4092)",
+      "date": "2026-07-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4092",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/301b6cde1c2d737827ce61817633efd5752ae172"
+    },
+    {
       "sha": "b2eefcabe6",
       "message": "Fix racy remaining_repl_size assertion in slot migration test (#4115)",
       "date": "2026-07-08",
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4115",
       "commit_url": "https://github.com/valkey-io/valkey/commit/b2eefcabe67b58923e34383afe1d5339b5a3ebf0"
+    },
+    {
+      "sha": "f0312a2432",
+      "message": "Add static_assert to guard node flags fit in uint16_t (#4116)",
+      "date": "2026-07-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4116",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f0312a243229c34b269e0b541c1f4c06aa9af437"
     },
     {
       "sha": "327fbd3454",

@@ -2,8 +2,8 @@
   "title": "AlexFilipImproving",
   "login": "AlexFilipImproving",
   "avatar_url": "https://avatars.githubusercontent.com/u/104015771?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "valkey-doc",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "79e1b3e7de",
+      "message": "feat: Add array value type support to expression system (#893)",
+      "date": "2026-07-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/893",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/79e1b3e7de0a67b466e4530289799e15775a2148"
+    },
     {
       "sha": "7c217d43c9",
       "message": "Refactor FT.AGGREGATE reducers to process records in batch (#816)",

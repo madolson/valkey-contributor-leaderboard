@@ -1,12 +1,23 @@
 {
   "title": "ksmotiv8",
   "login": "ksmotiv8",
-  "avatar_url": "https://github.com/ksmotiv8.png?size=64",
-  "score": 1,
-  "commit_count": 0,
+  "avatar_url": "https://avatars.githubusercontent.com/u/66800957?v=4",
+  "score": 2,
+  "commit_count": 1,
   "review_count": 1,
-  "repos": [],
-  "commit_list": [],
+  "repos": [
+    "valkey-glide"
+  ],
+  "commit_list": [
+    {
+      "sha": "e2c088d0c2",
+      "message": "feat(python-sync): add zero-copy buffers to mget (#6367)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6367",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e2c088d0c21243f3ea2cdf28d98eb5610534199d"
+    }
+  ],
   "review_list": [
     {
       "sha": "d02632addd",

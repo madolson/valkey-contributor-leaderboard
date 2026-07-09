@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 6,
+  "score": 7,
   "commit_count": 6,
-  "review_count": 0,
+  "review_count": 1,
   "repos": [
     "valkey-search"
   ],
@@ -58,5 +58,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/292d1e0bfe37bf47e88d7d691ebd0c7da7403a38"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "6f297274cd",
+      "message": "Fix crashes in expression evaluation. Add compatibility fixes. (#1086)",
+      "date": "2026-07-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1086",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6f297274cd48118bd6b7b1169e38670daf741669"
+    }
+  ]
 }

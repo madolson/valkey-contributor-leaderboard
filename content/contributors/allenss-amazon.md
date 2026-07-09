@@ -2,15 +2,23 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 280,
-  "commit_count": 67,
-  "review_count": 213,
+  "score": 283,
+  "commit_count": 68,
+  "review_count": 215,
   "repos": [
     "valkey",
     "valkey-json",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "6f297274cd",
+      "message": "Fix crashes in expression evaluation. Add compatibility fixes. (#1086)",
+      "date": "2026-07-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1086",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6f297274cd48118bd6b7b1169e38670daf741669"
+    },
     {
       "sha": "7204f2f2c8",
       "message": "Validate HNSW index data when loading from an external file (#1191)",
@@ -549,6 +557,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "79e1b3e7de",
+      "message": "feat: Add array value type support to expression system (#893)",
+      "date": "2026-07-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/893",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/79e1b3e7de0a67b466e4530289799e15775a2148"
+    },
+    {
+      "sha": "79e1b3e7de",
+      "message": "feat: Add array value type support to expression system (#893)",
+      "date": "2026-07-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/893",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/79e1b3e7de0a67b466e4530289799e15775a2148"
+    },
     {
       "sha": "af1ca3ee84",
       "message": "Revise outdated text index comments (#1231)",

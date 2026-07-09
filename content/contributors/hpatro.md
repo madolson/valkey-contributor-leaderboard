@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 296,
+  "score": 298,
   "commit_count": 65,
-  "review_count": 231,
+  "review_count": 233,
   "repos": [
     "valkey",
     "valkey-container",
@@ -536,6 +536,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "301b6cde1c",
+      "message": "Fix CLUSTER BUMPEPOCH getting stuck when a dead node holds a high configEpoch (#4092)",
+      "date": "2026-07-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4092",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/301b6cde1c2d737827ce61817633efd5752ae172"
+    },
+    {
+      "sha": "f0312a2432",
+      "message": "Add static_assert to guard node flags fit in uint16_t (#4116)",
+      "date": "2026-07-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4116",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f0312a243229c34b269e0b541c1f4c06aa9af437"
+    },
     {
       "sha": "327fbd3454",
       "message": "Avoid UB in slot-entry parsing of cluster config (#4100)",

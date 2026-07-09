@@ -743,6 +743,14 @@
   ],
   "review_list": [
     {
+      "sha": "c4c8b711fe",
+      "message": "build(deps): bump actions/download-artifact from 4.3.0 to 8.0.1 (#6253)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6253",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c4c8b711fe1e5b2cdf3f5f93a4f24bfbe689f8d4"
+    },
+    {
       "sha": "1eb85d4e0a",
       "message": "build(deps): bump opentelemetry stack to 0.32 to fix W3C Baggage unbounded allocation advisory (#6366)",
       "date": "2026-07-08",
@@ -765,6 +773,246 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6376",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fdd752fa0c1549ff75efa883e0cd350777a283d4"
+    },
+    {
+      "sha": "b7a5121c62",
+      "message": "build(deps-dev): bump lint-staged from 16.4.0 to 17.0.8 in /node (#6299)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6299",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b7a5121c621a1753edd46119c8b26e722f84b5eb"
+    },
+    {
+      "sha": "8573f4c037",
+      "message": "build(deps): bump strum_macros from 0.27.2 to 0.28.0 in /glide-core/redis-rs (#6467)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6467",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8573f4c0376985246d51532581a5f87d462324fa"
+    },
+    {
+      "sha": "be60d6ca8e",
+      "message": "build(deps): bump the minor-updates group across 1 directory with 4 updates (#6466)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6466",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/be60d6ca8e1f7de6f4e2e0df323a37633626d476"
+    },
+    {
+      "sha": "a2b13c3797",
+      "message": "build(deps): bump actions/checkout from 5.0.1 to 7.0.0 (#6476)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6476",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a2b13c3797e2440a1b12276065f5711efdf63f06"
+    },
+    {
+      "sha": "78719504fb",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 4 updates (#6359)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6359",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/78719504fb1a815db6dfb7869d0555fa27a5830d"
+    },
+    {
+      "sha": "e2782a246f",
+      "message": "build(deps-dev): bump the patch-updates group across 1 directory with 3 updates (#6427)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6427",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e2782a246f12fb5cd3553ce07dcfa7d9996a55b7"
+    },
+    {
+      "sha": "c46e590ce7",
+      "message": "build(deps): bump actions/github-script from 8.0.0 to 9.0.0 (#6252)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6252",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c46e590ce779c051a6d207bb69f284457ae0d902"
+    },
+    {
+      "sha": "54b1f917d6",
+      "message": "build(deps): bump rstest from 0.23.0 to 0.26.1 in /ffi (#6458)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6458",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/54b1f917d6d52f6dd6150344e4b4176be38fabba"
+    },
+    {
+      "sha": "089f944bdf",
+      "message": "build(deps): bump the minor-updates group in /node/rust-client with 2 updates (#6462)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6462",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/089f944bdf92a63a1c5d4565490fdbabbcfa0e0a"
+    },
+    {
+      "sha": "481f09b2d1",
+      "message": "build(deps): bump average from 0.15.1 to 0.17.0 in /benchmarks/rust (#6459)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6459",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/481f09b2d1c81f7514993a4064711bba45af42b1"
+    },
+    {
+      "sha": "7bd2ee6a8a",
+      "message": "build(deps-dev): bump maturin from 1.13.3 to 1.14.1 in /python in the minor-updates group across 1 directory (#6250)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6250",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7bd2ee6a8a9307496a8f58a3ffa103e4b5e125d5"
+    },
+    {
+      "sha": "a8bb87956e",
+      "message": "build(deps): bump bytes from 1.11.1 to 1.12.0 in /java in the minor-updates group across 1 directory (#6300)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6300",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a8bb87956e4fbe9fc5e4372eb2c7b5a01f2b6e29"
+    },
+    {
+      "sha": "4cd31afa3d",
+      "message": "build(deps-dev): bump the minor-updates group across 1 directory with 3 updates (#6357)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6357",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4cd31afa3d99a2810967428460668e9445106945"
+    },
+    {
+      "sha": "6d2dba6f6b",
+      "message": "build(deps): bump cmov from 0.5.3 to 0.5.4 in /java (#6430)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6430",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6d2dba6f6b21db09b17eac5e82741edd50f85ae5"
+    },
+    {
+      "sha": "fe0bb2f0c5",
+      "message": "build(deps): bump file-rotate from 0.7.6 to 0.8.0 in /logger_core (#6442)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6442",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fe0bb2f0c539924ccd4995b4bb07afb44a72a6a2"
+    },
+    {
+      "sha": "f4ce404c25",
+      "message": "build(deps): bump the patch-updates group in /glide-core/telemetry with 3 updates (#6445)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6445",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f4ce404c2533c3e4bb553bc2e40cc546128ee82c"
+    },
+    {
+      "sha": "194479b90e",
+      "message": "build(deps): bump lru from 0.16.4 to 0.18.0 in /glide-core/redis-rs (#6468)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6468",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/194479b90e1d364b11dc830203616e0c362a50a8"
+    },
+    {
+      "sha": "8bf99b7c97",
+      "message": "build(deps): bump strum from 0.27.2 to 0.28.0 in /glide-core/redis-rs (#6471)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6471",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8bf99b7c97b9ca1e46e0c38887361763ceec6c50"
+    },
+    {
+      "sha": "10abc91a31",
+      "message": "build(deps): bump criterion from 0.6.0 to 0.8.2 in /glide-core/redis-rs (#6472)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6472",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/10abc91a31230d1591a9d77675b1e257a5da7a87"
+    },
+    {
+      "sha": "8fc37bf612",
+      "message": "build(deps): bump rustls-platform-verifier from 0.6.2 to 0.7.0 in /glide-core/redis-rs (#6473)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6473",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8fc37bf61203f2460f29da042867019e421c58b8"
+    },
+    {
+      "sha": "796c79a3a3",
+      "message": "build(deps): bump dorny/paths-filter from 3.0.3 to 4.0.2 (#6475)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6475",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/796c79a3a33179fa19ad98cfdcba1bc1f220a1e3"
+    },
+    {
+      "sha": "043d394b31",
+      "message": "build(deps): bump bytes from 1.11.1 to 1.12.0 in /python/glide-async in the minor-updates group (#6446)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6446",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/043d394b3118e7e3bd15be2967571cdf9689cee9"
+    },
+    {
+      "sha": "ca4fffc793",
+      "message": "build(deps): bump the patch-updates group in /ffi with 3 updates (#6448)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6448",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ca4fffc7932a59cc4ed5f86a938b3f4ad3de8cdf"
+    },
+    {
+      "sha": "fd440b7560",
+      "message": "build(deps): bump the patch-updates group in /benchmarks/rust with 3 updates (#6450)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6450",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fd440b7560c38ae8ddd2e5753bbcc3ba0f51dcd2"
+    },
+    {
+      "sha": "bacf59661d",
+      "message": "build(deps): bump serial_test from 3.4.0 to 3.5.0 in /ffi in the minor-updates group (#6456)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6456",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bacf59661d6bc5822af090d08f63fc740b0c8628"
+    },
+    {
+      "sha": "c470f62b41",
+      "message": "build(deps): bump tikv-jemallocator from 0.5.4 to 0.7.0 in /benchmarks/rust (#6457)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6457",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c470f62b41a5808eeca0733a8bf6dc8abe7580f6"
+    },
+    {
+      "sha": "a5c3484621",
+      "message": "build(deps): bump cmov from 0.5.3 to 0.5.4 in /node/rust-client (#6451)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6451",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a5c3484621ee5212a09f9ce1d7c07c9de916b650"
+    },
+    {
+      "sha": "e53b395c99",
+      "message": "build(deps): bump cmov from 0.5.3 to 0.5.4 in /python/glide-async (#6452)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6452",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e53b395c9983f80c8f32dea907159216643dcead"
+    },
+    {
+      "sha": "987bebbb04",
+      "message": "build(deps): bump cmov from 0.5.3 to 0.5.4 in /ffi (#6453)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6453",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/987bebbb0453a69ba4e30c03a2dfe8981f9e6ce6"
+    },
+    {
+      "sha": "1e27770e1c",
+      "message": "build(deps): bump cmov from 0.5.3 to 0.5.4 in /benchmarks/rust (#6454)",
+      "date": "2026-07-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6454",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1e27770e1ccb94f48bb184dce89bc9a332b07ecf"
     },
     {
       "sha": "0291a19db3",
