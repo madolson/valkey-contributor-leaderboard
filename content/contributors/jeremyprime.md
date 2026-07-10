@@ -2,15 +2,23 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 159,
-  "commit_count": 40,
-  "review_count": 119,
+  "score": 161,
+  "commit_count": 41,
+  "review_count": 120,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "5c5f64d602",
+      "message": "ci: fix cargo-deny CLI flag order for v0.20+ (#6490)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6490",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5c5f64d602450434146229fcce30e107b960b91a"
+    },
     {
       "sha": "a16bc1308c",
       "message": "docs: add resilience best practices guide (#244)",
@@ -333,6 +341,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a758a72f68",
+      "message": "feat(java): bypass protobuf serialization for command execution (#6337)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6337",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a758a72f689ad5dad9f0e9970876536f54fc4a5b"
+    },
     {
       "sha": "63cbf18118",
       "message": "perf(test): optimize test client lifecycle for Node, Go, and Java (#6336)",

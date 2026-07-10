@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 756,
+  "score": 760,
   "commit_count": 45,
-  "review_count": 711,
+  "review_count": 715,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5c5f64d602",
+      "message": "ci: fix cargo-deny CLI flag order for v0.20+ (#6490)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6490",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5c5f64d602450434146229fcce30e107b960b91a"
+    },
+    {
+      "sha": "31caeef48b",
+      "message": "fix(core): enforce RESP3 recursion-depth guard for all aggregate types (#6477)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6477",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/31caeef48b0d217524855b2845fc6bdfe42c6660"
+    },
+    {
+      "sha": "c0d9e75081",
+      "message": "Merge pull request #145 from valkey-io/fix-modules-test",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/145",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/c0d9e75081864b5b57fa28d929538dc71f3f166c"
+    },
+    {
+      "sha": "6aa4838c65",
+      "message": "Merge pull request #144 from valkey-io/add-pull-request-template",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/144",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6aa4838c6581b3e6cf436fa44c998851a42e5e8d"
+    },
     {
       "sha": "e094fe54ac",
       "message": "Fix Node 26.x container tests: install libatomic on Amazon Linux (#6393)",

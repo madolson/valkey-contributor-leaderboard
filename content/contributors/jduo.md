@@ -2,8 +2,8 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 260,
-  "commit_count": 58,
+  "score": 261,
+  "commit_count": 59,
   "review_count": 202,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "a758a72f68",
+      "message": "feat(java): bypass protobuf serialization for command execution (#6337)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6337",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a758a72f689ad5dad9f0e9970876536f54fc4a5b"
+    },
     {
       "sha": "63cbf18118",
       "message": "perf(test): optimize test client lifecycle for Node, Go, and Java (#6336)",

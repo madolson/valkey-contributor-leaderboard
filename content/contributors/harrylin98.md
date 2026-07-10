@@ -2,13 +2,21 @@
   "title": "harrylin98",
   "login": "harrylin98",
   "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
-  "score": 7,
-  "commit_count": 6,
+  "score": 8,
+  "commit_count": 7,
   "review_count": 1,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "6c315de391",
+      "message": "CI: add make test-unit to macOS build and auto-detect Homebrew LLVM path (#4123)",
+      "date": "2026-07-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4123",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6c315de391c6dc0ba2cd4bc82a51e3b5b46c84e0"
+    },
     {
       "sha": "78ee1f555d",
       "message": "ci: include gtests in code coverage report",

@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 223,
+  "score": 224,
   "commit_count": 70,
-  "review_count": 153,
+  "review_count": 154,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -572,6 +572,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "23fc7fd4af",
+      "message": "Implement generic command execution: call(), call_v() (#132)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/132",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/23fc7fd4af6d7af115bb06bba60db42974ab4d44"
+    },
     {
       "sha": "6f9fa294ad",
       "message": "cd: Fix python and node release workflows (#6363)",

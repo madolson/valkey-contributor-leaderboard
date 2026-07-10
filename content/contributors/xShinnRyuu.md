@@ -2,14 +2,30 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 325,
-  "commit_count": 92,
-  "review_count": 233,
+  "score": 334,
+  "commit_count": 94,
+  "review_count": 240,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "4238616930",
+      "message": "style(node): reconcile union-type formatting with pinned Prettier (#6487)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6487",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/42386169304f10e23c736ac03f28014f37f18f64"
+    },
+    {
+      "sha": "31caeef48b",
+      "message": "fix(core): enforce RESP3 recursion-depth guard for all aggregate types (#6477)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6477",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/31caeef48b0d217524855b2845fc6bdfe42c6660"
+    },
     {
       "sha": "1eb85d4e0a",
       "message": "build(deps): bump opentelemetry stack to 0.32 to fix W3C Baggage unbounded allocation advisory (#6366)",
@@ -749,6 +765,14 @@
   ],
   "review_list": [
     {
+      "sha": "42ff40321e",
+      "message": "feat: Add `SAVE` command (#440)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/440",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/42ff40321ef9131c44df5d50933c4c3972a2e258"
+    },
+    {
       "sha": "c4c8b711fe",
       "message": "build(deps): bump actions/download-artifact from 4.3.0 to 8.0.1 (#6253)",
       "date": "2026-07-09",
@@ -763,6 +787,62 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/445",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/ce830a258f642f9f6dc602ea5b10ce329f5236ef"
+    },
+    {
+      "sha": "1eeb3cf330",
+      "message": "build(deps): bump tikv-jemallocator from 0.6.1 to 0.7.0 in /node/rust-client (#6465)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6465",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1eeb3cf330489aa1f2cdce38dee39eac7af78fd5"
+    },
+    {
+      "sha": "5c5f64d602",
+      "message": "ci: fix cargo-deny CLI flag order for v0.20+ (#6490)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6490",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5c5f64d602450434146229fcce30e107b960b91a"
+    },
+    {
+      "sha": "89d83893fd",
+      "message": "feat: Add `BGREWRITEAOF` command (#444)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/444",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/89d83893fd59bc1a5912d7ee217cef8d4089bc07"
+    },
+    {
+      "sha": "0b8df42749",
+      "message": "feat: Add missing core options (#131)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/131",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/0b8df427498a052fb1ce3ef3bf2367b280352a1a"
+    },
+    {
+      "sha": "23fc7fd4af",
+      "message": "Implement generic command execution: call(), call_v() (#132)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/132",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/23fc7fd4af6d7af115bb06bba60db42974ab4d44"
+    },
+    {
+      "sha": "c0d9e75081",
+      "message": "Merge pull request #145 from valkey-io/fix-modules-test",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/145",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/c0d9e75081864b5b57fa28d929538dc71f3f166c"
+    },
+    {
+      "sha": "c0d9e75081",
+      "message": "Merge pull request #145 from valkey-io/fix-modules-test",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/145",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/c0d9e75081864b5b57fa28d929538dc71f3f166c"
     },
     {
       "sha": "b7a5121c62",

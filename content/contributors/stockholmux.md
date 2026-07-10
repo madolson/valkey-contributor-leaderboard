@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 121,
+  "score": 122,
   "commit_count": 13,
-  "review_count": 108,
+  "review_count": 109,
   "repos": [
     "valkey-io.github.io",
     "valkey-operator"
@@ -116,6 +116,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2e08e11276",
+      "message": "Add blog: Percona spotlight (#598)",
+      "date": "2026-07-09",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/598",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/2e08e112760f117b7063e7625e561eb14e8b383d"
+    },
     {
       "sha": "f49bbf2ccb",
       "message": "Add Freshworks as a participant (#568)",

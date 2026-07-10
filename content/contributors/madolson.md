@@ -2,8 +2,8 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 863,
-  "commit_count": 191,
+  "score": 864,
+  "commit_count": 192,
   "review_count": 672,
   "repos": [
     "valkey",
@@ -13,9 +13,18 @@
     "valkey-container",
     "valkey-doc",
     "valkey-hashes",
-    "valkey-io.github.io"
+    "valkey-io.github.io",
+    "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "5ab06a709f",
+      "message": "Fetch full valkey history so module API 'Available since' is correct (#60)",
+      "date": "2026-07-09",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/60",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/5ab06a709f131f6b8264705ff458c7a821ea655a"
+    },
     {
       "sha": "98005d1c8c",
       "message": "Reject NAN scores in listpack/ziplist-encoded sorted sets on RDB load (#3921)",

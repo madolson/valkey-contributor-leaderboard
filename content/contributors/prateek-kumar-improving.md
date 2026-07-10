@@ -2,16 +2,41 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 363,
-  "commit_count": 118,
-  "review_count": 245,
+  "score": 369,
+  "commit_count": 121,
+  "review_count": 248,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-docs",
-    "valkey-glide-php"
+    "valkey-glide-php",
+    "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "d831497124",
+      "message": "Release 1.1.2 (#239)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/239",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/d8314971240023ad2230a6baa651b91743ea64a1"
+    },
+    {
+      "sha": "c0d9e75081",
+      "message": "Merge pull request #145 from valkey-io/fix-modules-test",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/145",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/c0d9e75081864b5b57fa28d929538dc71f3f166c"
+    },
+    {
+      "sha": "6aa4838c65",
+      "message": "Merge pull request #144 from valkey-io/add-pull-request-template",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/144",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6aa4838c6581b3e6cf436fa44c998851a42e5e8d"
+    },
     {
       "sha": "9b25cf08d7",
       "message": "PHP: Fix pie install using .tgz file (#233)",
@@ -965,6 +990,30 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/445",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/ce830a258f642f9f6dc602ea5b10ce329f5236ef"
+    },
+    {
+      "sha": "89d83893fd",
+      "message": "feat: Add `BGREWRITEAOF` command (#444)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/444",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/89d83893fd59bc1a5912d7ee217cef8d4089bc07"
+    },
+    {
+      "sha": "0b8df42749",
+      "message": "feat: Add missing core options (#131)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/131",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/0b8df427498a052fb1ce3ef3bf2367b280352a1a"
+    },
+    {
+      "sha": "23fc7fd4af",
+      "message": "Implement generic command execution: call(), call_v() (#132)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/132",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/23fc7fd4af6d7af115bb06bba60db42974ab4d44"
     },
     {
       "sha": "1eb85d4e0a",

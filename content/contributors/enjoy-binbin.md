@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 912,
+  "score": 913,
   "commit_count": 363,
-  "review_count": 549,
+  "review_count": 550,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2919,6 +2919,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0e52ec8790",
+      "message": "Add support for CONFIG INFO <config> to display config type and valid values (#3050)",
+      "date": "2026-07-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3050",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0e52ec87909e666983211a526b1d35fdb6cdd881"
+    },
     {
       "sha": "c2b8c17a93",
       "message": "Send replica version on dual-channel RDB connection (#4105)",

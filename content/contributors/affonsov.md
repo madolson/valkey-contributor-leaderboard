@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 193,
+  "score": 198,
   "commit_count": 91,
-  "review_count": 102,
+  "review_count": 107,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -743,12 +743,60 @@
   ],
   "review_list": [
     {
+      "sha": "42ff40321e",
+      "message": "feat: Add `SAVE` command (#440)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/440",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/42ff40321ef9131c44df5d50933c4c3972a2e258"
+    },
+    {
       "sha": "c4c8b711fe",
       "message": "build(deps): bump actions/download-artifact from 4.3.0 to 8.0.1 (#6253)",
       "date": "2026-07-09",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6253",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c4c8b711fe1e5b2cdf3f5f93a4f24bfbe689f8d4"
+    },
+    {
+      "sha": "a758a72f68",
+      "message": "feat(java): bypass protobuf serialization for command execution (#6337)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6337",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a758a72f689ad5dad9f0e9970876536f54fc4a5b"
+    },
+    {
+      "sha": "1eeb3cf330",
+      "message": "build(deps): bump tikv-jemallocator from 0.6.1 to 0.7.0 in /node/rust-client (#6465)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6465",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1eeb3cf330489aa1f2cdce38dee39eac7af78fd5"
+    },
+    {
+      "sha": "4238616930",
+      "message": "style(node): reconcile union-type formatting with pinned Prettier (#6487)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6487",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/42386169304f10e23c736ac03f28014f37f18f64"
+    },
+    {
+      "sha": "31caeef48b",
+      "message": "fix(core): enforce RESP3 recursion-depth guard for all aggregate types (#6477)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6477",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/31caeef48b0d217524855b2845fc6bdfe42c6660"
+    },
+    {
+      "sha": "6aa4838c65",
+      "message": "Merge pull request #144 from valkey-io/add-pull-request-template",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/144",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6aa4838c6581b3e6cf436fa44c998851a42e5e8d"
     },
     {
       "sha": "1eb85d4e0a",

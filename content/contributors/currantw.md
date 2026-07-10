@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 221,
-  "commit_count": 131,
-  "review_count": 90,
+  "score": 224,
+  "commit_count": 133,
+  "review_count": 91,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -15,12 +15,28 @@
   ],
   "commit_list": [
     {
+      "sha": "42ff40321e",
+      "message": "feat: Add `SAVE` command (#440)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/440",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/42ff40321ef9131c44df5d50933c4c3972a2e258"
+    },
+    {
       "sha": "ce830a258f",
       "message": "Add Rust to `dependabot` updates (#445)",
       "date": "2026-07-09",
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/445",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/ce830a258f642f9f6dc602ea5b10ce329f5236ef"
+    },
+    {
+      "sha": "89d83893fd",
+      "message": "feat: Add `BGREWRITEAOF` command (#444)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/444",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/89d83893fd59bc1a5912d7ee217cef8d4089bc07"
     },
     {
       "sha": "e35f1f26f6",
@@ -1064,6 +1080,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d831497124",
+      "message": "Release 1.1.2 (#239)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/239",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/d8314971240023ad2230a6baa651b91743ea64a1"
+    },
     {
       "sha": "6d33926bd3",
       "message": "chore(deps): bump the patch-updates group with 3 updates (#441)",

@@ -2,13 +2,21 @@
   "title": "crystalphamLF",
   "login": "crystalphamLF",
   "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
-  "score": 6,
-  "commit_count": 5,
+  "score": 7,
+  "commit_count": 6,
   "review_count": 1,
   "repos": [
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "2e08e11276",
+      "message": "Add blog: Percona spotlight (#598)",
+      "date": "2026-07-09",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/598",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/2e08e112760f117b7063e7625e561eb14e8b383d"
+    },
     {
       "sha": "3bf7b349d7",
       "message": "Add Unlocked Seattle recap blog (#577)",

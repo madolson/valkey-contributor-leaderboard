@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 298,
+  "score": 299,
   "commit_count": 65,
-  "review_count": 233,
+  "review_count": 234,
   "repos": [
     "valkey",
     "valkey-container",
@@ -543,6 +543,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4092",
       "commit_url": "https://github.com/valkey-io/valkey/commit/301b6cde1c2d737827ce61817633efd5752ae172"
+    },
+    {
+      "sha": "6c315de391",
+      "message": "CI: add make test-unit to macOS build and auto-detect Homebrew LLVM path (#4123)",
+      "date": "2026-07-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4123",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6c315de391c6dc0ba2cd4bc82a51e3b5b46c84e0"
     },
     {
       "sha": "f0312a2432",

@@ -2,13 +2,21 @@
   "title": "nitaicaro",
   "login": "nitaicaro",
   "avatar_url": "https://avatars.githubusercontent.com/u/42576749?v=4",
-  "score": 6,
-  "commit_count": 5,
+  "score": 7,
+  "commit_count": 6,
   "review_count": 1,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "0e52ec8790",
+      "message": "Add support for CONFIG INFO <config> to display config type and valid values (#3050)",
+      "date": "2026-07-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3050",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0e52ec87909e666983211a526b1d35fdb6cdd881"
+    },
     {
       "sha": "025f416b74",
       "message": "Save to Disk in Bio Thread and refactor readSyncBulkPayload (#1784)",

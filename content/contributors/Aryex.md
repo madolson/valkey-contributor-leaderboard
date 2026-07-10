@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 174,
-  "commit_count": 56,
-  "review_count": 118,
+  "score": 180,
+  "commit_count": 58,
+  "review_count": 122,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "0b8df42749",
+      "message": "feat: Add missing core options (#131)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/131",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/0b8df427498a052fb1ce3ef3bf2367b280352a1a"
+    },
+    {
+      "sha": "23fc7fd4af",
+      "message": "Implement generic command execution: call(), call_v() (#132)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/132",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/23fc7fd4af6d7af115bb06bba60db42974ab4d44"
+    },
     {
       "sha": "9c4f6c44e9",
       "message": "test: add tests for connection lifecycles, FAILOVER and CLUSTER FAILOVER.",
@@ -466,6 +482,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d831497124",
+      "message": "Release 1.1.2 (#239)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/239",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/d8314971240023ad2230a6baa651b91743ea64a1"
+    },
+    {
+      "sha": "4238616930",
+      "message": "style(node): reconcile union-type formatting with pinned Prettier (#6487)",
+      "date": "2026-07-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6487",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/42386169304f10e23c736ac03f28014f37f18f64"
+    },
+    {
+      "sha": "c0d9e75081",
+      "message": "Merge pull request #145 from valkey-io/fix-modules-test",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/145",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/c0d9e75081864b5b57fa28d929538dc71f3f166c"
+    },
+    {
+      "sha": "6aa4838c65",
+      "message": "Merge pull request #144 from valkey-io/add-pull-request-template",
+      "date": "2026-07-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/144",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6aa4838c6581b3e6cf436fa44c998851a42e5e8d"
+    },
     {
       "sha": "e2c088d0c2",
       "message": "feat(python-sync): add zero-copy buffers to mget (#6367)",

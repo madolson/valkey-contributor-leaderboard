@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 379,
+  "score": 380,
   "commit_count": 143,
-  "review_count": 236,
+  "review_count": 237,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1165,6 +1165,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5ab06a709f",
+      "message": "Fetch full valkey history so module API 'Available since' is correct (#60)",
+      "date": "2026-07-09",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/60",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/5ab06a709f131f6b8264705ff458c7a821ea655a"
+    },
     {
       "sha": "692ff85918",
       "message": "Automated Updates for Valkey Bundle (#117)",
