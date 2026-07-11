@@ -2,15 +2,23 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 97,
-  "commit_count": 31,
-  "review_count": 66,
+  "score": 100,
+  "commit_count": 32,
+  "review_count": 68,
   "repos": [
     "valkey",
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "d3824527b9",
+      "message": "feat: Add VALKEYCLI_USER env var (#4126)",
+      "date": "2026-07-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4126",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d3824527b94584e74dffb2387464adcb501f243b"
+    },
     {
       "sha": "f7c35d5096",
       "message": "Release v0.3.0 (#213)",
@@ -261,6 +269,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "252ff4f450",
+      "message": "feat: configurable terminationGracePeriodSeconds for graceful failover (#271)",
+      "date": "2026-07-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/271",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/252ff4f45035d8ddd9445911147d3d60ee07b7ec"
+    },
+    {
+      "sha": "252ff4f450",
+      "message": "feat: configurable terminationGracePeriodSeconds for graceful failover (#271)",
+      "date": "2026-07-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/271",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/252ff4f45035d8ddd9445911147d3d60ee07b7ec"
+    },
     {
       "sha": "a635afd9f7",
       "message": "feat: add priorityClassName to ValkeyCluster and ValkeyNode specs (#294)",

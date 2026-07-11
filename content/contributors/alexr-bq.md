@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 189,
+  "score": 190,
   "commit_count": 48,
-  "review_count": 141,
+  "review_count": 142,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -398,6 +398,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ce891fd654",
+      "message": "Added Third-party license (#151)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/151",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ce891fd654ecf618ea7e5741c925f6071bc81c86"
+    },
     {
       "sha": "4b243c09cd",
       "message": "Add `CLIENT PAUSE` and `CLIENT UNPAUSE` commands (#437)",

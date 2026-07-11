@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 224,
+  "score": 225,
   "commit_count": 133,
-  "review_count": 91,
+  "review_count": 92,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -1087,6 +1087,14 @@
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/239",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/d8314971240023ad2230a6baa651b91743ea64a1"
+    },
+    {
+      "sha": "8bafac6677",
+      "message": "feat(php): implement BGSAVE, BGSAVE SCHEDULE, and BGSAVE CANCEL commands (#237)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/237",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/8bafac66779c9379f4af20c88ff02309b05da0a3"
     },
     {
       "sha": "6d33926bd3",

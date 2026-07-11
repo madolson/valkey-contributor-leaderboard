@@ -2,14 +2,22 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 154,
-  "commit_count": 89,
-  "review_count": 65,
+  "score": 156,
+  "commit_count": 90,
+  "review_count": 66,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "5fe5a058ae",
+      "message": "Fix bug with metrics server not starting, electron build breaking, and node error banner with wrong label (#388)",
+      "date": "2026-07-10",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/388",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/5fe5a058aef36c732d7ae00650f9b3a4dd80054b"
+    },
     {
       "sha": "0648584dbd",
       "message": "Display binary values as hex and handle quotes in commands (#381)",
@@ -724,6 +732,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fbf64a68db",
+      "message": "By declining the helmet defaults, we do not default to upgrade-insecure-requests that make it hard to run local testing instances. (#385)",
+      "date": "2026-07-10",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/385",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/fbf64a68db8a4596d1dfa3dc9e30aab9feb1c908"
+    },
     {
       "sha": "be1628f3b9",
       "message": "added access frequency for big keys using LFUs OBJECT FREQ (#383)",

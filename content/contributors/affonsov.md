@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 198,
+  "score": 202,
   "commit_count": 91,
-  "review_count": 107,
+  "review_count": 111,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -749,6 +749,38 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/440",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/42ff40321ef9131c44df5d50933c4c3972a2e258"
+    },
+    {
+      "sha": "7c84faddfe",
+      "message": "Fix flaky test: test_update_connection_password timeout in cluster mode (#6373)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6373",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7c84faddfe39113705ec459b0d6129e92b271f69"
+    },
+    {
+      "sha": "30dffc44a8",
+      "message": "Fix flaky test: test_sync_resubscribe_after_connection_kill TimeoutError in cluster mode (#6377)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6377",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/30dffc44a875f8ec499727b2e0ca80833ff7f0ec"
+    },
+    {
+      "sha": "445b1c563a",
+      "message": "fix(node): stabilize CLIENT LIST count in lazy connection test (#6482)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6482",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/445b1c563a275ba0348632a4af76f7c5e0f510c5"
+    },
+    {
+      "sha": "cdacd2aa61",
+      "message": "ci(python): publish to PyPI via Trusted Publishing with PEP 740 attestations (#6478)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6478",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cdacd2aa618c5917e2ec3e79835f78b324452230"
     },
     {
       "sha": "c4c8b711fe",

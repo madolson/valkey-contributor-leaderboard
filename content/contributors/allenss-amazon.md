@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 283,
-  "commit_count": 68,
+  "score": 284,
+  "commit_count": 69,
   "review_count": 215,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "3e3825c019",
+      "message": "Revise handling of keys with fields with invalid values to match Redisearch (#1155)",
+      "date": "2026-07-11",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1155",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/3e3825c0195f752510123e4eabd6f57c2a29a585"
+    },
     {
       "sha": "6f297274cd",
       "message": "Fix crashes in expression evaluation. Add compatibility fixes. (#1086)",

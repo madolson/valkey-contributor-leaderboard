@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 299,
+  "score": 300,
   "commit_count": 65,
-  "review_count": 234,
+  "review_count": 235,
   "repos": [
     "valkey",
     "valkey-container",
@@ -536,6 +536,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d3824527b9",
+      "message": "feat: Add VALKEYCLI_USER env var (#4126)",
+      "date": "2026-07-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4126",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d3824527b94584e74dffb2387464adcb501f243b"
+    },
     {
       "sha": "301b6cde1c",
       "message": "Fix CLUSTER BUMPEPOCH getting stuck when a dead node holds a high configEpoch (#4092)",

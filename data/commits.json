@@ -161455,6 +161455,373 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/60"
+    },
+    {
+      "sha": "7b30bcbd7ce2c2acc1a1db7964aa58af225898a2",
+      "author_login": "Taeknology",
+      "author_id": 20297177,
+      "avatar_url": "https://avatars.githubusercontent.com/u/20297177?v=4",
+      "message": "Deflake io-threads test by anchoring active-time bound to a per-reactivation baseline (#3764)",
+      "date": "2026-07-10T20:22:52Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-05-21T22:53:14Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-06-24T17:29:09Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-07-08T17:57:48Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3764"
+    },
+    {
+      "sha": "d3824527b94584e74dffb2387464adcb501f243b",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "feat: Add VALKEYCLI_USER env var (#4126)",
+      "date": "2026-07-10T08:48:20Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "hpatro",
+          "date": "2026-07-10T08:47:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4126"
+    },
+    {
+      "sha": "5fe5a058aef36c732d7ae00650f9b3a4dd80054b",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Fix bug with metrics server not starting, electron build breaking, and node error banner with wrong label (#388)",
+      "date": "2026-07-10T23:01:02Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ArgusLi",
+          "date": "2026-07-10T21:30:19Z"
+        },
+        {
+          "login": "arseny-kostenko",
+          "date": "2026-07-10T22:09:45Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/388"
+    },
+    {
+      "sha": "fbf64a68db8a4596d1dfa3dc9e30aab9feb1c908",
+      "author_login": "dbaker-arch",
+      "author_id": 28928338,
+      "avatar_url": "https://avatars.githubusercontent.com/u/28928338?v=4",
+      "message": "By declining the helmet defaults, we do not default to upgrade-insecure-requests that make it hard to run local testing instances. (#385)",
+      "date": "2026-07-10T18:11:12Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ravjotbrar",
+          "date": "2026-07-10T17:46:40Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/385"
+    },
+    {
+      "sha": "7c84faddfe39113705ec459b0d6129e92b271f69",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Fix flaky test: test_update_connection_password timeout in cluster mode (#6373)",
+      "date": "2026-07-10T20:42:35Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-07-10T19:05:09Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-07-10T20:29:50Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6373"
+    },
+    {
+      "sha": "30dffc44a875f8ec499727b2e0ca80833ff7f0ec",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Fix flaky test: test_sync_resubscribe_after_connection_kill TimeoutError in cluster mode (#6377)",
+      "date": "2026-07-10T20:42:16Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-07-10T19:04:44Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-07-10T20:28:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6377"
+    },
+    {
+      "sha": "445b1c563a275ba0348632a4af76f7c5e0f510c5",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "fix(node): stabilize CLIENT LIST count in lazy connection test (#6482)",
+      "date": "2026-07-10T20:42:03Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-07-10T19:04:12Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-07-10T20:27:03Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6482"
+    },
+    {
+      "sha": "cdacd2aa618c5917e2ec3e79835f78b324452230",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "ci(python): publish to PyPI via Trusted Publishing with PEP 740 attestations (#6478)",
+      "date": "2026-07-10T19:57:40Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-07-09T22:48:31Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-07-10T17:33:57Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6478"
+    },
+    {
+      "sha": "1f1a0e30fe41710eefd640b3686d796be81a9bb8",
+      "author_login": "jamesx-improving",
+      "author_id": 126831592,
+      "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
+      "message": "CI: fix stale workflow exempt-issue-labels to match repo labels (#6489)",
+      "date": "2026-07-10T16:59:03Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-07-09T16:14:11Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-09T16:20:55Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6489"
+    },
+    {
+      "sha": "4493d355ca2937b0b4670e0d98c30783306ecbe4",
+      "author_login": "jamesx-improving",
+      "author_id": 126831592,
+      "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
+      "message": "Go: allow committing vendored module by removing shipped .gitignore (#6441)",
+      "date": "2026-07-10T16:36:08Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-08T03:56:32Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-08T06:10:04Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6441"
+    },
+    {
+      "sha": "d9e702d958ce5c33ea0fba053b6ef04cc0d94e4e",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "ci(deps): bump actions/upload-artifact from 4.6.2 to 7.0.1 (#249)",
+      "date": "2026-07-10T18:43:48Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-10T18:00:31Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-10T18:25:47Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/249"
+    },
+    {
+      "sha": "7c21e98396d0eb6258e7233f205a159545583550",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "ci(deps): bump actions/attest-build-provenance (#248)",
+      "date": "2026-07-10T18:43:31Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-10T17:59:58Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-10T18:25:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/248"
+    },
+    {
+      "sha": "d398309c75f8c5049f06bcd51cb4516a6fbd7347",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "ci(deps): bump actions/stale from 9.1.0 to 10.3.0 (#247)",
+      "date": "2026-07-10T18:43:15Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-10T17:58:28Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-10T18:26:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/247"
+    },
+    {
+      "sha": "8bafac66779c9379f4af20c88ff02309b05da0a3",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "feat(php): implement BGSAVE, BGSAVE SCHEDULE, and BGSAVE CANCEL commands (#237)",
+      "date": "2026-07-10T17:35:20Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-07-07T17:46:30Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-07-10T14:19:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/237"
+    },
+    {
+      "sha": "ce891fd654ecf618ea7e5741c925f6071bc81c86",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "Added Third-party license (#151)",
+      "date": "2026-07-10T18:26:32Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-07-10T17:33:52Z"
+        },
+        {
+          "login": "alexr-bq",
+          "date": "2026-07-10T17:47:22Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-10T18:14:26Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/151"
+    },
+    {
+      "sha": "e3c79ee1d9ed0f5e9f8b57afdaf75e45ab2b2922",
+      "author_login": "yipin-chen",
+      "author_id": 169104400,
+      "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
+      "message": "Revise security policy and reporting guidelines",
+      "date": "2026-07-10T13:09:03Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "376badcc83da2471876506b6c9d72f4e2705a780",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump deps/luajit from `fed6d47` to `5dd996e`",
+      "date": "2026-07-10T18:43:47Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "secwall",
+          "date": "2026-07-10T18:43:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/38"
+    },
+    {
+      "sha": "252ff4f45035d8ddd9445911147d3d60ee07b7ec",
+      "author_login": "melancholictheory",
+      "author_id": 61789920,
+      "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
+      "message": "feat: configurable terminationGracePeriodSeconds for graceful failover (#271)",
+      "date": "2026-07-10T09:11:04Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-07-10T06:08:35Z"
+        },
+        {
+          "login": "sandeepkunusoth",
+          "date": "2026-07-10T07:45:43Z"
+        },
+        {
+          "login": "jdheyburn",
+          "date": "2026-07-10T09:10:55Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/271"
+    },
+    {
+      "sha": "3e3825c0195f752510123e4eabd6f57c2a29a585",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Revise handling of keys with fields with invalid values to match Redisearch (#1155)",
+      "date": "2026-07-11T06:41:21Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Nivesh-01",
+          "date": "2026-07-11T05:14:47Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1155"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 760,
+  "score": 762,
   "commit_count": 45,
-  "review_count": 715,
+  "review_count": 717,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cdacd2aa61",
+      "message": "ci(python): publish to PyPI via Trusted Publishing with PEP 740 attestations (#6478)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6478",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cdacd2aa618c5917e2ec3e79835f78b324452230"
+    },
+    {
+      "sha": "ce891fd654",
+      "message": "Added Third-party license (#151)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/151",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ce891fd654ecf618ea7e5741c925f6071bc81c86"
+    },
     {
       "sha": "5c5f64d602",
       "message": "ci: fix cargo-deny CLI flag order for v0.20+ (#6490)",

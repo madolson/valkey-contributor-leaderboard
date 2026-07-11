@@ -2,14 +2,46 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 334,
-  "commit_count": 94,
-  "review_count": 240,
+  "score": 340,
+  "commit_count": 98,
+  "review_count": 242,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "7c84faddfe",
+      "message": "Fix flaky test: test_update_connection_password timeout in cluster mode (#6373)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6373",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7c84faddfe39113705ec459b0d6129e92b271f69"
+    },
+    {
+      "sha": "30dffc44a8",
+      "message": "Fix flaky test: test_sync_resubscribe_after_connection_kill TimeoutError in cluster mode (#6377)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6377",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/30dffc44a875f8ec499727b2e0ca80833ff7f0ec"
+    },
+    {
+      "sha": "445b1c563a",
+      "message": "fix(node): stabilize CLIENT LIST count in lazy connection test (#6482)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6482",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/445b1c563a275ba0348632a4af76f7c5e0f510c5"
+    },
+    {
+      "sha": "cdacd2aa61",
+      "message": "ci(python): publish to PyPI via Trusted Publishing with PEP 740 attestations (#6478)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6478",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cdacd2aa618c5917e2ec3e79835f78b324452230"
+    },
     {
       "sha": "4238616930",
       "message": "style(node): reconcile union-type formatting with pinned Prettier (#6487)",
@@ -771,6 +803,46 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/440",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/42ff40321ef9131c44df5d50933c4c3972a2e258"
+    },
+    {
+      "sha": "1f1a0e30fe",
+      "message": "CI: fix stale workflow exempt-issue-labels to match repo labels (#6489)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6489",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1f1a0e30fe41710eefd640b3686d796be81a9bb8"
+    },
+    {
+      "sha": "4493d355ca",
+      "message": "Go: allow committing vendored module by removing shipped .gitignore (#6441)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6441",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4493d355ca2937b0b4670e0d98c30783306ecbe4"
+    },
+    {
+      "sha": "d9e702d958",
+      "message": "ci(deps): bump actions/upload-artifact from 4.6.2 to 7.0.1 (#249)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/249",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/d9e702d958ce5c33ea0fba053b6ef04cc0d94e4e"
+    },
+    {
+      "sha": "7c21e98396",
+      "message": "ci(deps): bump actions/attest-build-provenance (#248)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/248",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/7c21e98396d0eb6258e7233f205a159545583550"
+    },
+    {
+      "sha": "d398309c75",
+      "message": "ci(deps): bump actions/stale from 9.1.0 to 10.3.0 (#247)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/247",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/d398309c75f8c5049f06bcd51cb4516a6fbd7347"
     },
     {
       "sha": "c4c8b711fe",

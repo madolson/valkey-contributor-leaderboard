@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 369,
-  "commit_count": 121,
-  "review_count": 248,
+  "score": 372,
+  "commit_count": 122,
+  "review_count": 250,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -20,6 +20,14 @@
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/239",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/d8314971240023ad2230a6baa651b91743ea64a1"
+    },
+    {
+      "sha": "8bafac6677",
+      "message": "feat(php): implement BGSAVE, BGSAVE SCHEDULE, and BGSAVE CANCEL commands (#237)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/237",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/8bafac66779c9379f4af20c88ff02309b05da0a3"
     },
     {
       "sha": "c0d9e75081",
@@ -983,6 +991,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4493d355ca",
+      "message": "Go: allow committing vendored module by removing shipped .gitignore (#6441)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6441",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4493d355ca2937b0b4670e0d98c30783306ecbe4"
+    },
+    {
+      "sha": "d9e702d958",
+      "message": "ci(deps): bump actions/upload-artifact from 4.6.2 to 7.0.1 (#249)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/249",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/d9e702d958ce5c33ea0fba053b6ef04cc0d94e4e"
+    },
+    {
+      "sha": "7c21e98396",
+      "message": "ci(deps): bump actions/attest-build-provenance (#248)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/248",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/7c21e98396d0eb6258e7233f205a159545583550"
+    },
+    {
+      "sha": "d398309c75",
+      "message": "ci(deps): bump actions/stale from 9.1.0 to 10.3.0 (#247)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/247",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/d398309c75f8c5049f06bcd51cb4516a6fbd7347"
+    },
+    {
+      "sha": "ce891fd654",
+      "message": "Added Third-party license (#151)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/151",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ce891fd654ecf618ea7e5741c925f6071bc81c86"
+    },
     {
       "sha": "ce830a258f",
       "message": "Add Rust to `dependabot` updates (#445)",

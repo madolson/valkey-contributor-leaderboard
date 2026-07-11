@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 42,
+  "score": 43,
   "commit_count": 20,
-  "review_count": 22,
+  "review_count": 23,
   "repos": [
     "valkey-operator"
   ],
@@ -171,6 +171,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "252ff4f450",
+      "message": "feat: configurable terminationGracePeriodSeconds for graceful failover (#271)",
+      "date": "2026-07-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/271",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/252ff4f45035d8ddd9445911147d3d60ee07b7ec"
+    },
     {
       "sha": "a635afd9f7",
       "message": "feat: add priorityClassName to ValkeyCluster and ValkeyNode specs (#294)",

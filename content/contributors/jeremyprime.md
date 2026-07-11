@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 161,
+  "score": 162,
   "commit_count": 41,
-  "review_count": 120,
+  "review_count": 121,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -341,6 +341,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1f1a0e30fe",
+      "message": "CI: fix stale workflow exempt-issue-labels to match repo labels (#6489)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6489",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1f1a0e30fe41710eefd640b3686d796be81a9bb8"
+    },
     {
       "sha": "a758a72f68",
       "message": "feat(java): bypass protobuf serialization for command execution (#6337)",

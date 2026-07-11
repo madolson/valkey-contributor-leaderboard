@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 180,
-  "commit_count": 58,
-  "review_count": 122,
+  "score": 185,
+  "commit_count": 59,
+  "review_count": 126,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "ce891fd654",
+      "message": "Added Third-party license (#151)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/151",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ce891fd654ecf618ea7e5741c925f6071bc81c86"
+    },
     {
       "sha": "0b8df42749",
       "message": "feat: Add missing core options (#131)",
@@ -489,6 +497,38 @@
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/239",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/d8314971240023ad2230a6baa651b91743ea64a1"
+    },
+    {
+      "sha": "7c84faddfe",
+      "message": "Fix flaky test: test_update_connection_password timeout in cluster mode (#6373)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6373",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7c84faddfe39113705ec459b0d6129e92b271f69"
+    },
+    {
+      "sha": "30dffc44a8",
+      "message": "Fix flaky test: test_sync_resubscribe_after_connection_kill TimeoutError in cluster mode (#6377)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6377",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/30dffc44a875f8ec499727b2e0ca80833ff7f0ec"
+    },
+    {
+      "sha": "445b1c563a",
+      "message": "fix(node): stabilize CLIENT LIST count in lazy connection test (#6482)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6482",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/445b1c563a275ba0348632a4af76f7c5e0f510c5"
+    },
+    {
+      "sha": "8bafac6677",
+      "message": "feat(php): implement BGSAVE, BGSAVE SCHEDULE, and BGSAVE CANCEL commands (#237)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/237",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/8bafac66779c9379f4af20c88ff02309b05da0a3"
     },
     {
       "sha": "4238616930",

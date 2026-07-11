@@ -2,14 +2,30 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 224,
-  "commit_count": 70,
+  "score": 226,
+  "commit_count": 72,
   "review_count": 154,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "1f1a0e30fe",
+      "message": "CI: fix stale workflow exempt-issue-labels to match repo labels (#6489)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6489",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1f1a0e30fe41710eefd640b3686d796be81a9bb8"
+    },
+    {
+      "sha": "4493d355ca",
+      "message": "Go: allow committing vendored module by removing shipped .gitignore (#6441)",
+      "date": "2026-07-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6441",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4493d355ca2937b0b4670e0d98c30783306ecbe4"
+    },
     {
       "sha": "1821f57edf",
       "message": "Node: Improve performance of Client initial connection with TLS (#6219)",
