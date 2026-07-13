@@ -161822,6 +161822,83 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1155"
+    },
+    {
+      "sha": "fea57aa65bc715bf3a5ff2334a80ae9e1bde299d",
+      "author_login": "mcollina",
+      "author_id": 52195,
+      "avatar_url": "https://avatars.githubusercontent.com/u/52195?v=4",
+      "message": "Add agent configuration to gitignore (#59)",
+      "date": "2026-07-12T12:15:47Z",
+      "repo": "iovalkey",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d10deddc7386d8dab2db9cbd324aa987b893d584",
+      "author_login": "mcollina",
+      "author_id": 52195,
+      "avatar_url": "https://avatars.githubusercontent.com/u/52195?v=4",
+      "message": "fix(types): add hash field expiration commands (#66)",
+      "date": "2026-07-12T12:14:38Z",
+      "repo": "iovalkey",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "a5958935cfb33e45804aa73d813cb11e4c362d08",
+      "author_login": "mcollina",
+      "author_id": 52195,
+      "avatar_url": "https://avatars.githubusercontent.com/u/52195?v=4",
+      "message": "fix(types): allow numeric ZRANGE stop bounds (#67)",
+      "date": "2026-07-12T12:13:51Z",
+      "repo": "iovalkey",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "0339c61bb02038e1d1361a7e16131b7c5895a4b3",
+      "author_login": "mcollina",
+      "author_id": 52195,
+      "avatar_url": "https://avatars.githubusercontent.com/u/52195?v=4",
+      "message": "fix: export Valkey constructor (#70)",
+      "date": "2026-07-12T12:13:15Z",
+      "repo": "iovalkey",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "a367ee4114eb974a90d5fd5073d48f10e1f97226",
+      "author_login": "mcollina",
+      "author_id": 52195,
+      "avatar_url": "https://avatars.githubusercontent.com/u/52195?v=4",
+      "message": "fix: replace deprecated URL parser (#69)",
+      "date": "2026-07-12T12:12:16Z",
+      "repo": "iovalkey",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ffea255a80b77e4ddaf10e70c0c0c39c3fd85716",
+      "author_login": "mcollina",
+      "author_id": 52195,
+      "avatar_url": "https://avatars.githubusercontent.com/u/52195?v=4",
+      "message": "fix(cluster): retry reads while replicas are loading (#68)",
+      "date": "2026-07-12T12:10:45Z",
+      "repo": "iovalkey",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "cd1d1782d2dc4d123b3bb774033f187c8d3bd434",
+      "author_login": "mcollina",
+      "author_id": 52195,
+      "avatar_url": "https://avatars.githubusercontent.com/u/52195?v=4",
+      "message": "fix(cluster): recover stale ElastiCache connections (#65)",
+      "date": "2026-07-12T12:09:30Z",
+      "repo": "iovalkey",
+      "reviewed": false,
+      "pr_url": ""
     }
   ]
 }
