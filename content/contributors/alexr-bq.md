@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 190,
+  "score": 191,
   "commit_count": 48,
-  "review_count": 142,
+  "review_count": 143,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -398,6 +398,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1a4c223d94",
+      "message": "feat(ffi): add command_with_route_info entrypoint (#6494)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6494",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1a4c223d9469eb1f6831507ef312f9bc65bb50bf"
+    },
     {
       "sha": "ce891fd654",
       "message": "Added Third-party license (#151)",

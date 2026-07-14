@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 913,
+  "score": 915,
   "commit_count": 363,
-  "review_count": 550,
+  "review_count": 552,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2919,6 +2919,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7bb7b7f01f",
+      "message": "Out of Bounds read in valkey-benchmark (#4142)",
+      "date": "2026-07-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4142",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7bb7b7f01fc003918d421467326f704b497a80bf"
+    },
+    {
+      "sha": "168c22afd5",
+      "message": "Deflake: Harden copy-avoidance obuf tests and replica output-bytes metric test (#4158)",
+      "date": "2026-07-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4158",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/168c22afd55df6c85ef0db6e0fd7eac462f5f8d1"
+    },
     {
       "sha": "0e52ec8790",
       "message": "Add support for CONFIG INFO <config> to display config type and valid values (#3050)",

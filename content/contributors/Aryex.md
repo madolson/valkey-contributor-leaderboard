@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 185,
-  "commit_count": 59,
-  "review_count": 126,
+  "score": 188,
+  "commit_count": 60,
+  "review_count": 128,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "1a4c223d94",
+      "message": "feat(ffi): add command_with_route_info entrypoint (#6494)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6494",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1a4c223d9469eb1f6831507ef312f9bc65bb50bf"
+    },
     {
       "sha": "ce891fd654",
       "message": "Added Third-party license (#151)",
@@ -490,6 +498,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "80ced93d3f",
+      "message": "Add `MEMORY DOCTOR`, `MALLOC-STATS`, `PURGE`, and `STATS` commands (#443)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/443",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/80ced93d3fa550f21d38bc85c06e91794174ddcf"
+    },
+    {
+      "sha": "9d3d36c5a3",
+      "message": "PHP: fix ort workflow to verify signatures (#255)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/255",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9d3d36c5a30e5958eb243a99481b1e4aca458fb5"
+    },
     {
       "sha": "d831497124",
       "message": "Release 1.1.2 (#239)",

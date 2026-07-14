@@ -2,15 +2,39 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 100,
-  "commit_count": 32,
-  "review_count": 68,
+  "score": 105,
+  "commit_count": 35,
+  "review_count": 70,
   "repos": [
     "valkey",
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "9fd674377d",
+      "message": "refactor!: convert podDisruptionBudget to struct with mode field (#308)",
+      "date": "2026-07-14",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/308",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9fd674377d499766fe2f889f3449a7a01ca79c46"
+    },
+    {
+      "sha": "b23073c2da",
+      "message": "refactor(api)!: move scheduling fields under spec.scheduling (#301)",
+      "date": "2026-07-14",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/301",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/b23073c2daa0d6514ddcdc209fe19f9483f68a56"
+    },
+    {
+      "sha": "43ed960472",
+      "message": "chore: Permit operator user to execute ROLE cmd (#298)",
+      "date": "2026-07-13",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/298",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/43ed960472bc8d289d4c5dcaff5e7994912567c5"
+    },
     {
       "sha": "d3824527b9",
       "message": "feat: Add VALKEYCLI_USER env var (#4126)",
@@ -269,6 +293,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6916da37fe",
+      "message": "feat(operator): add priorityClassName support to valkey-operator chart (#218)",
+      "date": "2026-07-13",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/218",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/6916da37feac5f90bd38b95106510d549242318f"
+    },
+    {
+      "sha": "6916da37fe",
+      "message": "feat(operator): add priorityClassName support to valkey-operator chart (#218)",
+      "date": "2026-07-13",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/218",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/6916da37feac5f90bd38b95106510d549242318f"
+    },
     {
       "sha": "252ff4f450",
       "message": "feat: configurable terminationGracePeriodSeconds for graceful failover (#271)",

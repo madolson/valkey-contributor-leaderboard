@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 225,
-  "commit_count": 133,
+  "score": 226,
+  "commit_count": 134,
   "review_count": 92,
   "repos": [
     "valkey-doc",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "80ced93d3f",
+      "message": "Add `MEMORY DOCTOR`, `MALLOC-STATS`, `PURGE`, and `STATS` commands (#443)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/443",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/80ced93d3fa550f21d38bc85c06e91794174ddcf"
+    },
     {
       "sha": "42ff40321e",
       "message": "feat: Add `SAVE` command (#440)",

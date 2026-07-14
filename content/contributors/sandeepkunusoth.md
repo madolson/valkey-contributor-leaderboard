@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 43,
+  "score": 46,
   "commit_count": 20,
-  "review_count": 23,
+  "review_count": 26,
   "repos": [
     "valkey-operator"
   ],
@@ -171,6 +171,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9fd674377d",
+      "message": "refactor!: convert podDisruptionBudget to struct with mode field (#308)",
+      "date": "2026-07-14",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/308",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9fd674377d499766fe2f889f3449a7a01ca79c46"
+    },
+    {
+      "sha": "b23073c2da",
+      "message": "refactor(api)!: move scheduling fields under spec.scheduling (#301)",
+      "date": "2026-07-14",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/301",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/b23073c2daa0d6514ddcdc209fe19f9483f68a56"
+    },
+    {
+      "sha": "43ed960472",
+      "message": "chore: Permit operator user to execute ROLE cmd (#298)",
+      "date": "2026-07-13",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/298",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/43ed960472bc8d289d4c5dcaff5e7994912567c5"
+    },
     {
       "sha": "252ff4f450",
       "message": "feat: configurable terminationGracePeriodSeconds for graceful failover (#271)",

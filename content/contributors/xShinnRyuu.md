@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 340,
+  "score": 341,
   "commit_count": 98,
-  "review_count": 242,
+  "review_count": 243,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -796,6 +796,94 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "80cf1194b6",
+      "message": "build(deps-dev): bump shx from 0.3.4 to 0.4.0 in /node in the minor-updates group (#6500)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6500",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/80cf1194b6c80216b7dbd1f825bbe33af5682ffc"
+    },
+    {
+      "sha": "5e86989b83",
+      "message": "build(deps): bump the patch-updates group in /glide-core with 3 updates (#6508)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6508",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5e86989b83687f3d382f7e0ebec6f4e25a6e3b5e"
+    },
+    {
+      "sha": "c05bff7f03",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 5 updates (#6516)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6516",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c05bff7f03be42aa39fb59a6ddfec70a33dd2643"
+    },
+    {
+      "sha": "c05bff7f03",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 5 updates (#6516)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6516",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c05bff7f03be42aa39fb59a6ddfec70a33dd2643"
+    },
+    {
+      "sha": "88e34cd508",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 7 updates (#6517)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6517",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/88e34cd508df3db693b3e8357b75ee151e448b69"
+    },
+    {
+      "sha": "5ee97a433d",
+      "message": "build(deps): bump uuid from 1.23.4 to 1.23.5 in /ffi in the patch-updates group (#6515)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6515",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5ee97a433d42d1e2738f2c7d023baa59e41cd926"
+    },
+    {
+      "sha": "ed66b3b0f2",
+      "message": "build(deps): bump bytes from 1.12.0 to 1.12.1 in /java in the patch-updates group (#6501)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6501",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ed66b3b0f25c575a215a4ec69eb72361294fd36e"
+    },
+    {
+      "sha": "6224a1d2ec",
+      "message": "build(deps-dev): bump the minor-updates group with 2 updates (#6503)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6503",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6224a1d2ecbf823611d7051c09ab1bf6c5f95fcd"
+    },
+    {
+      "sha": "7feccdeab5",
+      "message": "build(deps-dev): bump the patch-updates group with 3 updates (#6499)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6499",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7feccdeab5bc4d9ab710f0aae0863be304e564d9"
+    },
+    {
+      "sha": "e5f403f56a",
+      "message": "chore(deps-dev): update black requirement from >=24.3.0 to >=25.11.0 in /python (#5829)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5829",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e5f403f56aad3640a0e056909eb86efdd2cd90b4"
+    },
+    {
+      "sha": "9d3d36c5a3",
+      "message": "PHP: fix ort workflow to verify signatures (#255)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/255",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9d3d36c5a30e5958eb243a99481b1e4aca458fb5"
+    },
     {
       "sha": "42ff40321e",
       "message": "feat: Add `SAVE` command (#440)",

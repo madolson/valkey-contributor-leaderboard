@@ -2,13 +2,21 @@
   "title": "somaz94",
   "login": "somaz94",
   "avatar_url": "https://avatars.githubusercontent.com/u/112675579?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey-helm"
   ],
   "commit_list": [
+    {
+      "sha": "6916da37fe",
+      "message": "feat(operator): add priorityClassName support to valkey-operator chart (#218)",
+      "date": "2026-07-13",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/218",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/6916da37feac5f90bd38b95106510d549242318f"
+    },
     {
       "sha": "0997efb5e7",
       "message": "feat(operator): add Prometheus ServiceMonitor support to valkey-operator chart",

@@ -2,8 +2,8 @@
   "title": "yulazariy",
   "login": "yulazariy",
   "avatar_url": "https://avatars.githubusercontent.com/u/173686619?v=4",
-  "score": 36,
-  "commit_count": 21,
+  "score": 37,
+  "commit_count": 22,
   "review_count": 15,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "8886bd1035",
+      "message": "Fix HRANDFIELD CASE 4 test to actually invoke HRANDFIELD (#4154)",
+      "date": "2026-07-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4154",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8886bd10356995b0145395154a88406d65b69947"
+    },
     {
       "sha": "cad62657f8",
       "message": "Implement queue wait time aware local node preference in fanout operations (#428)",

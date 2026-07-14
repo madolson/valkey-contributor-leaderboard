@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 372,
-  "commit_count": 122,
-  "review_count": 250,
+  "score": 374,
+  "commit_count": 123,
+  "review_count": 251,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "9d3d36c5a3",
+      "message": "PHP: fix ort workflow to verify signatures (#255)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/255",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9d3d36c5a30e5958eb243a99481b1e4aca458fb5"
+    },
     {
       "sha": "d831497124",
       "message": "Release 1.1.2 (#239)",
@@ -991,6 +999,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1a4c223d94",
+      "message": "feat(ffi): add command_with_route_info entrypoint (#6494)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6494",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1a4c223d9469eb1f6831507ef312f9bc65bb50bf"
+    },
+    {
+      "sha": "0be51014f3",
+      "message": "Updated attribution files (#257)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/257",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/0be51014f36557a823665baa2ff86c60ba0432b1"
+    },
+    {
+      "sha": "ac102f8c70",
+      "message": "ci(deps): bump actions/cache from 4.3.0 to 6.1.0 (#252)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/252",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/ac102f8c704a5a939e0b4f1d1243edb5a5f567d4"
+    },
+    {
+      "sha": "d4a29f2636",
+      "message": "deps-dev(deps-dev): update phpstan/phpstan requirement (#216)",
+      "date": "2026-07-13",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/216",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/d4a29f2636b2d7341fec5a6a321417f3d906086b"
+    },
     {
       "sha": "4493d355ca",
       "message": "Go: allow committing vendored module by removing shipped .gitignore (#6441)",

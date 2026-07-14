@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 87,
+  "score": 88,
   "commit_count": 36,
-  "review_count": 51,
+  "review_count": 52,
   "repos": [
     "valkey",
     "valkey-io.github.io",
@@ -301,6 +301,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e028db6c06",
+      "message": "Reimplement Numeric field for 3x space reduction (#1030)",
+      "date": "2026-07-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1030",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e028db6c06e2eadc8b604e67ee9bca3fbb3f4c30"
+    },
     {
       "sha": "87978b530a",
       "message": "The query vector is not normalized on the prefiltering query execution path (#1222)",

@@ -2,14 +2,22 @@
   "title": "cjx-zar",
   "login": "cjx-zar",
   "avatar_url": "https://avatars.githubusercontent.com/u/56825069?v=4",
-  "score": 7,
-  "commit_count": 6,
+  "score": 8,
+  "commit_count": 7,
   "review_count": 1,
   "repos": [
     "valkey",
     "valkey-bloom"
   ],
   "commit_list": [
+    {
+      "sha": "c03970afd1",
+      "message": "stream: strip redundant LIMIT when rewriting XADD/XTRIM for propagation (#4063)",
+      "date": "2026-07-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4063",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c03970afd1b90ba6aa5ddd00a2fcd67942df8263"
+    },
     {
       "sha": "33cf4a4133",
       "message": "Fix HRANDFIELD CASE 4 infinite loop when valid fields fewer than count (#4047)",

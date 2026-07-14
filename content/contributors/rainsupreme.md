@@ -2,14 +2,22 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 89,
-  "commit_count": 29,
+  "score": 90,
+  "commit_count": 30,
   "review_count": 60,
   "repos": [
     "valkey",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "168c22afd5",
+      "message": "Deflake: Harden copy-avoidance obuf tests and replica output-bytes metric test (#4158)",
+      "date": "2026-07-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4158",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/168c22afd55df6c85ef0db6e0fd7eac462f5f8d1"
+    },
     {
       "sha": "ac61c11d0c",
       "message": "Add C-readable test guidelines to unit test README (#4051)",

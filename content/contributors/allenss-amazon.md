@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 284,
-  "commit_count": 69,
+  "score": 285,
+  "commit_count": 70,
   "review_count": 215,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "e028db6c06",
+      "message": "Reimplement Numeric field for 3x space reduction (#1030)",
+      "date": "2026-07-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1030",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e028db6c06e2eadc8b604e67ee9bca3fbb3f4c30"
+    },
     {
       "sha": "3e3825c019",
       "message": "Revise handling of keys with fields with invalid values to match Redisearch (#1155)",

@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 287,
+  "score": 289,
   "commit_count": 92,
-  "review_count": 195,
+  "review_count": 197,
   "repos": [
     "valkey",
     "valkey-container",
@@ -753,6 +753,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cdf98a251e",
+      "message": "Fix io_last_written bookmark desync that corrupts replies with IO threads (#4060)",
+      "date": "2026-07-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4060",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cdf98a251e2dcb5772d5e544df73b931633834ba"
+    },
+    {
+      "sha": "8886bd1035",
+      "message": "Fix HRANDFIELD CASE 4 test to actually invoke HRANDFIELD (#4154)",
+      "date": "2026-07-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4154",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8886bd10356995b0145395154a88406d65b69947"
+    },
     {
       "sha": "33cf4a4133",
       "message": "Fix HRANDFIELD CASE 4 infinite loop when valid fields fewer than count (#4047)",
