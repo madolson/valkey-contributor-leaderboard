@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 214,
+  "score": 215,
   "commit_count": 19,
-  "review_count": 195,
+  "review_count": 196,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "50a5470d3e",
+      "message": "Update docs (#387)",
+      "date": "2026-07-14",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/387",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/50a5470d3e216d6575af8dd10316eece95a84636"
+    },
     {
       "sha": "5fe5a058ae",
       "message": "Fix bug with metrics server not starting, electron build breaking, and node error banner with wrong label (#388)",

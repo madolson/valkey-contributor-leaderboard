@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 188,
-  "commit_count": 60,
-  "review_count": 128,
+  "score": 195,
+  "commit_count": 62,
+  "review_count": 133,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "781c94855c",
+      "message": "git: ignore kiro and vscode folders (#159)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/159",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/781c94855c155c959d7f000a8c4a1c8b76deafab"
+    },
+    {
+      "sha": "8487910895",
+      "message": "docs: update security reference to org level (#158)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/158",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/8487910895e49d3e32e720285539b238149d2cdc"
+    },
     {
       "sha": "1a4c223d94",
       "message": "feat(ffi): add command_with_route_info entrypoint (#6494)",
@@ -498,6 +514,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "35f6983084",
+      "message": "docs(go): add GetStatistics example (#262)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/262",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/35f6983084250c22f4c42e751b93e62a7c8ce70a"
+    },
+    {
+      "sha": "4cc7e0a322",
+      "message": "PHP: Fix version in workflow files (#260)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/260",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/4cc7e0a3220b3eb01716974f0eda96c58968b746"
+    },
+    {
+      "sha": "81eb19fb5b",
+      "message": "Fix semgrep ci (#160)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/160",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/81eb19fb5b280bb85b42eb1e5fa53e72609a8610"
+    },
+    {
+      "sha": "40c3e93bb6",
+      "message": "feat(ruby): add Alpine Linux (musl libc) support for x86_64 and aarch64 (#143)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/143",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/40c3e93bb69b91f6d9dfed320c43e94d74be14a3"
+    },
+    {
+      "sha": "b2cd402b99",
+      "message": "Tell depdendabot to update GitHub Actions (#79)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/79",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/b2cd402b9905bdd59a4fc66a1c4bffd464b8d415"
+    },
     {
       "sha": "80ced93d3f",
       "message": "Add `MEMORY DOCTOR`, `MALLOC-STATS`, `PURGE`, and `STATS` commands (#443)",

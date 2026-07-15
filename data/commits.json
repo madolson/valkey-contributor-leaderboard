@@ -162428,6 +162428,512 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1030"
+    },
+    {
+      "sha": "fd76d38b68a3baac8d50366726e0472c12ed8eca",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Merge pull request #3 from xShinnRyuu/add-org-security-md",
+      "date": "2026-07-14T15:06:55Z",
+      "repo": ".github",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c883d86ccdc44f69663eea0ff52429b00d5cd0b1",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Add organization-wide SECURITY.md default",
+      "date": "2026-07-13T20:38:43Z",
+      "repo": ".github",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-07-14T15:06:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/.github/pull/3"
+    },
+    {
+      "sha": "5c1fc15f3c81c93780c52d12aaa39ee29d526bb1",
+      "author_login": "rainsupreme",
+      "author_id": 20649182,
+      "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
+      "message": "Deflake slot-migration replica redirects, dual-channel COB overrun, and HGETEX EXAT notifications (#4157)",
+      "date": "2026-07-15T06:38:53Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-07-15T06:38:25Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4157"
+    },
+    {
+      "sha": "050b0655a4aa82d52c49dc577b26f7602d75d28f",
+      "author_login": "rainsupreme",
+      "author_id": 20649182,
+      "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
+      "message": "Deflake gossip-count and blocking-module-auth assertions (#4156)",
+      "date": "2026-07-15T02:34:02Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-07-15T02:33:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4156"
+    },
+    {
+      "sha": "3a27559aba5e36b4add32a8e81cb04c2b3353e72",
+      "author_login": "KIvanow",
+      "author_id": 541999,
+      "avatar_url": "https://avatars.githubusercontent.com/u/541999?v=4",
+      "message": "Prevent module loading during async replication and slot migration (#3039)",
+      "date": "2026-07-15T00:22:04Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "murphyjacob4",
+          "date": "2026-01-21T17:19:44Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-01-28T07:26:18Z"
+        },
+        {
+          "login": "roshkhatri",
+          "date": "2026-01-28T08:03:49Z"
+        },
+        {
+          "login": "madolson",
+          "date": "2026-04-13T19:46:07Z"
+        },
+        {
+          "login": "roshkhatri",
+          "date": "2026-04-14T17:07:17Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-04-15T20:09:42Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3039"
+    },
+    {
+      "sha": "50a5470d3e216d6575af8dd10316eece95a84636",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Update docs (#387)",
+      "date": "2026-07-14T18:13:15Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "arseny-kostenko",
+          "date": "2026-07-14T18:12:31Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/387"
+    },
+    {
+      "sha": "99afc7f6f40d16c058852a0ac27ca3ef1c478886",
+      "author_login": "hanxizh9910",
+      "author_id": 220982061,
+      "avatar_url": "https://avatars.githubusercontent.com/u/220982061?v=4",
+      "message": "Added libbacktrace support for alpine (#139)",
+      "date": "2026-07-14T22:37:30Z",
+      "repo": "valkey-container",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-07-10T23:38:39Z"
+        },
+        {
+          "login": "roshkhatri",
+          "date": "2026-07-14T22:36:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/139"
+    },
+    {
+      "sha": "d12ab462c99a68987c9a1d0cba049a064fc0228e",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Remove the repository-level SECURITY.md in favor of the organization-level SECURITY.md (#6439)",
+      "date": "2026-07-14T17:44:26Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-07-14T17:11:00Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-07-14T17:29:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6439"
+    },
+    {
+      "sha": "e70873a6dcc924a821cbe922c93c2b6b122cca20",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "Add `serverAssisted` client-side caching config and `CLIENT TRACKINGINFO` command (#451)",
+      "date": "2026-07-14T18:53:11Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-07-13T23:19:17Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-14T17:48:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/451"
+    },
+    {
+      "sha": "33d8c35f28b90457c9e6d979392e1b6b40af52c6",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "Add `FAILOVER` and `REPLICAOF` commands (#446)",
+      "date": "2026-07-14T18:13:27Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-07-13T21:50:04Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-14T17:07:48Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/446"
+    },
+    {
+      "sha": "8aed0eea920ea1c5a884710f79a60189951cf61f",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump lycheeverse/lychee-action from 2.8.0 to 2.9.0 in the minor-updates group (#448)",
+      "date": "2026-07-14T14:03:56Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-07-13T17:08:13Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-13T17:14:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/448"
+    },
+    {
+      "sha": "35f6983084250c22f4c42e751b93e62a7c8ce70a",
+      "author_login": "TidesOfMemories",
+      "author_id": 12990920,
+      "avatar_url": "https://avatars.githubusercontent.com/u/12990920?v=4",
+      "message": "docs(go): add GetStatistics example (#262)",
+      "date": "2026-07-14T20:42:42Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-07-13T22:38:56Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/262"
+    },
+    {
+      "sha": "49bb55bc2438e7ab381e4c8ef77e582ba943d8b4",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "ci(deps): bump Swatinem/rust-cache (#194)",
+      "date": "2026-07-14T22:36:19Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-14T21:31:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/194"
+    },
+    {
+      "sha": "4cc7e0a3220b3eb01716974f0eda96c58968b746",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "PHP: Fix version in workflow files (#260)",
+      "date": "2026-07-14T21:42:32Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "nderraugh",
+          "date": "2026-07-14T21:08:27Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-07-14T21:12:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/260"
+    },
+    {
+      "sha": "a079d6fd4a7c66a5f054e1f5bf50675c9af1cbcf",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "ci(deps): bump softprops/action-gh-release from 2.6.2 to 3.0.1 (#254)",
+      "date": "2026-07-14T21:23:23Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-14T21:22:11Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/254"
+    },
+    {
+      "sha": "b1b685d7e0957a1cb6a76d48cca221ce92954196",
+      "author_login": "tnucera",
+      "author_id": 10210667,
+      "avatar_url": "https://avatars.githubusercontent.com/u/10210667?v=4",
+      "message": "fix(compatibility): track getLastError/clearLastError as missing PHPRedis methods (#220)",
+      "date": "2026-07-14T20:54:30Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-14T18:42:50Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-07-14T19:18:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/220"
+    },
+    {
+      "sha": "8b32b6c5b5a8e0d245caa4083e73755ebbe69baa",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Updated attribution files (#259)",
+      "date": "2026-07-14T19:20:25Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-14T17:51:13Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/259"
+    },
+    {
+      "sha": "c48c6196ffb14acd64cc5e5111d7e5b232e349a0",
+      "author_login": "tnucera",
+      "author_id": 10210667,
+      "avatar_url": "https://avatars.githubusercontent.com/u/10210667?v=4",
+      "message": "PHP: Implement getLastError() and clearLastError() for PHPRedis compatibility (#221)",
+      "date": "2026-07-14T18:39:28Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-13T04:24:21Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-07-13T21:06:18Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/221"
+    },
+    {
+      "sha": "50ba76dffc991b5311298fa77f14c19a61c62d18",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "ci(deps): bump actions/checkout from 4.2.2 to 7.0.0 (#253)",
+      "date": "2026-07-14T17:31:07Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-13T21:08:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/253"
+    },
+    {
+      "sha": "81eb19fb5b280bb85b42eb1e5fa53e72609a8610",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "Fix semgrep ci (#160)",
+      "date": "2026-07-14T22:18:33Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-07-14T21:30:56Z"
+        },
+        {
+          "login": "alexr-bq",
+          "date": "2026-07-14T21:55:15Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/160"
+    },
+    {
+      "sha": "781c94855c155c959d7f000a8c4a1c8b76deafab",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "git: ignore kiro and vscode folders (#159)",
+      "date": "2026-07-14T20:41:00Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-14T18:49:47Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-14T18:50:02Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-14T18:50:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/159"
+    },
+    {
+      "sha": "8487910895e49d3e32e720285539b238149d2cdc",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "docs: update security reference to org level (#158)",
+      "date": "2026-07-14T18:48:32Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-14T18:21:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/158"
+    },
+    {
+      "sha": "40c3e93bb69b91f6d9dfed320c43e94d74be14a3",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "feat(ruby): add Alpine Linux (musl libc) support for x86_64 and aarch64 (#143)",
+      "date": "2026-07-14T17:06:24Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "alexr-bq",
+          "date": "2026-07-13T21:45:45Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-07-14T16:56:47Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/143"
+    },
+    {
+      "sha": "b2cd402b9905bdd59a4fc66a1c4bffd464b8d415",
+      "author_login": "olleolleolle",
+      "author_id": 211,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211?v=4",
+      "message": "Tell depdendabot to update GitHub Actions (#79)",
+      "date": "2026-07-14T16:57:18Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-07-14T15:44:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/79"
+    },
+    {
+      "sha": "a7663c3f22433b0e5b90738a2982ebd9828dcd62",
+      "author_login": "cfilby",
+      "author_id": 2702479,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2702479?v=4",
+      "message": "Expose and Use Constructors for ValkeyResults rather than Unsafe Pointer Conversions (#147)",
+      "date": "2026-07-15T04:52:52Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-07-15T04:52:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/147"
+    },
+    {
+      "sha": "72c64c97992728db3641db87430ea66fc6257993",
+      "author_login": "Links2004",
+      "author_id": 974709,
+      "avatar_url": "https://avatars.githubusercontent.com/u/974709?v=4",
+      "message": "chore: do not use sh to execute valkey-cli in probes (#163)",
+      "date": "2026-07-14T14:34:29Z",
+      "repo": "valkey-helm",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "682bb9984e99ef0059227ed74588f2ffcb0a4978",
+      "author_login": "sandeepkunusoth",
+      "author_id": 31273507,
+      "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
+      "message": "Updated issue templates [bug_report and feature_request] (#179)",
+      "date": "2026-07-15T06:09:56Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-07-15T06:09:50Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/179"
+    },
+    {
+      "sha": "666e39d57720539763f8a3c362a5d2365c16208e",
+      "author_login": "sandeepkunusoth",
+      "author_id": 31273507,
+      "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
+      "message": "fix: allow _replication user to apply atomic slot migration (#306)",
+      "date": "2026-07-14T18:46:52Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-07-14T07:07:18Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/306"
     }
   ]
 }

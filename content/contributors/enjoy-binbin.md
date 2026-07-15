@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 915,
+  "score": 917,
   "commit_count": 363,
-  "review_count": 552,
+  "review_count": 554,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2919,6 +2919,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5c1fc15f3c",
+      "message": "Deflake slot-migration replica redirects, dual-channel COB overrun, and HGETEX EXAT notifications (#4157)",
+      "date": "2026-07-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4157",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5c1fc15f3c81c93780c52d12aaa39ee29d526bb1"
+    },
+    {
+      "sha": "050b0655a4",
+      "message": "Deflake gossip-count and blocking-module-auth assertions (#4156)",
+      "date": "2026-07-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4156",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/050b0655a4aa82d52c49dc577b26f7602d75d28f"
+    },
     {
       "sha": "7bb7b7f01f",
       "message": "Out of Bounds read in valkey-benchmark (#4142)",

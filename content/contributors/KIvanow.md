@@ -2,15 +2,24 @@
   "title": "KIvanow",
   "login": "KIvanow",
   "avatar_url": "https://avatars.githubusercontent.com/u/541999?v=4",
-  "score": 10,
-  "commit_count": 9,
+  "score": 11,
+  "commit_count": 10,
   "review_count": 1,
   "repos": [
+    "valkey",
     "valkey-admin",
     "valkey-glide-php",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "3a27559aba",
+      "message": "Prevent module loading during async replication and slot migration (#3039)",
+      "date": "2026-07-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3039",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3a27559aba5e36b4add32a8e81cb04c2b3353e72"
+    },
     {
       "sha": "96b2cf2ed1",
       "message": "Blog post: What Valkey's new primitives tell us about the tools we need (#473)",

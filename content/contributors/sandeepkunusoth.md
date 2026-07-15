@@ -2,13 +2,29 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 46,
-  "commit_count": 20,
+  "score": 48,
+  "commit_count": 22,
   "review_count": 26,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "682bb9984e",
+      "message": "Updated issue templates [bug_report and feature_request] (#179)",
+      "date": "2026-07-15",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/179",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/682bb9984e99ef0059227ed74588f2ffcb0a4978"
+    },
+    {
+      "sha": "666e39d577",
+      "message": "fix: allow _replication user to apply atomic slot migration (#306)",
+      "date": "2026-07-14",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/306",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/666e39d57720539763f8a3c362a5d2365c16208e"
+    },
     {
       "sha": "196a306aaa",
       "message": "(feat) support readOnlyFileSystem using custom podSecurityContext (#288)",

@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 380,
+  "score": 383,
   "commit_count": 143,
-  "review_count": 237,
+  "review_count": 240,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1165,6 +1165,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3a27559aba",
+      "message": "Prevent module loading during async replication and slot migration (#3039)",
+      "date": "2026-07-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3039",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3a27559aba5e36b4add32a8e81cb04c2b3353e72"
+    },
+    {
+      "sha": "3a27559aba",
+      "message": "Prevent module loading during async replication and slot migration (#3039)",
+      "date": "2026-07-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3039",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3a27559aba5e36b4add32a8e81cb04c2b3353e72"
+    },
+    {
+      "sha": "99afc7f6f4",
+      "message": "Added libbacktrace support for alpine (#139)",
+      "date": "2026-07-14",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/139",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/99afc7f6f40d16c058852a0ac27ca3ef1c478886"
+    },
     {
       "sha": "5ab06a709f",
       "message": "Fetch full valkey history so module API 'Available since' is correct (#60)",

@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 41,
+  "score": 42,
   "commit_count": 9,
-  "review_count": 32,
+  "review_count": 33,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -86,6 +86,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a7663c3f22",
+      "message": "Expose and Use Constructors for ValkeyResults rather than Unsafe Pointer Conversions (#147)",
+      "date": "2026-07-15",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/147",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/a7663c3f22433b0e5b90738a2982ebd9828dcd62"
+    },
     {
       "sha": "57e4802fd4",
       "message": "Add remaining commands to valkeycompatmock (#137)",

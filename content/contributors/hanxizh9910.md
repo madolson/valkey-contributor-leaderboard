@@ -2,8 +2,8 @@
   "title": "hanxizh9910",
   "login": "hanxizh9910",
   "avatar_url": "https://avatars.githubusercontent.com/u/220982061?v=4",
-  "score": 41,
-  "commit_count": 36,
+  "score": 42,
+  "commit_count": 37,
   "review_count": 5,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "99afc7f6f4",
+      "message": "Added libbacktrace support for alpine (#139)",
+      "date": "2026-07-14",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/139",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/99afc7f6f40d16c058852a0ac27ca3ef1c478886"
+    },
     {
       "sha": "8d7e713d31",
       "message": "Add libbacktrace fallback for stack traces on musl/Alpine (#3581)",

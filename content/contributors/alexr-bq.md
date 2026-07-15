@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 191,
+  "score": 193,
   "commit_count": 48,
-  "review_count": 143,
+  "review_count": 145,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -398,6 +398,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "81eb19fb5b",
+      "message": "Fix semgrep ci (#160)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/160",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/81eb19fb5b280bb85b42eb1e5fa53e72609a8610"
+    },
+    {
+      "sha": "40c3e93bb6",
+      "message": "feat(ruby): add Alpine Linux (musl libc) support for x86_64 and aarch64 (#143)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/143",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/40c3e93bb69b91f6d9dfed320c43e94d74be14a3"
+    },
     {
       "sha": "1a4c223d94",
       "message": "feat(ffi): add command_with_route_info entrypoint (#6494)",

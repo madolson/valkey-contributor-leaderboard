@@ -2,14 +2,31 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 341,
-  "commit_count": 98,
-  "review_count": 243,
+  "score": 346,
+  "commit_count": 100,
+  "review_count": 246,
   "repos": [
+    ".github",
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "d12ab462c9",
+      "message": "Remove the repository-level SECURITY.md in favor of the organization-level SECURITY.md (#6439)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6439",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d12ab462c99a68987c9a1d0cba049a064fc0228e"
+    },
+    {
+      "sha": "c883d86ccd",
+      "message": "Add organization-wide SECURITY.md default",
+      "date": "2026-07-13",
+      "repo": ".github",
+      "pr_url": "https://github.com/valkey-io/.github/pull/3",
+      "commit_url": "https://github.com/valkey-io/.github/commit/c883d86ccdc44f69663eea0ff52429b00d5cd0b1"
+    },
     {
       "sha": "7c84faddfe",
       "message": "Fix flaky test: test_update_connection_password timeout in cluster mode (#6373)",
@@ -796,6 +813,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e70873a6dc",
+      "message": "Add `serverAssisted` client-side caching config and `CLIENT TRACKINGINFO` command (#451)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/451",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e70873a6dcc924a821cbe922c93c2b6b122cca20"
+    },
+    {
+      "sha": "8aed0eea92",
+      "message": "chore(deps): bump lycheeverse/lychee-action from 2.8.0 to 2.9.0 in the minor-updates group (#448)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/448",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8aed0eea920ea1c5a884710f79a60189951cf61f"
+    },
+    {
+      "sha": "781c94855c",
+      "message": "git: ignore kiro and vscode folders (#159)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/159",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/781c94855c155c959d7f000a8c4a1c8b76deafab"
+    },
+    {
+      "sha": "8487910895",
+      "message": "docs: update security reference to org level (#158)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/158",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/8487910895e49d3e32e720285539b238149d2cdc"
+    },
     {
       "sha": "80cf1194b6",
       "message": "build(deps-dev): bump shx from 0.3.4 to 0.4.0 in /node in the minor-updates group (#6500)",

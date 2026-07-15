@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 374,
-  "commit_count": 123,
-  "review_count": 251,
+  "score": 382,
+  "commit_count": 126,
+  "review_count": 256,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,30 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "4cc7e0a322",
+      "message": "PHP: Fix version in workflow files (#260)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/260",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/4cc7e0a3220b3eb01716974f0eda96c58968b746"
+    },
+    {
+      "sha": "81eb19fb5b",
+      "message": "Fix semgrep ci (#160)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/160",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/81eb19fb5b280bb85b42eb1e5fa53e72609a8610"
+    },
+    {
+      "sha": "40c3e93bb6",
+      "message": "feat(ruby): add Alpine Linux (musl libc) support for x86_64 and aarch64 (#143)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/143",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/40c3e93bb69b91f6d9dfed320c43e94d74be14a3"
+    },
     {
       "sha": "9d3d36c5a3",
       "message": "PHP: fix ort workflow to verify signatures (#255)",
@@ -999,6 +1023,78 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "33d8c35f28",
+      "message": "Add `FAILOVER` and `REPLICAOF` commands (#446)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/446",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/33d8c35f28b90457c9e6d979392e1b6b40af52c6"
+    },
+    {
+      "sha": "49bb55bc24",
+      "message": "ci(deps): bump Swatinem/rust-cache (#194)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/194",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/49bb55bc2438e7ab381e4c8ef77e582ba943d8b4"
+    },
+    {
+      "sha": "a079d6fd4a",
+      "message": "ci(deps): bump softprops/action-gh-release from 2.6.2 to 3.0.1 (#254)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/254",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/a079d6fd4a7c66a5f054e1f5bf50675c9af1cbcf"
+    },
+    {
+      "sha": "b1b685d7e0",
+      "message": "fix(compatibility): track getLastError/clearLastError as missing PHPRedis methods (#220)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/220",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b1b685d7e0957a1cb6a76d48cca221ce92954196"
+    },
+    {
+      "sha": "8b32b6c5b5",
+      "message": "Updated attribution files (#259)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/259",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/8b32b6c5b5a8e0d245caa4083e73755ebbe69baa"
+    },
+    {
+      "sha": "c48c6196ff",
+      "message": "PHP: Implement getLastError() and clearLastError() for PHPRedis compatibility (#221)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/221",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/c48c6196ffb14acd64cc5e5111d7e5b232e349a0"
+    },
+    {
+      "sha": "50ba76dffc",
+      "message": "ci(deps): bump actions/checkout from 4.2.2 to 7.0.0 (#253)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/253",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/50ba76dffc991b5311298fa77f14c19a61c62d18"
+    },
+    {
+      "sha": "781c94855c",
+      "message": "git: ignore kiro and vscode folders (#159)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/159",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/781c94855c155c959d7f000a8c4a1c8b76deafab"
+    },
+    {
+      "sha": "781c94855c",
+      "message": "git: ignore kiro and vscode folders (#159)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/159",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/781c94855c155c959d7f000a8c4a1c8b76deafab"
+    },
     {
       "sha": "1a4c223d94",
       "message": "feat(ffi): add command_with_route_info entrypoint (#6494)",

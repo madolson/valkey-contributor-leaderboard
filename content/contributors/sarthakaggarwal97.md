@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 327,
+  "score": 329,
   "commit_count": 89,
-  "review_count": 238,
+  "review_count": 240,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -726,6 +726,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3a27559aba",
+      "message": "Prevent module loading during async replication and slot migration (#3039)",
+      "date": "2026-07-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3039",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3a27559aba5e36b4add32a8e81cb04c2b3353e72"
+    },
+    {
+      "sha": "3a27559aba",
+      "message": "Prevent module loading during async replication and slot migration (#3039)",
+      "date": "2026-07-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3039",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3a27559aba5e36b4add32a8e81cb04c2b3353e72"
+    },
     {
       "sha": "7b30bcbd7c",
       "message": "Deflake io-threads test by anchoring active-time bound to a per-reactivation baseline (#3764)",

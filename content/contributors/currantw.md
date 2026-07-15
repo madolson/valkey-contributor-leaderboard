@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 226,
-  "commit_count": 134,
-  "review_count": 92,
+  "score": 229,
+  "commit_count": 136,
+  "review_count": 93,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -14,6 +14,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "e70873a6dc",
+      "message": "Add `serverAssisted` client-side caching config and `CLIENT TRACKINGINFO` command (#451)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/451",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e70873a6dcc924a821cbe922c93c2b6b122cca20"
+    },
+    {
+      "sha": "33d8c35f28",
+      "message": "Add `FAILOVER` and `REPLICAOF` commands (#446)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/446",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/33d8c35f28b90457c9e6d979392e1b6b40af52c6"
+    },
     {
       "sha": "80ced93d3f",
       "message": "Add `MEMORY DOCTOR`, `MALLOC-STATS`, `PURGE`, and `STATS` commands (#443)",
@@ -1088,6 +1104,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d12ab462c9",
+      "message": "Remove the repository-level SECURITY.md in favor of the organization-level SECURITY.md (#6439)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6439",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d12ab462c99a68987c9a1d0cba049a064fc0228e"
+    },
+    {
+      "sha": "8aed0eea92",
+      "message": "chore(deps): bump lycheeverse/lychee-action from 2.8.0 to 2.9.0 in the minor-updates group (#448)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/448",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8aed0eea920ea1c5a884710f79a60189951cf61f"
+    },
     {
       "sha": "d831497124",
       "message": "Release 1.1.2 (#239)",

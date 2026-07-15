@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 114,
+  "score": 115,
   "commit_count": 42,
-  "review_count": 72,
+  "review_count": 73,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3a27559aba",
+      "message": "Prevent module loading during async replication and slot migration (#3039)",
+      "date": "2026-07-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3039",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3a27559aba5e36b4add32a8e81cb04c2b3353e72"
+    },
     {
       "sha": "091d5ca622",
       "message": "Restore client's selected DB after module keyspace notification (#4024)",

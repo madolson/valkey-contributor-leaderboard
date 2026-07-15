@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 203,
+  "score": 208,
   "commit_count": 91,
-  "review_count": 112,
+  "review_count": 117,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -742,6 +742,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d12ab462c9",
+      "message": "Remove the repository-level SECURITY.md in favor of the organization-level SECURITY.md (#6439)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6439",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d12ab462c99a68987c9a1d0cba049a064fc0228e"
+    },
+    {
+      "sha": "e70873a6dc",
+      "message": "Add `serverAssisted` client-side caching config and `CLIENT TRACKINGINFO` command (#451)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/451",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e70873a6dcc924a821cbe922c93c2b6b122cca20"
+    },
+    {
+      "sha": "33d8c35f28",
+      "message": "Add `FAILOVER` and `REPLICAOF` commands (#446)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/446",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/33d8c35f28b90457c9e6d979392e1b6b40af52c6"
+    },
+    {
+      "sha": "b1b685d7e0",
+      "message": "fix(compatibility): track getLastError/clearLastError as missing PHPRedis methods (#220)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/220",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b1b685d7e0957a1cb6a76d48cca221ce92954196"
+    },
+    {
+      "sha": "c48c6196ff",
+      "message": "PHP: Implement getLastError() and clearLastError() for PHPRedis compatibility (#221)",
+      "date": "2026-07-14",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/221",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/c48c6196ffb14acd64cc5e5111d7e5b232e349a0"
+    },
     {
       "sha": "80cf1194b6",
       "message": "build(deps-dev): bump shx from 0.3.4 to 0.4.0 in /node in the minor-updates group (#6500)",

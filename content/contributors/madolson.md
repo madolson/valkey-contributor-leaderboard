@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 864,
+  "score": 866,
   "commit_count": 192,
-  "review_count": 672,
+  "review_count": 674,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1555,6 +1555,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3a27559aba",
+      "message": "Prevent module loading during async replication and slot migration (#3039)",
+      "date": "2026-07-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3039",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3a27559aba5e36b4add32a8e81cb04c2b3353e72"
+    },
+    {
+      "sha": "c883d86ccd",
+      "message": "Add organization-wide SECURITY.md default",
+      "date": "2026-07-13",
+      "repo": ".github",
+      "pr_url": "https://github.com/valkey-io/.github/pull/3",
+      "commit_url": "https://github.com/valkey-io/.github/commit/c883d86ccdc44f69663eea0ff52429b00d5cd0b1"
+    },
     {
       "sha": "c4cfa0fba2",
       "message": "Skip NOT_KEY commands in client tracking (#3699)",

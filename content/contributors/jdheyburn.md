@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 105,
+  "score": 107,
   "commit_count": 35,
-  "review_count": 70,
+  "review_count": 72,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -293,6 +293,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "682bb9984e",
+      "message": "Updated issue templates [bug_report and feature_request] (#179)",
+      "date": "2026-07-15",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/179",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/682bb9984e99ef0059227ed74588f2ffcb0a4978"
+    },
+    {
+      "sha": "666e39d577",
+      "message": "fix: allow _replication user to apply atomic slot migration (#306)",
+      "date": "2026-07-14",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/306",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/666e39d57720539763f8a3c362a5d2365c16208e"
+    },
     {
       "sha": "6916da37fe",
       "message": "feat(operator): add priorityClassName support to valkey-operator chart (#218)",

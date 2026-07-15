@@ -2,14 +2,30 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 90,
-  "commit_count": 30,
-  "review_count": 60,
+  "score": 93,
+  "commit_count": 32,
+  "review_count": 61,
   "repos": [
     "valkey",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "5c1fc15f3c",
+      "message": "Deflake slot-migration replica redirects, dual-channel COB overrun, and HGETEX EXAT notifications (#4157)",
+      "date": "2026-07-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4157",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5c1fc15f3c81c93780c52d12aaa39ee29d526bb1"
+    },
+    {
+      "sha": "050b0655a4",
+      "message": "Deflake gossip-count and blocking-module-auth assertions (#4156)",
+      "date": "2026-07-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4156",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/050b0655a4aa82d52c49dc577b26f7602d75d28f"
+    },
     {
       "sha": "168c22afd5",
       "message": "Deflake: Harden copy-avoidance obuf tests and replica output-bytes metric test (#4158)",
@@ -252,6 +268,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "99afc7f6f4",
+      "message": "Added libbacktrace support for alpine (#139)",
+      "date": "2026-07-14",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/139",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/99afc7f6f40d16c058852a0ac27ca3ef1c478886"
+    },
     {
       "sha": "7b30bcbd7c",
       "message": "Deflake io-threads test by anchoring active-time bound to a per-reactivation baseline (#3764)",
