@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 195,
-  "commit_count": 62,
+  "score": 196,
+  "commit_count": 63,
   "review_count": 133,
   "repos": [
     "spring-data-valkey",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "0194ffa411",
+      "message": "ci: Add public branch to C# Examples Check",
+      "date": "2026-07-15",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/266",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/0194ffa41155537ffd357f496866e20c1e256e60"
+    },
     {
       "sha": "781c94855c",
       "message": "git: ignore kiro and vscode folders (#159)",

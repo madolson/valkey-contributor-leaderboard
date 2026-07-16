@@ -2,15 +2,39 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 346,
-  "commit_count": 100,
-  "review_count": 246,
+  "score": 352,
+  "commit_count": 103,
+  "review_count": 249,
   "repos": [
     ".github",
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "052899accd",
+      "message": "fix(ffi): forward Disconnection push notifications past the malformed-frame guard (#6543)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6543",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/052899accdf3a8f55093590ad7a94e3e32f5d44b"
+    },
+    {
+      "sha": "ded4868ee9",
+      "message": "ci(python): run test-release when only one package is published manually (#6542)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6542",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ded4868ee96bdb52cd549ab55785b837f7ca41e4"
+    },
+    {
+      "sha": "946d826b1f",
+      "message": "fix(ffi): prevent pub/sub DoS from malformed server push frames (#6530)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6530",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/946d826b1ff1285e5d6481b7aa87f29dfc4f1404"
+    },
     {
       "sha": "d12ab462c9",
       "message": "Remove the repository-level SECURITY.md in favor of the organization-level SECURITY.md (#6439)",
@@ -813,6 +837,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9f9bcbb4a9",
+      "message": "Python: restore BaseClient.__aenter__ return type to Self (#6533)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6533",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9f9bcbb4a9d53c46f994794f6be3c1e8b168da35"
+    },
+    {
+      "sha": "a20ff9046d",
+      "message": "chore(deps): bump taiki-e/install-action from 2.82.9 to 2.82.11 in the patch-updates group (#458)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/458",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/a20ff9046dffe48cb7320018cd3f26e6d3fea635"
+    },
+    {
+      "sha": "af7b51d4db",
+      "message": "chore(deps): bump the minor-updates group with 3 updates (#459)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/459",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/af7b51d4db5f2edbe3114b748e19122561af1840"
+    },
+    {
+      "sha": "dfed76c103",
+      "message": "Add`dependabot` submodule updates (#450)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/450",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/dfed76c1039ff66e70582e4ad8ebeae45ec1d105"
+    },
+    {
+      "sha": "8763372faf",
+      "message": "Add `MIGRATE` command support (#447)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/447",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8763372faf02e644edb4799fac035e2930146bf6"
+    },
     {
       "sha": "e70873a6dc",
       "message": "Add `serverAssisted` client-side caching config and `CLIENT TRACKINGINFO` command (#451)",

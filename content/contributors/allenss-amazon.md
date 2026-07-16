@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 285,
+  "score": 286,
   "commit_count": 70,
-  "review_count": 215,
+  "review_count": 216,
   "repos": [
     "valkey",
     "valkey-json",
@@ -573,6 +573,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "320aec93eb",
+      "message": "Replace blocks with token field in json files (#832)",
+      "date": "2026-07-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/832",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/320aec93ebab95c767a05c80345da7241477830a"
+    },
     {
       "sha": "79e1b3e7de",
       "message": "feat: Add array value type support to expression system (#893)",

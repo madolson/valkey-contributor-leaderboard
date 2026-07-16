@@ -2,16 +2,25 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 169,
-  "commit_count": 134,
+  "score": 170,
+  "commit_count": 135,
   "review_count": 35,
   "repos": [
     "valkey",
     "valkey-doc",
     "valkey-io.github.io",
+    "valkey-search",
     "valkey-swift"
   ],
   "commit_list": [
+    {
+      "sha": "320aec93eb",
+      "message": "Replace blocks with token field in json files (#832)",
+      "date": "2026-07-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/832",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/320aec93ebab95c767a05c80345da7241477830a"
+    },
     {
       "sha": "f4a8915f1b",
       "message": "Don't cancel other pending commands on command cancellation (#396)",

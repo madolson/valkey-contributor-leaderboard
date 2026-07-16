@@ -2,9 +2,9 @@
   "title": "KIvanow",
   "login": "KIvanow",
   "avatar_url": "https://avatars.githubusercontent.com/u/541999?v=4",
-  "score": 11,
+  "score": 12,
   "commit_count": 10,
-  "review_count": 1,
+  "review_count": 2,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -94,6 +94,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e78ca77c83",
+      "message": "Fix module loading tests after async loading guard change (#4168)",
+      "date": "2026-07-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4168",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e78ca77c832c2de0a5e533de5fc7ce5f19a5d6fe"
+    },
     {
       "sha": "8a4a7b25dc",
       "message": "CLUSTERSCAN Command (#2934)",

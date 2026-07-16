@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 917,
-  "commit_count": 363,
-  "review_count": 554,
+  "score": 920,
+  "commit_count": 364,
+  "review_count": 556,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "79fc841577",
+      "message": "Always log \"possibly failing\" when a node reaches PFAIL (#4186)",
+      "date": "2026-07-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4186",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/79fc841577be18d5e789f741ca92a4157e8315fa"
+    },
     {
       "sha": "301b6cde1c",
       "message": "Fix CLUSTER BUMPEPOCH getting stuck when a dead node holds a high configEpoch (#4092)",
@@ -2919,6 +2927,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5074e5ca22",
+      "message": "Deflake aofrw child-kill wait and failover completion wait (#4181)",
+      "date": "2026-07-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4181",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5074e5ca22125caf62bdaeee5f78df8880d8c1fc"
+    },
+    {
+      "sha": "e78ca77c83",
+      "message": "Fix module loading tests after async loading guard change (#4168)",
+      "date": "2026-07-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4168",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e78ca77c832c2de0a5e533de5fc7ce5f19a5d6fe"
+    },
     {
       "sha": "5c1fc15f3c",
       "message": "Deflake slot-migration replica redirects, dual-channel COB overrun, and HGETEX EXAT notifications (#4157)",

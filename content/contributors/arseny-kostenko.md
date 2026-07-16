@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 215,
+  "score": 216,
   "commit_count": 19,
-  "review_count": 196,
+  "review_count": 197,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d3f1d77662",
+      "message": "Persist connection state in web (#389)",
+      "date": "2026-07-15",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/389",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/d3f1d776627121f37e3e9bd321ce87accf8438d0"
+    },
     {
       "sha": "50a5470d3e",
       "message": "Update docs (#387)",

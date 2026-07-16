@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 229,
-  "commit_count": 136,
+  "score": 231,
+  "commit_count": 138,
   "review_count": 93,
   "repos": [
     "valkey-doc",
@@ -14,6 +14,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "dfed76c103",
+      "message": "Add`dependabot` submodule updates (#450)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/450",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/dfed76c1039ff66e70582e4ad8ebeae45ec1d105"
+    },
+    {
+      "sha": "8763372faf",
+      "message": "Add `MIGRATE` command support (#447)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/447",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8763372faf02e644edb4799fac035e2930146bf6"
+    },
     {
       "sha": "e70873a6dc",
       "message": "Add `serverAssisted` client-side caching config and `CLIENT TRACKINGINFO` command (#451)",
@@ -1104,6 +1120,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a20ff9046d",
+      "message": "chore(deps): bump taiki-e/install-action from 2.82.9 to 2.82.11 in the patch-updates group (#458)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/458",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/a20ff9046dffe48cb7320018cd3f26e6d3fea635"
+    },
+    {
+      "sha": "af7b51d4db",
+      "message": "chore(deps): bump the minor-updates group with 3 updates (#459)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/459",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/af7b51d4db5f2edbe3114b748e19122561af1840"
+    },
     {
       "sha": "d12ab462c9",
       "message": "Remove the repository-level SECURITY.md in favor of the organization-level SECURITY.md (#6439)",

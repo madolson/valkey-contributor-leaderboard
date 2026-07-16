@@ -1024,6 +1024,14 @@
   ],
   "review_list": [
     {
+      "sha": "c00151eccb",
+      "message": "Updated attribution files (#261)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/261",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/c00151eccba2236a288aa2a19e6a8a012937f8e6"
+    },
+    {
       "sha": "33d8c35f28",
       "message": "Add `FAILOVER` and `REPLICAOF` commands (#446)",
       "date": "2026-07-14",

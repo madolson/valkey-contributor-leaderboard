@@ -2,14 +2,30 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 93,
-  "commit_count": 32,
+  "score": 95,
+  "commit_count": 34,
   "review_count": 61,
   "repos": [
     "valkey",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "f439060b6f",
+      "message": "Fix test-s390x unit test invocation for release branches (#4177)",
+      "date": "2026-07-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4177",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f439060b6fb0f3f2a04617d6843c50cc3b9e3c80"
+    },
+    {
+      "sha": "5074e5ca22",
+      "message": "Deflake aofrw child-kill wait and failover completion wait (#4181)",
+      "date": "2026-07-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4181",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5074e5ca22125caf62bdaeee5f78df8880d8c1fc"
+    },
     {
       "sha": "5c1fc15f3c",
       "message": "Deflake slot-migration replica redirects, dual-channel COB overrun, and HGETEX EXAT notifications (#4157)",

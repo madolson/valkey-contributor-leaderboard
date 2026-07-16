@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 162,
+  "score": 165,
   "commit_count": 41,
-  "review_count": 121,
+  "review_count": 124,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -341,6 +341,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ded4868ee9",
+      "message": "ci(python): run test-release when only one package is published manually (#6542)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6542",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ded4868ee96bdb52cd549ab55785b837f7ca41e4"
+    },
+    {
+      "sha": "0194ffa411",
+      "message": "ci: Add public branch to C# Examples Check",
+      "date": "2026-07-15",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/266",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/0194ffa41155537ffd357f496866e20c1e256e60"
+    },
+    {
+      "sha": "424e53ace3",
+      "message": "docs(go): add GetStatistics example (#262)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/266",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/424e53ace3166cda549aec320035e5ce033114e2"
+    },
     {
       "sha": "1f1a0e30fe",
       "message": "CI: fix stale workflow exempt-issue-labels to match repo labels (#6489)",

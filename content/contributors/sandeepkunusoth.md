@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 48,
+  "score": 49,
   "commit_count": 22,
-  "review_count": 26,
+  "review_count": 27,
   "repos": [
     "valkey-operator"
   ],
@@ -187,6 +187,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1f741666d8",
+      "message": "docs: rewrite dev.guide for local runs using kind and add macOS support (#193)",
+      "date": "2026-07-15",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/193",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/1f741666d8327498db5e09caf90ab72cfbe564e9"
+    },
     {
       "sha": "9fd674377d",
       "message": "refactor!: convert podDisruptionBudget to struct with mode field (#308)",

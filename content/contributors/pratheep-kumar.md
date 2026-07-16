@@ -2,9 +2,9 @@
   "title": "pratheep-kumar",
   "login": "pratheep-kumar",
   "avatar_url": "https://avatars.githubusercontent.com/u/40911083?v=4",
-  "score": 34,
+  "score": 36,
   "commit_count": 17,
-  "review_count": 17,
+  "review_count": 19,
   "repos": [
     "valkey-glide",
     "valkey-glide-ruby"
@@ -148,6 +148,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "15f509d952",
+      "message": "Enabling scan_each (#154)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/154",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/15f509d9524f55eaaf827cc9ba96322d4de7be04"
+    },
+    {
+      "sha": "15f509d952",
+      "message": "Enabling scan_each (#154)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/154",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/15f509d9524f55eaaf827cc9ba96322d4de7be04"
+    },
     {
       "sha": "1904698a83",
       "message": "Adding documentation and examples (#94)",

@@ -2,14 +2,22 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 226,
-  "commit_count": 72,
-  "review_count": 154,
+  "score": 228,
+  "commit_count": 73,
+  "review_count": 155,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "9f9bcbb4a9",
+      "message": "Python: restore BaseClient.__aenter__ return type to Self (#6533)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6533",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9f9bcbb4a9d53c46f994794f6be3c1e8b168da35"
+    },
     {
       "sha": "1f1a0e30fe",
       "message": "CI: fix stale workflow exempt-issue-labels to match repo labels (#6489)",
@@ -588,6 +596,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dfed76c103",
+      "message": "Add`dependabot` submodule updates (#450)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/450",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/dfed76c1039ff66e70582e4ad8ebeae45ec1d105"
+    },
     {
       "sha": "23fc7fd4af",
       "message": "Implement generic command execution: call(), call_v() (#132)",

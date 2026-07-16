@@ -2,14 +2,22 @@
   "title": "Sasidharan3094",
   "login": "Sasidharan3094",
   "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
-  "score": 34,
-  "commit_count": 21,
+  "score": 35,
+  "commit_count": 22,
   "review_count": 13,
   "repos": [
     "valkey-glide",
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "15f509d952",
+      "message": "Enabling scan_each (#154)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/154",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/15f509d9524f55eaaf827cc9ba96322d4de7be04"
+    },
     {
       "sha": "1904698a83",
       "message": "Adding documentation and examples (#94)",

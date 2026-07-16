@@ -2,8 +2,8 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 220,
-  "commit_count": 116,
+  "score": 221,
+  "commit_count": 117,
   "review_count": 104,
   "repos": [
     "libvalkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "1f741666d8",
+      "message": "docs: rewrite dev.guide for local runs using kind and add macOS support (#193)",
+      "date": "2026-07-15",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/193",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/1f741666d8327498db5e09caf90ab72cfbe564e9"
+    },
     {
       "sha": "4bb5ea6cb7",
       "message": "Fix async command timeout never firing under continuous writes (#328)",

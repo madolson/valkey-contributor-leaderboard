@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 383,
+  "score": 384,
   "commit_count": 143,
-  "review_count": 240,
+  "review_count": 241,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1165,6 +1165,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f439060b6f",
+      "message": "Fix test-s390x unit test invocation for release branches (#4177)",
+      "date": "2026-07-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4177",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f439060b6fb0f3f2a04617d6843c50cc3b9e3c80"
+    },
     {
       "sha": "3a27559aba",
       "message": "Prevent module loading during async replication and slot migration (#3039)",

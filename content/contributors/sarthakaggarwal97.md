@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 329,
-  "commit_count": 89,
-  "review_count": 240,
+  "score": 332,
+  "commit_count": 90,
+  "review_count": 242,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "e78ca77c83",
+      "message": "Fix module loading tests after async loading guard change (#4168)",
+      "date": "2026-07-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4168",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e78ca77c832c2de0a5e533de5fc7ce5f19a5d6fe"
+    },
     {
       "sha": "79bca53000",
       "message": "Reduce io-threads modifiability test iterations under Valgrind (#3980)",
@@ -726,6 +734,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "79fc841577",
+      "message": "Always log \"possibly failing\" when a node reaches PFAIL (#4186)",
+      "date": "2026-07-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4186",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/79fc841577be18d5e789f741ca92a4157e8315fa"
+    },
+    {
+      "sha": "f439060b6f",
+      "message": "Fix test-s390x unit test invocation for release branches (#4177)",
+      "date": "2026-07-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4177",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f439060b6fb0f3f2a04617d6843c50cc3b9e3c80"
+    },
     {
       "sha": "3a27559aba",
       "message": "Prevent module loading during async replication and slot migration (#3039)",

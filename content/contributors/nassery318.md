@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 117,
-  "commit_count": 103,
+  "score": 118,
+  "commit_count": 104,
   "review_count": 14,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "d3f1d77662",
+      "message": "Persist connection state in web (#389)",
+      "date": "2026-07-15",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/389",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/d3f1d776627121f37e3e9bd321ce87accf8438d0"
+    },
     {
       "sha": "be1628f3b9",
       "message": "added access frequency for big keys using LFUs OBJECT FREQ (#383)",

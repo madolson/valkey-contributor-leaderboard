@@ -2,13 +2,21 @@
   "title": "TidesOfMemories",
   "login": "TidesOfMemories",
   "avatar_url": "https://avatars.githubusercontent.com/u/12990920?v=4",
-  "score": 1,
-  "commit_count": 1,
+  "score": 2,
+  "commit_count": 2,
   "review_count": 0,
   "repos": [
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "424e53ace3",
+      "message": "docs(go): add GetStatistics example (#262)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/266",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/424e53ace3166cda549aec320035e5ce033114e2"
+    },
     {
       "sha": "35f6983084",
       "message": "docs(go): add GetStatistics example (#262)",

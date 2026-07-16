@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 762,
+  "score": 764,
   "commit_count": 45,
-  "review_count": 717,
+  "review_count": 719,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "052899accd",
+      "message": "fix(ffi): forward Disconnection push notifications past the malformed-frame guard (#6543)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6543",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/052899accdf3a8f55093590ad7a94e3e32f5d44b"
+    },
+    {
+      "sha": "946d826b1f",
+      "message": "fix(ffi): prevent pub/sub DoS from malformed server push frames (#6530)",
+      "date": "2026-07-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6530",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/946d826b1ff1285e5d6481b7aa87f29dfc4f1404"
+    },
     {
       "sha": "cdacd2aa61",
       "message": "ci(python): publish to PyPI via Trusted Publishing with PEP 740 attestations (#6478)",
