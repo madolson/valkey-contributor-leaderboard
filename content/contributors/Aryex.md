@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 196,
+  "score": 198,
   "commit_count": 63,
-  "review_count": 133,
+  "review_count": 135,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -522,6 +522,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "41536d3709",
+      "message": "Improving OTEL in ruby to add parent span support (#161)",
+      "date": "2026-07-17",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/161",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/41536d37098e835de7b804f0b30dd843081059b6"
+    },
+    {
+      "sha": "81e15dbffe",
+      "message": "`RESET` command support (#457)",
+      "date": "2026-07-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/457",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/81e15dbffe9e76ed5af3b4276197c05a85c2a2cb"
+    },
     {
       "sha": "35f6983084",
       "message": "docs(go): add GetStatistics example (#262)",

@@ -2,8 +2,8 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 384,
-  "commit_count": 143,
+  "score": 385,
+  "commit_count": 144,
   "review_count": 241,
   "repos": [
     "valkey",
@@ -19,6 +19,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "6b006c9a94",
+      "message": "ci: run weekly release-branch tests two at a time (#4175)",
+      "date": "2026-07-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4175",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6b006c9a94a5910f71a710adf085eb56daf6f499"
+    },
     {
       "sha": "03b8a64581",
       "message": "Add Grafana dashboard GitOps sync via gcx + enable kubernetesDashboards (#59)",

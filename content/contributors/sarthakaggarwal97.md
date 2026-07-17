@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 332,
+  "score": 333,
   "commit_count": 90,
-  "review_count": 242,
+  "review_count": 243,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -734,6 +734,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6b006c9a94",
+      "message": "ci: run weekly release-branch tests two at a time (#4175)",
+      "date": "2026-07-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4175",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6b006c9a94a5910f71a710adf085eb56daf6f499"
+    },
     {
       "sha": "79fc841577",
       "message": "Always log \"possibly failing\" when a node reaches PFAIL (#4186)",

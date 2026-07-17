@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 213,
+  "score": 215,
   "commit_count": 91,
-  "review_count": 122,
+  "review_count": 124,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -742,6 +742,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "841d6cfc54",
+      "message": "CD: Retry RC node test install to handle npm propagation race (#6343)",
+      "date": "2026-07-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6343",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/841d6cfc5428387984c05cda5abeb567abb10a7b"
+    },
+    {
+      "sha": "6c4e778e90",
+      "message": "`MONITOR` command support (#456)",
+      "date": "2026-07-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/456",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/6c4e778e903b19b68c738806137bb71a31c98acc"
+    },
     {
       "sha": "052899accd",
       "message": "fix(ffi): forward Disconnection push notifications past the malformed-frame guard (#6543)",

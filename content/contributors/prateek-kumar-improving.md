@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 382,
+  "score": 383,
   "commit_count": 126,
-  "review_count": 256,
+  "review_count": 257,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1023,6 +1023,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "81e15dbffe",
+      "message": "`RESET` command support (#457)",
+      "date": "2026-07-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/457",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/81e15dbffe9e76ed5af3b4276197c05a85c2a2cb"
+    },
+    {
+      "sha": "dd21aae899",
+      "message": "Updated attribution files (#263)",
+      "date": "2026-07-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/263",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/dd21aae899e63cbff14d871e78ab332b4232640b"
+    },
     {
       "sha": "c00151eccb",
       "message": "Updated attribution files (#261)",

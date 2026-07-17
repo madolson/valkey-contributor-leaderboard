@@ -2,14 +2,22 @@
   "title": "Sasidharan3094",
   "login": "Sasidharan3094",
   "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
-  "score": 35,
-  "commit_count": 22,
+  "score": 36,
+  "commit_count": 23,
   "review_count": 13,
   "repos": [
     "valkey-glide",
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "41536d3709",
+      "message": "Improving OTEL in ruby to add parent span support (#161)",
+      "date": "2026-07-17",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/161",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/41536d37098e835de7b804f0b30dd843081059b6"
+    },
     {
       "sha": "15f509d952",
       "message": "Enabling scan_each (#154)",

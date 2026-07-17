@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 165,
+  "score": 166,
   "commit_count": 41,
-  "review_count": 124,
+  "review_count": 125,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -341,6 +341,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6c4e778e90",
+      "message": "`MONITOR` command support (#456)",
+      "date": "2026-07-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/456",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/6c4e778e903b19b68c738806137bb71a31c98acc"
+    },
     {
       "sha": "ded4868ee9",
       "message": "ci(python): run test-release when only one package is published manually (#6542)",

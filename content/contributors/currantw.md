@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 231,
-  "commit_count": 138,
+  "score": 233,
+  "commit_count": 140,
   "review_count": 93,
   "repos": [
     "valkey-doc",
@@ -14,6 +14,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "81e15dbffe",
+      "message": "`RESET` command support (#457)",
+      "date": "2026-07-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/457",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/81e15dbffe9e76ed5af3b4276197c05a85c2a2cb"
+    },
+    {
+      "sha": "6c4e778e90",
+      "message": "`MONITOR` command support (#456)",
+      "date": "2026-07-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/456",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/6c4e778e903b19b68c738806137bb71a31c98acc"
+    },
     {
       "sha": "dfed76c103",
       "message": "Add`dependabot` submodule updates (#450)",

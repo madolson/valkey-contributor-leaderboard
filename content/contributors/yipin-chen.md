@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 764,
+  "score": 765,
   "commit_count": 45,
-  "review_count": 719,
+  "review_count": 720,
   "repos": [
     "valkey-glide"
   ],
@@ -371,6 +371,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "841d6cfc54",
+      "message": "CD: Retry RC node test install to handle npm propagation race (#6343)",
+      "date": "2026-07-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6343",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/841d6cfc5428387984c05cda5abeb567abb10a7b"
+    },
     {
       "sha": "052899accd",
       "message": "fix(ffi): forward Disconnection push notifications past the malformed-frame guard (#6543)",

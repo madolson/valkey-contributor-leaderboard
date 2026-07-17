@@ -163418,6 +163418,125 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/832"
+    },
+    {
+      "sha": "6b006c9a94a5910f71a710adf085eb56daf6f499",
+      "author_login": "roshkhatri",
+      "author_id": 117414976,
+      "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
+      "message": "ci: run weekly release-branch tests two at a time (#4175)",
+      "date": "2026-07-17T04:13:12Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-07-15T19:36:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4175"
+    },
+    {
+      "sha": "841d6cfc5428387984c05cda5abeb567abb10a7b",
+      "author_login": "jamesx-improving",
+      "author_id": 126831592,
+      "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
+      "message": "CD: Retry RC node test install to handle npm propagation race (#6343)",
+      "date": "2026-07-16T21:28:45Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-07-16T18:06:42Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-07-16T18:24:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6343"
+    },
+    {
+      "sha": "f7394d2fe612ae74523380ac94c7af73e73730a1",
+      "author_login": "prashanna-frsh",
+      "author_id": 227337935,
+      "avatar_url": "https://avatars.githubusercontent.com/u/227337935?v=4",
+      "message": "feat(jedis-v4): add jedis-v4 migration layer (#5751)",
+      "date": "2026-07-16T16:18:08Z",
+      "repo": "valkey-glide",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "81e15dbffe9e76ed5af3b4276197c05a85c2a2cb",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "`RESET` command support (#457)",
+      "date": "2026-07-16T20:29:30Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-07-16T16:52:16Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-16T19:41:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/457"
+    },
+    {
+      "sha": "6c4e778e903b19b68c738806137bb71a31c98acc",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "`MONITOR` command support (#456)",
+      "date": "2026-07-16T20:28:46Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-07-15T19:31:31Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-07-16T19:25:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/456"
+    },
+    {
+      "sha": "dd21aae899e63cbff14d871e78ab332b4232640b",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Updated attribution files (#263)",
+      "date": "2026-07-16T18:01:56Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-16T17:29:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/263"
+    },
+    {
+      "sha": "41536d37098e835de7b804f0b30dd843081059b6",
+      "author_login": "Sasidharan3094",
+      "author_id": 56465593,
+      "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
+      "message": "Improving OTEL in ruby to add parent span support (#161)",
+      "date": "2026-07-17T03:55:44Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-07-16T16:13:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/161"
     }
   ]
 }

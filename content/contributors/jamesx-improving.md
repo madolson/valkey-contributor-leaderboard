@@ -2,14 +2,22 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 228,
-  "commit_count": 73,
+  "score": 229,
+  "commit_count": 74,
   "review_count": 155,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "841d6cfc54",
+      "message": "CD: Retry RC node test install to handle npm propagation race (#6343)",
+      "date": "2026-07-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6343",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/841d6cfc5428387984c05cda5abeb567abb10a7b"
+    },
     {
       "sha": "9f9bcbb4a9",
       "message": "Python: restore BaseClient.__aenter__ return type to Self (#6533)",
