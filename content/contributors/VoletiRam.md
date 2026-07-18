@@ -2,9 +2,9 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 36,
-  "commit_count": 20,
-  "review_count": 16,
+  "score": 41,
+  "commit_count": 21,
+  "review_count": 20,
   "repos": [
     "valkey",
     "valkey-perf-benchmark",
@@ -12,6 +12,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "f935b887b6",
+      "message": "Add mixed workload scenario and fuzzy dataset transform (#61)",
+      "date": "2026-07-17",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/61",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/f935b887b6e91483bfc86bbc36ad8b2350904884"
+    },
     {
       "sha": "39036c7c06",
       "message": "Add structured datasets loading capability in valkey benchmark (#2823)",
@@ -174,6 +182,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4aff219933",
+      "message": "Adds module commit tracking support for valkey modules (#62)",
+      "date": "2026-07-17",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/62",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/4aff2199330a066111fd15b4bf7c971922879d55"
+    },
+    {
+      "sha": "4aff219933",
+      "message": "Adds module commit tracking support for valkey modules (#62)",
+      "date": "2026-07-17",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/62",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/4aff2199330a066111fd15b4bf7c971922879d55"
+    },
+    {
+      "sha": "4aff219933",
+      "message": "Adds module commit tracking support for valkey modules (#62)",
+      "date": "2026-07-17",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/62",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/4aff2199330a066111fd15b4bf7c971922879d55"
+    },
+    {
+      "sha": "4aff219933",
+      "message": "Adds module commit tracking support for valkey modules (#62)",
+      "date": "2026-07-17",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/62",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/4aff2199330a066111fd15b4bf7c971922879d55"
+    },
     {
       "sha": "3ff5f2cc55",
       "message": "Add group, scenario, and description columns to metrics.json (#56)",

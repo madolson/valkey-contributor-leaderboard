@@ -2,9 +2,9 @@
   "title": "arseny-kostenko",
   "login": "arseny-kostenko",
   "avatar_url": "https://avatars.githubusercontent.com/u/119968546?v=4",
-  "score": 216,
+  "score": 217,
   "commit_count": 19,
-  "review_count": 197,
+  "review_count": 198,
   "repos": [
     "valkey-admin"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "58964f550b",
+      "message": "added big key distribution chart and filtering (#390)",
+      "date": "2026-07-17",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/390",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/58964f550b360244f7aa0ae8d753b354be8bee9a"
+    },
     {
       "sha": "d3f1d77662",
       "message": "Persist connection state in web (#389)",

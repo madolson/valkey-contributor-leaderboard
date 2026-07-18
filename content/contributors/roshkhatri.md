@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 385,
+  "score": 387,
   "commit_count": 144,
-  "review_count": 241,
+  "review_count": 243,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1173,6 +1173,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4aff219933",
+      "message": "Adds module commit tracking support for valkey modules (#62)",
+      "date": "2026-07-17",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/62",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/4aff2199330a066111fd15b4bf7c971922879d55"
+    },
+    {
+      "sha": "f935b887b6",
+      "message": "Add mixed workload scenario and fuzzy dataset transform (#61)",
+      "date": "2026-07-17",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/61",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/f935b887b6e91483bfc86bbc36ad8b2350904884"
+    },
     {
       "sha": "f439060b6f",
       "message": "Fix test-s390x unit test invocation for release branches (#4177)",

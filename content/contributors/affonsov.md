@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 215,
+  "score": 217,
   "commit_count": 91,
-  "review_count": 124,
+  "review_count": 126,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -742,6 +742,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dbe2d47f88",
+      "message": "refactor(core): Value::BulkString holds bytes::Bytes (zero-copy foundation) (#6524)",
+      "date": "2026-07-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6524",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dbe2d47f88a8d763b6693c3b34daa8f1bd9d254a"
+    },
+    {
+      "sha": "710e202312",
+      "message": "perf(core): vectored zero-copy send for large command args (#6523)",
+      "date": "2026-07-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6523",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/710e20231286e1e287b5e5c4d97bb0b053602cff"
+    },
     {
       "sha": "841d6cfc54",
       "message": "CD: Retry RC node test install to handle npm propagation race (#6343)",

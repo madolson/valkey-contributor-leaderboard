@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 193,
+  "score": 194,
   "commit_count": 48,
-  "review_count": 145,
+  "review_count": 146,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -398,6 +398,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dbe2d47f88",
+      "message": "refactor(core): Value::BulkString holds bytes::Bytes (zero-copy foundation) (#6524)",
+      "date": "2026-07-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6524",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dbe2d47f88a8d763b6693c3b34daa8f1bd9d254a"
+    },
     {
       "sha": "81eb19fb5b",
       "message": "Fix semgrep ci (#160)",

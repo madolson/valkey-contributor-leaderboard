@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 198,
-  "commit_count": 63,
-  "review_count": 135,
+  "score": 201,
+  "commit_count": 64,
+  "review_count": 137,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "7d5042a214",
+      "message": "fix: free command results to prevent memory leak (#163)",
+      "date": "2026-07-17",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/163",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/7d5042a2147f22491838a401180241b803a77777"
+    },
     {
       "sha": "0194ffa411",
       "message": "ci: Add public branch to C# Examples Check",
@@ -529,6 +537,22 @@
       "repo": "valkey-glide-ruby",
       "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/161",
       "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/41536d37098e835de7b804f0b30dd843081059b6"
+    },
+    {
+      "sha": "2a9e2515a7",
+      "message": "Add routing support for all cluster commands (#162)",
+      "date": "2026-07-17",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/162",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/2a9e2515a76c9d3bbdafecf0171a285d6a158c89"
+    },
+    {
+      "sha": "0f41df8fa0",
+      "message": "fix(dep): add irb to Gemfile to enable bundle exec bin/console w/ ruby 4 (#166)",
+      "date": "2026-07-17",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/166",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/0f41df8fa097a97dcf6274eed7d91a02a9c2be4c"
     },
     {
       "sha": "81e15dbffe",

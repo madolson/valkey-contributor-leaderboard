@@ -2,14 +2,22 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 26,
-  "commit_count": 13,
-  "review_count": 13,
+  "score": 28,
+  "commit_count": 14,
+  "review_count": 14,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "5342e91246",
+      "message": "Add valkey-resources chart (#221)",
+      "date": "2026-07-17",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/221",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/5342e9124661f0f5d1786cbaf9dff27a0307b5a3"
+    },
     {
       "sha": "e49046845c",
       "message": "fix: filter excess shard pods in scheduling issue check (#273)",
@@ -116,6 +124,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3a92e94921",
+      "message": "feat: implement scheduling against node axis (#310)",
+      "date": "2026-07-17",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/310",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3a92e949218f64ee3a56808b2dc5abc0ceba37b1"
+    },
     {
       "sha": "a30d9b2a6d",
       "message": "Merge pull request #196 from somaz94/feat/operator-servicemonitor",

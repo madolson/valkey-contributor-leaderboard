@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 333,
+  "score": 334,
   "commit_count": 90,
-  "review_count": 243,
+  "review_count": 244,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -741,6 +741,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4175",
       "commit_url": "https://github.com/valkey-io/valkey/commit/6b006c9a94a5910f71a710adf085eb56daf6f499"
+    },
+    {
+      "sha": "d7c0278e88",
+      "message": "Add AI release-notes generator: cut RCs and GAs with generated notes, available CVEs, and version bump (#54)",
+      "date": "2026-07-17",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/54",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/d7c0278e8850148f6bba9d0040ce02343cb4567e"
     },
     {
       "sha": "79fc841577",

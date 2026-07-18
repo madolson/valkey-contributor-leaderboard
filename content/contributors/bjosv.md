@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 221,
+  "score": 224,
   "commit_count": 117,
-  "review_count": 104,
+  "review_count": 107,
   "repos": [
     "libvalkey",
     "valkey",
@@ -951,6 +951,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f8715f6847",
+      "message": "fix: scheduling correct internal imports (#322)",
+      "date": "2026-07-17",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/322",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/f8715f6847076e8c6f14dca6699652aa98a7f059"
+    },
+    {
+      "sha": "7888b68250",
+      "message": "fix!: Rename go module to github.com/valkey-io/valkey-operator (#316)",
+      "date": "2026-07-17",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/316",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/7888b682504daa6ec67b5cdcc2c1301e05df07e2"
+    },
+    {
+      "sha": "3a92e94921",
+      "message": "feat: implement scheduling against node axis (#310)",
+      "date": "2026-07-17",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/310",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3a92e949218f64ee3a56808b2dc5abc0ceba37b1"
+    },
     {
       "sha": "49622ac494",
       "message": "test: add default user password for e2e cluster test (#292)",

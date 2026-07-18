@@ -163537,6 +163537,372 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/161"
+    },
+    {
+      "sha": "58964f550b360244f7aa0ae8d753b354be8bee9a",
+      "author_login": "nassery318",
+      "author_id": 86083902,
+      "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
+      "message": "added big key distribution chart and filtering (#390)",
+      "date": "2026-07-17T19:48:27Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "arseny-kostenko",
+          "date": "2026-07-17T19:43:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/390"
+    },
+    {
+      "sha": "78dcf8621a3aaffed3794d7d0d78f5d0be0dce89",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Improve release note input accuracy and contributor deduplication (#66)",
+      "date": "2026-07-18T04:35:45Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "8db84ba426e497d8c472b55fda2cecadaa10cfd6",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Improve patch release note completeness and safety checks (#65)",
+      "date": "2026-07-18T04:00:25Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "07173b9158328bca820e949cb03c8d78d851c543",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Simplify release notes dispatch for patch releases (#64)",
+      "date": "2026-07-18T03:16:06Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "379b3910f21b75e476d7cdc9abcf6109c79990e4",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Harden RC and patch release cuts, honor no-release-notes label (#63)",
+      "date": "2026-07-18T01:40:51Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d7c0278e8850148f6bba9d0040ce02343cb4567e",
+      "author_login": "BChan-0",
+      "author_id": 213245020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/213245020?v=4",
+      "message": "Add AI release-notes generator: cut RCs and GAs with generated notes, available CVEs, and version bump (#54)",
+      "date": "2026-07-17T22:55:34Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-07-17T22:54:18Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/54"
+    },
+    {
+      "sha": "dbe2d47f88a8d763b6693c3b34daa8f1bd9d254a",
+      "author_login": "omerrubi-amzn",
+      "author_id": 169974275,
+      "avatar_url": "https://avatars.githubusercontent.com/u/169974275?v=4",
+      "message": "refactor(core): Value::BulkString holds bytes::Bytes (zero-copy foundation) (#6524)",
+      "date": "2026-07-17T20:13:58Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "alexr-bq",
+          "date": "2026-07-15T21:58:28Z"
+        },
+        {
+          "login": "jeremyprime",
+          "date": "2026-07-16T16:13:28Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-07-16T19:23:00Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6524"
+    },
+    {
+      "sha": "f420e79ad032a8f91c92a9f00d58dcd74c07a8d9",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Updated attribution files for commit 841d6cfc5428387984c05cda5abeb567abb10a7b (#6281)",
+      "date": "2026-07-17T19:10:02Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-06-18T20:50:29Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-17T17:25:08Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-07-17T18:01:06Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6281"
+    },
+    {
+      "sha": "710e20231286e1e287b5e5c4d97bb0b053602cff",
+      "author_login": "omerrubi-amzn",
+      "author_id": 169974275,
+      "avatar_url": "https://avatars.githubusercontent.com/u/169974275?v=4",
+      "message": "perf(core): vectored zero-copy send for large command args (#6523)",
+      "date": "2026-07-17T18:05:35Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-07-16T16:26:56Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-07-16T19:24:11Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6523"
+    },
+    {
+      "sha": "7d5042a2147f22491838a401180241b803a77777",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "fix: free command results to prevent memory leak (#163)",
+      "date": "2026-07-17T23:25:46Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-17T21:40:08Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-17T22:19:50Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-17T23:03:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/163"
+    },
+    {
+      "sha": "2a9e2515a76c9d3bbdafecf0171a285d6a158c89",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "Add routing support for all cluster commands (#162)",
+      "date": "2026-07-17T22:19:04Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-07-17T17:54:11Z"
+        },
+        {
+          "login": "nderraugh",
+          "date": "2026-07-17T22:12:44Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/162"
+    },
+    {
+      "sha": "0f41df8fa097a97dcf6274eed7d91a02a9c2be4c",
+      "author_login": "nderraugh",
+      "author_id": 970382,
+      "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
+      "message": "fix(dep): add irb to Gemfile to enable bundle exec bin/console w/ ruby 4 (#166)",
+      "date": "2026-07-17T18:53:20Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-07-17T17:02:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/166"
+    },
+    {
+      "sha": "5342e9124661f0f5d1786cbaf9dff27a0307b5a3",
+      "author_login": "daanvinken",
+      "author_id": 47114744,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
+      "message": "Add valkey-resources chart (#221)",
+      "date": "2026-07-17T16:29:23Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-07-17T16:09:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/221"
+    },
+    {
+      "sha": "70d268a5fe5c2aa68808599d81b419b17cc37d94",
+      "author_login": "somaz94",
+      "author_id": 112675579,
+      "avatar_url": "https://avatars.githubusercontent.com/u/112675579?v=4",
+      "message": "feat(valkey): make Valkey container health probes configurable (#217)",
+      "date": "2026-07-17T15:10:13Z",
+      "repo": "valkey-helm",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "66b56d1a5c4afdb71f5696393404cc3cc3f3f802",
+      "author_login": "Bloodraven21",
+      "author_id": 60031755,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60031755?v=4",
+      "message": "added contributing.md to valkey helm chart (#186)",
+      "date": "2026-07-17T15:07:25Z",
+      "repo": "valkey-helm",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "493f655449c869527326a11875c312629395d3e0",
+      "author_login": "matka12",
+      "author_id": 229773421,
+      "avatar_url": "https://avatars.githubusercontent.com/u/229773421?v=4",
+      "message": "fix: stop updating workloads on every reconcile by owning API-server defaults (#317)",
+      "date": "2026-07-17T18:15:08Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-07-17T18:15:03Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/317"
+    },
+    {
+      "sha": "f8715f6847076e8c6f14dca6699652aa98a7f059",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "fix: scheduling correct internal imports (#322)",
+      "date": "2026-07-17T17:19:09Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-07-17T17:03:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/322"
+    },
+    {
+      "sha": "7888b682504daa6ec67b5cdcc2c1301e05df07e2",
+      "author_login": "deepakpunjabi",
+      "author_id": 17640076,
+      "avatar_url": "https://avatars.githubusercontent.com/u/17640076?v=4",
+      "message": "fix!: Rename go module to github.com/valkey-io/valkey-operator (#316)",
+      "date": "2026-07-17T16:50:59Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-07-17T16:49:45Z"
+        },
+        {
+          "login": "jdheyburn",
+          "date": "2026-07-17T16:50:52Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/316"
+    },
+    {
+      "sha": "3a92e949218f64ee3a56808b2dc5abc0ceba37b1",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "feat: implement scheduling against node axis (#310)",
+      "date": "2026-07-17T10:03:08Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "daanvinken",
+          "date": "2026-07-16T13:55:56Z"
+        },
+        {
+          "login": "sandeepkunusoth",
+          "date": "2026-07-17T06:11:35Z"
+        },
+        {
+          "login": "bjosv",
+          "date": "2026-07-17T08:27:58Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/310"
+    },
+    {
+      "sha": "4aff2199330a066111fd15b4bf7c971922879d55",
+      "author_login": "Carol-ggg",
+      "author_id": 213777065,
+      "avatar_url": "https://avatars.githubusercontent.com/u/213777065?v=4",
+      "message": "Adds module commit tracking support for valkey modules (#62)",
+      "date": "2026-07-17T18:45:03Z",
+      "repo": "valkey-perf-benchmark",
+      "reviewed": [
+        {
+          "login": "VoletiRam",
+          "date": "2026-07-11T00:10:09Z"
+        },
+        {
+          "login": "VoletiRam",
+          "date": "2026-07-13T18:44:44Z"
+        },
+        {
+          "login": "VoletiRam",
+          "date": "2026-07-13T22:02:47Z"
+        },
+        {
+          "login": "VoletiRam",
+          "date": "2026-07-17T17:38:27Z"
+        },
+        {
+          "login": "roshkhatri",
+          "date": "2026-07-17T18:44:45Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/62"
+    },
+    {
+      "sha": "f935b887b6e91483bfc86bbc36ad8b2350904884",
+      "author_login": "VoletiRam",
+      "author_id": 90425341,
+      "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
+      "message": "Add mixed workload scenario and fuzzy dataset transform (#61)",
+      "date": "2026-07-17T17:16:46Z",
+      "repo": "valkey-perf-benchmark",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-07-16T22:00:52Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/61"
     }
   ]
 }

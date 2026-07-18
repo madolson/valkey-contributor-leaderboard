@@ -2,14 +2,22 @@
   "title": "deepakpunjabi",
   "login": "deepakpunjabi",
   "avatar_url": "https://avatars.githubusercontent.com/u/17640076?v=4",
-  "score": 4,
-  "commit_count": 3,
+  "score": 5,
+  "commit_count": 4,
   "review_count": 1,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "7888b68250",
+      "message": "fix!: Rename go module to github.com/valkey-io/valkey-operator (#316)",
+      "date": "2026-07-17",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/316",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/7888b682504daa6ec67b5cdcc2c1301e05df07e2"
+    },
     {
       "sha": "64e528416a",
       "message": "Updated chart.version",

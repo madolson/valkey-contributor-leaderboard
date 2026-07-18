@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 352,
+  "score": 354,
   "commit_count": 103,
-  "review_count": 249,
+  "review_count": 251,
   "repos": [
     ".github",
     "valkey-glide",
@@ -837,6 +837,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f420e79ad0",
+      "message": "Updated attribution files for commit 841d6cfc5428387984c05cda5abeb567abb10a7b (#6281)",
+      "date": "2026-07-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6281",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f420e79ad032a8f91c92a9f00d58dcd74c07a8d9"
+    },
+    {
+      "sha": "f420e79ad0",
+      "message": "Updated attribution files for commit 841d6cfc5428387984c05cda5abeb567abb10a7b (#6281)",
+      "date": "2026-07-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6281",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f420e79ad032a8f91c92a9f00d58dcd74c07a8d9"
+    },
+    {
+      "sha": "7d5042a214",
+      "message": "fix: free command results to prevent memory leak (#163)",
+      "date": "2026-07-17",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/163",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/7d5042a2147f22491838a401180241b803a77777"
+    },
+    {
+      "sha": "7d5042a214",
+      "message": "fix: free command results to prevent memory leak (#163)",
+      "date": "2026-07-17",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/163",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/7d5042a2147f22491838a401180241b803a77777"
+    },
     {
       "sha": "9f9bcbb4a9",
       "message": "Python: restore BaseClient.__aenter__ return type to Self (#6533)",

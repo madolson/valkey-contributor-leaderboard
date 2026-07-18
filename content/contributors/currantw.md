@@ -1137,6 +1137,14 @@
   ],
   "review_list": [
     {
+      "sha": "f420e79ad0",
+      "message": "Updated attribution files for commit 841d6cfc5428387984c05cda5abeb567abb10a7b (#6281)",
+      "date": "2026-07-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6281",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f420e79ad032a8f91c92a9f00d58dcd74c07a8d9"
+    },
+    {
       "sha": "a20ff9046d",
       "message": "chore(deps): bump taiki-e/install-action from 2.82.9 to 2.82.11 in the patch-updates group (#458)",
       "date": "2026-07-15",

@@ -2,15 +2,31 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 107,
-  "commit_count": 35,
-  "review_count": 72,
+  "score": 112,
+  "commit_count": 37,
+  "review_count": 75,
   "repos": [
     "valkey",
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "f8715f6847",
+      "message": "fix: scheduling correct internal imports (#322)",
+      "date": "2026-07-17",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/322",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/f8715f6847076e8c6f14dca6699652aa98a7f059"
+    },
+    {
+      "sha": "3a92e94921",
+      "message": "feat: implement scheduling against node axis (#310)",
+      "date": "2026-07-17",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/310",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3a92e949218f64ee3a56808b2dc5abc0ceba37b1"
+    },
     {
       "sha": "9fd674377d",
       "message": "refactor!: convert podDisruptionBudget to struct with mode field (#308)",
@@ -293,6 +309,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5342e91246",
+      "message": "Add valkey-resources chart (#221)",
+      "date": "2026-07-17",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/221",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/5342e9124661f0f5d1786cbaf9dff27a0307b5a3"
+    },
+    {
+      "sha": "493f655449",
+      "message": "fix: stop updating workloads on every reconcile by owning API-server defaults (#317)",
+      "date": "2026-07-17",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/317",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/493f655449c869527326a11875c312629395d3e0"
+    },
+    {
+      "sha": "7888b68250",
+      "message": "fix!: Rename go module to github.com/valkey-io/valkey-operator (#316)",
+      "date": "2026-07-17",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/316",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/7888b682504daa6ec67b5cdcc2c1301e05df07e2"
+    },
     {
       "sha": "682bb9984e",
       "message": "Updated issue templates [bug_report and feature_request] (#179)",

@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 49,
+  "score": 50,
   "commit_count": 22,
-  "review_count": 27,
+  "review_count": 28,
   "repos": [
     "valkey-operator"
   ],
@@ -187,6 +187,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3a92e94921",
+      "message": "feat: implement scheduling against node axis (#310)",
+      "date": "2026-07-17",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/310",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3a92e949218f64ee3a56808b2dc5abc0ceba37b1"
+    },
     {
       "sha": "1f741666d8",
       "message": "docs: rewrite dev.guide for local runs using kind and add macOS support (#193)",

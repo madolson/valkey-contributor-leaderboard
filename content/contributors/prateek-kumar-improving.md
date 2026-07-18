@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 383,
-  "commit_count": 126,
-  "review_count": 257,
+  "score": 385,
+  "commit_count": 127,
+  "review_count": 258,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "2a9e2515a7",
+      "message": "Add routing support for all cluster commands (#162)",
+      "date": "2026-07-17",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/162",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/2a9e2515a76c9d3bbdafecf0171a285d6a158c89"
+    },
     {
       "sha": "4cc7e0a322",
       "message": "PHP: Fix version in workflow files (#260)",
@@ -1023,6 +1031,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7d5042a214",
+      "message": "fix: free command results to prevent memory leak (#163)",
+      "date": "2026-07-17",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/163",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/7d5042a2147f22491838a401180241b803a77777"
+    },
     {
       "sha": "81e15dbffe",
       "message": "`RESET` command support (#457)",
