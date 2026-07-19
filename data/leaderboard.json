@@ -1644,7 +1644,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
       "name": "Mikhail Koviazin",
       "company": "Altinity",
-      "commits": 25,
+      "commits": 26,
       "reviews": 94,
       "repos": [
         "libvalkey-py",
@@ -1652,7 +1652,7 @@
       ],
       "per_repo": {
         "libvalkey-py": {
-          "commits": 10,
+          "commits": 11,
           "reviews": 6
         },
         "valkey-py": {
@@ -1668,7 +1668,7 @@
           "reviews": 1
         }
       },
-      "score": 119
+      "score": 120
     },
     {
       "login": "nassery318",
@@ -2356,7 +2356,7 @@
       "name": "Bogdan Petre",
       "company": "aiven.io",
       "commits": 6,
-      "reviews": 39,
+      "reviews": 40,
       "repos": [
         "libvalkey-py",
         "valkey",
@@ -2365,7 +2365,7 @@
       "per_repo": {
         "libvalkey-py": {
           "commits": 1,
-          "reviews": 9
+          "reviews": 10
         },
         "valkey-py": {
           "commits": 4,
@@ -2376,7 +2376,7 @@
           "reviews": 0
         }
       },
-      "score": 45
+      "score": 46
     },
     {
       "login": "pizhenwei",

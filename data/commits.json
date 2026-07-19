@@ -163903,6 +163903,65 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/61"
+    },
+    {
+      "sha": "66ba154ffc8d560c9b6bf60faae42160424fec1f",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "Merge pull request #80 from valkey-io/v4.1.0",
+      "date": "2026-07-18T16:30:58Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-07-18T16:30:56Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/80"
+    },
+    {
+      "sha": "cd7fa9f37d52ca47504c2c0f7c112e069a35fd7b",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "v4.1.0",
+      "date": "2026-07-18T10:33:35Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-07-18T16:30:56Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/80"
+    },
+    {
+      "sha": "bdcbafa16320a260302a4279cc3fc4b3bcba174e",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "Merge pull request #322 from valkey-io/dependabot/github_actions/codecov/codecov-action-7",
+      "date": "2026-07-18T12:34:24Z",
+      "repo": "valkey-py",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b8bbaff248107465d3a354f1f9d75a031b494445",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "build(deps): bump codecov/codecov-action from 6 to 7",
+      "date": "2026-07-18T11:59:34Z",
+      "repo": "valkey-py",
+      "reviewed": [
+        {
+          "login": "mkmkme",
+          "date": "2026-07-18T12:00:20Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/322"
     }
   ]
 }

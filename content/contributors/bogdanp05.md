@@ -2,9 +2,9 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 45,
+  "score": 46,
   "commit_count": 6,
-  "review_count": 39,
+  "review_count": 40,
   "repos": [
     "libvalkey-py",
     "valkey",
@@ -61,6 +61,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "66ba154ffc",
+      "message": "Merge pull request #80 from valkey-io/v4.1.0",
+      "date": "2026-07-18",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/80",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/66ba154ffc8d560c9b6bf60faae42160424fec1f"
+    },
     {
       "sha": "12f16b4f7a",
       "message": "build(deps): bump pypa/cibuildwheel from 3.4.1 to 4.1.0 (#78)",

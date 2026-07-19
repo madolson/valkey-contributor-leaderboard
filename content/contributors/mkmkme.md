@@ -2,14 +2,22 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 119,
-  "commit_count": 25,
+  "score": 120,
+  "commit_count": 26,
   "review_count": 94,
   "repos": [
     "libvalkey-py",
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "66ba154ffc",
+      "message": "Merge pull request #80 from valkey-io/v4.1.0",
+      "date": "2026-07-18",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/80",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/66ba154ffc8d560c9b6bf60faae42160424fec1f"
+    },
     {
       "sha": "3444012055",
       "message": "Merge pull request #76 from valkey-io/mkmkme/v4.1.0rc4",
@@ -212,6 +220,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b8bbaff248",
+      "message": "build(deps): bump codecov/codecov-action from 6 to 7",
+      "date": "2026-07-18",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/322",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/b8bbaff248107465d3a354f1f9d75a031b494445"
+    },
     {
       "sha": "d3cb655f43",
       "message": "Relax dependency version constraints for Python 3.10 compatibility",
