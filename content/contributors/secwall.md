@@ -2,14 +2,22 @@
   "title": "secwall",
   "login": "secwall",
   "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
-  "score": 21,
-  "commit_count": 19,
+  "score": 22,
+  "commit_count": 20,
   "review_count": 2,
   "repos": [
     "valkey",
     "valkey-luajit"
   ],
   "commit_list": [
+    {
+      "sha": "ea73ab3595",
+      "message": "Drop Fedora 42 (EOL) (#41)",
+      "date": "2026-07-20",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/41",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/ea73ab35951f8ef0548452e66ea41249871f9233"
+    },
     {
       "sha": "1d4abb95f7",
       "message": "Drop nightly packaging (#27)",

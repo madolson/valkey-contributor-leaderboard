@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 101,
+  "score": 102,
   "commit_count": 24,
-  "review_count": 77,
+  "review_count": 78,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -206,6 +206,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ea73ab3595",
+      "message": "Drop Fedora 42 (EOL) (#41)",
+      "date": "2026-07-20",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/41",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/ea73ab35951f8ef0548452e66ea41249871f9233"
+    },
+    {
+      "sha": "29fc7423e6",
+      "message": "Bump softprops/action-gh-release from 3.0.1 to 3.0.2",
+      "date": "2026-07-20",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/39",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/29fc7423e6d8c5e28927f66ab6e3c1808a3cfb6b"
+    },
     {
       "sha": "9f416c69cb",
       "message": "Bump deps/luajit from `5dd996e` to `3c4f9fe` (#40)",

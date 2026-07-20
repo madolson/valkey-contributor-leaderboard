@@ -1839,7 +1839,7 @@
       "name": "Daniil Kashapov",
       "company": "",
       "commits": 24,
-      "reviews": 77,
+      "reviews": 78,
       "repos": [
         "valkey",
         "valkey-doc",
@@ -1853,7 +1853,7 @@
         },
         "valkey-luajit": {
           "commits": 1,
-          "reviews": 16
+          "reviews": 17
         },
         "valkey-doc": {
           "commits": 4,
@@ -1864,7 +1864,7 @@
           "reviews": 0
         }
       },
-      "score": 101
+      "score": 102
     },
     {
       "login": "rainsupreme",
@@ -3047,6 +3047,30 @@
       "score": 22
     },
     {
+      "login": "secwall",
+      "id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "name": "",
+      "company": "",
+      "commits": 20,
+      "reviews": 2,
+      "repos": [
+        "valkey",
+        "valkey-luajit"
+      ],
+      "per_repo": {
+        "valkey-luajit": {
+          "commits": 15,
+          "reviews": 2
+        },
+        "valkey": {
+          "commits": 5,
+          "reviews": 0
+        }
+      },
+      "score": 22
+    },
+    {
       "login": "jsoref",
       "id": 2119212,
       "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
@@ -3125,30 +3149,6 @@
         },
         "valkey-swift": {
           "commits": 1,
-          "reviews": 0
-        }
-      },
-      "score": 21
-    },
-    {
-      "login": "secwall",
-      "id": 1869308,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
-      "name": "",
-      "company": "",
-      "commits": 19,
-      "reviews": 2,
-      "repos": [
-        "valkey",
-        "valkey-luajit"
-      ],
-      "per_repo": {
-        "valkey-luajit": {
-          "commits": 14,
-          "reviews": 2
-        },
-        "valkey": {
-          "commits": 5,
           "reviews": 0
         }
       },
