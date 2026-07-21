@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 920,
-  "commit_count": 364,
+  "score": 921,
+  "commit_count": 365,
   "review_count": 556,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "0385d2ffcf",
+      "message": "Include watched keys and pubsub channel/pattern memory in client memory overhead (#3362)",
+      "date": "2026-07-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3362",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0385d2ffcf52f17210bbb1ccc43172ddf8b6c23d"
+    },
     {
       "sha": "79fc841577",
       "message": "Always log \"possibly failing\" when a node reaches PFAIL (#4186)",

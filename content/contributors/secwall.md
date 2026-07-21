@@ -173,6 +173,22 @@
   ],
   "review_list": [
     {
+      "sha": "0aca1b4ee0",
+      "message": "Bump actions/checkout from 7.0.0 to 7.0.1",
+      "date": "2026-07-20",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/43",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/0aca1b4ee0bcdd6f37e618bc8ba8db666d5f10ff"
+    },
+    {
+      "sha": "fe8a426a15",
+      "message": "Bump deps/luajit from `3c4f9fe` to `5f627e4`",
+      "date": "2026-07-20",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/42",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/fe8a426a1506f66a0e6a7a2b429b4aef6320e475"
+    },
+    {
       "sha": "376badcc83",
       "message": "Bump deps/luajit from `fed6d47` to `5dd996e`",
       "date": "2026-07-10",

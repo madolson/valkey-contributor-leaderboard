@@ -1032,6 +1032,62 @@
   ],
   "review_list": [
     {
+      "sha": "70052149b0",
+      "message": "ci(deps): bump actions/setup-java from 4.8.0 to 5.5.0 (#267)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/267",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/70052149b094e8ddba7fa90d9bc1e1c8df0e8478"
+    },
+    {
+      "sha": "d13968a8e1",
+      "message": "ci(deps): bump peter-evans/create-pull-request from 7.0.11 to 8.1.1 (#266)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/266",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/d13968a8e1ac48a3a8b891fd4bac7fb6d42d59f5"
+    },
+    {
+      "sha": "6bbce9cb21",
+      "message": "ci(deps): bump actions/attest-build-provenance from 2.4.0 to 4.1.1 (#268)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/268",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/6bbce9cb214339ee34374233d8ab3363d1e672b6"
+    },
+    {
+      "sha": "6bbce9cb21",
+      "message": "ci(deps): bump actions/attest-build-provenance from 2.4.0 to 4.1.1 (#268)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/268",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/6bbce9cb214339ee34374233d8ab3363d1e672b6"
+    },
+    {
+      "sha": "6bbce9cb21",
+      "message": "ci(deps): bump actions/attest-build-provenance from 2.4.0 to 4.1.1 (#268)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/268",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/6bbce9cb214339ee34374233d8ab3363d1e672b6"
+    },
+    {
+      "sha": "09bfc7ec67",
+      "message": "ci(deps): bump softprops/action-gh-release from 3.0.1 to 3.0.2 (#269)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/269",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/09bfc7ec67f4cfb977fa2cc2d5813344b1dd0a3f"
+    },
+    {
+      "sha": "816659c4cb",
+      "message": "ci(deps): bump actions/stale from 10.3.0 to 10.4.0 (#270)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/270",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/816659c4cb69cb69d8d2f1509212a6c972263032"
+    },
+    {
       "sha": "7d5042a214",
       "message": "fix: free command results to prevent memory leak (#163)",
       "date": "2026-07-17",

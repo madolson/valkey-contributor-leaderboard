@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 217,
+  "score": 221,
   "commit_count": 91,
-  "review_count": 126,
+  "review_count": 130,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -742,6 +742,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a38ce5a3cf",
+      "message": "feat(go): expose inflightRequestsLimit configuration (#6580)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6580",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a38ce5a3cf410994cd2f4ba0208c1f6e68e9c7f2"
+    },
+    {
+      "sha": "6949a7b8e2",
+      "message": "test(python): stabilize systemic FMT flakes from fire-and-forget CLIENT KILL (#6545)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6545",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6949a7b8e2c006c91d5afb7261c3e9c6ca53e651"
+    },
+    {
+      "sha": "35eb5d20cc",
+      "message": "Remove Windows from standard CI profile (#465)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/465",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/35eb5d20ccef38f86790750e24e01619b3752661"
+    },
+    {
+      "sha": "caccdcdda5",
+      "message": "docs(go): add inflightRequestsLimit support for Go (#270)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/270",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/caccdcdda55ed7bf2ee76c8a8391b2aca100df8f"
+    },
     {
       "sha": "dbe2d47f88",
       "message": "refactor(core): Value::BulkString holds bytes::Bytes (zero-copy foundation) (#6524)",

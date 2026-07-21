@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 115,
+  "score": 117,
   "commit_count": 42,
-  "review_count": 73,
+  "review_count": 75,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "50a0397f4f",
+      "message": "Avoid offloading writes to IO threads for the slot migration export job while snapshotting. (#4104)",
+      "date": "2026-07-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4104",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/50a0397f4f225603c6c7b68e5c172aa3d3102dad"
+    },
+    {
+      "sha": "50a0397f4f",
+      "message": "Avoid offloading writes to IO threads for the slot migration export job while snapshotting. (#4104)",
+      "date": "2026-07-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4104",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/50a0397f4f225603c6c7b68e5c172aa3d3102dad"
+    },
     {
       "sha": "3a27559aba",
       "message": "Prevent module loading during async replication and slot migration (#3039)",

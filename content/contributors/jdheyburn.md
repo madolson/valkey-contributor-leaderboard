@@ -2,8 +2,8 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 112,
-  "commit_count": 37,
+  "score": 113,
+  "commit_count": 38,
   "review_count": 75,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "f5a327bfd0",
+      "message": "Release Valkey Operator 0.4 (#222)",
+      "date": "2026-07-20",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/222",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/f5a327bfd064847457aa5e2596844db03eabdb16"
+    },
     {
       "sha": "f8715f6847",
       "message": "fix: scheduling correct internal imports (#322)",

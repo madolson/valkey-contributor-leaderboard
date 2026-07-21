@@ -2,13 +2,21 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 67,
-  "commit_count": 40,
+  "score": 68,
+  "commit_count": 41,
   "review_count": 27,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "578a75a376",
+      "message": "fix hardcoded db_num in metadata_manager.cc (#1259)",
+      "date": "2026-07-20",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1259",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/578a75a376f571229c048f283c6dfddc48098703"
+    },
     {
       "sha": "29ab9f3046",
       "message": "Workaround fix for ostringstream crash (#1032)",

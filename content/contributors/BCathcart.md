@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 88,
+  "score": 89,
   "commit_count": 36,
-  "review_count": 52,
+  "review_count": 53,
   "repos": [
     "valkey",
     "valkey-io.github.io",
@@ -301,6 +301,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "578a75a376",
+      "message": "fix hardcoded db_num in metadata_manager.cc (#1259)",
+      "date": "2026-07-20",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1259",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/578a75a376f571229c048f283c6dfddc48098703"
+    },
     {
       "sha": "e028db6c06",
       "message": "Reimplement Numeric field for 3x space reduction (#1030)",

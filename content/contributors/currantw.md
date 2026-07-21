@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 233,
-  "commit_count": 140,
-  "review_count": 93,
+  "score": 235,
+  "commit_count": 141,
+  "review_count": 94,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "35eb5d20cc",
+      "message": "Remove Windows from standard CI profile (#465)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/465",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/35eb5d20ccef38f86790750e24e01619b3752661"
+    },
     {
       "sha": "81e15dbffe",
       "message": "`RESET` command support (#457)",
@@ -1136,6 +1144,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e44efa3a61",
+      "message": "docs: add cluster-mode tuning guidance to circuit breaker guide (#268)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/268",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/e44efa3a61f54242aa2ff75b439f848418c711f0"
+    },
     {
       "sha": "f420e79ad0",
       "message": "Updated attribution files for commit 841d6cfc5428387984c05cda5abeb567abb10a7b (#6281)",

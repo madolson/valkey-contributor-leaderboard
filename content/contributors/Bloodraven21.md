@@ -2,9 +2,9 @@
   "title": "Bloodraven21",
   "login": "Bloodraven21",
   "avatar_url": "https://avatars.githubusercontent.com/u/60031755?v=4",
-  "score": 14,
+  "score": 15,
   "commit_count": 6,
-  "review_count": 8,
+  "review_count": 9,
   "repos": [
     "valkey-helm"
   ],
@@ -59,6 +59,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f5a327bfd0",
+      "message": "Release Valkey Operator 0.4 (#222)",
+      "date": "2026-07-20",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/222",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/f5a327bfd064847457aa5e2596844db03eabdb16"
+    },
     {
       "sha": "0997efb5e7",
       "message": "feat(operator): add Prometheus ServiceMonitor support to valkey-operator chart",

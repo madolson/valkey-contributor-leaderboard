@@ -2,15 +2,23 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 354,
-  "commit_count": 103,
-  "review_count": 251,
+  "score": 359,
+  "commit_count": 104,
+  "review_count": 255,
   "repos": [
     ".github",
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "6949a7b8e2",
+      "message": "test(python): stabilize systemic FMT flakes from fire-and-forget CLIENT KILL (#6545)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6545",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6949a7b8e2c006c91d5afb7261c3e9c6ca53e651"
+    },
     {
       "sha": "052899accd",
       "message": "fix(ffi): forward Disconnection push notifications past the malformed-frame guard (#6543)",
@@ -837,6 +845,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a38ce5a3cf",
+      "message": "feat(go): expose inflightRequestsLimit configuration (#6580)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6580",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a38ce5a3cf410994cd2f4ba0208c1f6e68e9c7f2"
+    },
+    {
+      "sha": "35eb5d20cc",
+      "message": "Remove Windows from standard CI profile (#465)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/465",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/35eb5d20ccef38f86790750e24e01619b3752661"
+    },
+    {
+      "sha": "caccdcdda5",
+      "message": "docs(go): add inflightRequestsLimit support for Go (#270)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/270",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/caccdcdda55ed7bf2ee76c8a8391b2aca100df8f"
+    },
+    {
+      "sha": "e44efa3a61",
+      "message": "docs: add cluster-mode tuning guidance to circuit breaker guide (#268)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/268",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/e44efa3a61f54242aa2ff75b439f848418c711f0"
+    },
     {
       "sha": "f420e79ad0",
       "message": "Updated attribution files for commit 841d6cfc5428387984c05cda5abeb567abb10a7b (#6281)",

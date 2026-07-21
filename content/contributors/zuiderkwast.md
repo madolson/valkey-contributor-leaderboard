@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1184,
+  "score": 1186,
   "commit_count": 153,
-  "review_count": 1031,
+  "review_count": 1033,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1239,6 +1239,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0385d2ffcf",
+      "message": "Include watched keys and pubsub channel/pattern memory in client memory overhead (#3362)",
+      "date": "2026-07-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3362",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0385d2ffcf52f17210bbb1ccc43172ddf8b6c23d"
+    },
+    {
+      "sha": "0385d2ffcf",
+      "message": "Include watched keys and pubsub channel/pattern memory in client memory overhead (#3362)",
+      "date": "2026-07-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3362",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0385d2ffcf52f17210bbb1ccc43172ddf8b6c23d"
+    },
     {
       "sha": "ca4927ec44",
       "message": "Optimize sendBulkToReplica to reduce lseek syscalls (#4053)",

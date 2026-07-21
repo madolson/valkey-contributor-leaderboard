@@ -776,6 +776,14 @@
   ],
   "review_list": [
     {
+      "sha": "58c6f996c3",
+      "message": "Automated Updates for Valkey Bundle (#118)",
+      "date": "2026-07-20",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/118",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/58c6f996c31ff36c5010579fea60ad528f6320d7"
+    },
+    {
       "sha": "692ff85918",
       "message": "Automated Updates for Valkey Bundle (#117)",
       "date": "2026-07-08",

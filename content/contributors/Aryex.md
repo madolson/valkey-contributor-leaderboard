@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 201,
+  "score": 202,
   "commit_count": 64,
-  "review_count": 137,
+  "review_count": 138,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -530,6 +530,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6949a7b8e2",
+      "message": "test(python): stabilize systemic FMT flakes from fire-and-forget CLIENT KILL (#6545)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6545",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6949a7b8e2c006c91d5afb7261c3e9c6ca53e651"
+    },
     {
       "sha": "41536d3709",
       "message": "Improving OTEL in ruby to add parent span support (#161)",

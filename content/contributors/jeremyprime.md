@@ -2,8 +2,8 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 168,
-  "commit_count": 41,
+  "score": 171,
+  "commit_count": 44,
   "review_count": 127,
   "repos": [
     "spring-data-valkey",
@@ -11,6 +11,30 @@
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "a38ce5a3cf",
+      "message": "feat(go): expose inflightRequestsLimit configuration (#6580)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6580",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a38ce5a3cf410994cd2f4ba0208c1f6e68e9c7f2"
+    },
+    {
+      "sha": "caccdcdda5",
+      "message": "docs(go): add inflightRequestsLimit support for Go (#270)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/270",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/caccdcdda55ed7bf2ee76c8a8391b2aca100df8f"
+    },
+    {
+      "sha": "e44efa3a61",
+      "message": "docs: add cluster-mode tuning guidance to circuit breaker guide (#268)",
+      "date": "2026-07-20",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/268",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/e44efa3a61f54242aa2ff75b439f848418c711f0"
+    },
     {
       "sha": "5c5f64d602",
       "message": "ci: fix cargo-deny CLI flag order for v0.20+ (#6490)",
