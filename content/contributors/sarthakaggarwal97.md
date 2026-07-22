@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 334,
-  "commit_count": 90,
-  "review_count": 244,
+  "score": 339,
+  "commit_count": 91,
+  "review_count": 248,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "e9cde41496",
+      "message": "Add major decision auto-approval workflow (#4162)",
+      "date": "2026-07-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4162",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e9cde414965becbd8639f5a39fce3db99ab61942"
+    },
     {
       "sha": "e78ca77c83",
       "message": "Fix module loading tests after async loading guard change (#4168)",
@@ -734,6 +742,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "99f4b5ae18",
+      "message": "Update website for version 9.1.1 (#610)",
+      "date": "2026-07-22",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/610",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/99f4b5ae18646a4510fb797e850e28258d233116"
+    },
+    {
+      "sha": "380a8fd536",
+      "message": "Update website for version 8.1.9 (#608)",
+      "date": "2026-07-22",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/608",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/380a8fd536b56021cc5ae6dcd7c55f3939ac93dc"
+    },
+    {
+      "sha": "b400e053ba",
+      "message": "Fix use-after-free in tlsProcessPendingData() on CLIENT KILL (#4234)",
+      "date": "2026-07-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4234",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b400e053ba5194c0bb3709080a33d3a7e044466c"
+    },
+    {
+      "sha": "396e92179f",
+      "message": "Fix 7.2 packaging: missing debhelper-compat and TLS-stripped make  (#61)",
+      "date": "2026-07-21",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/61",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/396e92179f1c445f78987aa61900d7efc27cfed2"
+    },
+    {
+      "sha": "4c1744dd7d",
+      "message": "Automate valkey-doc tag creation for patch releases (#62)",
+      "date": "2026-07-21",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/62",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/4c1744dd7daf0e64879e4f19776d4c468a3ef8e2"
+    },
+    {
+      "sha": "4c1744dd7d",
+      "message": "Automate valkey-doc tag creation for patch releases (#62)",
+      "date": "2026-07-21",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/62",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/4c1744dd7daf0e64879e4f19776d4c468a3ef8e2"
+    },
     {
       "sha": "6b006c9a94",
       "message": "ci: run weekly release-branch tests two at a time (#4175)",

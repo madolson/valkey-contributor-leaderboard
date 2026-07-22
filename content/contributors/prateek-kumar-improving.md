@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 385,
-  "commit_count": 127,
-  "review_count": 258,
+  "score": 387,
+  "commit_count": 128,
+  "review_count": 259,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "8a00d4b944",
+      "message": "PHP: Implement bgwriteaof command (#271)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/271",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/8a00d4b944e41ab8e0fbc05788cb985ab1e7a56c"
+    },
     {
       "sha": "2a9e2515a7",
       "message": "Add routing support for all cluster commands (#162)",
@@ -1031,6 +1039,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8c781cf620",
+      "message": "Fix race condition in MessageContainer causing flaky test crashes (#467)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/467",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8c781cf620ea78637242eca2f700a35f95925f45"
+    },
     {
       "sha": "70052149b0",
       "message": "ci(deps): bump actions/setup-java from 4.8.0 to 5.5.0 (#267)",

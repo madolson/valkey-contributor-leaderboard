@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 229,
+  "score": 230,
   "commit_count": 74,
-  "review_count": 155,
+  "review_count": 156,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -604,6 +604,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bac60d2fb0",
+      "message": "ci(fix): dependabot gitsubmodule cooldown crash (#463)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/463",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/bac60d2fb0fbed29402e664e99c4523199761bb4"
+    },
     {
       "sha": "dfed76c103",
       "message": "Add`dependabot` submodule updates (#450)",

@@ -2,15 +2,23 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 359,
-  "commit_count": 104,
-  "review_count": 255,
+  "score": 364,
+  "commit_count": 105,
+  "review_count": 259,
   "repos": [
     ".github",
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "67790a317c",
+      "message": "feat(core/java): mTLS configuration with client cert reload (#6386)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6386",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67790a317c494a2f5d1a6ef6c9c2e6a25e6622fc"
+    },
     {
       "sha": "6949a7b8e2",
       "message": "test(python): stabilize systemic FMT flakes from fire-and-forget CLIENT KILL (#6545)",
@@ -845,6 +853,78 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "05e98f0d11",
+      "message": "build(deps): bump tokio from 1.52.3 to 1.53.0 in /benchmarks/rust in the minor-updates group (#6576)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6576",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/05e98f0d110489f7721db2ac2567c8ce557af034"
+    },
+    {
+      "sha": "7467f00cc6",
+      "message": "build(deps): bump tokio from 1.52.3 to 1.53.1 in /glide-core/redis-rs in the minor-updates group across 1 directory (#6578)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6578",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7467f00cc63234aa499b5e27def532552f7fe00d"
+    },
+    {
+      "sha": "7c29d56fa6",
+      "message": "build(deps-dev): bump brace-expansion from 5.0.6 to 5.0.7 (#6588)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6588",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7c29d56fa6936bd49e8e4cf8ce02b2dd29f48b1c"
+    },
+    {
+      "sha": "7f910133c2",
+      "message": "build(deps-dev): bump brace-expansion from 1.1.15 to 1.1.16 in /node/rust-client in the npm_and_yarn group across 1 directory (#6589)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6589",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7f910133c2472c7c60da4fe0ed9baef450259ecd"
+    },
+    {
+      "sha": "353274ee82",
+      "message": "Fix native panic for setex psetex and setnx commands (#6551)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6551",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/353274ee82fa0920b39d2cfe7d86a4735c969ea3"
+    },
+    {
+      "sha": "66798fb338",
+      "message": "perf(core): zero-copy receive path for GET/MGET (#6559)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6559",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/66798fb33824ee9c14ab094542dff3fc802ecd53"
+    },
+    {
+      "sha": "bac60d2fb0",
+      "message": "ci(fix): dependabot gitsubmodule cooldown crash (#463)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/463",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/bac60d2fb0fbed29402e664e99c4523199761bb4"
+    },
+    {
+      "sha": "d5c20bb2e6",
+      "message": "Fix flaky `TestClientPauseWrite_ReadsNotPaused` test (#468)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/468",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d5c20bb2e6d7339d7b4b824ca2dc590e383102ce"
+    },
+    {
+      "sha": "054f9eded9",
+      "message": "chore(deps): bump taiki-e/install-action from 2.82.11 to 2.83.2 in the minor-updates group (#461)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/461",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/054f9eded923bbb27eda6b44178eb47a22215668"
+    },
     {
       "sha": "a38ce5a3cf",
       "message": "feat(go): expose inflightRequestsLimit configuration (#6580)",

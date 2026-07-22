@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 117,
+  "score": 119,
   "commit_count": 42,
-  "review_count": 75,
+  "review_count": 77,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f4dc3ca09e",
+      "message": "Check and reject invalid slot import job names during RDB load (#4210)",
+      "date": "2026-07-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4210",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f4dc3ca09eb650c2fe14060090a41c524eca803f"
+    },
+    {
+      "sha": "4691888e7f",
+      "message": "Validate slot import ranges when loading from RDB (#4229)",
+      "date": "2026-07-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4229",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4691888e7fab3df128f0bde5750c9fde2ae552fa"
+    },
     {
       "sha": "50a0397f4f",
       "message": "Avoid offloading writes to IO threads for the slot migration export job while snapshotting. (#4104)",

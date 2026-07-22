@@ -2,9 +2,9 @@
   "title": "makubo-aws",
   "login": "makubo-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/203714000?v=4",
-  "score": 8,
+  "score": 10,
   "commit_count": 4,
-  "review_count": 4,
+  "review_count": 6,
   "repos": [
     "valkey-doc",
     "valkey-io.github.io"
@@ -44,6 +44,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c835e10d87",
+      "message": "feat: Add Vultr as participant (#596)",
+      "date": "2026-07-21",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/596",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c835e10d874b5b844c01c766090e72d8f79608d2"
+    },
+    {
+      "sha": "2da33c73d7",
+      "message": "adds blog post _The secret life of data in Valkey_ (#575)",
+      "date": "2026-07-21",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/575",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/2da33c73d75c5c3f42f6d5a613d3ae06ff3ec0d1"
+    },
     {
       "sha": "f49bbf2ccb",
       "message": "Add Freshworks as a participant (#568)",

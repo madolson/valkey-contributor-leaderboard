@@ -2,8 +2,8 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 387,
-  "commit_count": 144,
+  "score": 389,
+  "commit_count": 146,
   "review_count": 243,
   "repos": [
     "valkey",
@@ -19,6 +19,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "396e92179f",
+      "message": "Fix 7.2 packaging: missing debhelper-compat and TLS-stripped make  (#61)",
+      "date": "2026-07-21",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/61",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/396e92179f1c445f78987aa61900d7efc27cfed2"
+    },
+    {
+      "sha": "4c1744dd7d",
+      "message": "Automate valkey-doc tag creation for patch releases (#62)",
+      "date": "2026-07-21",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/62",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/4c1744dd7daf0e64879e4f19776d4c468a3ef8e2"
+    },
     {
       "sha": "6b006c9a94",
       "message": "ci: run weekly release-branch tests two at a time (#4175)",
@@ -1173,6 +1189,78 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b2ecf7da2c",
+      "message": "Update versions.json and Dockerfiles for version 9.1.1 (#156)",
+      "date": "2026-07-22",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/156",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/b2ecf7da2cf3c7ed28869e9af0709876f0991497"
+    },
+    {
+      "sha": "7e7fc779e8",
+      "message": "Update versions.json and Dockerfiles for version 9.0.5 (#155)",
+      "date": "2026-07-22",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/155",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/7e7fc779e83ae626a50f2a53c06ebd855d6cb8e0"
+    },
+    {
+      "sha": "2a88faed4f",
+      "message": "Update versions.json and Dockerfiles for version 8.1.9 (#154)",
+      "date": "2026-07-22",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/154",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/2a88faed4f2bae38f9e122bc57be5004d8d0b294"
+    },
+    {
+      "sha": "494d095666",
+      "message": "Update versions.json and Dockerfiles for version 8.0.10 (#153)",
+      "date": "2026-07-22",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/153",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/494d095666002e805d4310f8eabedc34139080e6"
+    },
+    {
+      "sha": "f7baf73bc4",
+      "message": "Update website for version 9.0.5 (#609)",
+      "date": "2026-07-22",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/609",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f7baf73bc4f4acbf0b2145651ee8d415cdb17505"
+    },
+    {
+      "sha": "f7baf73bc4",
+      "message": "Update website for version 9.0.5 (#609)",
+      "date": "2026-07-22",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/609",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f7baf73bc4f4acbf0b2145651ee8d415cdb17505"
+    },
+    {
+      "sha": "380a8fd536",
+      "message": "Update website for version 8.1.9 (#608)",
+      "date": "2026-07-22",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/608",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/380a8fd536b56021cc5ae6dcd7c55f3939ac93dc"
+    },
+    {
+      "sha": "4971712cc6",
+      "message": "Update versions.json and Dockerfiles for version 7.2.14 (#150)",
+      "date": "2026-07-21",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/150",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/4971712cc60405c17e60874b2c3d80eb4563ac87"
+    },
+    {
+      "sha": "e137735bbe",
+      "message": "Update website for version 7.2.14 (#605)",
+      "date": "2026-07-21",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/605",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/e137735bbeff0bc343ffeec7bbb19bf605e4bfde"
+    },
     {
       "sha": "58c6f996c3",
       "message": "Automated Updates for Valkey Bundle (#118)",

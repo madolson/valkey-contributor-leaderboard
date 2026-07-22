@@ -2,14 +2,22 @@
   "title": "Sasidharan3094",
   "login": "Sasidharan3094",
   "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
-  "score": 36,
-  "commit_count": 23,
+  "score": 37,
+  "commit_count": 24,
   "review_count": 13,
   "repos": [
     "valkey-glide",
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "353274ee82",
+      "message": "Fix native panic for setex psetex and setnx commands (#6551)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6551",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/353274ee82fa0920b39d2cfe7d86a4735c969ea3"
+    },
     {
       "sha": "41536d3709",
       "message": "Improving OTEL in ruby to add parent span support (#161)",

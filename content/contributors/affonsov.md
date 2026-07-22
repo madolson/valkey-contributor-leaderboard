@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 221,
+  "score": 224,
   "commit_count": 91,
-  "review_count": 130,
+  "review_count": 133,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -742,6 +742,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "353274ee82",
+      "message": "Fix native panic for setex psetex and setnx commands (#6551)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6551",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/353274ee82fa0920b39d2cfe7d86a4735c969ea3"
+    },
+    {
+      "sha": "67790a317c",
+      "message": "feat(core/java): mTLS configuration with client cert reload (#6386)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6386",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67790a317c494a2f5d1a6ef6c9c2e6a25e6622fc"
+    },
+    {
+      "sha": "8c781cf620",
+      "message": "Fix race condition in MessageContainer causing flaky test crashes (#467)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/467",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8c781cf620ea78637242eca2f700a35f95925f45"
+    },
     {
       "sha": "a38ce5a3cf",
       "message": "feat(go): expose inflightRequestsLimit configuration (#6580)",

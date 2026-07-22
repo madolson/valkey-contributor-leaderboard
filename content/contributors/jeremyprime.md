@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 171,
+  "score": 173,
   "commit_count": 44,
-  "review_count": 127,
+  "review_count": 129,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -365,6 +365,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "67790a317c",
+      "message": "feat(core/java): mTLS configuration with client cert reload (#6386)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6386",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67790a317c494a2f5d1a6ef6c9c2e6a25e6622fc"
+    },
+    {
+      "sha": "66798fb338",
+      "message": "perf(core): zero-copy receive path for GET/MGET (#6559)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6559",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/66798fb33824ee9c14ab094542dff3fc802ecd53"
+    },
     {
       "sha": "dbe2d47f88",
       "message": "refactor(core): Value::BulkString holds bytes::Bytes (zero-copy foundation) (#6524)",

@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 202,
+  "score": 205,
   "commit_count": 64,
-  "review_count": 138,
+  "review_count": 141,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -530,6 +530,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "353274ee82",
+      "message": "Fix native panic for setex psetex and setnx commands (#6551)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6551",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/353274ee82fa0920b39d2cfe7d86a4735c969ea3"
+    },
+    {
+      "sha": "d5c20bb2e6",
+      "message": "Fix flaky `TestClientPauseWrite_ReadsNotPaused` test (#468)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/468",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d5c20bb2e6d7339d7b4b824ca2dc590e383102ce"
+    },
+    {
+      "sha": "8a00d4b944",
+      "message": "PHP: Implement bgwriteaof command (#271)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/271",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/8a00d4b944e41ab8e0fbc05788cb985ab1e7a56c"
+    },
     {
       "sha": "6949a7b8e2",
       "message": "test(python): stabilize systemic FMT flakes from fire-and-forget CLIENT KILL (#6545)",

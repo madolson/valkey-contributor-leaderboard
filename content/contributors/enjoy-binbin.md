@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 921,
-  "commit_count": 365,
-  "review_count": 556,
+  "score": 923,
+  "commit_count": 366,
+  "review_count": 557,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -20,6 +20,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3362",
       "commit_url": "https://github.com/valkey-io/valkey/commit/0385d2ffcf52f17210bbb1ccc43172ddf8b6c23d"
+    },
+    {
+      "sha": "4691888e7f",
+      "message": "Validate slot import ranges when loading from RDB (#4229)",
+      "date": "2026-07-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4229",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4691888e7fab3df128f0bde5750c9fde2ae552fa"
     },
     {
       "sha": "79fc841577",
@@ -2935,6 +2943,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f4dc3ca09e",
+      "message": "Check and reject invalid slot import job names during RDB load (#4210)",
+      "date": "2026-07-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4210",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f4dc3ca09eb650c2fe14060090a41c524eca803f"
+    },
     {
       "sha": "5074e5ca22",
       "message": "Deflake aofrw child-kill wait and failover completion wait (#4181)",

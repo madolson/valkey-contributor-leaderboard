@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 235,
-  "commit_count": 141,
-  "review_count": 94,
+  "score": 240,
+  "commit_count": 144,
+  "review_count": 96,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -14,6 +14,30 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "bac60d2fb0",
+      "message": "ci(fix): dependabot gitsubmodule cooldown crash (#463)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/463",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/bac60d2fb0fbed29402e664e99c4523199761bb4"
+    },
+    {
+      "sha": "8c781cf620",
+      "message": "Fix race condition in MessageContainer causing flaky test crashes (#467)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/467",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8c781cf620ea78637242eca2f700a35f95925f45"
+    },
+    {
+      "sha": "d5c20bb2e6",
+      "message": "Fix flaky `TestClientPauseWrite_ReadsNotPaused` test (#468)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/468",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d5c20bb2e6d7339d7b4b824ca2dc590e383102ce"
+    },
     {
       "sha": "35eb5d20cc",
       "message": "Remove Windows from standard CI profile (#465)",
@@ -1144,6 +1168,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "05e98f0d11",
+      "message": "build(deps): bump tokio from 1.52.3 to 1.53.0 in /benchmarks/rust in the minor-updates group (#6576)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6576",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/05e98f0d110489f7721db2ac2567c8ce557af034"
+    },
+    {
+      "sha": "7467f00cc6",
+      "message": "build(deps): bump tokio from 1.52.3 to 1.53.1 in /glide-core/redis-rs in the minor-updates group across 1 directory (#6578)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6578",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7467f00cc63234aa499b5e27def532552f7fe00d"
+    },
+    {
+      "sha": "7c29d56fa6",
+      "message": "build(deps-dev): bump brace-expansion from 5.0.6 to 5.0.7 (#6588)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6588",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7c29d56fa6936bd49e8e4cf8ce02b2dd29f48b1c"
+    },
+    {
+      "sha": "7f910133c2",
+      "message": "build(deps-dev): bump brace-expansion from 1.1.15 to 1.1.16 in /node/rust-client in the npm_and_yarn group across 1 directory (#6589)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6589",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7f910133c2472c7c60da4fe0ed9baef450259ecd"
+    },
+    {
+      "sha": "67790a317c",
+      "message": "feat(core/java): mTLS configuration with client cert reload (#6386)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6386",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/67790a317c494a2f5d1a6ef6c9c2e6a25e6622fc"
+    },
+    {
+      "sha": "054f9eded9",
+      "message": "chore(deps): bump taiki-e/install-action from 2.82.11 to 2.83.2 in the minor-updates group (#461)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/461",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/054f9eded923bbb27eda6b44178eb47a22215668"
+    },
+    {
+      "sha": "8a00d4b944",
+      "message": "PHP: Implement bgwriteaof command (#271)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/271",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/8a00d4b944e41ab8e0fbc05788cb985ab1e7a56c"
+    },
     {
       "sha": "e44efa3a61",
       "message": "docs: add cluster-mode tuning guidance to circuit breaker guide (#268)",

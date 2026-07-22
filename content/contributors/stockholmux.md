@@ -2,14 +2,22 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 122,
-  "commit_count": 13,
-  "review_count": 109,
+  "score": 124,
+  "commit_count": 14,
+  "review_count": 110,
   "repos": [
     "valkey-io.github.io",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "2da33c73d7",
+      "message": "adds blog post _The secret life of data in Valkey_ (#575)",
+      "date": "2026-07-21",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/575",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/2da33c73d75c5c3f42f6d5a613d3ae06ff3ec0d1"
+    },
     {
       "sha": "0ae4a48bdd",
       "message": "Adds blog post about release candidates (#489)",
@@ -116,6 +124,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0922b152d4",
+      "message": "Add IONOS Cloud as participant (#604)",
+      "date": "2026-07-21",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/604",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/0922b152d4856446d42b7726d76ab5f506e4a612"
+    },
     {
       "sha": "2e08e11276",
       "message": "Add blog: Percona spotlight (#598)",

@@ -2,13 +2,21 @@
   "title": "omerrubi-amzn",
   "login": "omerrubi-amzn",
   "avatar_url": "https://avatars.githubusercontent.com/u/169974275?v=4",
-  "score": 7,
-  "commit_count": 7,
+  "score": 8,
+  "commit_count": 8,
   "review_count": 0,
   "repos": [
     "valkey-glide"
   ],
   "commit_list": [
+    {
+      "sha": "66798fb338",
+      "message": "perf(core): zero-copy receive path for GET/MGET (#6559)",
+      "date": "2026-07-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6559",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/66798fb33824ee9c14ab094542dff3fc802ecd53"
+    },
     {
       "sha": "dbe2d47f88",
       "message": "refactor(core): Value::BulkString holds bytes::Bytes (zero-copy foundation) (#6524)",

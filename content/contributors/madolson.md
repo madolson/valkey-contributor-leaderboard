@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 866,
-  "commit_count": 192,
-  "review_count": 674,
+  "score": 870,
+  "commit_count": 194,
+  "review_count": 676,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -17,6 +17,22 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "b400e053ba",
+      "message": "Fix use-after-free in tlsProcessPendingData() on CLIENT KILL (#4234)",
+      "date": "2026-07-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4234",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b400e053ba5194c0bb3709080a33d3a7e044466c"
+    },
+    {
+      "sha": "0922b152d4",
+      "message": "Add IONOS Cloud as participant (#604)",
+      "date": "2026-07-21",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/604",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/0922b152d4856446d42b7726d76ab5f506e4a612"
+    },
     {
       "sha": "5ab06a709f",
       "message": "Fetch full valkey history so module API 'Available since' is correct (#60)",
@@ -1555,6 +1571,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "710a321fbe",
+      "message": "Update 2026 events calendar (#587)",
+      "date": "2026-07-22",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/587",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/710a321fbe866d379d980c315d87a09dcd59a291"
+    },
+    {
+      "sha": "25cbbf5b4d",
+      "message": "Update website for version 8.0.10 (#606)",
+      "date": "2026-07-21",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/606",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/25cbbf5b4d81118965fb433e7a1e1b5f04fc5e03"
+    },
+    {
+      "sha": "c835e10d87",
+      "message": "feat: Add Vultr as participant (#596)",
+      "date": "2026-07-21",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/596",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c835e10d874b5b844c01c766090e72d8f79608d2"
+    },
     {
       "sha": "3a27559aba",
       "message": "Prevent module loading during async replication and slot migration (#3039)",

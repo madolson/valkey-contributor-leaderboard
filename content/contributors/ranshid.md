@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 289,
+  "score": 291,
   "commit_count": 92,
-  "review_count": 197,
+  "review_count": 199,
   "repos": [
     "valkey",
     "valkey-container",
@@ -753,6 +753,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b400e053ba",
+      "message": "Fix use-after-free in tlsProcessPendingData() on CLIENT KILL (#4234)",
+      "date": "2026-07-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4234",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b400e053ba5194c0bb3709080a33d3a7e044466c"
+    },
+    {
+      "sha": "e9cde41496",
+      "message": "Add major decision auto-approval workflow (#4162)",
+      "date": "2026-07-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4162",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e9cde414965becbd8639f5a39fce3db99ab61942"
+    },
     {
       "sha": "cdf98a251e",
       "message": "Fix io_last_written bookmark desync that corrupts replies with IO threads (#4060)",
