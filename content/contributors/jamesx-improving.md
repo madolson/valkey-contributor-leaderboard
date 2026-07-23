@@ -2,14 +2,30 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 230,
-  "commit_count": 74,
+  "score": 232,
+  "commit_count": 76,
   "review_count": 156,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "b3b4a3f51f",
+      "message": "ci(node): install exact release_version in RC test, not dist-tag (#6594)",
+      "date": "2026-07-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6594",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b3b4a3f51f4dcad797a375b2eae8ecb44e1990f0"
+    },
+    {
+      "sha": "c9b4d0a6d9",
+      "message": "CI: exempt Task and Feature labels from stale workflow auto-close (#6591)",
+      "date": "2026-07-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6591",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c9b4d0a6d953b020568438863dff1bd25fbbd17f"
+    },
     {
       "sha": "841d6cfc54",
       "message": "CD: Retry RC node test install to handle npm propagation race (#6343)",

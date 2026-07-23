@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 259,
+  "score": 260,
   "commit_count": 99,
-  "review_count": 160,
+  "review_count": 161,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -809,6 +809,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9ab369980f",
+      "message": "Match bloom memory tracking by small over count of bytes after a defrag operation (#110)",
+      "date": "2026-07-23",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/110",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/9ab369980fca9f8cf711839f8ff60953eb479940"
+    },
     {
       "sha": "fa920966a6",
       "message": "Allow FT._debug to use when client is admin (#914)",

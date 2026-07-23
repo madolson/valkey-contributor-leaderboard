@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 224,
+  "score": 228,
   "commit_count": 91,
-  "review_count": 133,
+  "review_count": 137,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -742,6 +742,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b3b4a3f51f",
+      "message": "ci(node): install exact release_version in RC test, not dist-tag (#6594)",
+      "date": "2026-07-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6594",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b3b4a3f51f4dcad797a375b2eae8ecb44e1990f0"
+    },
+    {
+      "sha": "c9b4d0a6d9",
+      "message": "CI: exempt Task and Feature labels from stale workflow auto-close (#6591)",
+      "date": "2026-07-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6591",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c9b4d0a6d953b020568438863dff1bd25fbbd17f"
+    },
+    {
+      "sha": "7762c4ca57",
+      "message": "Python Async: Add OTel span creation for script invocation (EVALSHA) (#6350)",
+      "date": "2026-07-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6350",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7762c4ca579eeb984062bc802f167664717f0bd7"
+    },
+    {
+      "sha": "0d28671b68",
+      "message": "docs: Debug documentation and usages (#267)",
+      "date": "2026-07-22",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/267",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/0d28671b688c0f44fe863d8e4288f4203f01b88c"
+    },
     {
       "sha": "353274ee82",
       "message": "Fix native panic for setex psetex and setnx commands (#6551)",

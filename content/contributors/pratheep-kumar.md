@@ -2,9 +2,9 @@
   "title": "pratheep-kumar",
   "login": "pratheep-kumar",
   "avatar_url": "https://avatars.githubusercontent.com/u/40911083?v=4",
-  "score": 36,
+  "score": 38,
   "commit_count": 17,
-  "review_count": 19,
+  "review_count": 21,
   "repos": [
     "valkey-glide",
     "valkey-glide-ruby"
@@ -148,6 +148,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d053b27449",
+      "message": "Updating eval & evalsha to adhere to flexible positional form like redis-rb (#174)",
+      "date": "2026-07-22",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/174",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d053b27449f7caff6599d1f1fbdf9ac70c24cbb2"
+    },
+    {
+      "sha": "c932ad21b6",
+      "message": "Multi atomic batch changes adhering to core's BATCH support (#164)",
+      "date": "2026-07-22",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/164",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/c932ad21b61c2cfbacd133a1e8ecd36c704e6359"
+    },
     {
       "sha": "15f509d952",
       "message": "Enabling scan_each (#154)",

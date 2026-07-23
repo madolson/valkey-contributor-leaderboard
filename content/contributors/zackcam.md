@@ -2,8 +2,8 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 66,
-  "commit_count": 43,
+  "score": 67,
+  "commit_count": 44,
   "review_count": 23,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "9ab369980f",
+      "message": "Match bloom memory tracking by small over count of bytes after a defrag operation (#110)",
+      "date": "2026-07-23",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/110",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/9ab369980fca9f8cf711839f8ff60953eb479940"
+    },
     {
       "sha": "5e2f9fd316",
       "message": "Making it so ASAN failures fail the CI workflows (#115)",

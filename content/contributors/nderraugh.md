@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 3,
+  "score": 4,
   "commit_count": 1,
-  "review_count": 2,
+  "review_count": 3,
   "repos": [
     "valkey-glide-ruby"
   ],
@@ -19,6 +19,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0d28671b68",
+      "message": "docs: Debug documentation and usages (#267)",
+      "date": "2026-07-22",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/267",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/0d28671b688c0f44fe863d8e4288f4203f01b88c"
+    },
     {
       "sha": "2a9e2515a7",
       "message": "Add routing support for all cluster commands (#162)",

@@ -2,14 +2,22 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 6,
-  "commit_count": 6,
+  "score": 7,
+  "commit_count": 7,
   "review_count": 0,
   "repos": [
     "valkey-doc",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "23ce45cb8a",
+      "message": "Update ZRANGE WITHSCORES examples (#446)",
+      "date": "2026-07-22",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/446",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/23ce45cb8a27b2f981d600dae609394d5732c9cd"
+    },
     {
       "sha": "282a1172b3",
       "message": "Add Dragos Andriciuc bio (#583)",

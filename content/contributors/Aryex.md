@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 205,
-  "commit_count": 64,
-  "review_count": 141,
+  "score": 208,
+  "commit_count": 65,
+  "review_count": 143,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "0d28671b68",
+      "message": "docs: Debug documentation and usages (#267)",
+      "date": "2026-07-22",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/267",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/0d28671b688c0f44fe863d8e4288f4203f01b88c"
+    },
     {
       "sha": "7d5042a214",
       "message": "fix: free command results to prevent memory leak (#163)",
@@ -530,6 +538,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b3b4a3f51f",
+      "message": "ci(node): install exact release_version in RC test, not dist-tag (#6594)",
+      "date": "2026-07-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6594",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b3b4a3f51f4dcad797a375b2eae8ecb44e1990f0"
+    },
+    {
+      "sha": "7762c4ca57",
+      "message": "Python Async: Add OTel span creation for script invocation (EVALSHA) (#6350)",
+      "date": "2026-07-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6350",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7762c4ca579eeb984062bc802f167664717f0bd7"
+    },
     {
       "sha": "353274ee82",
       "message": "Fix native panic for setex psetex and setnx commands (#6551)",

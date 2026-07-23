@@ -2,13 +2,21 @@
   "title": "naoki-tateyama",
   "login": "naoki-tateyama",
   "avatar_url": "https://avatars.githubusercontent.com/u/27267183?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey-glide"
   ],
   "commit_list": [
+    {
+      "sha": "7762c4ca57",
+      "message": "Python Async: Add OTel span creation for script invocation (EVALSHA) (#6350)",
+      "date": "2026-07-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6350",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7762c4ca579eeb984062bc802f167664717f0bd7"
+    },
     {
       "sha": "5fc05410a7",
       "message": "FFI: Add OTel DB semantic convention attributes for Go and Python Sync (#5579)",

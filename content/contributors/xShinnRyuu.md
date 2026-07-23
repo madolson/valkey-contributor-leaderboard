@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 364,
+  "score": 366,
   "commit_count": 105,
-  "review_count": 259,
+  "review_count": 261,
   "repos": [
     ".github",
     "valkey-glide",
@@ -853,6 +853,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b3b4a3f51f",
+      "message": "ci(node): install exact release_version in RC test, not dist-tag (#6594)",
+      "date": "2026-07-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6594",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b3b4a3f51f4dcad797a375b2eae8ecb44e1990f0"
+    },
+    {
+      "sha": "c9b4d0a6d9",
+      "message": "CI: exempt Task and Feature labels from stale workflow auto-close (#6591)",
+      "date": "2026-07-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6591",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c9b4d0a6d953b020568438863dff1bd25fbbd17f"
+    },
     {
       "sha": "05e98f0d11",
       "message": "build(deps): bump tokio from 1.52.3 to 1.53.0 in /benchmarks/rust in the minor-updates group (#6576)",

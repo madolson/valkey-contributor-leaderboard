@@ -2,9 +2,9 @@
   "title": "lucasyonge",
   "login": "lucasyonge",
   "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
-  "score": 15,
+  "score": 16,
   "commit_count": 4,
-  "review_count": 11,
+  "review_count": 12,
   "repos": [
     "valkey",
     "valkey-io.github.io"
@@ -44,6 +44,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "23ce45cb8a",
+      "message": "Update ZRANGE WITHSCORES examples (#446)",
+      "date": "2026-07-22",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/446",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/23ce45cb8a27b2f981d600dae609394d5732c9cd"
+    },
     {
       "sha": "0e52ec8790",
       "message": "Add support for CONFIG INFO <config> to display config type and valid values (#3050)",

@@ -2,9 +2,9 @@
   "title": "alexey-temnikov",
   "login": "alexey-temnikov",
   "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
-  "score": 21,
+  "score": 22,
   "commit_count": 12,
-  "review_count": 9,
+  "review_count": 10,
   "repos": [
     "valkey-admin",
     "valkey-doc",
@@ -110,6 +110,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2a8b7cd646",
+      "message": "Fix Electron CSP blocking websocket connections (#410)",
+      "date": "2026-07-23",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/410",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/2a8b7cd646af6394e2dccadf3e4016d5ae2b5046"
+    },
     {
       "sha": "c41565b9b5",
       "message": "Merge pull request #292 from valkey-io/agents",

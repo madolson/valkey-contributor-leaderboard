@@ -2,14 +2,22 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 157,
-  "commit_count": 91,
+  "score": 158,
+  "commit_count": 92,
   "review_count": 66,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "2a8b7cd646",
+      "message": "Fix Electron CSP blocking websocket connections (#410)",
+      "date": "2026-07-23",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/410",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/2a8b7cd646af6394e2dccadf3e4016d5ae2b5046"
+    },
     {
       "sha": "50a5470d3e",
       "message": "Update docs (#387)",
