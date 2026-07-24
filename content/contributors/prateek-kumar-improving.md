@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 387,
-  "commit_count": 128,
-  "review_count": 259,
+  "score": 390,
+  "commit_count": 129,
+  "review_count": 261,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "b837999678",
+      "message": "Implement save command (#272)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/272",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b83799967804337039ccd4f0cc641166e946092b"
+    },
     {
       "sha": "8a00d4b944",
       "message": "PHP: Implement bgwriteaof command (#271)",
@@ -1039,6 +1047,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5432e9eded",
+      "message": "feat(java): add asReadOnlyByteBuffer in GlideString to return zero-copy (#6601)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6601",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5432e9eded1d0c20aef33488b0f99cac8ff96f8e"
+    },
+    {
+      "sha": "9332b320e7",
+      "message": "Fix `XREADGROUP` multi-field parsing and add stream read tests (#469)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/469",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/9332b320e7653619baf17565a30d745f9b150db5"
+    },
     {
       "sha": "8c781cf620",
       "message": "Fix race condition in MessageContainer causing flaky test crashes (#467)",

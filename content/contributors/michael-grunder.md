@@ -2,13 +2,21 @@
   "title": "michael-grunder",
   "login": "michael-grunder",
   "avatar_url": "https://avatars.githubusercontent.com/u/468149?v=4",
-  "score": 76,
-  "commit_count": 18,
-  "review_count": 58,
+  "score": 78,
+  "commit_count": 19,
+  "review_count": 59,
   "repos": [
     "libvalkey"
   ],
   "commit_list": [
+    {
+      "sha": "3180cb6f7a",
+      "message": "Add `maxdepth` member to `valkeyReader`.",
+      "date": "2026-07-23",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/336",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/3180cb6f7a7acf5224de13ae5deb44ff5744d92b"
+    },
     {
       "sha": "51fc871b48",
       "message": "Make `ffc.h` the default string to double parser (#318)",
@@ -155,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3f2444a224",
+      "message": "Add option to attach an adapter in valkeyAsyncConnectWithOptions() (#331)",
+      "date": "2026-07-23",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/331",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/3f2444a224294089589af82637e069a499fd4bd3"
+    },
     {
       "sha": "bc81ec39ee",
       "message": "cluster: initialize primary_id to NULL in parse_cluster_nodes (#333)",

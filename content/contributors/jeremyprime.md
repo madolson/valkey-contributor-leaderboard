@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 173,
+  "score": 175,
   "commit_count": 44,
-  "review_count": 129,
+  "review_count": 131,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -365,6 +365,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5432e9eded",
+      "message": "feat(java): add asReadOnlyByteBuffer in GlideString to return zero-copy (#6601)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6601",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5432e9eded1d0c20aef33488b0f99cac8ff96f8e"
+    },
+    {
+      "sha": "6012b8581c",
+      "message": "Python: Fix flaky test_update_connection_password TimeoutError (#6595)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6595",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6012b8581c1abcccc71384c8cf3033541a6461cf"
+    },
     {
       "sha": "67790a317c",
       "message": "feat(core/java): mTLS configuration with client cert reload (#6386)",

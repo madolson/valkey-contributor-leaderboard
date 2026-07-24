@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 228,
+  "score": 232,
   "commit_count": 91,
-  "review_count": 137,
+  "review_count": 141,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -742,6 +742,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6012b8581c",
+      "message": "Python: Fix flaky test_update_connection_password TimeoutError (#6595)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6595",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6012b8581c1abcccc71384c8cf3033541a6461cf"
+    },
+    {
+      "sha": "6012b8581c",
+      "message": "Python: Fix flaky test_update_connection_password TimeoutError (#6595)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6595",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6012b8581c1abcccc71384c8cf3033541a6461cf"
+    },
+    {
+      "sha": "9332b320e7",
+      "message": "Fix `XREADGROUP` multi-field parsing and add stream read tests (#469)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/469",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/9332b320e7653619baf17565a30d745f9b150db5"
+    },
+    {
+      "sha": "9c271bd599",
+      "message": "docs: Java server-assisted client-side caching (#251)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/251",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/9c271bd5995e838262aeed3b3ab56d1d18545c7e"
+    },
     {
       "sha": "b3b4a3f51f",
       "message": "ci(node): install exact release_version in RC test, not dist-tag (#6594)",

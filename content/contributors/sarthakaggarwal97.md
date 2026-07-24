@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 339,
+  "score": 340,
   "commit_count": 91,
-  "review_count": 248,
+  "review_count": 249,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -742,6 +742,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dc1ccdd287",
+      "message": "Parse recently closed Issues in case failures from Daily CI are addressed before Failure Detector runs (#73)",
+      "date": "2026-07-23",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/73",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/dc1ccdd287c2fc08a0bfb9cdc8818380792938c9"
+    },
     {
       "sha": "99f4b5ae18",
       "message": "Update website for version 9.1.1 (#610)",

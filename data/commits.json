@@ -165501,6 +165501,300 @@
       "repo": "valkey-helm",
       "reviewed": false,
       "pr_url": ""
+    },
+    {
+      "sha": "3180cb6f7a7acf5224de13ae5deb44ff5744d92b",
+      "author_login": "michael-grunder",
+      "author_id": 468149,
+      "avatar_url": "https://avatars.githubusercontent.com/u/468149?v=4",
+      "message": "Add `maxdepth` member to `valkeyReader`.",
+      "date": "2026-07-23T17:24:26Z",
+      "repo": "libvalkey",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-07-23T12:17:06Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/336"
+    },
+    {
+      "sha": "24c94ee9ce4607bf4534f816b9fe7ee305262372",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump the github-actions group with 5 updates",
+      "date": "2026-07-23T16:14:20Z",
+      "repo": "libvalkey",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3f2444a224294089589af82637e069a499fd4bd3",
+      "author_login": "bjosv",
+      "author_id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "message": "Add option to attach an adapter in valkeyAsyncConnectWithOptions() (#331)",
+      "date": "2026-07-23T16:13:34Z",
+      "repo": "libvalkey",
+      "reviewed": [
+        {
+          "login": "michael-grunder",
+          "date": "2026-07-05T20:10:14Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/331"
+    },
+    {
+      "sha": "dd30872fd8d7302fd257dc1f1e4e56ed269ee63f",
+      "author_login": "Taeknology",
+      "author_id": 20297177,
+      "avatar_url": "https://avatars.githubusercontent.com/u/20297177?v=4",
+      "message": "Preserve module load order in CONFIG REWRITE (#3769)",
+      "date": "2026-07-23T19:53:01Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "murphyjacob4",
+          "date": "2026-07-21T20:58:59Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3769"
+    },
+    {
+      "sha": "71cb8ad221f843ef247684c97aaea7ded361c1ea",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Add permissions to workflows and update high vulnerabilities (#412)",
+      "date": "2026-07-23T23:34:36Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ArgusLi",
+          "date": "2026-07-23T23:32:37Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/412"
+    },
+    {
+      "sha": "61f14c7b75491ade98f38bb95972d1ad0cee63d0",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Enforce session ownership for WebSocket action (#411)",
+      "date": "2026-07-23T23:19:18Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ArgusLi",
+          "date": "2026-07-23T22:32:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/411"
+    },
+    {
+      "sha": "dc1ccdd287c2fc08a0bfb9cdc8818380792938c9",
+      "author_login": "BChan-0",
+      "author_id": 213245020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/213245020?v=4",
+      "message": "Parse recently closed Issues in case failures from Daily CI are addressed before Failure Detector runs (#73)",
+      "date": "2026-07-23T22:27:33Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-07-23T22:26:58Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/73"
+    },
+    {
+      "sha": "1fac74017a61c6b4c2b706dec9dcceb18b0fafeb",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Improve Patch Release Note Generation (#75)",
+      "date": "2026-07-23T17:47:40Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "5432e9eded1d0c20aef33488b0f99cac8ff96f8e",
+      "author_login": "jingyi-0",
+      "author_id": 228628020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/228628020?v=4",
+      "message": "feat(java): add asReadOnlyByteBuffer in GlideString to return zero-copy (#6601)",
+      "date": "2026-07-23T16:45:30Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-07-23T16:31:38Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-23T16:42:44Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6601"
+    },
+    {
+      "sha": "6012b8581c1abcccc71384c8cf3033541a6461cf",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Python: Fix flaky test_update_connection_password TimeoutError (#6595)",
+      "date": "2026-07-23T07:26:40Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-07-21T23:43:15Z"
+        },
+        {
+          "login": "jeremyprime",
+          "date": "2026-07-22T21:10:37Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-07-22T23:02:52Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6595"
+    },
+    {
+      "sha": "7fa25b664e5ed6b419202d8a6d2d007ae356a6a0",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "chore: code cleanup following new command PRs (#436\u2013#457) (#464)",
+      "date": "2026-07-23T20:26:10Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-21T21:34:28Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-07-23T20:13:58Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/464"
+    },
+    {
+      "sha": "bf3f63e9f6c882c6f2a19cf5bfdbc71787308ac5",
+      "author_login": "jamesx-improving",
+      "author_id": 126831592,
+      "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
+      "message": "Add `NodeDiscoveryMode` configuration option for standalone clients (#455)",
+      "date": "2026-07-23T17:18:03Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-07-23T15:15:40Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-07-23T16:55:27Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/455"
+    },
+    {
+      "sha": "9332b320e7653619baf17565a30d745f9b150db5",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "Fix `XREADGROUP` multi-field parsing and add stream read tests (#469)",
+      "date": "2026-07-23T16:29:37Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-22T23:13:05Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-07-22T23:59:50Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/469"
+    },
+    {
+      "sha": "9c271bd5995e838262aeed3b3ab56d1d18545c7e",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "docs: Java server-assisted client-side caching (#251)",
+      "date": "2026-07-23T23:17:21Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-07-23T21:54:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/251"
+    },
+    {
+      "sha": "b83799967804337039ccd4f0cc641166e946092b",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "Implement save command (#272)",
+      "date": "2026-07-23T16:18:23Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-07-22T23:01:08Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-07-23T15:19:56Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/272"
+    },
+    {
+      "sha": "7823c4816a4a3a715a784af3035110275554de33",
+      "author_login": "michellee-10",
+      "author_id": 138150328,
+      "avatar_url": "https://avatars.githubusercontent.com/u/138150328?v=4",
+      "message": "Add section explaining how to interpret significance indicators (#63)",
+      "date": "2026-07-23T22:09:01Z",
+      "repo": "valkey-perf-benchmark",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-07-23T22:07:59Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/63"
+    },
+    {
+      "sha": "3950c81d43fe1b396066bfe1b79aafef02579a17",
+      "author_login": "Carol-ggg",
+      "author_id": 213777065,
+      "avatar_url": "https://avatars.githubusercontent.com/u/213777065?v=4",
+      "message": "Add shortened test and update AWS authentication for module workflow (#64)",
+      "date": "2026-07-23T22:03:02Z",
+      "repo": "valkey-perf-benchmark",
+      "reviewed": [
+        {
+          "login": "VoletiRam",
+          "date": "2026-07-21T17:11:22Z"
+        },
+        {
+          "login": "roshkhatri",
+          "date": "2026-07-23T22:02:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/64"
     }
   ]
 }

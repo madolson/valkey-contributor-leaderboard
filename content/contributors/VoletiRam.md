@@ -2,9 +2,9 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 41,
+  "score": 42,
   "commit_count": 21,
-  "review_count": 20,
+  "review_count": 21,
   "repos": [
     "valkey",
     "valkey-perf-benchmark",
@@ -182,6 +182,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3950c81d43",
+      "message": "Add shortened test and update AWS authentication for module workflow (#64)",
+      "date": "2026-07-23",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/64",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/3950c81d43fe1b396066bfe1b79aafef02579a17"
+    },
     {
       "sha": "4aff219933",
       "message": "Adds module commit tracking support for valkey modules (#62)",

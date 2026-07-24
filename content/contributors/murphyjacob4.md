@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 119,
+  "score": 120,
   "commit_count": 42,
-  "review_count": 77,
+  "review_count": 78,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dd30872fd8",
+      "message": "Preserve module load order in CONFIG REWRITE (#3769)",
+      "date": "2026-07-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3769",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/dd30872fd8d7302fd257dc1f1e4e56ed269ee63f"
+    },
     {
       "sha": "f4dc3ca09e",
       "message": "Check and reject invalid slot import job names during RDB load (#4210)",

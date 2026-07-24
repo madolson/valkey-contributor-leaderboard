@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 224,
-  "commit_count": 117,
-  "review_count": 107,
+  "score": 226,
+  "commit_count": 118,
+  "review_count": 108,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "3f2444a224",
+      "message": "Add option to attach an adapter in valkeyAsyncConnectWithOptions() (#331)",
+      "date": "2026-07-23",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/331",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/3f2444a224294089589af82637e069a499fd4bd3"
+    },
     {
       "sha": "1f741666d8",
       "message": "docs: rewrite dev.guide for local runs using kind and add macOS support (#193)",
@@ -951,6 +959,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3180cb6f7a",
+      "message": "Add `maxdepth` member to `valkeyReader`.",
+      "date": "2026-07-23",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/336",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/3180cb6f7a7acf5224de13ae5deb44ff5744d92b"
+    },
     {
       "sha": "f8715f6847",
       "message": "fix: scheduling correct internal imports (#322)",

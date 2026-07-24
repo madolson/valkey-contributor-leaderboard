@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 240,
-  "commit_count": 144,
-  "review_count": 96,
+  "score": 244,
+  "commit_count": 146,
+  "review_count": 98,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -14,6 +14,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "7fa25b664e",
+      "message": "chore: code cleanup following new command PRs (#436\u2013#457) (#464)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/464",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/7fa25b664e5ed6b419202d8a6d2d007ae356a6a0"
+    },
+    {
+      "sha": "9332b320e7",
+      "message": "Fix `XREADGROUP` multi-field parsing and add stream read tests (#469)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/469",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/9332b320e7653619baf17565a30d745f9b150db5"
+    },
     {
       "sha": "bac60d2fb0",
       "message": "ci(fix): dependabot gitsubmodule cooldown crash (#463)",
@@ -1168,6 +1184,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bf3f63e9f6",
+      "message": "Add `NodeDiscoveryMode` configuration option for standalone clients (#455)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/455",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/bf3f63e9f6c882c6f2a19cf5bfdbc71787308ac5"
+    },
+    {
+      "sha": "b837999678",
+      "message": "Implement save command (#272)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/272",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b83799967804337039ccd4f0cc641166e946092b"
+    },
     {
       "sha": "05e98f0d11",
       "message": "build(deps): bump tokio from 1.52.3 to 1.53.0 in /benchmarks/rust in the minor-updates group (#6576)",

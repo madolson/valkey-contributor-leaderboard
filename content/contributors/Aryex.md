@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 208,
-  "commit_count": 65,
-  "review_count": 143,
+  "score": 212,
+  "commit_count": 66,
+  "review_count": 146,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "9c271bd599",
+      "message": "docs: Java server-assisted client-side caching (#251)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/251",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/9c271bd5995e838262aeed3b3ab56d1d18545c7e"
+    },
     {
       "sha": "0d28671b68",
       "message": "docs: Debug documentation and usages (#267)",
@@ -538,6 +546,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7fa25b664e",
+      "message": "chore: code cleanup following new command PRs (#436\u2013#457) (#464)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/464",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/7fa25b664e5ed6b419202d8a6d2d007ae356a6a0"
+    },
+    {
+      "sha": "bf3f63e9f6",
+      "message": "Add `NodeDiscoveryMode` configuration option for standalone clients (#455)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/455",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/bf3f63e9f6c882c6f2a19cf5bfdbc71787308ac5"
+    },
+    {
+      "sha": "b837999678",
+      "message": "Implement save command (#272)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/272",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b83799967804337039ccd4f0cc641166e946092b"
+    },
     {
       "sha": "b3b4a3f51f",
       "message": "ci(node): install exact release_version in RC test, not dist-tag (#6594)",

@@ -2,15 +2,23 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 366,
-  "commit_count": 105,
-  "review_count": 261,
+  "score": 368,
+  "commit_count": 106,
+  "review_count": 262,
   "repos": [
     ".github",
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "6012b8581c",
+      "message": "Python: Fix flaky test_update_connection_password TimeoutError (#6595)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6595",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6012b8581c1abcccc71384c8cf3033541a6461cf"
+    },
     {
       "sha": "67790a317c",
       "message": "feat(core/java): mTLS configuration with client cert reload (#6386)",
@@ -853,6 +861,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7fa25b664e",
+      "message": "chore: code cleanup following new command PRs (#436\u2013#457) (#464)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/464",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/7fa25b664e5ed6b419202d8a6d2d007ae356a6a0"
+    },
     {
       "sha": "b3b4a3f51f",
       "message": "ci(node): install exact release_version in RC test, not dist-tag (#6594)",

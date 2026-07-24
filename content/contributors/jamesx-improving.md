@@ -2,14 +2,22 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 232,
-  "commit_count": 76,
+  "score": 233,
+  "commit_count": 77,
   "review_count": 156,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "bf3f63e9f6",
+      "message": "Add `NodeDiscoveryMode` configuration option for standalone clients (#455)",
+      "date": "2026-07-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/455",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/bf3f63e9f6c882c6f2a19cf5bfdbc71787308ac5"
+    },
     {
       "sha": "b3b4a3f51f",
       "message": "ci(node): install exact release_version in RC test, not dist-tag (#6594)",

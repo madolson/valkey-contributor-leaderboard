@@ -2,8 +2,8 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 158,
-  "commit_count": 92,
+  "score": 160,
+  "commit_count": 94,
   "review_count": 66,
   "repos": [
     "valkey-admin",
@@ -17,6 +17,22 @@
       "repo": "valkey-admin",
       "pr_url": "https://github.com/valkey-io/valkey-admin/pull/410",
       "commit_url": "https://github.com/valkey-io/valkey-admin/commit/2a8b7cd646af6394e2dccadf3e4016d5ae2b5046"
+    },
+    {
+      "sha": "71cb8ad221",
+      "message": "Add permissions to workflows and update high vulnerabilities (#412)",
+      "date": "2026-07-23",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/412",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/71cb8ad221f843ef247684c97aaea7ded361c1ea"
+    },
+    {
+      "sha": "61f14c7b75",
+      "message": "Enforce session ownership for WebSocket action (#411)",
+      "date": "2026-07-23",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/411",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/61f14c7b75491ade98f38bb95972d1ad0cee63d0"
     },
     {
       "sha": "50a5470d3e",
