@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 232,
+  "score": 233,
   "commit_count": 91,
-  "review_count": 141,
+  "review_count": 142,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -742,6 +742,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b8dc624ce2",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 9 updates (#6590)",
+      "date": "2026-07-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6590",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b8dc624ce2fe68cf21dbdb3247fadee8ededcbe4"
+    },
+    {
+      "sha": "1b7f532a64",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 4 updates (#6598)",
+      "date": "2026-07-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6598",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1b7f532a648ba575b7afda6c3627e650c6001f1a"
+    },
+    {
+      "sha": "fe2b175c7d",
+      "message": "build(deps-dev): bump linkify-it from 5.0.1 to 5.0.2 in /node (#6597)",
+      "date": "2026-07-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6597",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fe2b175c7d5182aea1743fdce65ce0a6a3a19512"
+    },
+    {
+      "sha": "6fb198b706",
+      "message": "feat(go): add mTLS client certificate support with automatic reload (#6384)",
+      "date": "2026-07-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6384",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6fb198b706cd6d2adf1350137e21a23e2951e48c"
+    },
     {
       "sha": "6012b8581c",
       "message": "Python: Fix flaky test_update_connection_password TimeoutError (#6595)",

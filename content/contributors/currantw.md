@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 244,
+  "score": 246,
   "commit_count": 146,
-  "review_count": 98,
+  "review_count": 100,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -1184,6 +1184,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6fb198b706",
+      "message": "feat(go): add mTLS client certificate support with automatic reload (#6384)",
+      "date": "2026-07-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6384",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6fb198b706cd6d2adf1350137e21a23e2951e48c"
+    },
+    {
+      "sha": "3f1e8250af",
+      "message": "chore(deps): bump valkey-glide from `80cf119` to `7467f00` (#470)",
+      "date": "2026-07-24",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/470",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3f1e8250af9a605826766a6e49b582bb2aebfbfc"
+    },
+    {
+      "sha": "e02fb98e54",
+      "message": "chore(deps): bump actions/setup-java from 5.5.0 to 5.6.0 in the minor-updates group (#471)",
+      "date": "2026-07-24",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/471",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e02fb98e5411aa2877465874a53dc3fc66d7fd5f"
+    },
+    {
+      "sha": "5d46e05dcd",
+      "message": "Implement reset command (#273)",
+      "date": "2026-07-24",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/273",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/5d46e05dcda437b34e2f651a9d174e51a1155a54"
+    },
     {
       "sha": "bf3f63e9f6",
       "message": "Add `NodeDiscoveryMode` configuration option for standalone clients (#455)",

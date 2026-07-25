@@ -2,14 +2,30 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 28,
-  "commit_count": 14,
+  "score": 30,
+  "commit_count": 16,
   "review_count": 14,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "6da50c1b9a",
+      "message": "feat(valkey-resources): target operator v0.4.0",
+      "date": "2026-07-22",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/227",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/6da50c1b9a1f7f7423672c88827b3d74807558bc"
+    },
+    {
+      "sha": "83a971ecdf",
+      "message": "feat(valkey-resources): optional PodMonitor for ValkeyNode exporters",
+      "date": "2026-07-22",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/224",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/83a971ecdfbae2aa45b5322be414f479382c8888"
+    },
     {
       "sha": "5342e91246",
       "message": "Add valkey-resources chart (#221)",

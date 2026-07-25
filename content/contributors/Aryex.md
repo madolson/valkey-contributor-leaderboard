@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 212,
+  "score": 214,
   "commit_count": 66,
-  "review_count": 146,
+  "review_count": 148,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -546,6 +546,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8a3bb2b8c1",
+      "message": "Upgrade to Spring Boot 4 / Spring Framework 7 (#95)",
+      "date": "2026-07-24",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/95",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/8a3bb2b8c15bc57d8cb695ce5ed7acae5c9c6b69"
+    },
+    {
+      "sha": "5d46e05dcd",
+      "message": "Implement reset command (#273)",
+      "date": "2026-07-24",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/273",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/5d46e05dcda437b34e2f651a9d174e51a1155a54"
+    },
     {
       "sha": "7fa25b664e",
       "message": "chore: code cleanup following new command PRs (#436\u2013#457) (#464)",

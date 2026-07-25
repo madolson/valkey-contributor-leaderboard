@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 391,
+  "score": 394,
   "commit_count": 146,
-  "review_count": 245,
+  "review_count": 248,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1189,6 +1189,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cdd38c5b84",
+      "message": "Fix Wikipedia dataset generation for XML-only configs (#68)",
+      "date": "2026-07-24",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/68",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/cdd38c5b84faf768da7f7f9814a6054d795e2d43"
+    },
+    {
+      "sha": "46bc512b41",
+      "message": "add gcc install step in search wf (#66)",
+      "date": "2026-07-24",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/66",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/46bc512b412378de496f5522322680268a5e8a40"
+    },
+    {
+      "sha": "b647df6678",
+      "message": "add multi run support (#67)",
+      "date": "2026-07-24",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/67",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/b647df667899316ac196e40a9c3751401ce3335d"
+    },
     {
       "sha": "7823c4816a",
       "message": "Add section explaining how to interpret significance indicators (#63)",

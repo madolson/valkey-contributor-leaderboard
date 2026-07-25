@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 226,
+  "score": 227,
   "commit_count": 118,
-  "review_count": 108,
+  "review_count": 109,
   "repos": [
     "libvalkey",
     "valkey",
@@ -959,6 +959,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1c64d35ba4",
+      "message": "fix: Set debug level for \"getting system users secret\" output (#330)",
+      "date": "2026-07-24",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/330",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/1c64d35ba47c6083937bd98a1c334cdb9be30981"
+    },
     {
       "sha": "3180cb6f7a",
       "message": "Add `maxdepth` member to `valkeyReader`.",

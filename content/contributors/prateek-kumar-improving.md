@@ -2,8 +2,8 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 390,
-  "commit_count": 129,
+  "score": 391,
+  "commit_count": 130,
   "review_count": 261,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "5d46e05dcd",
+      "message": "Implement reset command (#273)",
+      "date": "2026-07-24",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/273",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/5d46e05dcda437b34e2f651a9d174e51a1155a54"
+    },
     {
       "sha": "b837999678",
       "message": "Implement save command (#272)",

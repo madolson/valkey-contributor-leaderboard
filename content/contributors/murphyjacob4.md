@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 120,
+  "score": 121,
   "commit_count": 42,
-  "review_count": 78,
+  "review_count": 79,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4733aed658",
+      "message": "Add XX option to ZRANGE commands for null/empty distinction (#2978)",
+      "date": "2026-07-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2978",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4733aed65893c3227925e17f4423c44c0a892d15"
+    },
     {
       "sha": "dd30872fd8",
       "message": "Preserve module load order in CONFIG REWRITE (#3769)",

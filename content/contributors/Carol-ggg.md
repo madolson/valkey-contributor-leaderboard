@@ -2,13 +2,45 @@
   "title": "Carol-ggg",
   "login": "Carol-ggg",
   "avatar_url": "https://avatars.githubusercontent.com/u/213777065?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 7,
+  "commit_count": 7,
   "review_count": 0,
   "repos": [
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "896cd8f4d0",
+      "message": "Extend timeout for first time set up wiki download  (#69)",
+      "date": "2026-07-25",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/69",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/896cd8f4d0fef2ec0fff3046f50816f4f23c6512"
+    },
+    {
+      "sha": "cdd38c5b84",
+      "message": "Fix Wikipedia dataset generation for XML-only configs (#68)",
+      "date": "2026-07-24",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/68",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/cdd38c5b84faf768da7f7f9814a6054d795e2d43"
+    },
+    {
+      "sha": "46bc512b41",
+      "message": "add gcc install step in search wf (#66)",
+      "date": "2026-07-24",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/66",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/46bc512b412378de496f5522322680268a5e8a40"
+    },
+    {
+      "sha": "b647df6678",
+      "message": "add multi run support (#67)",
+      "date": "2026-07-24",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/67",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/b647df667899316ac196e40a9c3751401ce3335d"
+    },
     {
       "sha": "3950c81d43",
       "message": "Add shortened test and update AWS authentication for module workflow (#64)",

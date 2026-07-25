@@ -2,8 +2,8 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 175,
-  "commit_count": 44,
+  "score": 176,
+  "commit_count": 45,
   "review_count": 131,
   "repos": [
     "spring-data-valkey",
@@ -11,6 +11,14 @@
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "8a3bb2b8c1",
+      "message": "Upgrade to Spring Boot 4 / Spring Framework 7 (#95)",
+      "date": "2026-07-24",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/95",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/8a3bb2b8c15bc57d8cb695ce5ed7acae5c9c6b69"
+    },
     {
       "sha": "a38ce5a3cf",
       "message": "feat(go): expose inflightRequestsLimit configuration (#6580)",

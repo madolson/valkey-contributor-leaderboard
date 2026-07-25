@@ -2,13 +2,21 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 89,
-  "commit_count": 61,
+  "score": 90,
+  "commit_count": 62,
   "review_count": 28,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "0bd978482c",
+      "message": "Refactor update config to use automatic retry of failed nodes for cluster fan out (#391)",
+      "date": "2026-07-24",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/391",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/0bd978482c4a7d2b4c01f4bc41f05c69604df05a"
+    },
     {
       "sha": "0a58993ead",
       "message": "Refactor connectionId, nodeId, clusterId (#375)",

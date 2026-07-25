@@ -2,15 +2,23 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 368,
-  "commit_count": 106,
-  "review_count": 262,
+  "score": 370,
+  "commit_count": 107,
+  "review_count": 263,
   "repos": [
     ".github",
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "6fb198b706",
+      "message": "feat(go): add mTLS client certificate support with automatic reload (#6384)",
+      "date": "2026-07-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6384",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6fb198b706cd6d2adf1350137e21a23e2951e48c"
+    },
     {
       "sha": "6012b8581c",
       "message": "Python: Fix flaky test_update_connection_password TimeoutError (#6595)",
@@ -861,6 +869,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8a3bb2b8c1",
+      "message": "Upgrade to Spring Boot 4 / Spring Framework 7 (#95)",
+      "date": "2026-07-24",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/95",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/8a3bb2b8c15bc57d8cb695ce5ed7acae5c9c6b69"
+    },
+    {
+      "sha": "b8dc624ce2",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 9 updates (#6590)",
+      "date": "2026-07-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6590",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b8dc624ce2fe68cf21dbdb3247fadee8ededcbe4"
+    },
+    {
+      "sha": "1b7f532a64",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 4 updates (#6598)",
+      "date": "2026-07-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6598",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1b7f532a648ba575b7afda6c3627e650c6001f1a"
+    },
+    {
+      "sha": "fe2b175c7d",
+      "message": "build(deps-dev): bump linkify-it from 5.0.1 to 5.0.2 in /node (#6597)",
+      "date": "2026-07-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6597",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fe2b175c7d5182aea1743fdce65ce0a6a3a19512"
+    },
+    {
+      "sha": "e02fb98e54",
+      "message": "chore(deps): bump actions/setup-java from 5.5.0 to 5.6.0 in the minor-updates group (#471)",
+      "date": "2026-07-24",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/471",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e02fb98e5411aa2877465874a53dc3fc66d7fd5f"
+    },
     {
       "sha": "7fa25b664e",
       "message": "chore: code cleanup following new command PRs (#436\u2013#457) (#464)",

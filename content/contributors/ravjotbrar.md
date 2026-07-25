@@ -2,9 +2,9 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 160,
+  "score": 161,
   "commit_count": 94,
-  "review_count": 66,
+  "review_count": 67,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
@@ -764,6 +764,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0bd978482c",
+      "message": "Refactor update config to use automatic retry of failed nodes for cluster fan out (#391)",
+      "date": "2026-07-24",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/391",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/0bd978482c4a7d2b4c01f4bc41f05c69604df05a"
+    },
     {
       "sha": "fbf64a68db",
       "message": "By declining the helmet defaults, we do not default to upgrade-insecure-requests that make it hard to run local testing instances. (#385)",

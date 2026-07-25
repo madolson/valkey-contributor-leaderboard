@@ -629,6 +629,14 @@
   ],
   "review_list": [
     {
+      "sha": "3f1e8250af",
+      "message": "chore(deps): bump valkey-glide from `80cf119` to `7467f00` (#470)",
+      "date": "2026-07-24",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/470",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3f1e8250af9a605826766a6e49b582bb2aebfbfc"
+    },
+    {
       "sha": "bac60d2fb0",
       "message": "ci(fix): dependabot gitsubmodule cooldown crash (#463)",
       "date": "2026-07-21",
