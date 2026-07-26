@@ -1190,6 +1190,14 @@
   ],
   "review_list": [
     {
+      "sha": "a9191f306b",
+      "message": "Automated Updates for Valkey Bundle (#119)",
+      "date": "2026-07-26",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/119",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/a9191f306b47d5d63191db35a97d95edd2a8fcb9"
+    },
+    {
       "sha": "cdd38c5b84",
       "message": "Fix Wikipedia dataset generation for XML-only configs (#68)",
       "date": "2026-07-24",

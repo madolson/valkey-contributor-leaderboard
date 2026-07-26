@@ -743,6 +743,14 @@
   ],
   "review_list": [
     {
+      "sha": "6d9fae25ae",
+      "message": "Updated attribution files for commit b8dc624ce2fe68cf21dbdb3247fadee8ededcbe4 (#6599)",
+      "date": "2026-07-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6599",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6d9fae25aef473cbfbdc253c0475d5499c959d1b"
+    },
+    {
       "sha": "b8dc624ce2",
       "message": "build(deps): bump the patch-updates group across 1 directory with 9 updates (#6590)",
       "date": "2026-07-24",
