@@ -615,7 +615,7 @@
       "name": "Allen Samuels",
       "company": "Amazon Web Services",
       "commits": 70,
-      "reviews": 216,
+      "reviews": 217,
       "repos": [
         "valkey",
         "valkey-json",
@@ -632,7 +632,7 @@
         },
         "valkey-search": {
           "commits": 67,
-          "reviews": 212
+          "reviews": 213
         },
         "valkey": {
           "commits": 2,
@@ -643,7 +643,7 @@
           "reviews": 1
         }
       },
-      "score": 286
+      "score": 287
     },
     {
       "login": "avifenesh",
@@ -4491,6 +4491,35 @@
       "score": 7
     },
     {
+      "login": "AlexFilipImproving",
+      "id": 104015771,
+      "avatar_url": "https://avatars.githubusercontent.com/u/104015771?v=4",
+      "name": "Alex Filip",
+      "company": "https://github.com/improving",
+      "commits": 7,
+      "reviews": 0,
+      "repos": [
+        "valkey-doc",
+        "valkey-json",
+        "valkey-search"
+      ],
+      "per_repo": {
+        "valkey-doc": {
+          "commits": 1,
+          "reviews": 0
+        },
+        "valkey-json": {
+          "commits": 1,
+          "reviews": 0
+        },
+        "valkey-search": {
+          "commits": 5,
+          "reviews": 0
+        }
+      },
+      "score": 7
+    },
+    {
       "login": "SuperQ",
       "id": 1320667,
       "avatar_url": "https://avatars.githubusercontent.com/u/1320667?v=4",
@@ -4827,35 +4856,6 @@
           "reviews": 2
         },
         "valkey-glide": {
-          "commits": 4,
-          "reviews": 0
-        }
-      },
-      "score": 6
-    },
-    {
-      "login": "AlexFilipImproving",
-      "id": 104015771,
-      "avatar_url": "https://avatars.githubusercontent.com/u/104015771?v=4",
-      "name": "Alex Filip",
-      "company": "https://github.com/improving",
-      "commits": 6,
-      "reviews": 0,
-      "repos": [
-        "valkey-doc",
-        "valkey-json",
-        "valkey-search"
-      ],
-      "per_repo": {
-        "valkey-doc": {
-          "commits": 1,
-          "reviews": 0
-        },
-        "valkey-json": {
-          "commits": 1,
-          "reviews": 0
-        },
-        "valkey-search": {
           "commits": 4,
           "reviews": 0
         }

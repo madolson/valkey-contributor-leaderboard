@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 286,
+  "score": 287,
   "commit_count": 70,
-  "review_count": 216,
+  "review_count": 217,
   "repos": [
     "valkey",
     "valkey-json",
@@ -573,6 +573,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a1f2159c67",
+      "message": "feat: add TOLIST reducer for FT.AGGREGATE GROUPBY stage (#932)",
+      "date": "2026-07-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/932",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a1f2159c6733975cee4b43e0003096a4e70fa23a"
+    },
     {
       "sha": "320aec93eb",
       "message": "Replace blocks with token field in json files (#832)",

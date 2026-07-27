@@ -166207,6 +166207,99 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6599"
+    },
+    {
+      "sha": "8ea2aa60b4d06e2165fba240dadf0bf26fce486c",
+      "author_login": "crystalphamLF",
+      "author_id": 211876879,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
+      "message": "Update 1. Community Blog Guidelines.md",
+      "date": "2026-07-26T21:25:36Z",
+      "repo": "community",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "6ea5c833eb2f6125d4f7e6e8959378d64d08f8d2",
+      "author_login": "crystalphamLF",
+      "author_id": 211876879,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
+      "message": "Revise blog guidelines template for clarity and structure",
+      "date": "2026-07-26T21:24:50Z",
+      "repo": "community",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f1ba6c4747ab20ca6de1e09f7d690b7d8541fc03",
+      "author_login": "crystalphamLF",
+      "author_id": 211876879,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
+      "message": "Update 1. Community Blog Guidelines.md",
+      "date": "2026-07-26T21:24:11Z",
+      "repo": "community",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "338f50c6d8328eb0731d3597f66e848fcd23840d",
+      "author_login": "crystalphamLF",
+      "author_id": 211876879,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
+      "message": "Update and rename 1. Blog Guidelines.md to 1. Community Blog Guidelines.md",
+      "date": "2026-07-26T21:22:21Z",
+      "repo": "community",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7b3e04d6065b4951b9299373ecf437f400b14e36",
+      "author_login": "crystalphamLF",
+      "author_id": 211876879,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
+      "message": "Update 1. Blog Guidelines.md",
+      "date": "2026-07-26T21:19:47Z",
+      "repo": "community",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3d279b0b87f6243ef3140171e132abb59c6798f2",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "docs: add complete mTLS section with Go and Java examples",
+      "date": "2026-07-26T20:42:32Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "bc881f50db7fc24c287b1c4b43e8c356c7d8c0d9",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "docs(go): add mTLS examples to Configure TLS page",
+      "date": "2026-07-26T20:41:24Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "a1f2159c6733975cee4b43e0003096a4e70fa23a",
+      "author_login": "AlexFilipImproving",
+      "author_id": 104015771,
+      "avatar_url": "https://avatars.githubusercontent.com/u/104015771?v=4",
+      "message": "feat: add TOLIST reducer for FT.AGGREGATE GROUPBY stage (#932)",
+      "date": "2026-07-26T18:15:44Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-07-26T18:15:25Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/932"
     }
   ]
 }

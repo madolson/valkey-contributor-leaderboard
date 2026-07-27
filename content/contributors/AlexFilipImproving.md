@@ -2,8 +2,8 @@
   "title": "AlexFilipImproving",
   "login": "AlexFilipImproving",
   "avatar_url": "https://avatars.githubusercontent.com/u/104015771?v=4",
-  "score": 6,
-  "commit_count": 6,
+  "score": 7,
+  "commit_count": 7,
   "review_count": 0,
   "repos": [
     "valkey-doc",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "a1f2159c67",
+      "message": "feat: add TOLIST reducer for FT.AGGREGATE GROUPBY stage (#932)",
+      "date": "2026-07-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/932",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a1f2159c6733975cee4b43e0003096a4e70fa23a"
+    },
     {
       "sha": "79e1b3e7de",
       "message": "feat: Add array value type support to expression system (#893)",
