@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 90,
+  "score": 91,
   "commit_count": 62,
-  "review_count": 28,
+  "review_count": 29,
   "repos": [
     "valkey-admin"
   ],
@@ -507,6 +507,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6083555e54",
+      "message": "Authorize both connectionId and nodeId at connect time (#419)",
+      "date": "2026-07-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/419",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/6083555e5413c17c0c1fd01b66131d6b85b85e26"
+    },
     {
       "sha": "71cb8ad221",
       "message": "Add permissions to workflows and update high vulnerabilities (#412)",

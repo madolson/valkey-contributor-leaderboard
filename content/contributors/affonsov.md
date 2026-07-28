@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 233,
+  "score": 235,
   "commit_count": 91,
-  "review_count": 142,
+  "review_count": 144,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -742,6 +742,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4339df1e90",
+      "message": "Java: Fix client rejecting commands from user shutdown hooks (#4809) (#6617)",
+      "date": "2026-07-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6617",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4339df1e9011aef30ee307d50d8ec830e43215e3"
+    },
+    {
+      "sha": "be92bbca4d",
+      "message": "feat: cross-language client pool and isolated execution scopes (#6338)",
+      "date": "2026-07-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6338",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/be92bbca4d8f834b7409379d2dec3c2c8e5b34f7"
+    },
     {
       "sha": "6d9fae25ae",
       "message": "Updated attribution files for commit b8dc624ce2fe68cf21dbdb3247fadee8ededcbe4 (#6599)",

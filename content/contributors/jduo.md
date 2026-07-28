@@ -2,8 +2,8 @@
   "title": "jduo",
   "login": "jduo",
   "avatar_url": "https://avatars.githubusercontent.com/u/1657237?v=4",
-  "score": 261,
-  "commit_count": 59,
+  "score": 262,
+  "commit_count": 60,
   "review_count": 202,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "be92bbca4d",
+      "message": "feat: cross-language client pool and isolated execution scopes (#6338)",
+      "date": "2026-07-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6338",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/be92bbca4d8f834b7409379d2dec3c2c8e5b34f7"
+    },
     {
       "sha": "a758a72f68",
       "message": "feat(java): bypass protobuf serialization for command execution (#6337)",

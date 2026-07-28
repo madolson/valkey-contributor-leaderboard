@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 113,
+  "score": 114,
   "commit_count": 38,
-  "review_count": 75,
+  "review_count": 76,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -317,6 +317,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a7fa7bb8c7",
+      "message": "fix: set version/branch labels in valkey_operator_build_info metric (#336)",
+      "date": "2026-07-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/336",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a7fa7bb8c7751bcac442c1b1540a284876ac3652"
+    },
     {
       "sha": "5342e91246",
       "message": "Add valkey-resources chart (#221)",

@@ -2,8 +2,8 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 121,
-  "commit_count": 42,
+  "score": 122,
+  "commit_count": 43,
   "review_count": 79,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "a9d54c5901",
+      "message": "Fix ZRANGE XX option schema and test failures under force-resp3 (#4275)",
+      "date": "2026-07-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4275",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a9d54c590190c2aaa5de4c14c8de8f03dc3bacf5"
+    },
     {
       "sha": "81639e3975",
       "message": "fix: validate key count before allocating result in keyspec (#3598)",

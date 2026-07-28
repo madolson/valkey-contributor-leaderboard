@@ -2,14 +2,22 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 161,
-  "commit_count": 94,
-  "review_count": 67,
+  "score": 163,
+  "commit_count": 95,
+  "review_count": 68,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "6083555e54",
+      "message": "Authorize both connectionId and nodeId at connect time (#419)",
+      "date": "2026-07-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/419",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/6083555e5413c17c0c1fd01b66131d6b85b85e26"
+    },
     {
       "sha": "2a8b7cd646",
       "message": "Fix Electron CSP blocking websocket connections (#410)",
@@ -764,6 +772,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "62f7d275ad",
+      "message": "upon refresh take the user back to the view they were in (#393)",
+      "date": "2026-07-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/393",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/62f7d275adf4ea22bc36d49e6b4c0d486c90ab6c"
+    },
     {
       "sha": "0bd978482c",
       "message": "Refactor update config to use automatic retry of failed nodes for cluster fan out (#391)",

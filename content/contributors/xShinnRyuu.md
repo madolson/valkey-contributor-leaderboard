@@ -2,15 +2,23 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 370,
-  "commit_count": 107,
-  "review_count": 263,
+  "score": 372,
+  "commit_count": 108,
+  "review_count": 264,
   "repos": [
     ".github",
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "a0770b0fc5",
+      "message": "Java: Fix Dockerfile for AL2023 compatibility (#6634)",
+      "date": "2026-07-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6634",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a0770b0fc5be5cb249a655e6d1cfaa6480512c09"
+    },
     {
       "sha": "6fb198b706",
       "message": "feat(go): add mTLS client certificate support with automatic reload (#6384)",
@@ -869,6 +877,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a738816418",
+      "message": "Apply spring-javaformat to GLIDE classes (#98)",
+      "date": "2026-07-27",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/98",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/a73881641828f769a28c3464385c2ba966c54fc3"
+    },
+    {
+      "sha": "9e93e419d7",
+      "message": "chore(deps): bump the patch-updates group with 3 updates (#477)",
+      "date": "2026-07-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/477",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/9e93e419d728dc7fe229838623726b8195f957b2"
+    },
+    {
+      "sha": "4250cb61c1",
+      "message": "chore(deps): bump taiki-e/install-action from 2.83.2 to 2.84.0 in the minor-updates group (#478)",
+      "date": "2026-07-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/478",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4250cb61c19b8add5d9017200f079a370380cdac"
+    },
+    {
+      "sha": "ff9bfc488c",
+      "message": "chore(deps): bump actions/setup-python from 6.3.0 to 7.0.0 (#479)",
+      "date": "2026-07-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/479",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/ff9bfc488ccfe8374e2d1c89a12a04607ea66bf7"
+    },
+    {
+      "sha": "ff45f1d26c",
+      "message": "chore(deps): bump valkey-glide from `7467f00` to `6d9fae2` (#482)",
+      "date": "2026-07-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/482",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/ff45f1d26c5b2b5ef77e05d53c30263f1c0d317f"
+    },
+    {
+      "sha": "e2721fe430",
+      "message": "chore(deps): bump actions/setup-dotnet from 5.4.0 to 6.0.0 (#480)",
+      "date": "2026-07-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/480",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e2721fe430a9786344c987bf4357187d685313a3"
+    },
+    {
+      "sha": "8d9be73163",
+      "message": "chore(deps): bump tokio from 1.52.3 to 1.53.0 in /rust in the minor-updates group (#481)",
+      "date": "2026-07-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/481",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8d9be73163a4c303131d8a8eb71bb62ab504ebd3"
+    },
     {
       "sha": "6d9fae25ae",
       "message": "Updated attribution files for commit b8dc624ce2fe68cf21dbdb3247fadee8ededcbe4 (#6599)",

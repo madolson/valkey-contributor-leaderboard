@@ -2,15 +2,23 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 176,
-  "commit_count": 45,
-  "review_count": 131,
+  "score": 180,
+  "commit_count": 46,
+  "review_count": 134,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "a738816418",
+      "message": "Apply spring-javaformat to GLIDE classes (#98)",
+      "date": "2026-07-27",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/98",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/a73881641828f769a28c3464385c2ba966c54fc3"
+    },
     {
       "sha": "8a3bb2b8c1",
       "message": "Upgrade to Spring Boot 4 / Spring Framework 7 (#95)",
@@ -373,6 +381,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4339df1e90",
+      "message": "Java: Fix client rejecting commands from user shutdown hooks (#4809) (#6617)",
+      "date": "2026-07-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6617",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4339df1e9011aef30ee307d50d8ec830e43215e3"
+    },
+    {
+      "sha": "a0770b0fc5",
+      "message": "Java: Fix Dockerfile for AL2023 compatibility (#6634)",
+      "date": "2026-07-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6634",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a0770b0fc5be5cb249a655e6d1cfaa6480512c09"
+    },
+    {
+      "sha": "a0770b0fc5",
+      "message": "Java: Fix Dockerfile for AL2023 compatibility (#6634)",
+      "date": "2026-07-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6634",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a0770b0fc5be5cb249a655e6d1cfaa6480512c09"
+    },
     {
       "sha": "5432e9eded",
       "message": "feat(java): add asReadOnlyByteBuffer in GlideString to return zero-copy (#6601)",

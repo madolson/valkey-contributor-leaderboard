@@ -1056,6 +1056,22 @@
   ],
   "review_list": [
     {
+      "sha": "8a40f46533",
+      "message": "ci(deps): bump actions/checkout from 7.0.0 to 7.0.1 (#280)",
+      "date": "2026-07-27",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/280",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/8a40f46533d171c30ac84c6e07124f8895b5a260"
+    },
+    {
+      "sha": "fcca76ab86",
+      "message": "ci(deps): bump actions/setup-java from 5.5.0 to 5.6.0 (#281)",
+      "date": "2026-07-27",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/281",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/fcca76ab86cb82fc69ce4aa39cde6c63c6f6ad34"
+    },
+    {
       "sha": "5432e9eded",
       "message": "feat(java): add asReadOnlyByteBuffer in GlideString to return zero-copy (#6601)",
       "date": "2026-07-23",

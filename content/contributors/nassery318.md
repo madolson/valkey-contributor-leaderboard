@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 119,
-  "commit_count": 105,
+  "score": 120,
+  "commit_count": 106,
   "review_count": 14,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "62f7d275ad",
+      "message": "upon refresh take the user back to the view they were in (#393)",
+      "date": "2026-07-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/393",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/62f7d275adf4ea22bc36d49e6b4c0d486c90ab6c"
+    },
     {
       "sha": "58964f550b",
       "message": "added big key distribution chart and filtering (#390)",

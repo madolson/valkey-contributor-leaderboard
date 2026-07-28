@@ -2,14 +2,22 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 233,
-  "commit_count": 77,
-  "review_count": 156,
+  "score": 235,
+  "commit_count": 78,
+  "review_count": 157,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "4339df1e90",
+      "message": "Java: Fix client rejecting commands from user shutdown hooks (#4809) (#6617)",
+      "date": "2026-07-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6617",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4339df1e9011aef30ee307d50d8ec830e43215e3"
+    },
     {
       "sha": "bf3f63e9f6",
       "message": "Add `NodeDiscoveryMode` configuration option for standalone clients (#455)",
@@ -628,6 +636,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a0770b0fc5",
+      "message": "Java: Fix Dockerfile for AL2023 compatibility (#6634)",
+      "date": "2026-07-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6634",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a0770b0fc5be5cb249a655e6d1cfaa6480512c09"
+    },
     {
       "sha": "3f1e8250af",
       "message": "chore(deps): bump valkey-glide from `80cf119` to `7467f00` (#470)",

@@ -2,9 +2,9 @@
   "title": "alexr-bq",
   "login": "alexr-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/72045206?v=4",
-  "score": 194,
+  "score": 195,
   "commit_count": 48,
-  "review_count": 146,
+  "review_count": 147,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -398,6 +398,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "be92bbca4d",
+      "message": "feat: cross-language client pool and isolated execution scopes (#6338)",
+      "date": "2026-07-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6338",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/be92bbca4d8f834b7409379d2dec3c2c8e5b34f7"
+    },
     {
       "sha": "dbe2d47f88",
       "message": "refactor(core): Value::BulkString holds bytes::Bytes (zero-copy foundation) (#6524)",

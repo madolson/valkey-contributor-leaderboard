@@ -2,8 +2,8 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 227,
-  "commit_count": 118,
+  "score": 228,
+  "commit_count": 119,
   "review_count": 109,
   "repos": [
     "libvalkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "a7fa7bb8c7",
+      "message": "fix: set version/branch labels in valkey_operator_build_info metric (#336)",
+      "date": "2026-07-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/336",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a7fa7bb8c7751bcac442c1b1540a284876ac3652"
+    },
     {
       "sha": "3f2444a224",
       "message": "Add option to attach an adapter in valkeyAsyncConnectWithOptions() (#331)",
