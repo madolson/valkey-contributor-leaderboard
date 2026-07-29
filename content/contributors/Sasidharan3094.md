@@ -2,14 +2,22 @@
   "title": "Sasidharan3094",
   "login": "Sasidharan3094",
   "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
-  "score": 39,
-  "commit_count": 26,
+  "score": 40,
+  "commit_count": 27,
   "review_count": 13,
   "repos": [
     "valkey-glide",
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "9005f658ab",
+      "message": "Flatten nested Array/Hash command arguments, matching redis-client (#176)",
+      "date": "2026-07-28",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/176",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/9005f658ab768d0d1a6fd4b127e4239f985f169b"
+    },
     {
       "sha": "d053b27449",
       "message": "Updating eval & evalsha to adhere to flexible positional form like redis-rb (#174)",

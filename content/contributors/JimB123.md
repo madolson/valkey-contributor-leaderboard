@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 47,
+  "score": 48,
   "commit_count": 18,
-  "review_count": 29,
+  "review_count": 30,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -156,6 +156,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "aed05498ac",
+      "message": "Fix macOS unit test by wrapping test object symbols (#4281)",
+      "date": "2026-07-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4281",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/aed05498ac9e65f18ebb5beb57c47344ffc052c8"
+    },
     {
       "sha": "5ae43a4038",
       "message": "hashtable: scan no-duplicate guarantee and add HasPassedKey API (#3803)",

@@ -166700,6 +166700,359 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/336"
+    },
+    {
+      "sha": "0bf28b2dab6d21ea278fbaf1517b45e55d9b9c6f",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Parallelize Valgrind tests to reduce Daily Runtime (#4256)",
+      "date": "2026-07-29T03:42:59Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-07-23T23:02:05Z"
+        },
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-07-29T02:24:12Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4256"
+    },
+    {
+      "sha": "74249be76ff25a5c06c9eb8c40940692fc382535",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Add comment and test for bio RDB disk transfer receive timeout (#4277)",
+      "date": "2026-07-29T02:22:31Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-07-29T01:21:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4277"
+    },
+    {
+      "sha": "dc0411ae14d8faa64d6a01055c46d23b452ac566",
+      "author_login": "michellee-10",
+      "author_id": 138150328,
+      "avatar_url": "https://avatars.githubusercontent.com/u/138150328?v=4",
+      "message": "valkey-benchmark: fix -r option to support keyspace values above INT_MAX (#4252)",
+      "date": "2026-07-29T01:11:11Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-07-28T19:50:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4252"
+    },
+    {
+      "sha": "aed05498ac9e65f18ebb5beb57c47344ffc052c8",
+      "author_login": "harrylin98",
+      "author_id": 49881386,
+      "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
+      "message": "Fix macOS unit test by wrapping test object symbols (#4281)",
+      "date": "2026-07-28T20:53:33Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "JimB123",
+          "date": "2026-07-28T20:52:12Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4281"
+    },
+    {
+      "sha": "64265c9e4ffd4776e075dd8b22c0bfb1454bfc7c",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Upgrade to react-router 8.3 (#420)",
+      "date": "2026-07-28T16:28:37Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "nassery318",
+          "date": "2026-07-28T16:22:48Z"
+        },
+        {
+          "login": "ArgusLi",
+          "date": "2026-07-28T16:26:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/420"
+    },
+    {
+      "sha": "dff9f84a1c6e33064c62d2725a2e79533491eea5",
+      "author_login": "nassery318",
+      "author_id": 86083902,
+      "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
+      "message": "expanded the valkey commands list to include subcommands (#415)",
+      "date": "2026-07-28T16:23:28Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ravjotbrar",
+          "date": "2026-07-28T16:20:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/415"
+    },
+    {
+      "sha": "08c4a5e1fdbd26ba6b35b406ac3f86deead20a77",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "ci: remove Python 3.13t from test matrix (pyo3 0.29 requires 3.14t+ for free-threaded builds) (#6647)",
+      "date": "2026-07-28T17:53:54Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-28T16:11:02Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-28T17:52:54Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6647"
+    },
+    {
+      "sha": "afd2dbd2f58831b6fdb1ad1fec3cbb65fa23a0b7",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "Implement client Pause and Unpause command (#274)",
+      "date": "2026-07-28T18:22:13Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-07-28T15:41:00Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-07-28T17:55:22Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/274"
+    },
+    {
+      "sha": "9005f658ab768d0d1a6fd4b127e4239f985f169b",
+      "author_login": "Sasidharan3094",
+      "author_id": 56465593,
+      "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
+      "message": "Flatten nested Array/Hash command arguments, matching redis-client (#176)",
+      "date": "2026-07-28T08:57:23Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "pratheep-kumar",
+          "date": "2026-07-28T08:56:08Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/176"
+    },
+    {
+      "sha": "01b4fa404e638ca942c238670c4978e891de577b",
+      "author_login": "nantiferov",
+      "author_id": 75987872,
+      "avatar_url": "https://avatars.githubusercontent.com/u/75987872?v=4",
+      "message": "chore: Add description for valkey-operator log level configuration (#230)",
+      "date": "2026-07-28T09:28:42Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-07-28T09:28:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/230"
+    },
+    {
+      "sha": "d8a3f9f734105c494f4b0c6c9e0b6b2df98b501e",
+      "author_login": "stockholmux",
+      "author_id": 1152927,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
+      "message": "fix harbor blog post date (#614)",
+      "date": "2026-07-28T17:45:21Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-07-28T16:51:50Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/614"
+    },
+    {
+      "sha": "c2395516e9688fe20fd2b10ded475eb78a2f9b6d",
+      "author_login": "edithturn",
+      "author_id": 58795858,
+      "avatar_url": "https://avatars.githubusercontent.com/u/58795858?v=4",
+      "message": "Add blog post: Harbor Chose Valkey (#601)",
+      "date": "2026-07-28T16:35:33Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "stockholmux",
+          "date": "2026-07-24T19:09:24Z"
+        },
+        {
+          "login": "pnbrown",
+          "date": "2026-07-28T16:27:11Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/601"
+    },
+    {
+      "sha": "ec1282e6c07eeae84f0ac5095935b75e963b9419",
+      "author_login": "stockholmux",
+      "author_id": 1152927,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
+      "message": "adds a listing of author's post on their author profile (#612)",
+      "date": "2026-07-28T16:33:56Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-07-28T16:19:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/612"
+    },
+    {
+      "sha": "60c31ff3949c9ccf04afadbede0c4893c191af6d",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump actions/checkout from 7.0.0 to 7.0.1",
+      "date": "2026-07-28T14:02:59Z",
+      "repo": "valkey-lua5.5",
+      "reviewed": [
+        {
+          "login": "secwall",
+          "date": "2026-07-28T14:02:51Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/6"
+    },
+    {
+      "sha": "9c5e559f1c8cbe66b3dc3d2ee30d298e591f02ee",
+      "author_login": "secwall",
+      "author_id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "message": "Cleanup readme",
+      "date": "2026-07-20T18:37:38Z",
+      "repo": "valkey-lua5.5",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c8cdc25116ec18ace7abccf80e064515a071c8ac",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump softprops/action-gh-release from 3.0.0 to 3.0.2",
+      "date": "2026-07-20T17:55:23Z",
+      "repo": "valkey-lua5.5",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "689e276d914f3c3e1efb5c56850bd472f3652e69",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump actions/checkout from 6.0.3 to 7.0.0",
+      "date": "2026-07-20T10:27:55Z",
+      "repo": "valkey-lua5.5",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "712a3294630933151f5fd0db45792fbaf147875c",
+      "author_login": "secwall",
+      "author_id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "message": "Drop submodule tracking (no apropriate branches on upstream)",
+      "date": "2026-07-20T09:39:43Z",
+      "repo": "valkey-lua5.5",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "5c5496e371a3cb514de5a46adb82744e0bda4b46",
+      "author_login": "secwall",
+      "author_id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "message": "Add packaging support",
+      "date": "2026-07-20T06:08:15Z",
+      "repo": "valkey-lua5.5",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "598a3cc98ef595d3934557cdc61992bcc7edf47c",
+      "author_login": "secwall",
+      "author_id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "message": "Fix recursion",
+      "date": "2026-05-30T14:05:02Z",
+      "repo": "valkey-lua5.5",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "567a53ed9dd0409bd39d2b71860b812e7198c208",
+      "author_login": "secwall",
+      "author_id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "message": "Initial",
+      "date": "2026-05-29T15:28:12Z",
+      "repo": "valkey-lua5.5",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "22915ae640937c52bab90d38a49657e41c681367",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump deps/luajit from `a471ab7` to `faaf663`",
+      "date": "2026-07-28T19:05:06Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "secwall",
+          "date": "2026-07-28T19:04:59Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/47"
+    },
+    {
+      "sha": "42600522f63f1c2a688c3ff56e700f651f85f75b",
+      "author_login": "Carol-ggg",
+      "author_id": 213777065,
+      "avatar_url": "https://avatars.githubusercontent.com/u/213777065?v=4",
+      "message": "Expand shortened benchmark with write duration, mixed workload, NOCONTENT, and latency scenarios (#71)",
+      "date": "2026-07-29T01:56:25Z",
+      "repo": "valkey-perf-benchmark",
+      "reviewed": [
+        {
+          "login": "VoletiRam",
+          "date": "2026-07-29T01:55:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/71"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 235,
+  "score": 236,
   "commit_count": 78,
-  "review_count": 157,
+  "review_count": 158,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
@@ -636,6 +636,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "afd2dbd2f5",
+      "message": "Implement client Pause and Unpause command (#274)",
+      "date": "2026-07-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/274",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/afd2dbd2f58831b6fdb1ad1fec3cbb65fa23a0b7"
+    },
     {
       "sha": "a0770b0fc5",
       "message": "Java: Fix Dockerfile for AL2023 compatibility (#6634)",

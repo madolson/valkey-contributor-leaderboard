@@ -2,13 +2,21 @@
   "title": "Carol-ggg",
   "login": "Carol-ggg",
   "avatar_url": "https://avatars.githubusercontent.com/u/213777065?v=4",
-  "score": 7,
-  "commit_count": 7,
+  "score": 8,
+  "commit_count": 8,
   "review_count": 0,
   "repos": [
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "42600522f6",
+      "message": "Expand shortened benchmark with write duration, mixed workload, NOCONTENT, and latency scenarios (#71)",
+      "date": "2026-07-29",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/71",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/42600522f63f1c2a688c3ff56e700f651f85f75b"
+    },
     {
       "sha": "896cd8f4d0",
       "message": "Extend timeout for first time set up wiki download  (#69)",

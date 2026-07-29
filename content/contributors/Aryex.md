@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 214,
+  "score": 215,
   "commit_count": 66,
-  "review_count": 148,
+  "review_count": 149,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -546,6 +546,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "afd2dbd2f5",
+      "message": "Implement client Pause and Unpause command (#274)",
+      "date": "2026-07-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/274",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/afd2dbd2f58831b6fdb1ad1fec3cbb65fa23a0b7"
+    },
     {
       "sha": "8a3bb2b8c1",
       "message": "Upgrade to Spring Boot 4 / Spring Framework 7 (#95)",

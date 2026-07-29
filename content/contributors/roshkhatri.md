@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 394,
+  "score": 395,
   "commit_count": 146,
-  "review_count": 248,
+  "review_count": 249,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1189,6 +1189,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0bf28b2dab",
+      "message": "Parallelize Valgrind tests to reduce Daily Runtime (#4256)",
+      "date": "2026-07-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4256",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0bf28b2dab6d21ea278fbaf1517b45e55d9b9c6f"
+    },
     {
       "sha": "a9191f306b",
       "message": "Automated Updates for Valkey Bundle (#119)",

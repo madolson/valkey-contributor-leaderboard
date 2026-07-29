@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 391,
-  "commit_count": 130,
-  "review_count": 261,
+  "score": 393,
+  "commit_count": 131,
+  "review_count": 262,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "afd2dbd2f5",
+      "message": "Implement client Pause and Unpause command (#274)",
+      "date": "2026-07-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/274",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/afd2dbd2f58831b6fdb1ad1fec3cbb65fa23a0b7"
+    },
     {
       "sha": "5d46e05dcd",
       "message": "Implement reset command (#273)",
@@ -1055,6 +1063,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "08c4a5e1fd",
+      "message": "ci: remove Python 3.13t from test matrix (pyo3 0.29 requires 3.14t+ for free-threaded builds) (#6647)",
+      "date": "2026-07-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6647",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/08c4a5e1fdbd26ba6b35b406ac3f86deead20a77"
+    },
     {
       "sha": "8a40f46533",
       "message": "ci(deps): bump actions/checkout from 7.0.0 to 7.0.1 (#280)",

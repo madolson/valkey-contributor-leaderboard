@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 114,
+  "score": 115,
   "commit_count": 38,
-  "review_count": 76,
+  "review_count": 77,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -317,6 +317,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "01b4fa404e",
+      "message": "chore: Add description for valkey-operator log level configuration (#230)",
+      "date": "2026-07-28",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/230",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/01b4fa404e638ca942c238670c4978e891de577b"
+    },
     {
       "sha": "a7fa7bb8c7",
       "message": "fix: set version/branch labels in valkey_operator_build_info metric (#336)",

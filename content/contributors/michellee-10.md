@@ -2,13 +2,22 @@
   "title": "michellee-10",
   "login": "michellee-10",
   "avatar_url": "https://avatars.githubusercontent.com/u/138150328?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
+    "valkey",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "dc0411ae14",
+      "message": "valkey-benchmark: fix -r option to support keyspace values above INT_MAX (#4252)",
+      "date": "2026-07-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4252",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/dc0411ae14d8faa64d6a01055c46d23b452ac566"
+    },
     {
       "sha": "7823c4816a",
       "message": "Add section explaining how to interpret significance indicators (#63)",

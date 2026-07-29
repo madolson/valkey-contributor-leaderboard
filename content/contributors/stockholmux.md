@@ -2,14 +2,30 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 124,
-  "commit_count": 14,
-  "review_count": 110,
+  "score": 127,
+  "commit_count": 16,
+  "review_count": 111,
   "repos": [
     "valkey-io.github.io",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "d8a3f9f734",
+      "message": "fix harbor blog post date (#614)",
+      "date": "2026-07-28",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/614",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/d8a3f9f734105c494f4b0c6c9e0b6b2df98b501e"
+    },
+    {
+      "sha": "ec1282e6c0",
+      "message": "adds a listing of author's post on their author profile (#612)",
+      "date": "2026-07-28",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/612",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/ec1282e6c07eeae84f0ac5095935b75e963b9419"
+    },
     {
       "sha": "2da33c73d7",
       "message": "adds blog post _The secret life of data in Valkey_ (#575)",
@@ -124,6 +140,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c2395516e9",
+      "message": "Add blog post: Harbor Chose Valkey (#601)",
+      "date": "2026-07-28",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/601",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c2395516e9688fe20fd2b10ded475eb78a2f9b6d"
+    },
     {
       "sha": "0922b152d4",
       "message": "Add IONOS Cloud as participant (#604)",

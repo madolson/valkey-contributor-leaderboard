@@ -2,14 +2,22 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 163,
-  "commit_count": 95,
-  "review_count": 68,
+  "score": 165,
+  "commit_count": 96,
+  "review_count": 69,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "64265c9e4f",
+      "message": "Upgrade to react-router 8.3 (#420)",
+      "date": "2026-07-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/420",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/64265c9e4ffd4776e075dd8b22c0bfb1454bfc7c"
+    },
     {
       "sha": "6083555e54",
       "message": "Authorize both connectionId and nodeId at connect time (#419)",
@@ -772,6 +780,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dff9f84a1c",
+      "message": "expanded the valkey commands list to include subcommands (#415)",
+      "date": "2026-07-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/415",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/dff9f84a1c6e33064c62d2725a2e79533491eea5"
+    },
     {
       "sha": "62f7d275ad",
       "message": "upon refresh take the user back to the view they were in (#393)",

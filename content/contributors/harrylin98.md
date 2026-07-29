@@ -2,13 +2,21 @@
   "title": "harrylin98",
   "login": "harrylin98",
   "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
-  "score": 8,
-  "commit_count": 7,
+  "score": 9,
+  "commit_count": 8,
   "review_count": 1,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "aed05498ac",
+      "message": "Fix macOS unit test by wrapping test object symbols (#4281)",
+      "date": "2026-07-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4281",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/aed05498ac9e65f18ebb5beb57c47344ffc052c8"
+    },
     {
       "sha": "6c315de391",
       "message": "CI: add make test-unit to macOS build and auto-detect Homebrew LLVM path (#4123)",

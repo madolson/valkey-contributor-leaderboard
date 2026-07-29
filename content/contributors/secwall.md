@@ -181,6 +181,22 @@
       "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/858f2726b1504d085a4b531c4c1c4e4e66b2ded1"
     },
     {
+      "sha": "60c31ff394",
+      "message": "Bump actions/checkout from 7.0.0 to 7.0.1",
+      "date": "2026-07-28",
+      "repo": "valkey-lua5.5",
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/6",
+      "commit_url": "https://github.com/valkey-io/valkey-lua5.5/commit/60c31ff3949c9ccf04afadbede0c4893c191af6d"
+    },
+    {
+      "sha": "22915ae640",
+      "message": "Bump deps/luajit from `a471ab7` to `faaf663`",
+      "date": "2026-07-28",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/47",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/22915ae640937c52bab90d38a49657e41c681367"
+    },
+    {
       "sha": "9375575036",
       "message": "Bump deps/luajit from `2460b3f` to `346ab58`",
       "date": "2026-07-24",

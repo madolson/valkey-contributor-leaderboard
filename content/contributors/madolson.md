@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 870,
+  "score": 872,
   "commit_count": 194,
-  "review_count": 676,
+  "review_count": 678,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -1571,6 +1571,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d8a3f9f734",
+      "message": "fix harbor blog post date (#614)",
+      "date": "2026-07-28",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/614",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/d8a3f9f734105c494f4b0c6c9e0b6b2df98b501e"
+    },
+    {
+      "sha": "ec1282e6c0",
+      "message": "adds a listing of author's post on their author profile (#612)",
+      "date": "2026-07-28",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/612",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/ec1282e6c07eeae84f0ac5095935b75e963b9419"
+    },
     {
       "sha": "710a321fbe",
       "message": "Update 2026 events calendar (#587)",

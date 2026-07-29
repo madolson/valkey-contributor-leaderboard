@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 340,
-  "commit_count": 91,
-  "review_count": 249,
+  "score": 343,
+  "commit_count": 92,
+  "review_count": 251,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "0bf28b2dab",
+      "message": "Parallelize Valgrind tests to reduce Daily Runtime (#4256)",
+      "date": "2026-07-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4256",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0bf28b2dab6d21ea278fbaf1517b45e55d9b9c6f"
+    },
     {
       "sha": "e9cde41496",
       "message": "Add major decision auto-approval workflow (#4162)",
@@ -742,6 +750,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "74249be76f",
+      "message": "Add comment and test for bio RDB disk transfer receive timeout (#4277)",
+      "date": "2026-07-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4277",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/74249be76ff25a5c06c9eb8c40940692fc382535"
+    },
+    {
+      "sha": "dc0411ae14",
+      "message": "valkey-benchmark: fix -r option to support keyspace values above INT_MAX (#4252)",
+      "date": "2026-07-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4252",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/dc0411ae14d8faa64d6a01055c46d23b452ac566"
+    },
     {
       "sha": "dc1ccdd287",
       "message": "Parse recently closed Issues in case failures from Daily CI are addressed before Failure Detector runs (#73)",
