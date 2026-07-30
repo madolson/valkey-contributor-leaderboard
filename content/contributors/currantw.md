@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 246,
-  "commit_count": 146,
-  "review_count": 100,
+  "score": 248,
+  "commit_count": 147,
+  "review_count": 101,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "b2c4a6f766",
+      "message": "chore: Triage and clean up TODO comments (#473)",
+      "date": "2026-07-29",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/473",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/b2c4a6f766c09964494ae2dd205e8bc455a786ec"
+    },
     {
       "sha": "7fa25b664e",
       "message": "chore: code cleanup following new command PRs (#436\u2013#457) (#464)",
@@ -1184,6 +1192,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ba1ad81a4f",
+      "message": "feat(python): add automatic mTLS client certificate/key reload (#6596)",
+      "date": "2026-07-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6596",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ba1ad81a4fca9895f2174ce1d98f6951d6cd1579"
+    },
     {
       "sha": "9e93e419d7",
       "message": "chore(deps): bump the patch-updates group with 3 updates (#477)",

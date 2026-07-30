@@ -2,8 +2,8 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 260,
-  "commit_count": 99,
+  "score": 261,
+  "commit_count": 100,
   "review_count": 161,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "53ae957fd7",
+      "message": "feat: overload protection - 2 mechanisms to prevent an ever growing query queue  (#1276)",
+      "date": "2026-07-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1276",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/53ae957fd739beb409b90571efba135fc353cbca"
+    },
     {
       "sha": "a9a8b9ad21",
       "message": "Handle kOneReplicaPerShard in GetTargetsForSlot for single-slot indexes (#1226)",

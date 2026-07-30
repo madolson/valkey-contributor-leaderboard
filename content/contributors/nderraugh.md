@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 4,
+  "score": 5,
   "commit_count": 1,
-  "review_count": 3,
+  "review_count": 4,
   "repos": [
     "valkey-glide-ruby"
   ],
@@ -19,6 +19,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c0e1ab60fb",
+      "message": "feat(core): buffer pending requests during cluster reconnect with bounded recovery queue (#6640)",
+      "date": "2026-07-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6640",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c0e1ab60fb5785b355a87a938e9baebd1bf98dce"
+    },
     {
       "sha": "0d28671b68",
       "message": "docs: Debug documentation and usages (#267)",

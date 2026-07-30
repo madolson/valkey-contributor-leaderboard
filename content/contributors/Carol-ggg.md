@@ -2,8 +2,8 @@
   "title": "Carol-ggg",
   "login": "Carol-ggg",
   "avatar_url": "https://avatars.githubusercontent.com/u/213777065?v=4",
-  "score": 8,
-  "commit_count": 8,
+  "score": 10,
+  "commit_count": 10,
   "review_count": 0,
   "repos": [
     "valkey-perf-benchmark"
@@ -16,6 +16,22 @@
       "repo": "valkey-perf-benchmark",
       "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/71",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/42600522f63f1c2a688c3ff56e700f651f85f75b"
+    },
+    {
+      "sha": "a5452feba0",
+      "message": "update tests (#73)",
+      "date": "2026-07-29",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/73",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/a5452feba0ffdc56e3ba786648ebc65db334d1cb"
+    },
+    {
+      "sha": "9629f1b689",
+      "message": "update results uplaod (#72)",
+      "date": "2026-07-29",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/72",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/9629f1b6892764263e858efa53328e3053867171"
     },
     {
       "sha": "896cd8f4d0",

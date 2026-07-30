@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 181,
+  "score": 183,
   "commit_count": 47,
-  "review_count": 134,
+  "review_count": 136,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -389,6 +389,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ba1ad81a4f",
+      "message": "feat(python): add automatic mTLS client certificate/key reload (#6596)",
+      "date": "2026-07-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6596",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ba1ad81a4fca9895f2174ce1d98f6951d6cd1579"
+    },
+    {
+      "sha": "c0e1ab60fb",
+      "message": "feat(core): buffer pending requests during cluster reconnect with bounded recovery queue (#6640)",
+      "date": "2026-07-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6640",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c0e1ab60fb5785b355a87a938e9baebd1bf98dce"
+    },
     {
       "sha": "4339df1e90",
       "message": "Java: Fix client rejecting commands from user shutdown hooks (#4809) (#6617)",

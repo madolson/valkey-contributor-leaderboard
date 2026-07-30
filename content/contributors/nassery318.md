@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 122,
-  "commit_count": 107,
-  "review_count": 15,
+  "score": 125,
+  "commit_count": 108,
+  "review_count": 17,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "d0565c7f5e",
+      "message": "fix copy button postion and avoid it from moving on top of the command response (#427)",
+      "date": "2026-07-29",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/427",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/d0565c7f5e2a7344c185fae783e77f79cfb7dfea"
+    },
     {
       "sha": "dff9f84a1c",
       "message": "expanded the valkey commands list to include subcommands (#415)",
@@ -867,6 +875,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "358d19af82",
+      "message": "Fix closeMetricsServer sending wrong ID to metrics process (#428)",
+      "date": "2026-07-29",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/428",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/358d19af823c410ea3f51fb2db216d1eb1608b7d"
+    },
+    {
+      "sha": "766136fb47",
+      "message": "Fix number inputs snapping to unexpected values (#421)",
+      "date": "2026-07-29",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/421",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/766136fb478f813f84075960c70d4aa7befdc591"
+    },
     {
       "sha": "64265c9e4f",
       "message": "Upgrade to react-router 8.3 (#420)",

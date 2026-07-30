@@ -2,9 +2,9 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 47,
+  "score": 48,
   "commit_count": 21,
-  "review_count": 26,
+  "review_count": 27,
   "repos": [
     "valkey",
     "valkey-perf-benchmark",
@@ -189,6 +189,14 @@
       "repo": "valkey-perf-benchmark",
       "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/71",
       "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/42600522f63f1c2a688c3ff56e700f651f85f75b"
+    },
+    {
+      "sha": "a5452feba0",
+      "message": "update tests (#73)",
+      "date": "2026-07-29",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/73",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/a5452feba0ffdc56e3ba786648ebc65db334d1cb"
     },
     {
       "sha": "896cd8f4d0",

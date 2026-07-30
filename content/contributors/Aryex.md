@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 215,
+  "score": 216,
   "commit_count": 66,
-  "review_count": 149,
+  "review_count": 150,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -546,6 +546,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f1199aef06",
+      "message": "Add `Valkey::Future` placeholders for commands queued inside `pipelined`/`multi` (#192)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/192",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/f1199aef060c7c04258d7833c62bb1a556df00e6"
+    },
     {
       "sha": "afd2dbd2f5",
       "message": "Implement client Pause and Unpause command (#274)",

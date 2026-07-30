@@ -2,13 +2,29 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 92,
-  "commit_count": 62,
+  "score": 94,
+  "commit_count": 64,
   "review_count": 30,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "8710be1e55",
+      "message": "Add podman compose fallback. (#430)",
+      "date": "2026-07-29",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/430",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/8710be1e55ce59d318e6b9f5a9bde3b868785836"
+    },
+    {
+      "sha": "766136fb47",
+      "message": "Fix number inputs snapping to unexpected values (#421)",
+      "date": "2026-07-29",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/421",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/766136fb478f813f84075960c70d4aa7befdc591"
+    },
     {
       "sha": "0bd978482c",
       "message": "Refactor update config to use automatic retry of failed nodes for cluster fan out (#391)",

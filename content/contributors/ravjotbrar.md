@@ -2,14 +2,22 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 165,
-  "commit_count": 96,
-  "review_count": 69,
+  "score": 169,
+  "commit_count": 97,
+  "review_count": 72,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "358d19af82",
+      "message": "Fix closeMetricsServer sending wrong ID to metrics process (#428)",
+      "date": "2026-07-29",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/428",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/358d19af823c410ea3f51fb2db216d1eb1608b7d"
+    },
     {
       "sha": "64265c9e4f",
       "message": "Upgrade to react-router 8.3 (#420)",
@@ -780,6 +788,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8710be1e55",
+      "message": "Add podman compose fallback. (#430)",
+      "date": "2026-07-29",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/430",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/8710be1e55ce59d318e6b9f5a9bde3b868785836"
+    },
+    {
+      "sha": "d0565c7f5e",
+      "message": "fix copy button postion and avoid it from moving on top of the command response (#427)",
+      "date": "2026-07-29",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/427",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/d0565c7f5e2a7344c185fae783e77f79cfb7dfea"
+    },
+    {
+      "sha": "143d92ca5d",
+      "message": "Make search case-insensitive in Send Command view (#426)",
+      "date": "2026-07-29",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/426",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/143d92ca5d4335cd2dd6b97175d255f506b01531"
+    },
     {
       "sha": "dff9f84a1c",
       "message": "expanded the valkey commands list to include subcommands (#415)",

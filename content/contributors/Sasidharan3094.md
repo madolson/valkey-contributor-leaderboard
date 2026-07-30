@@ -2,14 +2,22 @@
   "title": "Sasidharan3094",
   "login": "Sasidharan3094",
   "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
-  "score": 40,
-  "commit_count": 27,
+  "score": 41,
+  "commit_count": 28,
   "review_count": 13,
   "repos": [
     "valkey-glide",
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "f1199aef06",
+      "message": "Add `Valkey::Future` placeholders for commands queued inside `pipelined`/`multi` (#192)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/192",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/f1199aef060c7c04258d7833c62bb1a556df00e6"
+    },
     {
       "sha": "9005f658ab",
       "message": "Flatten nested Array/Hash command arguments, matching redis-client (#176)",

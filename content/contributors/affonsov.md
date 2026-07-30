@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 235,
-  "commit_count": 91,
+  "score": 236,
+  "commit_count": 92,
   "review_count": 144,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "c0e1ab60fb",
+      "message": "feat(core): buffer pending requests during cluster reconnect with bounded recovery queue (#6640)",
+      "date": "2026-07-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6640",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c0e1ab60fb5785b355a87a938e9baebd1bf98dce"
+    },
     {
       "sha": "9f9c942915",
       "message": "Python: fix MonitorClient trio compatibility via anyio (#6327)",
@@ -742,6 +750,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c0842b0797",
+      "message": "build(deps): bump tokio from 1.52.3 to 1.53.1 in /java in the minor-updates group across 1 directory (#6567)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6567",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c0842b07978261b09318e2f5fb44f978974e00cf"
+    },
+    {
+      "sha": "0b60899f44",
+      "message": "build(deps-dev): bump lint-staged from 17.0.8 to 17.2.0 in /node in the minor-updates group across 1 directory (#6563)",
+      "date": "2026-07-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6563",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0b60899f442f48439be489bdd129647929322f65"
+    },
+    {
+      "sha": "d7813de0e6",
+      "message": "build(deps): bump bytes from 1.12.0 to 1.12.1 in /python/glide-async in the patch-updates group across 1 directory (#6569)",
+      "date": "2026-07-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6569",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d7813de0e676eb1301a18fe279197c70de77ca23"
+    },
+    {
+      "sha": "945c4d25e7",
+      "message": "Updated attribution files for commit 08c4a5e1fdbd26ba6b35b406ac3f86deead20a77 (#6644)",
+      "date": "2026-07-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6644",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/945c4d25e7e1b4eef71b3d4762164fe7466a294d"
+    },
+    {
+      "sha": "4757797a6d",
+      "message": "build(deps): bump the minor-updates group across 1 directory with 3 updates (#6575)",
+      "date": "2026-07-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6575",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4757797a6d5f176ce105d364f8c4b3acbd56f7fd"
+    },
+    {
+      "sha": "e8bbb805a6",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 2 updates (#6614)",
+      "date": "2026-07-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6614",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e8bbb805a6724f4f8f36384290f5fa986e70c291"
+    },
+    {
+      "sha": "f8348b06f6",
+      "message": "build(deps): bump rustls-pki-types from 1.15.0 to 1.15.1 in /glide-core/redis-rs in the patch-updates group (#6636)",
+      "date": "2026-07-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6636",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f8348b06f6c3b6e62619744d376ec685d7e83288"
+    },
     {
       "sha": "4339df1e90",
       "message": "Java: Fix client rejecting commands from user shutdown hooks (#4809) (#6617)",

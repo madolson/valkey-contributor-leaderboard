@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 89,
+  "score": 90,
   "commit_count": 36,
-  "review_count": 53,
+  "review_count": 54,
   "repos": [
     "valkey",
     "valkey-io.github.io",
@@ -301,6 +301,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "53ae957fd7",
+      "message": "feat: overload protection - 2 mechanisms to prevent an ever growing query queue  (#1276)",
+      "date": "2026-07-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1276",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/53ae957fd739beb409b90571efba135fc353cbca"
+    },
     {
       "sha": "578a75a376",
       "message": "fix hardcoded db_num in metadata_manager.cc (#1259)",
