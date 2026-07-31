@@ -2,9 +2,9 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 125,
+  "score": 126,
   "commit_count": 108,
-  "review_count": 17,
+  "review_count": 18,
   "repos": [
     "valkey-admin"
   ],
@@ -875,6 +875,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4c48393af8",
+      "message": "Update version and learn more link (#435)",
+      "date": "2026-07-30",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/435",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/4c48393af8a8f7b899a40fdbf862e0adf0e548eb"
+    },
     {
       "sha": "358d19af82",
       "message": "Fix closeMetricsServer sending wrong ID to metrics process (#428)",

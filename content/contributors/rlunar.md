@@ -2,9 +2,9 @@
   "title": "rlunar",
   "login": "rlunar",
   "avatar_url": "https://avatars.githubusercontent.com/u/2453805?v=4",
-  "score": 17,
+  "score": 19,
   "commit_count": 11,
-  "review_count": 6,
+  "review_count": 8,
   "repos": [
     "valkey-bundle",
     "valkey-io.github.io",
@@ -101,6 +101,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c4a402fef5",
+      "message": "Change blog post date to July 30, 2026 (#620)",
+      "date": "2026-07-30",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/620",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c4a402fef521947fae61b30fcb8ca0200782731e"
+    },
+    {
+      "sha": "cf409cd570",
+      "message": "Add blog post: Unlocked Healthy Opportunities (#600)",
+      "date": "2026-07-30",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/600",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/cf409cd570723e4de9685312f46748b8ca34ef22"
+    },
     {
       "sha": "0922b152d4",
       "message": "Add IONOS Cloud as participant (#604)",

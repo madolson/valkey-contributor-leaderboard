@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 248,
-  "commit_count": 147,
-  "review_count": 101,
+  "score": 253,
+  "commit_count": 148,
+  "review_count": 105,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -14,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "cf3d56f080",
+      "message": "feat(utils): support cluster-announce-hostname in cluster_manager.py (#6667)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6667",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cf3d56f08075dec7f6bab38395a6d85050b493bb"
+    },
     {
       "sha": "b2c4a6f766",
       "message": "chore: Triage and clean up TODO comments (#473)",
@@ -1192,6 +1200,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c507d550c3",
+      "message": "FFI: Percent-decode userinfo in `create_client_from_uri` (#6660)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6660",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c507d550c326210c88f600aaa4c3806ec8c29a6d"
+    },
+    {
+      "sha": "02a1969604",
+      "message": "Add Ruby supported commands (#302)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/302",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/02a1969604dc99a978e3048f1171c6b46eb6d85d"
+    },
+    {
+      "sha": "1a7515cb4e",
+      "message": "Add circuit breaker configuration support (#277)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/277",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/1a7515cb4eae70bf47c30ec3bd7a4a590bd5a42b"
+    },
+    {
+      "sha": "c2cfab87e2",
+      "message": "Implement migrate command (#276)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/276",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/c2cfab87e2892e1a63554ef1fdb0294969f07edb"
+    },
     {
       "sha": "ba1ad81a4f",
       "message": "feat(python): add automatic mTLS client certificate/key reload (#6596)",

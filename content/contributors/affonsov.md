@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 236,
+  "score": 240,
   "commit_count": 92,
-  "review_count": 144,
+  "review_count": 148,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -757,6 +757,38 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6567",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c0842b07978261b09318e2f5fb44f978974e00cf"
+    },
+    {
+      "sha": "c67e8f18a3",
+      "message": "Python: stabilize flaky cluster tests and fix trio pub/sub BusyResourceError (auth, atomic batch, script finalizers, trio pub/sub) (#6605)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6605",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c67e8f18a3b26302b69f184ec95dc0bacd0d2fcf"
+    },
+    {
+      "sha": "c67e8f18a3",
+      "message": "Python: stabilize flaky cluster tests and fix trio pub/sub BusyResourceError (auth, atomic batch, script finalizers, trio pub/sub) (#6605)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6605",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c67e8f18a3b26302b69f184ec95dc0bacd0d2fcf"
+    },
+    {
+      "sha": "c507d550c3",
+      "message": "FFI: Percent-decode userinfo in `create_client_from_uri` (#6660)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6660",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c507d550c326210c88f600aaa4c3806ec8c29a6d"
+    },
+    {
+      "sha": "02a1969604",
+      "message": "Add Ruby supported commands (#302)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/302",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/02a1969604dc99a978e3048f1171c6b46eb6d85d"
     },
     {
       "sha": "0b60899f44",

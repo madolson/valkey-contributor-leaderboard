@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 94,
+  "score": 96,
   "commit_count": 64,
-  "review_count": 30,
+  "review_count": 32,
   "repos": [
     "valkey-admin"
   ],
@@ -523,6 +523,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e6a6e804cc",
+      "message": "Fix hot keys returning empty on first MONITOR cycle (#434)",
+      "date": "2026-07-30",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/434",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/e6a6e804ccee6dac64157ee631135248769a020c"
+    },
+    {
+      "sha": "37e80cc8ea",
+      "message": "Handle monitor stop gracefully when metrics server is dead (#431)",
+      "date": "2026-07-30",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/431",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/37e80cc8eac7dff8ed9993b22ef2ec6d8ccadbf6"
+    },
     {
       "sha": "64265c9e4f",
       "message": "Upgrade to react-router 8.3 (#420)",

@@ -2,13 +2,21 @@
   "title": "Carol-ggg",
   "login": "Carol-ggg",
   "avatar_url": "https://avatars.githubusercontent.com/u/213777065?v=4",
-  "score": 10,
-  "commit_count": 10,
+  "score": 11,
+  "commit_count": 11,
   "review_count": 0,
   "repos": [
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "e3056ff10d",
+      "message": "Update push_to_postgres dir, remove cluster mode from test (#74)",
+      "date": "2026-07-30",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/74",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/e3056ff10dcadb5b014f6b4819c4d0e1c5d9bfc1"
+    },
     {
       "sha": "42600522f6",
       "message": "Expand shortened benchmark with write duration, mixed workload, NOCONTENT, and latency scenarios (#71)",

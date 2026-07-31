@@ -2,14 +2,38 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 169,
-  "commit_count": 97,
+  "score": 172,
+  "commit_count": 100,
   "review_count": 72,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "4c48393af8",
+      "message": "Update version and learn more link (#435)",
+      "date": "2026-07-30",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/435",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/4c48393af8a8f7b899a40fdbf862e0adf0e548eb"
+    },
+    {
+      "sha": "e6a6e804cc",
+      "message": "Fix hot keys returning empty on first MONITOR cycle (#434)",
+      "date": "2026-07-30",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/434",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/e6a6e804ccee6dac64157ee631135248769a020c"
+    },
+    {
+      "sha": "37e80cc8ea",
+      "message": "Handle monitor stop gracefully when metrics server is dead (#431)",
+      "date": "2026-07-30",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/431",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/37e80cc8eac7dff8ed9993b22ef2ec6d8ccadbf6"
+    },
     {
       "sha": "358d19af82",
       "message": "Fix closeMetricsServer sending wrong ID to metrics process (#428)",

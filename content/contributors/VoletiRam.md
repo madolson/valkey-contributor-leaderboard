@@ -2,9 +2,9 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 48,
+  "score": 49,
   "commit_count": 21,
-  "review_count": 27,
+  "review_count": 28,
   "repos": [
     "valkey",
     "valkey-perf-benchmark",
@@ -182,6 +182,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e3056ff10d",
+      "message": "Update push_to_postgres dir, remove cluster mode from test (#74)",
+      "date": "2026-07-30",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/74",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/e3056ff10dcadb5b014f6b4819c4d0e1c5d9bfc1"
+    },
     {
       "sha": "42600522f6",
       "message": "Expand shortened benchmark with write duration, mixed workload, NOCONTENT, and latency scenarios (#71)",

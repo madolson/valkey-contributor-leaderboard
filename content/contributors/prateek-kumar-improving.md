@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 393,
-  "commit_count": 131,
-  "review_count": 262,
+  "score": 395,
+  "commit_count": 132,
+  "review_count": 263,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "c2cfab87e2",
+      "message": "Implement migrate command (#276)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/276",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/c2cfab87e2892e1a63554ef1fdb0294969f07edb"
+    },
     {
       "sha": "afd2dbd2f5",
       "message": "Implement client Pause and Unpause command (#274)",
@@ -1063,6 +1071,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1a7515cb4e",
+      "message": "Add circuit breaker configuration support (#277)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/277",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/1a7515cb4eae70bf47c30ec3bd7a4a590bd5a42b"
+    },
     {
       "sha": "08c4a5e1fd",
       "message": "ci: remove Python 3.13t from test matrix (pyo3 0.29 requires 3.14t+ for free-threaded builds) (#6647)",

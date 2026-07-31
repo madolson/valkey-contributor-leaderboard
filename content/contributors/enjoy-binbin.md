@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 926,
-  "commit_count": 367,
+  "score": 927,
+  "commit_count": 368,
   "review_count": 559,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "6df96c44ce",
+      "message": "Optimize notifyKeyspaceEvent to avoid unnecessary allocations (#4285)",
+      "date": "2026-07-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4285",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6df96c44ceb3a4eaf32e3bd6518c5ea095e31744"
+    },
     {
       "sha": "74249be76f",
       "message": "Add comment and test for bio RDB disk transfer receive timeout (#4277)",

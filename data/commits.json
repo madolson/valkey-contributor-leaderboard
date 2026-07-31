@@ -167401,6 +167401,290 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1276"
+    },
+    {
+      "sha": "6df96c44ceb3a4eaf32e3bd6518c5ea095e31744",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Optimize notifyKeyspaceEvent to avoid unnecessary allocations (#4285)",
+      "date": "2026-07-31T06:44:56Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-07-31T03:37:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4285"
+    },
+    {
+      "sha": "4c48393af8a8f7b899a40fdbf862e0adf0e548eb",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Update version and learn more link (#435)",
+      "date": "2026-07-30T19:00:29Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "nassery318",
+          "date": "2026-07-30T17:35:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/435"
+    },
+    {
+      "sha": "e6a6e804ccee6dac64157ee631135248769a020c",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Fix hot keys returning empty on first MONITOR cycle (#434)",
+      "date": "2026-07-30T18:59:10Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ArgusLi",
+          "date": "2026-07-30T18:46:36Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/434"
+    },
+    {
+      "sha": "37e80cc8eac7dff8ed9993b22ef2ec6d8ccadbf6",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Handle monitor stop gracefully when metrics server is dead (#431)",
+      "date": "2026-07-30T18:56:05Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ArgusLi",
+          "date": "2026-07-30T18:41:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/431"
+    },
+    {
+      "sha": "cf3d56f08075dec7f6bab38395a6d85050b493bb",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "feat(utils): support cluster-announce-hostname in cluster_manager.py (#6667)",
+      "date": "2026-07-30T21:43:28Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-07-30T20:35:52Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-07-30T20:39:56Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6667"
+    },
+    {
+      "sha": "c67e8f18a3b26302b69f184ec95dc0bacd0d2fcf",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Python: stabilize flaky cluster tests and fix trio pub/sub BusyResourceError (auth, atomic batch, script finalizers, trio pub/sub) (#6605)",
+      "date": "2026-07-30T18:34:58Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-07-24T15:43:12Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-07-24T19:34:42Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-07-28T18:27:31Z"
+        },
+        {
+          "login": "jeremyprime",
+          "date": "2026-07-28T18:48:38Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-07-28T21:28:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6605"
+    },
+    {
+      "sha": "c507d550c326210c88f600aaa4c3806ec8c29a6d",
+      "author_login": "jamesx-improving",
+      "author_id": 126831592,
+      "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
+      "message": "FFI: Percent-decode userinfo in `create_client_from_uri` (#6660)",
+      "date": "2026-07-30T16:19:52Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-07-29T23:27:26Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-07-30T15:04:18Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-07-30T15:30:34Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6660"
+    },
+    {
+      "sha": "02a1969604dc99a978e3048f1171c6b46eb6d85d",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "Add Ruby supported commands (#302)",
+      "date": "2026-07-30T21:59:52Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-07-28T20:19:36Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-07-28T23:56:36Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/302"
+    },
+    {
+      "sha": "1a7515cb4eae70bf47c30ec3bd7a4a590bd5a42b",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "Add circuit breaker configuration support (#277)",
+      "date": "2026-07-30T20:53:51Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-07-29T08:07:03Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-07-29T17:16:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/277"
+    },
+    {
+      "sha": "c2cfab87e2892e1a63554ef1fdb0294969f07edb",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "Implement migrate command (#276)",
+      "date": "2026-07-30T17:17:13Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-07-29T21:03:01Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-07-30T17:11:12Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/276"
+    },
+    {
+      "sha": "c4a402fef521947fae61b30fcb8ca0200782731e",
+      "author_login": "crystalphamLF",
+      "author_id": 211876879,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
+      "message": "Change blog post date to July 30, 2026 (#620)",
+      "date": "2026-07-30T22:23:31Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "rlunar",
+          "date": "2026-07-30T22:23:25Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/620"
+    },
+    {
+      "sha": "cf409cd570723e4de9685312f46748b8ca34ef22",
+      "author_login": "crystalphamLF",
+      "author_id": 211876879,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
+      "message": "Add blog post: Unlocked Healthy Opportunities (#600)",
+      "date": "2026-07-30T22:16:26Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "rlunar",
+          "date": "2026-07-30T21:31:14Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/600"
+    },
+    {
+      "sha": "05010b1afe27976bc174790e006d22b52bb3813f",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "feat: Add zone scheduling axis (#340)",
+      "date": "2026-07-30T14:13:09Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-07-30T10:29:12Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/340"
+    },
+    {
+      "sha": "7b0299469398a0fee726768d03b2e5ed0cea96ed",
+      "author_login": "tkarger",
+      "author_id": 49390121,
+      "avatar_url": "https://avatars.githubusercontent.com/u/49390121?v=4",
+      "message": "test: add e2e test for operator permissions (#245)",
+      "date": "2026-07-30T09:30:43Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-07-29T15:20:28Z"
+        },
+        {
+          "login": "jdheyburn",
+          "date": "2026-07-30T09:30:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/245"
+    },
+    {
+      "sha": "e3056ff10dcadb5b014f6b4819c4d0e1c5d9bfc1",
+      "author_login": "Carol-ggg",
+      "author_id": 213777065,
+      "avatar_url": "https://avatars.githubusercontent.com/u/213777065?v=4",
+      "message": "Update push_to_postgres dir, remove cluster mode from test (#74)",
+      "date": "2026-07-30T18:12:49Z",
+      "repo": "valkey-perf-benchmark",
+      "reviewed": [
+        {
+          "login": "VoletiRam",
+          "date": "2026-07-30T18:07:03Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/74"
     }
   ]
 }

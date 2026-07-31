@@ -2,14 +2,22 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 237,
-  "commit_count": 78,
-  "review_count": 159,
+  "score": 240,
+  "commit_count": 79,
+  "review_count": 161,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "c507d550c3",
+      "message": "FFI: Percent-decode userinfo in `create_client_from_uri` (#6660)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6660",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c507d550c326210c88f600aaa4c3806ec8c29a6d"
+    },
     {
       "sha": "4339df1e90",
       "message": "Java: Fix client rejecting commands from user shutdown hooks (#4809) (#6617)",
@@ -636,6 +644,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cf3d56f080",
+      "message": "feat(utils): support cluster-announce-hostname in cluster_manager.py (#6667)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6667",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cf3d56f08075dec7f6bab38395a6d85050b493bb"
+    },
+    {
+      "sha": "c67e8f18a3",
+      "message": "Python: stabilize flaky cluster tests and fix trio pub/sub BusyResourceError (auth, atomic batch, script finalizers, trio pub/sub) (#6605)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6605",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c67e8f18a3b26302b69f184ec95dc0bacd0d2fcf"
+    },
     {
       "sha": "b2c4a6f766",
       "message": "chore: Triage and clean up TODO comments (#473)",

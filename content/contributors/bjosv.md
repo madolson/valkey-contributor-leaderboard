@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 228,
+  "score": 230,
   "commit_count": 119,
-  "review_count": 109,
+  "review_count": 111,
   "repos": [
     "libvalkey",
     "valkey",
@@ -967,6 +967,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "05010b1afe",
+      "message": "feat: Add zone scheduling axis (#340)",
+      "date": "2026-07-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/340",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/05010b1afe27976bc174790e006d22b52bb3813f"
+    },
+    {
+      "sha": "7b02994693",
+      "message": "test: add e2e test for operator permissions (#245)",
+      "date": "2026-07-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/245",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/7b0299469398a0fee726768d03b2e5ed0cea96ed"
+    },
     {
       "sha": "1c64d35ba4",
       "message": "fix: Set debug level for \"getting system users secret\" output (#330)",

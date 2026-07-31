@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 216,
-  "commit_count": 66,
-  "review_count": 150,
+  "score": 219,
+  "commit_count": 67,
+  "review_count": 152,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "02a1969604",
+      "message": "Add Ruby supported commands (#302)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/302",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/02a1969604dc99a978e3048f1171c6b46eb6d85d"
+    },
     {
       "sha": "9c271bd599",
       "message": "docs: Java server-assisted client-side caching (#251)",
@@ -553,6 +561,22 @@
       "repo": "valkey-glide-ruby",
       "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/192",
       "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/f1199aef060c7c04258d7833c62bb1a556df00e6"
+    },
+    {
+      "sha": "c507d550c3",
+      "message": "FFI: Percent-decode userinfo in `create_client_from_uri` (#6660)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6660",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c507d550c326210c88f600aaa4c3806ec8c29a6d"
+    },
+    {
+      "sha": "c2cfab87e2",
+      "message": "Implement migrate command (#276)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/276",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/c2cfab87e2892e1a63554ef1fdb0294969f07edb"
     },
     {
       "sha": "afd2dbd2f5",

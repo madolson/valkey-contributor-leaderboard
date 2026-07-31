@@ -2,15 +2,23 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 376,
-  "commit_count": 109,
-  "review_count": 267,
+  "score": 378,
+  "commit_count": 110,
+  "review_count": 268,
   "repos": [
     ".github",
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "c67e8f18a3",
+      "message": "Python: stabilize flaky cluster tests and fix trio pub/sub BusyResourceError (auth, atomic batch, script finalizers, trio pub/sub) (#6605)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6605",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c67e8f18a3b26302b69f184ec95dc0bacd0d2fcf"
+    },
     {
       "sha": "ba1ad81a4f",
       "message": "feat(python): add automatic mTLS client certificate/key reload (#6596)",
@@ -892,6 +900,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6567",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c0842b07978261b09318e2f5fb44f978974e00cf"
+    },
+    {
+      "sha": "cf3d56f080",
+      "message": "feat(utils): support cluster-announce-hostname in cluster_manager.py (#6667)",
+      "date": "2026-07-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6667",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cf3d56f08075dec7f6bab38395a6d85050b493bb"
     },
     {
       "sha": "0b60899f44",

@@ -2,15 +2,23 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 115,
-  "commit_count": 38,
-  "review_count": 77,
+  "score": 117,
+  "commit_count": 39,
+  "review_count": 78,
   "repos": [
     "valkey",
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "05010b1afe",
+      "message": "feat: Add zone scheduling axis (#340)",
+      "date": "2026-07-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/340",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/05010b1afe27976bc174790e006d22b52bb3813f"
+    },
     {
       "sha": "f5a327bfd0",
       "message": "Release Valkey Operator 0.4 (#222)",
@@ -317,6 +325,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7b02994693",
+      "message": "test: add e2e test for operator permissions (#245)",
+      "date": "2026-07-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/245",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/7b0299469398a0fee726768d03b2e5ed0cea96ed"
+    },
     {
       "sha": "01b4fa404e",
       "message": "chore: Add description for valkey-operator log level configuration (#230)",
