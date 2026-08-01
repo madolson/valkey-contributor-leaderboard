@@ -2,14 +2,22 @@
   "title": "cjx-zar",
   "login": "cjx-zar",
   "avatar_url": "https://avatars.githubusercontent.com/u/56825069?v=4",
-  "score": 8,
-  "commit_count": 7,
+  "score": 9,
+  "commit_count": 8,
   "review_count": 1,
   "repos": [
     "valkey",
     "valkey-bloom"
   ],
   "commit_list": [
+    {
+      "sha": "8eaefda4fd",
+      "message": "Fix MOVE/COPY command skip the current-DB ACL check (#4155)",
+      "date": "2026-07-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4155",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8eaefda4fdf8614632ea6e90fc97112aeb2b4f4d"
+    },
     {
       "sha": "c03970afd1",
       "message": "stream: strip redundant LIMIT when rewriting XADD/XTRIM for propagation (#4063)",

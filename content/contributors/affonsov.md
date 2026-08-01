@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 240,
+  "score": 243,
   "commit_count": 92,
-  "review_count": 148,
+  "review_count": 151,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -750,6 +750,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4bf26772fe",
+      "message": "Updated attribution files for commit cf3d56f08075dec7f6bab38395a6d85050b493bb (#6662)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6662",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4bf26772fe68e1b148f115da51320b503eaa95d4"
+    },
+    {
+      "sha": "4f74de20b0",
+      "message": "feat(node): add mTLS client certificate/key support with automatic certificate reloading (#6383)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6383",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4f74de20b02acb14cd2e244006ea53637484271c"
+    },
+    {
+      "sha": "bf93881b8e",
+      "message": "Valkey-Glide fix ort workflow to prevent stale ORT PRs (#6552)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6552",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bf93881b8e8597b5c473a603959c24f9c555a8a1"
+    },
+    {
+      "sha": "292bee8521",
+      "message": "Consolidate redundant command implementations into BaseClient (#498)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/498",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/292bee85215b2833c390662043f2b881228b6cb5"
+    },
     {
       "sha": "c0842b0797",
       "message": "build(deps): bump tokio from 1.52.3 to 1.53.1 in /java in the minor-updates group across 1 directory (#6567)",

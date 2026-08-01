@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 102,
+  "score": 103,
   "commit_count": 24,
-  "review_count": 78,
+  "review_count": 79,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -206,6 +206,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8eaefda4fd",
+      "message": "Fix MOVE/COPY command skip the current-DB ACL check (#4155)",
+      "date": "2026-07-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4155",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8eaefda4fdf8614632ea6e90fc97112aeb2b4f4d"
+    },
+    {
+      "sha": "b11ad174ab",
+      "message": "Bump github/codeql-action from 4 to 4.37.3 (#7)",
+      "date": "2026-07-31",
+      "repo": "valkey-lua5.5",
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/7",
+      "commit_url": "https://github.com/valkey-io/valkey-lua5.5/commit/b11ad174ab0980928b898625de034f0be53b3982"
+    },
+    {
+      "sha": "7264b85f51",
+      "message": "Bump github/codeql-action from 4 to 4.37.3",
+      "date": "2026-07-31",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/48",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/7264b85f51969eb08d53ef43ff9c69ad021c0667"
+    },
     {
       "sha": "ea73ab3595",
       "message": "Drop Fedora 42 (EOL) (#41)",

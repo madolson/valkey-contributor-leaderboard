@@ -2,15 +2,23 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 378,
-  "commit_count": 110,
-  "review_count": 268,
+  "score": 384,
+  "commit_count": 111,
+  "review_count": 273,
   "repos": [
     ".github",
     "valkey-glide",
     "valkey-glide-csharp"
   ],
   "commit_list": [
+    {
+      "sha": "4f74de20b0",
+      "message": "feat(node): add mTLS client certificate/key support with automatic certificate reloading (#6383)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6383",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4f74de20b02acb14cd2e244006ea53637484271c"
+    },
     {
       "sha": "c67e8f18a3",
       "message": "Python: stabilize flaky cluster tests and fix trio pub/sub BusyResourceError (auth, atomic batch, script finalizers, trio pub/sub) (#6605)",
@@ -893,6 +901,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bf93881b8e",
+      "message": "Valkey-Glide fix ort workflow to prevent stale ORT PRs (#6552)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6552",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bf93881b8e8597b5c473a603959c24f9c555a8a1"
+    },
+    {
+      "sha": "bf93881b8e",
+      "message": "Valkey-Glide fix ort workflow to prevent stale ORT PRs (#6552)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6552",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bf93881b8e8597b5c473a603959c24f9c555a8a1"
+    },
+    {
+      "sha": "3ce4ed2f34",
+      "message": "fix(client): GetServers() throws FormatException on DNS hostnames (#497)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/497",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3ce4ed2f3410926c5da07ece9e30105211706f9b"
+    },
+    {
+      "sha": "292bee8521",
+      "message": "Consolidate redundant command implementations into BaseClient (#498)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/498",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/292bee85215b2833c390662043f2b881228b6cb5"
+    },
+    {
+      "sha": "1adddc712c",
+      "message": "dev(clean): Fix labels, add `address_resolver` clarification, xUnit1051 (#489)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/489",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/1adddc712cddf6d2e0499af0c5097241980f58ab"
+    },
     {
       "sha": "c0842b0797",
       "message": "build(deps): bump tokio from 1.52.3 to 1.53.1 in /java in the minor-updates group across 1 directory (#6567)",

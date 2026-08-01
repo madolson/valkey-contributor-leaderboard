@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 219,
+  "score": 220,
   "commit_count": 67,
-  "review_count": 152,
+  "review_count": 153,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -554,6 +554,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1adddc712c",
+      "message": "dev(clean): Fix labels, add `address_resolver` clarification, xUnit1051 (#489)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/489",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/1adddc712cddf6d2e0499af0c5097241980f58ab"
+    },
     {
       "sha": "f1199aef06",
       "message": "Add `Valkey::Future` placeholders for commands queued inside `pipelined`/`multi` (#192)",

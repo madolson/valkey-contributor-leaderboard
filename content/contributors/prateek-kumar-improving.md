@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 395,
-  "commit_count": 132,
-  "review_count": 263,
+  "score": 399,
+  "commit_count": 133,
+  "review_count": 266,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "bf93881b8e",
+      "message": "Valkey-Glide fix ort workflow to prevent stale ORT PRs (#6552)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6552",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bf93881b8e8597b5c473a603959c24f9c555a8a1"
+    },
     {
       "sha": "c2cfab87e2",
       "message": "Implement migrate command (#276)",
@@ -1071,6 +1079,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4bf26772fe",
+      "message": "Updated attribution files for commit cf3d56f08075dec7f6bab38395a6d85050b493bb (#6662)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6662",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4bf26772fe68e1b148f115da51320b503eaa95d4"
+    },
+    {
+      "sha": "3ce4ed2f34",
+      "message": "fix(client): GetServers() throws FormatException on DNS hostnames (#497)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/497",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3ce4ed2f3410926c5da07ece9e30105211706f9b"
+    },
+    {
+      "sha": "35943e82c1",
+      "message": "Add circuit breaker configuration support (#483)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/483",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/35943e82c162372b5d25a5a4202fff8913bb4cff"
+    },
+    {
+      "sha": "beb708829d",
+      "message": "docs: add PHP circuit breaker examples (#275)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/275",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/beb708829df4e073cdf7fdc55dc33c346fe75693"
+    },
     {
       "sha": "1a7515cb4e",
       "message": "Add circuit breaker configuration support (#277)",

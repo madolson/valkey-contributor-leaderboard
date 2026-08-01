@@ -2,14 +2,22 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 127,
-  "commit_count": 16,
+  "score": 128,
+  "commit_count": 17,
   "review_count": 111,
   "repos": [
     "valkey-io.github.io",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "f029b82b09",
+      "message": "adds ValkeyConf to banner (#617)",
+      "date": "2026-07-31",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/617",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f029b82b0956ca0492a828ea0d7ab7bd786b1360"
+    },
     {
       "sha": "d8a3f9f734",
       "message": "fix harbor blog post date (#614)",

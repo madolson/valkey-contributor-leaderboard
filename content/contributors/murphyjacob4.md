@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 122,
+  "score": 123,
   "commit_count": 43,
-  "review_count": 79,
+  "review_count": 80,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -358,6 +358,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "12e5e384d2",
+      "message": "Fix TLS infinite busy loop when write/read handlers are removed (#3510)",
+      "date": "2026-08-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3510",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/12e5e384d22fb07d9d524bfc1673dfcb2d6df680"
+    },
     {
       "sha": "4733aed658",
       "message": "Add XX option to ZRANGE commands for null/empty distinction (#2978)",

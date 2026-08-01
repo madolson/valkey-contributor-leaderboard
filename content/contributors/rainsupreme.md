@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 95,
+  "score": 96,
   "commit_count": 34,
-  "review_count": 61,
+  "review_count": 62,
   "repos": [
     "valkey",
     "valkey-perf-benchmark"
@@ -284,6 +284,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "69cd2ef98e",
+      "message": "Deflake \"Replica output bytes metric\" with atomic stats capture (#4102)",
+      "date": "2026-07-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4102",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/69cd2ef98ed88f72ae2b74433e348531ed78bfd7"
+    },
     {
       "sha": "99afc7f6f4",
       "message": "Added libbacktrace support for alpine (#139)",

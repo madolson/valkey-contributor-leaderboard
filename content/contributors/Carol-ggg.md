@@ -2,13 +2,21 @@
   "title": "Carol-ggg",
   "login": "Carol-ggg",
   "avatar_url": "https://avatars.githubusercontent.com/u/213777065?v=4",
-  "score": 11,
-  "commit_count": 11,
+  "score": 12,
+  "commit_count": 12,
   "review_count": 0,
   "repos": [
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "7fbdcdf15e",
+      "message": "Add module commit info to mixed test and update duration display and add branch option (#75)",
+      "date": "2026-07-31",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/75",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/7fbdcdf15ea25fd57fad6f5f238e6cb7a3d91f72"
+    },
     {
       "sha": "e3056ff10d",
       "message": "Update push_to_postgres dir, remove cluster mode from test (#74)",

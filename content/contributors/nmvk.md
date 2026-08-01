@@ -2,9 +2,9 @@
   "title": "nmvk",
   "login": "nmvk",
   "avatar_url": "https://avatars.githubusercontent.com/u/1668438?v=4",
-  "score": 15,
+  "score": 16,
   "commit_count": 8,
-  "review_count": 7,
+  "review_count": 8,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -76,6 +76,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "12e5e384d2",
+      "message": "Fix TLS infinite busy loop when write/read handlers are removed (#3510)",
+      "date": "2026-08-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3510",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/12e5e384d22fb07d9d524bfc1673dfcb2d6df680"
+    },
     {
       "sha": "0473793194",
       "message": "Tighten NOT_KEY handling and add test coverage for NOT_KEY commands (#3675)",

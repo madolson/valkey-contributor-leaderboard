@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 396,
+  "score": 398,
   "commit_count": 146,
-  "review_count": 250,
+  "review_count": 252,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1189,6 +1189,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7d0acb4c97",
+      "message": "Making PR's run unstable and latest only, adding a daily job for all versions (#117)",
+      "date": "2026-08-01",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/117",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/7d0acb4c9727b75ba84020e3a93efb94f0dc6968"
+    },
+    {
+      "sha": "7fbdcdf15e",
+      "message": "Add module commit info to mixed test and update duration display and add branch option (#75)",
+      "date": "2026-07-31",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/75",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/7fbdcdf15ea25fd57fad6f5f238e6cb7a3d91f72"
+    },
     {
       "sha": "0bf28b2dab",
       "message": "Parallelize Valgrind tests to reduce Daily Runtime (#4256)",

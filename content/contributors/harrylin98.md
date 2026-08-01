@@ -2,13 +2,21 @@
   "title": "harrylin98",
   "login": "harrylin98",
   "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
-  "score": 9,
-  "commit_count": 8,
+  "score": 10,
+  "commit_count": 9,
   "review_count": 1,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "fb94efbd9b",
+      "message": "Optimize .clang-format and add enum/argument formatting options (#3905)",
+      "date": "2026-07-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3905",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fb94efbd9b7a0a6f49433598931d4ad25ba20b2c"
+    },
     {
       "sha": "aed05498ac",
       "message": "Fix macOS unit test by wrapping test object symbols (#4281)",

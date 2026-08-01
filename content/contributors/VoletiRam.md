@@ -2,9 +2,9 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 49,
+  "score": 50,
   "commit_count": 21,
-  "review_count": 28,
+  "review_count": 29,
   "repos": [
     "valkey",
     "valkey-perf-benchmark",
@@ -182,6 +182,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7fbdcdf15e",
+      "message": "Add module commit info to mixed test and update duration display and add branch option (#75)",
+      "date": "2026-07-31",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/75",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/7fbdcdf15ea25fd57fad6f5f238e6cb7a3d91f72"
+    },
     {
       "sha": "e3056ff10d",
       "message": "Update push_to_postgres dir, remove cluster mode from test (#74)",

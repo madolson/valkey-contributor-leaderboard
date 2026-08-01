@@ -2,8 +2,8 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 112,
-  "commit_count": 32,
+  "score": 113,
+  "commit_count": 33,
   "review_count": 80,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "12e5e384d2",
+      "message": "Fix TLS infinite busy loop when write/read handlers are removed (#3510)",
+      "date": "2026-08-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3510",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/12e5e384d22fb07d9d524bfc1673dfcb2d6df680"
+    },
     {
       "sha": "87978b530a",
       "message": "The query vector is not normalized on the prefiltering query execution path (#1222)",

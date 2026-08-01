@@ -2,9 +2,9 @@
   "title": "alexey-temnikov",
   "login": "alexey-temnikov",
   "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
-  "score": 22,
+  "score": 23,
   "commit_count": 12,
-  "review_count": 10,
+  "review_count": 11,
   "repos": [
     "valkey-admin",
     "valkey-doc",
@@ -110,6 +110,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0500d129ba",
+      "message": "Update README version to v1.1.0 (#437)",
+      "date": "2026-07-31",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/437",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/0500d129ba930f834d1dfe97e588e8f0f6cd6039"
+    },
     {
       "sha": "2a8b7cd646",
       "message": "Fix Electron CSP blocking websocket connections (#410)",

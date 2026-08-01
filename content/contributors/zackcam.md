@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 67,
-  "commit_count": 44,
-  "review_count": 23,
+  "score": 69,
+  "commit_count": 45,
+  "review_count": 24,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -15,6 +15,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "7d0acb4c97",
+      "message": "Making PR's run unstable and latest only, adding a daily job for all versions (#117)",
+      "date": "2026-08-01",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/117",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/7d0acb4c9727b75ba84020e3a93efb94f0dc6968"
+    },
     {
       "sha": "9ab369980f",
       "message": "Match bloom memory tracking by small over count of bytes after a defrag operation (#110)",
@@ -369,6 +377,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "74d7eb17c9",
+      "message": "Fix lazy-delete timing race in test_bloom_metrics (#103)",
+      "date": "2026-07-31",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/103",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/74d7eb17c9ef25d36223120f46fd406ec5d52862"
+    },
     {
       "sha": "653d4022e9",
       "message": "Fix unbounded array Reserve in legacy RDB load (#111)",

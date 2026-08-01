@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 186,
-  "commit_count": 48,
-  "review_count": 138,
+  "score": 189,
+  "commit_count": 49,
+  "review_count": 140,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "beb708829d",
+      "message": "docs: add PHP circuit breaker examples (#275)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/275",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/beb708829df4e073cdf7fdc55dc33c346fe75693"
+    },
     {
       "sha": "1a7515cb4e",
       "message": "Add circuit breaker configuration support (#277)",
@@ -398,6 +406,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4f74de20b0",
+      "message": "feat(node): add mTLS client certificate/key support with automatic certificate reloading (#6383)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6383",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4f74de20b02acb14cd2e244006ea53637484271c"
+    },
+    {
+      "sha": "35943e82c1",
+      "message": "Add circuit breaker configuration support (#483)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/483",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/35943e82c162372b5d25a5a4202fff8913bb4cff"
+    },
     {
       "sha": "c67e8f18a3",
       "message": "Python: stabilize flaky cluster tests and fix trio pub/sub BusyResourceError (auth, atomic batch, script finalizers, trio pub/sub) (#6605)",

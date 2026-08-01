@@ -2,14 +2,22 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 172,
-  "commit_count": 100,
+  "score": 173,
+  "commit_count": 101,
   "review_count": 72,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "0500d129ba",
+      "message": "Update README version to v1.1.0 (#437)",
+      "date": "2026-07-31",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/437",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/0500d129ba930f834d1dfe97e588e8f0f6cd6039"
+    },
     {
       "sha": "4c48393af8",
       "message": "Update version and learn more link (#435)",

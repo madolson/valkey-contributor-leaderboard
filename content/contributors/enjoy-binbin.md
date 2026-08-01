@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 927,
+  "score": 929,
   "commit_count": 368,
-  "review_count": 559,
+  "review_count": 561,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2959,6 +2959,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f75e2d55fa",
+      "message": "Skip bad-arity commands when prefetching queued command keys (#4302)",
+      "date": "2026-08-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4302",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f75e2d55fa768b022ec712b28cb0b43f40b79c3d"
+    },
+    {
+      "sha": "c739b9296e",
+      "message": "Fix out-of-bounds read in getNodeByQuery's cross-DB COPY check (#4301)",
+      "date": "2026-08-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4301",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c739b9296eb4f3035aa60485aa9f39ac6f0bf38b"
+    },
     {
       "sha": "0bf28b2dab",
       "message": "Parallelize Valgrind tests to reduce Daily Runtime (#4256)",

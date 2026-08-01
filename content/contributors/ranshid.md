@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 292,
+  "score": 294,
   "commit_count": 92,
-  "review_count": 200,
+  "review_count": 202,
   "repos": [
     "valkey",
     "valkey-container",
@@ -753,6 +753,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f75e2d55fa",
+      "message": "Skip bad-arity commands when prefetching queued command keys (#4302)",
+      "date": "2026-08-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4302",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f75e2d55fa768b022ec712b28cb0b43f40b79c3d"
+    },
+    {
+      "sha": "69cd2ef98e",
+      "message": "Deflake \"Replica output bytes metric\" with atomic stats capture (#4102)",
+      "date": "2026-07-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4102",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/69cd2ef98ed88f72ae2b74433e348531ed78bfd7"
+    },
     {
       "sha": "4733aed658",
       "message": "Add XX option to ZRANGE commands for null/empty distinction (#2978)",

@@ -2,13 +2,21 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 96,
-  "commit_count": 64,
+  "score": 97,
+  "commit_count": 65,
   "review_count": 32,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "a015aea63a",
+      "message": "Fix monitor and node error banners (#436)",
+      "date": "2026-07-31",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/436",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/a015aea63ae0ae5605c16a732c06067e744b35ad"
+    },
     {
       "sha": "8710be1e55",
       "message": "Add podman compose fallback. (#430)",

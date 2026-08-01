@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 253,
-  "commit_count": 148,
-  "review_count": 105,
+  "score": 260,
+  "commit_count": 152,
+  "review_count": 108,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -14,6 +14,38 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "3ce4ed2f34",
+      "message": "fix(client): GetServers() throws FormatException on DNS hostnames (#497)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/497",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3ce4ed2f3410926c5da07ece9e30105211706f9b"
+    },
+    {
+      "sha": "292bee8521",
+      "message": "Consolidate redundant command implementations into BaseClient (#498)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/498",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/292bee85215b2833c390662043f2b881228b6cb5"
+    },
+    {
+      "sha": "1adddc712c",
+      "message": "dev(clean): Fix labels, add `address_resolver` clarification, xUnit1051 (#489)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/489",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/1adddc712cddf6d2e0499af0c5097241980f58ab"
+    },
+    {
+      "sha": "35943e82c1",
+      "message": "Add circuit breaker configuration support (#483)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/483",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/35943e82c162372b5d25a5a4202fff8913bb4cff"
+    },
     {
       "sha": "cf3d56f080",
       "message": "feat(utils): support cluster-announce-hostname in cluster_manager.py (#6667)",
@@ -1200,6 +1232,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4f74de20b0",
+      "message": "feat(node): add mTLS client certificate/key support with automatic certificate reloading (#6383)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6383",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4f74de20b02acb14cd2e244006ea53637484271c"
+    },
+    {
+      "sha": "4f74de20b0",
+      "message": "feat(node): add mTLS client certificate/key support with automatic certificate reloading (#6383)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6383",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4f74de20b02acb14cd2e244006ea53637484271c"
+    },
+    {
+      "sha": "beb708829d",
+      "message": "docs: add PHP circuit breaker examples (#275)",
+      "date": "2026-07-31",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/275",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/beb708829df4e073cdf7fdc55dc33c346fe75693"
+    },
     {
       "sha": "c507d550c3",
       "message": "FFI: Percent-decode userinfo in `create_client_from_uri` (#6660)",

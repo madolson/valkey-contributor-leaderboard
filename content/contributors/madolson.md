@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 872,
-  "commit_count": 194,
-  "review_count": 678,
+  "score": 878,
+  "commit_count": 196,
+  "review_count": 682,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -17,6 +17,22 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "f75e2d55fa",
+      "message": "Skip bad-arity commands when prefetching queued command keys (#4302)",
+      "date": "2026-08-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4302",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f75e2d55fa768b022ec712b28cb0b43f40b79c3d"
+    },
+    {
+      "sha": "c739b9296e",
+      "message": "Fix out-of-bounds read in getNodeByQuery's cross-DB COPY check (#4301)",
+      "date": "2026-08-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4301",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c739b9296eb4f3035aa60485aa9f39ac6f0bf38b"
+    },
     {
       "sha": "b400e053ba",
       "message": "Fix use-after-free in tlsProcessPendingData() on CLIENT KILL (#4234)",
@@ -1571,6 +1587,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6736cc5803",
+      "message": "conf: document chown(2) requirement for unixsocketgroup (#3730)",
+      "date": "2026-07-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3730",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6736cc580335cac05fdc3b4ffd1f65e824389484"
+    },
+    {
+      "sha": "8eaefda4fd",
+      "message": "Fix MOVE/COPY command skip the current-DB ACL check (#4155)",
+      "date": "2026-07-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4155",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8eaefda4fdf8614632ea6e90fc97112aeb2b4f4d"
+    },
+    {
+      "sha": "fb94efbd9b",
+      "message": "Optimize .clang-format and add enum/argument formatting options (#3905)",
+      "date": "2026-07-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3905",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fb94efbd9b7a0a6f49433598931d4ad25ba20b2c"
+    },
+    {
+      "sha": "f029b82b09",
+      "message": "adds ValkeyConf to banner (#617)",
+      "date": "2026-07-31",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/617",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f029b82b0956ca0492a828ea0d7ab7bd786b1360"
+    },
     {
       "sha": "d8a3f9f734",
       "message": "fix harbor blog post date (#614)",
