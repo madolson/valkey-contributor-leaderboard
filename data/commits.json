@@ -168143,6 +168143,26 @@
       "repo": "valkeymodule-rs",
       "reviewed": false,
       "pr_url": ""
+    },
+    {
+      "sha": "19d2d6d87f1b7097a102a92e674de25e15cd4d41",
+      "author_login": "tkarger",
+      "author_id": 49390121,
+      "avatar_url": "https://avatars.githubusercontent.com/u/49390121?v=4",
+      "message": "feat(acl): allow config|get for auditability (#341)",
+      "date": "2026-08-01T13:16:49Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-07-28T17:47:54Z"
+        },
+        {
+          "login": "jdheyburn",
+          "date": "2026-07-30T11:15:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/341"
     }
   ]
 }

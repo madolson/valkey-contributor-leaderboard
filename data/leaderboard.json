@@ -1731,7 +1731,7 @@
       "name": "Joseph Heyburn",
       "company": "braze-inc",
       "commits": 39,
-      "reviews": 78,
+      "reviews": 80,
       "repos": [
         "valkey",
         "valkey-helm",
@@ -1740,7 +1740,7 @@
       "per_repo": {
         "valkey-operator": {
           "commits": 30,
-          "reviews": 68
+          "reviews": 70
         },
         "valkey": {
           "commits": 2,
@@ -1751,7 +1751,7 @@
           "reviews": 10
         }
       },
-      "score": 117
+      "score": 119
     },
     {
       "login": "yairgott",
@@ -5665,6 +5665,30 @@
       "score": 4
     },
     {
+      "login": "tkarger",
+      "id": 49390121,
+      "avatar_url": "https://avatars.githubusercontent.com/u/49390121?v=4",
+      "name": "Tim Karger",
+      "company": "iptch",
+      "commits": 4,
+      "reviews": 0,
+      "repos": [
+        "valkey-helm",
+        "valkey-operator"
+      ],
+      "per_repo": {
+        "valkey-helm": {
+          "commits": 1,
+          "reviews": 0
+        },
+        "valkey-operator": {
+          "commits": 3,
+          "reviews": 0
+        }
+      },
+      "score": 4
+    },
+    {
       "login": "somaz94",
       "id": 112675579,
       "avatar_url": "https://avatars.githubusercontent.com/u/112675579?v=4",
@@ -6254,30 +6278,6 @@
       "per_repo": {
         "valkey-operator": {
           "commits": 3,
-          "reviews": 0
-        }
-      },
-      "score": 3
-    },
-    {
-      "login": "tkarger",
-      "id": 49390121,
-      "avatar_url": "https://avatars.githubusercontent.com/u/49390121?v=4",
-      "name": "Tim Karger",
-      "company": "iptch",
-      "commits": 3,
-      "reviews": 0,
-      "repos": [
-        "valkey-helm",
-        "valkey-operator"
-      ],
-      "per_repo": {
-        "valkey-helm": {
-          "commits": 1,
-          "reviews": 0
-        },
-        "valkey-operator": {
-          "commits": 2,
           "reviews": 0
         }
       },

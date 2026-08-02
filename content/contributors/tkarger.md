@@ -2,14 +2,22 @@
   "title": "tkarger",
   "login": "tkarger",
   "avatar_url": "https://avatars.githubusercontent.com/u/49390121?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "19d2d6d87f",
+      "message": "feat(acl): allow config|get for auditability (#341)",
+      "date": "2026-08-01",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/341",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/19d2d6d87f1b7097a102a92e674de25e15cd4d41"
+    },
     {
       "sha": "7b02994693",
       "message": "test: add e2e test for operator permissions (#245)",

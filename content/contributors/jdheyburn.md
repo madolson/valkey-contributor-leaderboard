@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 117,
+  "score": 119,
   "commit_count": 39,
-  "review_count": 78,
+  "review_count": 80,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -325,6 +325,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "19d2d6d87f",
+      "message": "feat(acl): allow config|get for auditability (#341)",
+      "date": "2026-08-01",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/341",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/19d2d6d87f1b7097a102a92e674de25e15cd4d41"
+    },
+    {
+      "sha": "19d2d6d87f",
+      "message": "feat(acl): allow config|get for auditability (#341)",
+      "date": "2026-08-01",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/341",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/19d2d6d87f1b7097a102a92e674de25e15cd4d41"
+    },
     {
       "sha": "7b02994693",
       "message": "test: add e2e test for operator permissions (#245)",
