@@ -2,13 +2,21 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 50,
-  "commit_count": 22,
+  "score": 51,
+  "commit_count": 23,
   "review_count": 28,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "b7c947f888",
+      "message": "fixed e2e test failing on main branch as config get is allowed by operator users (#351)",
+      "date": "2026-08-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/351",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/b7c947f8889d1fb07aa954a4d163b2a3fa9f7164"
+    },
     {
       "sha": "682bb9984e",
       "message": "Updated issue templates [bug_report and feature_request] (#179)",

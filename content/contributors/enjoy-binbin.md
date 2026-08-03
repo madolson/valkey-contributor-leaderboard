@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 929,
+  "score": 931,
   "commit_count": 368,
-  "review_count": 561,
+  "review_count": 563,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2959,6 +2959,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "527a382220",
+      "message": "Fix FIELDS token validation for HPERSIST and HTTL family commands (#4300)",
+      "date": "2026-08-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4300",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/527a38222043300c3e645d7d7fa0b3c6de719171"
+    },
+    {
+      "sha": "b349fe2821",
+      "message": "Prevent double-free of the module timer when the callback stops it (#4211)",
+      "date": "2026-08-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4211",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b349fe2821e3998534b1454c1b64a478daf8c6b7"
+    },
     {
       "sha": "f75e2d55fa",
       "message": "Skip bad-arity commands when prefetching queued command keys (#4302)",

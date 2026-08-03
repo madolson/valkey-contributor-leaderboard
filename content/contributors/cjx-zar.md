@@ -2,14 +2,22 @@
   "title": "cjx-zar",
   "login": "cjx-zar",
   "avatar_url": "https://avatars.githubusercontent.com/u/56825069?v=4",
-  "score": 9,
-  "commit_count": 8,
+  "score": 10,
+  "commit_count": 9,
   "review_count": 1,
   "repos": [
     "valkey",
     "valkey-bloom"
   ],
   "commit_list": [
+    {
+      "sha": "527a382220",
+      "message": "Fix FIELDS token validation for HPERSIST and HTTL family commands (#4300)",
+      "date": "2026-08-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4300",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/527a38222043300c3e645d7d7fa0b3c6de719171"
+    },
     {
       "sha": "8eaefda4fd",
       "message": "Fix MOVE/COPY command skip the current-DB ACL check (#4155)",

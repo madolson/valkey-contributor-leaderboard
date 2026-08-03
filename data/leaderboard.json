@@ -100,7 +100,7 @@
       "name": "Binbin",
       "company": "Tencent Cloud NoSQL",
       "commits": 368,
-      "reviews": 561,
+      "reviews": 563,
       "repos": [
         "valkey",
         "valkey-bloom",
@@ -111,7 +111,7 @@
       "per_repo": {
         "valkey": {
           "commits": 343,
-          "reviews": 528
+          "reviews": 530
         },
         "valkey-bloom": {
           "commits": 2,
@@ -134,7 +134,7 @@
           "reviews": 1
         }
       },
-      "score": 929
+      "score": 931
     },
     {
       "login": "madolson",
@@ -562,7 +562,7 @@
       "name": "Ran Shidlansik",
       "company": "Amazon Web Services",
       "commits": 92,
-      "reviews": 202,
+      "reviews": 203,
       "repos": [
         "valkey",
         "valkey-container",
@@ -575,7 +575,7 @@
       "per_repo": {
         "valkey": {
           "commits": 79,
-          "reviews": 190
+          "reviews": 191
         },
         "valkey-doc": {
           "commits": 4,
@@ -606,7 +606,7 @@
           "reviews": 0
         }
       },
-      "score": 294
+      "score": 295
     },
     {
       "login": "allenss-amazon",
@@ -1731,7 +1731,7 @@
       "name": "Joseph Heyburn",
       "company": "braze-inc",
       "commits": 39,
-      "reviews": 80,
+      "reviews": 81,
       "repos": [
         "valkey",
         "valkey-helm",
@@ -1740,7 +1740,7 @@
       "per_repo": {
         "valkey-operator": {
           "commits": 30,
-          "reviews": 70
+          "reviews": 71
         },
         "valkey": {
           "commits": 2,
@@ -1751,7 +1751,7 @@
           "reviews": 10
         }
       },
-      "score": 119
+      "score": 120
     },
     {
       "login": "yairgott",
@@ -2313,18 +2313,18 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
       "name": "sandeep kunusoth",
       "company": "",
-      "commits": 22,
+      "commits": 23,
       "reviews": 28,
       "repos": [
         "valkey-operator"
       ],
       "per_repo": {
         "valkey-operator": {
-          "commits": 22,
+          "commits": 23,
           "reviews": 28
         }
       },
-      "score": 50
+      "score": 51
     },
     {
       "login": "VoletiRam",
@@ -4047,6 +4047,30 @@
       "score": 10
     },
     {
+      "login": "cjx-zar",
+      "id": 56825069,
+      "avatar_url": "https://avatars.githubusercontent.com/u/56825069?v=4",
+      "name": "",
+      "company": "",
+      "commits": 9,
+      "reviews": 1,
+      "repos": [
+        "valkey",
+        "valkey-bloom"
+      ],
+      "per_repo": {
+        "valkey": {
+          "commits": 8,
+          "reviews": 1
+        },
+        "valkey-bloom": {
+          "commits": 1,
+          "reviews": 0
+        }
+      },
+      "score": 10
+    },
+    {
       "login": "yzc-yzc",
       "id": 96833212,
       "avatar_url": "https://avatars.githubusercontent.com/u/96833212?v=4",
@@ -4223,30 +4247,6 @@
       "per_repo": {
         "valkey-operator": {
           "commits": 9,
-          "reviews": 0
-        }
-      },
-      "score": 9
-    },
-    {
-      "login": "cjx-zar",
-      "id": 56825069,
-      "avatar_url": "https://avatars.githubusercontent.com/u/56825069?v=4",
-      "name": "",
-      "company": "",
-      "commits": 8,
-      "reviews": 1,
-      "repos": [
-        "valkey",
-        "valkey-bloom"
-      ],
-      "per_repo": {
-        "valkey": {
-          "commits": 7,
-          "reviews": 1
-        },
-        "valkey-bloom": {
-          "commits": 1,
           "reviews": 0
         }
       },
@@ -8054,6 +8054,25 @@
       ],
       "per_repo": {
         "valkey-glide-php": {
+          "commits": 2,
+          "reviews": 0
+        }
+      },
+      "score": 2
+    },
+    {
+      "login": "quanyeyang",
+      "id": 155656201,
+      "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
+      "name": "Quanye Yang",
+      "company": "Xi'an Jiaotong University",
+      "commits": 2,
+      "reviews": 0,
+      "repos": [
+        "valkey"
+      ],
+      "per_repo": {
+        "valkey": {
           "commits": 2,
           "reviews": 0
         }
@@ -12830,25 +12849,6 @@
       ],
       "per_repo": {
         "valkey-operator": {
-          "commits": 1,
-          "reviews": 0
-        }
-      },
-      "score": 1
-    },
-    {
-      "login": "quanyeyang",
-      "id": 155656201,
-      "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
-      "name": "Quanye Yang",
-      "company": "Xi'an Jiaotong University",
-      "commits": 1,
-      "reviews": 0,
-      "repos": [
-        "valkey"
-      ],
-      "per_repo": {
-        "valkey": {
           "commits": 1,
           "reviews": 0
         }

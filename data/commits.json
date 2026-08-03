@@ -168163,6 +168163,74 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/341"
+    },
+    {
+      "sha": "84876791a95e21f627c81c627ad47443d520d2ea",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "build(deps): bump actions/setup-python from 6 to 7 (#81)",
+      "date": "2026-08-02T21:26:27Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-08-02T21:26:22Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/81"
+    },
+    {
+      "sha": "527a38222043300c3e645d7d7fa0b3c6de719171",
+      "author_login": "cjx-zar",
+      "author_id": 56825069,
+      "avatar_url": "https://avatars.githubusercontent.com/u/56825069?v=4",
+      "message": "Fix FIELDS token validation for HPERSIST and HTTL family commands (#4300)",
+      "date": "2026-08-03T03:16:40Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-07-31T06:42:51Z"
+        },
+        {
+          "login": "ranshid",
+          "date": "2026-07-31T10:31:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4300"
+    },
+    {
+      "sha": "b349fe2821e3998534b1454c1b64a478daf8c6b7",
+      "author_login": "quanyeyang",
+      "author_id": 155656201,
+      "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
+      "message": "Prevent double-free of the module timer when the callback stops it (#4211)",
+      "date": "2026-08-03T02:38:09Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-07-20T02:48:20Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4211"
+    },
+    {
+      "sha": "b7c947f8889d1fb07aa954a4d163b2a3fa9f7164",
+      "author_login": "sandeepkunusoth",
+      "author_id": 31273507,
+      "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
+      "message": "fixed e2e test failing on main branch as config get is allowed by operator users (#351)",
+      "date": "2026-08-02T09:02:37Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-08-02T09:02:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/351"
     }
   ]
 }

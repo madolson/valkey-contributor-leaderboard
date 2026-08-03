@@ -62,6 +62,14 @@
   ],
   "review_list": [
     {
+      "sha": "84876791a9",
+      "message": "build(deps): bump actions/setup-python from 6 to 7 (#81)",
+      "date": "2026-08-02",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/81",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/84876791a95e21f627c81c627ad47443d520d2ea"
+    },
+    {
       "sha": "66ba154ffc",
       "message": "Merge pull request #80 from valkey-io/v4.1.0",
       "date": "2026-07-18",

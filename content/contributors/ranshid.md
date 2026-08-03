@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 294,
+  "score": 295,
   "commit_count": 92,
-  "review_count": 202,
+  "review_count": 203,
   "repos": [
     "valkey",
     "valkey-container",
@@ -753,6 +753,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "527a382220",
+      "message": "Fix FIELDS token validation for HPERSIST and HTTL family commands (#4300)",
+      "date": "2026-08-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4300",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/527a38222043300c3e645d7d7fa0b3c6de719171"
+    },
     {
       "sha": "f75e2d55fa",
       "message": "Skip bad-arity commands when prefetching queued command keys (#4302)",

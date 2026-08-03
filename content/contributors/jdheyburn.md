@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 119,
+  "score": 120,
   "commit_count": 39,
-  "review_count": 80,
+  "review_count": 81,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -325,6 +325,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b7c947f888",
+      "message": "fixed e2e test failing on main branch as config get is allowed by operator users (#351)",
+      "date": "2026-08-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/351",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/b7c947f8889d1fb07aa954a4d163b2a3fa9f7164"
+    },
     {
       "sha": "19d2d6d87f",
       "message": "feat(acl): allow config|get for auditability (#341)",
