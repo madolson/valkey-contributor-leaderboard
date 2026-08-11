@@ -8,6 +8,7 @@
   "repos": [
     "valkey",
     "valkey-bundle",
+    "valkey-ci-agent",
     "valkey-container",
     "valkey-doc",
     "valkey-json",

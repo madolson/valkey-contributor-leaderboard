@@ -2,8 +2,8 @@
   "title": "jsoref",
   "login": "jsoref",
   "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
-  "score": 21,
-  "commit_count": 21,
+  "score": 22,
+  "commit_count": 22,
   "review_count": 0,
   "repos": [
     "iovalkey",
@@ -22,6 +22,14 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "94d221cdde",
+      "message": "Spelling 7 (#2244)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2244",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/94d221cdde3890cf30baf285184a8e863641a67d"
+    },
     {
       "sha": "634c70d795",
       "message": "Spelling (#30)",

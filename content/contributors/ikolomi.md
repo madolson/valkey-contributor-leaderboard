@@ -7,7 +7,8 @@
   "review_count": 133,
   "repos": [
     "spring-data-valkey",
-    "valkey-glide"
+    "valkey-glide",
+    "valkey-glide-docs"
   ],
   "commit_list": [
     {

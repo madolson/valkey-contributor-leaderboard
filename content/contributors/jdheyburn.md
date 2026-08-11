@@ -2,15 +2,31 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 120,
-  "commit_count": 39,
-  "review_count": 81,
+  "score": 129,
+  "commit_count": 41,
+  "review_count": 88,
   "repos": [
     "valkey",
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "c34252e6e9",
+      "message": "Update UPGRADE.md",
+      "date": "2026-08-11",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/240",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/c34252e6e97efbc89626f8fb0abcb520e431078e"
+    },
+    {
+      "sha": "59b39e4039",
+      "message": "feat: add scheduling.zone.pinning (#344)",
+      "date": "2026-08-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/344",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/59b39e4039d1e45cae65457bc2a9299d95c877b2"
+    },
     {
       "sha": "05010b1afe",
       "message": "feat: Add zone scheduling axis (#340)",
@@ -325,6 +341,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "eb1d4672da",
+      "message": "feat: apply ACL changes live without rolling pods (#319)",
+      "date": "2026-08-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/319",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/eb1d4672dae0725cff7df43461743b6856358e3f"
+    },
+    {
+      "sha": "1520e02636",
+      "message": "fix: re-introduce cluster members whose addresses changed after a full restart (#333)",
+      "date": "2026-08-07",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/333",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/1520e02636a70dbb410f3960af6940c42c9225b5"
+    },
+    {
+      "sha": "211e72fe51",
+      "message": "docs(valkey-resources): add example values and bump to 0.1.3 (#232)",
+      "date": "2026-08-05",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/232",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/211e72fe51218249a92187e24c403dc114ee9280"
+    },
+    {
+      "sha": "709bf5380a",
+      "message": "feat: stage pod template rolls via Spec.WorkloadRevision (#338)",
+      "date": "2026-08-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/338",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/709bf5380a1d0ddd2e47b17358fbbe43283144cc"
+    },
+    {
+      "sha": "93f137a5f0",
+      "message": "refactor(api)!: move ValkeyCluster TLS under spec.networking (#339)",
+      "date": "2026-08-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/339",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/93f137a5f033b2a925774f94f72f6ed7bfefeb53"
+    },
+    {
+      "sha": "82324d5887",
+      "message": "feat: Add args configuration support to exporter (#345)",
+      "date": "2026-08-04",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/345",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/82324d5887c982438cb49ca2af916c9634962153"
+    },
+    {
+      "sha": "2d1a754527",
+      "message": "fix: grant _replication user +sync for dual-channel replication (#359)",
+      "date": "2026-08-04",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/359",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2d1a754527d6bd66e4983521a78a0c05983b1707"
+    },
     {
       "sha": "b7c947f888",
       "message": "fixed e2e test failing on main branch as config get is allowed by operator users (#351)",

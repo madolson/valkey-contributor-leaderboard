@@ -7,7 +7,8 @@
   "review_count": 149,
   "repos": [
     "valkey-glide",
-    "valkey-glide-csharp"
+    "valkey-glide-csharp",
+    "valkey-glide-php"
   ],
   "commit_list": [
     {

@@ -2,16 +2,30 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 344,
-  "commit_count": 92,
-  "review_count": 252,
+  "score": 352,
+  "commit_count": 93,
+  "review_count": 259,
   "repos": [
     "valkey",
+    "valkey-bundle",
+    "valkey-ci-agent",
+    "valkey-container",
     "valkey-doc",
     "valkey-fuzzer",
-    "valkey-json"
+    "valkey-io.github.io",
+    "valkey-json",
+    "valkey-perf-benchmark",
+    "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "49d7d96fb7",
+      "message": "Optimize exact XTRIM MAXLEN zero (#4161)",
+      "date": "2026-08-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4161",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/49d7d96fb70ffcef72c794e1c9a332de8b66f51a"
+    },
     {
       "sha": "0bf28b2dab",
       "message": "Parallelize Valgrind tests to reduce Daily Runtime (#4256)",
@@ -750,6 +764,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4e441522e0",
+      "message": "Skip static Lua engine loading in Sentinel mode (#4327)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4327",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4e441522e02e20899f135870dbf92523bd975fe8"
+    },
+    {
+      "sha": "ee7f288057",
+      "message": "Fix malformed AOF after a short read in MULTI (#4342)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4342",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ee7f288057e5ce6e2b1158db9404e4496e5f7a65"
+    },
+    {
+      "sha": "be0a7cbd2b",
+      "message": " valkey-benchmark: reject empty command sequence before connecting (#4215)",
+      "date": "2026-08-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4215",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/be0a7cbd2b653df60a6184343b5ef124494d0eee"
+    },
+    {
+      "sha": "0adff5c1a5",
+      "message": "fix: update maxmemory test to account for SDS pre-allocation memory (#3465)",
+      "date": "2026-08-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3465",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0adff5c1a5809c80dcbe13b4a49ecc8aec33f97d"
+    },
+    {
+      "sha": "c07e9b6cf2",
+      "message": "Fix and complete slot migration pipe comments (#4328)",
+      "date": "2026-08-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4328",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c07e9b6cf2f816acb358ee7d504e8f03e15de9cd"
+    },
+    {
+      "sha": "cc353b1f68",
+      "message": "Guard against malformed failure artifacts (#4291)",
+      "date": "2026-08-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4291",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cc353b1f683a4a3cae2f3173517827230dc8e489"
+    },
+    {
+      "sha": "cab64acb5a",
+      "message": "Guard against malformed failure artifacts (#77)",
+      "date": "2026-08-03",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/77",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/cab64acb5a21a41a70a9ea06eb03b51e0c79eaa1"
+    },
     {
       "sha": "6df96c44ce",
       "message": "Optimize notifyKeyspaceEvent to avoid unnecessary allocations (#4285)",

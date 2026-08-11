@@ -2,16 +2,65 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 189,
-  "commit_count": 49,
-  "review_count": 140,
+  "score": 200,
+  "commit_count": 55,
+  "review_count": 145,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
+    "valkey-glide-csharp",
     "valkey-glide-docs",
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "4c90d80b2a",
+      "message": "fix: make TimeoutWatchdog singleton fork-safe (#6716)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6716",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4c90d80b2a45a441bc62f5fd3d2bfaea15be7759"
+    },
+    {
+      "sha": "65e607befa",
+      "message": "feat: add abandon detection for pool-borrowed clients (#6642)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6642",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/65e607befa317337aebb94d88395c733215c5dc3"
+    },
+    {
+      "sha": "d81c8caef3",
+      "message": "ci: raise file descriptor limit for pool tests (#6717)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6717",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d81c8caef3a56a7fc5696feda52f350ba0d3730d"
+    },
+    {
+      "sha": "4fa1bb064d",
+      "message": "Add automated Maven Central publishing to release workflow (#100)",
+      "date": "2026-08-05",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/100",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/4fa1bb064d055fbb04e8a7b8cc73fe4233d7ff7b"
+    },
+    {
+      "sha": "7080d47fc1",
+      "message": "fix(python): make async pipe transport fork-safe (#6679)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6679",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7080d47fc1c257420aa0032d12d168dea75efc46"
+    },
+    {
+      "sha": "3a06cf0750",
+      "message": "Upgrade to Spring Boot 4.1 (#99)",
+      "date": "2026-08-04",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/99",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/3a06cf0750368b49dcb4ef323213840371b91fa9"
+    },
     {
       "sha": "beb708829d",
       "message": "docs: add PHP circuit breaker examples (#275)",
@@ -406,6 +455,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "15247fabf6",
+      "message": "fix: bound mTLS cert reload interval and align Node field names across SDKs (#6678)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6678",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/15247fabf63f10a780db00db16a1688fc30b1191"
+    },
+    {
+      "sha": "98f0d6cb4b",
+      "message": "Python: Fix flaky test_subscription_sync_timestamp_metric_on_success (#6415)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6415",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/98f0d6cb4b7c1c8ac89212d44708b3d48b4f070d"
+    },
+    {
+      "sha": "a83acbe854",
+      "message": "Add inflight requests limit configuration (#509)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/509",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/a83acbe85401d8042fbfa09f0bf28092117418d4"
+    },
+    {
+      "sha": "c083c78d10",
+      "message": "Python: fix trio hang on free-threaded builds by waking `_CompatFuture` waiters from the owning trio thread (#6685)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6685",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c083c78d10084d5d4116200f3e01d9d275161faf"
+    },
+    {
+      "sha": "7d9d4ce1b7",
+      "message": "[Java] Fix flaky test SharedCommandTests.copy - ensure SET completes before COPY (#6548)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6548",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7d9d4ce1b7ae9bcfb8f1f4ed80e07d26e234195e"
+    },
     {
       "sha": "4f74de20b0",
       "message": "feat(node): add mTLS client certificate/key support with automatic certificate reloading (#6383)",

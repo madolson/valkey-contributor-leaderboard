@@ -5,7 +5,10 @@
   "score": 19,
   "commit_count": 0,
   "review_count": 19,
-  "repos": [],
+  "repos": [
+    "iovalkey",
+    "valkey-doc"
+  ],
   "commit_list": [],
   "review_list": [
     {

@@ -2,13 +2,29 @@
   "title": "Carol-ggg",
   "login": "Carol-ggg",
   "avatar_url": "https://avatars.githubusercontent.com/u/213777065?v=4",
-  "score": 12,
-  "commit_count": 12,
+  "score": 14,
+  "commit_count": 14,
   "review_count": 0,
   "repos": [
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "7c36c88098",
+      "message": "Fix profiling run to one (#79)",
+      "date": "2026-08-07",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/79",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/7c36c88098261331b75780c382e2152353c0a0ee"
+    },
+    {
+      "sha": "13d813a84f",
+      "message": "Add module benchmark support to comparison tool (#70)",
+      "date": "2026-08-06",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/70",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/13d813a84f90fad6ea4db13c7819a3eb5efc4701"
+    },
     {
       "sha": "7fbdcdf15e",
       "message": "Add module commit info to mixed test and update duration display and add branch option (#75)",

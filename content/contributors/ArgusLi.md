@@ -2,13 +2,21 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 97,
-  "commit_count": 65,
-  "review_count": 32,
+  "score": 99,
+  "commit_count": 66,
+  "review_count": 33,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "b16009f51d",
+      "message": "Update connections to allow numbered databases beyond 16 (#452)",
+      "date": "2026-08-05",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/452",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/b16009f51d863b69bf2b6a6412d06e7fd9ddb313"
+    },
     {
       "sha": "a015aea63a",
       "message": "Fix monitor and node error banners (#436)",
@@ -531,6 +539,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bbbe10662c",
+      "message": "Add issue templates for bug reports and feature requests (#448)",
+      "date": "2026-08-05",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/448",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/bbbe10662cb0572590e892b83ca97f3247d0bfe1"
+    },
     {
       "sha": "e6a6e804cc",
       "message": "Fix hot keys returning empty on first MONITOR cycle (#434)",

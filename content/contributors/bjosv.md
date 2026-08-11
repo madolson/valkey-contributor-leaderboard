@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 230,
+  "score": 237,
   "commit_count": 119,
-  "review_count": 111,
+  "review_count": 118,
   "repos": [
     "libvalkey",
     "valkey",
@@ -967,6 +967,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dd2d78213a",
+      "message": "Merge pull request #240 from valkey-io/jdheyburn/valkey-operator-0.5",
+      "date": "2026-08-11",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/240",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/dd2d78213ae4e7b229074d473612999c7324d9be"
+    },
+    {
+      "sha": "c34252e6e9",
+      "message": "Update UPGRADE.md",
+      "date": "2026-08-11",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/240",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/c34252e6e97efbc89626f8fb0abcb520e431078e"
+    },
+    {
+      "sha": "59b39e4039",
+      "message": "feat: add scheduling.zone.pinning (#344)",
+      "date": "2026-08-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/344",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/59b39e4039d1e45cae65457bc2a9299d95c877b2"
+    },
+    {
+      "sha": "6fbed7fa74",
+      "message": "test(e2e): add shutdown-on-sigterm failover test (#295)",
+      "date": "2026-08-09",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/295",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6fbed7fa7442fd97074eb0b09b31b8b49e9e0db4"
+    },
+    {
+      "sha": "709bf5380a",
+      "message": "feat: stage pod template rolls via Spec.WorkloadRevision (#338)",
+      "date": "2026-08-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/338",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/709bf5380a1d0ddd2e47b17358fbbe43283144cc"
+    },
+    {
+      "sha": "93f137a5f0",
+      "message": "refactor(api)!: move ValkeyCluster TLS under spec.networking (#339)",
+      "date": "2026-08-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/339",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/93f137a5f033b2a925774f94f72f6ed7bfefeb53"
+    },
+    {
+      "sha": "82324d5887",
+      "message": "feat: Add args configuration support to exporter (#345)",
+      "date": "2026-08-04",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/345",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/82324d5887c982438cb49ca2af916c9634962153"
+    },
     {
       "sha": "05010b1afe",
       "message": "feat: Add zone scheduling axis (#340)",

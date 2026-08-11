@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 103,
+  "score": 105,
   "commit_count": 24,
-  "review_count": 79,
+  "review_count": 81,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -206,6 +206,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8abd07fff2",
+      "message": "Fix slow-clocksource check for HW monotonic clock and non-x86 advisories (#4272)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4272",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8abd07fff268f70f3bf676fad929d687d632968f"
+    },
+    {
+      "sha": "dad4b1e662",
+      "message": "Fix frozen monotonic clock on unsynchronised TSC hosts (#4346)",
+      "date": "2026-08-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4346",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/dad4b1e662c220a2ee8acfe329959a3bacd1e7c9"
+    },
+    {
+      "sha": "ed5d5f394e",
+      "message": "Bump github/codeql-action from 4.37.4 to 4.37.6 (#11)",
+      "date": "2026-08-07",
+      "repo": "valkey-lua5.5",
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/11",
+      "commit_url": "https://github.com/valkey-io/valkey-lua5.5/commit/ed5d5f394ebdf1cd3e6c5417a61d9d7236516c1d"
+    },
     {
       "sha": "8eaefda4fd",
       "message": "Fix MOVE/COPY command skip the current-DB ACL check (#4155)",

@@ -81,6 +81,50 @@ footer a:hover { text-decoration: underline; }
 .search:focus { outline: none; border-color: #475ad2; }
 .search::placeholder { color: #545861; }
 
+.range-filter {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+  margin-bottom: 1rem;
+  padding: 0.6rem 1rem;
+  border: 1px solid #353841;
+  border-radius: 6px;
+  background: #24272f;
+}
+.range-presets { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.range-chip {
+  font-family: inherit;
+  font-size: 0.8rem;
+  color: #c0c2c7;
+  background: #353841;
+  border: 1px solid transparent;
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.range-chip:hover { background: #475ad2; color: #fff; }
+.range-chip.active { background: #475ad2; color: #fff; font-weight: 600; }
+.range-months {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-left: auto;
+  font-size: 0.8rem;
+  color: #888b96;
+}
+.range-months select {
+  font-family: inherit;
+  font-size: 0.8rem;
+  color: #eceef2;
+  background: #353841;
+  border: 1px solid #353841;
+  border-radius: 4px;
+  padding: 0.25rem 0.4rem;
+}
+.range-months select:focus { outline: none; border-color: #475ad2; }
+
 .repo-filter {
   margin-bottom: 1rem;
   border: 1px solid #353841;

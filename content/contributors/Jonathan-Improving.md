@@ -5,7 +5,9 @@
   "score": 1,
   "commit_count": 0,
   "review_count": 1,
-  "repos": [],
+  "repos": [
+    "valkey-glide-ruby"
+  ],
   "commit_list": [],
   "review_list": [
     {

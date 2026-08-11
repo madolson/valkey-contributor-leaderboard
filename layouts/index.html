@@ -8,11 +8,20 @@
         <li><strong>Commits</strong> — only mainline commits with a merged PR that received at least one approval from a reviewer other than the author.</li>
         <li><strong>Reviews</strong> — each approved PR review counts as one point for the reviewer.</li>
         <li><strong>Score</strong> — commits + reviews.</li>
+        <li><strong>Time range</strong> — commits and reviews are bucketed by month. Narrowing the range recomputes score, commits, reviews and ranking over the selected months. Reviews collected before review timestamps were recorded are bucketed by the month of the commit they approved.</li>
       </ul>
       <p>Bot accounts are excluded. Click a contributor's name to see their full commit and review history.</p>
     </div>
   </details>
   <input type="text" id="search" class="search" placeholder="Search contributors… (press / to focus)" autocomplete="off" autofocus>
+  <div class="range-filter" id="range-filter" data-months="{{ jsonify .months }}">
+    <div class="range-presets" id="range-presets"></div>
+    <div class="range-months">
+      <select id="from-month" aria-label="First month"></select>
+      <span class="range-to">to</span>
+      <select id="to-month" aria-label="Last month"></select>
+    </div>
+  </div>
   <details class="repo-filter">
     <summary>Filter by repo</summary>
     <div class="repo-filter-body" id="repo-checkboxes"></div>
@@ -86,14 +95,99 @@
     return new Set(Array.from(box.querySelectorAll("input:checked")).map(function(c) { return c.value; }));
   }
 
+  // Time range: months are "YYYY-MM" strings, so string compare orders them.
+  var MONTH_NAMES = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  var rangeEl = document.getElementById("range-filter");
+  var months = JSON.parse(rangeEl.dataset.months || "[]");
+  var fromSel = document.getElementById("from-month");
+  var toSel = document.getElementById("to-month");
+  var presetBox = document.getElementById("range-presets");
+
+  function monthLabel(m) {
+    return MONTH_NAMES[parseInt(m.slice(5), 10) - 1] + " " + m.slice(0, 4);
+  }
+
+  if (!months.length) {
+    rangeEl.style.display = "none";
+  } else {
+    months.forEach(function(m) {
+      [fromSel, toSel].forEach(function(sel) {
+        var o = document.createElement("option");
+        o.value = m; o.textContent = monthLabel(m);
+        sel.appendChild(o);
+      });
+    });
+    fromSel.value = months[0];
+    toSel.value = months[months.length - 1];
+
+    var presets = [{label: "All time", from: months[0]}];
+    [3, 6, 12].forEach(function(n) {
+      if (months.length > n) {
+        presets.push({label: "Last " + n + " months", from: months[months.length - n]});
+      }
+    });
+    var years = Array.from(new Set(months.map(function(m) { return m.slice(0, 4); }))).sort().reverse();
+    years.forEach(function(y) {
+      presets.push({label: y, from: y + "-01", to: y + "-12"});
+    });
+
+    presets.forEach(function(p) {
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "range-chip";
+      b.textContent = p.label;
+      b.addEventListener("click", function() {
+        fromSel.value = clampMonth(p.from);
+        toSel.value = clampMonth(p.to || months[months.length - 1]);
+        setActivePreset(b);
+        recompute();
+      });
+      presetBox.appendChild(b);
+    });
+    setActivePreset(presetBox.firstChild);
+
+    fromSel.addEventListener("change", function() {
+      if (fromSel.value > toSel.value) { toSel.value = fromSel.value; }
+      setActivePreset(null);
+      recompute();
+    });
+    toSel.addEventListener("change", function() {
+      if (toSel.value < fromSel.value) { fromSel.value = toSel.value; }
+      setActivePreset(null);
+      recompute();
+    });
+  }
+
+  // Presets like "2024" can fall outside the data's range; snap them inside it.
+  function clampMonth(m) {
+    if (m < months[0]) { return months[0]; }
+    if (m > months[months.length - 1]) { return months[months.length - 1]; }
+    return m;
+  }
+
+  function setActivePreset(active) {
+    presetBox.querySelectorAll(".range-chip").forEach(function(b) {
+      b.classList.toggle("active", b === active);
+    });
+  }
+
   function recompute() {
     var selected = getSelectedRepos();
+    var from = fromSel.value || "0000-00";
+    var to = toSel.value || "9999-99";
     var q = s.value.toLowerCase();
     var data = rows.map(function(row) {
       var pr = JSON.parse(row.dataset.perRepo || "{}");
       var c = 0, r = 0, repoCount = 0;
       Object.keys(pr).forEach(function(repo) {
-        if (selected.has(repo)) { c += pr[repo].commits; r += pr[repo].reviews; repoCount++; }
+        if (!selected.has(repo)) { return; }
+        var rc = 0, rr = 0;
+        var buckets = pr[repo];
+        Object.keys(buckets).forEach(function(m) {
+          if (m >= from && m <= to) { rc += buckets[m][0]; rr += buckets[m][1]; }
+        });
+        if (rc || rr) { repoCount++; }
+        c += rc; r += rr;
       });
       return {row: row, score: c + r, commits: c, reviews: r, repos: repoCount};
     });

@@ -11,6 +11,7 @@
     "valkey-doc",
     "valkey-io.github.io",
     "valkey-json",
+    "valkey-search",
     "valkey-test-framework",
     "valkeymodule-rs"
   ],

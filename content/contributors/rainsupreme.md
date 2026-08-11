@@ -2,12 +2,14 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 96,
+  "score": 100,
   "commit_count": 34,
-  "review_count": 62,
+  "review_count": 66,
   "repos": [
     "valkey",
-    "valkey-perf-benchmark"
+    "valkey-container",
+    "valkey-perf-benchmark",
+    "valkey-skills"
   ],
   "commit_list": [
     {
@@ -284,6 +286,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "94d221cdde",
+      "message": "Spelling 7 (#2244)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2244",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/94d221cdde3890cf30baf285184a8e863641a67d"
+    },
+    {
+      "sha": "28aa048e25",
+      "message": "Fix garbage earliest-expiry read in vsetEstimatedEarliestExpiry RAX path (#3956)",
+      "date": "2026-08-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3956",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/28aa048e250b73cc868b8ae44dbd2682e14fef9d"
+    },
+    {
+      "sha": "0adff5c1a5",
+      "message": "fix: update maxmemory test to account for SDS pre-allocation memory (#3465)",
+      "date": "2026-08-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3465",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0adff5c1a5809c80dcbe13b4a49ecc8aec33f97d"
+    },
+    {
+      "sha": "0adff5c1a5",
+      "message": "fix: update maxmemory test to account for SDS pre-allocation memory (#3465)",
+      "date": "2026-08-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3465",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0adff5c1a5809c80dcbe13b4a49ecc8aec33f97d"
+    },
     {
       "sha": "69cd2ef98e",
       "message": "Deflake \"Replica output bytes metric\" with atomic stats capture (#4102)",

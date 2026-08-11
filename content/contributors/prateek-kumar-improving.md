@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 399,
-  "commit_count": 133,
-  "review_count": 266,
+  "score": 410,
+  "commit_count": 138,
+  "review_count": 272,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,46 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "9fcb478415",
+      "message": "Add MUSL support (#291)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/291",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9fcb478415e4d0a8e8281885a8e231a5ccc22d54"
+    },
+    {
+      "sha": "5885031976",
+      "message": "Implement LATENCY HISTORY, LATEST, and RESET commands (#283)",
+      "date": "2026-08-08",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/283",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/5885031976698d001dda26af0689765e08005ba6"
+    },
+    {
+      "sha": "b8a4557a4e",
+      "message": "Update dependencies in readme.md (#290)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/290",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b8a4557a4eb239d3af1b60a409698867a4dbed63"
+    },
+    {
+      "sha": "ce37641486",
+      "message": "Implement MEMORY DOCTOR, MALLOC-STATS, PURGE, and STATS commands (#285)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/285",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/ce37641486987e02f2975ee513085a71dfc99e60"
+    },
+    {
+      "sha": "0185803d5b",
+      "message": "Implement failover and replicaof command (#282)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/282",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/0185803d5b1ea12b2361e099c94ed40fe3ff29d6"
+    },
     {
       "sha": "bf93881b8e",
       "message": "Valkey-Glide fix ort workflow to prevent stale ORT PRs (#6552)",
@@ -1079,6 +1119,70 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c5263bfe82",
+      "message": "ci(deps): bump actions/setup-java from 5.6.0 to 5.7.0 (#294)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/294",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/c5263bfe826ebc60bc41995a4a3f52f7b2efe4c6"
+    },
+    {
+      "sha": "645396a8e4",
+      "message": "feat(glide-core): route CLIENT KILL to all nodes (#6709)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6709",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/645396a8e4008e1d82686e8a2c0d1062179bc7f6"
+    },
+    {
+      "sha": "a83acbe854",
+      "message": "Add inflight requests limit configuration (#509)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/509",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/a83acbe85401d8042fbfa09f0bf28092117418d4"
+    },
+    {
+      "sha": "cb6f3d55a4",
+      "message": "feat(config): Add mutual TLS (mTLS) client certificate support (#500)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/500",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/cb6f3d55a4963a8e0fb1de459530ff5326e7ccc3"
+    },
+    {
+      "sha": "7d9d4ce1b7",
+      "message": "[Java] Fix flaky test SharedCommandTests.copy - ensure SET completes before COPY (#6548)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6548",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7d9d4ce1b7ae9bcfb8f1f4ed80e07d26e234195e"
+    },
+    {
+      "sha": "0d4a176bdd",
+      "message": "Migrate FFI string marshaling from LPStr to LPUTF8Str for Windows Unicode support (#502)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/502",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/0d4a176bdd5b223855ad29798588dd4ebd7b45ff"
+    },
+    {
+      "sha": "103d2498ad",
+      "message": "ruby: added ruby how-to examples (#300)",
+      "date": "2026-08-04",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/300",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/103d2498ad86373c3729c3f6836b349690a1faee"
+    },
+    {
+      "sha": "76c02156bd",
+      "message": "ci(deps): bump actions/stale from 10.4.0 to 11.0.0 (#289)",
+      "date": "2026-08-04",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/289",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/76c02156bdc7fdcc2597b7edab838b040155f2e5"
+    },
     {
       "sha": "4bf26772fe",
       "message": "Updated attribution files for commit cf3d56f08075dec7f6bab38395a6d85050b493bb (#6662)",

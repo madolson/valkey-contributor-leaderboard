@@ -2,13 +2,14 @@
   "title": "alexey-temnikov",
   "login": "alexey-temnikov",
   "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
-  "score": 23,
+  "score": 26,
   "commit_count": 12,
-  "review_count": 11,
+  "review_count": 14,
   "repos": [
     "valkey-admin",
     "valkey-doc",
     "valkey-glide",
+    "valkey-glide-csharp",
     "valkey-glide-docs"
   ],
   "commit_list": [
@@ -110,6 +111,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7ecf31c3a0",
+      "message": "Fix documentation inaccuracies (#453)",
+      "date": "2026-08-07",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/453",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/7ecf31c3a0244443f9170dd62e0c2f9105fcd9bb"
+    },
+    {
+      "sha": "59572c9679",
+      "message": "Pipeline per-key commands for performance (#451)",
+      "date": "2026-08-07",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/451",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/59572c96790673162b3355746726c45109bb7494"
+    },
+    {
+      "sha": "0945312e65",
+      "message": "Update security reporting to use GitHub security advisories (#449)",
+      "date": "2026-08-07",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/449",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/0945312e65883d2b6eb9277338c629c80475485e"
+    },
     {
       "sha": "0500d129ba",
       "message": "Update README version to v1.1.0 (#437)",

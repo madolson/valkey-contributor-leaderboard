@@ -9,6 +9,7 @@
     "spring-data-valkey",
     "valkey-doc",
     "valkey-glide",
+    "valkey-glide-csharp",
     "valkey-glide-docs",
     "valkey-io.github.io"
   ],

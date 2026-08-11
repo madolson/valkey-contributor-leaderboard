@@ -9,6 +9,7 @@
     "valkey",
     "valkey-doc",
     "valkey-glide",
+    "valkey-glide-ruby",
     "valkey-io.github.io",
     "valkey-skills"
   ],

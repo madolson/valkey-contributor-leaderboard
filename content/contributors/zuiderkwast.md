@@ -2,14 +2,21 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1186,
+  "score": 1205,
   "commit_count": 153,
-  "review_count": 1033,
+  "review_count": 1052,
   "repos": [
     "libvalkey",
     "valkey",
+    "valkey-container",
     "valkey-doc",
+    "valkey-hashes",
     "valkey-io.github.io",
+    "valkey-json",
+    "valkey-luajit",
+    "valkey-operator",
+    "valkey-perf-benchmark",
+    "valkey-release-automation",
     "valkey-rfc"
   ],
   "commit_list": [
@@ -1239,6 +1246,158 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "94d221cdde",
+      "message": "Spelling 7 (#2244)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2244",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/94d221cdde3890cf30baf285184a8e863641a67d"
+    },
+    {
+      "sha": "4e441522e0",
+      "message": "Skip static Lua engine loading in Sentinel mode (#4327)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4327",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4e441522e02e20899f135870dbf92523bd975fe8"
+    },
+    {
+      "sha": "8eb992eb09",
+      "message": "Fix GEORADIUS STORE ACL bypass via duplicate options (#3971)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3971",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8eb992eb09467a4e628a694cba93915a816658b3"
+    },
+    {
+      "sha": "ee7f288057",
+      "message": "Fix malformed AOF after a short read in MULTI (#4342)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4342",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ee7f288057e5ce6e2b1158db9404e4496e5f7a65"
+    },
+    {
+      "sha": "00e9078787",
+      "message": "Clear import-source connection flag on RESET (#3973)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3973",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/00e90787870a8e9603684bcb6fabf306a8b5a722"
+    },
+    {
+      "sha": "ea9738ab7f",
+      "message": "Fix NULL deref in usUntilEarliestTimer when all time events are deleted (#4351)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4351",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ea9738ab7f051d1583a7a953c464d78d3dd583fd"
+    },
+    {
+      "sha": "0afdf6a4d3",
+      "message": "Tests: Add subject alternative names to the TLS test certificates (#4383)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4383",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0afdf6a4d3f9d7998d1265bdbda5b36a1982453b"
+    },
+    {
+      "sha": "8abd07fff2",
+      "message": "Fix slow-clocksource check for HW monotonic clock and non-x86 advisories (#4272)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4272",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8abd07fff268f70f3bf676fad929d687d632968f"
+    },
+    {
+      "sha": "b713c6acf2",
+      "message": "Tests: Restore tag state when a server fails to start (#4382)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4382",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b713c6acf29feaa6023644565e69a912843b4690"
+    },
+    {
+      "sha": "dad4b1e662",
+      "message": "Fix frozen monotonic clock on unsynchronised TSC hosts (#4346)",
+      "date": "2026-08-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4346",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/dad4b1e662c220a2ee8acfe329959a3bacd1e7c9"
+    },
+    {
+      "sha": "060a6501d8",
+      "message": "Fix Test dual-channel: primary tracking replica backlog refcount (#4361)",
+      "date": "2026-08-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4361",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/060a6501d80999e92ba35959839d580611eb5a7f"
+    },
+    {
+      "sha": "ceef3f50c8",
+      "message": "deb: release get_current_dir_name() result with zlibc_free() (#63)",
+      "date": "2026-08-07",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/63",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/ceef3f50c8f62ecb325186e938120d99203d9362"
+    },
+    {
+      "sha": "2dfee30cf5",
+      "message": "tests/rdma: add valkey-benchmark --rdma stress for RDMA + IO threads (#4025)",
+      "date": "2026-08-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4025",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2dfee30cf542115ab22411afc0533119c94902e9"
+    },
+    {
+      "sha": "21c0d49a0b",
+      "message": "Fix crash when processing heartbeat from a node with no local role (#4091)",
+      "date": "2026-08-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4091",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/21c0d49a0b5664004dad46ef429e23bf43191e9b"
+    },
+    {
+      "sha": "21c0d49a0b",
+      "message": "Fix crash when processing heartbeat from a node with no local role (#4091)",
+      "date": "2026-08-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4091",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/21c0d49a0b5664004dad46ef429e23bf43191e9b"
+    },
+    {
+      "sha": "0adff5c1a5",
+      "message": "fix: update maxmemory test to account for SDS pre-allocation memory (#3465)",
+      "date": "2026-08-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3465",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0adff5c1a5809c80dcbe13b4a49ecc8aec33f97d"
+    },
+    {
+      "sha": "eb5a7857e6",
+      "message": "Fix RDMA + IO threads re-entrancy and busy-loop via connection postpone masks (#3611)",
+      "date": "2026-08-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3611",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/eb5a7857e6f31158d7fbdd454eca70f7581b4243"
+    },
+    {
+      "sha": "0fc8cdafcb",
+      "message": "Update module.c with missing FLAG_REPLICA description (#4279)",
+      "date": "2026-08-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4279",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0fc8cdafcba8ee7b443ba1381a8847f8a3579bd5"
+    },
+    {
+      "sha": "cb2d835139",
+      "message": "Retry PSYNC on -BUSY error instead of downgrading to SYNC (#4140)",
+      "date": "2026-08-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4140",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cb2d8351399ee004dbd131ba26adc5118b51e858"
+    },
     {
       "sha": "0385d2ffcf",
       "message": "Include watched keys and pubsub channel/pattern memory in client memory overhead (#3362)",

@@ -2,15 +2,67 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 384,
-  "commit_count": 111,
-  "review_count": 273,
+  "score": 401,
+  "commit_count": 117,
+  "review_count": 284,
   "repos": [
     ".github",
+    "spring-data-valkey",
     "valkey-glide",
-    "valkey-glide-csharp"
+    "valkey-glide-csharp",
+    "valkey-glide-docs",
+    "valkey-glide-php",
+    "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "15247fabf6",
+      "message": "fix: bound mTLS cert reload interval and align Node field names across SDKs (#6678)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6678",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/15247fabf63f10a780db00db16a1688fc30b1191"
+    },
+    {
+      "sha": "98f0d6cb4b",
+      "message": "Python: Fix flaky test_subscription_sync_timestamp_metric_on_success (#6415)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6415",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/98f0d6cb4b7c1c8ac89212d44708b3d48b4f070d"
+    },
+    {
+      "sha": "703590cd4a",
+      "message": "Update TLS test Cluster creation setup in cluster_manager.py to fix timeouts. (#6700)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6700",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/703590cd4a2c4f86ea0f709c9aa425bd92957099"
+    },
+    {
+      "sha": "c083c78d10",
+      "message": "Python: fix trio hang on free-threaded builds by waking `_CompatFuture` waiters from the owning trio thread (#6685)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6685",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c083c78d10084d5d4116200f3e01d9d275161faf"
+    },
+    {
+      "sha": "7d9d4ce1b7",
+      "message": "[Java] Fix flaky test SharedCommandTests.copy - ensure SET completes before COPY (#6548)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6548",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7d9d4ce1b7ae9bcfb8f1f4ed80e07d26e234195e"
+    },
+    {
+      "sha": "dae3488278",
+      "message": "test(go): fix flaky TestScriptKill race condition (#6263)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6263",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dae34882786b183c3d33aa53a4f102c27a7d2b87"
+    },
     {
       "sha": "4f74de20b0",
       "message": "feat(node): add mTLS client certificate/key support with automatic certificate reloading (#6383)",
@@ -901,6 +953,158 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "18fcf20481",
+      "message": "chore(deps): bump actions/setup-java from 5.6.0 to 5.7.0 in the minor-updates group (#517)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/517",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/18fcf204819956cb9a3b4828cbfb7265ef7e5103"
+    },
+    {
+      "sha": "92ca2edb8f",
+      "message": "chore(deps): bump the patch-updates group with 3 updates (#516)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/516",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/92ca2edb8f88059d9bfa2bf0453b4a919413770c"
+    },
+    {
+      "sha": "de246e7045",
+      "message": "chore(deps): bump valkey-glide from `cf3d56f` to `98f0d6c` (#518)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/518",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/de246e7045013c3548705653b752cee15cdefbde"
+    },
+    {
+      "sha": "2e16fb453a",
+      "message": "Bump the patch-updates group with 1 update (#515)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/515",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2e16fb453afa8af333ba6bea7dc5fe37752bae43"
+    },
+    {
+      "sha": "5885031976",
+      "message": "Implement LATENCY HISTORY, LATEST, and RESET commands (#283)",
+      "date": "2026-08-08",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/283",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/5885031976698d001dda26af0689765e08005ba6"
+    },
+    {
+      "sha": "4c90d80b2a",
+      "message": "fix: make TimeoutWatchdog singleton fork-safe (#6716)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6716",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4c90d80b2a45a441bc62f5fd3d2bfaea15be7759"
+    },
+    {
+      "sha": "d81c8caef3",
+      "message": "ci: raise file descriptor limit for pool tests (#6717)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6717",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d81c8caef3a56a7fc5696feda52f350ba0d3730d"
+    },
+    {
+      "sha": "645396a8e4",
+      "message": "feat(glide-core): route CLIENT KILL to all nodes (#6709)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6709",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/645396a8e4008e1d82686e8a2c0d1062179bc7f6"
+    },
+    {
+      "sha": "cb6f3d55a4",
+      "message": "feat(config): Add mutual TLS (mTLS) client certificate support (#500)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/500",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/cb6f3d55a4963a8e0fb1de459530ff5326e7ccc3"
+    },
+    {
+      "sha": "ce37641486",
+      "message": "Implement MEMORY DOCTOR, MALLOC-STATS, PURGE, and STATS commands (#285)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/285",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/ce37641486987e02f2975ee513085a71dfc99e60"
+    },
+    {
+      "sha": "4fa1bb064d",
+      "message": "Add automated Maven Central publishing to release workflow (#100)",
+      "date": "2026-08-05",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/100",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/4fa1bb064d055fbb04e8a7b8cc73fe4233d7ff7b"
+    },
+    {
+      "sha": "7080d47fc1",
+      "message": "fix(python): make async pipe transport fork-safe (#6679)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6679",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7080d47fc1c257420aa0032d12d168dea75efc46"
+    },
+    {
+      "sha": "0988bde808",
+      "message": "chore(dev): improve dev tooling \u2014 check-todos PR validation, Python lint/format (#503)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/503",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/0988bde80805aa6a112e3aa4d17ce45ae19600d8"
+    },
+    {
+      "sha": "3a06cf0750",
+      "message": "Upgrade to Spring Boot 4.1 (#99)",
+      "date": "2026-08-04",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/99",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/3a06cf0750368b49dcb4ef323213840371b91fa9"
+    },
+    {
+      "sha": "181876bbe6",
+      "message": "chore(deps): bump taiki-e/install-action from 2.84.0 to 2.85.2 in the minor-updates group (#506)",
+      "date": "2026-08-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/506",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/181876bbe6b1bce24bd61f2c34ba437f45ca121a"
+    },
+    {
+      "sha": "fa4dd656c0",
+      "message": "chore(deps): bump actions/setup-python from 6.3.0 to 7.0.0 (#507)",
+      "date": "2026-08-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/507",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/fa4dd656c0b7f32a17b8b77abcfd6cc3a173b2b3"
+    },
+    {
+      "sha": "0190469692",
+      "message": "chore(deps): bump tokio from 1.53.0 to 1.53.1 in /rust in the patch-updates group (#504)",
+      "date": "2026-08-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/504",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/0190469692cb87e2b53ed2b89bc501217eabca31"
+    },
+    {
+      "sha": "b3df3446f6",
+      "message": "chore(deps): bump the patch-updates group with 3 updates (#505)",
+      "date": "2026-08-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/505",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/b3df3446f60da6a3d0886e3a424b28f958e46f2c"
+    },
+    {
+      "sha": "7c059a9a70",
+      "message": "Fix flaky TestClientPause integration tests (#508)",
+      "date": "2026-08-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/508",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/7c059a9a70157f4b366f1644b435278af25e802d"
+    },
     {
       "sha": "bf93881b8e",
       "message": "Valkey-Glide fix ort workflow to prevent stale ORT PRs (#6552)",

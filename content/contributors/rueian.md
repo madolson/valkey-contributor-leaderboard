@@ -2,13 +2,14 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 42,
+  "score": 43,
   "commit_count": 9,
-  "review_count": 33,
+  "review_count": 34,
   "repos": [
     "valkey",
     "valkey-doc",
     "valkey-glide",
+    "valkey-go",
     "valkey-operator"
   ],
   "commit_list": [
@@ -86,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "068e49597a",
+      "message": "feat: add Close method to valkeylimiter (#149)",
+      "date": "2026-08-09",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/149",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/068e49597a62db8e0fee6570ec977cbcf13c2ba0"
+    },
     {
       "sha": "a7663c3f22",
       "message": "Expose and Use Constructors for ValkeyResults rather than Unsafe Pointer Conversions (#147)",

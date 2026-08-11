@@ -2,9 +2,9 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 50,
-  "commit_count": 21,
-  "review_count": 29,
+  "score": 53,
+  "commit_count": 22,
+  "review_count": 31,
   "repos": [
     "valkey",
     "valkey-perf-benchmark",
@@ -12,6 +12,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "92efaa6004",
+      "message": "Fix SIGSEGV in LatencySampler when hdr_init fails (#1230)",
+      "date": "2026-08-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1230",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/92efaa60041305ef31b7e20cd6acef523dbd7212"
+    },
     {
       "sha": "f935b887b6",
       "message": "Add mixed workload scenario and fuzzy dataset transform (#61)",
@@ -182,6 +190,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7c36c88098",
+      "message": "Fix profiling run to one (#79)",
+      "date": "2026-08-07",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/79",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/7c36c88098261331b75780c382e2152353c0a0ee"
+    },
+    {
+      "sha": "13d813a84f",
+      "message": "Add module benchmark support to comparison tool (#70)",
+      "date": "2026-08-06",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/70",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/13d813a84f90fad6ea4db13c7819a3eb5efc4701"
+    },
     {
       "sha": "7fbdcdf15e",
       "message": "Add module commit info to mixed test and update duration display and add branch option (#75)",

@@ -6,6 +6,7 @@
   "commit_count": 6,
   "review_count": 3,
   "repos": [
+    "valkey-go",
     "valkey-ldap",
     "valkey-luajit",
     "valkey-release-automation"

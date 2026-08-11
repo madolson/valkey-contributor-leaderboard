@@ -8,7 +8,8 @@
   "repos": [
     "valkey-doc",
     "valkey-glide",
-    "valkey-glide-php"
+    "valkey-glide-php",
+    "valkey-io.github.io"
   ],
   "commit_list": [
     {

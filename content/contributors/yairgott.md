@@ -2,12 +2,14 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 113,
+  "score": 114,
   "commit_count": 33,
-  "review_count": 80,
+  "review_count": 81,
   "repos": [
     "valkey",
+    "valkey-doc",
     "valkey-io.github.io",
+    "valkey-json",
     "valkey-search"
   ],
   "commit_list": [
@@ -277,6 +279,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "92efaa6004",
+      "message": "Fix SIGSEGV in LatencySampler when hdr_init fails (#1230)",
+      "date": "2026-08-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1230",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/92efaa60041305ef31b7e20cd6acef523dbd7212"
+    },
     {
       "sha": "a9a8b9ad21",
       "message": "Handle kOneReplicaPerShard in GetTargetsForSlot for single-slot indexes (#1226)",

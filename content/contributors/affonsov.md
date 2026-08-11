@@ -2,14 +2,15 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 243,
+  "score": 254,
   "commit_count": 92,
-  "review_count": 151,
+  "review_count": 162,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-docs",
-    "valkey-glide-php"
+    "valkey-glide-php",
+    "valkey-glide-ruby"
   ],
   "commit_list": [
     {
@@ -750,6 +751,94 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "05d825e449",
+      "message": "docs: mark MIGRATE as available for C# and PHP (#293)",
+      "date": "2026-08-08",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/293",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/05d825e449450dae24b8b20a32812bc043141bbd"
+    },
+    {
+      "sha": "f1ce422850",
+      "message": "fix(rust): Handles IPv6 in create_client_from_uri (#6714)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6714",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f1ce422850013b561aef61e41b2f4ec68658a132"
+    },
+    {
+      "sha": "4c90d80b2a",
+      "message": "fix: make TimeoutWatchdog singleton fork-safe (#6716)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6716",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4c90d80b2a45a441bc62f5fd3d2bfaea15be7759"
+    },
+    {
+      "sha": "65e607befa",
+      "message": "feat: add abandon detection for pool-borrowed clients (#6642)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6642",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/65e607befa317337aebb94d88395c733215c5dc3"
+    },
+    {
+      "sha": "d81c8caef3",
+      "message": "ci: raise file descriptor limit for pool tests (#6717)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6717",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d81c8caef3a56a7fc5696feda52f350ba0d3730d"
+    },
+    {
+      "sha": "b8a4557a4e",
+      "message": "Update dependencies in readme.md (#290)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/290",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b8a4557a4eb239d3af1b60a409698867a4dbed63"
+    },
+    {
+      "sha": "703590cd4a",
+      "message": "Update TLS test Cluster creation setup in cluster_manager.py to fix timeouts. (#6700)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6700",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/703590cd4a2c4f86ea0f709c9aa425bd92957099"
+    },
+    {
+      "sha": "c083c78d10",
+      "message": "Python: fix trio hang on free-threaded builds by waking `_CompatFuture` waiters from the owning trio thread (#6685)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6685",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c083c78d10084d5d4116200f3e01d9d275161faf"
+    },
+    {
+      "sha": "7080d47fc1",
+      "message": "fix(python): make async pipe transport fork-safe (#6679)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6679",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7080d47fc1c257420aa0032d12d168dea75efc46"
+    },
+    {
+      "sha": "0d4a176bdd",
+      "message": "Migrate FFI string marshaling from LPStr to LPUTF8Str for Windows Unicode support (#502)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/502",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/0d4a176bdd5b223855ad29798588dd4ebd7b45ff"
+    },
+    {
+      "sha": "0988bde808",
+      "message": "chore(dev): improve dev tooling \u2014 check-todos PR validation, Python lint/format (#503)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/503",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/0988bde80805aa6a112e3aa4d17ce45ae19600d8"
+    },
     {
       "sha": "4bf26772fe",
       "message": "Updated attribution files for commit cf3d56f08075dec7f6bab38395a6d85050b493bb (#6662)",

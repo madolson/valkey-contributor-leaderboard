@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 295,
-  "commit_count": 92,
-  "review_count": 203,
+  "score": 300,
+  "commit_count": 94,
+  "review_count": 206,
   "repos": [
     "valkey",
     "valkey-container",
@@ -12,9 +12,26 @@
     "valkey-glide",
     "valkey-hashes",
     "valkey-io.github.io",
-    "valkey-perf-benchmark"
+    "valkey-perf-benchmark",
+    "valkey-try-me"
   ],
   "commit_list": [
+    {
+      "sha": "28aa048e25",
+      "message": "Fix garbage earliest-expiry read in vsetEstimatedEarliestExpiry RAX path (#3956)",
+      "date": "2026-08-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3956",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/28aa048e250b73cc868b8ae44dbd2682e14fef9d"
+    },
+    {
+      "sha": "26f44a2e18",
+      "message": "Fix signed overflow in vset bucket-timestamp rounding  (#4312)",
+      "date": "2026-08-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4312",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/26f44a2e18a1a8465e10222fee20be119bb573c5"
+    },
     {
       "sha": "e1bc58c72f",
       "message": "Fix crash when active field-expiry leaves a single-entry HT vset bucket (#3950)",
@@ -753,6 +770,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8ee7b372fa",
+      "message": "Fix VLA stack overflow in TLS writev after write failure (#4307)",
+      "date": "2026-08-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4307",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8ee7b372fad7acb757a3b62f22e35a1a903a72f9"
+    },
+    {
+      "sha": "1050daf65b",
+      "message": "Add unit test coverage for vsetMemUsage(), vsetClear() and vsetIsValid() (#4341)",
+      "date": "2026-08-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4341",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1050daf65ba5827ba9e1372bc801663eeef81b01"
+    },
+    {
+      "sha": "d84a2e8598",
+      "message": "Deflake HRANDFIELD CASE 4 test with expired hash fields (#4331)",
+      "date": "2026-08-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4331",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d84a2e85989d1ea7cfbe225c2b4f6d280153a37b"
+    },
     {
       "sha": "527a382220",
       "message": "Fix FIELDS token validation for HPERSIST and HTTL family commands (#4300)",

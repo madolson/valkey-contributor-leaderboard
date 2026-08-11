@@ -25,6 +25,10 @@ PROFILES_FILE = DATA_DIR / "profiles.json"
 CONTRIBUTORS_DIR = ROOT_DIR / "content" / "contributors"
 ORG = "valkey-io"
 
+# Errors that apply to one resource only: empty repo (409), missing repo or
+# deleted user (404), DMCA-blocked repo (451). Skip the resource, keep going.
+SKIP_HTTP_CODES = (404, 409, 451)
+
 rate_limited = False
 
 
@@ -54,6 +58,9 @@ def api_get(url, token=None):
         if e.code in (403, 429):
             log(f"Rate limited (HTTP {e.code}). Saving partial results.")
             rate_limited = True
+            return None, ""
+        if e.code in SKIP_HTTP_CODES:
+            log(f"HTTP {e.code}: {e.reason} for {url}. Skipping.")
             return None, ""
         log(f"HTTP {e.code}: {e.reason} for {url}")
         sys.exit(1)
@@ -193,7 +200,11 @@ def fetch_profiles(logins, profiles, token):
             break
         data, _ = api_get(f"https://api.github.com/users/{login}", token)
         if data is None:
-            break
+            if rate_limited:
+                break
+            # Account no longer exists. Cache an empty profile so we stop asking.
+            profiles[login] = {"name": "", "company": ""}
+            continue
         profiles[login] = {
             "name": data.get("name") or "",
             "company": (data.get("company") or "").strip().lstrip("@"),
@@ -214,9 +225,33 @@ def _reviewer_login(r):
     return r["login"] if isinstance(r, dict) else r
 
 
+def _reviewer_month(r, fallback):
+    """Month of the review itself; falls back to the commit month for entries
+    recorded before review dates were stored."""
+    if isinstance(r, dict) and r.get("date"):
+        return r["date"][:7]
+    return fallback
+
+
+def month_range(start, end):
+    """Inclusive list of YYYY-MM keys, so the UI gets a gapless timeline."""
+    year, month = int(start[:4]), int(start[5:7])
+    end_year, end_month = int(end[:4]), int(end[5:7])
+    out = []
+    while (year, month) <= (end_year, end_month):
+        out.append(f"{year:04d}-{month:02d}")
+        month += 1
+        if month > 12:
+            year, month = year + 1, 1
+    return out
+
+
 def generate_leaderboard(commits, profiles=None):
+    """Return (contributors, months). Each contributor's per_repo maps
+    repo -> {YYYY-MM: [commits, reviews]} so the site can filter by time."""
     profiles = profiles or {}
     by_login = {}
+    seen_months = set()
 
     def is_bot(login):
         return "[bot]" in login or login in ("Copilot",)
@@ -229,11 +264,16 @@ def generate_leaderboard(commits, profiles=None):
                 "avatar_url": avatar or f"https://github.com/{login}.png?size=64",
                 "name": p.get("name", ""),
                 "company": p.get("company", ""),
-                "commits": 0, "reviews": 0, "repos": set(),
+                "commits": 0, "reviews": 0,
                 "per_repo": {},
             }
         if avatar:
             by_login[login]["avatar_url"] = avatar
+
+    def bump(login, repo, month, idx):
+        bucket = by_login[login]["per_repo"].setdefault(repo, {})
+        bucket.setdefault(month, [0, 0])[idx] += 1
+        seen_months.add(month)
 
     seen_prs = set()  # (author_login, pr_url) — dedup rebase-and-merge
 
@@ -252,22 +292,21 @@ def generate_leaderboard(commits, profiles=None):
         if pr_key:
             seen_prs.add(pr_key)
 
-        ensure_user(c["author_login"], c["avatar_url"])
-        by_login[c["author_login"]]["id"] = c["author_id"]
-        by_login[c["author_login"]]["commits"] += 1
-        by_login[c["author_login"]]["repos"].add(c["repo"])
+        author = c["author_login"]
         repo = c["repo"]
-        pr = by_login[c["author_login"]]["per_repo"]
-        pr.setdefault(repo, {"commits": 0, "reviews": 0})
-        pr[repo]["commits"] += 1
-        for reviewer_login in (_reviewer_login(r) for r in reviewers):
+        month = c["date"][:7]
+
+        ensure_user(author, c["avatar_url"])
+        by_login[author]["id"] = c["author_id"]
+        by_login[author]["commits"] += 1
+        bump(author, repo, month, 0)
+        for r in reviewers:
+            reviewer_login = _reviewer_login(r)
             if is_bot(reviewer_login):
                 continue
             ensure_user(reviewer_login, None)
             by_login[reviewer_login]["reviews"] += 1
-            rpr = by_login[reviewer_login]["per_repo"]
-            rpr.setdefault(repo, {"commits": 0, "reviews": 0})
-            rpr[repo]["reviews"] += 1
+            bump(reviewer_login, repo, _reviewer_month(r, month), 1)
 
     contributors = sorted(
         by_login.values(),
@@ -275,9 +314,16 @@ def generate_leaderboard(commits, profiles=None):
         reverse=True,
     )
     for entry in contributors:
-        entry["repos"] = sorted(entry["repos"])
         entry["score"] = entry["commits"] + entry["reviews"]
-    return contributors
+        entry["per_repo"] = {
+            repo: dict(sorted(buckets.items()))
+            for repo, buckets in sorted(entry["per_repo"].items())
+        }
+        # Repos touched by either commits or reviews, matching what the site
+        # counts when filters are applied.
+        entry["repos"] = sorted(entry["per_repo"])
+    months = month_range(min(seen_months), max(seen_months)) if seen_months else []
+    return contributors, months
 
 
 def generate_contributor_pages(commits, contributors):
@@ -402,7 +448,9 @@ def main():
                 break
             approvers, pr_url = check_reviewed(c, token)
             if approvers is None:
-                break
+                if rate_limited:
+                    break
+                continue
             c["reviewed"] = approvers if approvers else False
             c["pr_url"] = pr_url or ""
             if (i + 1) % 50 == 0:
@@ -428,7 +476,9 @@ def main():
                     f"https://api.github.com/repos/{repo}/commits/{c['sha']}", token
                 )
                 if detail is None:
-                    break
+                    if rate_limited:
+                        break
+                    continue
                 c["message"] = detail["commit"]["message"].split("\n")[0]
             # Fetch PR URL
             if "pr_url" not in c:
@@ -436,7 +486,9 @@ def main():
                     f"https://api.github.com/repos/{repo}/commits/{c['sha']}/pulls", token
                 )
                 if prs is None:
-                    break
+                    if rate_limited:
+                        break
+                    continue
                 c["pr_url"] = ""
                 for pr in prs:
                     if pr.get("merged_at"):
@@ -468,9 +520,10 @@ def main():
     if not rate_limited:
         fetch_profiles(all_logins, profiles, token)
 
-    contributors = generate_leaderboard(store["commits"], profiles)
+    contributors, months = generate_leaderboard(store["commits"], profiles)
     leaderboard = {
         "generated": store["last_fetched"],
+        "months": months,
         "contributors": contributors,
     }
     save_json(LEADERBOARD_FILE, leaderboard)

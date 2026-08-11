@@ -2,15 +2,32 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 90,
-  "commit_count": 36,
-  "review_count": 54,
+  "score": 93,
+  "commit_count": 38,
+  "review_count": 55,
   "repos": [
     "valkey",
+    "valkey-doc",
     "valkey-io.github.io",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "459878064f",
+      "message": "Fix duplicate label handling (#1283)",
+      "date": "2026-08-05",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1283",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/459878064ffe58796293379a51558354e80fcb1e"
+    },
+    {
+      "sha": "7a7b945386",
+      "message": "Fix up test_skip_index_load.py (#1172)",
+      "date": "2026-08-05",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1172",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7a7b94538620c6da7205bc2a39d9043ab5f6f3d7"
+    },
     {
       "sha": "af1ca3ee84",
       "message": "Revise outdated text index comments (#1231)",
@@ -301,6 +318,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bb1f1c7231",
+      "message": "Fix replica reporting incorrect search_number_of_indexes after full sync (#1265)",
+      "date": "2026-08-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1265",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/bb1f1c723122e078c45afab441ff81850783efbd"
+    },
     {
       "sha": "53ae957fd7",
       "message": "feat: overload protection - 2 mechanisms to prevent an ever growing query queue  (#1276)",

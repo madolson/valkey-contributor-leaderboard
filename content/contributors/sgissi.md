@@ -6,6 +6,7 @@
   "commit_count": 1,
   "review_count": 2,
   "repos": [
+    "valkey-helm",
     "valkey-io.github.io"
   ],
   "commit_list": [

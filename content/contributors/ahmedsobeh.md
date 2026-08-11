@@ -6,6 +6,7 @@
   "commit_count": 13,
   "review_count": 18,
   "repos": [
+    "libvalkey-py",
     "valkey-py"
   ],
   "commit_list": [

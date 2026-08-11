@@ -2,13 +2,21 @@
   "title": "jjuleslasarte",
   "login": "jjuleslasarte",
   "avatar_url": "https://avatars.githubusercontent.com/u/140852041?v=4",
-  "score": 5,
-  "commit_count": 4,
+  "score": 6,
+  "commit_count": 5,
   "review_count": 1,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "a251aeb5d7",
+      "message": "Fix io-thread race in slot migration establish response handler (#4320)",
+      "date": "2026-08-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4320",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a251aeb5d723bfe0e6d1c50f80bae72a21468a12"
+    },
     {
       "sha": "3100f9dfe8",
       "message": "Add CLUSTER SAVECONFIG before pause in shard restart tests (#3904)",

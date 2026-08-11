@@ -6,7 +6,8 @@
   "commit_count": 9,
   "review_count": 1,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-ci-agent"
   ],
   "commit_list": [
     {

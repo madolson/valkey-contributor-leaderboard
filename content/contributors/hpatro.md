@@ -7,10 +7,13 @@
   "review_count": 235,
   "repos": [
     "valkey",
+    "valkey-bloom",
+    "valkey-bundle",
     "valkey-container",
     "valkey-doc",
     "valkey-hashes",
     "valkey-io.github.io",
+    "valkey-json",
     "valkey-rfc"
   ],
   "commit_list": [

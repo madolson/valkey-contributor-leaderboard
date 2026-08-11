@@ -8,6 +8,8 @@
   "repos": [
     "valkey",
     "valkey-doc",
+    "valkey-json",
+    "valkey-rfc",
     "valkey-search"
   ],
   "commit_list": [

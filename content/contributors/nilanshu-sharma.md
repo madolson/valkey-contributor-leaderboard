@@ -6,6 +6,7 @@
   "commit_count": 14,
   "review_count": 107,
   "repos": [
+    "valkey",
     "valkey-swift"
   ],
   "commit_list": [

@@ -2,11 +2,12 @@
   "title": "jaduffy",
   "login": "jaduffy",
   "avatar_url": "https://avatars.githubusercontent.com/u/45470476?v=4",
-  "score": 1,
+  "score": 2,
   "commit_count": 1,
-  "review_count": 0,
+  "review_count": 1,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-io.github.io"
   ],
   "commit_list": [
     {
@@ -18,5 +19,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/72fc5b14b1f7bf7bd0ca2546bd6e636af151454f"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "d81550cf04",
+      "message": "Add blog post: How modern AI workloads map to Valkey primitives (#574)",
+      "date": "2026-08-05",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/574",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/d81550cf04b9d14ea9c25dca31356b5787633933"
+    }
+  ]
 }

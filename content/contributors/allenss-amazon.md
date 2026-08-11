@@ -7,6 +7,8 @@
   "review_count": 217,
   "repos": [
     "valkey",
+    "valkey-doc",
+    "valkey-io.github.io",
     "valkey-json",
     "valkey-search"
   ],

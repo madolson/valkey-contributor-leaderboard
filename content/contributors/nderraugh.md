@@ -2,10 +2,13 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 5,
+  "score": 10,
   "commit_count": 1,
-  "review_count": 4,
+  "review_count": 9,
   "repos": [
+    "valkey-glide",
+    "valkey-glide-docs",
+    "valkey-glide-php",
     "valkey-glide-ruby"
   ],
   "commit_list": [
@@ -19,6 +22,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5885031976",
+      "message": "Implement LATENCY HISTORY, LATEST, and RESET commands (#283)",
+      "date": "2026-08-08",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/283",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/5885031976698d001dda26af0689765e08005ba6"
+    },
+    {
+      "sha": "65e607befa",
+      "message": "feat: add abandon detection for pool-borrowed clients (#6642)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6642",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/65e607befa317337aebb94d88395c733215c5dc3"
+    },
+    {
+      "sha": "b8a4557a4e",
+      "message": "Update dependencies in readme.md (#290)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/290",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b8a4557a4eb239d3af1b60a409698867a4dbed63"
+    },
+    {
+      "sha": "ce37641486",
+      "message": "Implement MEMORY DOCTOR, MALLOC-STATS, PURGE, and STATS commands (#285)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/285",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/ce37641486987e02f2975ee513085a71dfc99e60"
+    },
+    {
+      "sha": "0185803d5b",
+      "message": "Implement failover and replicaof command (#282)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/282",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/0185803d5b1ea12b2361e099c94ed40fe3ff29d6"
+    },
     {
       "sha": "c0e1ab60fb",
       "message": "feat(core): buffer pending requests during cluster reconnect with bounded recovery queue (#6640)",

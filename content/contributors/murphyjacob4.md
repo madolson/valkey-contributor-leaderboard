@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 123,
-  "commit_count": 43,
-  "review_count": 80,
+  "score": 127,
+  "commit_count": 44,
+  "review_count": 83,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "8ee7b372fa",
+      "message": "Fix VLA stack overflow in TLS writev after write failure (#4307)",
+      "date": "2026-08-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4307",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8ee7b372fad7acb757a3b62f22e35a1a903a72f9"
+    },
     {
       "sha": "a9d54c5901",
       "message": "Fix ZRANGE XX option schema and test failures under force-resp3 (#4275)",
@@ -358,6 +366,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fd3d2f9296",
+      "message": "Add cluster-replica-priority to allow better ranking in auto failover (#2204)",
+      "date": "2026-08-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2204",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fd3d2f929664306ae56e8cfa3b135e8afebc6015"
+    },
+    {
+      "sha": "2d69e5e9b7",
+      "message": "Reset prefetch and ACL stats via CONFIG RESETSTAT (#2891)",
+      "date": "2026-08-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2891",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2d69e5e9b7c27d3a49cef67aa61ad306d107bfd1"
+    },
+    {
+      "sha": "573b77f33a",
+      "message": "Add CMD_STALE flag to SYNC/PSYNC commands (#4148)",
+      "date": "2026-08-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4148",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/573b77f33aff882c47d5d60aa99230f37291cbad"
+    },
     {
       "sha": "12e5e384d2",
       "message": "Fix TLS infinite busy loop when write/read handlers are removed (#3510)",

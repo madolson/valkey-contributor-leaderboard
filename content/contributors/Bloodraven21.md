@@ -2,13 +2,21 @@
   "title": "Bloodraven21",
   "login": "Bloodraven21",
   "avatar_url": "https://avatars.githubusercontent.com/u/60031755?v=4",
-  "score": 19,
-  "commit_count": 8,
-  "review_count": 11,
+  "score": 22,
+  "commit_count": 9,
+  "review_count": 13,
   "repos": [
     "valkey-helm"
   ],
   "commit_list": [
+    {
+      "sha": "dd2d78213a",
+      "message": "Merge pull request #240 from valkey-io/jdheyburn/valkey-operator-0.5",
+      "date": "2026-08-11",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/240",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/dd2d78213ae4e7b229074d473612999c7324d9be"
+    },
     {
       "sha": "21dc1d8c74",
       "message": "Merge pull request #227 from daanvinken/feat/valkey-resources-operator-0.4",
@@ -75,6 +83,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c34252e6e9",
+      "message": "Update UPGRADE.md",
+      "date": "2026-08-11",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/240",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/c34252e6e97efbc89626f8fb0abcb520e431078e"
+    },
+    {
+      "sha": "211e72fe51",
+      "message": "docs(valkey-resources): add example values and bump to 0.1.3 (#232)",
+      "date": "2026-08-05",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/232",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/211e72fe51218249a92187e24c403dc114ee9280"
+    },
     {
       "sha": "6da50c1b9a",
       "message": "feat(valkey-resources): target operator v0.4.0",

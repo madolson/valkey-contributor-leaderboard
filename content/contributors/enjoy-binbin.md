@@ -2,17 +2,74 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 931,
-  "commit_count": 368,
-  "review_count": 563,
+  "score": 944,
+  "commit_count": 375,
+  "review_count": 569,
   "repos": [
     "valkey",
     "valkey-bloom",
     "valkey-doc",
     "valkey-io.github.io",
-    "valkey-json"
+    "valkey-json",
+    "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "4e441522e0",
+      "message": "Skip static Lua engine loading in Sentinel mode (#4327)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4327",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4e441522e02e20899f135870dbf92523bd975fe8"
+    },
+    {
+      "sha": "fd3d2f9296",
+      "message": "Add cluster-replica-priority to allow better ranking in auto failover (#2204)",
+      "date": "2026-08-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2204",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fd3d2f929664306ae56e8cfa3b135e8afebc6015"
+    },
+    {
+      "sha": "2d69e5e9b7",
+      "message": "Reset prefetch and ACL stats via CONFIG RESETSTAT (#2891)",
+      "date": "2026-08-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2891",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2d69e5e9b7c27d3a49cef67aa61ad306d107bfd1"
+    },
+    {
+      "sha": "21c0d49a0b",
+      "message": "Fix crash when processing heartbeat from a node with no local role (#4091)",
+      "date": "2026-08-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4091",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/21c0d49a0b5664004dad46ef429e23bf43191e9b"
+    },
+    {
+      "sha": "c07e9b6cf2",
+      "message": "Fix and complete slot migration pipe comments (#4328)",
+      "date": "2026-08-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4328",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c07e9b6cf2f816acb358ee7d504e8f03e15de9cd"
+    },
+    {
+      "sha": "573b77f33a",
+      "message": "Add CMD_STALE flag to SYNC/PSYNC commands (#4148)",
+      "date": "2026-08-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4148",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/573b77f33aff882c47d5d60aa99230f37291cbad"
+    },
+    {
+      "sha": "cb2d835139",
+      "message": "Retry PSYNC on -BUSY error instead of downgrading to SYNC (#4140)",
+      "date": "2026-08-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4140",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cb2d8351399ee004dbd131ba26adc5118b51e858"
+    },
     {
       "sha": "6df96c44ce",
       "message": "Optimize notifyKeyspaceEvent to avoid unnecessary allocations (#4285)",
@@ -2960,6 +3017,46 @@
   ],
   "review_list": [
     {
+      "sha": "0afdf6a4d3",
+      "message": "Tests: Add subject alternative names to the TLS test certificates (#4383)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4383",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0afdf6a4d3f9d7998d1265bdbda5b36a1982453b"
+    },
+    {
+      "sha": "49d7d96fb7",
+      "message": "Optimize exact XTRIM MAXLEN zero (#4161)",
+      "date": "2026-08-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4161",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/49d7d96fb70ffcef72c794e1c9a332de8b66f51a"
+    },
+    {
+      "sha": "26f44a2e18",
+      "message": "Fix signed overflow in vset bucket-timestamp rounding  (#4312)",
+      "date": "2026-08-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4312",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/26f44a2e18a1a8465e10222fee20be119bb573c5"
+    },
+    {
+      "sha": "d84a2e8598",
+      "message": "Deflake HRANDFIELD CASE 4 test with expired hash fields (#4331)",
+      "date": "2026-08-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4331",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d84a2e85989d1ea7cfbe225c2b4f6d280153a37b"
+    },
+    {
+      "sha": "a251aeb5d7",
+      "message": "Fix io-thread race in slot migration establish response handler (#4320)",
+      "date": "2026-08-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4320",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a251aeb5d723bfe0e6d1c50f80bae72a21468a12"
+    },
+    {
       "sha": "527a382220",
       "message": "Fix FIELDS token validation for HPERSIST and HTTL family commands (#4300)",
       "date": "2026-08-03",
@@ -2974,6 +3071,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4211",
       "commit_url": "https://github.com/valkey-io/valkey/commit/b349fe2821e3998534b1454c1b64a478daf8c6b7"
+    },
+    {
+      "sha": "af321c4dfd",
+      "message": "Fix RESP3 push frame torn apart on self-publish with copy avoidance (#4253)",
+      "date": "2026-08-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4253",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/af321c4dfd1b49f53a15cd12a1b28a843f414def"
     },
     {
       "sha": "f75e2d55fa",

@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 51,
+  "score": 54,
   "commit_count": 23,
-  "review_count": 28,
+  "review_count": 31,
   "repos": [
     "valkey-operator"
   ],
@@ -195,6 +195,70 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d46e70a523",
+      "message": "chore: Auto update and freeze pre-commit version (#370)",
+      "date": "2026-08-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/370",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d46e70a523d941ff312952bb00bb3c542a4b61b5"
+    },
+    {
+      "sha": "6fbed7fa74",
+      "message": "test(e2e): add shutdown-on-sigterm failover test (#295)",
+      "date": "2026-08-09",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/295",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6fbed7fa7442fd97074eb0b09b31b8b49e9e0db4"
+    },
+    {
+      "sha": "98d404f8da",
+      "message": "chore(deps): bump docker/setup-buildx-action from 4.1.0 to 4.2.0 (#347)",
+      "date": "2026-08-09",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/347",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/98d404f8dabef8852d8d56eb9279af68b8b25907"
+    },
+    {
+      "sha": "534b14a57d",
+      "message": "chore(deps): bump docker/login-action from 4.2.0 to 4.6.0 (#346)",
+      "date": "2026-08-09",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/346",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/534b14a57dd1ef40fac3a8f840ffa8808052b184"
+    },
+    {
+      "sha": "9e2c6613d1",
+      "message": "chore(deps): bump actions/checkout from 7.0.0 to 7.0.1 (#349)",
+      "date": "2026-08-09",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/349",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9e2c6613d1674b704da09561e1406c4d7296dc4d"
+    },
+    {
+      "sha": "0aea598509",
+      "message": "chore(deps): bump docker/metadata-action from 6.1.0 to 6.2.0 (#350)",
+      "date": "2026-08-09",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/350",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0aea598509fc227bf14a3c9a152f0baa0aeb35a2"
+    },
+    {
+      "sha": "32ccfba340",
+      "message": "chore(deps): bump actions/setup-go from 6.5.0 to 7.0.0 (#348)",
+      "date": "2026-08-08",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/348",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/32ccfba34003dbe910075ba063bebea7dee150a7"
+    },
+    {
+      "sha": "2d1a754527",
+      "message": "fix: grant _replication user +sync for dual-channel replication (#359)",
+      "date": "2026-08-04",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/359",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2d1a754527d6bd66e4983521a78a0c05983b1707"
+    },
     {
       "sha": "3a92e94921",
       "message": "feat: implement scheduling against node axis (#310)",

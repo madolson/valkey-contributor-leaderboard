@@ -2,13 +2,21 @@
   "title": "chzhoo",
   "login": "chzhoo",
   "avatar_url": "https://avatars.githubusercontent.com/u/198573582?v=4",
-  "score": 8,
-  "commit_count": 8,
+  "score": 9,
+  "commit_count": 9,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "ee7f288057",
+      "message": "Fix malformed AOF after a short read in MULTI (#4342)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4342",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ee7f288057e5ce6e2b1158db9404e4496e5f7a65"
+    },
     {
       "sha": "9669b26706",
       "message": "Reduce latency spikes during rehashing via incremental page release (#3481)",

@@ -2,9 +2,9 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 91,
+  "score": 93,
   "commit_count": 57,
-  "review_count": 34,
+  "review_count": 36,
   "repos": [
     "valkey-ci-agent",
     "valkey-search"
@@ -468,6 +468,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "92efaa6004",
+      "message": "Fix SIGSEGV in LatencySampler when hdr_init fails (#1230)",
+      "date": "2026-08-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1230",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/92efaa60041305ef31b7e20cd6acef523dbd7212"
+    },
+    {
+      "sha": "459878064f",
+      "message": "Fix duplicate label handling (#1283)",
+      "date": "2026-08-05",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1283",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/459878064ffe58796293379a51558354e80fcb1e"
+    },
     {
       "sha": "87978b530a",
       "message": "The query vector is not normalized on the prefiltering query execution path (#1222)",

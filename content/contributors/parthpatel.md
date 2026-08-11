@@ -6,7 +6,8 @@
   "commit_count": 5,
   "review_count": 2,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-container"
   ],
   "commit_list": [
     {

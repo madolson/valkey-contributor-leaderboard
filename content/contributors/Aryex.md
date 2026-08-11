@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 220,
-  "commit_count": 67,
-  "review_count": 153,
+  "score": 233,
+  "commit_count": 74,
+  "review_count": 159,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,62 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "32ec546f83",
+      "message": "docs: mark RESET as available for PHP and C# (#283)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/283",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/32ec546f834b30c12c7f64a3eabb5225c59fda24"
+    },
+    {
+      "sha": "05d825e449",
+      "message": "docs: mark MIGRATE as available for C# and PHP (#293)",
+      "date": "2026-08-08",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/293",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/05d825e449450dae24b8b20a32812bc043141bbd"
+    },
+    {
+      "sha": "104c50e700",
+      "message": "docs: mark SAVE as available for PHP and C# (#282)",
+      "date": "2026-08-08",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/282",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/104c50e70024f917cd6c6fd31758cce10eda8591"
+    },
+    {
+      "sha": "f1ce422850",
+      "message": "fix(rust): Handles IPv6 in create_client_from_uri (#6714)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6714",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f1ce422850013b561aef61e41b2f4ec68658a132"
+    },
+    {
+      "sha": "6f911766c2",
+      "message": "docs: mark BGREWRITEAOF as available for PHP and C# (#281)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/281",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/6f911766c2fb2c82c10340b84c697ed1f74467b9"
+    },
+    {
+      "sha": "ffc169d7c5",
+      "message": "docs: added ruby docs for learn, reference, and overview pages (#299)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/299",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/ffc169d7c5602b702c3b99f0c8a59d280149a8a1"
+    },
+    {
+      "sha": "103d2498ad",
+      "message": "ruby: added ruby how-to examples (#300)",
+      "date": "2026-08-04",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/300",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/103d2498ad86373c3729c3f6836b349690a1faee"
+    },
     {
       "sha": "02a1969604",
       "message": "Add Ruby supported commands (#302)",
@@ -554,6 +610,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f7784bd158",
+      "message": "Add periodic topology checks configuration for cluster client (#513)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/513",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/f7784bd15864f1629e3c27550c5da6dcd3e1fc3e"
+    },
+    {
+      "sha": "9fcb478415",
+      "message": "Add MUSL support (#291)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/291",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9fcb478415e4d0a8e8281885a8e231a5ccc22d54"
+    },
+    {
+      "sha": "65e607befa",
+      "message": "feat: add abandon detection for pool-borrowed clients (#6642)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6642",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/65e607befa317337aebb94d88395c733215c5dc3"
+    },
+    {
+      "sha": "d81c8caef3",
+      "message": "ci: raise file descriptor limit for pool tests (#6717)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6717",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d81c8caef3a56a7fc5696feda52f350ba0d3730d"
+    },
+    {
+      "sha": "9bcc71ddbc",
+      "message": "docs: add periodic checks configuration page (#314)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/314",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/9bcc71ddbc5227ecd8c048485c3eab1a671a9121"
+    },
+    {
+      "sha": "7c059a9a70",
+      "message": "Fix flaky TestClientPause integration tests (#508)",
+      "date": "2026-08-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/508",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/7c059a9a70157f4b366f1644b435278af25e802d"
+    },
     {
       "sha": "1adddc712c",
       "message": "dev(clean): Fix labels, add `address_resolver` clarification, xUnit1051 (#489)",

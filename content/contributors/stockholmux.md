@@ -2,10 +2,13 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 128,
+  "score": 129,
   "commit_count": 17,
-  "review_count": 111,
+  "review_count": 112,
   "repos": [
+    "valkey",
+    "valkey-container",
+    "valkey-doc",
     "valkey-io.github.io",
     "valkey-operator"
   ],
@@ -148,6 +151,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f31180f9cc",
+      "message": "Auto-publish scheduled blog posts on their date (#622)",
+      "date": "2026-08-06",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/622",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f31180f9cc31832dcce122b10bc6db8453dae1be"
+    },
     {
       "sha": "c2395516e9",
       "message": "Add blog post: Harbor Chose Valkey (#601)",

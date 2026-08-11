@@ -7,7 +7,8 @@
   "review_count": 32,
   "repos": [
     "valkey",
-    "valkey-doc"
+    "valkey-doc",
+    "valkey-json"
   ],
   "commit_list": [
     {

@@ -2,14 +2,38 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 30,
-  "commit_count": 16,
-  "review_count": 14,
+  "score": 34,
+  "commit_count": 19,
+  "review_count": 15,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "211e72fe51",
+      "message": "docs(valkey-resources): add example values and bump to 0.1.3 (#232)",
+      "date": "2026-08-05",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/232",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/211e72fe51218249a92187e24c403dc114ee9280"
+    },
+    {
+      "sha": "709bf5380a",
+      "message": "feat: stage pod template rolls via Spec.WorkloadRevision (#338)",
+      "date": "2026-08-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/338",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/709bf5380a1d0ddd2e47b17358fbbe43283144cc"
+    },
+    {
+      "sha": "93f137a5f0",
+      "message": "refactor(api)!: move ValkeyCluster TLS under spec.networking (#339)",
+      "date": "2026-08-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/339",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/93f137a5f033b2a925774f94f72f6ed7bfefeb53"
+    },
     {
       "sha": "6da50c1b9a",
       "message": "feat(valkey-resources): target operator v0.4.0",
@@ -140,6 +164,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "59b39e4039",
+      "message": "feat: add scheduling.zone.pinning (#344)",
+      "date": "2026-08-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/344",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/59b39e4039d1e45cae65457bc2a9299d95c877b2"
+    },
     {
       "sha": "3a92e94921",
       "message": "feat: implement scheduling against node axis (#310)",

@@ -2,14 +2,22 @@
   "title": "baswanth09",
   "login": "baswanth09",
   "avatar_url": "https://avatars.githubusercontent.com/u/122412818?v=4",
-  "score": 12,
-  "commit_count": 12,
+  "score": 13,
+  "commit_count": 13,
   "review_count": 0,
   "repos": [
     "valkey",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "bb1f1c7231",
+      "message": "Fix replica reporting incorrect search_number_of_indexes after full sync (#1265)",
+      "date": "2026-08-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1265",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/bb1f1c723122e078c45afab441ff81850783efbd"
+    },
     {
       "sha": "844be9cecd",
       "message": "Fix memory reporting when reader/writer threads change at runtime (#1119)",

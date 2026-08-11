@@ -2,14 +2,22 @@
   "title": "Sagar2366",
   "login": "Sagar2366",
   "avatar_url": "https://avatars.githubusercontent.com/u/26805882?v=4",
-  "score": 6,
-  "commit_count": 2,
+  "score": 7,
+  "commit_count": 3,
   "review_count": 4,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "6fbed7fa74",
+      "message": "test(e2e): add shutdown-on-sigterm failover test (#295)",
+      "date": "2026-08-09",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/295",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6fbed7fa7442fd97074eb0b09b31b8b49e9e0db4"
+    },
     {
       "sha": "a635afd9f7",
       "message": "feat: add priorityClassName to ValkeyCluster and ValkeyNode specs (#294)",

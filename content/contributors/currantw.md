@@ -2,18 +2,83 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 260,
-  "commit_count": 152,
-  "review_count": 108,
+  "score": 277,
+  "commit_count": 160,
+  "review_count": 117,
   "repos": [
     "valkey-doc",
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-docs",
     "valkey-glide-php",
+    "valkey-glide-ruby",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "f7784bd158",
+      "message": "Add periodic topology checks configuration for cluster client (#513)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/513",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/f7784bd15864f1629e3c27550c5da6dcd3e1fc3e"
+    },
+    {
+      "sha": "9bcc71ddbc",
+      "message": "docs: add periodic checks configuration page (#314)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/314",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/9bcc71ddbc5227ecd8c048485c3eab1a671a9121"
+    },
+    {
+      "sha": "645396a8e4",
+      "message": "feat(glide-core): route CLIENT KILL to all nodes (#6709)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6709",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/645396a8e4008e1d82686e8a2c0d1062179bc7f6"
+    },
+    {
+      "sha": "a83acbe854",
+      "message": "Add inflight requests limit configuration (#509)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/509",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/a83acbe85401d8042fbfa09f0bf28092117418d4"
+    },
+    {
+      "sha": "cb6f3d55a4",
+      "message": "feat(config): Add mutual TLS (mTLS) client certificate support (#500)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/500",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/cb6f3d55a4963a8e0fb1de459530ff5326e7ccc3"
+    },
+    {
+      "sha": "0d4a176bdd",
+      "message": "Migrate FFI string marshaling from LPStr to LPUTF8Str for Windows Unicode support (#502)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/502",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/0d4a176bdd5b223855ad29798588dd4ebd7b45ff"
+    },
+    {
+      "sha": "0988bde808",
+      "message": "chore(dev): improve dev tooling \u2014 check-todos PR validation, Python lint/format (#503)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/503",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/0988bde80805aa6a112e3aa4d17ce45ae19600d8"
+    },
+    {
+      "sha": "7c059a9a70",
+      "message": "Fix flaky TestClientPause integration tests (#508)",
+      "date": "2026-08-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/508",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/7c059a9a70157f4b366f1644b435278af25e802d"
+    },
     {
       "sha": "3ce4ed2f34",
       "message": "fix(client): GetServers() throws FormatException on DNS hostnames (#497)",
@@ -1232,6 +1297,142 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "15247fabf6",
+      "message": "fix: bound mTLS cert reload interval and align Node field names across SDKs (#6678)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6678",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/15247fabf63f10a780db00db16a1688fc30b1191"
+    },
+    {
+      "sha": "18fcf20481",
+      "message": "chore(deps): bump actions/setup-java from 5.6.0 to 5.7.0 in the minor-updates group (#517)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/517",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/18fcf204819956cb9a3b4828cbfb7265ef7e5103"
+    },
+    {
+      "sha": "92ca2edb8f",
+      "message": "chore(deps): bump the patch-updates group with 3 updates (#516)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/516",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/92ca2edb8f88059d9bfa2bf0453b4a919413770c"
+    },
+    {
+      "sha": "de246e7045",
+      "message": "chore(deps): bump valkey-glide from `cf3d56f` to `98f0d6c` (#518)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/518",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/de246e7045013c3548705653b752cee15cdefbde"
+    },
+    {
+      "sha": "2e16fb453a",
+      "message": "Bump the patch-updates group with 1 update (#515)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/515",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2e16fb453afa8af333ba6bea7dc5fe37752bae43"
+    },
+    {
+      "sha": "32ec546f83",
+      "message": "docs: mark RESET as available for PHP and C# (#283)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/283",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/32ec546f834b30c12c7f64a3eabb5225c59fda24"
+    },
+    {
+      "sha": "05d825e449",
+      "message": "docs: mark MIGRATE as available for C# and PHP (#293)",
+      "date": "2026-08-08",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/293",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/05d825e449450dae24b8b20a32812bc043141bbd"
+    },
+    {
+      "sha": "104c50e700",
+      "message": "docs: mark SAVE as available for PHP and C# (#282)",
+      "date": "2026-08-08",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/282",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/104c50e70024f917cd6c6fd31758cce10eda8591"
+    },
+    {
+      "sha": "6f911766c2",
+      "message": "docs: mark BGREWRITEAOF as available for PHP and C# (#281)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/281",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/6f911766c2fb2c82c10340b84c697ed1f74467b9"
+    },
+    {
+      "sha": "98f0d6cb4b",
+      "message": "Python: Fix flaky test_subscription_sync_timestamp_metric_on_success (#6415)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6415",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/98f0d6cb4b7c1c8ac89212d44708b3d48b4f070d"
+    },
+    {
+      "sha": "703590cd4a",
+      "message": "Update TLS test Cluster creation setup in cluster_manager.py to fix timeouts. (#6700)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6700",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/703590cd4a2c4f86ea0f709c9aa425bd92957099"
+    },
+    {
+      "sha": "ffc169d7c5",
+      "message": "docs: added ruby docs for learn, reference, and overview pages (#299)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/299",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/ffc169d7c5602b702c3b99f0c8a59d280149a8a1"
+    },
+    {
+      "sha": "0185803d5b",
+      "message": "Implement failover and replicaof command (#282)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/282",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/0185803d5b1ea12b2361e099c94ed40fe3ff29d6"
+    },
+    {
+      "sha": "181876bbe6",
+      "message": "chore(deps): bump taiki-e/install-action from 2.84.0 to 2.85.2 in the minor-updates group (#506)",
+      "date": "2026-08-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/506",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/181876bbe6b1bce24bd61f2c34ba437f45ca121a"
+    },
+    {
+      "sha": "fa4dd656c0",
+      "message": "chore(deps): bump actions/setup-python from 6.3.0 to 7.0.0 (#507)",
+      "date": "2026-08-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/507",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/fa4dd656c0b7f32a17b8b77abcfd6cc3a173b2b3"
+    },
+    {
+      "sha": "0190469692",
+      "message": "chore(deps): bump tokio from 1.53.0 to 1.53.1 in /rust in the patch-updates group (#504)",
+      "date": "2026-08-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/504",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/0190469692cb87e2b53ed2b89bc501217eabca31"
+    },
+    {
+      "sha": "b3df3446f6",
+      "message": "chore(deps): bump the patch-updates group with 3 updates (#505)",
+      "date": "2026-08-04",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/505",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/b3df3446f60da6a3d0886e3a424b28f958e46f2c"
+    },
     {
       "sha": "4f74de20b0",
       "message": "feat(node): add mTLS client certificate/key support with automatic certificate reloading (#6383)",

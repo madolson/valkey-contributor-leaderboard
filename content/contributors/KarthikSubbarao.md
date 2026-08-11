@@ -2,17 +2,19 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 261,
+  "score": 263,
   "commit_count": 100,
-  "review_count": 161,
+  "review_count": 163,
   "repos": [
     "valkey",
     "valkey-bloom",
     "valkey-doc",
     "valkey-io.github.io",
+    "valkey-json",
     "valkey-rfc",
     "valkey-search",
-    "valkey-test-framework"
+    "valkey-test-framework",
+    "valkeymodule-rs"
   ],
   "commit_list": [
     {
@@ -817,6 +819,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "459878064f",
+      "message": "Fix duplicate label handling (#1283)",
+      "date": "2026-08-05",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1283",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/459878064ffe58796293379a51558354e80fcb1e"
+    },
+    {
+      "sha": "7a7b945386",
+      "message": "Fix up test_skip_index_load.py (#1172)",
+      "date": "2026-08-05",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1172",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7a7b94538620c6da7205bc2a39d9043ab5f6f3d7"
+    },
     {
       "sha": "9ab369980f",
       "message": "Match bloom memory tracking by small over count of bytes after a defrag operation (#110)",

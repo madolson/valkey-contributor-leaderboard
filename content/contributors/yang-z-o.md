@@ -8,7 +8,8 @@
   "repos": [
     "valkey",
     "valkey-doc",
-    "valkey-io.github.io"
+    "valkey-io.github.io",
+    "valkey-swift"
   ],
   "commit_list": [
     {

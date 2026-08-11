@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 398,
+  "score": 400,
   "commit_count": 146,
-  "review_count": 252,
+  "review_count": 254,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1189,6 +1189,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8eb992eb09",
+      "message": "Fix GEORADIUS STORE ACL bypass via duplicate options (#3971)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3971",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8eb992eb09467a4e628a694cba93915a816658b3"
+    },
+    {
+      "sha": "00e9078787",
+      "message": "Clear import-source connection flag on RESET (#3973)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3973",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/00e90787870a8e9603684bcb6fabf306a8b5a722"
+    },
     {
       "sha": "7d0acb4c97",
       "message": "Making PR's run unstable and latest only, adding a daily job for all versions (#117)",

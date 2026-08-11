@@ -6,7 +6,8 @@
   "commit_count": 1,
   "review_count": 1,
   "repos": [
-    "valkey-io.github.io"
+    "valkey-io.github.io",
+    "valkey-py"
   ],
   "commit_list": [
     {

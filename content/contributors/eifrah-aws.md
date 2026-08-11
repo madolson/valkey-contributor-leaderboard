@@ -2,8 +2,8 @@
   "title": "eifrah-aws",
   "login": "eifrah-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/170855270?v=4",
-  "score": 213,
-  "commit_count": 93,
+  "score": 214,
+  "commit_count": 94,
   "review_count": 120,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "d84a2e8598",
+      "message": "Deflake HRANDFIELD CASE 4 test with expired hash fields (#4331)",
+      "date": "2026-08-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4331",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d84a2e85989d1ea7cfbe225c2b4f6d280153a37b"
+    },
     {
       "sha": "d7384b9192",
       "message": "Fix cluster AUX-field control-character and delimiter injection (#3848)",

@@ -2,11 +2,12 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 249,
+  "score": 250,
   "commit_count": 94,
-  "review_count": 155,
+  "review_count": 156,
   "repos": [
     "valkey",
+    "valkey-admin",
     "valkey-bloom",
     "valkey-bundle",
     "valkey-container",
@@ -16,6 +17,7 @@
     "valkey-io.github.io",
     "valkey-json",
     "valkey-ldap",
+    "valkey-perf-benchmark",
     "valkey-release-automation",
     "valkey-search",
     "valkey-test-framework"
@@ -775,6 +777,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "94d221cdde",
+      "message": "Spelling 7 (#2244)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2244",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/94d221cdde3890cf30baf285184a8e863641a67d"
+    },
     {
       "sha": "58c6f996c3",
       "message": "Automated Updates for Valkey Bundle (#118)",

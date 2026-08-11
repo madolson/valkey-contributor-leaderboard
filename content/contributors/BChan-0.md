@@ -2,14 +2,30 @@
   "title": "BChan-0",
   "login": "BChan-0",
   "avatar_url": "https://avatars.githubusercontent.com/u/213245020?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 7,
+  "commit_count": 7,
   "review_count": 0,
   "repos": [
     "valkey",
     "valkey-ci-agent"
   ],
   "commit_list": [
+    {
+      "sha": "cc353b1f68",
+      "message": "Guard against malformed failure artifacts (#4291)",
+      "date": "2026-08-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4291",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cc353b1f683a4a3cae2f3173517827230dc8e489"
+    },
+    {
+      "sha": "cab64acb5a",
+      "message": "Guard against malformed failure artifacts (#77)",
+      "date": "2026-08-03",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/77",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/cab64acb5a21a41a70a9ea06eb03b51e0c79eaa1"
+    },
     {
       "sha": "dc1ccdd287",
       "message": "Parse recently closed Issues in case failures from Daily CI are addressed before Failure Detector runs (#73)",

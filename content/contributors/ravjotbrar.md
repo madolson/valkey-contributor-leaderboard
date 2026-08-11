@@ -2,14 +2,54 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 173,
-  "commit_count": 101,
-  "review_count": 72,
+  "score": 179,
+  "commit_count": 106,
+  "review_count": 73,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "51d37a1c88",
+      "message": "Unlock database field for cluster discovery endpoints (#463)",
+      "date": "2026-08-10",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/463",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/51d37a1c883cd5e134117aca529893ebde225fcf"
+    },
+    {
+      "sha": "7ecf31c3a0",
+      "message": "Fix documentation inaccuracies (#453)",
+      "date": "2026-08-07",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/453",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/7ecf31c3a0244443f9170dd62e0c2f9105fcd9bb"
+    },
+    {
+      "sha": "59572c9679",
+      "message": "Pipeline per-key commands for performance (#451)",
+      "date": "2026-08-07",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/451",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/59572c96790673162b3355746726c45109bb7494"
+    },
+    {
+      "sha": "0945312e65",
+      "message": "Update security reporting to use GitHub security advisories (#449)",
+      "date": "2026-08-07",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/449",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/0945312e65883d2b6eb9277338c629c80475485e"
+    },
+    {
+      "sha": "bbbe10662c",
+      "message": "Add issue templates for bug reports and feature requests (#448)",
+      "date": "2026-08-05",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/448",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/bbbe10662cb0572590e892b83ca97f3247d0bfe1"
+    },
     {
       "sha": "0500d129ba",
       "message": "Update README version to v1.1.0 (#437)",
@@ -820,6 +860,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b16009f51d",
+      "message": "Update connections to allow numbered databases beyond 16 (#452)",
+      "date": "2026-08-05",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/452",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/b16009f51d863b69bf2b6a6412d06e7fd9ddb313"
+    },
     {
       "sha": "8710be1e55",
       "message": "Add podman compose fallback. (#430)",

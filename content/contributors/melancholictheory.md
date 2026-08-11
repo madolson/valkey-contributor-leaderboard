@@ -2,13 +2,21 @@
   "title": "melancholictheory",
   "login": "melancholictheory",
   "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "eb1d4672da",
+      "message": "feat: apply ACL changes live without rolling pods (#319)",
+      "date": "2026-08-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/319",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/eb1d4672dae0725cff7df43461743b6856358e3f"
+    },
     {
       "sha": "252ff4f450",
       "message": "feat: configurable terminationGracePeriodSeconds for graceful failover (#271)",

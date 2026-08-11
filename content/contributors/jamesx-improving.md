@@ -2,12 +2,14 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 240,
+  "score": 244,
   "commit_count": 79,
-  "review_count": 161,
+  "review_count": 165,
   "repos": [
     "valkey-glide",
-    "valkey-glide-csharp"
+    "valkey-glide-csharp",
+    "valkey-glide-php",
+    "valkey-glide-ruby"
   ],
   "commit_list": [
     {
@@ -644,6 +646,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "15247fabf6",
+      "message": "fix: bound mTLS cert reload interval and align Node field names across SDKs (#6678)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6678",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/15247fabf63f10a780db00db16a1688fc30b1191"
+    },
+    {
+      "sha": "9fcb478415",
+      "message": "Add MUSL support (#291)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/291",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9fcb478415e4d0a8e8281885a8e231a5ccc22d54"
+    },
+    {
+      "sha": "f1ce422850",
+      "message": "fix(rust): Handles IPv6 in create_client_from_uri (#6714)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6714",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f1ce422850013b561aef61e41b2f4ec68658a132"
+    },
+    {
+      "sha": "dae3488278",
+      "message": "test(go): fix flaky TestScriptKill race condition (#6263)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6263",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dae34882786b183c3d33aa53a4f102c27a7d2b87"
+    },
     {
       "sha": "cf3d56f080",
       "message": "feat(utils): support cluster-announce-hostname in cluster_manager.py (#6667)",

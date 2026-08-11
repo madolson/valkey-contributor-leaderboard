@@ -8,6 +8,7 @@
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
+    "valkey-glide-docs",
     "valkey-glide-php",
     "valkey-glide-ruby"
   ],

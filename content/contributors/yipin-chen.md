@@ -2,11 +2,16 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 765,
+  "score": 773,
   "commit_count": 45,
-  "review_count": 720,
+  "review_count": 728,
   "repos": [
-    "valkey-glide"
+    "valkey-doc",
+    "valkey-glide",
+    "valkey-glide-csharp",
+    "valkey-glide-docs",
+    "valkey-glide-php",
+    "valkey-glide-ruby"
   ],
   "commit_list": [
     {
@@ -371,6 +376,70 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f7784bd158",
+      "message": "Add periodic topology checks configuration for cluster client (#513)",
+      "date": "2026-08-10",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/513",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/f7784bd15864f1629e3c27550c5da6dcd3e1fc3e"
+    },
+    {
+      "sha": "5885031976",
+      "message": "Implement LATENCY HISTORY, LATEST, and RESET commands (#283)",
+      "date": "2026-08-08",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/283",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/5885031976698d001dda26af0689765e08005ba6"
+    },
+    {
+      "sha": "f1ce422850",
+      "message": "fix(rust): Handles IPv6 in create_client_from_uri (#6714)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6714",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f1ce422850013b561aef61e41b2f4ec68658a132"
+    },
+    {
+      "sha": "4c90d80b2a",
+      "message": "fix: make TimeoutWatchdog singleton fork-safe (#6716)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6716",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4c90d80b2a45a441bc62f5fd3d2bfaea15be7759"
+    },
+    {
+      "sha": "65e607befa",
+      "message": "feat: add abandon detection for pool-borrowed clients (#6642)",
+      "date": "2026-08-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6642",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/65e607befa317337aebb94d88395c733215c5dc3"
+    },
+    {
+      "sha": "703590cd4a",
+      "message": "Update TLS test Cluster creation setup in cluster_manager.py to fix timeouts. (#6700)",
+      "date": "2026-08-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6700",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/703590cd4a2c4f86ea0f709c9aa425bd92957099"
+    },
+    {
+      "sha": "dae3488278",
+      "message": "test(go): fix flaky TestScriptKill race condition (#6263)",
+      "date": "2026-08-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6263",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dae34882786b183c3d33aa53a4f102c27a7d2b87"
+    },
+    {
+      "sha": "103d2498ad",
+      "message": "ruby: added ruby how-to examples (#300)",
+      "date": "2026-08-04",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/300",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/103d2498ad86373c3729c3f6836b349690a1faee"
+    },
     {
       "sha": "841d6cfc54",
       "message": "CD: Retry RC node test install to handle npm propagation race (#6343)",

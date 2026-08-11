@@ -6,6 +6,7 @@
   "commit_count": 59,
   "review_count": 137,
   "repos": [
+    "valkey-doc",
     "valkey-glide"
   ],
   "commit_list": [

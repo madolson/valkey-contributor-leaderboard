@@ -5,7 +5,9 @@
   "score": 34,
   "commit_count": 0,
   "review_count": 34,
-  "repos": [],
+  "repos": [
+    "valkey"
+  ],
   "commit_list": [],
   "review_list": [
     {

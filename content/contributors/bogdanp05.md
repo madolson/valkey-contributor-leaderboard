@@ -2,15 +2,24 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 46,
-  "commit_count": 6,
+  "score": 48,
+  "commit_count": 8,
   "review_count": 40,
   "repos": [
     "libvalkey-py",
+    "planet",
     "valkey",
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "7c7468ddfe",
+      "message": "Fix flaky test_bgsave",
+      "date": "2026-08-04",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/331",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/7c7468ddfe6f2bd29dfdedcbc7cd67f9cefc0a45"
+    },
     {
       "sha": "2c72b6477d",
       "message": "ci: fix FreeBSD job",
@@ -34,6 +43,14 @@
       "repo": "valkey-py",
       "pr_url": "https://github.com/valkey-io/valkey-py/pull/239",
       "commit_url": "https://github.com/valkey-io/valkey-py/commit/c01505e547f614f278b882a016557b6ed652bb9f"
+    },
+    {
+      "sha": "47f4b17179",
+      "message": "Add news_techstrongit_filtered",
+      "date": "2025-11-04",
+      "repo": "planet",
+      "pr_url": "https://github.com/valkey-io/planet/pull/10",
+      "commit_url": "https://github.com/valkey-io/planet/commit/47f4b1717970aedaf06c48c2a76568c1c241e084"
     },
     {
       "sha": "33844dad49",
@@ -68,6 +85,22 @@
       "repo": "libvalkey-py",
       "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/81",
       "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/84876791a95e21f627c81c627ad47443d520d2ea"
+    },
+    {
+      "sha": "f8e62fc55c",
+      "message": "build(deps): bump actions/setup-python from 6 to 7",
+      "date": "2026-08-01",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/329",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/f8e62fc55c823f61ef210736418b6acfb011ae48"
+    },
+    {
+      "sha": "c6cc6ba35e",
+      "message": "build(deps): bump rojopolis/spellcheck-github-actions",
+      "date": "2026-08-01",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/328",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/c6cc6ba35e6ef7d91818d15b878d9fffd3225473"
     },
     {
       "sha": "66ba154ffc",

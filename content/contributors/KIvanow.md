@@ -2,8 +2,8 @@
   "title": "KIvanow",
   "login": "KIvanow",
   "avatar_url": "https://avatars.githubusercontent.com/u/541999?v=4",
-  "score": 12,
-  "commit_count": 10,
+  "score": 13,
+  "commit_count": 11,
   "review_count": 2,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "d81550cf04",
+      "message": "Add blog post: How modern AI workloads map to Valkey primitives (#574)",
+      "date": "2026-08-05",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/574",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/d81550cf04b9d14ea9c25dca31356b5787633933"
+    },
     {
       "sha": "3a27559aba",
       "message": "Prevent module loading during async replication and slot migration (#3039)",

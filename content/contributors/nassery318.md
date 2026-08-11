@@ -2,9 +2,9 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 127,
+  "score": 129,
   "commit_count": 108,
-  "review_count": 19,
+  "review_count": 21,
   "repos": [
     "valkey-admin"
   ],
@@ -875,6 +875,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "51d37a1c88",
+      "message": "Unlock database field for cluster discovery endpoints (#463)",
+      "date": "2026-08-10",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/463",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/51d37a1c883cd5e134117aca529893ebde225fcf"
+    },
+    {
+      "sha": "bbbe10662c",
+      "message": "Add issue templates for bug reports and feature requests (#448)",
+      "date": "2026-08-05",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/448",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/bbbe10662cb0572590e892b83ca97f3247d0bfe1"
+    },
     {
       "sha": "a015aea63a",
       "message": "Fix monitor and node error banners (#436)",

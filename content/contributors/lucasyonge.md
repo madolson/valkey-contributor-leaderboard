@@ -7,6 +7,8 @@
   "review_count": 12,
   "repos": [
     "valkey",
+    "valkey-container",
+    "valkey-doc",
     "valkey-io.github.io"
   ],
   "commit_list": [

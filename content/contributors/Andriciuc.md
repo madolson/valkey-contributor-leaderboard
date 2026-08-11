@@ -2,14 +2,23 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 7,
-  "commit_count": 7,
+  "score": 8,
+  "commit_count": 8,
   "review_count": 0,
   "repos": [
+    "valkey",
     "valkey-doc",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "0fc8cdafcb",
+      "message": "Update module.c with missing FLAG_REPLICA description (#4279)",
+      "date": "2026-08-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4279",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0fc8cdafcba8ee7b443ba1381a8847f8a3579bd5"
+    },
     {
       "sha": "23ce45cb8a",
       "message": "Update ZRANGE WITHSCORES examples (#446)",

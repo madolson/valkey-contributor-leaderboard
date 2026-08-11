@@ -2,14 +2,22 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 49,
-  "commit_count": 18,
-  "review_count": 31,
+  "score": 52,
+  "commit_count": 19,
+  "review_count": 33,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "327db78a70",
+      "message": "reset scan cursor when table is deleted (#4322)",
+      "date": "2026-08-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4322",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/327db78a709e3daab235267d239dba7a86a9a6f2"
+    },
     {
       "sha": "436dcaeee9",
       "message": "Improve maintainability for kvstoreScan (#3588)",
@@ -156,6 +164,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b2fb0e13f5",
+      "message": "Fix/ready key blocked client uaf (#4212)",
+      "date": "2026-08-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4212",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b2fb0e13f5b4c8c2fb63dcfc2c37a067a0d6d20b"
+    },
+    {
+      "sha": "114e415b6c",
+      "message": "Account for deferred client frees during eviction (#4152)",
+      "date": "2026-08-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4152",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/114e415b6c6dca149dd55eb7a4ee34a8b6e93ee8"
+    },
     {
       "sha": "fb94efbd9b",
       "message": "Optimize .clang-format and add enum/argument formatting options (#3905)",

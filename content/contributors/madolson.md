@@ -2,10 +2,11 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 878,
-  "commit_count": 196,
-  "review_count": 682,
+  "score": 886,
+  "commit_count": 199,
+  "review_count": 687,
   "repos": [
+    ".github",
     "valkey",
     "valkey-admin",
     "valkey-bloom",
@@ -14,9 +15,36 @@
     "valkey-doc",
     "valkey-hashes",
     "valkey-io.github.io",
-    "valkey-release-automation"
+    "valkey-json",
+    "valkey-perf-benchmark",
+    "valkey-release-automation",
+    "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "0afdf6a4d3",
+      "message": "Tests: Add subject alternative names to the TLS test certificates (#4383)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4383",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0afdf6a4d3f9d7998d1265bdbda5b36a1982453b"
+    },
+    {
+      "sha": "b713c6acf2",
+      "message": "Tests: Restore tag state when a server fails to start (#4382)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4382",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b713c6acf29feaa6023644565e69a912843b4690"
+    },
+    {
+      "sha": "f31180f9cc",
+      "message": "Auto-publish scheduled blog posts on their date (#622)",
+      "date": "2026-08-06",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/622",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f31180f9cc31832dcce122b10bc6db8453dae1be"
+    },
     {
       "sha": "f75e2d55fa",
       "message": "Skip bad-arity commands when prefetching queued command keys (#4302)",
@@ -1587,6 +1615,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "94d221cdde",
+      "message": "Spelling 7 (#2244)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2244",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/94d221cdde3890cf30baf285184a8e863641a67d"
+    },
+    {
+      "sha": "119aac6acf",
+      "message": "Validate PUBLISH and MODULE payload lengths against packet size (#3972)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3972",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/119aac6acf494ad2d8776aa643cd0fb7315bbabb"
+    },
+    {
+      "sha": "2fa20454ab",
+      "message": "Fix re-entry into processPendingCommandAndInputBuffer on blocked clients (#4376)",
+      "date": "2026-08-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4376",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2fa20454ab71638b6388812383b2fa6e993db66d"
+    },
+    {
+      "sha": "28aa048e25",
+      "message": "Fix garbage earliest-expiry read in vsetEstimatedEarliestExpiry RAX path (#3956)",
+      "date": "2026-08-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3956",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/28aa048e250b73cc868b8ae44dbd2682e14fef9d"
+    },
+    {
+      "sha": "327db78a70",
+      "message": "reset scan cursor when table is deleted (#4322)",
+      "date": "2026-08-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4322",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/327db78a709e3daab235267d239dba7a86a9a6f2"
+    },
     {
       "sha": "6736cc5803",
       "message": "conf: document chown(2) requirement for unixsocketgroup (#3730)",

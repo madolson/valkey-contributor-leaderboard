@@ -5,7 +5,9 @@
   "score": 2,
   "commit_count": 0,
   "review_count": 2,
-  "repos": [],
+  "repos": [
+    "valkey-helm"
+  ],
   "commit_list": [],
   "review_list": [
     {
