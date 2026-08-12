@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 886,
+  "score": 888,
   "commit_count": 199,
-  "review_count": 687,
+  "review_count": 689,
   "repos": [
     ".github",
     "valkey",
@@ -1615,6 +1615,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cc45d0637a",
+      "message": "Fix various typos around otherwise with a comma",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2248",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cc45d0637a00d59d41cd1e1315de1ced19e78982"
+    },
+    {
+      "sha": "42aff62b30",
+      "message": "Fix \"setup\" related typos",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2251",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/42aff62b3094489d3b6726f9907f92285bb1d3a5"
+    },
     {
       "sha": "94d221cdde",
       "message": "Spelling 7 (#2244)",

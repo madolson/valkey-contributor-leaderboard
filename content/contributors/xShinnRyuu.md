@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 401,
+  "score": 402,
   "commit_count": 117,
-  "review_count": 284,
+  "review_count": 285,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -953,6 +953,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8dd6c14d04",
+      "message": "Add `CLIENT KILL` command support (#510)",
+      "date": "2026-08-12",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/510",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8dd6c14d04b6efafd2bf286da09598a32ecd11e3"
+    },
     {
       "sha": "18fcf20481",
       "message": "chore(deps): bump actions/setup-java from 5.6.0 to 5.7.0 in the minor-updates group (#517)",

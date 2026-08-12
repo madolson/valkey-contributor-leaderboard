@@ -2,9 +2,9 @@
   "title": "Fusl",
   "login": "Fusl",
   "avatar_url": "https://avatars.githubusercontent.com/u/2349496?v=4",
-  "score": 19,
+  "score": 20,
   "commit_count": 15,
-  "review_count": 4,
+  "review_count": 5,
   "repos": [
     "iovalkey",
     "valkey",
@@ -134,6 +134,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cc45d0637a",
+      "message": "Fix various typos around otherwise with a comma",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2248",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cc45d0637a00d59d41cd1e1315de1ced19e78982"
+    },
     {
       "sha": "57459f77d4",
       "message": "Spelling 3 (#2240)",

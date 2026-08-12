@@ -171404,6 +171404,82 @@
       "repo": "valkeymodule-rs",
       "reviewed": false,
       "pr_url": ""
+    },
+    {
+      "sha": "cc45d0637a00d59d41cd1e1315de1ced19e78982",
+      "author_login": "jsoref",
+      "author_id": 2119212,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
+      "message": "Fix various typos around otherwise with a comma",
+      "date": "2026-08-12T00:03:01Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "Fusl",
+          "date": "2025-06-24T04:15:00Z"
+        },
+        {
+          "login": "rainsupreme",
+          "date": "2026-08-05T21:49:24Z"
+        },
+        {
+          "login": "madolson",
+          "date": "2026-08-12T00:02:34Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2248"
+    },
+    {
+      "sha": "42aff62b3094489d3b6726f9907f92285bb1d3a5",
+      "author_login": "jsoref",
+      "author_id": 2119212,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
+      "message": "Fix \"setup\" related typos",
+      "date": "2026-08-12T00:01:48Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-08-12T00:01:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2251"
+    },
+    {
+      "sha": "5813754ff7ac09b7008bfa4470b3a23156ea96f0",
+      "author_login": "harrylin98",
+      "author_id": 49881386,
+      "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
+      "message": "Fix include order in custom_matchers.hpp (#4388)",
+      "date": "2026-08-11T23:56:40Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-08-11T19:34:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4388"
+    },
+    {
+      "sha": "8dd6c14d04b6efafd2bf286da09598a32ecd11e3",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "Add `CLIENT KILL` command support (#510)",
+      "date": "2026-08-12T00:16:42Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-07T00:01:10Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-08-11T19:29:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/510"
     }
   ]
 }

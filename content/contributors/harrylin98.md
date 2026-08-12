@@ -2,13 +2,21 @@
   "title": "harrylin98",
   "login": "harrylin98",
   "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
-  "score": 10,
-  "commit_count": 9,
+  "score": 11,
+  "commit_count": 10,
   "review_count": 1,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "5813754ff7",
+      "message": "Fix include order in custom_matchers.hpp (#4388)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4388",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5813754ff7ac09b7008bfa4470b3a23156ea96f0"
+    },
     {
       "sha": "fb94efbd9b",
       "message": "Optimize .clang-format and add enum/argument formatting options (#3905)",

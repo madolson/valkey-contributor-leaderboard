@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 352,
+  "score": 353,
   "commit_count": 93,
-  "review_count": 259,
+  "review_count": 260,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -779,6 +779,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4342",
       "commit_url": "https://github.com/valkey-io/valkey/commit/ee7f288057e5ce6e2b1158db9404e4496e5f7a65"
+    },
+    {
+      "sha": "5813754ff7",
+      "message": "Fix include order in custom_matchers.hpp (#4388)",
+      "date": "2026-08-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4388",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5813754ff7ac09b7008bfa4470b3a23156ea96f0"
     },
     {
       "sha": "be0a7cbd2b",

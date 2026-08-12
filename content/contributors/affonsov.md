@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 254,
+  "score": 255,
   "commit_count": 92,
-  "review_count": 162,
+  "review_count": 163,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -751,6 +751,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8dd6c14d04",
+      "message": "Add `CLIENT KILL` command support (#510)",
+      "date": "2026-08-12",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/510",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8dd6c14d04b6efafd2bf286da09598a32ecd11e3"
+    },
     {
       "sha": "05d825e449",
       "message": "docs: mark MIGRATE as available for C# and PHP (#293)",

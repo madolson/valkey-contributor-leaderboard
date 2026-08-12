@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 100,
+  "score": 101,
   "commit_count": 34,
-  "review_count": 66,
+  "review_count": 67,
   "repos": [
     "valkey",
     "valkey-container",
@@ -286,6 +286,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cc45d0637a",
+      "message": "Fix various typos around otherwise with a comma",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2248",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cc45d0637a00d59d41cd1e1315de1ced19e78982"
+    },
     {
       "sha": "94d221cdde",
       "message": "Spelling 7 (#2244)",

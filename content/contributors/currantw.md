@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 277,
-  "commit_count": 160,
+  "score": 278,
+  "commit_count": 161,
   "review_count": 117,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "8dd6c14d04",
+      "message": "Add `CLIENT KILL` command support (#510)",
+      "date": "2026-08-12",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/510",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8dd6c14d04b6efafd2bf286da09598a32ecd11e3"
+    },
     {
       "sha": "f7784bd158",
       "message": "Add periodic topology checks configuration for cluster client (#513)",
