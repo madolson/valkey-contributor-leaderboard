@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 101,
+  "score": 105,
   "commit_count": 34,
-  "review_count": 67,
+  "review_count": 71,
   "repos": [
     "valkey",
     "valkey-container",
@@ -293,6 +293,38 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/2248",
       "commit_url": "https://github.com/valkey-io/valkey/commit/cc45d0637a00d59d41cd1e1315de1ced19e78982"
+    },
+    {
+      "sha": "2c38467d3b",
+      "message": "Fixes grammatical and spelling errors (#2249)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2249",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2c38467d3bed09c9e3b8aa7476cde83b3e5c15f3"
+    },
+    {
+      "sha": "975cfc1020",
+      "message": "Correct spelling in module cleanup, command docs, source comments, and Tcl tests (#2243)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2243",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/975cfc1020fc9adaa6681c551e6a7362b74a4b85"
+    },
+    {
+      "sha": "975cfc1020",
+      "message": "Correct spelling in module cleanup, command docs, source comments, and Tcl tests (#2243)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2243",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/975cfc1020fc9adaa6681c551e6a7362b74a4b85"
+    },
+    {
+      "sha": "875696ffec",
+      "message": "Clear the redaction bitmap between commands in a transaction (#4323)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4323",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/875696ffec88b34493fb931251c1711d779dcad4"
     },
     {
       "sha": "94d221cdde",

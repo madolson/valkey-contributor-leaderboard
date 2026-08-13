@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 52,
+  "score": 53,
   "commit_count": 19,
-  "review_count": 33,
+  "review_count": 34,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -164,6 +164,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "db7da3d115",
+      "message": "Resolve a key's slot from the key, not from the executing command (#4380)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4380",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/db7da3d1154baa795fad5cd2fd1f57e0a3c2435f"
+    },
     {
       "sha": "b2fb0e13f5",
       "message": "Fix/ready key blocked client uaf (#4212)",

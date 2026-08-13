@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 10,
+  "score": 11,
   "commit_count": 1,
-  "review_count": 9,
+  "review_count": 10,
   "repos": [
     "valkey-glide",
     "valkey-glide-docs",
@@ -22,6 +22,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8e1d8b1c7c",
+      "message": "feat(node): replace Proxy-based abandon detection with Rust-level pool tracking (#6747)",
+      "date": "2026-08-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6747",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8e1d8b1c7c182c8b7b4f3afa7a0e9b1520c77e0b"
+    },
     {
       "sha": "5885031976",
       "message": "Implement LATENCY HISTORY, LATEST, and RESET commands (#283)",

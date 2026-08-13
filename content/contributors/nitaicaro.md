@@ -2,13 +2,21 @@
   "title": "nitaicaro",
   "login": "nitaicaro",
   "avatar_url": "https://avatars.githubusercontent.com/u/42576749?v=4",
-  "score": 7,
-  "commit_count": 6,
+  "score": 8,
+  "commit_count": 7,
   "review_count": 1,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "db7da3d115",
+      "message": "Resolve a key's slot from the key, not from the executing command (#4380)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4380",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/db7da3d1154baa795fad5cd2fd1f57e0a3c2435f"
+    },
     {
       "sha": "0e52ec8790",
       "message": "Add support for CONFIG INFO <config> to display config type and valid values (#3050)",

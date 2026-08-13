@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 127,
+  "score": 128,
   "commit_count": 44,
-  "review_count": 83,
+  "review_count": 84,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -366,6 +366,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "967c7cc8e8",
+      "message": "Harden stream validation on RDB load against crafted metadata (#3922)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3922",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/967c7cc8e8d116c65474250258f1f8a0db77a003"
+    },
     {
       "sha": "fd3d2f9296",
       "message": "Add cluster-replica-priority to allow better ranking in auto failover (#2204)",

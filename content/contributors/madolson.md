@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 888,
-  "commit_count": 199,
-  "review_count": 689,
+  "score": 892,
+  "commit_count": 201,
+  "review_count": 691,
   "repos": [
     ".github",
     "valkey",
@@ -21,6 +21,22 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "967c7cc8e8",
+      "message": "Harden stream validation on RDB load against crafted metadata (#3922)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3922",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/967c7cc8e8d116c65474250258f1f8a0db77a003"
+    },
+    {
+      "sha": "875696ffec",
+      "message": "Clear the redaction bitmap between commands in a transaction (#4323)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4323",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/875696ffec88b34493fb931251c1711d779dcad4"
+    },
     {
       "sha": "0afdf6a4d3",
       "message": "Tests: Add subject alternative names to the TLS test certificates (#4383)",
@@ -1630,6 +1646,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/2251",
       "commit_url": "https://github.com/valkey-io/valkey/commit/42aff62b3094489d3b6726f9907f92285bb1d3a5"
+    },
+    {
+      "sha": "d9ce598b07",
+      "message": "Remove duplicate unreachable \"command\" branch in fuzzer arg generator (#4368)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4368",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d9ce598b07c084270582abe6e85488e217271755"
+    },
+    {
+      "sha": "205240b147",
+      "message": "Update Solanica participant information (#629)",
+      "date": "2026-08-12",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/629",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/205240b1470cae55afc8da843e68348d80314b11"
     },
     {
       "sha": "94d221cdde",

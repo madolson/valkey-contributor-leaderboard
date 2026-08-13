@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 944,
+  "score": 946,
   "commit_count": 375,
-  "review_count": 569,
+  "review_count": 571,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3016,6 +3016,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "967c7cc8e8",
+      "message": "Harden stream validation on RDB load against crafted metadata (#3922)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3922",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/967c7cc8e8d116c65474250258f1f8a0db77a003"
+    },
+    {
+      "sha": "875696ffec",
+      "message": "Clear the redaction bitmap between commands in a transaction (#4323)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4323",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/875696ffec88b34493fb931251c1711d779dcad4"
+    },
     {
       "sha": "0afdf6a4d3",
       "message": "Tests: Add subject alternative names to the TLS test certificates (#4383)",

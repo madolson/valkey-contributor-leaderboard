@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 129,
+  "score": 130,
   "commit_count": 17,
-  "review_count": 112,
+  "review_count": 113,
   "repos": [
     "valkey",
     "valkey-container",
@@ -151,6 +151,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "205240b147",
+      "message": "Update Solanica participant information (#629)",
+      "date": "2026-08-12",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/629",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/205240b1470cae55afc8da843e68348d80314b11"
+    },
     {
       "sha": "f31180f9cc",
       "message": "Auto-publish scheduled blog posts on their date (#622)",

@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 353,
+  "score": 358,
   "commit_count": 93,
-  "review_count": 260,
+  "review_count": 265,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -764,6 +764,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7b374fcf7b",
+      "message": "Grammar corrections in comments (#2239)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2239",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7b374fcf7b7bf2a93bb08e6e356b504206456d8b"
+    },
+    {
+      "sha": "bb3b927f20",
+      "message": "Improve spelling and grammar (#2253)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2253",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bb3b927f200e47fa8c73fdc226789c80904a4651"
+    },
+    {
+      "sha": "2c38467d3b",
+      "message": "Fixes grammatical and spelling errors (#2249)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2249",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2c38467d3bed09c9e3b8aa7476cde83b3e5c15f3"
+    },
+    {
+      "sha": "6cdff5ef06",
+      "message": "Fix grammar errors in code comments (#3729)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3729",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6cdff5ef06f820aaa244ef9f0272ecc60bad386f"
+    },
+    {
+      "sha": "975cfc1020",
+      "message": "Correct spelling in module cleanup, command docs, source comments, and Tcl tests (#2243)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2243",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/975cfc1020fc9adaa6681c551e6a7362b74a4b85"
+    },
     {
       "sha": "4e441522e0",
       "message": "Skip static Lua engine loading in Sentinel mode (#4327)",

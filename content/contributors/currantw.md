@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 278,
-  "commit_count": 161,
-  "review_count": 117,
+  "score": 280,
+  "commit_count": 162,
+  "review_count": 118,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -22,6 +22,14 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/510",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8dd6c14d04b6efafd2bf286da09598a32ecd11e3"
+    },
+    {
+      "sha": "da2b3d34f1",
+      "message": "style: enforce IDE0090 and use var for simplifiable new expressions (#521)",
+      "date": "2026-08-12",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/521",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/da2b3d34f17f1d90d60a04917522ce1d7d2fd649"
     },
     {
       "sha": "f7784bd158",
@@ -1305,6 +1313,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5ef8320683",
+      "message": "fix(deps): bump js-yaml and protobufjs to resolve open Dependabot alerts (#6760)",
+      "date": "2026-08-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6760",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5ef83206833aaa8f2c0f5a40aa906cdc5dc6ff59"
+    },
+    {
+      "sha": "c624b7e539",
+      "message": "build(deps): bump brace-expansion in /node (#6726)",
+      "date": "2026-08-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6726",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c624b7e53946fd668e8171a88c0421a9b5031e96"
+    },
+    {
+      "sha": "fd6ca5d4a1",
+      "message": "build(deps): bump the patch-updates group in /glide-core/redis-rs with 2 updates (#6745)",
+      "date": "2026-08-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6745",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fd6ca5d4a1ab8338619b28894052b2298ccfed63"
+    },
     {
       "sha": "15247fabf6",
       "message": "fix: bound mTLS cert reload interval and align Node field names across SDKs (#6678)",

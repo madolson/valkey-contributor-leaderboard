@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1205,
+  "score": 1208,
   "commit_count": 153,
-  "review_count": 1052,
+  "review_count": 1055,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1246,6 +1246,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7b374fcf7b",
+      "message": "Grammar corrections in comments (#2239)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2239",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7b374fcf7b7bf2a93bb08e6e356b504206456d8b"
+    },
+    {
+      "sha": "975cfc1020",
+      "message": "Correct spelling in module cleanup, command docs, source comments, and Tcl tests (#2243)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2243",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/975cfc1020fc9adaa6681c551e6a7362b74a4b85"
+    },
+    {
+      "sha": "875696ffec",
+      "message": "Clear the redaction bitmap between commands in a transaction (#4323)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4323",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/875696ffec88b34493fb931251c1711d779dcad4"
+    },
     {
       "sha": "94d221cdde",
       "message": "Spelling 7 (#2244)",

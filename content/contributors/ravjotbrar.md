@@ -2,14 +2,38 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 179,
-  "commit_count": 106,
+  "score": 182,
+  "commit_count": 109,
   "review_count": 73,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "ab7ee76ed3",
+      "message": "Fix premature cluster map clearing and improve graceful shutdown (#469)",
+      "date": "2026-08-12",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/469",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/ab7ee76ed3116f141e54fa6825b880275f706aec"
+    },
+    {
+      "sha": "5b08766fdf",
+      "message": "Bind to localhost in Electron mode to prevent LAN access (#466)",
+      "date": "2026-08-12",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/466",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/5b08766fdf4d418aeb86bbee234d75c9fa6a9b4d"
+    },
+    {
+      "sha": "53640060ed",
+      "message": "Fix/vulnerable deps (#467)",
+      "date": "2026-08-12",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/467",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/53640060edd23fb6a43f3225a690835168354bdb"
+    },
     {
       "sha": "51d37a1c88",
       "message": "Unlock database field for cluster discovery endpoints (#463)",

@@ -2,16 +2,25 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 48,
-  "commit_count": 8,
+  "score": 49,
+  "commit_count": 9,
   "review_count": 40,
   "repos": [
     "libvalkey-py",
     "planet",
     "valkey",
-    "valkey-py"
+    "valkey-py",
+    "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "8fc3bbdc02",
+      "message": "Lower per-field info definition log from WARNING to DEBUG (#1281)",
+      "date": "2026-08-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1281",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8fc3bbdc02fd8e2a8e92381d415e95d09753bbf2"
+    },
     {
       "sha": "7c7468ddfe",
       "message": "Fix flaky test_bgsave",

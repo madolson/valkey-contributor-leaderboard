@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 255,
+  "score": 256,
   "commit_count": 92,
-  "review_count": 163,
+  "review_count": 164,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -758,6 +758,22 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/510",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8dd6c14d04b6efafd2bf286da09598a32ecd11e3"
+    },
+    {
+      "sha": "8e1d8b1c7c",
+      "message": "feat(node): replace Proxy-based abandon detection with Rust-level pool tracking (#6747)",
+      "date": "2026-08-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6747",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8e1d8b1c7c182c8b7b4f3afa7a0e9b1520c77e0b"
+    },
+    {
+      "sha": "8a041e431a",
+      "message": "build(deps): bump the npm_and_yarn group across 2 directories with 2 updates (#6727)",
+      "date": "2026-08-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6727",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8a041e431ac5958f81a4c6f46349f14e295bb535"
     },
     {
       "sha": "05d825e449",

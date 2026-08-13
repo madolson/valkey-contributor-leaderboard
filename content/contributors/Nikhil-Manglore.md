@@ -2,9 +2,9 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 250,
+  "score": 253,
   "commit_count": 94,
-  "review_count": 156,
+  "review_count": 159,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -777,6 +777,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bb3b927f20",
+      "message": "Improve spelling and grammar (#2253)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2253",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bb3b927f200e47fa8c73fdc226789c80904a4651"
+    },
+    {
+      "sha": "975cfc1020",
+      "message": "Correct spelling in module cleanup, command docs, source comments, and Tcl tests (#2243)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2243",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/975cfc1020fc9adaa6681c551e6a7362b74a4b85"
+    },
+    {
+      "sha": "52c38bb0f3",
+      "message": "Correct spelling and terminology across JSON documentation and tests (#65)",
+      "date": "2026-08-12",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/65",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/52c38bb0f3403d7295b67cb70d49927ddb624f83"
+    },
     {
       "sha": "94d221cdde",
       "message": "Spelling 7 (#2244)",

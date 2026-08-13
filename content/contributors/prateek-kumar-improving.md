@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 410,
+  "score": 411,
   "commit_count": 138,
-  "review_count": 272,
+  "review_count": 273,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1119,6 +1119,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "da2b3d34f1",
+      "message": "style: enforce IDE0090 and use var for simplifiable new expressions (#521)",
+      "date": "2026-08-12",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/521",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/da2b3d34f17f1d90d60a04917522ce1d7d2fd649"
+    },
     {
       "sha": "c5263bfe82",
       "message": "ci(deps): bump actions/setup-java from 5.6.0 to 5.7.0 (#294)",

@@ -171480,6 +171480,440 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/510"
+    },
+    {
+      "sha": "91882200712f4025781956470c146a9c2e469d2d",
+      "author_login": "jfg956",
+      "author_id": 8471576,
+      "avatar_url": "https://avatars.githubusercontent.com/u/8471576?v=4",
+      "message": "Update cron scheduling.",
+      "date": "2026-08-12T13:42:58Z",
+      "repo": "planet",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7b374fcf7b7bf2a93bb08e6e356b504206456d8b",
+      "author_login": "jsoref",
+      "author_id": 2119212,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
+      "message": "Grammar corrections in comments (#2239)",
+      "date": "2026-08-13T04:41:42Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2025-08-05T13:57:13Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-08-13T04:40:12Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2239"
+    },
+    {
+      "sha": "bb3b927f200e47fa8c73fdc226789c80904a4651",
+      "author_login": "jsoref",
+      "author_id": 2119212,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
+      "message": "Improve spelling and grammar (#2253)",
+      "date": "2026-08-13T03:46:29Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2025-06-25T20:20:47Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-08-13T03:45:38Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2253"
+    },
+    {
+      "sha": "d9ce598b07c084270582abe6e85488e217271755",
+      "author_login": "latent-9",
+      "author_id": 296084221,
+      "avatar_url": "https://avatars.githubusercontent.com/u/296084221?v=4",
+      "message": "Remove duplicate unreachable \"command\" branch in fuzzer arg generator (#4368)",
+      "date": "2026-08-12T23:46:05Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-08-12T21:58:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4368"
+    },
+    {
+      "sha": "2c38467d3bed09c9e3b8aa7476cde83b3e5c15f3",
+      "author_login": "jsoref",
+      "author_id": 2119212,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
+      "message": "Fixes grammatical and spelling errors (#2249)",
+      "date": "2026-08-12T22:29:23Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-08-05T21:50:41Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-08-12T21:57:34Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2249"
+    },
+    {
+      "sha": "6cdff5ef06f820aaa244ef9f0272ecc60bad386f",
+      "author_login": "moko-poi",
+      "author_id": 55864094,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55864094?v=4",
+      "message": "Fix grammar errors in code comments (#3729)",
+      "date": "2026-08-12T22:24:25Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-08-12T21:51:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3729"
+    },
+    {
+      "sha": "967c7cc8e8d116c65474250258f1f8a0db77a003",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Harden stream validation on RDB load against crafted metadata (#3922)",
+      "date": "2026-08-12T21:51:01Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-06-05T04:56:09Z"
+        },
+        {
+          "login": "murphyjacob4",
+          "date": "2026-06-05T17:28:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3922"
+    },
+    {
+      "sha": "975cfc1020fc9adaa6681c551e6a7362b74a4b85",
+      "author_login": "jsoref",
+      "author_id": 2119212,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
+      "message": "Correct spelling in module cleanup, command docs, source comments, and Tcl tests (#2243)",
+      "date": "2026-08-12T20:39:44Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "Fusl",
+          "date": "2025-06-24T04:54:33Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2025-07-01T22:34:56Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2025-08-05T14:07:11Z"
+        },
+        {
+          "login": "rainsupreme",
+          "date": "2026-08-05T21:40:24Z"
+        },
+        {
+          "login": "rainsupreme",
+          "date": "2026-08-05T21:41:08Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-08-12T20:10:03Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2243"
+    },
+    {
+      "sha": "875696ffec88b34493fb931251c1711d779dcad4",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Clear the redaction bitmap between commands in a transaction (#4323)",
+      "date": "2026-08-12T19:04:15Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-08-03T23:31:04Z"
+        },
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-08-04T02:57:48Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-08-07T12:39:58Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4323"
+    },
+    {
+      "sha": "db7da3d1154baa795fad5cd2fd1f57e0a3c2435f",
+      "author_login": "nitaicaro",
+      "author_id": 42576749,
+      "avatar_url": "https://avatars.githubusercontent.com/u/42576749?v=4",
+      "message": "Resolve a key's slot from the key, not from the executing command (#4380)",
+      "date": "2026-08-12T17:18:58Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "dubey02",
+          "date": "2026-08-11T18:20:08Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-08-12T15:21:06Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4380"
+    },
+    {
+      "sha": "ab7ee76ed3116f141e54fa6825b880275f706aec",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Fix premature cluster map clearing and improve graceful shutdown (#469)",
+      "date": "2026-08-12T18:23:25Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "nassery318",
+          "date": "2026-08-12T18:10:31Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/469"
+    },
+    {
+      "sha": "5b08766fdf4d418aeb86bbee234d75c9fa6a9b4d",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Bind to localhost in Electron mode to prevent LAN access (#466)",
+      "date": "2026-08-12T18:09:42Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "nassery318",
+          "date": "2026-08-12T18:00:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/466"
+    },
+    {
+      "sha": "53640060edd23fb6a43f3225a690835168354bdb",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Fix/vulnerable deps (#467)",
+      "date": "2026-08-12T18:09:24Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "nassery318",
+          "date": "2026-08-12T17:58:44Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/467"
+    },
+    {
+      "sha": "5ef83206833aaa8f2c0f5a40aa906cdc5dc6ff59",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "fix(deps): bump js-yaml and protobufjs to resolve open Dependabot alerts (#6760)",
+      "date": "2026-08-12T22:09:26Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-08-12T19:35:55Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-08-12T22:07:53Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6760"
+    },
+    {
+      "sha": "8e1d8b1c7c182c8b7b4f3afa7a0e9b1520c77e0b",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "feat(node): replace Proxy-based abandon detection with Rust-level pool tracking (#6747)",
+      "date": "2026-08-12T20:12:29Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "nderraugh",
+          "date": "2026-08-12T18:06:14Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-08-12T18:52:44Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6747"
+    },
+    {
+      "sha": "c624b7e53946fd668e8171a88c0421a9b5031e96",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "build(deps): bump brace-expansion in /node (#6726)",
+      "date": "2026-08-12T18:43:06Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-12T17:53:16Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-08-12T18:37:27Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6726"
+    },
+    {
+      "sha": "fd6ca5d4a1ab8338619b28894052b2298ccfed63",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "build(deps): bump the patch-updates group in /glide-core/redis-rs with 2 updates (#6745)",
+      "date": "2026-08-12T18:42:55Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-12T17:17:18Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-08-12T18:38:04Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6745"
+    },
+    {
+      "sha": "8a041e431ac5958f81a4c6f46349f14e295bb535",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "build(deps): bump the npm_and_yarn group across 2 directories with 2 updates (#6727)",
+      "date": "2026-08-12T17:18:34Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-08-08T00:18:07Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-12T17:18:25Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6727"
+    },
+    {
+      "sha": "da2b3d34f17f1d90d60a04917522ce1d7d2fd649",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "style: enforce IDE0090 and use var for simplifiable new expressions (#521)",
+      "date": "2026-08-12T17:26:49Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-08-12T16:05:04Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-12T16:05:49Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/521"
+    },
+    {
+      "sha": "205240b1470cae55afc8da843e68348d80314b11",
+      "author_login": "rlunar",
+      "author_id": 2453805,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2453805?v=4",
+      "message": "Update Solanica participant information (#629)",
+      "date": "2026-08-12T20:55:50Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-08-10T23:20:30Z"
+        },
+        {
+          "login": "stockholmux",
+          "date": "2026-08-12T20:55:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/629"
+    },
+    {
+      "sha": "52c38bb0f3403d7295b67cb70d49927ddb624f83",
+      "author_login": "jsoref",
+      "author_id": 2119212,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
+      "message": "Correct spelling and terminology across JSON documentation and tests (#65)",
+      "date": "2026-08-12T22:23:05Z",
+      "repo": "valkey-json",
+      "reviewed": [
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2025-06-25T23:09:53Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/65"
+    },
+    {
+      "sha": "8fc3bbdc02fd8e2a8e92381d415e95d09753bbf2",
+      "author_login": "bogdanp05",
+      "author_id": 7281856,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
+      "message": "Lower per-field info definition log from WARNING to DEBUG (#1281)",
+      "date": "2026-08-12T19:58:50Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "KarthikSubbarao",
+          "date": "2026-08-12T19:58:42Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1281"
+    },
+    {
+      "sha": "3b222eea62382178984da6bf7fcd4f58e5039b90",
+      "author_login": "dmitrypol",
+      "author_id": 210308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/210308?v=4",
+      "message": "InfoContext::test shim (#239)",
+      "date": "2026-08-12T13:25:42Z",
+      "repo": "valkeymodule-rs",
+      "reviewed": false,
+      "pr_url": ""
     }
   ]
 }

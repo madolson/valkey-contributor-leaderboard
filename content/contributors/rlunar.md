@@ -2,8 +2,8 @@
   "title": "rlunar",
   "login": "rlunar",
   "avatar_url": "https://avatars.githubusercontent.com/u/2453805?v=4",
-  "score": 19,
-  "commit_count": 11,
+  "score": 20,
+  "commit_count": 12,
   "review_count": 8,
   "repos": [
     "valkey-bundle",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "205240b147",
+      "message": "Update Solanica participant information (#629)",
+      "date": "2026-08-12",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/629",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/205240b1470cae55afc8da843e68348d80314b11"
+    },
     {
       "sha": "c835e10d87",
       "message": "feat: Add Vultr as participant (#596)",

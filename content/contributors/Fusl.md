@@ -2,9 +2,9 @@
   "title": "Fusl",
   "login": "Fusl",
   "avatar_url": "https://avatars.githubusercontent.com/u/2349496?v=4",
-  "score": 20,
+  "score": 21,
   "commit_count": 15,
-  "review_count": 5,
+  "review_count": 6,
   "repos": [
     "iovalkey",
     "valkey",
@@ -141,6 +141,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/2248",
       "commit_url": "https://github.com/valkey-io/valkey/commit/cc45d0637a00d59d41cd1e1315de1ced19e78982"
+    },
+    {
+      "sha": "975cfc1020",
+      "message": "Correct spelling in module cleanup, command docs, source comments, and Tcl tests (#2243)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2243",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/975cfc1020fc9adaa6681c551e6a7362b74a4b85"
     },
     {
       "sha": "57459f77d4",

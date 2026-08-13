@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 263,
+  "score": 264,
   "commit_count": 100,
-  "review_count": 163,
+  "review_count": 164,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -819,6 +819,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8fc3bbdc02",
+      "message": "Lower per-field info definition log from WARNING to DEBUG (#1281)",
+      "date": "2026-08-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1281",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8fc3bbdc02fd8e2a8e92381d415e95d09753bbf2"
+    },
     {
       "sha": "459878064f",
       "message": "Fix duplicate label handling (#1283)",

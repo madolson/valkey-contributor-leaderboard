@@ -2,14 +2,22 @@
   "title": "dubey02",
   "login": "dubey02",
   "avatar_url": "https://github.com/dubey02.png?size=64",
-  "score": 3,
+  "score": 4,
   "commit_count": 0,
-  "review_count": 3,
+  "review_count": 4,
   "repos": [
     "valkey"
   ],
   "commit_list": [],
   "review_list": [
+    {
+      "sha": "db7da3d115",
+      "message": "Resolve a key's slot from the key, not from the executing command (#4380)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4380",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/db7da3d1154baa795fad5cd2fd1f57e0a3c2435f"
+    },
     {
       "sha": "50a0397f4f",
       "message": "Avoid offloading writes to IO threads for the slot migration export job while snapshotting. (#4104)",

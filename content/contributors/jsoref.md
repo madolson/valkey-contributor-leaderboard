@@ -2,8 +2,8 @@
   "title": "jsoref",
   "login": "jsoref",
   "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
-  "score": 24,
-  "commit_count": 24,
+  "score": 29,
+  "commit_count": 29,
   "review_count": 0,
   "repos": [
     "iovalkey",
@@ -15,6 +15,7 @@
     "valkey-go",
     "valkey-hashes",
     "valkey-io.github.io",
+    "valkey-json",
     "valkey-py",
     "valkey-release-automation",
     "valkey-search",
@@ -22,6 +23,22 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "7b374fcf7b",
+      "message": "Grammar corrections in comments (#2239)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2239",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7b374fcf7b7bf2a93bb08e6e356b504206456d8b"
+    },
+    {
+      "sha": "bb3b927f20",
+      "message": "Improve spelling and grammar (#2253)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2253",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bb3b927f200e47fa8c73fdc226789c80904a4651"
+    },
     {
       "sha": "cc45d0637a",
       "message": "Fix various typos around otherwise with a comma",
@@ -37,6 +54,30 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/2251",
       "commit_url": "https://github.com/valkey-io/valkey/commit/42aff62b3094489d3b6726f9907f92285bb1d3a5"
+    },
+    {
+      "sha": "2c38467d3b",
+      "message": "Fixes grammatical and spelling errors (#2249)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2249",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2c38467d3bed09c9e3b8aa7476cde83b3e5c15f3"
+    },
+    {
+      "sha": "975cfc1020",
+      "message": "Correct spelling in module cleanup, command docs, source comments, and Tcl tests (#2243)",
+      "date": "2026-08-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2243",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/975cfc1020fc9adaa6681c551e6a7362b74a4b85"
+    },
+    {
+      "sha": "52c38bb0f3",
+      "message": "Correct spelling and terminology across JSON documentation and tests (#65)",
+      "date": "2026-08-12",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/65",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/52c38bb0f3403d7295b67cb70d49927ddb624f83"
     },
     {
       "sha": "94d221cdde",
