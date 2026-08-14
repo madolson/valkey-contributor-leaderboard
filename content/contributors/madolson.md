@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 892,
-  "commit_count": 201,
-  "review_count": 691,
+  "score": 896,
+  "commit_count": 203,
+  "review_count": 693,
   "repos": [
     ".github",
     "valkey",
@@ -21,6 +21,22 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "8cd535ddb3",
+      "message": "Tests: EXEC is now entry 0 of the MULTI redaction commandlog test (#4404)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4404",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8cd535ddb3dc80aceb154e6ef9dbe11d256e2209"
+    },
+    {
+      "sha": "abebdb0202",
+      "message": "Correct the `since` version on CONFIG INFO and MOVE REPLACE to 9.2.0 (#4402)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4402",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/abebdb02021a53f96724540e5f53d8a501c4f587"
+    },
     {
       "sha": "967c7cc8e8",
       "message": "Harden stream validation on RDB load against crafted metadata (#3922)",
@@ -1631,6 +1647,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8cec1092b9",
+      "message": "Validate stream listpack live and deleted record counts on load (#4381)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4381",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8cec1092b92ee2cbecb5101465ba36c1708059bc"
+    },
+    {
+      "sha": "8df9c328fa",
+      "message": "Add blog post: Valkey 9.1 Memory Efficiency (#594)",
+      "date": "2026-08-13",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/594",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/8df9c328fa3ce880552b0080a1dc2e607c211054"
+    },
     {
       "sha": "cc45d0637a",
       "message": "Fix various typos around otherwise with a comma",

@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 256,
+  "score": 258,
   "commit_count": 92,
-  "review_count": 164,
+  "review_count": 166,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -751,6 +751,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "81bc703c22",
+      "message": "feat(config): add `AllNodes` `ReadFrom` strategy (#520)",
+      "date": "2026-08-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/520",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/81bc703c22c0750f0b571d4b7cf70e63c65afad2"
+    },
+    {
+      "sha": "9113b0469f",
+      "message": "feat(php): implement CLIENT TRACKINGINFO command (#293)",
+      "date": "2026-08-13",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/293",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9113b0469f30a0147f1de999380ff299f485fb17"
+    },
     {
       "sha": "8dd6c14d04",
       "message": "Add `CLIENT KILL` command support (#510)",

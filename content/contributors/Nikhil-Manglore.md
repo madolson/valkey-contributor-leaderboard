@@ -2,9 +2,9 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 253,
+  "score": 254,
   "commit_count": 94,
-  "review_count": 159,
+  "review_count": 160,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -784,6 +784,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/2253",
       "commit_url": "https://github.com/valkey-io/valkey/commit/bb3b927f200e47fa8c73fdc226789c80904a4651"
+    },
+    {
+      "sha": "3f16ffa044",
+      "message": "Consolidating nonexistent spelling (#2247)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2247",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3f16ffa044c6e2dfe40cecfd3316df4617e1f703"
     },
     {
       "sha": "975cfc1020",

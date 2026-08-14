@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 404,
-  "commit_count": 118,
-  "review_count": 286,
+  "score": 408,
+  "commit_count": 121,
+  "review_count": 287,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,30 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "9a268ea3e0",
+      "message": "Node: Fix flaky save test timeout in CI (#6758)",
+      "date": "2026-08-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6758",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9a268ea3e057073312698b7fbf0f9d6af20a35eb"
+    },
+    {
+      "sha": "23d6f115a7",
+      "message": "feat(python): expose PEM loader helpers from top-level glide packages (#6767)",
+      "date": "2026-08-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6767",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/23d6f115a71044959897c99de453dd88a5c17f07"
+    },
+    {
+      "sha": "de444cf33a",
+      "message": "docs(Java, Python, Node, Go): add mTLS section to Configure TLS page (#271)",
+      "date": "2026-08-13",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/271",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/de444cf33a144be946338affc7b36a2990d0c0d1"
+    },
     {
       "sha": "5ef8320683",
       "message": "fix(deps): bump js-yaml and protobufjs to resolve open Dependabot alerts (#6760)",
@@ -961,6 +985,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9113b0469f",
+      "message": "feat(php): implement CLIENT TRACKINGINFO command (#293)",
+      "date": "2026-08-13",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/293",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9113b0469f30a0147f1de999380ff299f485fb17"
+    },
     {
       "sha": "8dd6c14d04",
       "message": "Add `CLIENT KILL` command support (#510)",

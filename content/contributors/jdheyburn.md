@@ -2,15 +2,23 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 129,
-  "commit_count": 41,
-  "review_count": 88,
+  "score": 132,
+  "commit_count": 42,
+  "review_count": 90,
   "repos": [
     "valkey",
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "5676fb960e",
+      "message": "fix: skip reconciliation while ValkeyCluster is being deleted (#374)",
+      "date": "2026-08-13",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/374",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/5676fb960e788360b41bd0dbc85e61d7ce5654fd"
+    },
     {
       "sha": "c34252e6e9",
       "message": "Update UPGRADE.md",
@@ -341,6 +349,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2c3d72c4db",
+      "message": "CI: cache Go build outputs and drop redundant go mod tidy (#372)",
+      "date": "2026-08-13",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/372",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2c3d72c4db3fc14b57174905dd7c5f12ab4ba0e9"
+    },
+    {
+      "sha": "2fc6fef3c0",
+      "message": "ci: build multi-arch images natively to avoid QEMU emulation (#366)",
+      "date": "2026-08-13",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/366",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2fc6fef3c0cef422b8ddb72e2c690d190dae378e"
+    },
     {
       "sha": "eb1d4672da",
       "message": "feat: apply ACL changes live without rolling pods (#319)",

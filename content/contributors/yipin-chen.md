@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 773,
+  "score": 774,
   "commit_count": 45,
-  "review_count": 728,
+  "review_count": 729,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -376,6 +376,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "81bc703c22",
+      "message": "feat(config): add `AllNodes` `ReadFrom` strategy (#520)",
+      "date": "2026-08-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/520",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/81bc703c22c0750f0b571d4b7cf70e63c65afad2"
+    },
     {
       "sha": "f7784bd158",
       "message": "Add periodic topology checks configuration for cluster client (#513)",

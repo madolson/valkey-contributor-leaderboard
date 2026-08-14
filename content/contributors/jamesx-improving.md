@@ -2,12 +2,13 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 245,
+  "score": 248,
   "commit_count": 79,
-  "review_count": 166,
+  "review_count": 169,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
+    "valkey-glide-docs",
     "valkey-glide-php",
     "valkey-glide-ruby"
   ],
@@ -646,6 +647,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9a268ea3e0",
+      "message": "Node: Fix flaky save test timeout in CI (#6758)",
+      "date": "2026-08-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6758",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9a268ea3e057073312698b7fbf0f9d6af20a35eb"
+    },
+    {
+      "sha": "23d6f115a7",
+      "message": "feat(python): expose PEM loader helpers from top-level glide packages (#6767)",
+      "date": "2026-08-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6767",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/23d6f115a71044959897c99de453dd88a5c17f07"
+    },
+    {
+      "sha": "de444cf33a",
+      "message": "docs(Java, Python, Node, Go): add mTLS section to Configure TLS page (#271)",
+      "date": "2026-08-13",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/271",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/de444cf33a144be946338affc7b36a2990d0c0d1"
+    },
     {
       "sha": "5ef8320683",
       "message": "fix(deps): bump js-yaml and protobufjs to resolve open Dependabot alerts (#6760)",

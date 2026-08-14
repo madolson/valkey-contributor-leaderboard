@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 358,
+  "score": 363,
   "commit_count": 93,
-  "review_count": 265,
+  "review_count": 270,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -779,6 +779,46 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/2253",
       "commit_url": "https://github.com/valkey-io/valkey/commit/bb3b927f200e47fa8c73fdc226789c80904a4651"
+    },
+    {
+      "sha": "8cd535ddb3",
+      "message": "Tests: EXEC is now entry 0 of the MULTI redaction commandlog test (#4404)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4404",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8cd535ddb3dc80aceb154e6ef9dbe11d256e2209"
+    },
+    {
+      "sha": "917de6ac19",
+      "message": "Log EXEC in commandlog (#4267)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4267",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/917de6ac19a63d7c9aa5d57b8151e4d07c424862"
+    },
+    {
+      "sha": "abebdb0202",
+      "message": "Correct the `since` version on CONFIG INFO and MOVE REPLACE to 9.2.0 (#4402)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4402",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/abebdb02021a53f96724540e5f53d8a501c4f587"
+    },
+    {
+      "sha": "3f16ffa044",
+      "message": "Consolidating nonexistent spelling (#2247)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2247",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3f16ffa044c6e2dfe40cecfd3316df4617e1f703"
+    },
+    {
+      "sha": "3f16ffa044",
+      "message": "Consolidating nonexistent spelling (#2247)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2247",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3f16ffa044c6e2dfe40cecfd3316df4617e1f703"
     },
     {
       "sha": "2c38467d3b",

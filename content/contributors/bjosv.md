@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 237,
-  "commit_count": 119,
-  "review_count": 118,
+  "score": 240,
+  "commit_count": 121,
+  "review_count": 119,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,22 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "2c3d72c4db",
+      "message": "CI: cache Go build outputs and drop redundant go mod tidy (#372)",
+      "date": "2026-08-13",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/372",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2c3d72c4db3fc14b57174905dd7c5f12ab4ba0e9"
+    },
+    {
+      "sha": "2fc6fef3c0",
+      "message": "ci: build multi-arch images natively to avoid QEMU emulation (#366)",
+      "date": "2026-08-13",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/366",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2fc6fef3c0cef422b8ddb72e2c690d190dae378e"
+    },
     {
       "sha": "a7fa7bb8c7",
       "message": "fix: set version/branch labels in valkey_operator_build_info metric (#336)",
@@ -967,6 +983,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5676fb960e",
+      "message": "fix: skip reconciliation while ValkeyCluster is being deleted (#374)",
+      "date": "2026-08-13",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/374",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/5676fb960e788360b41bd0dbc85e61d7ce5654fd"
+    },
     {
       "sha": "dd2d78213a",
       "message": "Merge pull request #240 from valkey-io/jdheyburn/valkey-operator-0.5",

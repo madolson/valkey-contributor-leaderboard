@@ -2,13 +2,21 @@
   "title": "quanyeyang",
   "login": "quanyeyang",
   "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
-  "score": 9,
-  "commit_count": 9,
+  "score": 10,
+  "commit_count": 10,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "1e7a8f3105",
+      "message": "Skip IO-thread read-done followup unless update_state sync-invokes handlers (#4401)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4401",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1e7a8f3105eefa85bf43c7361dbe9bc87b5327bd"
+    },
     {
       "sha": "8abd07fff2",
       "message": "Fix slow-clocksource check for HW monotonic clock and non-x86 advisories (#4272)",

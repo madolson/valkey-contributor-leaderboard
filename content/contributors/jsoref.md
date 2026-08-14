@@ -2,8 +2,8 @@
   "title": "jsoref",
   "login": "jsoref",
   "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
-  "score": 29,
-  "commit_count": 29,
+  "score": 30,
+  "commit_count": 30,
   "review_count": 0,
   "repos": [
     "iovalkey",
@@ -38,6 +38,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/2253",
       "commit_url": "https://github.com/valkey-io/valkey/commit/bb3b927f200e47fa8c73fdc226789c80904a4651"
+    },
+    {
+      "sha": "3f16ffa044",
+      "message": "Consolidating nonexistent spelling (#2247)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2247",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3f16ffa044c6e2dfe40cecfd3316df4617e1f703"
     },
     {
       "sha": "cc45d0637a",

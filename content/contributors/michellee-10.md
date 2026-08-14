@@ -2,14 +2,22 @@
   "title": "michellee-10",
   "login": "michellee-10",
   "avatar_url": "https://avatars.githubusercontent.com/u/138150328?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "917de6ac19",
+      "message": "Log EXEC in commandlog (#4267)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4267",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/917de6ac19a63d7c9aa5d57b8151e4d07c424862"
+    },
     {
       "sha": "dc0411ae14",
       "message": "valkey-benchmark: fix -r option to support keyspace values above INT_MAX (#4252)",

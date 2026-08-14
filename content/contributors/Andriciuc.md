@@ -2,8 +2,8 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 8,
-  "commit_count": 8,
+  "score": 9,
+  "commit_count": 9,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "8df9c328fa",
+      "message": "Add blog post: Valkey 9.1 Memory Efficiency (#594)",
+      "date": "2026-08-13",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/594",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/8df9c328fa3ce880552b0080a1dc2e607c211054"
+    },
     {
       "sha": "0fc8cdafcb",
       "message": "Update module.c with missing FLAG_REPLICA description (#4279)",

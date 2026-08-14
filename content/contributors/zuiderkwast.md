@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1208,
+  "score": 1212,
   "commit_count": 153,
-  "review_count": 1055,
+  "review_count": 1059,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1253,6 +1253,38 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/2239",
       "commit_url": "https://github.com/valkey-io/valkey/commit/7b374fcf7b7bf2a93bb08e6e356b504206456d8b"
+    },
+    {
+      "sha": "1e7a8f3105",
+      "message": "Skip IO-thread read-done followup unless update_state sync-invokes handlers (#4401)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4401",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1e7a8f3105eefa85bf43c7361dbe9bc87b5327bd"
+    },
+    {
+      "sha": "afabf680ad",
+      "message": "Fix use-after-free crash when cluster messages arrive after module unload (#4360)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4360",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/afabf680adc34a410409c1c32cc344544b3fb2cb"
+    },
+    {
+      "sha": "afabf680ad",
+      "message": "Fix use-after-free crash when cluster messages arrive after module unload (#4360)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4360",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/afabf680adc34a410409c1c32cc344544b3fb2cb"
+    },
+    {
+      "sha": "3f16ffa044",
+      "message": "Consolidating nonexistent spelling (#2247)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2247",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3f16ffa044c6e2dfe40cecfd3316df4617e1f703"
     },
     {
       "sha": "975cfc1020",

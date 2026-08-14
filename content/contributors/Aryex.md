@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 233,
+  "score": 234,
   "commit_count": 74,
-  "review_count": 159,
+  "review_count": 160,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -610,6 +610,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9a268ea3e0",
+      "message": "Node: Fix flaky save test timeout in CI (#6758)",
+      "date": "2026-08-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6758",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9a268ea3e057073312698b7fbf0f9d6af20a35eb"
+    },
     {
       "sha": "f7784bd158",
       "message": "Add periodic topology checks configuration for cluster client (#513)",

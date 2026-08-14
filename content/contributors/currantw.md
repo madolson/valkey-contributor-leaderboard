@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 280,
-  "commit_count": 162,
+  "score": 281,
+  "commit_count": 163,
   "review_count": 118,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "81bc703c22",
+      "message": "feat(config): add `AllNodes` `ReadFrom` strategy (#520)",
+      "date": "2026-08-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/520",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/81bc703c22c0750f0b571d4b7cf70e63c65afad2"
+    },
     {
       "sha": "8dd6c14d04",
       "message": "Add `CLIENT KILL` command support (#510)",

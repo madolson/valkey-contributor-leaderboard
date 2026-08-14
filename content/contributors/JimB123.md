@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 53,
+  "score": 55,
   "commit_count": 19,
-  "review_count": 34,
+  "review_count": 36,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -164,6 +164,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8cd535ddb3",
+      "message": "Tests: EXEC is now entry 0 of the MULTI redaction commandlog test (#4404)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4404",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8cd535ddb3dc80aceb154e6ef9dbe11d256e2209"
+    },
+    {
+      "sha": "917de6ac19",
+      "message": "Log EXEC in commandlog (#4267)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4267",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/917de6ac19a63d7c9aa5d57b8151e4d07c424862"
+    },
     {
       "sha": "db7da3d115",
       "message": "Resolve a key's slot from the key, not from the executing command (#4380)",

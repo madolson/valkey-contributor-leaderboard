@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 400,
-  "commit_count": 146,
-  "review_count": 254,
+  "score": 402,
+  "commit_count": 147,
+  "review_count": 255,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -19,6 +19,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "8cec1092b9",
+      "message": "Validate stream listpack live and deleted record counts on load (#4381)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4381",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8cec1092b92ee2cbecb5101465ba36c1708059bc"
+    },
     {
       "sha": "396e92179f",
       "message": "Fix 7.2 packaging: missing debhelper-compat and TLS-stripped make  (#61)",
@@ -1189,6 +1197,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "abebdb0202",
+      "message": "Correct the `since` version on CONFIG INFO and MOVE REPLACE to 9.2.0 (#4402)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4402",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/abebdb02021a53f96724540e5f53d8a501c4f587"
+    },
     {
       "sha": "8eb992eb09",
       "message": "Fix GEORADIUS STORE ACL bypass via duplicate options (#3971)",

@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 411,
-  "commit_count": 138,
-  "review_count": 273,
+  "score": 413,
+  "commit_count": 139,
+  "review_count": 274,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "9113b0469f",
+      "message": "feat(php): implement CLIENT TRACKINGINFO command (#293)",
+      "date": "2026-08-13",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/293",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9113b0469f30a0147f1de999380ff299f485fb17"
+    },
     {
       "sha": "9fcb478415",
       "message": "Add MUSL support (#291)",
@@ -1119,6 +1127,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "81bc703c22",
+      "message": "feat(config): add `AllNodes` `ReadFrom` strategy (#520)",
+      "date": "2026-08-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/520",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/81bc703c22c0750f0b571d4b7cf70e63c65afad2"
+    },
     {
       "sha": "da2b3d34f1",
       "message": "style: enforce IDE0090 and use var for simplifiable new expressions (#521)",

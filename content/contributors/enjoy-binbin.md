@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 946,
-  "commit_count": 375,
+  "score": 947,
+  "commit_count": 376,
   "review_count": 571,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "afabf680ad",
+      "message": "Fix use-after-free crash when cluster messages arrive after module unload (#4360)",
+      "date": "2026-08-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4360",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/afabf680adc34a410409c1c32cc344544b3fb2cb"
+    },
     {
       "sha": "4e441522e0",
       "message": "Skip static Lua engine loading in Sentinel mode (#4327)",
