@@ -2,13 +2,37 @@
   "title": "Carol-ggg",
   "login": "Carol-ggg",
   "avatar_url": "https://avatars.githubusercontent.com/u/213777065?v=4",
-  "score": 14,
-  "commit_count": 14,
+  "score": 17,
+  "commit_count": 17,
   "review_count": 0,
   "repos": [
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "396e492e10",
+      "message": "readme (#80)",
+      "date": "2026-08-14",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/80",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/396e492e10b943a6b4d36730259b13b0873aba1e"
+    },
+    {
+      "sha": "246931269b",
+      "message": "Add multi-run restart support for modules (#78)",
+      "date": "2026-08-14",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/78",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/246931269bd8fe8f549bf9e93c6defa24f53fa25"
+    },
+    {
+      "sha": "0dee9598dc",
+      "message": "Add PostgreSQL integration tests for commit tracking and metrics push (#77)",
+      "date": "2026-08-14",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/77",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/0dee9598dc623f62ed772fa5a2b33b44b8d386ae"
+    },
     {
       "sha": "7c36c88098",
       "message": "Fix profiling run to one (#79)",

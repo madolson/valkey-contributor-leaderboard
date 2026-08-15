@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 248,
-  "commit_count": 79,
-  "review_count": 169,
+  "score": 252,
+  "commit_count": 80,
+  "review_count": 172,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "44f3fef07e",
+      "message": "fix(ruby): return stream entry fields as Hash to match redis-rb (#245)",
+      "date": "2026-08-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/276",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/44f3fef07ecbe34c57dafa779e3a1ca2daabdefd"
+    },
     {
       "sha": "c507d550c3",
       "message": "FFI: Percent-decode userinfo in `create_client_from_uri` (#6660)",
@@ -647,6 +655,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6cb5a7cb43",
+      "message": "docs: update Ruby documentation for release 1.0 (#319)",
+      "date": "2026-08-14",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/319",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/6cb5a7cb4325033498252dd042b10b73d2c66b5f"
+    },
+    {
+      "sha": "709ae40b3e",
+      "message": "chore: rename ci.yml workflow to CI.yml (#274)",
+      "date": "2026-08-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/276",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/709ae40b3ef197202ef42fb14fc8e2033db5df1f"
+    },
+    {
+      "sha": "58ba90d1c1",
+      "message": "fix(ruby): accept varargs in lpush, rpush, lpushx, rpushx (#196)",
+      "date": "2026-08-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/276",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/58ba90d1c1fabaf697d3f1bfe2dc4443ace35801"
+    },
     {
       "sha": "9a268ea3e0",
       "message": "Node: Fix flaky save test timeout in CI (#6758)",

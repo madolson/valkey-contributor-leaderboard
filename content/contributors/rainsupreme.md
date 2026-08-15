@@ -2,8 +2,8 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 106,
-  "commit_count": 34,
+  "score": 107,
+  "commit_count": 35,
   "review_count": 72,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-skills"
   ],
   "commit_list": [
+    {
+      "sha": "9e04ee0ecc",
+      "message": "Record environment metadata in benchmark metrics (#55)",
+      "date": "2026-08-14",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/55",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/9e04ee0eccbbb559f02e125681f59680e6a840ce"
+    },
     {
       "sha": "f439060b6f",
       "message": "Fix test-s390x unit test invocation for release branches (#4177)",

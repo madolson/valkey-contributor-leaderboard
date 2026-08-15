@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 408,
+  "score": 409,
   "commit_count": 121,
-  "review_count": 287,
+  "review_count": 288,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -985,6 +985,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6cb5a7cb43",
+      "message": "docs: update Ruby documentation for release 1.0 (#319)",
+      "date": "2026-08-14",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/319",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/6cb5a7cb4325033498252dd042b10b73d2c66b5f"
+    },
     {
       "sha": "9113b0469f",
       "message": "feat(php): implement CLIENT TRACKINGINFO command (#293)",

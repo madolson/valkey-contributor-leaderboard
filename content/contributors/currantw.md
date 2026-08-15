@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 281,
-  "commit_count": 163,
+  "score": 282,
+  "commit_count": 164,
   "review_count": 118,
   "repos": [
     "valkey-doc",
@@ -22,6 +22,14 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/520",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/81bc703c22c0750f0b571d4b7cf70e63c65afad2"
+    },
+    {
+      "sha": "58ba90d1c1",
+      "message": "fix(ruby): accept varargs in lpush, rpush, lpushx, rpushx (#196)",
+      "date": "2026-08-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/276",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/58ba90d1c1fabaf697d3f1bfe2dc4443ace35801"
     },
     {
       "sha": "8dd6c14d04",

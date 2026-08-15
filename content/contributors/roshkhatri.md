@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 402,
+  "score": 406,
   "commit_count": 147,
-  "review_count": 255,
+  "review_count": 259,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1197,6 +1197,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "396e492e10",
+      "message": "readme (#80)",
+      "date": "2026-08-14",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/80",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/396e492e10b943a6b4d36730259b13b0873aba1e"
+    },
+    {
+      "sha": "246931269b",
+      "message": "Add multi-run restart support for modules (#78)",
+      "date": "2026-08-14",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/78",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/246931269bd8fe8f549bf9e93c6defa24f53fa25"
+    },
+    {
+      "sha": "0dee9598dc",
+      "message": "Add PostgreSQL integration tests for commit tracking and metrics push (#77)",
+      "date": "2026-08-14",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/77",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/0dee9598dc623f62ed772fa5a2b33b44b8d386ae"
+    },
+    {
+      "sha": "9e04ee0ecc",
+      "message": "Record environment metadata in benchmark metrics (#55)",
+      "date": "2026-08-14",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/55",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/9e04ee0eccbbb559f02e125681f59680e6a840ce"
+    },
     {
       "sha": "abebdb0202",
       "message": "Correct the `since` version on CONFIG INFO and MOVE REPLACE to 9.2.0 (#4402)",

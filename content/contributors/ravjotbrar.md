@@ -2,14 +2,30 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 183,
-  "commit_count": 109,
+  "score": 185,
+  "commit_count": 111,
   "review_count": 74,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "e484224025",
+      "message": "Fix denylist bypass via quoted commands (#472)",
+      "date": "2026-08-14",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/472",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/e484224025ca6361119631d5ac021c4fe3239734"
+    },
+    {
+      "sha": "900a683502",
+      "message": "Add v1.1.1 release notes (#478)",
+      "date": "2026-08-14",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/478",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/900a683502ff334a0434efcb1a51ff809c08a8cf"
+    },
     {
       "sha": "ab7ee76ed3",
       "message": "Fix premature cluster map clearing and improve graceful shutdown (#469)",

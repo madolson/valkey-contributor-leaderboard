@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 128,
+  "score": 130,
   "commit_count": 44,
-  "review_count": 84,
+  "review_count": 86,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -366,6 +366,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a3c5f440e8",
+      "message": "Track full sync completion time (#4197)",
+      "date": "2026-08-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4197",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a3c5f440e8b056dc1a699363abaec13bce5695d1"
+    },
+    {
+      "sha": "e048da0809",
+      "message": "Document the metric \"last_successful_sync_duration_ms\" (#465)",
+      "date": "2026-08-14",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/465",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/e048da0809b6d1b74f0f7db4d92b1a1f2f83470f"
+    },
     {
       "sha": "967c7cc8e8",
       "message": "Harden stream validation on RDB load against crafted metadata (#3922)",

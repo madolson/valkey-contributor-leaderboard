@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 234,
-  "commit_count": 74,
+  "score": 236,
+  "commit_count": 76,
   "review_count": 160,
   "repos": [
     "spring-data-valkey",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "6cb5a7cb43",
+      "message": "docs: update Ruby documentation for release 1.0 (#319)",
+      "date": "2026-08-14",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/319",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/6cb5a7cb4325033498252dd042b10b73d2c66b5f"
+    },
+    {
+      "sha": "709ae40b3e",
+      "message": "chore: rename ci.yml workflow to CI.yml (#274)",
+      "date": "2026-08-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/276",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/709ae40b3ef197202ef42fb14fc8e2033db5df1f"
+    },
     {
       "sha": "32ec546f83",
       "message": "docs: mark RESET as available for PHP and C# (#283)",

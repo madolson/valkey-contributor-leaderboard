@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 774,
+  "score": 777,
   "commit_count": 45,
-  "review_count": 729,
+  "review_count": 732,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -383,6 +383,30 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/520",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/81bc703c22c0750f0b571d4b7cf70e63c65afad2"
+    },
+    {
+      "sha": "709ae40b3e",
+      "message": "chore: rename ci.yml workflow to CI.yml (#274)",
+      "date": "2026-08-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/276",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/709ae40b3ef197202ef42fb14fc8e2033db5df1f"
+    },
+    {
+      "sha": "44f3fef07e",
+      "message": "fix(ruby): return stream entry fields as Hash to match redis-rb (#245)",
+      "date": "2026-08-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/276",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/44f3fef07ecbe34c57dafa779e3a1ca2daabdefd"
+    },
+    {
+      "sha": "58ba90d1c1",
+      "message": "fix(ruby): accept varargs in lpush, rpush, lpushx, rpushx (#196)",
+      "date": "2026-08-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/276",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/58ba90d1c1fabaf697d3f1bfe2dc4443ace35801"
     },
     {
       "sha": "f7784bd158",
