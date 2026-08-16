@@ -2,8 +2,8 @@
   "title": "avifenesh",
   "login": "avifenesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
-  "score": 262,
-  "commit_count": 96,
+  "score": 263,
+  "commit_count": 97,
   "review_count": 166,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-skills"
   ],
   "commit_list": [
+    {
+      "sha": "4669926ecf",
+      "message": "Fix flaky EXEC command log tests (#4423)",
+      "date": "2026-08-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4423",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4669926ecf1d1a90b700d0ff4c164f0b98325b8e"
+    },
     {
       "sha": "0b90c3055a",
       "message": "docs: add COPYING, CONTRIBUTING.md, CODEOWNERS (#13)",

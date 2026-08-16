@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 363,
-  "commit_count": 93,
-  "review_count": 270,
+  "score": 365,
+  "commit_count": 94,
+  "review_count": 271,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -18,6 +18,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "cd62903549",
+      "message": "Fix signal mask parsing on 32-bit systems (#4415)",
+      "date": "2026-08-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4415",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cd62903549593e362e176a1b6debae8a7efbde63"
+    },
     {
       "sha": "49d7d96fb7",
       "message": "Optimize exact XTRIM MAXLEN zero (#4161)",
@@ -764,6 +772,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4669926ecf",
+      "message": "Fix flaky EXEC command log tests (#4423)",
+      "date": "2026-08-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4423",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4669926ecf1d1a90b700d0ff4c164f0b98325b8e"
+    },
     {
       "sha": "7b374fcf7b",
       "message": "Grammar corrections in comments (#2239)",

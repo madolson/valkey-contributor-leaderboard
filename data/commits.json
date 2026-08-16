@@ -173363,6 +173363,42 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/55"
+    },
+    {
+      "sha": "4669926ecf1d1a90b700d0ff4c164f0b98325b8e",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Fix flaky EXEC command log tests (#4423)",
+      "date": "2026-08-15T20:25:37Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "jjuleslasarte",
+          "date": "2026-08-15T18:14:27Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-08-15T18:23:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4423"
+    },
+    {
+      "sha": "cd62903549593e362e176a1b6debae8a7efbde63",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Fix signal mask parsing on 32-bit systems (#4415)",
+      "date": "2026-08-15T18:24:08Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-08-15T14:05:12Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4415"
     }
   ]
 }

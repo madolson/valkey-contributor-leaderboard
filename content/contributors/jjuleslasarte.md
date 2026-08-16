@@ -2,9 +2,9 @@
   "title": "jjuleslasarte",
   "login": "jjuleslasarte",
   "avatar_url": "https://avatars.githubusercontent.com/u/140852041?v=4",
-  "score": 6,
+  "score": 7,
   "commit_count": 5,
-  "review_count": 1,
+  "review_count": 2,
   "repos": [
     "valkey"
   ],
@@ -51,6 +51,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4669926ecf",
+      "message": "Fix flaky EXEC command log tests (#4423)",
+      "date": "2026-08-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4423",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4669926ecf1d1a90b700d0ff4c164f0b98325b8e"
+    },
     {
       "sha": "ed6e9a91d7",
       "message": "Enable multi-command parsing for replicated clients (#3597)",

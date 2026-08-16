@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 948,
+  "score": 949,
   "commit_count": 377,
-  "review_count": 571,
+  "review_count": 572,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3032,6 +3032,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cd62903549",
+      "message": "Fix signal mask parsing on 32-bit systems (#4415)",
+      "date": "2026-08-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4415",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cd62903549593e362e176a1b6debae8a7efbde63"
+    },
     {
       "sha": "967c7cc8e8",
       "message": "Harden stream validation on RDB load against crafted metadata (#3922)",
