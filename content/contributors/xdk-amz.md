@@ -2,9 +2,9 @@
   "title": "xdk-amz",
   "login": "xdk-amz",
   "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
-  "score": 6,
+  "score": 7,
   "commit_count": 4,
-  "review_count": 2,
+  "review_count": 3,
   "repos": [
     "valkey",
     "valkey-glide"
@@ -44,6 +44,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5d3fd68586",
+      "message": "Add streaming compression support for RDB (#3531)",
+      "date": "2026-08-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3531",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5d3fd6858640c7a0f3e1781fac513ae11c05cada"
+    },
     {
       "sha": "89b7baa598",
       "message": "Speed up cluster startup by 10 seconds (#3606)",

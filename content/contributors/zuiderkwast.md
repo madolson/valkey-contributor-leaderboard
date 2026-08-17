@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1214,
+  "score": 1215,
   "commit_count": 153,
-  "review_count": 1061,
+  "review_count": 1062,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1246,6 +1246,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5d3fd68586",
+      "message": "Add streaming compression support for RDB (#3531)",
+      "date": "2026-08-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3531",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5d3fd6858640c7a0f3e1781fac513ae11c05cada"
+    },
     {
       "sha": "4e98093b20",
       "message": "Fix out-of-bounds access in cluster message receivers (#4410)",

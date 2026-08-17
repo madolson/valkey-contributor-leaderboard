@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 896,
+  "score": 897,
   "commit_count": 203,
-  "review_count": 693,
+  "review_count": 694,
   "repos": [
     ".github",
     "valkey",
@@ -1647,6 +1647,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5d3fd68586",
+      "message": "Add streaming compression support for RDB (#3531)",
+      "date": "2026-08-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3531",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5d3fd6858640c7a0f3e1781fac513ae11c05cada"
+    },
     {
       "sha": "8cec1092b9",
       "message": "Validate stream listpack live and deleted record counts on load (#4381)",

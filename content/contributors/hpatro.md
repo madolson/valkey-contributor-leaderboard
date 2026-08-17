@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 300,
+  "score": 301,
   "commit_count": 65,
-  "review_count": 235,
+  "review_count": 236,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -539,6 +539,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5d3fd68586",
+      "message": "Add streaming compression support for RDB (#3531)",
+      "date": "2026-08-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3531",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5d3fd6858640c7a0f3e1781fac513ae11c05cada"
+    },
     {
       "sha": "d3824527b9",
       "message": "feat: Add VALKEYCLI_USER env var (#4126)",

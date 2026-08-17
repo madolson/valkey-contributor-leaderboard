@@ -40,7 +40,7 @@
       "name": "Viktor S\u00f6derqvist",
       "company": "Ericsson Software Technology",
       "commits": 153,
-      "reviews": 1061,
+      "reviews": 1062,
       "per_repo": {
         "libvalkey": {
           "2024-06": [
@@ -235,7 +235,7 @@
           ],
           "2026-08": [
             0,
-            23
+            24
           ]
         },
         "valkey-container": {
@@ -459,7 +459,7 @@
           ]
         }
       },
-      "score": 1214,
+      "score": 1215,
       "repos": [
         "libvalkey",
         "valkey",
@@ -849,7 +849,7 @@
       "name": "Madelyn Olson",
       "company": "Amazon Web Services",
       "commits": 203,
-      "reviews": 693,
+      "reviews": 694,
       "per_repo": {
         ".github": {
           "2024-05": [
@@ -980,7 +980,7 @@
           ],
           "2026-08": [
             8,
-            9
+            10
           ]
         },
         "valkey-admin": {
@@ -1330,7 +1330,7 @@
           ]
         }
       },
-      "score": 896,
+      "score": 897,
       "repos": [
         ".github",
         "valkey",
@@ -2131,7 +2131,7 @@
       "name": "Roshan Khatri",
       "company": "",
       "commits": 147,
-      "reviews": 259,
+      "reviews": 260,
       "per_repo": {
         "valkey": {
           "2024-03": [
@@ -2232,7 +2232,7 @@
           ],
           "2026-08": [
             1,
-            3
+            4
           ]
         },
         "valkey-bundle": {
@@ -2652,7 +2652,7 @@
           ]
         }
       },
-      "score": 406,
+      "score": 407,
       "repos": [
         "valkey",
         "valkey-bundle",
@@ -2673,7 +2673,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
       "name": "Sarthak Aggarwal",
       "company": "aws @valkey-io @opensearch-project",
-      "commits": 94,
+      "commits": 95,
       "reviews": 271,
       "per_repo": {
         "valkey": {
@@ -2758,7 +2758,7 @@
             13
           ],
           "2026-08": [
-            2,
+            3,
             17
           ]
         },
@@ -2937,7 +2937,7 @@
           ]
         }
       },
-      "score": 365,
+      "score": 366,
       "repos": [
         "valkey",
         "valkey-bundle",
@@ -3079,7 +3079,7 @@
       "name": "Harkrishn Patro",
       "company": "AWS",
       "commits": 65,
-      "reviews": 235,
+      "reviews": 236,
       "per_repo": {
         "valkey": {
           "2024-03": [
@@ -3197,6 +3197,10 @@
           "2026-07": [
             3,
             10
+          ],
+          "2026-08": [
+            0,
+            1
           ]
         },
         "valkey-bloom": {
@@ -3340,7 +3344,7 @@
           ]
         }
       },
-      "score": 300,
+      "score": 301,
       "repos": [
         "valkey",
         "valkey-bloom",
@@ -14768,6 +14772,46 @@
       ]
     },
     {
+      "login": "xdk-amz",
+      "id": 202004444,
+      "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
+      "name": "Dante Knowles",
+      "company": "",
+      "commits": 4,
+      "reviews": 3,
+      "per_repo": {
+        "valkey": {
+          "2026-04": [
+            0,
+            1
+          ],
+          "2026-05": [
+            0,
+            2
+          ]
+        },
+        "valkey-glide": {
+          "2025-11": [
+            1,
+            0
+          ],
+          "2025-12": [
+            2,
+            0
+          ],
+          "2026-02": [
+            1,
+            0
+          ]
+        }
+      },
+      "score": 7,
+      "repos": [
+        "valkey",
+        "valkey-glide"
+      ]
+    },
+    {
       "login": "martinrvisser",
       "id": 7462581,
       "avatar_url": "https://avatars.githubusercontent.com/u/7462581?v=4",
@@ -15379,46 +15423,6 @@
       "repos": [
         "valkey-helm",
         "valkey-operator"
-      ]
-    },
-    {
-      "login": "xdk-amz",
-      "id": 202004444,
-      "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
-      "name": "Dante Knowles",
-      "company": "",
-      "commits": 4,
-      "reviews": 2,
-      "per_repo": {
-        "valkey": {
-          "2026-04": [
-            0,
-            1
-          ],
-          "2026-05": [
-            0,
-            1
-          ]
-        },
-        "valkey-glide": {
-          "2025-11": [
-            1,
-            0
-          ],
-          "2025-12": [
-            2,
-            0
-          ],
-          "2026-02": [
-            1,
-            0
-          ]
-        }
-      },
-      "score": 6,
-      "repos": [
-        "valkey",
-        "valkey-glide"
       ]
     },
     {

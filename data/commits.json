@@ -173399,6 +173399,70 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey/pull/4415"
+    },
+    {
+      "sha": "5d3fd6858640c7a0f3e1781fac513ae11c05cada",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Add streaming compression support for RDB (#3531)",
+      "date": "2026-08-17T04:13:57Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "xdk-amz",
+          "date": "2026-05-20T22:23:13Z"
+        },
+        {
+          "login": "hpatro",
+          "date": "2026-08-13T10:37:04Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-08-13T12:30:24Z"
+        },
+        {
+          "login": "madolson",
+          "date": "2026-08-16T21:31:39Z"
+        },
+        {
+          "login": "roshkhatri",
+          "date": "2026-08-17T03:49:04Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3531"
+    },
+    {
+      "sha": "2d7f3d9fde2e5352b64e04cd786831f65a7f2dbf",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Vendor LZ4 1.10.0 (#3531)",
+      "date": "2026-08-17T04:13:57Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "xdk-amz",
+          "date": "2026-05-20T22:23:13Z"
+        },
+        {
+          "login": "hpatro",
+          "date": "2026-08-13T10:37:04Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-08-13T12:30:24Z"
+        },
+        {
+          "login": "madolson",
+          "date": "2026-08-16T21:31:39Z"
+        },
+        {
+          "login": "roshkhatri",
+          "date": "2026-08-17T03:49:04Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3531"
     }
   ]
 }

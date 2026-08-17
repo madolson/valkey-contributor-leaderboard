@@ -2,8 +2,8 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 365,
-  "commit_count": 94,
+  "score": 366,
+  "commit_count": 95,
   "review_count": 271,
   "repos": [
     "valkey",
@@ -18,6 +18,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "5d3fd68586",
+      "message": "Add streaming compression support for RDB (#3531)",
+      "date": "2026-08-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3531",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5d3fd6858640c7a0f3e1781fac513ae11c05cada"
+    },
     {
       "sha": "cd62903549",
       "message": "Fix signal mask parsing on 32-bit systems (#4415)",

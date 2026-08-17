@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 406,
+  "score": 407,
   "commit_count": 147,
-  "review_count": 259,
+  "review_count": 260,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1197,6 +1197,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5d3fd68586",
+      "message": "Add streaming compression support for RDB (#3531)",
+      "date": "2026-08-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3531",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5d3fd6858640c7a0f3e1781fac513ae11c05cada"
+    },
     {
       "sha": "396e492e10",
       "message": "readme (#80)",
