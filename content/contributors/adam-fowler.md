@@ -2,9 +2,9 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 170,
+  "score": 172,
   "commit_count": 135,
-  "review_count": 35,
+  "review_count": 37,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -1095,6 +1095,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "59d04ff34b",
+      "message": "Fix typo in channel handler state machine (#401)",
+      "date": "2026-08-17",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/401",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/59d04ff34b513410e0a6d48d917e95bce7032ae3"
+    },
+    {
+      "sha": "14956a80b4",
+      "message": "fix cross-module-optimization crash (#400)",
+      "date": "2026-08-17",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/400",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/14956a80b4129df9352ece6c58e090a882c1ee19"
+    },
     {
       "sha": "f0e679332e",
       "message": "Cluster-wide Multi-key MSET (#378)",

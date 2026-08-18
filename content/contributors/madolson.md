@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 897,
+  "score": 898,
   "commit_count": 203,
-  "review_count": 694,
+  "review_count": 695,
   "repos": [
     ".github",
     "valkey",
@@ -1654,6 +1654,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3531",
       "commit_url": "https://github.com/valkey-io/valkey/commit/5d3fd6858640c7a0f3e1781fac513ae11c05cada"
+    },
+    {
+      "sha": "1fea706f06",
+      "message": "Add cluster bus security warning to cluster tutorial (#468)",
+      "date": "2026-08-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/468",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/1fea706f06b375107694d8c227d40c2d3f1829c3"
     },
     {
       "sha": "8cec1092b9",

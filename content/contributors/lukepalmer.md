@@ -2,14 +2,22 @@
   "title": "lukepalmer",
   "login": "lukepalmer",
   "avatar_url": "https://avatars.githubusercontent.com/u/4999425?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "413f6c32a0",
+      "message": "AOF loading must not check ACL permissions (#3984)",
+      "date": "2026-08-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3984",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/413f6c32a063074f1cb3389c140a687e88093ad7"
+    },
     {
       "sha": "af284c5f45",
       "message": "Fix sentinel failover coordinated segfault when old leader's client is disconnected (#4068)",

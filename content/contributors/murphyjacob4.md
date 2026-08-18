@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 130,
-  "commit_count": 44,
-  "review_count": 86,
+  "score": 132,
+  "commit_count": 45,
+  "review_count": 87,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "1fea706f06",
+      "message": "Add cluster bus security warning to cluster tutorial (#468)",
+      "date": "2026-08-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/468",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/1fea706f06b375107694d8c227d40c2d3f1829c3"
+    },
     {
       "sha": "8ee7b372fa",
       "message": "Fix VLA stack overflow in TLS writev after write failure (#4307)",
@@ -366,6 +374,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5d4f9d6709",
+      "message": "Incr the dirty counter when deleting expired keys/fields from active expire (#3118)",
+      "date": "2026-08-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3118",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5d4f9d67095799efb04827366f439b4bc68b443d"
+    },
     {
       "sha": "a3c5f440e8",
       "message": "Track full sync completion time (#4197)",

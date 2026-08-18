@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1215,
+  "score": 1217,
   "commit_count": 153,
-  "review_count": 1062,
+  "review_count": 1064,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1247,12 +1247,28 @@
   ],
   "review_list": [
     {
+      "sha": "5d4f9d6709",
+      "message": "Incr the dirty counter when deleting expired keys/fields from active expire (#3118)",
+      "date": "2026-08-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3118",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5d4f9d67095799efb04827366f439b4bc68b443d"
+    },
+    {
       "sha": "5d3fd68586",
       "message": "Add streaming compression support for RDB (#3531)",
       "date": "2026-08-17",
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3531",
       "commit_url": "https://github.com/valkey-io/valkey/commit/5d3fd6858640c7a0f3e1781fac513ae11c05cada"
+    },
+    {
+      "sha": "413f6c32a0",
+      "message": "AOF loading must not check ACL permissions (#3984)",
+      "date": "2026-08-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3984",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/413f6c32a063074f1cb3389c140a687e88093ad7"
     },
     {
       "sha": "4e98093b20",

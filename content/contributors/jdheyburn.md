@@ -2,8 +2,8 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 132,
-  "commit_count": 42,
+  "score": 133,
+  "commit_count": 43,
   "review_count": 90,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "5b7bf47ffd",
+      "message": "refactor!: TLS API restructure (#377)",
+      "date": "2026-08-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/377",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/5b7bf47ffd8440da852f10fe96ea42d317d7882a"
+    },
     {
       "sha": "5676fb960e",
       "message": "fix: skip reconciliation while ValkeyCluster is being deleted (#374)",

@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 105,
+  "score": 107,
   "commit_count": 24,
-  "review_count": 81,
+  "review_count": 83,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -206,6 +206,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5d4f9d6709",
+      "message": "Incr the dirty counter when deleting expired keys/fields from active expire (#3118)",
+      "date": "2026-08-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3118",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5d4f9d67095799efb04827366f439b4bc68b443d"
+    },
+    {
+      "sha": "413f6c32a0",
+      "message": "AOF loading must not check ACL permissions (#3984)",
+      "date": "2026-08-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3984",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/413f6c32a063074f1cb3389c140a687e88093ad7"
+    },
+    {
+      "sha": "ada59156d6",
+      "message": "Bump github/codeql-action from 4.37.6 to 4.37.7 (#12)",
+      "date": "2026-08-17",
+      "repo": "valkey-lua5.5",
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/12",
+      "commit_url": "https://github.com/valkey-io/valkey-lua5.5/commit/ada59156d6ce45375548f721d592a5f3d07b80f4"
+    },
     {
       "sha": "8abd07fff2",
       "message": "Fix slow-clocksource check for HW monotonic clock and non-x86 advisories (#4272)",

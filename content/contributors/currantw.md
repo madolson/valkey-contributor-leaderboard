@@ -1330,6 +1330,54 @@
   ],
   "review_list": [
     {
+      "sha": "65174c951d",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 2 updates (#6779)",
+      "date": "2026-08-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6779",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/65174c951d4210de11de4382bfc69dc99181bcfa"
+    },
+    {
+      "sha": "dc52d02778",
+      "message": "build(deps-dev): bump the minor-updates group across 1 directory with 2 updates (#6776)",
+      "date": "2026-08-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6776",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dc52d027784dafbfff4d05cc6304840913bfb2a7"
+    },
+    {
+      "sha": "4058b9ea9c",
+      "message": "build(deps): bump the patch-updates group in /glide-core/redis-rs with 3 updates (#6778)",
+      "date": "2026-08-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6778",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4058b9ea9cf2cd25c4c58c8d759bd5dff7bf7ce0"
+    },
+    {
+      "sha": "2aea54128b",
+      "message": "chore(deps): bump valkey-glide from `98f0d6c` to `9a268ea` (#529)",
+      "date": "2026-08-17",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/529",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2aea54128b118223dc4f3299954613253a0f9b57"
+    },
+    {
+      "sha": "85ec4c3919",
+      "message": "chore(deps): bump go-task/setup-task from 2.1.0 to 2.2.0 in the minor-updates group (#528)",
+      "date": "2026-08-17",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/528",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/85ec4c391909f2f5a8ac722c12b501fce50a1d5c"
+    },
+    {
+      "sha": "21d734bc4b",
+      "message": "chore(deps): bump the patch-updates group with 3 updates (#527)",
+      "date": "2026-08-17",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/527",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/21d734bc4b8c4ba840d6b7e0e9540c331de42f40"
+    },
+    {
       "sha": "5ef8320683",
       "message": "fix(deps): bump js-yaml and protobufjs to resolve open Dependabot alerts (#6760)",
       "date": "2026-08-12",

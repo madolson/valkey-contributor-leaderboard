@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 949,
-  "commit_count": 377,
+  "score": 950,
+  "commit_count": 378,
   "review_count": 572,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "5d4f9d6709",
+      "message": "Incr the dirty counter when deleting expired keys/fields from active expire (#3118)",
+      "date": "2026-08-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3118",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5d4f9d67095799efb04827366f439b4bc68b443d"
+    },
     {
       "sha": "4e98093b20",
       "message": "Fix out-of-bounds access in cluster message receivers (#4410)",

@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 54,
+  "score": 55,
   "commit_count": 23,
-  "review_count": 31,
+  "review_count": 32,
   "repos": [
     "valkey-operator"
   ],
@@ -195,6 +195,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5b7bf47ffd",
+      "message": "refactor!: TLS API restructure (#377)",
+      "date": "2026-08-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/377",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/5b7bf47ffd8440da852f10fe96ea42d317d7882a"
+    },
     {
       "sha": "d46e70a523",
       "message": "chore: Auto update and freeze pre-commit version (#370)",

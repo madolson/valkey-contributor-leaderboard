@@ -2,9 +2,9 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 34,
+  "score": 35,
   "commit_count": 19,
-  "review_count": 15,
+  "review_count": 16,
   "repos": [
     "valkey-helm",
     "valkey-operator"
@@ -164,6 +164,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5b7bf47ffd",
+      "message": "refactor!: TLS API restructure (#377)",
+      "date": "2026-08-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/377",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/5b7bf47ffd8440da852f10fe96ea42d317d7882a"
+    },
     {
       "sha": "59b39e4039",
       "message": "feat: add scheduling.zone.pinning (#344)",
