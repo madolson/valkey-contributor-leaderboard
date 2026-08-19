@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 55,
+  "score": 56,
   "commit_count": 23,
-  "review_count": 32,
+  "review_count": 33,
   "repos": [
     "valkey-operator"
   ],
@@ -202,6 +202,14 @@
       "repo": "valkey-operator",
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/377",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/5b7bf47ffd8440da852f10fe96ea42d317d7882a"
+    },
+    {
+      "sha": "7da59cbb5d",
+      "message": "refactor: Remove serverConfigHash from ValkeyNode (#381)",
+      "date": "2026-08-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/381",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/7da59cbb5d8b4258876b03969825826a1913fec0"
     },
     {
       "sha": "d46e70a523",

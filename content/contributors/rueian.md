@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 43,
+  "score": 44,
   "commit_count": 9,
-  "review_count": 34,
+  "review_count": 35,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "52f25e3b3a",
+      "message": "fix(pipe): avoid nil cache panic with disabled static-TTL multi-cache (#150)",
+      "date": "2026-08-19",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/150",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/52f25e3b3a975d5f48ce7cecc6587256d3ff5468"
+    },
     {
       "sha": "068e49597a",
       "message": "feat: add Close method to valkeylimiter (#149)",

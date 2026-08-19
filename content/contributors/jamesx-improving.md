@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 252,
+  "score": 253,
   "commit_count": 80,
-  "review_count": 172,
+  "review_count": 173,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -655,6 +655,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "df5d9076ba",
+      "message": "fix(core): retry empty-receivers multi-node fan-out under topology churn (#6768)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6768",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/df5d9076bae40edbc20cdc7bfec1f84221a3acac"
+    },
     {
       "sha": "6cb5a7cb43",
       "message": "docs: update Ruby documentation for release 1.0 (#319)",

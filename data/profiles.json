@@ -2386,5 +2386,17 @@
   "planetMDX": {
     "name": "Roland Ambs",
     "company": ""
+  },
+  "aamirpatel": {
+    "name": "Aamir Patel",
+    "company": "HCLtech"
+  },
+  "kurochan": {
+    "name": "Yuta Kurosaki",
+    "company": "CyberAgent Inc."
+  },
+  "dgershko": {
+    "name": "",
+    "company": "Amazon Web Services"
   }
 }

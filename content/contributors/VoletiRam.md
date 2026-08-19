@@ -2,8 +2,8 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 53,
-  "commit_count": 22,
+  "score": 55,
+  "commit_count": 24,
   "review_count": 31,
   "repos": [
     "valkey",
@@ -12,6 +12,22 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "90686ecdf0",
+      "message": "fix: increase all socket/readiness timeouts to 30s (#82)",
+      "date": "2026-08-18",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/82",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/90686ecdf04b9459522038b04823df54c409d144"
+    },
+    {
+      "sha": "fe29d35fd9",
+      "message": "Fix server restart failure: flush before shutdown + SIGKILL escalation (#81)",
+      "date": "2026-08-18",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/81",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/fe29d35fd93eb098400bea66d9244bdc561d94e5"
+    },
     {
       "sha": "92efaa6004",
       "message": "Fix SIGSEGV in LatencySampler when hdr_init fails (#1230)",

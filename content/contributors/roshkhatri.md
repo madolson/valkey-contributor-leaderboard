@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 407,
+  "score": 409,
   "commit_count": 147,
-  "review_count": 260,
+  "review_count": 262,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1197,6 +1197,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "90686ecdf0",
+      "message": "fix: increase all socket/readiness timeouts to 30s (#82)",
+      "date": "2026-08-18",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/82",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/90686ecdf04b9459522038b04823df54c409d144"
+    },
+    {
+      "sha": "fe29d35fd9",
+      "message": "Fix server restart failure: flush before shutdown + SIGKILL escalation (#81)",
+      "date": "2026-08-18",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/81",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/fe29d35fd93eb098400bea66d9244bdc561d94e5"
+    },
     {
       "sha": "5d3fd68586",
       "message": "Add streaming compression support for RDB (#3531)",

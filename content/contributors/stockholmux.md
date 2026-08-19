@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 133,
+  "score": 135,
   "commit_count": 17,
-  "review_count": 116,
+  "review_count": 118,
   "repos": [
     "valkey",
     "valkey-container",
@@ -151,6 +151,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "23b1623f7d",
+      "message": "Update BetterDB participant description (#631)",
+      "date": "2026-08-18",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/631",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/23b1623f7df74f7453f1f60f4c008da59ec417d9"
+    },
+    {
+      "sha": "23b1623f7d",
+      "message": "Update BetterDB participant description (#631)",
+      "date": "2026-08-18",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/631",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/23b1623f7df74f7453f1f60f4c008da59ec417d9"
+    },
     {
       "sha": "8df9c328fa",
       "message": "Add blog post: Valkey 9.1 Memory Efficiency (#594)",

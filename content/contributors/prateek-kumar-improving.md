@@ -1128,6 +1128,30 @@
   ],
   "review_list": [
     {
+      "sha": "56ed457c21",
+      "message": "ci(deps): bump Swatinem/rust-cache (#313)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/313",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/56ed457c216d1cd16a009e5cdf42f02d9e0eb31b"
+    },
+    {
+      "sha": "d2adc2dcd3",
+      "message": "deps-dev(deps-dev): update squizlabs/php_codesniffer requirement (#311)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/311",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/d2adc2dcd3e12ad58e9b5b43011a27def8437e24"
+    },
+    {
+      "sha": "a8c6a6d2c5",
+      "message": "ci(deps): bump actions/attest-build-provenance from 4.1.1 to 4.2.2 (#312)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/312",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/a8c6a6d2c5cb382e9c887e4ae5bce8ceebd38635"
+    },
+    {
       "sha": "81bc703c22",
       "message": "feat(config): add `AllNodes` `ReadFrom` strategy (#520)",
       "date": "2026-08-14",

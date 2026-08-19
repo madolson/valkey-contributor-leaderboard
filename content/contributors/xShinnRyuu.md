@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 409,
-  "commit_count": 121,
-  "review_count": 288,
+  "score": 413,
+  "commit_count": 123,
+  "review_count": 290,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "df5d9076ba",
+      "message": "fix(core): retry empty-receivers multi-node fan-out under topology churn (#6768)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6768",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/df5d9076bae40edbc20cdc7bfec1f84221a3acac"
+    },
+    {
+      "sha": "f8dfc51a1d",
+      "message": "fix(deps): bump h2 to 0.4.16 to resolve RUSTSEC-2026-0258 (#6784)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6784",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f8dfc51a1d954a36d5cd54936d9f37985b65af01"
+    },
     {
       "sha": "9a268ea3e0",
       "message": "Node: Fix flaky save test timeout in CI (#6758)",
@@ -985,6 +1001,118 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2e52a6f716",
+      "message": "Bump version to 2.0.0 (#103)",
+      "date": "2026-08-18",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/103",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/2e52a6f716c7de2e724f85637a712029550f8ffd"
+    },
+    {
+      "sha": "f6678c9b49",
+      "message": "Pin action versions, scope permissions, and remove dead workflow (#102)",
+      "date": "2026-08-18",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/102",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/f6678c9b4980f24d978dbba2f5a6da28ffb2a4fd"
+    },
+    {
+      "sha": "1c5ce0beaf",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 3 updates (#6564)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6564",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1c5ce0beafc0fea3aa6a2a989927d90a7446219d"
+    },
+    {
+      "sha": "90d54539ea",
+      "message": "build(deps): bump the minor-updates group across 1 directory with 6 updates (#6691)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6691",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/90d54539eadc6a05b4ad5d280e9fc532448648e9"
+    },
+    {
+      "sha": "484861310b",
+      "message": "build(deps): bump gradle/actions/wrapper-validation from 4.4.3 to 6.2.0 (#6512)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6512",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/484861310b30638400c32653e5ed1ce6110612d1"
+    },
+    {
+      "sha": "d6623c75a6",
+      "message": "build(deps-dev): bump ts-jest from 29.4.11 to 29.4.12 in /node in the patch-updates group across 1 directory (#6692)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6692",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d6623c75a6c1c058670d5e8b00a39a0322c70f79"
+    },
+    {
+      "sha": "97ead34198",
+      "message": "build(deps): bump uuid from 1.23.1 to 1.24.0 in /python/glide-async in the minor-updates group across 1 directory (#6695)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6695",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97ead341985597b6320b6080a6da4792e3f2c1f1"
+    },
+    {
+      "sha": "e06b17b1e1",
+      "message": "build(deps): bump pyo3 from 0.29.0 to 0.29.2 in /python/glide-shared in the patch-updates group across 1 directory (#6743)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6743",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e06b17b1e1f89e44bb12ce51f34a08dcd5f647d4"
+    },
+    {
+      "sha": "ced77acc2f",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 3 updates (#6570)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6570",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ced77acc2f48db2ddaeaff42111fa9ae098288b4"
+    },
+    {
+      "sha": "5a00e9b622",
+      "message": "build(deps): bump tokio from 1.52.3 to 1.53.1 in /glide-core/telemetry in the minor-updates group across 1 directory (#6572)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6572",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5a00e9b622950e55ab08d733ec2ac0342b4c7bfb"
+    },
+    {
+      "sha": "ec1c45040c",
+      "message": "chore(deps): Bump actions/checkout from 4.3.1 to 7.0.1 (#281)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/281",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ec1c45040c5d6b1f8846f3301f742614aa6bf07d"
+    },
+    {
+      "sha": "e667fce8d7",
+      "message": "chore(deps): Bump actions/cache from 4.3.0 to 6.1.0 (#280)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/280",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/e667fce8d71e2a2ef22075d9ac907b2a01e865a7"
+    },
+    {
+      "sha": "5a40ed074c",
+      "message": "chore(deps): Bump actions/upload-artifact from 4.6.2 to 7.0.1 (#279)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/279",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/5a40ed074c120513632a4e138ec793e665286550"
+    },
+    {
+      "sha": "8a73609d5d",
+      "message": "chore(deps): Bump the minor-updates group with 2 updates (#278)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/278",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/8a73609d5d2ea0800bfd322e7b1bfca28803b9f8"
+    },
     {
       "sha": "65174c951d",
       "message": "build(deps): bump the patch-updates group across 1 directory with 2 updates (#6779)",

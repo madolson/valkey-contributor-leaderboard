@@ -752,6 +752,22 @@
   ],
   "review_list": [
     {
+      "sha": "ced77acc2f",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 3 updates (#6570)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6570",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ced77acc2f48db2ddaeaff42111fa9ae098288b4"
+    },
+    {
+      "sha": "5a00e9b622",
+      "message": "build(deps): bump tokio from 1.52.3 to 1.53.1 in /glide-core/telemetry in the minor-updates group across 1 directory (#6572)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6572",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5a00e9b622950e55ab08d733ec2ac0342b4c7bfb"
+    },
+    {
       "sha": "81bc703c22",
       "message": "feat(config): add `AllNodes` `ReadFrom` strategy (#520)",
       "date": "2026-08-14",

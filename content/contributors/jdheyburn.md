@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 133,
-  "commit_count": 43,
-  "review_count": 90,
+  "score": 137,
+  "commit_count": 44,
+  "review_count": 93,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -18,6 +18,14 @@
       "repo": "valkey-operator",
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/377",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/5b7bf47ffd8440da852f10fe96ea42d317d7882a"
+    },
+    {
+      "sha": "7da59cbb5d",
+      "message": "refactor: Remove serverConfigHash from ValkeyNode (#381)",
+      "date": "2026-08-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/381",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/7da59cbb5d8b4258876b03969825826a1913fec0"
     },
     {
       "sha": "5676fb960e",
@@ -357,6 +365,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c33988f583",
+      "message": "feat: gate ACLApplied on an ACL revision user so permission edits are honest (#382)",
+      "date": "2026-08-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/382",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c33988f58364d6850380cabd926871d5f39d6c45"
+    },
+    {
+      "sha": "4160d5470f",
+      "message": "ci: remove unnecessary disk space reclaim from publish workflow (#384)",
+      "date": "2026-08-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/384",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/4160d5470f8e07a097469f7aa004b0082813ab3b"
+    },
+    {
+      "sha": "79866214ad",
+      "message": "test(e2e): assert cluster teardown against the cluster the spec deletes (#379)",
+      "date": "2026-08-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/379",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/79866214ad3affee9f6867e4760514848ccd739f"
+    },
     {
       "sha": "2c3d72c4db",
       "message": "CI: cache Go build outputs and drop redundant go mod tidy (#372)",

@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 282,
+  "score": 286,
   "commit_count": 164,
-  "review_count": 118,
+  "review_count": 122,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -1329,6 +1329,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "25e487caee",
+      "message": "docs: mark LATENCY commands as available for C# and PHP (#291)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/291",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/25e487caeebee367a3125d32def9f64b767206ec"
+    },
+    {
+      "sha": "87b1fc6102",
+      "message": "docs: mark FAILOVER and REPLICAOF as available for C# and PHP (#292)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/292",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/87b1fc6102c003a4f2dbce79414d25792fa712a0"
+    },
+    {
+      "sha": "d0bbb49b63",
+      "message": "docs: mark BGSAVE as available for C# and PHP (#279)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/279",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/d0bbb49b63cbd126464373504e408034f20b1f01"
+    },
+    {
+      "sha": "2dc6ed05cf",
+      "message": "docs: mark CLIENT PAUSE/UNPAUSE as available for C# and PHP (#290)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/290",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/2dc6ed05cf07ab7a3b9fc032e373fc2e3acfed34"
+    },
     {
       "sha": "65174c951d",
       "message": "build(deps): bump the patch-updates group across 1 directory with 2 updates (#6779)",

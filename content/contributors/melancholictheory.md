@@ -2,13 +2,29 @@
   "title": "melancholictheory",
   "login": "melancholictheory",
   "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "c33988f583",
+      "message": "feat: gate ACLApplied on an ACL revision user so permission edits are honest (#382)",
+      "date": "2026-08-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/382",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c33988f58364d6850380cabd926871d5f39d6c45"
+    },
+    {
+      "sha": "79866214ad",
+      "message": "test(e2e): assert cluster teardown against the cluster the spec deletes (#379)",
+      "date": "2026-08-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/379",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/79866214ad3affee9f6867e4760514848ccd739f"
+    },
     {
       "sha": "eb1d4672da",
       "message": "feat: apply ACL changes live without rolling pods (#319)",

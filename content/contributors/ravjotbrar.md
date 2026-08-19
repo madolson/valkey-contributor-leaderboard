@@ -2,14 +2,38 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 185,
-  "commit_count": 111,
+  "score": 188,
+  "commit_count": 114,
   "review_count": 74,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "64d0c18495",
+      "message": "Auto-wrap Key Browser search with wildcards (#479)",
+      "date": "2026-08-18",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/479",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/64d0c184953affb7a4f635e9896128a45ea2c28d"
+    },
+    {
+      "sha": "c9f27010aa",
+      "message": "Fix labeler for external PRs: use pull_request_target and labeler v7 (#480)",
+      "date": "2026-08-18",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/480",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/c9f27010aa36d60eceb8a4dae0156f8c174a8b54"
+    },
+    {
+      "sha": "a9e11677d8",
+      "message": "Replace RFC process with Design discussion proposals, remove former maintainer (#482)",
+      "date": "2026-08-18",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/482",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/a9e11677d8ea22ea8ac189f3c5ce35990bc2ddbe"
+    },
     {
       "sha": "e484224025",
       "message": "Fix denylist bypass via quoted commands (#472)",

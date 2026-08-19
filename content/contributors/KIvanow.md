@@ -2,8 +2,8 @@
   "title": "KIvanow",
   "login": "KIvanow",
   "avatar_url": "https://avatars.githubusercontent.com/u/541999?v=4",
-  "score": 13,
-  "commit_count": 11,
+  "score": 14,
+  "commit_count": 12,
   "review_count": 2,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "23b1623f7d",
+      "message": "Update BetterDB participant description (#631)",
+      "date": "2026-08-18",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/631",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/23b1623f7df74f7453f1f60f4c008da59ec417d9"
+    },
     {
       "sha": "d81550cf04",
       "message": "Add blog post: How modern AI workloads map to Valkey primitives (#574)",

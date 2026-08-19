@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 950,
-  "commit_count": 378,
+  "score": 951,
+  "commit_count": 379,
   "review_count": 572,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "12de25e8d0",
+      "message": "Fix mem_clients_type_memory leak for cached primary client (#4395)",
+      "date": "2026-08-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4395",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/12de25e8d0f18c660aabc150715b57ebdc25d9ff"
+    },
     {
       "sha": "5d4f9d6709",
       "message": "Incr the dirty counter when deleting expired keys/fields from active expire (#3118)",

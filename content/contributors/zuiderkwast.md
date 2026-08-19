@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1217,
+  "score": 1218,
   "commit_count": 153,
-  "review_count": 1064,
+  "review_count": 1065,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1253,6 +1253,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3118",
       "commit_url": "https://github.com/valkey-io/valkey/commit/5d4f9d67095799efb04827366f439b4bc68b443d"
+    },
+    {
+      "sha": "36aca4bfb8",
+      "message": "Skip IO-thread write-done client re-lookup unless update_state sync-invokes handlers (#4440)",
+      "date": "2026-08-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4440",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/36aca4bfb8a359b558ee9ec352f42c168b2992af"
     },
     {
       "sha": "5d3fd68586",

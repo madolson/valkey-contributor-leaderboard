@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 240,
-  "commit_count": 121,
-  "review_count": 119,
+  "score": 243,
+  "commit_count": 122,
+  "review_count": 121,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "4160d5470f",
+      "message": "ci: remove unnecessary disk space reclaim from publish workflow (#384)",
+      "date": "2026-08-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/384",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/4160d5470f8e07a097469f7aa004b0082813ab3b"
+    },
     {
       "sha": "2c3d72c4db",
       "message": "CI: cache Go build outputs and drop redundant go mod tidy (#372)",
@@ -983,6 +991,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c33988f583",
+      "message": "feat: gate ACLApplied on an ACL revision user so permission edits are honest (#382)",
+      "date": "2026-08-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/382",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c33988f58364d6850380cabd926871d5f39d6c45"
+    },
+    {
+      "sha": "79866214ad",
+      "message": "test(e2e): assert cluster teardown against the cluster the spec deletes (#379)",
+      "date": "2026-08-18",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/379",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/79866214ad3affee9f6867e4760514848ccd739f"
+    },
     {
       "sha": "5676fb960e",
       "message": "fix: skip reconciliation while ValkeyCluster is being deleted (#374)",

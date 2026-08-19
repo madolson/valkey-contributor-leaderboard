@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 898,
+  "score": 900,
   "commit_count": 203,
-  "review_count": 695,
+  "review_count": 697,
   "repos": [
     ".github",
     "valkey",
@@ -1647,6 +1647,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "12de25e8d0",
+      "message": "Fix mem_clients_type_memory leak for cached primary client (#4395)",
+      "date": "2026-08-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4395",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/12de25e8d0f18c660aabc150715b57ebdc25d9ff"
+    },
+    {
+      "sha": "b3fee52f33",
+      "message": "Update GLIDE clients (#467)",
+      "date": "2026-08-18",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/467",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/b3fee52f330f23a25ccfa29ff21cee8581924d3c"
+    },
     {
       "sha": "5d3fd68586",
       "message": "Add streaming compression support for RDB (#3531)",

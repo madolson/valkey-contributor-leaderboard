@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 203,
-  "commit_count": 56,
-  "review_count": 147,
+  "score": 207,
+  "commit_count": 58,
+  "review_count": 149,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -13,6 +13,22 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "2e52a6f716",
+      "message": "Bump version to 2.0.0 (#103)",
+      "date": "2026-08-18",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/103",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/2e52a6f716c7de2e724f85637a712029550f8ffd"
+    },
+    {
+      "sha": "f6678c9b49",
+      "message": "Pin action versions, scope permissions, and remove dead workflow (#102)",
+      "date": "2026-08-18",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/102",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/f6678c9b4980f24d978dbba2f5a6da28ffb2a4fd"
+    },
     {
       "sha": "8e1d8b1c7c",
       "message": "feat(node): replace Proxy-based abandon detection with Rust-level pool tracking (#6747)",
@@ -463,6 +479,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "df5d9076ba",
+      "message": "fix(core): retry empty-receivers multi-node fan-out under topology churn (#6768)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6768",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/df5d9076bae40edbc20cdc7bfec1f84221a3acac"
+    },
+    {
+      "sha": "f8dfc51a1d",
+      "message": "fix(deps): bump h2 to 0.4.16 to resolve RUSTSEC-2026-0258 (#6784)",
+      "date": "2026-08-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6784",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f8dfc51a1d954a36d5cd54936d9f37985b65af01"
+    },
     {
       "sha": "23d6f115a7",
       "message": "feat(python): expose PEM loader helpers from top-level glide packages (#6767)",
