@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 93,
+  "score": 96,
   "commit_count": 38,
-  "review_count": 55,
+  "review_count": 58,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -318,6 +318,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e415fe1311",
+      "message": "Fix numeric field precision loss in content materialization (#1264)",
+      "date": "2026-08-19",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1264",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e415fe1311503503891b3c91893c2ea731544794"
+    },
+    {
+      "sha": "e415fe1311",
+      "message": "Fix numeric field precision loss in content materialization (#1264)",
+      "date": "2026-08-19",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1264",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e415fe1311503503891b3c91893c2ea731544794"
+    },
+    {
+      "sha": "368131ee09",
+      "message": "Minimal CLAUDE.md (#1021)",
+      "date": "2026-08-19",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1021",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/368131ee09558675c5a3a523b0eefadcda6b6c3b"
+    },
     {
       "sha": "bb1f1c7231",
       "message": "Fix replica reporting incorrect search_number_of_indexes after full sync (#1265)",

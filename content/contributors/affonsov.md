@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 258,
+  "score": 259,
   "commit_count": 92,
-  "review_count": 166,
+  "review_count": 167,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -751,6 +751,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f70a812599",
+      "message": "docs: add C# MONITOR command support (#294)",
+      "date": "2026-08-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/294",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/f70a8125993ceb6c30840f2a0780c5d810545825"
+    },
     {
       "sha": "ced77acc2f",
       "message": "build(deps): bump the patch-updates group across 1 directory with 3 updates (#6570)",

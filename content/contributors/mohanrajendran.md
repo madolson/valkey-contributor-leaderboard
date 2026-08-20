@@ -2,14 +2,22 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://github.com/mohanrajendran.png?size=64",
-  "score": 2,
+  "score": 3,
   "commit_count": 0,
-  "review_count": 2,
+  "review_count": 3,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [],
   "review_list": [
+    {
+      "sha": "1a2306b101",
+      "message": "Fix indexing for zero-length keys (#1171)",
+      "date": "2026-08-19",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1171",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1a2306b101360103f012005bfb381ac30224a81e"
+    },
     {
       "sha": "7a7b945386",
       "message": "Fix up test_skip_index_load.py (#1172)",

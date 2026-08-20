@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 900,
+  "score": 901,
   "commit_count": 203,
-  "review_count": 697,
+  "review_count": 698,
   "repos": [
     ".github",
     "valkey",
@@ -1647,6 +1647,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b3b2743bfb",
+      "message": "Update sorted set docs: skiplist replaced by B+ tree (#471)",
+      "date": "2026-08-20",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/471",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/b3b2743bfb80ec72438f90e97bdbfd3ee7fad003"
+    },
     {
       "sha": "12de25e8d0",
       "message": "Fix mem_clients_type_memory leak for cached primary client (#4395)",

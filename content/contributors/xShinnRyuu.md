@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 413,
+  "score": 417,
   "commit_count": 123,
-  "review_count": 290,
+  "review_count": 294,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -1001,6 +1001,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6bba71368a",
+      "message": "[Python] Add `AZ_AFFINITY_ALL_NODES` read policy (#6721)",
+      "date": "2026-08-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6721",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6bba71368a3a837b03254028008a21da1e281e36"
+    },
+    {
+      "sha": "e5d50c8693",
+      "message": "docs(csharp): add mTLS examples to TLS page (#313)",
+      "date": "2026-08-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/313",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/e5d50c86938a832fd28858287ef8c20ea9db5d00"
+    },
+    {
+      "sha": "bcb1c106cd",
+      "message": "feat(php): Implement lolwut command (#314)",
+      "date": "2026-08-19",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/314",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/bcb1c106cdd83ea769844c56c985fd1216da9942"
+    },
+    {
+      "sha": "15925e41db",
+      "message": "feat(php): implement LASTSAVE command (#315)",
+      "date": "2026-08-19",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/315",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/15925e41db6859e325fa233451bf7b50a428be23"
+    },
     {
       "sha": "2e52a6f716",
       "message": "Bump version to 2.0.0 (#103)",

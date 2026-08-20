@@ -2,8 +2,8 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 413,
-  "commit_count": 139,
+  "score": 415,
+  "commit_count": 141,
   "review_count": 274,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "bcb1c106cd",
+      "message": "feat(php): Implement lolwut command (#314)",
+      "date": "2026-08-19",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/314",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/bcb1c106cdd83ea769844c56c985fd1216da9942"
+    },
+    {
+      "sha": "15925e41db",
+      "message": "feat(php): implement LASTSAVE command (#315)",
+      "date": "2026-08-19",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/315",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/15925e41db6859e325fa233451bf7b50a428be23"
+    },
     {
       "sha": "9113b0469f",
       "message": "feat(php): implement CLIENT TRACKINGINFO command (#293)",

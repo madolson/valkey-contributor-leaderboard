@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 286,
-  "commit_count": 164,
+  "score": 287,
+  "commit_count": 165,
   "review_count": 122,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "90f1405c78",
+      "message": "C#: CLIENT KILL, periodic checks, and inflight requests limit (#322)",
+      "date": "2026-08-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/322",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/90f1405c787efd2b566535aabc2d7aea4b44511c"
+    },
     {
       "sha": "81bc703c22",
       "message": "feat(config): add `AllNodes` `ReadFrom` strategy (#520)",

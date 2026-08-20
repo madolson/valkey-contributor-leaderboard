@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 207,
+  "score": 208,
   "commit_count": 58,
-  "review_count": 149,
+  "review_count": 150,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -479,6 +479,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "17e36daa56",
+      "message": "docs: add C# circuit breaker configuration examples (#310)",
+      "date": "2026-08-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/310",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/17e36daa56cfc89920a51260a59cc1e4f5666920"
+    },
     {
       "sha": "df5d9076ba",
       "message": "fix(core): retry empty-receivers multi-node fan-out under topology churn (#6768)",

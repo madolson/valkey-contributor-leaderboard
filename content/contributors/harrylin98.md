@@ -2,13 +2,21 @@
   "title": "harrylin98",
   "login": "harrylin98",
   "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
-  "score": 11,
-  "commit_count": 10,
+  "score": 12,
+  "commit_count": 11,
   "review_count": 1,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "0fb02b7ebd",
+      "message": "Fix include order in custom_matchers.hpp to prevent min/max macro pollution (#4469)",
+      "date": "2026-08-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4469",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0fb02b7ebd9b6cf0f6e1924c8ee13f3b51403ba8"
+    },
     {
       "sha": "5813754ff7",
       "message": "Fix include order in custom_matchers.hpp (#4388)",

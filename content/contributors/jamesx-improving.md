@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 253,
+  "score": 254,
   "commit_count": 80,
-  "review_count": 173,
+  "review_count": 174,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -655,6 +655,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6bba71368a",
+      "message": "[Python] Add `AZ_AFFINITY_ALL_NODES` read policy (#6721)",
+      "date": "2026-08-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6721",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6bba71368a3a837b03254028008a21da1e281e36"
+    },
     {
       "sha": "df5d9076ba",
       "message": "fix(core): retry empty-receivers multi-node fan-out under topology churn (#6768)",

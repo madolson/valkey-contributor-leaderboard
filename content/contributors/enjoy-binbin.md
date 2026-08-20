@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 951,
-  "commit_count": 379,
+  "score": 952,
+  "commit_count": 380,
   "review_count": 572,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "11188c2391",
+      "message": "Persist non-zero cluster-replica-priority to nodes.conf as an aux field (#4454)",
+      "date": "2026-08-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4454",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/11188c239115b6f7943e81b25459c9c4781ba0e6"
+    },
     {
       "sha": "12de25e8d0",
       "message": "Fix mem_clients_type_memory leak for cached primary client (#4395)",

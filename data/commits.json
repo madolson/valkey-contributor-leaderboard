@@ -174462,6 +174462,321 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/81"
+    },
+    {
+      "sha": "13e6aa835b53761e50530d0330704537c49d3c1a",
+      "author_login": "Vonng",
+      "author_id": 8587410,
+      "avatar_url": "https://avatars.githubusercontent.com/u/8587410?v=4",
+      "message": "build: pass CPPFLAGS to bundled deps and src (#4318)",
+      "date": "2026-08-20T06:25:08Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-08-19T19:01:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4318"
+    },
+    {
+      "sha": "11188c239115b6f7943e81b25459c9c4781ba0e6",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Persist non-zero cluster-replica-priority to nodes.conf as an aux field (#4454)",
+      "date": "2026-08-20T02:40:20Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-08-18T16:47:48Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-08-19T18:07:48Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4454"
+    },
+    {
+      "sha": "0fb02b7ebd9b6cf0f6e1924c8ee13f3b51403ba8",
+      "author_login": "harrylin98",
+      "author_id": 49881386,
+      "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
+      "message": "Fix include order in custom_matchers.hpp to prevent min/max macro pollution (#4469)",
+      "date": "2026-08-19T17:00:34Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-08-18T22:56:48Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4469"
+    },
+    {
+      "sha": "dd9d61ac3b83f191b9400a68623ea28a76a2cd3d",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Add scan button for Big Keys, revamp Start Monitor button (#481)",
+      "date": "2026-08-19T17:59:07Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ArgusLi",
+          "date": "2026-08-19T17:55:59Z"
+        },
+        {
+          "login": "nassery318",
+          "date": "2026-08-19T17:59:21Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/481"
+    },
+    {
+      "sha": "63315e74b7022f9de0ad0910300c6eff8f6e7f86",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Fix credential expiry in long backport sweeps (#87)",
+      "date": "2026-08-20T04:51:05Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e02f4d048b8b422624024ad28c4f7731bb2739b1",
+      "author_login": "roshkhatri",
+      "author_id": 117414976,
+      "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
+      "message": "Fix SBOM to be valid SPDX 2.3 and add validation test (#158)",
+      "date": "2026-08-19T20:38:23Z",
+      "repo": "valkey-container",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-08-19T10:57:28Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/158"
+    },
+    {
+      "sha": "b3b2743bfb80ec72438f90e97bdbfd3ee7fad003",
+      "author_login": "rainsupreme",
+      "author_id": 20649182,
+      "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
+      "message": "Update sorted set docs: skiplist replaced by B+ tree (#471)",
+      "date": "2026-08-20T01:51:17Z",
+      "repo": "valkey-doc",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-08-20T01:51:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/471"
+    },
+    {
+      "sha": "6bba71368a3a837b03254028008a21da1e281e36",
+      "author_login": "sz-armin",
+      "author_id": 77587091,
+      "avatar_url": "https://avatars.githubusercontent.com/u/77587091?v=4",
+      "message": "[Python] Add `AZ_AFFINITY_ALL_NODES` read policy (#6721)",
+      "date": "2026-08-19T16:21:32Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-17T19:34:07Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-08-17T21:15:58Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6721"
+    },
+    {
+      "sha": "e5d50c86938a832fd28858287ef8c20ea9db5d00",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "docs(csharp): add mTLS examples to TLS page (#313)",
+      "date": "2026-08-19T17:51:15Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-19T17:41:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/313"
+    },
+    {
+      "sha": "17e36daa56cfc89920a51260a59cc1e4f5666920",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "docs: add C# circuit breaker configuration examples (#310)",
+      "date": "2026-08-19T16:36:31Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-08-19T16:29:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/310"
+    },
+    {
+      "sha": "90f1405c787efd2b566535aabc2d7aea4b44511c",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "C#: CLIENT KILL, periodic checks, and inflight requests limit (#322)",
+      "date": "2026-08-19T15:07:08Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-08-19T15:06:16Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/322"
+    },
+    {
+      "sha": "f70a8125993ceb6c30840f2a0780c5d810545825",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "docs: add C# MONITOR command support (#294)",
+      "date": "2026-08-19T14:43:37Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-08-19T06:03:31Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/294"
+    },
+    {
+      "sha": "bcb1c106cdd83ea769844c56c985fd1216da9942",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "feat(php): Implement lolwut command (#314)",
+      "date": "2026-08-19T23:28:04Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-08-18T22:53:01Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-19T22:54:21Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/314"
+    },
+    {
+      "sha": "15925e41db6859e325fa233451bf7b50a428be23",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "feat(php): implement LASTSAVE command (#315)",
+      "date": "2026-08-19T22:37:55Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-08-19T18:33:29Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-19T22:06:14Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/315"
+    },
+    {
+      "sha": "e415fe1311503503891b3c91893c2ea731544794",
+      "author_login": "Aksha1812",
+      "author_id": 48383029,
+      "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
+      "message": "Fix numeric field precision loss in content materialization (#1264)",
+      "date": "2026-08-19T23:00:11Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-08-14T23:17:30Z"
+        },
+        {
+          "login": "BCathcart",
+          "date": "2026-08-19T20:28:59Z"
+        },
+        {
+          "login": "BCathcart",
+          "date": "2026-08-19T22:14:36Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1264"
+    },
+    {
+      "sha": "a5233dfd94175bce6efa11b5cddb65bf4550ad0f",
+      "author_login": "rileydes-improving",
+      "author_id": 216890177,
+      "avatar_url": "https://avatars.githubusercontent.com/u/216890177?v=4",
+      "message": "feat: add First Value reducer to FT.Aggregate groupby stage (#946)",
+      "date": "2026-08-19T22:09:29Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-06-26T15:47:26Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/946"
+    },
+    {
+      "sha": "368131ee09558675c5a3a523b0eefadcda6b6c3b",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Minimal CLAUDE.md (#1021)",
+      "date": "2026-08-19T21:16:04Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "BCathcart",
+          "date": "2026-08-19T21:15:44Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1021"
+    },
+    {
+      "sha": "1a2306b101360103f012005bfb381ac30224a81e",
+      "author_login": "bandalgomsu",
+      "author_id": 121839239,
+      "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
+      "message": "Fix indexing for zero-length keys (#1171)",
+      "date": "2026-08-19T18:50:18Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-06-25T05:07:05Z"
+        },
+        {
+          "login": "mohanrajendran",
+          "date": "2026-08-14T17:18:11Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1171"
     }
   ]
 }

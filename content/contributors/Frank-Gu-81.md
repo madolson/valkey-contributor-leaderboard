@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 7,
+  "score": 8,
   "commit_count": 6,
-  "review_count": 1,
+  "review_count": 2,
   "repos": [
     "valkey-search"
   ],
@@ -59,6 +59,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e415fe1311",
+      "message": "Fix numeric field precision loss in content materialization (#1264)",
+      "date": "2026-08-19",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1264",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e415fe1311503503891b3c91893c2ea731544794"
+    },
     {
       "sha": "6f297274cd",
       "message": "Fix crashes in expression evaluation. Add compatibility fixes. (#1086)",

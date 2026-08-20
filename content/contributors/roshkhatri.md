@@ -2,8 +2,8 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 409,
-  "commit_count": 147,
+  "score": 410,
+  "commit_count": 148,
   "review_count": 262,
   "repos": [
     "valkey",
@@ -19,6 +19,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "e02f4d048b",
+      "message": "Fix SBOM to be valid SPDX 2.3 and add validation test (#158)",
+      "date": "2026-08-19",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/158",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/e02f4d048b8b422624024ad28c4f7731bb2739b1"
+    },
     {
       "sha": "8cec1092b9",
       "message": "Validate stream listpack live and deleted record counts on load (#4381)",

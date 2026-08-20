@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1218,
+  "score": 1222,
   "commit_count": 153,
-  "review_count": 1065,
+  "review_count": 1069,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1246,6 +1246,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "13e6aa835b",
+      "message": "build: pass CPPFLAGS to bundled deps and src (#4318)",
+      "date": "2026-08-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4318",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/13e6aa835b53761e50530d0330704537c49d3c1a"
+    },
+    {
+      "sha": "11188c2391",
+      "message": "Persist non-zero cluster-replica-priority to nodes.conf as an aux field (#4454)",
+      "date": "2026-08-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4454",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/11188c239115b6f7943e81b25459c9c4781ba0e6"
+    },
+    {
+      "sha": "11188c2391",
+      "message": "Persist non-zero cluster-replica-priority to nodes.conf as an aux field (#4454)",
+      "date": "2026-08-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4454",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/11188c239115b6f7943e81b25459c9c4781ba0e6"
+    },
+    {
+      "sha": "e02f4d048b",
+      "message": "Fix SBOM to be valid SPDX 2.3 and add validation test (#158)",
+      "date": "2026-08-19",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/158",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/e02f4d048b8b422624024ad28c4f7731bb2739b1"
+    },
     {
       "sha": "5d4f9d6709",
       "message": "Incr the dirty counter when deleting expired keys/fields from active expire (#3118)",

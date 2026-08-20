@@ -2,17 +2,26 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 107,
-  "commit_count": 35,
+  "score": 108,
+  "commit_count": 36,
   "review_count": 72,
   "repos": [
     "valkey",
     "valkey-container",
+    "valkey-doc",
     "valkey-io.github.io",
     "valkey-perf-benchmark",
     "valkey-skills"
   ],
   "commit_list": [
+    {
+      "sha": "b3b2743bfb",
+      "message": "Update sorted set docs: skiplist replaced by B+ tree (#471)",
+      "date": "2026-08-20",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/471",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/b3b2743bfb80ec72438f90e97bdbfd3ee7fad003"
+    },
     {
       "sha": "9e04ee0ecc",
       "message": "Record environment metadata in benchmark metrics (#55)",

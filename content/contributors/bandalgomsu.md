@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 20,
-  "commit_count": 20,
+  "score": 21,
+  "commit_count": 21,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "1a2306b101",
+      "message": "Fix indexing for zero-length keys (#1171)",
+      "date": "2026-08-19",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1171",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1a2306b101360103f012005bfb381ac30224a81e"
+    },
     {
       "sha": "fa920966a6",
       "message": "Allow FT._debug to use when client is admin (#914)",

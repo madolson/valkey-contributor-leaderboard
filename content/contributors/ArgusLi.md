@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 102,
+  "score": 103,
   "commit_count": 66,
-  "review_count": 36,
+  "review_count": 37,
   "repos": [
     "valkey-admin"
   ],
@@ -539,6 +539,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dd9d61ac3b",
+      "message": "Add scan button for Big Keys, revamp Start Monitor button (#481)",
+      "date": "2026-08-19",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/481",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/dd9d61ac3b83f191b9400a68623ea28a76a2cd3d"
+    },
     {
       "sha": "64d0c18495",
       "message": "Auto-wrap Key Browser search with wildcards (#479)",

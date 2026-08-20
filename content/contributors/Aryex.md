@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 242,
-  "commit_count": 81,
-  "review_count": 161,
+  "score": 248,
+  "commit_count": 84,
+  "review_count": 164,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,30 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "e5d50c8693",
+      "message": "docs(csharp): add mTLS examples to TLS page (#313)",
+      "date": "2026-08-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/313",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/e5d50c86938a832fd28858287ef8c20ea9db5d00"
+    },
+    {
+      "sha": "17e36daa56",
+      "message": "docs: add C# circuit breaker configuration examples (#310)",
+      "date": "2026-08-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/310",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/17e36daa56cfc89920a51260a59cc1e4f5666920"
+    },
+    {
+      "sha": "f70a812599",
+      "message": "docs: add C# MONITOR command support (#294)",
+      "date": "2026-08-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/294",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/f70a8125993ceb6c30840f2a0780c5d810545825"
+    },
     {
       "sha": "b3fee52f33",
       "message": "Update GLIDE clients (#467)",
@@ -666,6 +690,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "90f1405c78",
+      "message": "C#: CLIENT KILL, periodic checks, and inflight requests limit (#322)",
+      "date": "2026-08-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/322",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/90f1405c787efd2b566535aabc2d7aea4b44511c"
+    },
+    {
+      "sha": "bcb1c106cd",
+      "message": "feat(php): Implement lolwut command (#314)",
+      "date": "2026-08-19",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/314",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/bcb1c106cdd83ea769844c56c985fd1216da9942"
+    },
+    {
+      "sha": "15925e41db",
+      "message": "feat(php): implement LASTSAVE command (#315)",
+      "date": "2026-08-19",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/315",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/15925e41db6859e325fa233451bf7b50a428be23"
+    },
     {
       "sha": "f8dfc51a1d",
       "message": "fix(deps): bump h2 to 0.4.16 to resolve RUSTSEC-2026-0258 (#6784)",

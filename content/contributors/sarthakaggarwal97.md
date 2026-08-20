@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 366,
+  "score": 367,
   "commit_count": 95,
-  "review_count": 271,
+  "review_count": 272,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -780,6 +780,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0fb02b7ebd",
+      "message": "Fix include order in custom_matchers.hpp to prevent min/max macro pollution (#4469)",
+      "date": "2026-08-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4469",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0fb02b7ebd9b6cf0f6e1924c8ee13f3b51403ba8"
+    },
     {
       "sha": "4669926ecf",
       "message": "Fix flaky EXEC command log tests (#4423)",

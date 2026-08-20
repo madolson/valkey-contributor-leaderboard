@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 287,
-  "commit_count": 70,
-  "review_count": 217,
+  "score": 290,
+  "commit_count": 71,
+  "review_count": 219,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "368131ee09",
+      "message": "Minimal CLAUDE.md (#1021)",
+      "date": "2026-08-19",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1021",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/368131ee09558675c5a3a523b0eefadcda6b6c3b"
+    },
     {
       "sha": "e028db6c06",
       "message": "Reimplement Numeric field for 3x space reduction (#1030)",
@@ -575,6 +583,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a5233dfd94",
+      "message": "feat: add First Value reducer to FT.Aggregate groupby stage (#946)",
+      "date": "2026-08-19",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/946",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a5233dfd94175bce6efa11b5cddb65bf4550ad0f"
+    },
+    {
+      "sha": "1a2306b101",
+      "message": "Fix indexing for zero-length keys (#1171)",
+      "date": "2026-08-19",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1171",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1a2306b101360103f012005bfb381ac30224a81e"
+    },
     {
       "sha": "a1f2159c67",
       "message": "feat: add TOLIST reducer for FT.AGGREGATE GROUPBY stage (#932)",
