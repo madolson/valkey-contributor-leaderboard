@@ -2,14 +2,22 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 94,
-  "commit_count": 58,
-  "review_count": 36,
+  "score": 96,
+  "commit_count": 59,
+  "review_count": 37,
   "repos": [
     "valkey-ci-agent",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "66d1c822f0",
+      "message": "Allow SORTBY on vector score in ascending order (#1267)",
+      "date": "2026-08-20",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1267",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/66d1c822f0e7c8ca0f1ce8409e2acdc2733d016b"
+    },
     {
       "sha": "e415fe1311",
       "message": "Fix numeric field precision loss in content materialization (#1264)",
@@ -476,6 +484,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cd4330d7f5",
+      "message": "Extend release-notes cut to valkey-search, valkey-json, valkey-bloom (#80)",
+      "date": "2026-08-20",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/80",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/cd4330d7f59391796c77d990dcaf6a7f8abfcadb"
+    },
     {
       "sha": "92efaa6004",
       "message": "Fix SIGSEGV in LatencySampler when hdr_init fails (#1230)",

@@ -40,7 +40,7 @@
       "name": "Viktor S\u00f6derqvist",
       "company": "Ericsson Software Technology",
       "commits": 153,
-      "reviews": 1069,
+      "reviews": 1070,
       "per_repo": {
         "libvalkey": {
           "2024-06": [
@@ -235,7 +235,7 @@
           ],
           "2026-08": [
             0,
-            29
+            30
           ]
         },
         "valkey-container": {
@@ -463,7 +463,7 @@
           ]
         }
       },
-      "score": 1222,
+      "score": 1223,
       "repos": [
         "libvalkey",
         "valkey",
@@ -596,7 +596,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
       "name": "Binbin",
       "company": "Tencent Cloud NoSQL",
-      "commits": 380,
+      "commits": 381,
       "reviews": 572,
       "per_repo": {
         "valkey": {
@@ -713,7 +713,7 @@
             19
           ],
           "2026-08": [
-            12,
+            13,
             7
           ]
         },
@@ -836,7 +836,7 @@
           ]
         }
       },
-      "score": 952,
+      "score": 953,
       "repos": [
         "valkey",
         "valkey-bloom",
@@ -1362,7 +1362,7 @@
       "name": "Yi-Pin Chen",
       "company": "Improving",
       "commits": 45,
-      "reviews": 732,
+      "reviews": 733,
       "per_repo": {
         "valkey-doc": {
           "2026-04": [
@@ -1481,7 +1481,7 @@
           ],
           "2026-08": [
             0,
-            4
+            5
           ]
         },
         "valkey-glide-csharp": {
@@ -1613,7 +1613,7 @@
           ]
         }
       },
-      "score": 777,
+      "score": 778,
       "repos": [
         "valkey-doc",
         "valkey-glide",
@@ -1686,8 +1686,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
       "name": "Thomas Zhou",
       "company": "Improving",
-      "commits": 123,
-      "reviews": 294,
+      "commits": 124,
+      "reviews": 299,
       "per_repo": {
         ".github": {
           "2026-07": [
@@ -1706,7 +1706,7 @@
           ],
           "2026-08": [
             0,
-            4
+            5
           ]
         },
         "valkey-glide": {
@@ -1755,8 +1755,8 @@
             16
           ],
           "2026-08": [
-            11,
-            5
+            12,
+            6
           ]
         },
         "valkey-glide-csharp": {
@@ -1806,7 +1806,7 @@
           ],
           "2026-08": [
             0,
-            5
+            8
           ]
         },
         "valkey-glide-docs": {
@@ -1880,7 +1880,7 @@
           ]
         }
       },
-      "score": 417,
+      "score": 423,
       "repos": [
         ".github",
         "spring-data-valkey",
@@ -1898,7 +1898,7 @@
       "name": "",
       "company": "",
       "commits": 141,
-      "reviews": 274,
+      "reviews": 275,
       "per_repo": {
         "valkey-glide": {
           "2024-08": [
@@ -1995,7 +1995,7 @@
           ],
           "2026-08": [
             0,
-            2
+            3
           ]
         },
         "valkey-glide-csharp": {
@@ -2123,7 +2123,7 @@
           ]
         }
       },
-      "score": 415,
+      "score": 416,
       "repos": [
         "valkey-glide",
         "valkey-glide-csharp",
@@ -2138,7 +2138,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
       "name": "Roshan Khatri",
       "company": "",
-      "commits": 148,
+      "commits": 149,
       "reviews": 262,
       "per_repo": {
         "valkey": {
@@ -2299,6 +2299,12 @@
           "2026-06": [
             1,
             3
+          ]
+        },
+        "valkey-ci-agent": {
+          "2026-08": [
+            1,
+            0
           ]
         },
         "valkey-container": {
@@ -2664,10 +2670,11 @@
           ]
         }
       },
-      "score": 410,
+      "score": 411,
       "repos": [
         "valkey",
         "valkey-bundle",
+        "valkey-ci-agent",
         "valkey-container",
         "valkey-doc",
         "valkey-hashes",
@@ -2685,8 +2692,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
       "name": "Sarthak Aggarwal",
       "company": "aws @valkey-io @opensearch-project",
-      "commits": 95,
-      "reviews": 272,
+      "commits": 96,
+      "reviews": 274,
       "per_repo": {
         "valkey": {
           "2024-12": [
@@ -2771,7 +2778,7 @@
           ],
           "2026-08": [
             3,
-            18
+            19
           ]
         },
         "valkey-bundle": {
@@ -2802,8 +2809,8 @@
             4
           ],
           "2026-08": [
-            0,
-            1
+            1,
+            2
           ]
         },
         "valkey-container": {
@@ -2949,7 +2956,7 @@
           ]
         }
       },
-      "score": 367,
+      "score": 370,
       "repos": [
         "valkey",
         "valkey-bundle",
@@ -3594,7 +3601,7 @@
       "name": "Allen Samuels",
       "company": "Amazon Web Services",
       "commits": 71,
-      "reviews": 219,
+      "reviews": 222,
       "per_repo": {
         "valkey": {
           "2025-08": [
@@ -3683,7 +3690,7 @@
           ],
           "2026-04": [
             0,
-            9
+            10
           ],
           "2026-05": [
             6,
@@ -3695,15 +3702,15 @@
           ],
           "2026-07": [
             4,
-            9
+            10
           ],
           "2026-08": [
             1,
-            0
+            1
           ]
         }
       },
-      "score": 290,
+      "score": 293,
       "repos": [
         "valkey",
         "valkey-doc",
@@ -3718,8 +3725,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
       "name": "Taylor Curran",
       "company": "Bit-Quill",
-      "commits": 165,
-      "reviews": 122,
+      "commits": 167,
+      "reviews": 126,
       "per_repo": {
         "valkey-doc": {
           "2026-04": [
@@ -3766,7 +3773,7 @@
           ],
           "2026-08": [
             1,
-            4
+            5
           ]
         },
         "valkey-glide-csharp": {
@@ -3811,8 +3818,8 @@
             1
           ],
           "2026-08": [
-            9,
-            0
+            11,
+            3
           ]
         },
         "valkey-glide-docs": {
@@ -3888,7 +3895,7 @@
           ]
         }
       },
-      "score": 287,
+      "score": 293,
       "repos": [
         "valkey-doc",
         "valkey-glide",
@@ -4484,7 +4491,7 @@
       "name": "",
       "company": "",
       "commits": 92,
-      "reviews": 167,
+      "reviews": 169,
       "per_repo": {
         "valkey-glide": {
           "2025-07": [
@@ -4609,11 +4616,11 @@
           ],
           "2026-07": [
             0,
-            4
+            5
           ],
           "2026-08": [
             0,
-            2
+            3
           ]
         },
         "valkey-glide-php": {
@@ -4665,7 +4672,7 @@
           ]
         }
       },
-      "score": 259,
+      "score": 261,
       "repos": [
         "valkey-glide",
         "valkey-glide-csharp",
@@ -4757,6 +4764,195 @@
       "score": 258,
       "repos": [
         "valkey-glide"
+      ]
+    },
+    {
+      "login": "jamesx-improving",
+      "id": 126831592,
+      "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
+      "name": "James Xin",
+      "company": "",
+      "commits": 80,
+      "reviews": 177,
+      "per_repo": {
+        "valkey-glide": {
+          "2024-06": [
+            1,
+            0
+          ],
+          "2024-07": [
+            3,
+            2
+          ],
+          "2024-09": [
+            5,
+            0
+          ],
+          "2024-10": [
+            4,
+            8
+          ],
+          "2024-11": [
+            2,
+            3
+          ],
+          "2024-12": [
+            4,
+            19
+          ],
+          "2025-01": [
+            2,
+            3
+          ],
+          "2025-02": [
+            7,
+            7
+          ],
+          "2025-03": [
+            5,
+            16
+          ],
+          "2025-04": [
+            4,
+            7
+          ],
+          "2025-05": [
+            0,
+            3
+          ],
+          "2025-06": [
+            0,
+            4
+          ],
+          "2025-07": [
+            6,
+            7
+          ],
+          "2025-08": [
+            5,
+            3
+          ],
+          "2025-09": [
+            2,
+            7
+          ],
+          "2025-10": [
+            2,
+            7
+          ],
+          "2025-11": [
+            3,
+            3
+          ],
+          "2025-12": [
+            2,
+            3
+          ],
+          "2026-01": [
+            3,
+            12
+          ],
+          "2026-02": [
+            1,
+            5
+          ],
+          "2026-03": [
+            0,
+            4
+          ],
+          "2026-04": [
+            2,
+            9
+          ],
+          "2026-05": [
+            0,
+            5
+          ],
+          "2026-06": [
+            5,
+            7
+          ],
+          "2026-07": [
+            8,
+            3
+          ],
+          "2026-08": [
+            0,
+            9
+          ]
+        },
+        "valkey-glide-csharp": {
+          "2025-08": [
+            0,
+            2
+          ],
+          "2025-11": [
+            0,
+            2
+          ],
+          "2025-12": [
+            0,
+            1
+          ],
+          "2026-04": [
+            1,
+            2
+          ],
+          "2026-05": [
+            1,
+            0
+          ],
+          "2026-07": [
+            1,
+            3
+          ],
+          "2026-08": [
+            0,
+            2
+          ]
+        },
+        "valkey-glide-docs": {
+          "2026-08": [
+            0,
+            2
+          ]
+        },
+        "valkey-glide-php": {
+          "2026-05": [
+            0,
+            1
+          ],
+          "2026-06": [
+            0,
+            1
+          ],
+          "2026-07": [
+            0,
+            1
+          ],
+          "2026-08": [
+            0,
+            1
+          ]
+        },
+        "valkey-glide-ruby": {
+          "2026-07": [
+            0,
+            1
+          ],
+          "2026-08": [
+            1,
+            2
+          ]
+        }
+      },
+      "score": 257,
+      "repos": [
+        "valkey-glide",
+        "valkey-glide-csharp",
+        "valkey-glide-docs",
+        "valkey-glide-php",
+        "valkey-glide-ruby"
       ]
     },
     {
@@ -5119,197 +5315,12 @@
       ]
     },
     {
-      "login": "jamesx-improving",
-      "id": 126831592,
-      "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-      "name": "James Xin",
-      "company": "",
-      "commits": 80,
-      "reviews": 174,
-      "per_repo": {
-        "valkey-glide": {
-          "2024-06": [
-            1,
-            0
-          ],
-          "2024-07": [
-            3,
-            2
-          ],
-          "2024-09": [
-            5,
-            0
-          ],
-          "2024-10": [
-            4,
-            8
-          ],
-          "2024-11": [
-            2,
-            3
-          ],
-          "2024-12": [
-            4,
-            19
-          ],
-          "2025-01": [
-            2,
-            3
-          ],
-          "2025-02": [
-            7,
-            7
-          ],
-          "2025-03": [
-            5,
-            16
-          ],
-          "2025-04": [
-            4,
-            7
-          ],
-          "2025-05": [
-            0,
-            3
-          ],
-          "2025-06": [
-            0,
-            4
-          ],
-          "2025-07": [
-            6,
-            7
-          ],
-          "2025-08": [
-            5,
-            3
-          ],
-          "2025-09": [
-            2,
-            7
-          ],
-          "2025-10": [
-            2,
-            7
-          ],
-          "2025-11": [
-            3,
-            3
-          ],
-          "2025-12": [
-            2,
-            3
-          ],
-          "2026-01": [
-            3,
-            12
-          ],
-          "2026-02": [
-            1,
-            5
-          ],
-          "2026-03": [
-            0,
-            4
-          ],
-          "2026-04": [
-            2,
-            9
-          ],
-          "2026-05": [
-            0,
-            5
-          ],
-          "2026-06": [
-            5,
-            7
-          ],
-          "2026-07": [
-            8,
-            3
-          ],
-          "2026-08": [
-            0,
-            8
-          ]
-        },
-        "valkey-glide-csharp": {
-          "2025-08": [
-            0,
-            2
-          ],
-          "2025-11": [
-            0,
-            2
-          ],
-          "2025-12": [
-            0,
-            1
-          ],
-          "2026-04": [
-            1,
-            2
-          ],
-          "2026-05": [
-            1,
-            0
-          ],
-          "2026-07": [
-            1,
-            3
-          ]
-        },
-        "valkey-glide-docs": {
-          "2026-08": [
-            0,
-            2
-          ]
-        },
-        "valkey-glide-php": {
-          "2026-05": [
-            0,
-            1
-          ],
-          "2026-06": [
-            0,
-            1
-          ],
-          "2026-07": [
-            0,
-            1
-          ],
-          "2026-08": [
-            0,
-            1
-          ]
-        },
-        "valkey-glide-ruby": {
-          "2026-07": [
-            0,
-            1
-          ],
-          "2026-08": [
-            1,
-            2
-          ]
-        }
-      },
-      "score": 254,
-      "repos": [
-        "valkey-glide",
-        "valkey-glide-csharp",
-        "valkey-glide-docs",
-        "valkey-glide-php",
-        "valkey-glide-ruby"
-      ]
-    },
-    {
       "login": "Aryex",
       "id": 35547559,
       "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
       "name": "Alex Le",
       "company": "",
-      "commits": 84,
+      "commits": 86,
       "reviews": 164,
       "per_repo": {
         "spring-data-valkey": {
@@ -5434,7 +5445,7 @@
             1
           ],
           "2026-08": [
-            14,
+            16,
             2
           ]
         },
@@ -5481,7 +5492,7 @@
           ]
         }
       },
-      "score": 248,
+      "score": 250,
       "repos": [
         "spring-data-valkey",
         "valkey-doc",
@@ -5964,7 +5975,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
       "name": "Jeremy Parr-Pearson",
       "company": "",
-      "commits": 58,
+      "commits": 59,
       "reviews": 150,
       "per_repo": {
         "spring-data-valkey": {
@@ -5997,7 +6008,7 @@
             0
           ],
           "2026-08": [
-            4,
+            5,
             0
           ]
         },
@@ -6114,7 +6125,7 @@
           ]
         }
       },
-      "score": 208,
+      "score": 209,
       "repos": [
         "spring-data-valkey",
         "valkey-glide",
@@ -8132,7 +8143,7 @@
       "name": "Yair Gottdenker",
       "company": "Google",
       "commits": 33,
-      "reviews": 81,
+      "reviews": 82,
       "per_repo": {
         "valkey": {
           "2025-04": [
@@ -8237,11 +8248,11 @@
           ],
           "2026-08": [
             0,
-            1
+            2
           ]
         }
       },
-      "score": 114,
+      "score": 115,
       "repos": [
         "valkey",
         "valkey-doc",
@@ -8825,8 +8836,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
       "name": "AkshaThakkar1812",
       "company": "",
-      "commits": 58,
-      "reviews": 36,
+      "commits": 59,
+      "reviews": 37,
       "per_repo": {
         "valkey-ci-agent": {
           "2026-05": [
@@ -8836,6 +8847,10 @@
           "2026-07": [
             1,
             0
+          ],
+          "2026-08": [
+            0,
+            1
           ]
         },
         "valkey-search": {
@@ -8888,12 +8903,12 @@
             2
           ],
           "2026-08": [
-            1,
+            2,
             1
           ]
         }
       },
-      "score": 94,
+      "score": 96,
       "repos": [
         "valkey-ci-agent",
         "valkey-search"
@@ -9236,7 +9251,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
       "name": "Miles Song",
       "company": "",
-      "commits": 41,
+      "commits": 42,
       "reviews": 27,
       "per_repo": {
         "valkey-search": {
@@ -9287,10 +9302,14 @@
           "2026-07": [
             1,
             0
+          ],
+          "2026-08": [
+            1,
+            0
           ]
         }
       },
-      "score": 68,
+      "score": 69,
       "repos": [
         "valkey-search"
       ]
@@ -9709,6 +9728,100 @@
       ]
     },
     {
+      "login": "VoletiRam",
+      "id": 90425341,
+      "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
+      "name": "",
+      "company": "",
+      "commits": 25,
+      "reviews": 31,
+      "per_repo": {
+        "valkey": {
+          "2024-04": [
+            1,
+            0
+          ],
+          "2025-02": [
+            1,
+            0
+          ],
+          "2026-04": [
+            1,
+            0
+          ]
+        },
+        "valkey-perf-benchmark": {
+          "2026-02": [
+            1,
+            0
+          ],
+          "2026-06": [
+            0,
+            1
+          ],
+          "2026-07": [
+            1,
+            13
+          ],
+          "2026-08": [
+            2,
+            2
+          ]
+        },
+        "valkey-search": {
+          "2025-07": [
+            1,
+            0
+          ],
+          "2025-08": [
+            3,
+            1
+          ],
+          "2025-09": [
+            0,
+            1
+          ],
+          "2025-11": [
+            2,
+            1
+          ],
+          "2026-01": [
+            1,
+            0
+          ],
+          "2026-02": [
+            4,
+            4
+          ],
+          "2026-03": [
+            4,
+            5
+          ],
+          "2026-05": [
+            0,
+            3
+          ],
+          "2026-08": [
+            2,
+            0
+          ]
+        },
+        "valkeymodule-rs": {
+          "2025-04": [
+            1,
+            0
+          ]
+        }
+      },
+      "score": 56,
+      "repos": [
+        "valkey",
+        "valkey-perf-benchmark",
+        "valkey-search",
+        "valkeymodule-rs"
+      ]
+    },
+    {
       "login": "JimB123",
       "id": 7267136,
       "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
@@ -9790,100 +9903,6 @@
       "repos": [
         "valkey",
         "valkey-doc"
-      ]
-    },
-    {
-      "login": "VoletiRam",
-      "id": 90425341,
-      "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-      "name": "",
-      "company": "",
-      "commits": 24,
-      "reviews": 31,
-      "per_repo": {
-        "valkey": {
-          "2024-04": [
-            1,
-            0
-          ],
-          "2025-02": [
-            1,
-            0
-          ],
-          "2026-04": [
-            1,
-            0
-          ]
-        },
-        "valkey-perf-benchmark": {
-          "2026-02": [
-            1,
-            0
-          ],
-          "2026-06": [
-            0,
-            1
-          ],
-          "2026-07": [
-            1,
-            13
-          ],
-          "2026-08": [
-            2,
-            2
-          ]
-        },
-        "valkey-search": {
-          "2025-07": [
-            1,
-            0
-          ],
-          "2025-08": [
-            3,
-            1
-          ],
-          "2025-09": [
-            0,
-            1
-          ],
-          "2025-11": [
-            2,
-            1
-          ],
-          "2026-01": [
-            1,
-            0
-          ],
-          "2026-02": [
-            4,
-            4
-          ],
-          "2026-03": [
-            4,
-            5
-          ],
-          "2026-05": [
-            0,
-            3
-          ],
-          "2026-08": [
-            1,
-            0
-          ]
-        },
-        "valkeymodule-rs": {
-          "2025-04": [
-            1,
-            0
-          ]
-        }
-      },
-      "score": 55,
-      "repos": [
-        "valkey",
-        "valkey-perf-benchmark",
-        "valkey-search",
-        "valkeymodule-rs"
       ]
     },
     {
@@ -13623,6 +13642,31 @@
       ]
     },
     {
+      "login": "quanyeyang",
+      "id": 155656201,
+      "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
+      "name": "Quanye Yang",
+      "company": "Xi'an Jiaotong University",
+      "commits": 11,
+      "reviews": 1,
+      "per_repo": {
+        "valkey": {
+          "2026-07": [
+            1,
+            0
+          ],
+          "2026-08": [
+            10,
+            1
+          ]
+        }
+      },
+      "score": 12,
+      "repos": [
+        "valkey"
+      ]
+    },
+    {
       "login": "karthyuom",
       "id": 7681639,
       "avatar_url": "https://avatars.githubusercontent.com/u/7681639?v=4",
@@ -13833,31 +13877,6 @@
         "valkey-glide-docs",
         "valkey-glide-php",
         "valkey-glide-ruby"
-      ]
-    },
-    {
-      "login": "quanyeyang",
-      "id": 155656201,
-      "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
-      "name": "Quanye Yang",
-      "company": "Xi'an Jiaotong University",
-      "commits": 10,
-      "reviews": 1,
-      "per_repo": {
-        "valkey": {
-          "2026-07": [
-            1,
-            0
-          ],
-          "2026-08": [
-            9,
-            1
-          ]
-        }
-      },
-      "score": 11,
-      "repos": [
-        "valkey"
       ]
     },
     {
@@ -16775,6 +16794,27 @@
       ]
     },
     {
+      "login": "mohanrajendran",
+      "id": 0,
+      "avatar_url": "https://github.com/mohanrajendran.png?size=64",
+      "name": "Mohan Rajendran",
+      "company": "Amazon",
+      "commits": 0,
+      "reviews": 4,
+      "per_repo": {
+        "valkey-search": {
+          "2026-08": [
+            0,
+            4
+          ]
+        }
+      },
+      "score": 4,
+      "repos": [
+        "valkey-search"
+      ]
+    },
+    {
       "login": "tlhunter",
       "id": 551402,
       "avatar_url": "https://avatars.githubusercontent.com/u/551402?v=4",
@@ -17535,27 +17575,6 @@
       "score": 3,
       "repos": [
         "valkey"
-      ]
-    },
-    {
-      "login": "mohanrajendran",
-      "id": 0,
-      "avatar_url": "https://github.com/mohanrajendran.png?size=64",
-      "name": "Mohan Rajendran",
-      "company": "Amazon",
-      "commits": 0,
-      "reviews": 3,
-      "per_repo": {
-        "valkey-search": {
-          "2026-08": [
-            0,
-            3
-          ]
-        }
-      },
-      "score": 3,
-      "repos": [
-        "valkey-search"
       ]
     },
     {
@@ -25340,6 +25359,69 @@
           "2026-08": [
             1,
             0
+          ]
+        }
+      },
+      "score": 1,
+      "repos": [
+        "valkey-search"
+      ]
+    },
+    {
+      "login": "superbaddude",
+      "id": 7436343,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7436343?v=4",
+      "name": "",
+      "company": "",
+      "commits": 1,
+      "reviews": 0,
+      "per_repo": {
+        "valkey-glide": {
+          "2026-08": [
+            1,
+            0
+          ]
+        }
+      },
+      "score": 1,
+      "repos": [
+        "valkey-glide"
+      ]
+    },
+    {
+      "login": "jamiegs",
+      "id": 64500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/64500?v=4",
+      "name": "Jamie Snell",
+      "company": "Hudl",
+      "commits": 1,
+      "reviews": 0,
+      "per_repo": {
+        "valkey-glide-csharp": {
+          "2026-08": [
+            1,
+            0
+          ]
+        }
+      },
+      "score": 1,
+      "repos": [
+        "valkey-glide-csharp"
+      ]
+    },
+    {
+      "login": "neerajr0",
+      "id": 0,
+      "avatar_url": "https://github.com/neerajr0.png?size=64",
+      "name": "Neeraj Ramachandran",
+      "company": "",
+      "commits": 0,
+      "reviews": 1,
+      "per_repo": {
+        "valkey-search": {
+          "2026-08": [
+            0,
+            1
           ]
         }
       },

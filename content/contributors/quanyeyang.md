@@ -2,13 +2,21 @@
   "title": "quanyeyang",
   "login": "quanyeyang",
   "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
-  "score": 11,
-  "commit_count": 10,
+  "score": 12,
+  "commit_count": 11,
   "review_count": 1,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "7536bee63b",
+      "message": "Fix flaky multi-part AOF manifest tests (#4491)",
+      "date": "2026-08-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4491",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7536bee63bb7e6cdd531b9832bbd2ede91878224"
+    },
     {
       "sha": "1e7a8f3105",
       "message": "Skip IO-thread read-done followup unless update_state sync-invokes handlers (#4401)",

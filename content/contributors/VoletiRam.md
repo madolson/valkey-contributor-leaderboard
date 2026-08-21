@@ -2,8 +2,8 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 55,
-  "commit_count": 24,
+  "score": 56,
+  "commit_count": 25,
   "review_count": 31,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "20efe9774e",
+      "message": "Add CODEOWNERS to auto-request team review on all PRs (#1294)",
+      "date": "2026-08-20",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1294",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/20efe9774e1079c1654399935637990a7220362f"
+    },
     {
       "sha": "90686ecdf0",
       "message": "fix: increase all socket/readiness timeouts to 30s (#82)",

@@ -2,13 +2,21 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 68,
-  "commit_count": 41,
+  "score": 69,
+  "commit_count": 42,
   "review_count": 27,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "cbad9d6891",
+      "message": "change ft.aggregate to generate the Reducer name the same as Redisearch (#971)",
+      "date": "2026-08-21",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/971",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/cbad9d689198623b3cc65151916672d339b1e5ec"
+    },
     {
       "sha": "578a75a376",
       "message": "fix hardcoded db_num in metadata_manager.cc (#1259)",

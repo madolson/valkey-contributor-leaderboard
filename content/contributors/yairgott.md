@@ -2,9 +2,9 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 114,
+  "score": 115,
   "commit_count": 33,
-  "review_count": 81,
+  "review_count": 82,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -279,6 +279,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "20efe9774e",
+      "message": "Add CODEOWNERS to auto-request team review on all PRs (#1294)",
+      "date": "2026-08-20",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1294",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/20efe9774e1079c1654399935637990a7220362f"
+    },
     {
       "sha": "92efaa6004",
       "message": "Fix SIGSEGV in LatencySampler when hdr_init fails (#1230)",

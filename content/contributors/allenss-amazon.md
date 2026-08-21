@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 290,
+  "score": 293,
   "commit_count": 71,
-  "review_count": 219,
+  "review_count": 222,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -583,6 +583,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cbad9d6891",
+      "message": "change ft.aggregate to generate the Reducer name the same as Redisearch (#971)",
+      "date": "2026-08-21",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/971",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/cbad9d689198623b3cc65151916672d339b1e5ec"
+    },
+    {
+      "sha": "cbad9d6891",
+      "message": "change ft.aggregate to generate the Reducer name the same as Redisearch (#971)",
+      "date": "2026-08-21",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/971",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/cbad9d689198623b3cc65151916672d339b1e5ec"
+    },
+    {
+      "sha": "66d1c822f0",
+      "message": "Allow SORTBY on vector score in ascending order (#1267)",
+      "date": "2026-08-20",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1267",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/66d1c822f0e7c8ca0f1ce8409e2acdc2733d016b"
+    },
     {
       "sha": "a5233dfd94",
       "message": "feat: add First Value reducer to FT.Aggregate groupby stage (#946)",

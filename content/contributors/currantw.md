@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 287,
-  "commit_count": 165,
-  "review_count": 122,
+  "score": 293,
+  "commit_count": 167,
+  "review_count": 126,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -15,6 +15,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "c2304cf716",
+      "message": "fix(deps): cargo update (#535)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/535",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/c2304cf7163f57cf69f6f14d0dba27e8c2751291"
+    },
+    {
+      "sha": "cb902a7436",
+      "message": "fix(deps): bump `h2` to `0.4.18` (#534)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/534",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/cb902a7436c52321e32bfffc855e0262062abd25"
+    },
     {
       "sha": "90f1405c78",
       "message": "C#: CLIENT KILL, periodic checks, and inflight requests limit (#322)",
@@ -1337,6 +1353,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "78f4a74f19",
+      "message": "fix(core): allow the large reconnect Err variant to satisfy clippy (#6813)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6813",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/78f4a74f19e984367f1942a713bbb5db369f91c0"
+    },
+    {
+      "sha": "2f33a7ebdf",
+      "message": "fix(perf): build GlideString hex-dump Str lazily, not on every construction (#522)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/522",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2f33a7ebdf090055b98553bde45438c28c8c0b87"
+    },
+    {
+      "sha": "2f33a7ebdf",
+      "message": "fix(perf): build GlideString hex-dump Str lazily, not on every construction (#522)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/522",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2f33a7ebdf090055b98553bde45438c28c8c0b87"
+    },
+    {
+      "sha": "2f33a7ebdf",
+      "message": "fix(perf): build GlideString hex-dump Str lazily, not on every construction (#522)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/522",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2f33a7ebdf090055b98553bde45438c28c8c0b87"
+    },
     {
       "sha": "25e487caee",
       "message": "docs: mark LATENCY commands as available for C# and PHP (#291)",

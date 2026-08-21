@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 952,
-  "commit_count": 380,
+  "score": 953,
+  "commit_count": 381,
   "review_count": 572,
   "repos": [
     "valkey",
@@ -21,6 +21,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4454",
       "commit_url": "https://github.com/valkey-io/valkey/commit/11188c239115b6f7943e81b25459c9c4781ba0e6"
+    },
+    {
+      "sha": "3f0d910c8d",
+      "message": "Minor cleanup to update cluster-node-timeout config name references (#4488)",
+      "date": "2026-08-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4488",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3f0d910c8ddac7e72ba8827c19d15a5386fd34e6"
     },
     {
       "sha": "12de25e8d0",

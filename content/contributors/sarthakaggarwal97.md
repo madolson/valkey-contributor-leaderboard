@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 367,
-  "commit_count": 95,
-  "review_count": 272,
+  "score": 370,
+  "commit_count": 96,
+  "review_count": 274,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -18,6 +18,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "cd4330d7f5",
+      "message": "Extend release-notes cut to valkey-search, valkey-json, valkey-bloom (#80)",
+      "date": "2026-08-20",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/80",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/cd4330d7f59391796c77d990dcaf6a7f8abfcadb"
+    },
     {
       "sha": "5d3fd68586",
       "message": "Add streaming compression support for RDB (#3531)",
@@ -780,6 +788,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3f0d910c8d",
+      "message": "Minor cleanup to update cluster-node-timeout config name references (#4488)",
+      "date": "2026-08-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4488",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3f0d910c8ddac7e72ba8827c19d15a5386fd34e6"
+    },
+    {
+      "sha": "425a1d1cda",
+      "message": "Add CVE scan workflow with automatic base-verified rebuild dispatch (#74)",
+      "date": "2026-08-20",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/74",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/425a1d1cda333a4950aad028e69b929405f39f70"
+    },
     {
       "sha": "0fb02b7ebd",
       "message": "Fix include order in custom_matchers.hpp to prevent min/max macro pollution (#4469)",

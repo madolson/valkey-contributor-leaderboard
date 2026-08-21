@@ -2,14 +2,22 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://github.com/mohanrajendran.png?size=64",
-  "score": 3,
+  "score": 4,
   "commit_count": 0,
-  "review_count": 3,
+  "review_count": 4,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [],
   "review_list": [
+    {
+      "sha": "66d1c822f0",
+      "message": "Allow SORTBY on vector score in ascending order (#1267)",
+      "date": "2026-08-20",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1267",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/66d1c822f0e7c8ca0f1ce8409e2acdc2733d016b"
+    },
     {
       "sha": "1a2306b101",
       "message": "Fix indexing for zero-length keys (#1171)",

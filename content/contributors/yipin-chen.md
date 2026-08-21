@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 777,
+  "score": 778,
   "commit_count": 45,
-  "review_count": 732,
+  "review_count": 733,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -376,6 +376,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bc1f631a01",
+      "message": "fix(go): use GoStringN for one-copy FFI string conversion (#6752)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6752",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bc1f631a010ad6c5bd5932f0f65903aed8e57628"
+    },
     {
       "sha": "81bc703c22",
       "message": "feat(config): add `AllNodes` `ReadFrom` strategy (#520)",

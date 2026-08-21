@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 415,
+  "score": 416,
   "commit_count": 141,
-  "review_count": 274,
+  "review_count": 275,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1143,6 +1143,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bc1f631a01",
+      "message": "fix(go): use GoStringN for one-copy FFI string conversion (#6752)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6752",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bc1f631a010ad6c5bd5932f0f65903aed8e57628"
+    },
     {
       "sha": "56ed457c21",
       "message": "ci(deps): bump Swatinem/rust-cache (#313)",

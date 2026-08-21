@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 417,
-  "commit_count": 123,
-  "review_count": 294,
+  "score": 423,
+  "commit_count": 124,
+  "review_count": 299,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "78f4a74f19",
+      "message": "fix(core): allow the large reconnect Err variant to satisfy clippy (#6813)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6813",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/78f4a74f19e984367f1942a713bbb5db369f91c0"
+    },
     {
       "sha": "df5d9076ba",
       "message": "fix(core): retry empty-receivers multi-node fan-out under topology churn (#6768)",
@@ -1001,6 +1009,94 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "af52e3dca7",
+      "message": "Bump valkey-glide to 2.4.2",
+      "date": "2026-08-20",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/104",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/af52e3dca7b974f5a422a76b1492fe56ee75dd86"
+    },
+    {
+      "sha": "bc1f631a01",
+      "message": "fix(go): use GoStringN for one-copy FFI string conversion (#6752)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6752",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bc1f631a010ad6c5bd5932f0f65903aed8e57628"
+    },
+    {
+      "sha": "231c192dc8",
+      "message": "build(deps-dev): bump @napi-rs/cli from 2.18.4 to 3.8.3 in /node (#6694)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6694",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/231c192dc89702a3c0c1dfbab52f66ff4f8efa3e"
+    },
+    {
+      "sha": "12f44a7feb",
+      "message": "build(deps): bump the minor-updates group across 1 directory with 5 updates (#6697)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6697",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/12f44a7feb0b928411176a474c5c17a58567bacb"
+    },
+    {
+      "sha": "037e992cf0",
+      "message": "build(deps-dev): bump the minor-updates group across 1 directory with 2 updates (#6742)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6742",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/037e992cf028506d0a87173f1b2484514205e6a0"
+    },
+    {
+      "sha": "e265dca4df",
+      "message": "Updated attribution files for commit 6bba71368a3a837b03254028008a21da1e281e36 (#6705)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6705",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e265dca4df4e74f560f4112ead109b787bef9175"
+    },
+    {
+      "sha": "68de636ba5",
+      "message": "build(deps): bump dashmap from 5.5.3 to 6.1.0 in /ffi (#6696)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6696",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/68de636ba5466fae887e4c7329648a6025305709"
+    },
+    {
+      "sha": "99f82ecd92",
+      "message": "build(deps): bump serial_test from 3.5.0 to 4.0.1 in /glide-core/redis-rs (#6637)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6637",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/99f82ecd92c637955621dbbdabb80efa12f34548"
+    },
+    {
+      "sha": "c2304cf716",
+      "message": "fix(deps): cargo update (#535)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/535",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/c2304cf7163f57cf69f6f14d0dba27e8c2751291"
+    },
+    {
+      "sha": "2f33a7ebdf",
+      "message": "fix(perf): build GlideString hex-dump Str lazily, not on every construction (#522)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/522",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2f33a7ebdf090055b98553bde45438c28c8c0b87"
+    },
+    {
+      "sha": "cb902a7436",
+      "message": "fix(deps): bump `h2` to `0.4.18` (#534)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/534",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/cb902a7436c52321e32bfffc855e0262062abd25"
+    },
     {
       "sha": "6bba71368a",
       "message": "[Python] Add `AZ_AFFINITY_ALL_NODES` read policy (#6721)",

@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 259,
+  "score": 261,
   "commit_count": 92,
-  "review_count": 167,
+  "review_count": 169,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -751,6 +751,70 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "231c192dc8",
+      "message": "build(deps-dev): bump @napi-rs/cli from 2.18.4 to 3.8.3 in /node (#6694)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6694",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/231c192dc89702a3c0c1dfbab52f66ff4f8efa3e"
+    },
+    {
+      "sha": "12f44a7feb",
+      "message": "build(deps): bump the minor-updates group across 1 directory with 5 updates (#6697)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6697",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/12f44a7feb0b928411176a474c5c17a58567bacb"
+    },
+    {
+      "sha": "037e992cf0",
+      "message": "build(deps-dev): bump the minor-updates group across 1 directory with 2 updates (#6742)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6742",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/037e992cf028506d0a87173f1b2484514205e6a0"
+    },
+    {
+      "sha": "e265dca4df",
+      "message": "Updated attribution files for commit 6bba71368a3a837b03254028008a21da1e281e36 (#6705)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6705",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e265dca4df4e74f560f4112ead109b787bef9175"
+    },
+    {
+      "sha": "68de636ba5",
+      "message": "build(deps): bump dashmap from 5.5.3 to 6.1.0 in /ffi (#6696)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6696",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/68de636ba5466fae887e4c7329648a6025305709"
+    },
+    {
+      "sha": "99f82ecd92",
+      "message": "build(deps): bump serial_test from 3.5.0 to 4.0.1 in /glide-core/redis-rs (#6637)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6637",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/99f82ecd92c637955621dbbdabb80efa12f34548"
+    },
+    {
+      "sha": "7b28606a24",
+      "message": "docs: update OTel tracing note for Python EVALSHA span support (#296)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/296",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/7b28606a248fe630ba67cd8d08d6ea4800979549"
+    },
+    {
+      "sha": "dd09b1eb6d",
+      "message": "docs: add MEMORY commands (DOCTOR, MALLOC-STATS, PURGE, STATS) (#284)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/284",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/dd09b1eb6d8117614ba1ddc6d24d688be383b733"
+    },
     {
       "sha": "f70a812599",
       "message": "docs: add C# MONITOR command support (#294)",

@@ -2,12 +2,13 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 410,
-  "commit_count": 148,
+  "score": 411,
+  "commit_count": 149,
   "review_count": 262,
   "repos": [
     "valkey",
     "valkey-bundle",
+    "valkey-ci-agent",
     "valkey-container",
     "valkey-doc",
     "valkey-hashes",
@@ -19,6 +20,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "425a1d1cda",
+      "message": "Add CVE scan workflow with automatic base-verified rebuild dispatch (#74)",
+      "date": "2026-08-20",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/74",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/425a1d1cda333a4950aad028e69b929405f39f70"
+    },
     {
       "sha": "e02f4d048b",
       "message": "Fix SBOM to be valid SPDX 2.3 and add validation test (#158)",

@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 248,
-  "commit_count": 84,
+  "score": 250,
+  "commit_count": 86,
   "review_count": 164,
   "repos": [
     "spring-data-valkey",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "7b28606a24",
+      "message": "docs: update OTel tracing note for Python EVALSHA span support (#296)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/296",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/7b28606a248fe630ba67cd8d08d6ea4800979549"
+    },
+    {
+      "sha": "dd09b1eb6d",
+      "message": "docs: add MEMORY commands (DOCTOR, MALLOC-STATS, PURGE, STATS) (#284)",
+      "date": "2026-08-20",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/284",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/dd09b1eb6d8117614ba1ddc6d24d688be383b733"
+    },
     {
       "sha": "e5d50c8693",
       "message": "docs(csharp): add mTLS examples to TLS page (#313)",

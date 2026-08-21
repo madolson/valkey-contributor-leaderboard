@@ -2,8 +2,8 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 208,
-  "commit_count": 58,
+  "score": 209,
+  "commit_count": 59,
   "review_count": 150,
   "repos": [
     "spring-data-valkey",
@@ -13,6 +13,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "af52e3dca7",
+      "message": "Bump valkey-glide to 2.4.2",
+      "date": "2026-08-20",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/104",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/af52e3dca7b974f5a422a76b1492fe56ee75dd86"
+    },
     {
       "sha": "2e52a6f716",
       "message": "Bump version to 2.0.0 (#103)",

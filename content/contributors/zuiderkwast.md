@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1222,
+  "score": 1223,
   "commit_count": 153,
-  "review_count": 1069,
+  "review_count": 1070,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1269,6 +1269,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4454",
       "commit_url": "https://github.com/valkey-io/valkey/commit/11188c239115b6f7943e81b25459c9c4781ba0e6"
+    },
+    {
+      "sha": "7536bee63b",
+      "message": "Fix flaky multi-part AOF manifest tests (#4491)",
+      "date": "2026-08-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4491",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7536bee63bb7e6cdd531b9832bbd2ede91878224"
     },
     {
       "sha": "e02f4d048b",
