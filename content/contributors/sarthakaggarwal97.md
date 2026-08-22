@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 370,
+  "score": 372,
   "commit_count": 96,
-  "review_count": 274,
+  "review_count": 276,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -788,6 +788,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "94f61e4491",
+      "message": "Fix writeable typo in an expire test name (#4499)",
+      "date": "2026-08-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4499",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/94f61e4491e6c4422cb85d1a78d0437213b36fc0"
+    },
+    {
+      "sha": "2670cf1c92",
+      "message": "Centralize the container image build action (#161)",
+      "date": "2026-08-21",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/161",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/2670cf1c92743e106a170b489e1005a1ff0a1ff8"
+    },
     {
       "sha": "3f0d910c8d",
       "message": "Minor cleanup to update cluster-node-timeout config name references (#4488)",

@@ -2,8 +2,8 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 901,
-  "commit_count": 203,
+  "score": 902,
+  "commit_count": 204,
   "review_count": 698,
   "repos": [
     ".github",
@@ -21,6 +21,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "dff139af69",
+      "message": "Add a style guide to the blog contributing doc (#624)",
+      "date": "2026-08-21",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/624",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/dff139af6922b7c22477e24f4e8fa272de004e4c"
+    },
     {
       "sha": "8cd535ddb3",
       "message": "Tests: EXEC is now entry 0 of the MULTI redaction commandlog test (#4404)",

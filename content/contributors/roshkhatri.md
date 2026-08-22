@@ -2,8 +2,8 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 411,
-  "commit_count": 149,
+  "score": 412,
+  "commit_count": 150,
   "review_count": 262,
   "repos": [
     "valkey",
@@ -20,6 +20,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "2670cf1c92",
+      "message": "Centralize the container image build action (#161)",
+      "date": "2026-08-21",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/161",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/2670cf1c92743e106a170b489e1005a1ff0a1ff8"
+    },
     {
       "sha": "425a1d1cda",
       "message": "Add CVE scan workflow with automatic base-verified rebuild dispatch (#74)",

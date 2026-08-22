@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 103,
+  "score": 104,
   "commit_count": 66,
-  "review_count": 37,
+  "review_count": 38,
   "repos": [
     "valkey-admin"
   ],
@@ -539,6 +539,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e5142c012c",
+      "message": "Preserve TTL on string value edits with SET KEEPTTL (#441) (#488)",
+      "date": "2026-08-21",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/488",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/e5142c012c29754ae1efb350cc3dcdd4c8936e5d"
+    },
     {
       "sha": "dd9d61ac3b",
       "message": "Add scan button for Big Keys, revamp Start Monitor button (#481)",

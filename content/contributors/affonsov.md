@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 261,
-  "commit_count": 92,
-  "review_count": 169,
+  "score": 265,
+  "commit_count": 93,
+  "review_count": 172,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "7d61630b07",
+      "message": "ci: fix semgrep blocking findings (#6661)",
+      "date": "2026-08-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6661",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7d61630b076946608e2c87567905df6b33eba0d8"
+    },
     {
       "sha": "c0e1ab60fb",
       "message": "feat(core): buffer pending requests during cluster reconnect with bounded recovery queue (#6640)",
@@ -751,6 +759,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "00f4f55170",
+      "message": "fix(deps): bump lru to 0.18.2 to resolve RUSTSEC-2026-0253 (#6821)",
+      "date": "2026-08-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6821",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/00f4f5517033536dfad82c00f438744f3edea3ec"
+    },
+    {
+      "sha": "d00e3899b0",
+      "message": "fix(deps): bump h2 to 0.4.16 in the remaining standalone workspaces (#6812)",
+      "date": "2026-08-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6812",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d00e3899b0e856c2a492277beeecf1852bb0e3ac"
+    },
+    {
+      "sha": "0a88c1607a",
+      "message": "build(deps): bump serial_test from 3.5.0 to 4.0.1 in /ffi (#6698)",
+      "date": "2026-08-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6698",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0a88c1607a150d960cde2fff0fa7780ebd3536ef"
+    },
+    {
+      "sha": "e5b9e493e3",
+      "message": "feat(php): Implement monitor command (#309)",
+      "date": "2026-08-21",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/309",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/e5b9e493e3347549751cb5fc7b858d01bb5e257c"
+    },
     {
       "sha": "231c192dc8",
       "message": "build(deps-dev): bump @napi-rs/cli from 2.18.4 to 3.8.3 in /node (#6694)",

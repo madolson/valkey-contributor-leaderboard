@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 250,
+  "score": 253,
   "commit_count": 86,
-  "review_count": 164,
+  "review_count": 167,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -706,6 +706,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "00f4f55170",
+      "message": "fix(deps): bump lru to 0.18.2 to resolve RUSTSEC-2026-0253 (#6821)",
+      "date": "2026-08-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6821",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/00f4f5517033536dfad82c00f438744f3edea3ec"
+    },
+    {
+      "sha": "d00e3899b0",
+      "message": "fix(deps): bump h2 to 0.4.16 in the remaining standalone workspaces (#6812)",
+      "date": "2026-08-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6812",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d00e3899b0e856c2a492277beeecf1852bb0e3ac"
+    },
+    {
+      "sha": "4a4f969598",
+      "message": "chore(lint): add Roslynator RCS1213 analyzer to detect unused members (#537)",
+      "date": "2026-08-21",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/537",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4a4f969598432c9ea18f6227e577d04918d3f8c2"
+    },
     {
       "sha": "90f1405c78",
       "message": "C#: CLIENT KILL, periodic checks, and inflight requests limit (#322)",

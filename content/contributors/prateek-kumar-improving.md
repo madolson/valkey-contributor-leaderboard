@@ -2,8 +2,8 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 416,
-  "commit_count": 141,
+  "score": 417,
+  "commit_count": 142,
   "review_count": 275,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "e5b9e493e3",
+      "message": "feat(php): Implement monitor command (#309)",
+      "date": "2026-08-21",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/309",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/e5b9e493e3347549751cb5fc7b858d01bb5e257c"
+    },
     {
       "sha": "bcb1c106cd",
       "message": "feat(php): Implement lolwut command (#314)",

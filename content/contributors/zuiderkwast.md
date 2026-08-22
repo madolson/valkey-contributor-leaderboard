@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1223,
+  "score": 1224,
   "commit_count": 153,
-  "review_count": 1070,
+  "review_count": 1071,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1246,6 +1246,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6bb9651eba",
+      "message": "Fix flaky replica-priority test by disabling replica validity factor (#4496)",
+      "date": "2026-08-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4496",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6bb9651ebaa6757c7d1d8b097475a61dc9c11344"
+    },
     {
       "sha": "13e6aa835b",
       "message": "build: pass CPPFLAGS to bundled deps and src (#4318)",

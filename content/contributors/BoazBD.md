@@ -2,9 +2,9 @@
   "title": "BoazBD",
   "login": "BoazBD",
   "avatar_url": "https://avatars.githubusercontent.com/u/50696333?v=4",
-  "score": 37,
+  "score": 38,
   "commit_count": 17,
-  "review_count": 20,
+  "review_count": 21,
   "repos": [
     "valkey-glide"
   ],
@@ -147,6 +147,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b1924898e6",
+      "message": "feat: Add clientInfoTag and libName to Java, Node, Go and Python clients (#6755)",
+      "date": "2026-08-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6755",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b1924898e6237398cff5b6933bc0a74307fd164e"
+    },
     {
       "sha": "c00b97a4a0",
       "message": "CI/CD: fix full matrix sweeper workflow (#4912)",

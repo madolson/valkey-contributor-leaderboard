@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 293,
-  "commit_count": 167,
-  "review_count": 126,
+  "score": 296,
+  "commit_count": 168,
+  "review_count": 128,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "4a4f969598",
+      "message": "chore(lint): add Roslynator RCS1213 analyzer to detect unused members (#537)",
+      "date": "2026-08-21",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/537",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4a4f969598432c9ea18f6227e577d04918d3f8c2"
+    },
     {
       "sha": "c2304cf716",
       "message": "fix(deps): cargo update (#535)",
@@ -1353,6 +1361,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e5b9e493e3",
+      "message": "feat(php): Implement monitor command (#309)",
+      "date": "2026-08-21",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/309",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/e5b9e493e3347549751cb5fc7b858d01bb5e257c"
+    },
+    {
+      "sha": "e5b9e493e3",
+      "message": "feat(php): Implement monitor command (#309)",
+      "date": "2026-08-21",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/309",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/e5b9e493e3347549751cb5fc7b858d01bb5e257c"
+    },
     {
       "sha": "78f4a74f19",
       "message": "fix(core): allow the large reconnect Err variant to satisfy clippy (#6813)",

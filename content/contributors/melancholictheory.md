@@ -2,13 +2,22 @@
   "title": "melancholictheory",
   "login": "melancholictheory",
   "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
-  "score": 6,
-  "commit_count": 6,
+  "score": 7,
+  "commit_count": 7,
   "review_count": 0,
   "repos": [
+    "valkey",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "94f61e4491",
+      "message": "Fix writeable typo in an expire test name (#4499)",
+      "date": "2026-08-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4499",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/94f61e4491e6c4422cb85d1a78d0437213b36fc0"
+    },
     {
       "sha": "c33988f583",
       "message": "feat: gate ACLApplied on an ACL revision user so permission edits are honest (#382)",

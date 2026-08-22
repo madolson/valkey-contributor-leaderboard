@@ -2,9 +2,9 @@
   "title": "pnbrown",
   "login": "pnbrown",
   "avatar_url": "https://avatars.githubusercontent.com/u/10396286?v=4",
-  "score": 11,
+  "score": 12,
   "commit_count": 8,
-  "review_count": 3,
+  "review_count": 4,
   "repos": [
     "valkey-io.github.io"
   ],
@@ -75,6 +75,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dff139af69",
+      "message": "Add a style guide to the blog contributing doc (#624)",
+      "date": "2026-08-21",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/624",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/dff139af6922b7c22477e24f4e8fa272de004e4c"
+    },
     {
       "sha": "c2395516e9",
       "message": "Add blog post: Harbor Chose Valkey (#601)",

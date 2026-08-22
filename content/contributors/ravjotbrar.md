@@ -2,14 +2,30 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 189,
-  "commit_count": 115,
-  "review_count": 74,
+  "score": 192,
+  "commit_count": 117,
+  "review_count": 75,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "e5142c012c",
+      "message": "Preserve TTL on string value edits with SET KEEPTTL (#441) (#488)",
+      "date": "2026-08-21",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/488",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/e5142c012c29754ae1efb350cc3dcdd4c8936e5d"
+    },
+    {
+      "sha": "754629b7b0",
+      "message": "Validate connection port (1-65535) with inline error (#489)",
+      "date": "2026-08-21",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/489",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/754629b7b031e87ba337fa33a5748ebba98be22d"
+    },
     {
       "sha": "dd9d61ac3b",
       "message": "Add scan button for Big Keys, revamp Start Monitor button (#481)",
@@ -932,6 +948,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8dfc8607b6",
+      "message": "fixed unknown route blank page issue with a NOT Found page  and the e\u2026 (#487)",
+      "date": "2026-08-21",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/487",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/8dfc8607b61ea2bc83d0d4d96b73f642a9e14708"
+    },
     {
       "sha": "1458c3569d",
       "message": "Use subpath in websocket URL (#471)",

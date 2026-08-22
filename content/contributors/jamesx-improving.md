@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 257,
+  "score": 259,
   "commit_count": 80,
-  "review_count": 177,
+  "review_count": 179,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -655,6 +655,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7d61630b07",
+      "message": "ci: fix semgrep blocking findings (#6661)",
+      "date": "2026-08-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6661",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7d61630b076946608e2c87567905df6b33eba0d8"
+    },
+    {
+      "sha": "b1924898e6",
+      "message": "feat: Add clientInfoTag and libName to Java, Node, Go and Python clients (#6755)",
+      "date": "2026-08-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6755",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b1924898e6237398cff5b6933bc0a74307fd164e"
+    },
     {
       "sha": "78f4a74f19",
       "message": "fix(core): allow the large reconnect Err variant to satisfy clippy (#6813)",

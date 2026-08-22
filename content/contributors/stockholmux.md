@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 135,
+  "score": 136,
   "commit_count": 17,
-  "review_count": 118,
+  "review_count": 119,
   "repos": [
     "valkey",
     "valkey-container",
@@ -151,6 +151,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dff139af69",
+      "message": "Add a style guide to the blog contributing doc (#624)",
+      "date": "2026-08-21",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/624",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/dff139af6922b7c22477e24f4e8fa272de004e4c"
+    },
     {
       "sha": "23b1623f7d",
       "message": "Update BetterDB participant description (#631)",

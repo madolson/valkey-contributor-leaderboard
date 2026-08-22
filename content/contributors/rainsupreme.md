@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 108,
+  "score": 109,
   "commit_count": 36,
-  "review_count": 72,
+  "review_count": 73,
   "repos": [
     "valkey",
     "valkey-container",
@@ -304,6 +304,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "94f61e4491",
+      "message": "Fix writeable typo in an expire test name (#4499)",
+      "date": "2026-08-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4499",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/94f61e4491e6c4422cb85d1a78d0437213b36fc0"
+    },
     {
       "sha": "8df9c328fa",
       "message": "Add blog post: Valkey 9.1 Memory Efficiency (#594)",

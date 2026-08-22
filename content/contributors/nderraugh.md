@@ -2,11 +2,12 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 11,
+  "score": 12,
   "commit_count": 1,
-  "review_count": 10,
+  "review_count": 11,
   "repos": [
     "valkey-glide",
+    "valkey-glide-csharp",
     "valkey-glide-docs",
     "valkey-glide-php",
     "valkey-glide-ruby"
@@ -22,6 +23,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4a4f969598",
+      "message": "chore(lint): add Roslynator RCS1213 analyzer to detect unused members (#537)",
+      "date": "2026-08-21",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/537",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4a4f969598432c9ea18f6227e577d04918d3f8c2"
+    },
     {
       "sha": "8e1d8b1c7c",
       "message": "feat(node): replace Proxy-based abandon detection with Rust-level pool tracking (#6747)",

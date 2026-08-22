@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 953,
-  "commit_count": 381,
+  "score": 954,
+  "commit_count": 382,
   "review_count": 572,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "6bb9651eba",
+      "message": "Fix flaky replica-priority test by disabling replica validity factor (#4496)",
+      "date": "2026-08-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4496",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6bb9651ebaa6757c7d1d8b097475a61dc9c11344"
+    },
     {
       "sha": "11188c2391",
       "message": "Persist non-zero cluster-replica-priority to nodes.conf as an aux field (#4454)",
