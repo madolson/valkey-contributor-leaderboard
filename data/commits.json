@@ -175493,6 +175493,17 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/624"
+    },
+    {
+      "sha": "edf0eaadd46ec8223b36f2c7c26f70e2bd620890",
+      "author_login": "rueian",
+      "author_id": 2727535,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
+      "message": "fix(valkeycompatmock): make Cache() mockable via the expectation queue (#1023)",
+      "date": "2026-08-24T03:56:20Z",
+      "repo": "valkey-go",
+      "reviewed": false,
+      "pr_url": ""
     }
   ]
 }
