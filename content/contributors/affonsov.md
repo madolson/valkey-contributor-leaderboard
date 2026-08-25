@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 265,
+  "score": 267,
   "commit_count": 93,
-  "review_count": 172,
+  "review_count": 174,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -759,6 +759,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "15b56cadc0",
+      "message": "refactor(stream): re-enable GLIDE-native interfaces for remaining stream commands (#530)",
+      "date": "2026-08-24",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/530",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/15b56cadc0e77c9f1a2ca4d4b35f6d0d313eabdf"
+    },
+    {
+      "sha": "15b56cadc0",
+      "message": "refactor(stream): re-enable GLIDE-native interfaces for remaining stream commands (#530)",
+      "date": "2026-08-24",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/530",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/15b56cadc0e77c9f1a2ca4d4b35f6d0d313eabdf"
+    },
     {
       "sha": "00f4f55170",
       "message": "fix(deps): bump lru to 0.18.2 to resolve RUSTSEC-2026-0253 (#6821)",

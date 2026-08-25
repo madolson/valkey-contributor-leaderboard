@@ -2,9 +2,9 @@
   "title": "quanyeyang",
   "login": "quanyeyang",
   "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
-  "score": 12,
+  "score": 13,
   "commit_count": 11,
-  "review_count": 1,
+  "review_count": 2,
   "repos": [
     "valkey"
   ],
@@ -99,6 +99,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "382a134959",
+      "message": "Rewrite ready-key UAF fix with rotation-based iteration (#4472)",
+      "date": "2026-08-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4472",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/382a134959b7a437df9b56133624f2cc1408768e"
+    },
     {
       "sha": "36aca4bfb8",
       "message": "Skip IO-thread write-done client re-lookup unless update_state sync-invokes handlers (#4440)",

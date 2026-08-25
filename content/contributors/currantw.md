@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 296,
-  "commit_count": 168,
+  "score": 297,
+  "commit_count": 169,
   "review_count": 128,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "15b56cadc0",
+      "message": "refactor(stream): re-enable GLIDE-native interfaces for remaining stream commands (#530)",
+      "date": "2026-08-24",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/530",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/15b56cadc0e77c9f1a2ca4d4b35f6d0d313eabdf"
+    },
     {
       "sha": "4a4f969598",
       "message": "chore(lint): add Roslynator RCS1213 analyzer to detect unused members (#537)",
@@ -1361,6 +1369,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "aeb3b45e19",
+      "message": "Bump xunit.v3 from 3.2.2 to 4.0.0 (#541)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/541",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/aeb3b45e1936e73265a96a001d44bdf78add1944"
+    },
+    {
+      "sha": "32d8333525",
+      "message": "Bump xunit.runner.visualstudio from 3.0.2 to 4.0.0 (#540)",
+      "date": "2026-08-24",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/540",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/32d83335252526562d026d222914128780f3b52a"
+    },
+    {
+      "sha": "717aa3aa19",
+      "message": "chore(deps): bump the patch-updates group with 2 updates (#542)",
+      "date": "2026-08-24",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/542",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/717aa3aa192fe85740ac56cd3a8dce3886ad1469"
+    },
+    {
+      "sha": "1afa0115b9",
+      "message": "chore(deps): bump taiki-e/install-action from 2.85.11 to 2.86.2 in the minor-updates group (#543)",
+      "date": "2026-08-24",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/543",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/1afa0115b974ef7b5f6fc1a23c85cd65ac651ccd"
+    },
+    {
+      "sha": "65cb35ee4a",
+      "message": "chore(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.1 (#544)",
+      "date": "2026-08-24",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/544",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/65cb35ee4a931c4c466f3e32df46ce2a2a6702e0"
+    },
+    {
+      "sha": "ad1954e688",
+      "message": "chore(deps): bump valkey-glide from `645396a` to `0a88c16` (#545)",
+      "date": "2026-08-24",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/545",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/ad1954e6881b4b4f605c9e3ad6408b9a266d9bda"
+    },
     {
       "sha": "e5b9e493e3",
       "message": "feat(php): Implement monitor command (#309)",

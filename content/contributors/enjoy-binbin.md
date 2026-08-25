@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 954,
-  "commit_count": 382,
-  "review_count": 572,
+  "score": 956,
+  "commit_count": 383,
+  "review_count": 573,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "382a134959",
+      "message": "Rewrite ready-key UAF fix with rotation-based iteration (#4472)",
+      "date": "2026-08-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4472",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/382a134959b7a437df9b56133624f2cc1408768e"
+    },
     {
       "sha": "6bb9651eba",
       "message": "Fix flaky replica-priority test by disabling replica validity factor (#4496)",
@@ -3072,6 +3080,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "52a98359dc",
+      "message": "Fix ORDERBY truncation in CLUSTER SLOT-STATS comparators (#4459)",
+      "date": "2026-08-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4459",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/52a98359dc503ece3df0a7eba8435abffc034901"
+    },
     {
       "sha": "cd62903549",
       "message": "Fix signal mask parsing on 32-bit systems (#4415)",

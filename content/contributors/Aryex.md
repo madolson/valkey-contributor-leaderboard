@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 253,
+  "score": 254,
   "commit_count": 86,
-  "review_count": 167,
+  "review_count": 168,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -706,6 +706,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "45a1378c66",
+      "message": "Fix rustup-init 'unknown proxy name: tmp' error in MUSL containers (#6863)",
+      "date": "2026-08-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6863",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/45a1378c66759561ffc7a18dd008adf54d7700fb"
+    },
     {
       "sha": "00f4f55170",
       "message": "fix(deps): bump lru to 0.18.2 to resolve RUSTSEC-2026-0253 (#6821)",

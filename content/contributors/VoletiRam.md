@@ -2,9 +2,9 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 56,
+  "score": 57,
   "commit_count": 25,
-  "review_count": 31,
+  "review_count": 32,
   "repos": [
     "valkey",
     "valkey-perf-benchmark",
@@ -214,6 +214,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2432e1e4f0",
+      "message": "Add PR-triggered search benchmark comparison workflow (#1268)",
+      "date": "2026-08-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1268",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2432e1e4f08cf8ddc60c707df37515be941c0bd3"
+    },
     {
       "sha": "7c36c88098",
       "message": "Fix profiling run to one (#79)",

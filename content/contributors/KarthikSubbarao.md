@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 264,
+  "score": 265,
   "commit_count": 100,
-  "review_count": 164,
+  "review_count": 165,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -819,6 +819,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2432e1e4f0",
+      "message": "Add PR-triggered search benchmark comparison workflow (#1268)",
+      "date": "2026-08-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1268",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2432e1e4f08cf8ddc60c707df37515be941c0bd3"
+    },
     {
       "sha": "8fc3bbdc02",
       "message": "Lower per-field info definition log from WARNING to DEBUG (#1281)",

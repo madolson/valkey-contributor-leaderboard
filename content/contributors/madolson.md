@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 902,
+  "score": 904,
   "commit_count": 204,
-  "review_count": 698,
+  "review_count": 700,
   "repos": [
     ".github",
     "valkey",
@@ -1655,6 +1655,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "382a134959",
+      "message": "Rewrite ready-key UAF fix with rotation-based iteration (#4472)",
+      "date": "2026-08-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4472",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/382a134959b7a437df9b56133624f2cc1408768e"
+    },
+    {
+      "sha": "52a98359dc",
+      "message": "Fix ORDERBY truncation in CLUSTER SLOT-STATS comparators (#4459)",
+      "date": "2026-08-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4459",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/52a98359dc503ece3df0a7eba8435abffc034901"
+    },
     {
       "sha": "b3b2743bfb",
       "message": "Update sorted set docs: skiplist replaced by B+ tree (#471)",

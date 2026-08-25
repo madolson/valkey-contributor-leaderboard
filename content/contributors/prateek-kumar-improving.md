@@ -1152,6 +1152,14 @@
   ],
   "review_list": [
     {
+      "sha": "13d0b10de0",
+      "message": "ci(deps): bump Swatinem/rust-cache (#319)",
+      "date": "2026-08-24",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/319",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/13d0b10de0bf7d8c71d2f72b9a767e0149f588dd"
+    },
+    {
       "sha": "bc1f631a01",
       "message": "fix(go): use GoStringN for one-copy FFI string conversion (#6752)",
       "date": "2026-08-20",

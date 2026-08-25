@@ -175504,6 +175504,273 @@
       "repo": "valkey-go",
       "reviewed": false,
       "pr_url": ""
+    },
+    {
+      "sha": "382a134959b7a437df9b56133624f2cc1408768e",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Rewrite ready-key UAF fix with rotation-based iteration (#4472)",
+      "date": "2026-08-25T02:09:49Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "quanyeyang",
+          "date": "2026-08-19T09:24:28Z"
+        },
+        {
+          "login": "madolson",
+          "date": "2026-08-25T00:16:51Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4472"
+    },
+    {
+      "sha": "52a98359dc503ece3df0a7eba8435abffc034901",
+      "author_login": "jzy1688",
+      "author_id": 4321901,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4321901?v=4",
+      "message": "Fix ORDERBY truncation in CLUSTER SLOT-STATS comparators (#4459)",
+      "date": "2026-08-24T22:54:43Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-08-18T17:40:37Z"
+        },
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-08-18T22:25:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4459"
+    },
+    {
+      "sha": "26f1654c870ecc4a697f7b5b26d7e11e2769b8ac",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Add automated release note review handling (#92)",
+      "date": "2026-08-25T01:21:47Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "45a1378c66759561ffc7a18dd008adf54d7700fb",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Fix rustup-init 'unknown proxy name: tmp' error in MUSL containers (#6863)",
+      "date": "2026-08-24T22:38:11Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-08-24T17:29:38Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-08-24T17:51:22Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6863"
+    },
+    {
+      "sha": "aeb3b45e1936e73265a96a001d44bdf78add1944",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump xunit.v3 from 3.2.2 to 4.0.0 (#541)",
+      "date": "2026-08-25T00:04:19Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-08-24T16:40:26Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-25T00:03:45Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/541"
+    },
+    {
+      "sha": "32d83335252526562d026d222914128780f3b52a",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump xunit.runner.visualstudio from 3.0.2 to 4.0.0 (#540)",
+      "date": "2026-08-24T17:34:47Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-08-24T16:40:52Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-24T16:44:52Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/540"
+    },
+    {
+      "sha": "717aa3aa192fe85740ac56cd3a8dce3886ad1469",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump the patch-updates group with 2 updates (#542)",
+      "date": "2026-08-24T17:31:00Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-08-24T16:39:42Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-24T16:45:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/542"
+    },
+    {
+      "sha": "1afa0115b974ef7b5f6fc1a23c85cd65ac651ccd",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump taiki-e/install-action from 2.85.11 to 2.86.2 in the minor-updates group (#543)",
+      "date": "2026-08-24T17:30:44Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-08-24T16:39:16Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-24T16:45:15Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/543"
+    },
+    {
+      "sha": "65cb35ee4a931c4c466f3e32df46ce2a2a6702e0",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.1 (#544)",
+      "date": "2026-08-24T17:03:02Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-08-24T16:39:04Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-24T16:45:21Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/544"
+    },
+    {
+      "sha": "ad1954e6881b4b4f605c9e3ad6408b9a266d9bda",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump valkey-glide from `645396a` to `0a88c16` (#545)",
+      "date": "2026-08-24T16:46:49Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-08-24T16:38:07Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-24T16:45:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/545"
+    },
+    {
+      "sha": "15b56cadc0e77c9f1a2ca4d4b35f6d0d313eabdf",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "refactor(stream): re-enable GLIDE-native interfaces for remaining stream commands (#530)",
+      "date": "2026-08-24T16:12:25Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-08-20T06:23:36Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-08-21T17:49:17Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-22T00:07:25Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/530"
+    },
+    {
+      "sha": "15fb2d85ebaca5c2c00172207c9336b1d93fefb4",
+      "author_login": "sz-armin",
+      "author_id": 77587091,
+      "avatar_url": "https://avatars.githubusercontent.com/u/77587091?v=4",
+      "message": "Add AZ Affinity All Nodes read strategy documentation (#323)",
+      "date": "2026-08-24T18:15:27Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-24T17:24:40Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/323"
+    },
+    {
+      "sha": "13d0b10de0bf7d8c71d2f72b9a767e0149f588dd",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "ci(deps): bump Swatinem/rust-cache (#319)",
+      "date": "2026-08-24T22:08:39Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-08-24T18:11:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/319"
+    },
+    {
+      "sha": "2432e1e4f08cf8ddc60c707df37515be941c0bd3",
+      "author_login": "Carol-ggg",
+      "author_id": 213777065,
+      "avatar_url": "https://avatars.githubusercontent.com/u/213777065?v=4",
+      "message": "Add PR-triggered search benchmark comparison workflow (#1268)",
+      "date": "2026-08-24T21:16:21Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "VoletiRam",
+          "date": "2026-07-30T00:00:09Z"
+        },
+        {
+          "login": "KarthikSubbarao",
+          "date": "2026-08-20T16:05:09Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1268"
     }
   ]
 }

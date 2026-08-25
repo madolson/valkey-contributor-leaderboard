@@ -2,13 +2,22 @@
   "title": "Carol-ggg",
   "login": "Carol-ggg",
   "avatar_url": "https://avatars.githubusercontent.com/u/213777065?v=4",
-  "score": 17,
-  "commit_count": 17,
+  "score": 18,
+  "commit_count": 18,
   "review_count": 0,
   "repos": [
-    "valkey-perf-benchmark"
+    "valkey-perf-benchmark",
+    "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "2432e1e4f0",
+      "message": "Add PR-triggered search benchmark comparison workflow (#1268)",
+      "date": "2026-08-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1268",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2432e1e4f08cf8ddc60c707df37515be941c0bd3"
+    },
     {
       "sha": "396e492e10",
       "message": "readme (#80)",

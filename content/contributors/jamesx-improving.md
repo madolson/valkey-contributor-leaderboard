@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 259,
+  "score": 260,
   "commit_count": 80,
-  "review_count": 179,
+  "review_count": 180,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -655,6 +655,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "45a1378c66",
+      "message": "Fix rustup-init 'unknown proxy name: tmp' error in MUSL containers (#6863)",
+      "date": "2026-08-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6863",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/45a1378c66759561ffc7a18dd008adf54d7700fb"
+    },
     {
       "sha": "7d61630b07",
       "message": "ci: fix semgrep blocking findings (#6661)",
