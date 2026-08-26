@@ -175771,6 +175771,24 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1268"
+    },
+    {
+      "sha": "09bd347803ee1a7b2713dd9ac414276ea01718c6",
+      "author_login": "JimB123",
+      "author_id": 7267136,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
+      "message": "Refactor internal AE polling API to not pass aeEventLoop to backends (#4492)",
+      "date": "2026-08-25T18:29:04Z",
+      "repo": "valkey"
+    },
+    {
+      "sha": "5b646f90e440f3e5b93858f45fc08b0c8a12b697",
+      "author_login": "nassery318",
+      "author_id": 86083902,
+      "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
+      "message": "first implementatoin of cluster node aggregation view (#486)",
+      "date": "2026-08-25T21:07:18Z",
+      "repo": "valkey-admin"
     }
   ]
 }
