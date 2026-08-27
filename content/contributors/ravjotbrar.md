@@ -2,14 +2,46 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 192,
-  "commit_count": 117,
-  "review_count": 75,
+  "score": 198,
+  "commit_count": 121,
+  "review_count": 77,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "27289fb5aa",
+      "message": "ci: replace labeler pull_request_target with safe pull_request + workflow_run split (#492)",
+      "date": "2026-08-26",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/492",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/27289fb5aa041cd2c34bf09c0d716283c71efca2"
+    },
+    {
+      "sha": "584fa4d731",
+      "message": "parse cluster INFO into null-prototype objects and bump nanoid to 3.3.18 (#493)",
+      "date": "2026-08-26",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/493",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/584fa4d7312d44284ecb63fe11223abf81bb9f9e"
+    },
+    {
+      "sha": "00c769aa88",
+      "message": "fix(server): default TLS certificate verification to on for env-configured deployments (#490)",
+      "date": "2026-08-26",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/490",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/00c769aa88c63c963960ddeb2686c0cbfe82560a"
+    },
+    {
+      "sha": "4bf5917d85",
+      "message": "chore(ci): pin all GitHub Actions to commit SHAs (#491)",
+      "date": "2026-08-26",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/491",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/4bf5917d852fe3592a57d810c3765285c8ec7652"
+    },
     {
       "sha": "e5142c012c",
       "message": "Preserve TTL on string value edits with SET KEEPTTL (#441) (#488)",
@@ -948,6 +980,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7031a96b5c",
+      "message": "metric server binds to 127.0.0.1 for all modes except K8 (#494)",
+      "date": "2026-08-26",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/494",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/7031a96b5c345287ed7e25cac5b3deab65baa175"
+    },
+    {
+      "sha": "5b646f90e4",
+      "message": "first implementatoin of cluster node aggregation view (#486)",
+      "date": "2026-08-25",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/486",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/5b646f90e440f3e5b93858f45fc08b0c8a12b697"
+    },
     {
       "sha": "8dfc8607b6",
       "message": "fixed unknown route blank page issue with a NOT Found page  and the e\u2026 (#487)",

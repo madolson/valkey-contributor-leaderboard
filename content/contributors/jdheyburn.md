@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 137,
+  "score": 141,
   "commit_count": 44,
-  "review_count": 93,
+  "review_count": 97,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -365,6 +365,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9b61a0175b",
+      "message": "test(e2e): cluster re-forms after a full simultaneous pod restart (#380)",
+      "date": "2026-08-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/380",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9b61a0175bb5004fabbb68f13a1c01ae7a8395a9"
+    },
+    {
+      "sha": "e299a9adf3",
+      "message": "fix: surface a failed ACL apply on the cluster status (#400)",
+      "date": "2026-08-26",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/400",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/e299a9adf350535e466827d7f609c910bf20572b"
+    },
+    {
+      "sha": "0ca75638ae",
+      "message": "chore: update default metrics exporter version v1.88.0 (#361)",
+      "date": "2026-08-26",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/361",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0ca75638ae7a7bf47ce6c7c92bd6259c45e95bfe"
+    },
+    {
+      "sha": "7a09b34ec7",
+      "message": "fix: default exporter.enabled to true so partial overrides keep the sidecar (#397)",
+      "date": "2026-08-26",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/397",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/7a09b34ec7f1ad8b41e8f26726644b87d3343a0a"
+    },
     {
       "sha": "c33988f583",
       "message": "feat: gate ACLApplied on an ACL revision user so permission edits are honest (#382)",

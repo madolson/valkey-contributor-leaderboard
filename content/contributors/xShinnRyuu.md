@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 429,
+  "score": 433,
   "commit_count": 127,
-  "review_count": 302,
+  "review_count": 306,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -1034,12 +1034,132 @@
   ],
   "review_list": [
     {
+      "sha": "4ba33c8d36",
+      "message": "Update submodule glide core (#325)",
+      "date": "2026-08-27",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/325",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/4ba33c8d36719637be828ca05d56435bfd0c43fc"
+    },
+    {
       "sha": "aeb3b45e19",
       "message": "Bump xunit.v3 from 3.2.2 to 4.0.0 (#541)",
       "date": "2026-08-25",
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/541",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/aeb3b45e1936e73265a96a001d44bdf78add1944"
+    },
+    {
+      "sha": "d3feeaaf08",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 2 updates (#6851)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6851",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d3feeaaf08e0cb4b8eff17ea7df1ddbc6e6d0c73"
+    },
+    {
+      "sha": "5bc7a281d4",
+      "message": "build(deps-dev): bump @eslint/js from 9.39.4 to 10.0.1 (#5329)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5329",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5bc7a281d4f7eaa39a78a8900754007d03540426"
+    },
+    {
+      "sha": "5bc7a281d4",
+      "message": "build(deps-dev): bump @eslint/js from 9.39.4 to 10.0.1 (#5329)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5329",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5bc7a281d4f7eaa39a78a8900754007d03540426"
+    },
+    {
+      "sha": "bfd77bec7d",
+      "message": "build(deps): bump actions/setup-java from 4.8.0 to 5.7.0 (#6852)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6852",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bfd77bec7d94a9cdcb8a7f2bdca4baa76056083e"
+    },
+    {
+      "sha": "bec02e98c3",
+      "message": "build(deps): bump actions/checkout from 5.0.1 to 7.0.1 (#6854)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6854",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bec02e98c36310dbf38b2a7d936f8d14d09443ca"
+    },
+    {
+      "sha": "6384ffdbe8",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 12 updates (#6847)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6847",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6384ffdbe8b3d84b5f7fad000e6df8435ee882c6"
+    },
+    {
+      "sha": "39bbceaa4b",
+      "message": "cherry-pick: fix(core) buffer pending requests for all recovery paths (#6770)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6770",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/39bbceaa4b1805103e310f92fb5feb99beb45a15"
+    },
+    {
+      "sha": "39bbceaa4b",
+      "message": "cherry-pick: fix(core) buffer pending requests for all recovery paths (#6770)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6770",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/39bbceaa4b1805103e310f92fb5feb99beb45a15"
+    },
+    {
+      "sha": "531defee18",
+      "message": "build(deps): bump actions/setup-node from 5.0.0 to 7.0.0 (#6853)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6853",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/531defee189cabd3f891c395ecf73f4fb4163def"
+    },
+    {
+      "sha": "5aaac35104",
+      "message": "build(deps): bump dashmap from 5.5.3 to 6.2.1 in /glide-core (#6848)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6848",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5aaac35104bf1a77f9ac24ca103c3f938e5f8165"
+    },
+    {
+      "sha": "65bb547c3b",
+      "message": "build(deps): bump serial_test from 3.5.0 to 4.0.1 in /glide-core (#6849)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6849",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/65bb547c3b143a2ed2d83fd8862bc94560a42645"
+    },
+    {
+      "sha": "b8c29f62d9",
+      "message": "build(deps-dev): bump prettier from 3.9.5 to 3.9.6 in the patch-updates group (#6832)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6832",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b8c29f62d9fa5318d78654bf084bd0c85ec51840"
+    },
+    {
+      "sha": "aa41f0a12f",
+      "message": "build(deps): bump uuid from 1.24.0 to 1.24.1 in /ffi in the patch-updates group (#6835)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6835",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/aa41f0a12fa703dd24657f57c40b2cec64a961b3"
+    },
+    {
+      "sha": "5b62f1a9df",
+      "message": "feat(php): implement CONFIG command with routing for cluster (#320)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/320",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/5b62f1a9df2559b1c3d51c0814f0a81ed9d4e421"
     },
     {
       "sha": "32d8333525",

@@ -2,8 +2,8 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 9,
-  "commit_count": 9,
+  "score": 10,
+  "commit_count": 10,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "8b091efacc",
+      "message": "Add blog post: Valkey 9.1 benchmark (#611)",
+      "date": "2026-08-25",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/611",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/8b091efaccbcff6b8e2e1e045a10b11193ae8271"
+    },
     {
       "sha": "8df9c328fa",
       "message": "Add blog post: Valkey 9.1 Memory Efficiency (#594)",

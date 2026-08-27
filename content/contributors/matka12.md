@@ -2,13 +2,21 @@
   "title": "matka12",
   "login": "matka12",
   "avatar_url": "https://avatars.githubusercontent.com/u/229773421?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "9b61a0175b",
+      "message": "test(e2e): cluster re-forms after a full simultaneous pod restart (#380)",
+      "date": "2026-08-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/380",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9b61a0175bb5004fabbb68f13a1c01ae7a8395a9"
+    },
     {
       "sha": "1520e02636",
       "message": "fix: re-introduce cluster members whose addresses changed after a full restart (#333)",

@@ -2,14 +2,22 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 55,
-  "commit_count": 19,
-  "review_count": 36,
+  "score": 57,
+  "commit_count": 20,
+  "review_count": 37,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "09bd347803",
+      "message": "Refactor internal AE polling API to not pass aeEventLoop to backends (#4492)",
+      "date": "2026-08-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4492",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/09bd347803ee1a7b2713dd9ac414276ea01718c6"
+    },
     {
       "sha": "327db78a70",
       "message": "reset scan cursor when table is deleted (#4322)",
@@ -164,6 +172,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4ac65b3d80",
+      "message": "Refactor: Extract evictSingleKey() from performEvictions() (#4522)",
+      "date": "2026-08-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4522",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4ac65b3d807a731ec1dc1fa061c7498781454c1b"
+    },
     {
       "sha": "8cd535ddb3",
       "message": "Tests: EXEC is now entry 0 of the MULTI redaction commandlog test (#4404)",

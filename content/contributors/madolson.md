@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 904,
-  "commit_count": 204,
-  "review_count": 700,
+  "score": 907,
+  "commit_count": 205,
+  "review_count": 702,
   "repos": [
     ".github",
     "valkey",
@@ -21,6 +21,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "7bf7daa530",
+      "message": "Deflake CLUSTER SYNCSLOTS ESTABLISH command interface test (#4409)",
+      "date": "2026-08-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4409",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7bf7daa53046cd3853574786c896da70c8b23296"
+    },
     {
       "sha": "dff139af69",
       "message": "Add a style guide to the blog contributing doc (#624)",
@@ -1656,12 +1664,28 @@
   ],
   "review_list": [
     {
+      "sha": "d8fc03ad8e",
+      "message": "Cleanup: Path and featured images fixes (#643)",
+      "date": "2026-08-26",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/643",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/d8fc03ad8efa45ae634bb4cdf5af0b2d6ea878dd"
+    },
+    {
       "sha": "382a134959",
       "message": "Rewrite ready-key UAF fix with rotation-based iteration (#4472)",
       "date": "2026-08-25",
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4472",
       "commit_url": "https://github.com/valkey-io/valkey/commit/382a134959b7a437df9b56133624f2cc1408768e"
+    },
+    {
+      "sha": "09bd347803",
+      "message": "Refactor internal AE polling API to not pass aeEventLoop to backends (#4492)",
+      "date": "2026-08-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4492",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/09bd347803ee1a7b2713dd9ac414276ea01718c6"
     },
     {
       "sha": "52a98359dc",

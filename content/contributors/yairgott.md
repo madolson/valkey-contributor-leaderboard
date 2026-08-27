@@ -2,8 +2,8 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 115,
-  "commit_count": 33,
+  "score": 117,
+  "commit_count": 35,
   "review_count": 82,
   "repos": [
     "valkey",
@@ -13,6 +13,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "5662dc10c7",
+      "message": "Changing HNSWLib to store raw vectors (#1232)",
+      "date": "2026-08-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1232",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5662dc10c7a33dad87e715c4760158ab0c5c63dc"
+    },
+    {
+      "sha": "0f3c267cd6",
+      "message": "Hnswlib templatized vectors (#1168)",
+      "date": "2026-08-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1168",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0f3c267cd65a5144cdb0f6174c7b163ffb346fde"
+    },
     {
       "sha": "12e5e384d2",
       "message": "Fix TLS infinite busy loop when write/read handlers are removed (#3510)",

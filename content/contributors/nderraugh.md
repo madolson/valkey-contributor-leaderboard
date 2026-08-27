@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 12,
+  "score": 13,
   "commit_count": 1,
-  "review_count": 11,
+  "review_count": 12,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -23,6 +23,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6d8cfa30be",
+      "message": "fix(core): `ClusterValue.HasSingleData` always true for value-type `T` (#548)",
+      "date": "2026-08-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/548",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/6d8cfa30bed2a292475d8155a6945728f2dfbf08"
+    },
     {
       "sha": "4a4f969598",
       "message": "chore(lint): add Roslynator RCS1213 analyzer to detect unused members (#537)",

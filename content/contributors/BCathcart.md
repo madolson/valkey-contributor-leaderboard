@@ -2,8 +2,8 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 96,
-  "commit_count": 38,
+  "score": 97,
+  "commit_count": 39,
   "review_count": 58,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "6c38847d29",
+      "message": "Skip test_load_rdb_with_duplicate_label under ASAN",
+      "date": "2026-08-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1322",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6c38847d29aaaf8e4b05edc3f4c3971b4ed8cb78"
+    },
     {
       "sha": "459878064f",
       "message": "Fix duplicate label handling (#1283)",

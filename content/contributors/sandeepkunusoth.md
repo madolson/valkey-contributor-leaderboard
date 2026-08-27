@@ -2,13 +2,21 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 56,
-  "commit_count": 23,
+  "score": 57,
+  "commit_count": 24,
   "review_count": 33,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "0ca75638ae",
+      "message": "chore: update default metrics exporter version v1.88.0 (#361)",
+      "date": "2026-08-26",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/361",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0ca75638ae7a7bf47ce6c7c92bd6259c45e95bfe"
+    },
     {
       "sha": "b7c947f888",
       "message": "fixed e2e test failing on main branch as config get is allowed by operator users (#351)",

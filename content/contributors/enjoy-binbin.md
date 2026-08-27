@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 956,
+  "score": 957,
   "commit_count": 383,
-  "review_count": 573,
+  "review_count": 574,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3080,6 +3080,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7bf7daa530",
+      "message": "Deflake CLUSTER SYNCSLOTS ESTABLISH command interface test (#4409)",
+      "date": "2026-08-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4409",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7bf7daa53046cd3853574786c896da70c8b23296"
+    },
     {
       "sha": "52a98359dc",
       "message": "Fix ORDERBY truncation in CLUSTER SLOT-STATS comparators (#4459)",

@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 243,
+  "score": 244,
   "commit_count": 122,
-  "review_count": 121,
+  "review_count": 122,
   "repos": [
     "libvalkey",
     "valkey",
@@ -991,6 +991,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "626ca51469",
+      "message": "fix: generate the commands.allow/deny pattern and widen it to what Valkey accepts (#398)",
+      "date": "2026-08-26",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/398",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/626ca5146914beea8013f4b8eee988cb0806e1d0"
+    },
     {
       "sha": "c33988f583",
       "message": "feat: gate ACLApplied on an ACL revision user so permission edits are honest (#382)",

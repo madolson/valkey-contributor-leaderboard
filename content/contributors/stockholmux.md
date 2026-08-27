@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 136,
-  "commit_count": 17,
-  "review_count": 119,
+  "score": 138,
+  "commit_count": 18,
+  "review_count": 120,
   "repos": [
     "valkey",
     "valkey-container",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "d8fc03ad8e",
+      "message": "Cleanup: Path and featured images fixes (#643)",
+      "date": "2026-08-26",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/643",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/d8fc03ad8efa45ae634bb4cdf5af0b2d6ea878dd"
+    },
     {
       "sha": "f029b82b09",
       "message": "adds ValkeyConf to banner (#617)",
@@ -151,6 +159,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8b091efacc",
+      "message": "Add blog post: Valkey 9.1 benchmark (#611)",
+      "date": "2026-08-25",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/611",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/8b091efaccbcff6b8e2e1e045a10b11193ae8271"
+    },
     {
       "sha": "dff139af69",
       "message": "Add a style guide to the blog contributing doc (#624)",

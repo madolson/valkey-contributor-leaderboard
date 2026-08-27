@@ -2,14 +2,22 @@
   "title": "melancholictheory",
   "login": "melancholictheory",
   "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
-  "score": 7,
-  "commit_count": 7,
+  "score": 8,
+  "commit_count": 8,
   "review_count": 0,
   "repos": [
     "valkey",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "e299a9adf3",
+      "message": "fix: surface a failed ACL apply on the cluster status (#400)",
+      "date": "2026-08-26",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/400",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/e299a9adf350535e466827d7f609c910bf20572b"
+    },
     {
       "sha": "94f61e4491",
       "message": "Fix writeable typo in an expire test name (#4499)",

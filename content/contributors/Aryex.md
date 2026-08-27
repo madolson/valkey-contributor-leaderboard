@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 254,
-  "commit_count": 86,
-  "review_count": 168,
+  "score": 257,
+  "commit_count": 87,
+  "review_count": 170,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "ba8f3d08f7",
+      "message": "fix(ci): pin Rust via dtolnay and lock zig/cargo-zigbuild versions",
+      "date": "2026-08-25",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/298",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ba8f3d08f7e2516dad38784ef93eee49f4c8211b"
+    },
     {
       "sha": "7b28606a24",
       "message": "docs: update OTel tracing note for Python EVALSHA span support (#296)",
@@ -706,6 +714,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1f47fc9804",
+      "message": "Reorganize specs into new directories (#287)",
+      "date": "2026-08-26",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/287",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/1f47fc980408b2de139f19cc9d8d51a17ba6b376"
+    },
+    {
+      "sha": "5b62f1a9df",
+      "message": "feat(php): implement CONFIG command with routing for cluster (#320)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/320",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/5b62f1a9df2559b1c3d51c0814f0a81ed9d4e421"
+    },
+    {
+      "sha": "6fa2dc8011",
+      "message": "chore(deps): Bump actions/download-artifact from 4.3.0 to 8.0.1",
+      "date": "2026-08-25",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/297",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6fa2dc80113f555fd7c1baa637be67f32dd73beb"
+    },
     {
       "sha": "45a1378c66",
       "message": "Fix rustup-init 'unknown proxy name: tmp' error in MUSL containers (#6863)",

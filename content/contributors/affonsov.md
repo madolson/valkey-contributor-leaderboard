@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 267,
-  "commit_count": 93,
+  "score": 268,
+  "commit_count": 94,
   "review_count": 174,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "39bbceaa4b",
+      "message": "cherry-pick: fix(core) buffer pending requests for all recovery paths (#6770)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6770",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/39bbceaa4b1805103e310f92fb5feb99beb45a15"
+    },
     {
       "sha": "7d61630b07",
       "message": "ci: fix semgrep blocking findings (#6661)",

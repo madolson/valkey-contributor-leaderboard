@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 260,
+  "score": 263,
   "commit_count": 80,
-  "review_count": 180,
+  "review_count": 183,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -655,6 +655,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4ba33c8d36",
+      "message": "Update submodule glide core (#325)",
+      "date": "2026-08-27",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/325",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/4ba33c8d36719637be828ca05d56435bfd0c43fc"
+    },
+    {
+      "sha": "1f47fc9804",
+      "message": "Reorganize specs into new directories (#287)",
+      "date": "2026-08-26",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/287",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/1f47fc980408b2de139f19cc9d8d51a17ba6b376"
+    },
+    {
+      "sha": "ba8f3d08f7",
+      "message": "fix(ci): pin Rust via dtolnay and lock zig/cargo-zigbuild versions",
+      "date": "2026-08-25",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/298",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ba8f3d08f7e2516dad38784ef93eee49f4c8211b"
+    },
     {
       "sha": "45a1378c66",
       "message": "Fix rustup-init 'unknown proxy name: tmp' error in MUSL containers (#6863)",

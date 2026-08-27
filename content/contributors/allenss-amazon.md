@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 293,
-  "commit_count": 71,
-  "review_count": 222,
+  "score": 297,
+  "commit_count": 72,
+  "review_count": 225,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "6a5644a239",
+      "message": "Fix FT.AGGREGATE alias re-use corrupting record state (#1251) (#1273)",
+      "date": "2026-08-27",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1273",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6a5644a239e28b224d3a408196a5be6fdf85d9e4"
+    },
     {
       "sha": "368131ee09",
       "message": "Minimal CLAUDE.md (#1021)",
@@ -583,6 +591,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5662dc10c7",
+      "message": "Changing HNSWLib to store raw vectors (#1232)",
+      "date": "2026-08-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1232",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5662dc10c7a33dad87e715c4760158ab0c5c63dc"
+    },
+    {
+      "sha": "0f3c267cd6",
+      "message": "Hnswlib templatized vectors (#1168)",
+      "date": "2026-08-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1168",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0f3c267cd65a5144cdb0f6174c7b163ffb346fde"
+    },
+    {
+      "sha": "6c38847d29",
+      "message": "Skip test_load_rdb_with_duplicate_label under ASAN",
+      "date": "2026-08-25",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1322",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6c38847d29aaaf8e4b05edc3f4c3971b4ed8cb78"
+    },
     {
       "sha": "cbad9d6891",
       "message": "change ft.aggregate to generate the Reducer name the same as Redisearch (#971)",

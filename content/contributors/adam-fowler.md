@@ -2,9 +2,9 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 172,
+  "score": 173,
   "commit_count": 135,
-  "review_count": 37,
+  "review_count": 38,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -1095,6 +1095,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3770e02a9f",
+      "message": "docs: add Pub/Sub section to README (#398)",
+      "date": "2026-08-25",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/398",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/3770e02a9f381dcae3fe169d04f3806568227131"
+    },
     {
       "sha": "59d04ff34b",
       "message": "Fix typo in channel handler state machine (#401)",

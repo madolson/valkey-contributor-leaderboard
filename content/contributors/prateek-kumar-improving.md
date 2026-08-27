@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 417,
-  "commit_count": 142,
-  "review_count": 275,
+  "score": 421,
+  "commit_count": 144,
+  "review_count": 277,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "4ba33c8d36",
+      "message": "Update submodule glide core (#325)",
+      "date": "2026-08-27",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/325",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/4ba33c8d36719637be828ca05d56435bfd0c43fc"
+    },
+    {
+      "sha": "5b62f1a9df",
+      "message": "feat(php): implement CONFIG command with routing for cluster (#320)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/320",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/5b62f1a9df2559b1c3d51c0814f0a81ed9d4e421"
+    },
     {
       "sha": "e5b9e493e3",
       "message": "feat(php): Implement monitor command (#309)",
@@ -1151,6 +1167,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6d8cfa30be",
+      "message": "fix(core): `ClusterValue.HasSingleData` always true for value-type `T` (#548)",
+      "date": "2026-08-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/548",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/6d8cfa30bed2a292475d8155a6945728f2dfbf08"
+    },
+    {
+      "sha": "08fb1bfb26",
+      "message": "chore(deps): Bump actions/setup-python from 5.6.0 to 7.0.0",
+      "date": "2026-08-25",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/296",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/08fb1bfb262b3d221bda4681cf594ec7055b7222"
+    },
+    {
+      "sha": "6fa2dc8011",
+      "message": "chore(deps): Bump actions/download-artifact from 4.3.0 to 8.0.1",
+      "date": "2026-08-25",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/297",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6fa2dc80113f555fd7c1baa637be67f32dd73beb"
+    },
+    {
+      "sha": "ba8f3d08f7",
+      "message": "fix(ci): pin Rust via dtolnay and lock zig/cargo-zigbuild versions",
+      "date": "2026-08-25",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/298",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ba8f3d08f7e2516dad38784ef93eee49f4c8211b"
+    },
     {
       "sha": "13d0b10de0",
       "message": "ci(deps): bump Swatinem/rust-cache (#319)",

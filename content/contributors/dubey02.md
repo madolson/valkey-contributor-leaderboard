@@ -1,14 +1,23 @@
 {
   "title": "dubey02",
   "login": "dubey02",
-  "avatar_url": "https://github.com/dubey02.png?size=64",
-  "score": 4,
-  "commit_count": 0,
+  "avatar_url": "https://avatars.githubusercontent.com/u/19818774?v=4",
+  "score": 5,
+  "commit_count": 1,
   "review_count": 4,
   "repos": [
     "valkey"
   ],
-  "commit_list": [],
+  "commit_list": [
+    {
+      "sha": "4ac65b3d80",
+      "message": "Refactor: Extract evictSingleKey() from performEvictions() (#4522)",
+      "date": "2026-08-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4522",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4ac65b3d807a731ec1dc1fa061c7498781454c1b"
+    }
+  ],
   "review_list": [
     {
       "sha": "db7da3d115",

@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 209,
+  "score": 210,
   "commit_count": 59,
-  "review_count": 150,
+  "review_count": 151,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -487,6 +487,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "39bbceaa4b",
+      "message": "cherry-pick: fix(core) buffer pending requests for all recovery paths (#6770)",
+      "date": "2026-08-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6770",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/39bbceaa4b1805103e310f92fb5feb99beb45a15"
+    },
+    {
+      "sha": "08fb1bfb26",
+      "message": "chore(deps): Bump actions/setup-python from 5.6.0 to 7.0.0",
+      "date": "2026-08-25",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/296",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/08fb1bfb262b3d221bda4681cf594ec7055b7222"
+    },
     {
       "sha": "17e36daa56",
       "message": "docs: add C# circuit breaker configuration examples (#310)",

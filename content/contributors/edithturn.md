@@ -2,13 +2,22 @@
   "title": "edithturn",
   "login": "edithturn",
   "avatar_url": "https://avatars.githubusercontent.com/u/58795858?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
-    "valkey-io.github.io"
+    "valkey-io.github.io",
+    "valkey-swift"
   ],
   "commit_list": [
+    {
+      "sha": "3770e02a9f",
+      "message": "docs: add Pub/Sub section to README (#398)",
+      "date": "2026-08-25",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/398",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/3770e02a9f381dcae3fe169d04f3806568227131"
+    },
     {
       "sha": "c2395516e9",
       "message": "Add blog post: Harbor Chose Valkey (#601)",

@@ -2,14 +2,22 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://github.com/mohanrajendran.png?size=64",
-  "score": 4,
+  "score": 5,
   "commit_count": 0,
-  "review_count": 4,
+  "review_count": 5,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [],
   "review_list": [
+    {
+      "sha": "6a5644a239",
+      "message": "Fix FT.AGGREGATE alias re-use corrupting record state (#1251) (#1273)",
+      "date": "2026-08-27",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1273",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6a5644a239e28b224d3a408196a5be6fdf85d9e4"
+    },
     {
       "sha": "66d1c822f0",
       "message": "Allow SORTBY on vector score in ascending order (#1267)",
