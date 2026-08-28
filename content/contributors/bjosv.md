@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 244,
+  "score": 245,
   "commit_count": 122,
-  "review_count": 122,
+  "review_count": 123,
   "repos": [
     "libvalkey",
     "valkey",
@@ -991,6 +991,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9f541b24fe",
+      "message": "fix: use workloadRevision for determining proactive failover (#402)",
+      "date": "2026-08-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/402",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9f541b24fe1d09e51547306ded562ea27f6714ba"
+    },
     {
       "sha": "626ca51469",
       "message": "fix: generate the commands.allow/deny pattern and widen it to what Valkey accepts (#398)",

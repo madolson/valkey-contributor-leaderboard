@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 433,
+  "score": 435,
   "commit_count": 127,
-  "review_count": 306,
+  "review_count": 308,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -1033,6 +1033,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5614711abe",
+      "message": "chore(rust): Cargo.lock dashmap cleanup (#6914)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6914",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5614711abee69bc7e77b1bed79bc68259f7784f1"
+    },
+    {
+      "sha": "0b86d579dc",
+      "message": "feat(config): add mTLS (mutual TLS) client certificate support (#321)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/321",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/0b86d579dc28eb02a9f968a62aeb5159ffe29c14"
+    },
     {
       "sha": "4ba33c8d36",
       "message": "Update submodule glide core (#325)",

@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 298,
-  "commit_count": 170,
-  "review_count": 128,
+  "score": 301,
+  "commit_count": 171,
+  "review_count": 130,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "607fbb0778",
+      "message": "docs: normalize XML doc structure (#546)",
+      "date": "2026-08-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/546",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/607fbb07788e734e801e0e2125d646e55aaa53e6"
+    },
     {
       "sha": "6d8cfa30be",
       "message": "fix(core): `ClusterValue.HasSingleData` always true for value-type `T` (#548)",
@@ -1377,6 +1385,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c8d976c410",
+      "message": "chore: repo cleanup (#292)",
+      "date": "2026-08-27",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/292",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/c8d976c4100730beaa01976455406b98406c670f"
+    },
+    {
+      "sha": "c8d976c410",
+      "message": "chore: repo cleanup (#292)",
+      "date": "2026-08-27",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/292",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/c8d976c4100730beaa01976455406b98406c670f"
+    },
     {
       "sha": "aeb3b45e19",
       "message": "Bump xunit.v3 from 3.2.2 to 4.0.0 (#541)",

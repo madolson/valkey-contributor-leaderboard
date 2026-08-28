@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 263,
+  "score": 264,
   "commit_count": 80,
-  "review_count": 183,
+  "review_count": 184,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -662,6 +662,14 @@
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/325",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/4ba33c8d36719637be828ca05d56435bfd0c43fc"
+    },
+    {
+      "sha": "c8d976c410",
+      "message": "chore: repo cleanup (#292)",
+      "date": "2026-08-27",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/292",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/c8d976c4100730beaa01976455406b98406c670f"
     },
     {
       "sha": "1f47fc9804",

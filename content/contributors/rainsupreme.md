@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 109,
+  "score": 110,
   "commit_count": 36,
-  "review_count": 73,
+  "review_count": 74,
   "repos": [
     "valkey",
     "valkey-container",
@@ -304,6 +304,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b8bc42c71d",
+      "message": "Unify basic and test_groups configs into a single execution path (#83)",
+      "date": "2026-08-27",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/83",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/b8bc42c71dc82c6a42c2c7a3d14b50f06dc2f9ca"
+    },
     {
       "sha": "94f61e4491",
       "message": "Fix writeable typo in an expire test name (#4499)",

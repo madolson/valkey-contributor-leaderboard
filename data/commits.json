@@ -176520,6 +176520,181 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-swift/pull/398"
+    },
+    {
+      "sha": "ddbfb2680fcc0ad49fdb94e8d258b1aff4de7094",
+      "author_login": "ArgusLi",
+      "author_id": 43020525,
+      "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
+      "message": "Cluster topology broadcast restriction (#499)",
+      "date": "2026-08-27T23:34:27Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ravjotbrar",
+          "date": "2026-08-27T23:32:57Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/499"
+    },
+    {
+      "sha": "4d15283c4fc4473c59bf23e1eecd2080764337e0",
+      "author_login": "ArgusLi",
+      "author_id": 43020525,
+      "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
+      "message": "Fix session authorization to account for clusterIds (#496)",
+      "date": "2026-08-27T21:37:22Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ravjotbrar",
+          "date": "2026-08-27T21:27:54Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/496"
+    },
+    {
+      "sha": "e95a580866ea9c7830ff3be3075fde332d5b8b0a",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "Add Valkey GLIDE Ruby client (#472)",
+      "date": "2026-08-27T21:05:18Z",
+      "repo": "valkey-doc",
+      "reviewed": [
+        {
+          "login": "stockholmux",
+          "date": "2026-08-27T21:05:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/472"
+    },
+    {
+      "sha": "5614711abee69bc7e77b1bed79bc68259f7784f1",
+      "author_login": "nderraugh",
+      "author_id": 970382,
+      "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
+      "message": "chore(rust): Cargo.lock dashmap cleanup (#6914)",
+      "date": "2026-08-28T00:04:57Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-08-27T18:33:53Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-27T20:18:15Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6914"
+    },
+    {
+      "sha": "607fbb07788e734e801e0e2125d646e55aaa53e6",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "docs: normalize XML doc structure (#546)",
+      "date": "2026-08-27T14:32:10Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-08-26T15:39:02Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-08-27T00:08:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/546"
+    },
+    {
+      "sha": "0b86d579dc28eb02a9f968a62aeb5159ffe29c14",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "feat(config): add mTLS (mutual TLS) client certificate support (#321)",
+      "date": "2026-08-28T06:47:11Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-26T19:50:23Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-08-27T16:41:56Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/321"
+    },
+    {
+      "sha": "c8d976c4100730beaa01976455406b98406c670f",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "chore: repo cleanup (#292)",
+      "date": "2026-08-27T16:22:28Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-08-21T21:52:01Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-08-22T02:29:46Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-08-27T14:54:03Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/292"
+    },
+    {
+      "sha": "f8cc5369541691dfa45c545db4fa7763d762e805",
+      "author_login": "roshkhatri",
+      "author_id": 117414976,
+      "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
+      "message": "ci: run the full server matrix on release branches (#119)",
+      "date": "2026-08-27T17:36:04Z",
+      "repo": "valkey-json",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "9f541b24fe1d09e51547306ded562ea27f6714ba",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "fix: use workloadRevision for determining proactive failover (#402)",
+      "date": "2026-08-27T13:18:04Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-08-27T13:15:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/402"
+    },
+    {
+      "sha": "b8bc42c71dc82c6a42c2c7a3d14b50f06dc2f9ca",
+      "author_login": "roshkhatri",
+      "author_id": 117414976,
+      "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
+      "message": "Unify basic and test_groups configs into a single execution path (#83)",
+      "date": "2026-08-27T21:50:46Z",
+      "repo": "valkey-perf-benchmark",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-08-25T22:02:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/83"
     }
   ]
 }

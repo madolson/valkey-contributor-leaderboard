@@ -2,8 +2,8 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 141,
-  "commit_count": 44,
+  "score": 142,
+  "commit_count": 45,
   "review_count": 97,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "9f541b24fe",
+      "message": "fix: use workloadRevision for determining proactive failover (#402)",
+      "date": "2026-08-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/402",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9f541b24fe1d09e51547306ded562ea27f6714ba"
+    },
     {
       "sha": "5b7bf47ffd",
       "message": "refactor!: TLS API restructure (#377)",

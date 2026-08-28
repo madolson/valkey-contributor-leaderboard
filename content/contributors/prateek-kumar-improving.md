@@ -2,8 +2,8 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 421,
-  "commit_count": 144,
+  "score": 422,
+  "commit_count": 145,
   "review_count": 277,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "0b86d579dc",
+      "message": "feat(config): add mTLS (mutual TLS) client certificate support (#321)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/321",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/0b86d579dc28eb02a9f968a62aeb5159ffe29c14"
+    },
     {
       "sha": "4ba33c8d36",
       "message": "Update submodule glide core (#325)",

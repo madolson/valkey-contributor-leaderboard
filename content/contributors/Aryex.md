@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 257,
-  "commit_count": 87,
-  "review_count": 170,
+  "score": 260,
+  "commit_count": 89,
+  "review_count": 171,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "e95a580866",
+      "message": "Add Valkey GLIDE Ruby client (#472)",
+      "date": "2026-08-27",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/472",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/e95a580866ea9c7830ff3be3075fde332d5b8b0a"
+    },
+    {
+      "sha": "c8d976c410",
+      "message": "chore: repo cleanup (#292)",
+      "date": "2026-08-27",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/292",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/c8d976c4100730beaa01976455406b98406c670f"
+    },
     {
       "sha": "ba8f3d08f7",
       "message": "fix(ci): pin Rust via dtolnay and lock zig/cargo-zigbuild versions",
@@ -714,6 +730,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "607fbb0778",
+      "message": "docs: normalize XML doc structure (#546)",
+      "date": "2026-08-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/546",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/607fbb07788e734e801e0e2125d646e55aaa53e6"
+    },
     {
       "sha": "1f47fc9804",
       "message": "Reorganize specs into new directories (#287)",

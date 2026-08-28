@@ -2,13 +2,29 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 107,
-  "commit_count": 66,
+  "score": 109,
+  "commit_count": 68,
   "review_count": 41,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "ddbfb2680f",
+      "message": "Cluster topology broadcast restriction (#499)",
+      "date": "2026-08-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/499",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/ddbfb2680fcc0ad49fdb94e8d258b1aff4de7094"
+    },
+    {
+      "sha": "4d15283c4f",
+      "message": "Fix session authorization to account for clusterIds (#496)",
+      "date": "2026-08-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/496",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/4d15283c4fc4473c59bf23e1eecd2080764337e0"
+    },
     {
       "sha": "b16009f51d",
       "message": "Update connections to allow numbered databases beyond 16 (#452)",

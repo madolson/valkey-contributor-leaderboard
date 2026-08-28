@@ -2,8 +2,8 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 412,
-  "commit_count": 150,
+  "score": 413,
+  "commit_count": 151,
   "review_count": 262,
   "repos": [
     "valkey",
@@ -20,6 +20,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "b8bc42c71d",
+      "message": "Unify basic and test_groups configs into a single execution path (#83)",
+      "date": "2026-08-27",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/83",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/b8bc42c71dc82c6a42c2c7a3d14b50f06dc2f9ca"
+    },
     {
       "sha": "2670cf1c92",
       "message": "Centralize the container image build action (#161)",

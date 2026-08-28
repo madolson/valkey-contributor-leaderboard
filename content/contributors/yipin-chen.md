@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 778,
+  "score": 781,
   "commit_count": 45,
-  "review_count": 733,
+  "review_count": 736,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -376,6 +376,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5614711abe",
+      "message": "chore(rust): Cargo.lock dashmap cleanup (#6914)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6914",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5614711abee69bc7e77b1bed79bc68259f7784f1"
+    },
+    {
+      "sha": "0b86d579dc",
+      "message": "feat(config): add mTLS (mutual TLS) client certificate support (#321)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/321",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/0b86d579dc28eb02a9f968a62aeb5159ffe29c14"
+    },
+    {
+      "sha": "607fbb0778",
+      "message": "docs: normalize XML doc structure (#546)",
+      "date": "2026-08-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/546",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/607fbb07788e734e801e0e2125d646e55aaa53e6"
+    },
     {
       "sha": "bc1f631a01",
       "message": "fix(go): use GoStringN for one-copy FFI string conversion (#6752)",

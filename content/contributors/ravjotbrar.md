@@ -2,9 +2,9 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 198,
+  "score": 200,
   "commit_count": 121,
-  "review_count": 77,
+  "review_count": 79,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
@@ -980,6 +980,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ddbfb2680f",
+      "message": "Cluster topology broadcast restriction (#499)",
+      "date": "2026-08-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/499",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/ddbfb2680fcc0ad49fdb94e8d258b1aff4de7094"
+    },
+    {
+      "sha": "4d15283c4f",
+      "message": "Fix session authorization to account for clusterIds (#496)",
+      "date": "2026-08-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/496",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/4d15283c4fc4473c59bf23e1eecd2080764337e0"
+    },
     {
       "sha": "7031a96b5c",
       "message": "metric server binds to 127.0.0.1 for all modes except K8 (#494)",

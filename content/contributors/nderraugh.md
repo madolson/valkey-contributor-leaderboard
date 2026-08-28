@@ -2,8 +2,8 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 13,
-  "commit_count": 1,
+  "score": 14,
+  "commit_count": 2,
   "review_count": 12,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "5614711abe",
+      "message": "chore(rust): Cargo.lock dashmap cleanup (#6914)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6914",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5614711abee69bc7e77b1bed79bc68259f7784f1"
+    },
     {
       "sha": "0f41df8fa0",
       "message": "fix(dep): add irb to Gemfile to enable bundle exec bin/console w/ ruby 4 (#166)",
