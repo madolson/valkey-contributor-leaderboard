@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 907,
+  "score": 908,
   "commit_count": 205,
-  "review_count": 702,
+  "review_count": 703,
   "repos": [
     ".github",
     "valkey",
@@ -1663,6 +1663,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2cab1f5217",
+      "message": "Add Valkey GLIDE PHP and Ruby clients to recommended clients list (#650)",
+      "date": "2026-08-29",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/650",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/2cab1f5217f6c1ca54ff077f65d4698f94c9f521"
+    },
     {
       "sha": "d8fc03ad8e",
       "message": "Cleanup: Path and featured images fixes (#643)",

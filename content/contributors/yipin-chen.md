@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 781,
+  "score": 786,
   "commit_count": 45,
-  "review_count": 736,
+  "review_count": 741,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -391,6 +391,46 @@
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/321",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/0b86d579dc28eb02a9f968a62aeb5159ffe29c14"
+    },
+    {
+      "sha": "a939ef1ac5",
+      "message": "fix(java): allow scopedConnection on pool-borrowed GlideClient (#6765)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6765",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a939ef1ac5d9fe5e8f40676163d87a57658b60f5"
+    },
+    {
+      "sha": "3c1734974c",
+      "message": "perf(go): drop get_response_type_string FFI call from response type checks (#6899)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6899",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3c1734974cc2cb11f174ec96922c1f6ae4d6a591"
+    },
+    {
+      "sha": "0e02ff9730",
+      "message": "fix(core): Validate client library names (#6891)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6891",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0e02ff9730172ec791d62aba4430b9326cc00220"
+    },
+    {
+      "sha": "77fd2d27d6",
+      "message": "feat(php): implement PUBSUB SHARDCHANNELS (#327)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/327",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/77fd2d27d6ad0519f16a5fd4940e61093b72dd23"
+    },
+    {
+      "sha": "9e57f83e1b",
+      "message": "feat(standalone): add NodeDiscoveryMode support for standalone clients (#322)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/322",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9e57f83e1bfe479fbab1d16279ea832d07a25441"
     },
     {
       "sha": "607fbb0778",

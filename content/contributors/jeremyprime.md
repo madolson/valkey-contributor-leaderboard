@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 210,
-  "commit_count": 59,
-  "review_count": 151,
+  "score": 214,
+  "commit_count": 60,
+  "review_count": 154,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "d4df273ba0",
+      "message": "fix(go): allow ScopedConnection on pool-borrowed Client (#6814)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6814",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d4df273ba0d8dcc7016e7a37968d3fdb4c9e9ebd"
+    },
     {
       "sha": "af52e3dca7",
       "message": "Bump valkey-glide to 2.4.2",
@@ -487,6 +495,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "49f2b6d210",
+      "message": "fix(go): prevent late FFI callbacks from using released channels (#6827)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6827",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/49f2b6d210e3f6a5a8a83677e1c2995e8f783490"
+    },
+    {
+      "sha": "a939ef1ac5",
+      "message": "fix(java): allow scopedConnection on pool-borrowed GlideClient (#6765)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6765",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a939ef1ac5d9fe5e8f40676163d87a57658b60f5"
+    },
+    {
+      "sha": "cb41cb3945",
+      "message": "chore(deps): update chacha20 to an unyanked version (#551)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/551",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/cb41cb3945ce39e5d769dbe350f28d8f2535f16e"
+    },
     {
       "sha": "39bbceaa4b",
       "message": "cherry-pick: fix(core) buffer pending requests for all recovery paths (#6770)",

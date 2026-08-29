@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 264,
+  "score": 267,
   "commit_count": 80,
-  "review_count": 184,
+  "review_count": 187,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -655,6 +655,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "77fd2d27d6",
+      "message": "feat(php): implement PUBSUB SHARDCHANNELS (#327)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/327",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/77fd2d27d6ad0519f16a5fd4940e61093b72dd23"
+    },
+    {
+      "sha": "9e57f83e1b",
+      "message": "feat(standalone): add NodeDiscoveryMode support for standalone clients (#322)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/322",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9e57f83e1bfe479fbab1d16279ea832d07a25441"
+    },
+    {
+      "sha": "1a0d24f60c",
+      "message": "Fixing xpending org reordering (#300)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/300",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/1a0d24f60cc336fe0f0e1307cfc2d8d84b5f8ab4"
+    },
     {
       "sha": "4ba33c8d36",
       "message": "Update submodule glide core (#325)",

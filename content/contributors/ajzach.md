@@ -2,13 +2,21 @@
   "title": "ajzach",
   "login": "ajzach",
   "avatar_url": "https://avatars.githubusercontent.com/u/2071648?v=4",
-  "score": 1,
-  "commit_count": 1,
+  "score": 2,
+  "commit_count": 2,
   "review_count": 0,
   "repos": [
     "valkey-glide"
   ],
   "commit_list": [
+    {
+      "sha": "49f2b6d210",
+      "message": "fix(go): prevent late FFI callbacks from using released channels (#6827)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6827",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/49f2b6d210e3f6a5a8a83677e1c2995e8f783490"
+    },
     {
       "sha": "f82a01e1d4",
       "message": "perf(java): replace stream+flatMap with pre-sized for-loop in ArrayTransformUtils (#5631)",

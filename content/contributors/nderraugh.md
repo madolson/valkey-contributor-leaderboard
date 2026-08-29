@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 14,
-  "commit_count": 2,
-  "review_count": 12,
+  "score": 17,
+  "commit_count": 3,
+  "review_count": 14,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -22,6 +22,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5614711abee69bc7e77b1bed79bc68259f7784f1"
     },
     {
+      "sha": "0e02ff9730",
+      "message": "fix(core): Validate client library names (#6891)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6891",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0e02ff9730172ec791d62aba4430b9326cc00220"
+    },
+    {
       "sha": "0f41df8fa0",
       "message": "fix(dep): add irb to Gemfile to enable bundle exec bin/console w/ ruby 4 (#166)",
       "date": "2026-07-17",
@@ -31,6 +39,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d4df273ba0",
+      "message": "fix(go): allow ScopedConnection on pool-borrowed Client (#6814)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6814",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d4df273ba0d8dcc7016e7a37968d3fdb4c9e9ebd"
+    },
+    {
+      "sha": "cb41cb3945",
+      "message": "chore(deps): update chacha20 to an unyanked version (#551)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/551",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/cb41cb3945ce39e5d769dbe350f28d8f2535f16e"
+    },
     {
       "sha": "6d8cfa30be",
       "message": "fix(core): `ClusterValue.HasSingleData` always true for value-type `T` (#548)",

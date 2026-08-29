@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 260,
-  "commit_count": 89,
-  "review_count": 171,
+  "score": 262,
+  "commit_count": 90,
+  "review_count": 172,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "2cab1f5217",
+      "message": "Add Valkey GLIDE PHP and Ruby clients to recommended clients list (#650)",
+      "date": "2026-08-29",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/650",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/2cab1f5217f6c1ca54ff077f65d4698f94c9f521"
+    },
     {
       "sha": "e95a580866",
       "message": "Add Valkey GLIDE Ruby client (#472)",
@@ -730,6 +738,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1a0d24f60c",
+      "message": "Fixing xpending org reordering (#300)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/300",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/1a0d24f60cc336fe0f0e1307cfc2d8d84b5f8ab4"
+    },
     {
       "sha": "607fbb0778",
       "message": "docs: normalize XML doc structure (#546)",

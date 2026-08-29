@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 57,
+  "score": 58,
   "commit_count": 24,
-  "review_count": 33,
+  "review_count": 34,
   "repos": [
     "valkey-operator"
   ],
@@ -203,6 +203,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9ceb75aaa9",
+      "message": "doc: Fix wrong tech call meeting time in README (#412)",
+      "date": "2026-08-28",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/412",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9ceb75aaa967497c6674a13897e4bb2ae3428db6"
+    },
     {
       "sha": "5b7bf47ffd",
       "message": "refactor!: TLS API restructure (#377)",

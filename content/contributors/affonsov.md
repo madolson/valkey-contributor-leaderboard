@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 268,
+  "score": 269,
   "commit_count": 94,
-  "review_count": 174,
+  "review_count": 175,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -767,6 +767,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "49f2b6d210",
+      "message": "fix(go): prevent late FFI callbacks from using released channels (#6827)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6827",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/49f2b6d210e3f6a5a8a83677e1c2995e8f783490"
+    },
     {
       "sha": "15b56cadc0",
       "message": "refactor(stream): re-enable GLIDE-native interfaces for remaining stream commands (#530)",

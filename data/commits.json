@@ -176695,6 +176695,321 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/83"
+    },
+    {
+      "sha": "cdb3cf9b1afac4f0a3f368996191d71d2b232bcf",
+      "author_login": "jfg956",
+      "author_id": 8471576,
+      "avatar_url": "https://avatars.githubusercontent.com/u/8471576?v=4",
+      "message": "Make Feed Policy more visible in README.",
+      "date": "2026-08-28T19:48:07Z",
+      "repo": "planet",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "14a041aeb4be9b2c47cb9edff92e3c8ee5c46cc1",
+      "author_login": "jfg956",
+      "author_id": 8471576,
+      "avatar_url": "https://avatars.githubusercontent.com/u/8471576?v=4",
+      "message": "Uncommenting com_lastweekinaws_filtered and adding linkedin.",
+      "date": "2026-08-28T19:24:41Z",
+      "repo": "planet",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "5bf1b8bb9abedb59baa0ad7cc822031b76f0cbc1",
+      "author_login": "jfg956",
+      "author_id": 8471576,
+      "avatar_url": "https://avatars.githubusercontent.com/u/8471576?v=4",
+      "message": "Add links to JFG and Aiven.",
+      "date": "2026-08-28T18:15:19Z",
+      "repo": "planet",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "11a74cf243f006d1a22cc832ea2251c24e0a855f",
+      "author_login": "foobar",
+      "author_id": 5953,
+      "avatar_url": "https://avatars.githubusercontent.com/u/5953?v=4",
+      "message": "Fix deadlock when a blocking command is followed by a partial pipelined command (#4531)",
+      "date": "2026-08-28T20:05:22Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-08-27T21:38:59Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4531"
+    },
+    {
+      "sha": "37538a2a889b75c8b299f7af4fa1a7d0b94c8c20",
+      "author_login": "ArgusLi",
+      "author_id": 43020525,
+      "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
+      "message": "Refactor config to harden update-config (#501)",
+      "date": "2026-08-28T21:06:02Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ravjotbrar",
+          "date": "2026-08-28T21:04:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/501"
+    },
+    {
+      "sha": "14ccfeb14c8d1408eaccc70fb592175e63a6c31c",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Scope Valkey client reuse to the owning session (#500)",
+      "date": "2026-08-28T21:01:12Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ArgusLi",
+          "date": "2026-08-28T18:21:27Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/500"
+    },
+    {
+      "sha": "49f2b6d210e3f6a5a8a83677e1c2995e8f783490",
+      "author_login": "ajzach",
+      "author_id": 2071648,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2071648?v=4",
+      "message": "fix(go): prevent late FFI callbacks from using released channels (#6827)",
+      "date": "2026-08-28T22:17:17Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-08-24T16:12:19Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-08-26T20:37:34Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6827"
+    },
+    {
+      "sha": "d4df273ba0d8dcc7016e7a37968d3fdb4c9e9ebd",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "fix(go): allow ScopedConnection on pool-borrowed Client (#6814)",
+      "date": "2026-08-28T19:46:43Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-21T22:49:32Z"
+        },
+        {
+          "login": "nderraugh",
+          "date": "2026-08-25T20:25:31Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6814"
+    },
+    {
+      "sha": "a939ef1ac5d9fe5e8f40676163d87a57658b60f5",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "fix(java): allow scopedConnection on pool-borrowed GlideClient (#6765)",
+      "date": "2026-08-28T19:46:21Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-08-20T21:45:49Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-08-28T18:43:09Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6765"
+    },
+    {
+      "sha": "3c1734974cc2cb11f174ec96922c1f6ae4d6a591",
+      "author_login": "DhruvilK7",
+      "author_id": 194411286,
+      "avatar_url": "https://avatars.githubusercontent.com/u/194411286?v=4",
+      "message": "perf(go): drop get_response_type_string FFI call from response type checks (#6899)",
+      "date": "2026-08-28T19:36:07Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-26T19:06:29Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-08-28T18:28:49Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6899"
+    },
+    {
+      "sha": "0e02ff9730172ec791d62aba4430b9326cc00220",
+      "author_login": "nderraugh",
+      "author_id": 970382,
+      "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
+      "message": "fix(core): Validate client library names (#6891)",
+      "date": "2026-08-28T17:10:30Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-26T19:01:29Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-08-28T16:29:57Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6891"
+    },
+    {
+      "sha": "cb41cb3945ce39e5d769dbe350f28d8f2535f16e",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "chore(deps): update chacha20 to an unyanked version (#551)",
+      "date": "2026-08-28T16:04:15Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "nderraugh",
+          "date": "2026-08-28T15:00:34Z"
+        },
+        {
+          "login": "jeremyprime",
+          "date": "2026-08-28T15:39:19Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/551"
+    },
+    {
+      "sha": "77fd2d27d6ad0519f16a5fd4940e61093b72dd23",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "feat(php): implement PUBSUB SHARDCHANNELS (#327)",
+      "date": "2026-08-28T21:40:52Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-08-28T20:10:51Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-08-28T21:35:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/327"
+    },
+    {
+      "sha": "9e57f83e1bfe479fbab1d16279ea832d07a25441",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "feat(standalone): add NodeDiscoveryMode support for standalone clients (#322)",
+      "date": "2026-08-28T16:47:22Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-08-25T22:05:20Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-08-28T16:35:13Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/322"
+    },
+    {
+      "sha": "1a0d24f60cc336fe0f0e1307cfc2d8d84b5f8ab4",
+      "author_login": "Sasidharan3094",
+      "author_id": 56465593,
+      "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
+      "message": "Fixing xpending org reordering (#300)",
+      "date": "2026-08-28T20:03:35Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-08-28T15:50:53Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-08-28T20:03:20Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/300"
+    },
+    {
+      "sha": "2cab1f5217f6c1ca54ff077f65d4698f94c9f521",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "Add Valkey GLIDE PHP and Ruby clients to recommended clients list (#650)",
+      "date": "2026-08-29T03:10:59Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-08-29T03:10:51Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/650"
+    },
+    {
+      "sha": "3f5e3a765a5ba79920b67a1616ffeb2ca43d43d2",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump github/codeql-action from 4.37.7 to 4.37.8",
+      "date": "2026-08-28T23:58:19Z",
+      "repo": "valkey-lua5.5",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f89d411fe704c7abcd3fd715756f26c2ac558167",
+      "author_login": "secwall",
+      "author_id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "message": "Add null guard on username",
+      "date": "2026-08-28T23:35:27Z",
+      "repo": "valkey-lua5.5",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "9ceb75aaa967497c6674a13897e4bb2ae3428db6",
+      "author_login": "skillpoint-dev",
+      "author_id": 25533353,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25533353?v=4",
+      "message": "doc: Fix wrong tech call meeting time in README (#412)",
+      "date": "2026-08-28T13:58:29Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "sandeepkunusoth",
+          "date": "2026-08-28T13:40:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/412"
     }
   ]
 }

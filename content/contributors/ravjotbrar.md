@@ -2,14 +2,22 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 200,
-  "commit_count": 121,
-  "review_count": 79,
+  "score": 202,
+  "commit_count": 122,
+  "review_count": 80,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "14ccfeb14c",
+      "message": "Scope Valkey client reuse to the owning session (#500)",
+      "date": "2026-08-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/500",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/14ccfeb14c8d1408eaccc70fb592175e63a6c31c"
+    },
     {
       "sha": "27289fb5aa",
       "message": "ci: replace labeler pull_request_target with safe pull_request + workflow_run split (#492)",
@@ -980,6 +988,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "37538a2a88",
+      "message": "Refactor config to harden update-config (#501)",
+      "date": "2026-08-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/501",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/37538a2a889b75c8b299f7af4fa1a7d0b94c8c20"
+    },
     {
       "sha": "ddbfb2680f",
       "message": "Cluster topology broadcast restriction (#499)",

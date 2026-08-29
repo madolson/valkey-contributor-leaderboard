@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 435,
-  "commit_count": 127,
-  "review_count": 308,
+  "score": 439,
+  "commit_count": 128,
+  "review_count": 311,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "a939ef1ac5",
+      "message": "fix(java): allow scopedConnection on pool-borrowed GlideClient (#6765)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6765",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a939ef1ac5d9fe5e8f40676163d87a57658b60f5"
+    },
     {
       "sha": "45a1378c66",
       "message": "Fix rustup-init 'unknown proxy name: tmp' error in MUSL containers (#6863)",
@@ -1048,6 +1056,30 @@
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/321",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/0b86d579dc28eb02a9f968a62aeb5159ffe29c14"
+    },
+    {
+      "sha": "d4df273ba0",
+      "message": "fix(go): allow ScopedConnection on pool-borrowed Client (#6814)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6814",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d4df273ba0d8dcc7016e7a37968d3fdb4c9e9ebd"
+    },
+    {
+      "sha": "3c1734974c",
+      "message": "perf(go): drop get_response_type_string FFI call from response type checks (#6899)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6899",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3c1734974cc2cb11f174ec96922c1f6ae4d6a591"
+    },
+    {
+      "sha": "0e02ff9730",
+      "message": "fix(core): Validate client library names (#6891)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6891",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0e02ff9730172ec791d62aba4430b9326cc00220"
     },
     {
       "sha": "4ba33c8d36",

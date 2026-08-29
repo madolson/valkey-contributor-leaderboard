@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 301,
-  "commit_count": 171,
+  "score": 302,
+  "commit_count": 172,
   "review_count": 130,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "cb41cb3945",
+      "message": "chore(deps): update chacha20 to an unyanked version (#551)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/551",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/cb41cb3945ce39e5d769dbe350f28d8f2535f16e"
+    },
     {
       "sha": "607fbb0778",
       "message": "docs: normalize XML doc structure (#546)",

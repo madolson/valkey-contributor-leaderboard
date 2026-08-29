@@ -2430,5 +2430,17 @@
   "zmariscal": {
     "name": "Zack Mariscal",
     "company": ""
+  },
+  "skillpoint-dev": {
+    "name": "Skillpoint",
+    "company": ""
+  },
+  "foobar": {
+    "name": "Tristan Su",
+    "company": "alibaba"
+  },
+  "DhruvilK7": {
+    "name": "Dhruvil",
+    "company": "Zomato"
   }
 }

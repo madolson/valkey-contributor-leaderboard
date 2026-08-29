@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1224,
+  "score": 1225,
   "commit_count": 153,
-  "review_count": 1071,
+  "review_count": 1072,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1246,6 +1246,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "11a74cf243",
+      "message": "Fix deadlock when a blocking command is followed by a partial pipelined command (#4531)",
+      "date": "2026-08-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4531",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/11a74cf243f006d1a22cc832ea2251c24e0a855f"
+    },
     {
       "sha": "6bb9651eba",
       "message": "Fix flaky replica-priority test by disabling replica validity factor (#4496)",

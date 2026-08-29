@@ -2,8 +2,8 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 422,
-  "commit_count": 145,
+  "score": 424,
+  "commit_count": 147,
   "review_count": 277,
   "repos": [
     "valkey-glide",
@@ -20,6 +20,22 @@
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/321",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/0b86d579dc28eb02a9f968a62aeb5159ffe29c14"
+    },
+    {
+      "sha": "77fd2d27d6",
+      "message": "feat(php): implement PUBSUB SHARDCHANNELS (#327)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/327",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/77fd2d27d6ad0519f16a5fd4940e61093b72dd23"
+    },
+    {
+      "sha": "9e57f83e1b",
+      "message": "feat(standalone): add NodeDiscoveryMode support for standalone clients (#322)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/322",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9e57f83e1bfe479fbab1d16279ea832d07a25441"
     },
     {
       "sha": "4ba33c8d36",

@@ -2,14 +2,22 @@
   "title": "Sasidharan3094",
   "login": "Sasidharan3094",
   "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
-  "score": 41,
-  "commit_count": 28,
+  "score": 42,
+  "commit_count": 29,
   "review_count": 13,
   "repos": [
     "valkey-glide",
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "1a0d24f60c",
+      "message": "Fixing xpending org reordering (#300)",
+      "date": "2026-08-28",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/300",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/1a0d24f60cc336fe0f0e1307cfc2d8d84b5f8ab4"
+    },
     {
       "sha": "f1199aef06",
       "message": "Add `Valkey::Future` placeholders for commands queued inside `pipelined`/`multi` (#192)",
