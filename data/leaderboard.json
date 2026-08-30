@@ -8509,7 +8509,7 @@
       "name": "Daniil Kashapov",
       "company": "",
       "commits": 24,
-      "reviews": 83,
+      "reviews": 84,
       "per_repo": {
         "valkey": {
           "2025-08": [
@@ -8597,10 +8597,14 @@
           "2026-07": [
             0,
             1
+          ],
+          "2026-08": [
+            0,
+            1
           ]
         }
       },
-      "score": 107,
+      "score": 108,
       "repos": [
         "valkey",
         "valkey-doc",
@@ -12021,6 +12025,70 @@
       ]
     },
     {
+      "login": "secwall",
+      "id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "name": "",
+      "company": "",
+      "commits": 21,
+      "reviews": 2,
+      "per_repo": {
+        "valkey": {
+          "2024-08": [
+            1,
+            0
+          ],
+          "2025-01": [
+            1,
+            0
+          ],
+          "2025-02": [
+            1,
+            0
+          ],
+          "2025-03": [
+            1,
+            0
+          ],
+          "2026-03": [
+            1,
+            0
+          ]
+        },
+        "valkey-luajit": {
+          "2026-03": [
+            5,
+            2
+          ],
+          "2026-04": [
+            5,
+            0
+          ],
+          "2026-05": [
+            1,
+            0
+          ],
+          "2026-06": [
+            3,
+            0
+          ],
+          "2026-07": [
+            1,
+            0
+          ],
+          "2026-08": [
+            1,
+            0
+          ]
+        }
+      },
+      "score": 23,
+      "repos": [
+        "valkey",
+        "valkey-luajit"
+      ]
+    },
+    {
       "login": "artikell",
       "id": 8474552,
       "avatar_url": "https://avatars.githubusercontent.com/u/8474552?v=4",
@@ -12202,66 +12270,6 @@
       "repos": [
         "valkey-json",
         "valkey-rfc"
-      ]
-    },
-    {
-      "login": "secwall",
-      "id": 1869308,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
-      "name": "",
-      "company": "",
-      "commits": 20,
-      "reviews": 2,
-      "per_repo": {
-        "valkey": {
-          "2024-08": [
-            1,
-            0
-          ],
-          "2025-01": [
-            1,
-            0
-          ],
-          "2025-02": [
-            1,
-            0
-          ],
-          "2025-03": [
-            1,
-            0
-          ],
-          "2026-03": [
-            1,
-            0
-          ]
-        },
-        "valkey-luajit": {
-          "2026-03": [
-            5,
-            2
-          ],
-          "2026-04": [
-            5,
-            0
-          ],
-          "2026-05": [
-            1,
-            0
-          ],
-          "2026-06": [
-            3,
-            0
-          ],
-          "2026-07": [
-            1,
-            0
-          ]
-        }
-      },
-      "score": 22,
-      "repos": [
-        "valkey",
-        "valkey-luajit"
       ]
     },
     {

@@ -177010,6 +177010,54 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/412"
+    },
+    {
+      "sha": "37a277eea51fd65ea26465fd77384b043fd102a9",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump github/codeql-action from 4.37.7 to 4.37.9",
+      "date": "2026-08-29T13:06:05Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "secwall",
+          "date": "2026-08-29T12:19:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/57"
+    },
+    {
+      "sha": "d62d6d81b3e8840f4c91e8a677a46c9414dd9c38",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump deps/luajit from `1edc3e5` to `1ee778a`",
+      "date": "2026-08-29T12:16:43Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "secwall",
+          "date": "2026-08-29T11:21:15Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/56"
+    },
+    {
+      "sha": "39d43ec54ff84c9c42b6ed0e8485ccf78dcfa894",
+      "author_login": "secwall",
+      "author_id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "message": "Add null guard on username (#58)",
+      "date": "2026-08-29T06:30:14Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-08-29T06:30:06Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/58"
     }
   ]
 }

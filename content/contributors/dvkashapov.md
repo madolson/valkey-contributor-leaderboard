@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 107,
+  "score": 108,
   "commit_count": 24,
-  "review_count": 83,
+  "review_count": 84,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -206,6 +206,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "39d43ec54f",
+      "message": "Add null guard on username (#58)",
+      "date": "2026-08-29",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/58",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/39d43ec54ff84c9c42b6ed0e8485ccf78dcfa894"
+    },
     {
       "sha": "5d4f9d6709",
       "message": "Incr the dirty counter when deleting expired keys/fields from active expire (#3118)",

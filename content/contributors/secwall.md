@@ -2,14 +2,22 @@
   "title": "secwall",
   "login": "secwall",
   "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
-  "score": 22,
-  "commit_count": 20,
+  "score": 23,
+  "commit_count": 21,
   "review_count": 2,
   "repos": [
     "valkey",
     "valkey-luajit"
   ],
   "commit_list": [
+    {
+      "sha": "39d43ec54f",
+      "message": "Add null guard on username (#58)",
+      "date": "2026-08-29",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/58",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/39d43ec54ff84c9c42b6ed0e8485ccf78dcfa894"
+    },
     {
       "sha": "ea73ab3595",
       "message": "Drop Fedora 42 (EOL) (#41)",
@@ -172,6 +180,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "37a277eea5",
+      "message": "Bump github/codeql-action from 4.37.7 to 4.37.9",
+      "date": "2026-08-29",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/57",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/37a277eea51fd65ea26465fd77384b043fd102a9"
+    },
+    {
+      "sha": "d62d6d81b3",
+      "message": "Bump deps/luajit from `1edc3e5` to `1ee778a`",
+      "date": "2026-08-29",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/56",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/d62d6d81b3e8840f4c91e8a677a46c9414dd9c38"
+    },
     {
       "sha": "0268fc34b5",
       "message": "Bump github/codeql-action from 4.37.6 to 4.37.7",
