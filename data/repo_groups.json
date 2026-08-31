@@ -1,0 +1,56 @@
+[
+  {
+    "label": "Core",
+    "repos": [
+      "valkey",
+      "valkey-bundle",
+      "valkey-container",
+      "valkey-hashes",
+      "valkey-lua5.5",
+      "valkey-luajit"
+    ]
+  },
+  {
+    "label": "Modules",
+    "repos": [
+      "valkey-bloom",
+      "valkey-json",
+      "valkey-ldap",
+      "valkey-search",
+      "valkeymodule-rs"
+    ]
+  },
+  {
+    "label": "Clients",
+    "repos": [
+      "iovalkey",
+      "iovalkey-commands",
+      "iovalkey-interface-generator",
+      "libvalkey",
+      "libvalkey-py",
+      "spring-data-valkey",
+      "valkey-glide",
+      "valkey-glide-cpp",
+      "valkey-glide-csharp",
+      "valkey-glide-php",
+      "valkey-glide-ruby",
+      "valkey-go",
+      "valkey-java",
+      "valkey-namespace",
+      "valkey-py",
+      "valkey-swift"
+    ]
+  },
+  {
+    "label": "Website & docs",
+    "repos": [
+      "assets",
+      "one-time-for-planet",
+      "planet",
+      "valkey-doc",
+      "valkey-glide-docs",
+      "valkey-io.github.io",
+      "valkey-try-me"
+    ]
+  }
+]

@@ -24,7 +24,7 @@
   </div>
   <details class="repo-filter">
     <summary>Filter by repo</summary>
-    <div class="repo-filter-body" id="repo-checkboxes"></div>
+    <div class="repo-filter-body" id="repo-checkboxes" data-groups="{{ jsonify (index hugo.Data "repo_groups") }}"></div>
   </details>
   <div class="table-wrap">
     <table>
@@ -67,32 +67,89 @@
   rows.forEach(function(r) {
     Object.keys(JSON.parse(r.dataset.perRepo || "{}")).forEach(function(k) { allRepos.add(k); });
   });
-  var repos = Array.from(allRepos).sort();
   var box = document.getElementById("repo-checkboxes");
+
+  // Repos are discovered from the org, so anything not listed in repo_groups.json
+  // falls into "Other".
+  var groups = JSON.parse(box.dataset.groups || "[]");
+  var claimed = new Set();
+  groups.forEach(function(g) { g.repos.forEach(function(r) { claimed.add(r); }); });
+  var sections = groups.map(function(g) {
+    return {label: g.label, repos: g.repos.filter(function(r) { return allRepos.has(r); })};
+  });
+  sections.push({
+    label: "Other",
+    repos: Array.from(allRepos).filter(function(r) { return !claimed.has(r); }).sort()
+  });
+
   var selAll = document.createElement("label");
   selAll.className = "repo-chip select-all";
   var selCb = document.createElement("input");
   selCb.type = "checkbox"; selCb.checked = true;
   selCb.addEventListener("change", function() {
-    box.querySelectorAll("input").forEach(function(c) { c.checked = selCb.checked; });
+    box.querySelectorAll("input").forEach(function(c) {
+      c.indeterminate = false; c.checked = selCb.checked;
+    });
     recompute();
   });
   selAll.appendChild(selCb);
   selAll.appendChild(document.createTextNode(" All"));
   box.appendChild(selAll);
-  repos.forEach(function(repo) {
-    var label = document.createElement("label");
-    label.className = "repo-chip";
-    var cb = document.createElement("input");
-    cb.type = "checkbox"; cb.checked = true; cb.value = repo;
-    cb.addEventListener("change", recompute);
-    label.appendChild(cb);
-    label.appendChild(document.createTextNode(" " + repo));
-    box.appendChild(label);
+
+  sections.forEach(function(g) {
+    if (!g.repos.length) { return; }
+    var section = document.createElement("div");
+    section.className = "repo-group";
+    var head = document.createElement("label");
+    head.className = "repo-group-head";
+    var headCb = document.createElement("input");
+    headCb.type = "checkbox"; headCb.checked = true;
+    head.appendChild(headCb);
+    head.appendChild(document.createTextNode(" " + g.label));
+    section.appendChild(head);
+    var chips = document.createElement("div");
+    chips.className = "repo-group-chips";
+    g.repos.forEach(function(repo) {
+      var label = document.createElement("label");
+      label.className = "repo-chip";
+      var cb = document.createElement("input");
+      cb.type = "checkbox"; cb.className = "repo-cb"; cb.checked = true; cb.value = repo;
+      cb.addEventListener("change", function() {
+        syncGroup(section);
+        syncAll();
+        recompute();
+      });
+      label.appendChild(cb);
+      label.appendChild(document.createTextNode(" " + repo));
+      chips.appendChild(label);
+    });
+    headCb.addEventListener("change", function() {
+      chips.querySelectorAll("input").forEach(function(c) { c.checked = headCb.checked; });
+      headCb.indeterminate = false;
+      syncAll();
+      recompute();
+    });
+    section.appendChild(chips);
+    box.appendChild(section);
   });
 
+  function syncGroup(section) {
+    var cbs = Array.from(section.querySelectorAll(".repo-cb"));
+    var on = cbs.filter(function(c) { return c.checked; }).length;
+    var head = section.querySelector(".repo-group-head input");
+    head.checked = on === cbs.length;
+    head.indeterminate = on > 0 && on < cbs.length;
+  }
+
+  function syncAll() {
+    var cbs = Array.from(box.querySelectorAll(".repo-cb"));
+    var on = cbs.filter(function(c) { return c.checked; }).length;
+    selCb.checked = on === cbs.length;
+    selCb.indeterminate = on > 0 && on < cbs.length;
+  }
+
   function getSelectedRepos() {
-    return new Set(Array.from(box.querySelectorAll("input:checked")).map(function(c) { return c.value; }));
+    return new Set(Array.from(box.querySelectorAll(".repo-cb:checked")).map(function(c) { return c.value; }));
   }
 
   // Time range: months are "YYYY-MM" strings, so string compare orders them.

@@ -140,6 +140,20 @@ footer a:hover { text-decoration: underline; }
 .repo-filter-body {
   padding: 0.3rem 1rem 0.8rem;
   display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+.repo-group-head {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #888b96;
+  cursor: pointer;
+  margin-bottom: 0.3rem;
+}
+.repo-group-head input { margin-right: 0.3rem; }
+.repo-group-chips {
+  display: flex;
   flex-wrap: wrap;
   gap: 0.4rem;
 }
@@ -153,6 +167,7 @@ footer a:hover { text-decoration: underline; }
   white-space: nowrap;
 }
 .repo-chip:hover { background: #475ad2; color: #fff; }
+.repo-chip.select-all { align-self: flex-start; }
 .repo-chip input { margin-right: 0.2rem; }
 
 .table-wrap { overflow-x: auto; }

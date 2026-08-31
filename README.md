@@ -34,6 +34,10 @@ python3 scripts/fetch_commits.py --repo valkey-io/valkey-glide
 
 Each run appends to the same `data/commits.json`, and the leaderboard aggregates across all repos.
 
+## Repo groups
+
+The "Filter by repo" panel groups repos using `data/repo_groups.json` (core, modules, clients, website & docs). Groups render in file order and only show repos that have data. Any repo not listed there lands in "Other", so new org repos still appear without a code change.
+
 ## License
 
 BSD 3-Clause. See [LICENSE](LICENSE).
