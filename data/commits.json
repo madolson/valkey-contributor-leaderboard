@@ -177058,6 +177058,28 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/58"
+    },
+    {
+      "sha": "07464e5d9bdf1245b62bc883a4b2328dd65d4382",
+      "author_login": "Makarechi",
+      "author_id": 60238228,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60238228?v=4",
+      "message": "fix(rueidisaside): prevent canceled cache fills from leaking locks (#1010)",
+      "date": "2026-08-31T05:17:16Z",
+      "repo": "valkey-go",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f250853712b8a53b2406fba741ceb33a4e192619",
+      "author_login": "NotAFlightRisk",
+      "author_id": 23277273,
+      "avatar_url": "https://avatars.githubusercontent.com/u/23277273?v=4",
+      "message": "fix: resolve the ?addr=:port shorthand against the primary host (#1025)",
+      "date": "2026-08-31T05:12:24Z",
+      "repo": "valkey-go",
+      "reviewed": false,
+      "pr_url": ""
     }
   ]
 }
