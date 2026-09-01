@@ -2,13 +2,21 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 69,
-  "commit_count": 42,
+  "score": 70,
+  "commit_count": 43,
   "review_count": 27,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "74037e9dfa",
+      "message": "Scoring: BM25STD for text, numeric and tag (#1287)",
+      "date": "2026-08-31",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1287",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/74037e9dfaba853af6bf1e1895c2f1bb35a614a2"
+    },
     {
       "sha": "cbad9d6891",
       "message": "change ft.aggregate to generate the Reducer name the same as Redisearch (#971)",

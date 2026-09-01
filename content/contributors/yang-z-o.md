@@ -2,9 +2,9 @@
   "title": "yang-z-o",
   "login": "yang-z-o",
   "avatar_url": "https://avatars.githubusercontent.com/u/30397795?v=4",
-  "score": 16,
+  "score": 17,
   "commit_count": 11,
-  "review_count": 5,
+  "review_count": 6,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -102,6 +102,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "279b07f9e6",
+      "message": "Compare the certificate CN over its whole length (#4577)",
+      "date": "2026-08-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4577",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/279b07f9e664a2fb25d6fdded6a82d7c98014dc3"
+    },
     {
       "sha": "a731e45fd3",
       "message": "Fix compatibility for OpenSSL < 3.0 and Almalinux version mismatch for daily tests (#3303)",

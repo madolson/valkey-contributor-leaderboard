@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 97,
+  "score": 98,
   "commit_count": 39,
-  "review_count": 58,
+  "review_count": 59,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -326,6 +326,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "74037e9dfa",
+      "message": "Scoring: BM25STD for text, numeric and tag (#1287)",
+      "date": "2026-08-31",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1287",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/74037e9dfaba853af6bf1e1895c2f1bb35a614a2"
+    },
     {
       "sha": "e415fe1311",
       "message": "Fix numeric field precision loss in content materialization (#1264)",

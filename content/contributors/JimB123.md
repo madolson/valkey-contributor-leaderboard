@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 57,
+  "score": 58,
   "commit_count": 20,
-  "review_count": 37,
+  "review_count": 38,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -172,6 +172,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8755cb156f",
+      "message": "Remove the static compression buffer, over-allocate instead (#4539)",
+      "date": "2026-08-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4539",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8755cb156f05a51b7fe832956eece025b017d990"
+    },
     {
       "sha": "4ac65b3d80",
       "message": "Refactor: Extract evictSingleKey() from performEvictions() (#4522)",

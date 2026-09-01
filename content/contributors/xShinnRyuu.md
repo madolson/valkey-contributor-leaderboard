@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 439,
+  "score": 440,
   "commit_count": 128,
-  "review_count": 311,
+  "review_count": 312,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -1041,6 +1041,70 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0d0419d04f",
+      "message": "build(deps): bump actions/cache from 4.3.0 to 6.1.0 (#6953)",
+      "date": "2026-08-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6953",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0d0419d04f92b0498a8f2965e4e97a0c87a2c169"
+    },
+    {
+      "sha": "c191afa171",
+      "message": "build(deps): bump actions/setup-java from 5.7.0 to 6.0.0 (#6954)",
+      "date": "2026-08-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6954",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c191afa171475a660bbeb786271f23b28708a709"
+    },
+    {
+      "sha": "d75c0003c6",
+      "message": "build(deps): bump uuid from 1.24.1 to 1.25.0 in /ffi in the minor-updates group (#6955)",
+      "date": "2026-08-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6955",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d75c0003c6f320935e4dcd385236f58146dbe6ee"
+    },
+    {
+      "sha": "72ef9c4ef5",
+      "message": "build(deps): bump pyo3 from 0.29.0 to 0.29.2 in /python/glide-async in the patch-updates group across 1 directory (#6956)",
+      "date": "2026-08-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6956",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/72ef9c4ef511d59ee078a6b4e6561fe4dcc70714"
+    },
+    {
+      "sha": "eca00ce2fe",
+      "message": "feat(go): add AzAffinityAllNodes read strategy (#6927)",
+      "date": "2026-08-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6927",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/eca00ce2fed859730207bac45557137e01fd89be"
+    },
+    {
+      "sha": "894b458db6",
+      "message": "chore(deps): bump valkey-glide from `0a88c16` to `5614711` (#554)",
+      "date": "2026-08-31",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/554",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/894b458db646d1afcaf02d49ee14eab87d39dfde"
+    },
+    {
+      "sha": "084046cf86",
+      "message": "chore(deps): bump the patch-updates group with 3 updates (#552)",
+      "date": "2026-08-31",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/552",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/084046cf865ac7e7e6330994c5c2abb2fa1345d0"
+    },
+    {
+      "sha": "b706fb0f4c",
+      "message": "chore(deps): bump actions/setup-java from 5.7.0 to 6.0.0 (#553)",
+      "date": "2026-08-31",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/553",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/b706fb0f4c262998c928a639453aea59fa06c19a"
+    },
     {
       "sha": "5614711abe",
       "message": "chore(rust): Cargo.lock dashmap cleanup (#6914)",

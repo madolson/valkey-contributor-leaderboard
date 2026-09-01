@@ -2,13 +2,21 @@
   "title": "quanyeyang",
   "login": "quanyeyang",
   "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
-  "score": 13,
-  "commit_count": 11,
+  "score": 14,
+  "commit_count": 12,
   "review_count": 2,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "75215a56cb",
+      "message": "Fix RDMA UAF: connection freed inside callHandler (#4534)",
+      "date": "2026-08-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4534",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/75215a56cb9fbf1b8aeb20a596204b0cda7929af"
+    },
     {
       "sha": "7536bee63b",
       "message": "Fix flaky multi-part AOF manifest tests (#4491)",

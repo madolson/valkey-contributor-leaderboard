@@ -2,14 +2,31 @@
   "title": "melancholictheory",
   "login": "melancholictheory",
   "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
-  "score": 8,
-  "commit_count": 8,
+  "score": 10,
+  "commit_count": 10,
   "review_count": 0,
   "repos": [
     "valkey",
+    "valkey-doc",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "e23ccb31db",
+      "message": "Add ACL DIGEST command (#4446)",
+      "date": "2026-08-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4446",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e23ccb31db50b7e26c667901eca5966b462f9ff9"
+    },
+    {
+      "sha": "c862e802e6",
+      "message": "Document the ACL DIGEST command (#469)",
+      "date": "2026-08-31",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/469",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/c862e802e6fc417e570a6b3ae5e230cb53d51870"
+    },
     {
       "sha": "e299a9adf3",
       "message": "fix: surface a failed ACL apply on the cluster status (#400)",

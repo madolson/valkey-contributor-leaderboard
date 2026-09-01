@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1225,
+  "score": 1228,
   "commit_count": 153,
-  "review_count": 1072,
+  "review_count": 1075,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1246,6 +1246,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f2c1c5e9de",
+      "message": "Speed up split-vote elections with the new FAILOVER_AUTH_NACK message (#3833)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3833",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f2c1c5e9dece9ec51818327b31bbcb6a9499233f"
+    },
+    {
+      "sha": "e23ccb31db",
+      "message": "Add ACL DIGEST command (#4446)",
+      "date": "2026-08-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4446",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e23ccb31db50b7e26c667901eca5966b462f9ff9"
+    },
+    {
+      "sha": "c862e802e6",
+      "message": "Document the ACL DIGEST command (#469)",
+      "date": "2026-08-31",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/469",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/c862e802e6fc417e570a6b3ae5e230cb53d51870"
+    },
     {
       "sha": "11a74cf243",
       "message": "Fix deadlock when a blocking command is followed by a partial pipelined command (#4531)",

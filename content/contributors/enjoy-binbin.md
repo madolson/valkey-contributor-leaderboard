@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 957,
-  "commit_count": 383,
-  "review_count": 574,
+  "score": 961,
+  "commit_count": 386,
+  "review_count": 575,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -14,6 +14,30 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "f2c1c5e9de",
+      "message": "Speed up split-vote elections with the new FAILOVER_AUTH_NACK message (#3833)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3833",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f2c1c5e9dece9ec51818327b31bbcb6a9499233f"
+    },
+    {
+      "sha": "f1addd8f39",
+      "message": "Use BIO thread for cluster config saving in cluster-config-save-behavior best-effort mode (#2555)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2555",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f1addd8f393b14b7968644a1ee9174a69c9e4a49"
+    },
+    {
+      "sha": "8d34678c8f",
+      "message": "Add per-direction cluster link established counter info fields (#4169)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4169",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8d34678c8fb797d5e9f017420ce7ee0ac64b08bb"
+    },
     {
       "sha": "382a134959",
       "message": "Rewrite ready-key UAF fix with rotation-based iteration (#4472)",
@@ -3080,6 +3104,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e23ccb31db",
+      "message": "Add ACL DIGEST command (#4446)",
+      "date": "2026-08-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4446",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e23ccb31db50b7e26c667901eca5966b462f9ff9"
+    },
     {
       "sha": "7bf7daa530",
       "message": "Deflake CLUSTER SYNCSLOTS ESTABLISH command interface test (#4409)",

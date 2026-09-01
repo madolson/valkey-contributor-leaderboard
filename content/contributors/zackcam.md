@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 69,
+  "score": 70,
   "commit_count": 45,
-  "review_count": 24,
+  "review_count": 25,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -378,6 +378,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "58faf1ca5f",
+      "message": "Fixing crash on recursive path mutation (#120)",
+      "date": "2026-08-31",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/120",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/58faf1ca5fb35b5e3ccc70d5d8bde60ed6c35d1a"
+    },
     {
       "sha": "74d7eb17c9",
       "message": "Fix lazy-delete timing race in test_bloom_metrics (#103)",

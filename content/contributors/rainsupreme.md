@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 110,
+  "score": 111,
   "commit_count": 36,
-  "review_count": 74,
+  "review_count": 75,
   "repos": [
     "valkey",
     "valkey-container",
@@ -304,6 +304,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f1addd8f39",
+      "message": "Use BIO thread for cluster config saving in cluster-config-save-behavior best-effort mode (#2555)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2555",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f1addd8f393b14b7968644a1ee9174a69c9e4a49"
+    },
     {
       "sha": "b8bc42c71d",
       "message": "Unify basic and test_groups configs into a single execution path (#83)",

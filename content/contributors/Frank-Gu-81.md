@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 8,
+  "score": 9,
   "commit_count": 6,
-  "review_count": 2,
+  "review_count": 3,
   "repos": [
     "valkey-search"
   ],
@@ -59,6 +59,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "74037e9dfa",
+      "message": "Scoring: BM25STD for text, numeric and tag (#1287)",
+      "date": "2026-08-31",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1287",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/74037e9dfaba853af6bf1e1895c2f1bb35a614a2"
+    },
     {
       "sha": "e415fe1311",
       "message": "Fix numeric field precision loss in content materialization (#1264)",

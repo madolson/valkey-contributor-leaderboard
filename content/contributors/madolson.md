@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 908,
-  "commit_count": 205,
-  "review_count": 703,
+  "score": 913,
+  "commit_count": 206,
+  "review_count": 707,
   "repos": [
     ".github",
     "valkey",
@@ -21,6 +21,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "279b07f9e6",
+      "message": "Compare the certificate CN over its whole length (#4577)",
+      "date": "2026-08-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4577",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/279b07f9e664a2fb25d6fdded6a82d7c98014dc3"
+    },
     {
       "sha": "7bf7daa530",
       "message": "Deflake CLUSTER SYNCSLOTS ESTABLISH command interface test (#4409)",
@@ -1663,6 +1671,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "637f716b4b",
+      "message": "Add missing UPDATE key spec for HGETEX command (#4576)",
+      "date": "2026-08-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4576",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/637f716b4b523e22e1f24e2aa6065c3f112305fc"
+    },
+    {
+      "sha": "7be7d564ff",
+      "message": "Fix script debugger uaf (#4574)",
+      "date": "2026-08-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4574",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7be7d564ff0b27b20df8debab78822e4a4d57a62"
+    },
+    {
+      "sha": "75215a56cb",
+      "message": "Fix RDMA UAF: connection freed inside callHandler (#4534)",
+      "date": "2026-08-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4534",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/75215a56cb9fbf1b8aeb20a596204b0cda7929af"
+    },
+    {
+      "sha": "58faf1ca5f",
+      "message": "Fixing crash on recursive path mutation (#120)",
+      "date": "2026-08-31",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/120",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/58faf1ca5fb35b5e3ccc70d5d8bde60ed6c35d1a"
+    },
     {
       "sha": "2cab1f5217",
       "message": "Add Valkey GLIDE PHP and Ruby clients to recommended clients list (#650)",

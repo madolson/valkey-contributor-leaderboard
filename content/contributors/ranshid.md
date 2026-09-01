@@ -2,8 +2,8 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 300,
-  "commit_count": 94,
+  "score": 302,
+  "commit_count": 96,
   "review_count": 206,
   "repos": [
     "valkey",
@@ -16,6 +16,22 @@
     "valkey-try-me"
   ],
   "commit_list": [
+    {
+      "sha": "637f716b4b",
+      "message": "Add missing UPDATE key spec for HGETEX command (#4576)",
+      "date": "2026-08-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4576",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/637f716b4b523e22e1f24e2aa6065c3f112305fc"
+    },
+    {
+      "sha": "7be7d564ff",
+      "message": "Fix script debugger uaf (#4574)",
+      "date": "2026-08-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4574",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7be7d564ff0b27b20df8debab78822e4a4d57a62"
+    },
     {
       "sha": "28aa048e25",
       "message": "Fix garbage earliest-expiry read in vsetEstimatedEarliestExpiry RAX path (#3956)",

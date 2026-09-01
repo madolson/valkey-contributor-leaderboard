@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 262,
+  "score": 263,
   "commit_count": 90,
-  "review_count": 172,
+  "review_count": 173,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -738,6 +738,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a1f026c29c",
+      "message": "docs(node): Improve basic client examples (#6933)",
+      "date": "2026-08-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6933",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a1f026c29c9c23aef6fb1e735afb87f19424dfe6"
+    },
     {
       "sha": "1a0d24f60c",
       "message": "Fixing xpending org reordering (#300)",

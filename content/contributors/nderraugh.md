@@ -2,8 +2,8 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 17,
-  "commit_count": 3,
+  "score": 18,
+  "commit_count": 4,
   "review_count": 14,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "a1f026c29c",
+      "message": "docs(node): Improve basic client examples (#6933)",
+      "date": "2026-08-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6933",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a1f026c29c9c23aef6fb1e735afb87f19424dfe6"
+    },
     {
       "sha": "5614711abe",
       "message": "chore(rust): Cargo.lock dashmap cleanup (#6914)",

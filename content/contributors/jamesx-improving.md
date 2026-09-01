@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 267,
+  "score": 269,
   "commit_count": 80,
-  "review_count": 187,
+  "review_count": 189,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -655,6 +655,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0d0419d04f",
+      "message": "build(deps): bump actions/cache from 4.3.0 to 6.1.0 (#6953)",
+      "date": "2026-08-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6953",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0d0419d04f92b0498a8f2965e4e97a0c87a2c169"
+    },
+    {
+      "sha": "c191afa171",
+      "message": "build(deps): bump actions/setup-java from 5.7.0 to 6.0.0 (#6954)",
+      "date": "2026-08-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6954",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c191afa171475a660bbeb786271f23b28708a709"
+    },
+    {
+      "sha": "72ef9c4ef5",
+      "message": "build(deps): bump pyo3 from 0.29.0 to 0.29.2 in /python/glide-async in the patch-updates group across 1 directory (#6956)",
+      "date": "2026-08-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6956",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/72ef9c4ef511d59ee078a6b4e6561fe4dcc70714"
+    },
+    {
+      "sha": "eca00ce2fe",
+      "message": "feat(go): add AzAffinityAllNodes read strategy (#6927)",
+      "date": "2026-08-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6927",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/eca00ce2fed859730207bac45557137e01fd89be"
+    },
+    {
+      "sha": "a1f026c29c",
+      "message": "docs(node): Improve basic client examples (#6933)",
+      "date": "2026-08-31",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6933",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a1f026c29c9c23aef6fb1e735afb87f19424dfe6"
+    },
     {
       "sha": "77fd2d27d6",
       "message": "feat(php): implement PUBSUB SHARDCHANNELS (#327)",

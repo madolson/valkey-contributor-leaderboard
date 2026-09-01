@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 372,
+  "score": 373,
   "commit_count": 96,
-  "review_count": 276,
+  "review_count": 277,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -788,6 +788,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f2c1c5e9de",
+      "message": "Speed up split-vote elections with the new FAILOVER_AUTH_NACK message (#3833)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3833",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f2c1c5e9dece9ec51818327b31bbcb6a9499233f"
+    },
     {
       "sha": "94f61e4491",
       "message": "Fix writeable typo in an expire test name (#4499)",

@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 44,
+  "score": 45,
   "commit_count": 9,
-  "review_count": 35,
+  "review_count": 36,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2cd21e3893",
+      "message": "feat: add MSetEX helper (#156)",
+      "date": "2026-08-31",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/156",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/2cd21e38937fe54c8017dd6ce29c097fde408fcb"
+    },
     {
       "sha": "52f25e3b3a",
       "message": "fix(pipe): avoid nil cache panic with disabled static-TTL multi-cache (#150)",

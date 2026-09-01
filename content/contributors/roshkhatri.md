@@ -2,8 +2,8 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 413,
-  "commit_count": 151,
+  "score": 414,
+  "commit_count": 152,
   "review_count": 262,
   "repos": [
     "valkey",
@@ -20,6 +20,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "58faf1ca5f",
+      "message": "Fixing crash on recursive path mutation (#120)",
+      "date": "2026-08-31",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/120",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/58faf1ca5fb35b5e3ccc70d5d8bde60ed6c35d1a"
+    },
     {
       "sha": "b8bc42c71d",
       "message": "Unify basic and test_groups configs into a single execution path (#83)",
@@ -1230,6 +1238,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "053bc8f149",
+      "message": "Update versions.json and Dockerfiles for version 9.0.6 (#166)",
+      "date": "2026-09-01",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/166",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/053bc8f1499735aee06360c8b4b0ffbd2c571005"
+    },
+    {
+      "sha": "7016561f9f",
+      "message": "Update versions.json and Dockerfiles for version 8.1.10 (#165)",
+      "date": "2026-09-01",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/165",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/7016561f9f993d7b8788a69e1a813702fb6ca52e"
+    },
+    {
+      "sha": "d67679da21",
+      "message": "Update versions.json and Dockerfiles for version 9.1.2 (#164)",
+      "date": "2026-09-01",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/164",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/d67679da2111e33b4ca9d1d3dc35f3930f735d5b"
+    },
+    {
+      "sha": "19949551de",
+      "message": "Update versions.json and Dockerfiles for version 8.0.11 (#163)",
+      "date": "2026-09-01",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/163",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/19949551de90c7d0929fa0cbb8f33154efbb1e8e"
+    },
     {
       "sha": "90686ecdf0",
       "message": "fix: increase all socket/readiness timeouts to 30s (#82)",

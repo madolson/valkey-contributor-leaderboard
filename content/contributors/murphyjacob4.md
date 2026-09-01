@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 133,
+  "score": 137,
   "commit_count": 45,
-  "review_count": 88,
+  "review_count": 92,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -374,6 +374,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f1addd8f39",
+      "message": "Use BIO thread for cluster config saving in cluster-config-save-behavior best-effort mode (#2555)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2555",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f1addd8f393b14b7968644a1ee9174a69c9e4a49"
+    },
+    {
+      "sha": "8d34678c8f",
+      "message": "Add per-direction cluster link established counter info fields (#4169)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4169",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8d34678c8fb797d5e9f017420ce7ee0ac64b08bb"
+    },
+    {
+      "sha": "279b07f9e6",
+      "message": "Compare the certificate CN over its whole length (#4577)",
+      "date": "2026-08-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4577",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/279b07f9e664a2fb25d6fdded6a82d7c98014dc3"
+    },
+    {
+      "sha": "597114d0b1",
+      "message": "Avoid offloading ACK's reads to IO threads for the slot migration export job while snapshotting (#4559)",
+      "date": "2026-08-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4559",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/597114d0b1f6731df93c42c3d530b4f94354b5d9"
+    },
     {
       "sha": "7bf7daa530",
       "message": "Deflake CLUSTER SYNCSLOTS ESTABLISH command interface test (#4409)",
