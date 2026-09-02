@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 440,
-  "commit_count": 128,
-  "review_count": 312,
+  "score": 443,
+  "commit_count": 129,
+  "review_count": 314,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "da0db305dd",
+      "message": "fix(java): decode scoped-connection responses larger than 16 KB (#6958)",
+      "date": "2026-09-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6958",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/da0db305ddd8ff5c62ae339f3e5a8ef4eab708aa"
+    },
     {
       "sha": "a939ef1ac5",
       "message": "fix(java): allow scopedConnection on pool-borrowed GlideClient (#6765)",
@@ -1041,6 +1049,86 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "80ae4fedd9",
+      "message": "test(node): move protobuf encode/decode tests to internals #3947 (#6970)",
+      "date": "2026-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6970",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/80ae4fedd9c797a70d2c5b531624f8cf950264df"
+    },
+    {
+      "sha": "5e3107f684",
+      "message": "build(deps-dev): bump browserslist from 4.28.2 to 4.28.8 in /node (#6974)",
+      "date": "2026-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6974",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5e3107f684d067957ee94e9d24f1d94bced25da5"
+    },
+    {
+      "sha": "f2f07b093c",
+      "message": "build(deps): bump peter-evans/create-pull-request from 7.0.11 to 8.1.1 (#6952)",
+      "date": "2026-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6952",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f2f07b093c94d6e96185df1b42f11e1e10e864d8"
+    },
+    {
+      "sha": "c2ca18b561",
+      "message": "build(deps): bump the minor-updates group in /glide-core with 3 updates (#6949)",
+      "date": "2026-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6949",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c2ca18b561a8367eb879df76223da3aa810a6bf1"
+    },
+    {
+      "sha": "eaf236d380",
+      "message": "build(deps-dev): bump eslint-plugin-jsdoc from 63.0.13 to 64.2.1 (#6947)",
+      "date": "2026-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6947",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/eaf236d380465c267880a41fe23781a2ee444b0a"
+    },
+    {
+      "sha": "373a30c490",
+      "message": "build(deps): bump gradle/actions/wrapper-validation from 6.2.0 to 6.3.0 in the minor-updates group across 1 directory (#6950)",
+      "date": "2026-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6950",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/373a30c49018b00b40f5763fe8d96b447049bc01"
+    },
+    {
+      "sha": "0fb7b54b09",
+      "message": "build(deps-dev): bump eslint from 10.8.1 to 10.9.0 in the minor-updates group (#6946)",
+      "date": "2026-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6946",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0fb7b54b093592a890548c2876b6acbe5397780d"
+    },
+    {
+      "sha": "ecf96dd668",
+      "message": "build(deps-dev): bump prettier-eslint from 17.1.1 to 17.1.2 in the patch-updates group (#6945)",
+      "date": "2026-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6945",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ecf96dd6680d58a416e0c53b1724d33cbd3b507a"
+    },
+    {
+      "sha": "b7f0cd099f",
+      "message": "build(deps): bump log from 0.4.33 to 0.4.34 in /java in the patch-updates group (#6944)",
+      "date": "2026-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6944",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b7f0cd099faa70ad2de3b6d3a7fc2c3ca3b13237"
+    },
+    {
+      "sha": "8c652936ed",
+      "message": "ci(rust): add `lint` job for Rust client and drop `rustfmt.toml` (#6972)",
+      "date": "2026-09-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6972",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8c652936eda4bda5b1e361cc11e3f61bf2709658"
+    },
     {
       "sha": "0d0419d04f",
       "message": "build(deps): bump actions/cache from 4.3.0 to 6.1.0 (#6953)",

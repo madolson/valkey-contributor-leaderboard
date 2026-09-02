@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 263,
+  "score": 265,
   "commit_count": 90,
-  "review_count": 173,
+  "review_count": 175,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -738,6 +738,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "80ae4fedd9",
+      "message": "test(node): move protobuf encode/decode tests to internals #3947 (#6970)",
+      "date": "2026-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6970",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/80ae4fedd9c797a70d2c5b531624f8cf950264df"
+    },
+    {
+      "sha": "4ab2ed0c24",
+      "message": "refactor(lint): enable Roslynator analyzers (#550)",
+      "date": "2026-09-01",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/550",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4ab2ed0c243d5f13d30d4a1e6dd035cc623e75f5"
+    },
     {
       "sha": "a1f026c29c",
       "message": "docs(node): Improve basic client examples (#6933)",

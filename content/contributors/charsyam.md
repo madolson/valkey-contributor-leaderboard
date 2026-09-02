@@ -2,13 +2,21 @@
   "title": "charsyam",
   "login": "charsyam",
   "avatar_url": "https://avatars.githubusercontent.com/u/439301?v=4",
-  "score": 7,
-  "commit_count": 7,
+  "score": 8,
+  "commit_count": 8,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "47b497e4e3",
+      "message": "Fix stale MY_PRIMARY_FAIL gossip flag (#4533)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4533",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/47b497e4e39a1b05f1244a30a134818d9f7b4a5c"
+    },
     {
       "sha": "bb88665578",
       "message": "hashtable: fix dismissHashtable madvise size (#3533)",

@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 269,
+  "score": 270,
   "commit_count": 80,
-  "review_count": 189,
+  "review_count": 190,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -655,6 +655,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "da0db305dd",
+      "message": "fix(java): decode scoped-connection responses larger than 16 KB (#6958)",
+      "date": "2026-09-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6958",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/da0db305ddd8ff5c62ae339f3e5a8ef4eab708aa"
+    },
     {
       "sha": "0d0419d04f",
       "message": "build(deps): bump actions/cache from 4.3.0 to 6.1.0 (#6953)",

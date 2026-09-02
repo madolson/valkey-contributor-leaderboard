@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 139,
+  "score": 142,
   "commit_count": 18,
-  "review_count": 121,
+  "review_count": 124,
   "repos": [
     "valkey",
     "valkey-container",
@@ -159,6 +159,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "560d347b07",
+      "message": "Add Rain as a blog contributor (#644)",
+      "date": "2026-09-01",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/644",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/560d347b070a9fbe67855329b0a111ae5f432397"
+    },
+    {
+      "sha": "16638c191c",
+      "message": "Add blog post: Analyzing Atomic Slot Migration ACL requirements (#636)",
+      "date": "2026-09-01",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/636",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/16638c191c20bab40208b0f581553e1dc1036ed4"
+    },
+    {
+      "sha": "16638c191c",
+      "message": "Add blog post: Analyzing Atomic Slot Migration ACL requirements (#636)",
+      "date": "2026-09-01",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/636",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/16638c191c20bab40208b0f581553e1dc1036ed4"
+    },
     {
       "sha": "e95a580866",
       "message": "Add Valkey GLIDE Ruby client (#472)",

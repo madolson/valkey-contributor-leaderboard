@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 301,
+  "score": 302,
   "commit_count": 65,
-  "review_count": 236,
+  "review_count": 237,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -539,6 +539,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d19563211e",
+      "message": "Fix ping_sent getting stuck when peer traffic keeps link alive (#4171)",
+      "date": "2026-09-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4171",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d19563211e8861f5493421e75c6e393eb1eae76a"
+    },
     {
       "sha": "5d3fd68586",
       "message": "Add streaming compression support for RDB (#3531)",

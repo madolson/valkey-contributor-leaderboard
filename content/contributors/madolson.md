@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 913,
+  "score": 918,
   "commit_count": 206,
-  "review_count": 707,
+  "review_count": 712,
   "repos": [
     ".github",
     "valkey",
@@ -1671,6 +1671,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2c7811632c",
+      "message": "Add CI guard and Makefile targets for module API reference docs (#479)",
+      "date": "2026-09-02",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/479",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/2c7811632ce580e301440385a1782721fd7bace2"
+    },
+    {
+      "sha": "12f9331312",
+      "message": "tests/rdma: improve diagnostics for sporadic connection failures (#4586)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4586",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/12f93313122599abab5d97340afa3ad965d37760"
+    },
+    {
+      "sha": "1cca6d619e",
+      "message": "Introduce steady-state replication throttling and throttling infrastructure (#4356)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4356",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1cca6d619ebccaaa708ef1b866202ce7f37ca1f9"
+    },
+    {
+      "sha": "a1471664f1",
+      "message": "Add server-side hot key detection (#3708)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3708",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a1471664f1ea9be8d89c7078dbb065604180ffd7"
+    },
+    {
+      "sha": "b094c86d6b",
+      "message": "fix BF.INSERT does not link to command page in bf.add.md (#476)",
+      "date": "2026-09-01",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/476",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/b094c86d6b23c994f8e5dc907bbdb4ea5cc6be28"
+    },
     {
       "sha": "637f716b4b",
       "message": "Add missing UPDATE key spec for HGETEX command (#4576)",

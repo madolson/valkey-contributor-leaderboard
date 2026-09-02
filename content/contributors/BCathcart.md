@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 98,
+  "score": 101,
   "commit_count": 39,
-  "review_count": 59,
+  "review_count": 62,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -326,6 +326,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b747be6591",
+      "message": "Fix aarch64 RDB compatibility integration tests (#1343)",
+      "date": "2026-09-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1343",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/b747be65912e4e24e04a235ac01aeddfb4e6c9bc"
+    },
+    {
+      "sha": "2fe364f204",
+      "message": "Auto-assign reviewers + expanded slash commands (#1323)",
+      "date": "2026-09-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1323",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2fe364f204ce64f976c5baa91a3ac8ed89b49def"
+    },
+    {
+      "sha": "293b0f27a2",
+      "message": "Fix TAG indexing of non UTF-8 data (#1075)",
+      "date": "2026-09-01",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1075",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/293b0f27a213fcb20c1902124fe6426a838ba80a"
+    },
     {
       "sha": "74037e9dfa",
       "message": "Scoring: BM25STD for text, numeric and tag (#1287)",

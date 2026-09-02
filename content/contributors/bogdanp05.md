@@ -88,6 +88,30 @@
   ],
   "review_list": [
     {
+      "sha": "d5c813ba0d",
+      "message": "build(deps): bump pypa/cibuildwheel from 4.1.0 to 4.2.0 (#85)",
+      "date": "2026-09-01",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/85",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/d5c813ba0d70e8ddd42017a9ebd6337c0346811c"
+    },
+    {
+      "sha": "358cc167c9",
+      "message": "build(deps): bump rojopolis/spellcheck-github-actions (#84)",
+      "date": "2026-09-01",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/84",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/358cc167c911235856e211790e4d65f17c5efb33"
+    },
+    {
+      "sha": "2983786a1c",
+      "message": "build(deps): bump rojopolis/spellcheck-github-actions",
+      "date": "2026-09-01",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/333",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/2983786a1ced2c9872702e4ac58382204e340a0f"
+    },
+    {
       "sha": "9299b03bd8",
       "message": "fix(build): replace removed SourceFileLoader.load_module() in setup.py for upcoming python 3.15 (#83)",
       "date": "2026-08-31",

@@ -2,9 +2,9 @@
   "title": "Sagar2366",
   "login": "Sagar2366",
   "avatar_url": "https://avatars.githubusercontent.com/u/26805882?v=4",
-  "score": 7,
+  "score": 8,
   "commit_count": 3,
-  "review_count": 4,
+  "review_count": 5,
   "repos": [
     "valkey-helm",
     "valkey-operator"
@@ -36,6 +36,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a2d8cf876a",
+      "message": "Release valkey-operator 0.6.0 (#244)",
+      "date": "2026-09-01",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/244",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/a2d8cf876aa81432e248a1ec3787098f7702c613"
+    },
     {
       "sha": "21dc1d8c74",
       "message": "Merge pull request #227 from daanvinken/feat/valkey-resources-operator-0.4",

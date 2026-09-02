@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 269,
+  "score": 270,
   "commit_count": 94,
-  "review_count": 175,
+  "review_count": 176,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -767,6 +767,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "89426bccf9",
+      "message": "feat(rust): import the glide-rust client as a new rust/ crate (#6864)",
+      "date": "2026-09-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6864",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/89426bccf969bace1d5c1e81d602f26e1bba188d"
+    },
     {
       "sha": "49f2b6d210",
       "message": "fix(go): prevent late FFI callbacks from using released channels (#6827)",

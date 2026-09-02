@@ -207,6 +207,14 @@
   ],
   "review_list": [
     {
+      "sha": "20fe3dc733",
+      "message": "Bump softprops/action-gh-release from 3.0.2 to 3.0.3 (#16)",
+      "date": "2026-09-01",
+      "repo": "valkey-lua5.5",
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/16",
+      "commit_url": "https://github.com/valkey-io/valkey-lua5.5/commit/20fe3dc733da881021fff07c27c95ac658b758d7"
+    },
+    {
       "sha": "39d43ec54f",
       "message": "Add null guard on username (#58)",
       "date": "2026-08-29",

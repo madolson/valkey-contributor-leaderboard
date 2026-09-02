@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 18,
+  "score": 19,
   "commit_count": 4,
-  "review_count": 14,
+  "review_count": 15,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -47,6 +47,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4ab2ed0c24",
+      "message": "refactor(lint): enable Roslynator analyzers (#550)",
+      "date": "2026-09-01",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/550",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4ab2ed0c243d5f13d30d4a1e6dd035cc623e75f5"
+    },
     {
       "sha": "d4df273ba0",
       "message": "fix(go): allow ScopedConnection on pool-borrowed Client (#6814)",

@@ -2,9 +2,9 @@
   "title": "pizhenwei",
   "login": "pizhenwei",
   "avatar_url": "https://avatars.githubusercontent.com/u/5586500?v=4",
-  "score": 45,
+  "score": 46,
   "commit_count": 33,
-  "review_count": 12,
+  "review_count": 13,
   "repos": [
     "libvalkey",
     "valkey",
@@ -277,6 +277,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "12f9331312",
+      "message": "tests/rdma: improve diagnostics for sporadic connection failures (#4586)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4586",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/12f93313122599abab5d97340afa3ad965d37760"
+    },
     {
       "sha": "eb5a7857e6",
       "message": "Fix RDMA + IO threads re-entrancy and busy-loop via connection postpone masks (#3611)",

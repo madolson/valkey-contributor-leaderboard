@@ -181,6 +181,14 @@
   ],
   "review_list": [
     {
+      "sha": "5469fc69f4",
+      "message": "Bump softprops/action-gh-release from 3.0.2 to 3.0.3",
+      "date": "2026-09-01",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/59",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/5469fc69f4602874285bb4890729b82e2f1c4a59"
+    },
+    {
       "sha": "37a277eea5",
       "message": "Bump github/codeql-action from 4.37.7 to 4.37.9",
       "date": "2026-08-29",

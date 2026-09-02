@@ -2,14 +2,22 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 96,
-  "commit_count": 59,
+  "score": 97,
+  "commit_count": 60,
   "review_count": 37,
   "repos": [
     "valkey-ci-agent",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "2fe364f204",
+      "message": "Auto-assign reviewers + expanded slash commands (#1323)",
+      "date": "2026-09-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1323",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2fe364f204ce64f976c5baa91a3ac8ed89b49def"
+    },
     {
       "sha": "66d1c822f0",
       "message": "Allow SORTBY on vector score in ascending order (#1267)",

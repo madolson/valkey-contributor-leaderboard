@@ -2,9 +2,9 @@
   "title": "soloestoy",
   "login": "soloestoy",
   "avatar_url": "https://avatars.githubusercontent.com/u/24804835?v=4",
-  "score": 53,
+  "score": 54,
   "commit_count": 21,
-  "review_count": 32,
+  "review_count": 33,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -181,6 +181,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a1471664f1",
+      "message": "Add server-side hot key detection (#3708)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3708",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a1471664f1ea9be8d89c7078dbb065604180ffd7"
+    },
     {
       "sha": "c03970afd1",
       "message": "stream: strip redundant LIMIT when rewriting XADD/XTRIM for propagation (#4063)",

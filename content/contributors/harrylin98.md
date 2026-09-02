@@ -2,13 +2,29 @@
   "title": "harrylin98",
   "login": "harrylin98",
   "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
-  "score": 12,
-  "commit_count": 11,
+  "score": 14,
+  "commit_count": 13,
   "review_count": 1,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "0413e37ae4",
+      "message": "Deflake throttle-repl test due to timeout disconnect (#4591)",
+      "date": "2026-09-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4591",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0413e37ae49a534647ba804f0c92dc1e3977891f"
+    },
+    {
+      "sha": "1cca6d619e",
+      "message": "Introduce steady-state replication throttling and throttling infrastructure (#4356)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4356",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1cca6d619ebccaaa708ef1b866202ce7f37ca1f9"
+    },
     {
       "sha": "0fb02b7ebd",
       "message": "Fix include order in custom_matchers.hpp to prevent min/max macro pollution (#4469)",

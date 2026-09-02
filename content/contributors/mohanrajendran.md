@@ -1,14 +1,23 @@
 {
   "title": "mohanrajendran",
   "login": "mohanrajendran",
-  "avatar_url": "https://github.com/mohanrajendran.png?size=64",
-  "score": 5,
-  "commit_count": 0,
+  "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
+  "score": 6,
+  "commit_count": 1,
   "review_count": 5,
   "repos": [
     "valkey-search"
   ],
-  "commit_list": [],
+  "commit_list": [
+    {
+      "sha": "b747be6591",
+      "message": "Fix aarch64 RDB compatibility integration tests (#1343)",
+      "date": "2026-09-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1343",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/b747be65912e4e24e04a235ac01aeddfb4e6c9bc"
+    }
+  ],
   "review_list": [
     {
       "sha": "6a5644a239",

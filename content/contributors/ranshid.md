@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 302,
+  "score": 306,
   "commit_count": 96,
-  "review_count": 206,
+  "review_count": 210,
   "repos": [
     "valkey",
     "valkey-container",
@@ -786,6 +786,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "205fde3d3d",
+      "message": "Fix test_reclaimFilePageCache to avoid tmpfs (#4362)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4362",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/205fde3d3dab11eda18acdd42f3219af2ecb759c"
+    },
+    {
+      "sha": "a1471664f1",
+      "message": "Add server-side hot key detection (#3708)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3708",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a1471664f1ea9be8d89c7078dbb065604180ffd7"
+    },
+    {
+      "sha": "a1471664f1",
+      "message": "Add server-side hot key detection (#3708)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3708",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a1471664f1ea9be8d89c7078dbb065604180ffd7"
+    },
+    {
+      "sha": "a9963f495d",
+      "message": "Bump fast-uri to 3.1.6 in reply-schema-linter to clear CVEs (#4571)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4571",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a9963f495d51130871c31417ceb65af8c40365d0"
+    },
     {
       "sha": "8ee7b372fa",
       "message": "Fix VLA stack overflow in TLS writev after write failure (#4307)",

@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 9,
+  "score": 10,
   "commit_count": 6,
-  "review_count": 3,
+  "review_count": 4,
   "repos": [
     "valkey-search"
   ],
@@ -59,6 +59,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2fe364f204",
+      "message": "Auto-assign reviewers + expanded slash commands (#1323)",
+      "date": "2026-09-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1323",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2fe364f204ce64f976c5baa91a3ac8ed89b49def"
+    },
     {
       "sha": "74037e9dfa",
       "message": "Scoring: BM25STD for text, numeric and tag (#1287)",

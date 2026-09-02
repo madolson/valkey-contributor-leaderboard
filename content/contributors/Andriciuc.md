@@ -2,8 +2,8 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 10,
-  "commit_count": 10,
+  "score": 11,
+  "commit_count": 11,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "560d347b07",
+      "message": "Add Rain as a blog contributor (#644)",
+      "date": "2026-09-01",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/644",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/560d347b070a9fbe67855329b0a111ae5f432397"
+    },
     {
       "sha": "8b091efacc",
       "message": "Add blog post: Valkey 9.1 benchmark (#611)",

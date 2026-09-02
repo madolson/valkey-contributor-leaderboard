@@ -2,8 +2,8 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 137,
-  "commit_count": 45,
+  "score": 138,
+  "commit_count": 46,
   "review_count": 92,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "2c7811632c",
+      "message": "Add CI guard and Makefile targets for module API reference docs (#479)",
+      "date": "2026-09-02",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/479",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/2c7811632ce580e301440385a1782721fd7bace2"
+    },
     {
       "sha": "1fea706f06",
       "message": "Add cluster bus security warning to cluster tutorial (#468)",

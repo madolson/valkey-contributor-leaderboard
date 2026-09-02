@@ -2,9 +2,9 @@
   "title": "Bloodraven21",
   "login": "Bloodraven21",
   "avatar_url": "https://avatars.githubusercontent.com/u/60031755?v=4",
-  "score": 22,
+  "score": 23,
   "commit_count": 9,
-  "review_count": 13,
+  "review_count": 14,
   "repos": [
     "valkey-helm"
   ],
@@ -83,6 +83,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a2d8cf876a",
+      "message": "Release valkey-operator 0.6.0 (#244)",
+      "date": "2026-09-01",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/244",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/a2d8cf876aa81432e248a1ec3787098f7702c613"
+    },
     {
       "sha": "c34252e6e9",
       "message": "Update UPGRADE.md",

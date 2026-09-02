@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 58,
+  "score": 60,
   "commit_count": 20,
-  "review_count": 38,
+  "review_count": 40,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -172,6 +172,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0413e37ae4",
+      "message": "Deflake throttle-repl test due to timeout disconnect (#4591)",
+      "date": "2026-09-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4591",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0413e37ae49a534647ba804f0c92dc1e3977891f"
+    },
+    {
+      "sha": "1cca6d619e",
+      "message": "Introduce steady-state replication throttling and throttling infrastructure (#4356)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4356",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1cca6d619ebccaaa708ef1b866202ce7f37ca1f9"
+    },
     {
       "sha": "8755cb156f",
       "message": "Remove the static compression buffer, over-allocate instead (#4539)",

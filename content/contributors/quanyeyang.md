@@ -2,13 +2,21 @@
   "title": "quanyeyang",
   "login": "quanyeyang",
   "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
-  "score": 14,
-  "commit_count": 12,
+  "score": 15,
+  "commit_count": 13,
   "review_count": 2,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "12f9331312",
+      "message": "tests/rdma: improve diagnostics for sporadic connection failures (#4586)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4586",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/12f93313122599abab5d97340afa3ad965d37760"
+    },
     {
       "sha": "75215a56cb",
       "message": "Fix RDMA UAF: connection freed inside callHandler (#4534)",

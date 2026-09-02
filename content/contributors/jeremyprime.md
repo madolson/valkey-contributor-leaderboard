@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 214,
+  "score": 217,
   "commit_count": 60,
-  "review_count": 154,
+  "review_count": 157,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -495,6 +495,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8c652936ed",
+      "message": "ci(rust): add `lint` job for Rust client and drop `rustfmt.toml` (#6972)",
+      "date": "2026-09-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6972",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8c652936eda4bda5b1e361cc11e3f61bf2709658"
+    },
+    {
+      "sha": "89426bccf9",
+      "message": "feat(rust): import the glide-rust client as a new rust/ crate (#6864)",
+      "date": "2026-09-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6864",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/89426bccf969bace1d5c1e81d602f26e1bba188d"
+    },
+    {
+      "sha": "da0db305dd",
+      "message": "fix(java): decode scoped-connection responses larger than 16 KB (#6958)",
+      "date": "2026-09-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6958",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/da0db305ddd8ff5c62ae339f3e5a8ef4eab708aa"
+    },
     {
       "sha": "49f2b6d210",
       "message": "fix(go): prevent late FFI callbacks from using released channels (#6827)",

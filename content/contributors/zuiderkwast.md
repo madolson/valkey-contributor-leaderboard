@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1228,
+  "score": 1230,
   "commit_count": 153,
-  "review_count": 1075,
+  "review_count": 1077,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1253,6 +1253,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/3833",
       "commit_url": "https://github.com/valkey-io/valkey/commit/f2c1c5e9dece9ec51818327b31bbcb6a9499233f"
+    },
+    {
+      "sha": "7507a93a79",
+      "message": "Include module version in module load log message (#4566)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4566",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7507a93a793a80962180a70b3f612674201096f5"
+    },
+    {
+      "sha": "9ab664158a",
+      "message": "SET: add IFNE conditional option (#3105)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3105",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9ab664158a2da52bd2624676ea3f68124eba36e1"
     },
     {
       "sha": "e23ccb31db",

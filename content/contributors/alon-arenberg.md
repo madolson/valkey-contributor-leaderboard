@@ -2,14 +2,22 @@
   "title": "alon-arenberg",
   "login": "alon-arenberg",
   "avatar_url": "https://avatars.githubusercontent.com/u/93711356?v=4",
-  "score": 27,
-  "commit_count": 27,
+  "score": 28,
+  "commit_count": 28,
   "review_count": 0,
   "repos": [
     "valkey",
     "valkey-glide"
   ],
   "commit_list": [
+    {
+      "sha": "a1471664f1",
+      "message": "Add server-side hot key detection (#3708)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3708",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a1471664f1ea9be8d89c7078dbb065604180ffd7"
+    },
     {
       "sha": "cb9e7c94e9",
       "message": "Let script continue if busy-reply-threshold is zero (#3307)",

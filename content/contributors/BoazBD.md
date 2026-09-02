@@ -2,10 +2,11 @@
   "title": "BoazBD",
   "login": "BoazBD",
   "avatar_url": "https://avatars.githubusercontent.com/u/50696333?v=4",
-  "score": 38,
+  "score": 39,
   "commit_count": 17,
-  "review_count": 21,
+  "review_count": 22,
   "repos": [
+    "valkey",
     "valkey-glide"
   ],
   "commit_list": [
@@ -147,6 +148,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a9963f495d",
+      "message": "Bump fast-uri to 3.1.6 in reply-schema-linter to clear CVEs (#4571)",
+      "date": "2026-09-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4571",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a9963f495d51130871c31417ceb65af8c40365d0"
+    },
     {
       "sha": "b1924898e6",
       "message": "feat: Add clientInfoTag and libName to Java, Node, Go and Python clients (#6755)",
