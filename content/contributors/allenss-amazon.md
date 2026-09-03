@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 297,
-  "commit_count": 72,
-  "review_count": 225,
+  "score": 300,
+  "commit_count": 73,
+  "review_count": 227,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "7f04b7d6e9",
+      "message": "Implicitly load fields referenced by a pipeline stage (#919) (#1341)",
+      "date": "2026-09-03",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1341",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7f04b7d6e930529e50a967e3e72915bb316543c7"
+    },
     {
       "sha": "6a5644a239",
       "message": "Fix FT.AGGREGATE alias re-use corrupting record state (#1251) (#1273)",
@@ -591,6 +599,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e8f05bbd9f",
+      "message": "Fix HNSW load crash: remove incorrect max_level <= element_count check (#1349)",
+      "date": "2026-09-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1349",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e8f05bbd9f6bdb187071600374b7e7d36e38eb3c"
+    },
+    {
+      "sha": "3fe91fb615",
+      "message": "Handle ipv6 in coordinator (#759)",
+      "date": "2026-09-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/759",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/3fe91fb6157c1a5576825cbb6070df4b254eacb3"
+    },
     {
       "sha": "5662dc10c7",
       "message": "Changing HNSWLib to store raw vectors (#1232)",

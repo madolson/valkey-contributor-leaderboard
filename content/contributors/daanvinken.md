@@ -2,14 +2,22 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 35,
-  "commit_count": 19,
+  "score": 36,
+  "commit_count": 20,
   "review_count": 16,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "7c3b716ad6",
+      "message": "feat: discovery preferredEndpointType and headless serviceName (#378)",
+      "date": "2026-09-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/378",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/7c3b716ad67c4802a9625fe1e03b01df090db798"
+    },
     {
       "sha": "211e72fe51",
       "message": "docs(valkey-resources): add example values and bump to 0.1.3 (#232)",

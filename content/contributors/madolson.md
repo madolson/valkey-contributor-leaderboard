@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 918,
-  "commit_count": 206,
-  "review_count": 712,
+  "score": 920,
+  "commit_count": 207,
+  "review_count": 713,
   "repos": [
     ".github",
     "valkey",
@@ -21,6 +21,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "b9510c5950",
+      "message": "Unfurl blog posts with their own image, not the logo (#656)",
+      "date": "2026-09-02",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/656",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/b9510c59505217e17d11fe7cc0ef1ac7650e8301"
+    },
     {
       "sha": "279b07f9e6",
       "message": "Compare the certificate CN over its whole length (#4577)",
@@ -1671,6 +1679,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "075b7d5cb3",
+      "message": "Fix scripts_mem accounting for LRU script SHA copies (#4587)",
+      "date": "2026-09-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4587",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/075b7d5cb35d137d29469c4b530f5eccbba9ba1e"
+    },
     {
       "sha": "2c7811632c",
       "message": "Add CI guard and Makefile targets for module API reference docs (#479)",

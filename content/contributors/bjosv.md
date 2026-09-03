@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 246,
+  "score": 247,
   "commit_count": 123,
-  "review_count": 123,
+  "review_count": 124,
   "repos": [
     "libvalkey",
     "valkey",
@@ -999,6 +999,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7c3b716ad6",
+      "message": "feat: discovery preferredEndpointType and headless serviceName (#378)",
+      "date": "2026-09-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/378",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/7c3b716ad67c4802a9625fe1e03b01df090db798"
+    },
     {
       "sha": "9f541b24fe",
       "message": "fix: use workloadRevision for determining proactive failover (#402)",

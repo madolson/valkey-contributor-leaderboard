@@ -2,13 +2,21 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 111,
-  "commit_count": 69,
+  "score": 112,
+  "commit_count": 70,
   "review_count": 42,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "9400398f17",
+      "message": "Add authentication for metrics process register and ping (#504)",
+      "date": "2026-09-02",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/504",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/9400398f176b60dbfea8fccc605819ca68a02858"
+    },
     {
       "sha": "37538a2a88",
       "message": "Refactor config to harden update-config (#501)",

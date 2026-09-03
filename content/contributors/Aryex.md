@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 265,
-  "commit_count": 90,
+  "score": 266,
+  "commit_count": 91,
   "review_count": 175,
   "repos": [
     "spring-data-valkey",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "da1c6394e3",
+      "message": "fix(ruby): raise Valkey::InheritedError for clients used after fork() (#302)",
+      "date": "2026-09-02",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/302",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/da1c6394e3c1ef93c56d0de9d1f2e70a778c6294"
+    },
     {
       "sha": "2cab1f5217",
       "message": "Add Valkey GLIDE PHP and Ruby clients to recommended clients list (#650)",

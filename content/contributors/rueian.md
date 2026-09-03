@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 45,
+  "score": 46,
   "commit_count": 9,
-  "review_count": 36,
+  "review_count": 37,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "51d0e8ceda",
+      "message": "fix(cluster): close conns added to c.conns while _refresh is unlocked (#161)",
+      "date": "2026-09-02",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/161",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/51d0e8ceda26e22655dadd074606b4b057adae97"
+    },
     {
       "sha": "2cd21e3893",
       "message": "feat: add MSetEX helper (#156)",

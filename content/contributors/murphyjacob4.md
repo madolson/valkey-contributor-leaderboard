@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 138,
+  "score": 139,
   "commit_count": 46,
-  "review_count": 92,
+  "review_count": 93,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -382,6 +382,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ef1f4dbf39",
+      "message": "Update blog post: Analyzing Atomic Slot Migration ACL requirements (#657)",
+      "date": "2026-09-02",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/657",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/ef1f4dbf39aaec04f9605a37149c13d00454515b"
+    },
     {
       "sha": "f1addd8f39",
       "message": "Use BIO thread for cluster config saving in cluster-config-save-behavior best-effort mode (#2555)",

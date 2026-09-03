@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 414,
+  "score": 415,
   "commit_count": 152,
-  "review_count": 262,
+  "review_count": 263,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1238,6 +1238,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "075b7d5cb3",
+      "message": "Fix scripts_mem accounting for LRU script SHA copies (#4587)",
+      "date": "2026-09-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4587",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/075b7d5cb35d137d29469c4b530f5eccbba9ba1e"
+    },
     {
       "sha": "053bc8f149",
       "message": "Update versions.json and Dockerfiles for version 9.0.6 (#166)",

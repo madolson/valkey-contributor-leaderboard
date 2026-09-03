@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 786,
+  "score": 787,
   "commit_count": 45,
-  "review_count": 741,
+  "review_count": 742,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -376,6 +376,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "da1c6394e3",
+      "message": "fix(ruby): raise Valkey::InheritedError for clients used after fork() (#302)",
+      "date": "2026-09-02",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/302",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/da1c6394e3c1ef93c56d0de9d1f2e70a778c6294"
+    },
     {
       "sha": "5614711abe",
       "message": "chore(rust): Cargo.lock dashmap cleanup (#6914)",

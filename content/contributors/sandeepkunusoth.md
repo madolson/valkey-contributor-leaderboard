@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 58,
+  "score": 59,
   "commit_count": 24,
-  "review_count": 34,
+  "review_count": 35,
   "repos": [
     "valkey-operator"
   ],
@@ -203,6 +203,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d52b7823a4",
+      "message": "chore(deps): bump docker/login-action from 4.2.0 to 4.6.0 (#420)",
+      "date": "2026-09-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/420",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d52b7823a42b8e59e42182bc64f718a29780efb6"
+    },
+    {
+      "sha": "1de4709a43",
+      "message": "chore(deps): bump docker/setup-buildx-action from 4.1.0 to 4.3.0 (#418)",
+      "date": "2026-09-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/418",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/1de4709a437712e92a7e5f35bf2e1feae8c48a51"
+    },
+    {
+      "sha": "d729557e05",
+      "message": "chore(deps): bump docker/metadata-action from 6.1.0 to 6.2.0 (#419)",
+      "date": "2026-09-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/419",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d729557e05d88c71025517f7b5b1e50790011006"
+    },
+    {
+      "sha": "23db0aa751",
+      "message": "feat: add networking.tls.serverName for operator TLS verify (#409)",
+      "date": "2026-09-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/409",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/23db0aa7517238093108496757c6bce7b907fb12"
+    },
     {
       "sha": "9ceb75aaa9",
       "message": "doc: Fix wrong tech call meeting time in README (#412)",

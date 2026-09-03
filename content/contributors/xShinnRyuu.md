@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 443,
+  "score": 444,
   "commit_count": 129,
-  "review_count": 314,
+  "review_count": 315,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -1120,6 +1120,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6944",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b7f0cd099faa70ad2de3b6d3a7fc2c3ca3b13237"
+    },
+    {
+      "sha": "463b6db3f0",
+      "message": "chore(go): use proto.* helpers for optional protobuf assignments in config.go (#6858)",
+      "date": "2026-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6858",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/463b6db3f000e9a7144773b8fd7a166935e56896"
     },
     {
       "sha": "8c652936ed",

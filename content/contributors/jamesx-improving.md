@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 270,
+  "score": 273,
   "commit_count": 80,
-  "review_count": 190,
+  "review_count": 193,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -655,6 +655,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "463b6db3f0",
+      "message": "chore(go): use proto.* helpers for optional protobuf assignments in config.go (#6858)",
+      "date": "2026-09-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6858",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/463b6db3f000e9a7144773b8fd7a166935e56896"
+    },
+    {
+      "sha": "da1c6394e3",
+      "message": "fix(ruby): raise Valkey::InheritedError for clients used after fork() (#302)",
+      "date": "2026-09-02",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/302",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/da1c6394e3c1ef93c56d0de9d1f2e70a778c6294"
+    },
+    {
+      "sha": "da1c6394e3",
+      "message": "fix(ruby): raise Valkey::InheritedError for clients used after fork() (#302)",
+      "date": "2026-09-02",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/302",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/da1c6394e3c1ef93c56d0de9d1f2e70a778c6294"
+    },
     {
       "sha": "da0db305dd",
       "message": "fix(java): decode scoped-connection responses larger than 16 KB (#6958)",

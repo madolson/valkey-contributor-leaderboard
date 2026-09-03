@@ -2,8 +2,8 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 97,
-  "commit_count": 60,
+  "score": 98,
+  "commit_count": 61,
   "review_count": 37,
   "repos": [
     "valkey-ci-agent",
@@ -17,6 +17,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1323",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/2fe364f204ce64f976c5baa91a3ac8ed89b49def"
+    },
+    {
+      "sha": "5479c8139e",
+      "message": "Add a reviewer triage board (living issue dashboard) (#1347)",
+      "date": "2026-09-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1347",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5479c8139ea0c6f5a30c3628d8047189a5974f47"
     },
     {
       "sha": "66d1c822f0",

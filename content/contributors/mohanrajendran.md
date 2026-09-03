@@ -2,9 +2,9 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 6,
+  "score": 7,
   "commit_count": 1,
-  "review_count": 5,
+  "review_count": 6,
   "repos": [
     "valkey-search"
   ],
@@ -19,6 +19,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e8f05bbd9f",
+      "message": "Fix HNSW load crash: remove incorrect max_level <= element_count check (#1349)",
+      "date": "2026-09-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1349",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e8f05bbd9f6bdb187071600374b7e7d36e38eb3c"
+    },
     {
       "sha": "6a5644a239",
       "message": "Fix FT.AGGREGATE alias re-use corrupting record state (#1251) (#1273)",

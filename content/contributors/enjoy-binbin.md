@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 966,
-  "commit_count": 388,
+  "score": 967,
+  "commit_count": 389,
   "review_count": 578,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "075b7d5cb3",
+      "message": "Fix scripts_mem accounting for LRU script SHA copies (#4587)",
+      "date": "2026-09-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4587",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/075b7d5cb35d137d29469c4b530f5eccbba9ba1e"
+    },
     {
       "sha": "d19563211e",
       "message": "Fix ping_sent getting stuck when peer traffic keeps link alive (#4171)",

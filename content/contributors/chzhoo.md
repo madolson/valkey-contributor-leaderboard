@@ -2,13 +2,21 @@
   "title": "chzhoo",
   "login": "chzhoo",
   "avatar_url": "https://avatars.githubusercontent.com/u/198573582?v=4",
-  "score": 9,
-  "commit_count": 9,
+  "score": 10,
+  "commit_count": 10,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "5c11f8cb99",
+      "message": "Optimize HMGET, SMISMEMBER and ZMSCORE with batched hashtable lookup (#4017)",
+      "date": "2026-09-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4017",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5c11f8cb999bf5e8404413d00b3183824d3173ab"
+    },
     {
       "sha": "ee7f288057",
       "message": "Fix malformed AOF after a short read in MULTI (#4342)",

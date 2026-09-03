@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1230,
+  "score": 1231,
   "commit_count": 153,
-  "review_count": 1077,
+  "review_count": 1078,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1246,6 +1246,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5c11f8cb99",
+      "message": "Optimize HMGET, SMISMEMBER and ZMSCORE with batched hashtable lookup (#4017)",
+      "date": "2026-09-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4017",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5c11f8cb999bf5e8404413d00b3183824d3173ab"
+    },
     {
       "sha": "f2c1c5e9de",
       "message": "Speed up split-vote elections with the new FAILOVER_AUTH_NACK message (#3833)",

@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 101,
-  "commit_count": 39,
-  "review_count": 62,
+  "score": 103,
+  "commit_count": 40,
+  "review_count": 63,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "e8f05bbd9f",
+      "message": "Fix HNSW load crash: remove incorrect max_level <= element_count check (#1349)",
+      "date": "2026-09-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1349",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e8f05bbd9f6bdb187071600374b7e7d36e38eb3c"
+    },
     {
       "sha": "6c38847d29",
       "message": "Skip test_load_rdb_with_duplicate_label under ASAN",
@@ -341,6 +349,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1323",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/2fe364f204ce64f976c5baa91a3ac8ed89b49def"
+    },
+    {
+      "sha": "5479c8139e",
+      "message": "Add a reviewer triage board (living issue dashboard) (#1347)",
+      "date": "2026-09-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1347",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5479c8139ea0c6f5a30c3628d8047189a5974f47"
     },
     {
       "sha": "293b0f27a2",

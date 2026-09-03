@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 142,
+  "score": 144,
   "commit_count": 18,
-  "review_count": 124,
+  "review_count": 126,
   "repos": [
     "valkey",
     "valkey-container",
@@ -159,6 +159,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b9510c5950",
+      "message": "Unfurl blog posts with their own image, not the logo (#656)",
+      "date": "2026-09-02",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/656",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/b9510c59505217e17d11fe7cc0ef1ac7650e8301"
+    },
+    {
+      "sha": "ef1f4dbf39",
+      "message": "Update blog post: Analyzing Atomic Slot Migration ACL requirements (#657)",
+      "date": "2026-09-02",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/657",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/ef1f4dbf39aaec04f9605a37149c13d00454515b"
+    },
     {
       "sha": "560d347b07",
       "message": "Add Rain as a blog contributor (#644)",
