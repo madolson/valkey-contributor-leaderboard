@@ -2,13 +2,21 @@
   "title": "harrylin98",
   "login": "harrylin98",
   "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
-  "score": 14,
-  "commit_count": 13,
+  "score": 15,
+  "commit_count": 14,
   "review_count": 1,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "351eb0c361",
+      "message": "Tear down repl throttler when the last replica disconnects (#4595)",
+      "date": "2026-09-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4595",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/351eb0c361023128bc8514dc5dc1be354f6f8a41"
+    },
     {
       "sha": "0413e37ae4",
       "message": "Deflake throttle-repl test due to timeout disconnect (#4591)",

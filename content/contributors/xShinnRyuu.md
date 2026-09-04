@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 444,
+  "score": 446,
   "commit_count": 129,
-  "review_count": 315,
+  "review_count": 317,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -1049,6 +1049,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "427208e36e",
+      "message": "Bump valkey-glide to 2.5.2 (#106)",
+      "date": "2026-09-03",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/106",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/427208e36e8874173a376639c49a3e3017f716ea"
+    },
+    {
+      "sha": "953b626972",
+      "message": "CI: pin valkey-bundle to 9.1.3 and fix arrinsert modules tests for ValkeyJSON 1.0.3 (#6991)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6991",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/953b62697259bec5053dc655e3987790a973d09e"
+    },
+    {
+      "sha": "7dce47242e",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 2 updates (#6957)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6957",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7dce47242e15c85466ad79698e75c5d4dbff0bd1"
+    },
     {
       "sha": "80ae4fedd9",
       "message": "test(node): move protobuf encode/decode tests to internals #3947 (#6970)",

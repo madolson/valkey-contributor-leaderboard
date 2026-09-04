@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 266,
-  "commit_count": 91,
-  "review_count": 175,
+  "score": 268,
+  "commit_count": 92,
+  "review_count": 176,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "770437d733",
+      "message": "feat(pubsub): introduce PubSub handler (#304)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/304",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/770437d7333dad81a3105f34c72ffb41a85d0311"
+    },
     {
       "sha": "da1c6394e3",
       "message": "fix(ruby): raise Valkey::InheritedError for clients used after fork() (#302)",
@@ -746,6 +754,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "eaf511e76c",
+      "message": "refactor(lint): run Roslynator analyzers and fixes during format and lint (#556)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/556",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/eaf511e76ced417a9b39c02383b3283977d76d8d"
+    },
+    {
+      "sha": "0e49e96d41",
+      "message": "chore(deps): Bump dtolnay/rust-toolchain (#303)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/303",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/0e49e96d41e76c38d29f6c9589800576cb61a8d6"
+    },
     {
       "sha": "80ae4fedd9",
       "message": "test(node): move protobuf encode/decode tests to internals #3947 (#6970)",

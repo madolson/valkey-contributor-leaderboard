@@ -2,10 +2,11 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 787,
+  "score": 791,
   "commit_count": 45,
-  "review_count": 742,
+  "review_count": 746,
   "repos": [
+    "spring-data-valkey",
     "valkey-doc",
     "valkey-glide",
     "valkey-glide-csharp",
@@ -376,6 +377,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "427208e36e",
+      "message": "Bump valkey-glide to 2.5.2 (#106)",
+      "date": "2026-09-03",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/106",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/427208e36e8874173a376639c49a3e3017f716ea"
+    },
+    {
+      "sha": "953b626972",
+      "message": "CI: pin valkey-bundle to 9.1.3 and fix arrinsert modules tests for ValkeyJSON 1.0.3 (#6991)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6991",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/953b62697259bec5053dc655e3987790a973d09e"
+    },
+    {
+      "sha": "00e90fe3bc",
+      "message": "docs(client_info_tag): Add docs for client_info_tag (#321)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/321",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/00e90fe3bc0f49f8fa263e128ca4914a325b5abe"
+    },
+    {
+      "sha": "3ff850f313",
+      "message": "docs: fix IAM refresh behavior and add manual refresh section (#325)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/325",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/3ff850f313c449129de9ff9ece624bc9cd7d4113"
+    },
     {
       "sha": "da1c6394e3",
       "message": "fix(ruby): raise Valkey::InheritedError for clients used after fork() (#302)",

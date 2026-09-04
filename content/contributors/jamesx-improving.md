@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 273,
-  "commit_count": 80,
-  "review_count": 193,
+  "score": 277,
+  "commit_count": 81,
+  "review_count": 196,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "953b626972",
+      "message": "CI: pin valkey-bundle to 9.1.3 and fix arrinsert modules tests for ValkeyJSON 1.0.3 (#6991)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6991",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/953b62697259bec5053dc655e3987790a973d09e"
+    },
     {
       "sha": "44f3fef07e",
       "message": "fix(ruby): return stream entry fields as Hash to match redis-rb (#245)",
@@ -655,6 +663,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ee59d05093",
+      "message": "fix(core): mark PSUBSCRIBE and PUNSUBSCRIBE as read only command (#6756)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6756",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ee59d050938902920c7666b8ee65ea3a1f4060f0"
+    },
+    {
+      "sha": "770437d733",
+      "message": "feat(pubsub): introduce PubSub handler (#304)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/304",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/770437d7333dad81a3105f34c72ffb41a85d0311"
+    },
+    {
+      "sha": "770437d733",
+      "message": "feat(pubsub): introduce PubSub handler (#304)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/304",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/770437d7333dad81a3105f34c72ffb41a85d0311"
+    },
     {
       "sha": "463b6db3f0",
       "message": "chore(go): use proto.* helpers for optional protobuf assignments in config.go (#6858)",

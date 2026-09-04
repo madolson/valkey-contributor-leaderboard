@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 967,
-  "commit_count": 389,
-  "review_count": 578,
+  "score": 969,
+  "commit_count": 390,
+  "review_count": 579,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "bb741667dd",
+      "message": "Reject non-migration clients for CLUSTER SYNCSLOTS FINISH (#4330)",
+      "date": "2026-09-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4330",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bb741667dd94ed98725883c00841ad98379f37cb"
+    },
     {
       "sha": "075b7d5cb3",
       "message": "Fix scripts_mem accounting for LRU script SHA copies (#4587)",
@@ -3128,6 +3136,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1dbf1938b4",
+      "message": "Only scan this test's own AOF writes for the LIMIT token (#4601)",
+      "date": "2026-09-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4601",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1dbf1938b4d42a0dd6e613dc1863ed952ac80dc2"
+    },
     {
       "sha": "0413e37ae4",
       "message": "Deflake throttle-repl test due to timeout disconnect (#4591)",

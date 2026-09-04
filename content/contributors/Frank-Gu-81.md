@@ -2,13 +2,21 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 10,
-  "commit_count": 6,
+  "score": 11,
+  "commit_count": 7,
   "review_count": 4,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "bc55ab18cf",
+      "message": "fix breaking changes introduced in #1008 (#1352)",
+      "date": "2026-09-03",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1352",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/bc55ab18cf430e030edce211ae7c0055e7b85ff1"
+    },
     {
       "sha": "2dc8e1f6a2",
       "message": "Add SCORE_FIELD support and SCORE range validation to FT.CREATE (#1008)",

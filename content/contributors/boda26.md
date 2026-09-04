@@ -2,9 +2,9 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 71,
+  "score": 72,
   "commit_count": 43,
-  "review_count": 28,
+  "review_count": 29,
   "repos": [
     "valkey-search"
   ],
@@ -362,6 +362,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1341",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/7f04b7d6e930529e50a967e3e72915bb316543c7"
+    },
+    {
+      "sha": "7296a5a1b7",
+      "message": "feat: add Random Sample reducer to FT.Aggregate groupby stage (#949)",
+      "date": "2026-09-03",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/949",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7296a5a1b7047b01c67cbc28b96c4d2cd4ff0137"
     },
     {
       "sha": "ac4ced1389",

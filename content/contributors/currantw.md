@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 305,
-  "commit_count": 175,
+  "score": 306,
+  "commit_count": 176,
   "review_count": 130,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "eaf511e76c",
+      "message": "refactor(lint): run Roslynator analyzers and fixes during format and lint (#556)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/556",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/eaf511e76ced417a9b39c02383b3283977d76d8d"
+    },
     {
       "sha": "8c652936ed",
       "message": "ci(rust): add `lint` job for Rust client and drop `rustfmt.toml` (#6972)",
@@ -1417,6 +1425,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7dce47242e",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 2 updates (#6957)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6957",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7dce47242e15c85466ad79698e75c5d4dbff0bd1"
+    },
     {
       "sha": "5e3107f684",
       "message": "build(deps-dev): bump browserslist from 4.28.2 to 4.28.8 in /node (#6974)",

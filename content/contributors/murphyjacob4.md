@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 139,
+  "score": 142,
   "commit_count": 46,
-  "review_count": 93,
+  "review_count": 96,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -382,6 +382,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bb741667dd",
+      "message": "Reject non-migration clients for CLUSTER SYNCSLOTS FINISH (#4330)",
+      "date": "2026-09-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4330",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bb741667dd94ed98725883c00841ad98379f37cb"
+    },
+    {
+      "sha": "1dbf1938b4",
+      "message": "Only scan this test's own AOF writes for the LIMIT token (#4601)",
+      "date": "2026-09-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4601",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1dbf1938b4d42a0dd6e613dc1863ed952ac80dc2"
+    },
+    {
+      "sha": "acba5ddd06",
+      "message": "Forkless Save (#4460)",
+      "date": "2026-09-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4460",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/acba5ddd06912cd83edd4e9c6c341fe275365c32"
+    },
     {
       "sha": "ef1f4dbf39",
       "message": "Update blog post: Analyzing Atomic Slot Migration ACL requirements (#657)",

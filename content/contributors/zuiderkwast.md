@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1231,
+  "score": 1232,
   "commit_count": 153,
-  "review_count": 1078,
+  "review_count": 1079,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1246,6 +1246,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bb741667dd",
+      "message": "Reject non-migration clients for CLUSTER SYNCSLOTS FINISH (#4330)",
+      "date": "2026-09-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4330",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bb741667dd94ed98725883c00841ad98379f37cb"
+    },
     {
       "sha": "5c11f8cb99",
       "message": "Optimize HMGET, SMISMEMBER and ZMSCORE with batched hashtable lookup (#4017)",

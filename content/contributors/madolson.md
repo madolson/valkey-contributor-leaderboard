@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 920,
-  "commit_count": 207,
-  "review_count": 713,
+  "score": 922,
+  "commit_count": 208,
+  "review_count": 714,
   "repos": [
     ".github",
     "valkey",
@@ -21,6 +21,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "1dbf1938b4",
+      "message": "Only scan this test's own AOF writes for the LIMIT token (#4601)",
+      "date": "2026-09-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4601",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1dbf1938b4d42a0dd6e613dc1863ed952ac80dc2"
+    },
     {
       "sha": "b9510c5950",
       "message": "Unfurl blog posts with their own image, not the logo (#656)",
@@ -1686,6 +1694,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4587",
       "commit_url": "https://github.com/valkey-io/valkey/commit/075b7d5cb35d137d29469c4b530f5eccbba9ba1e"
+    },
+    {
+      "sha": "0a631f046c",
+      "message": "revert typo config change (#4603)",
+      "date": "2026-09-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4603",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0a631f046c228d9b4cbd9d8cf44cb68ee7e8bafc"
     },
     {
       "sha": "2c7811632c",

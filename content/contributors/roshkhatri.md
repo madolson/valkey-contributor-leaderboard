@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 415,
+  "score": 416,
   "commit_count": 152,
-  "review_count": 263,
+  "review_count": 264,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1245,6 +1245,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4587",
       "commit_url": "https://github.com/valkey-io/valkey/commit/075b7d5cb35d137d29469c4b530f5eccbba9ba1e"
+    },
+    {
+      "sha": "baeeb58750",
+      "message": "add tini as PID 1 (#149) (#162)",
+      "date": "2026-09-03",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/162",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/baeeb587505911a01921affa12bc44fc8cc97310"
     },
     {
       "sha": "053bc8f149",

@@ -2,14 +2,30 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 60,
-  "commit_count": 20,
-  "review_count": 40,
+  "score": 63,
+  "commit_count": 22,
+  "review_count": 41,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "0a631f046c",
+      "message": "revert typo config change (#4603)",
+      "date": "2026-09-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4603",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0a631f046c228d9b4cbd9d8cf44cb68ee7e8bafc"
+    },
+    {
+      "sha": "acba5ddd06",
+      "message": "Forkless Save (#4460)",
+      "date": "2026-09-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4460",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/acba5ddd06912cd83edd4e9c6c341fe275365c32"
+    },
     {
       "sha": "09bd347803",
       "message": "Refactor internal AE polling API to not pass aeEventLoop to backends (#4492)",
@@ -172,6 +188,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "351eb0c361",
+      "message": "Tear down repl throttler when the last replica disconnects (#4595)",
+      "date": "2026-09-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4595",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/351eb0c361023128bc8514dc5dc1be354f6f8a41"
+    },
     {
       "sha": "0413e37ae4",
       "message": "Deflake throttle-repl test due to timeout disconnect (#4591)",

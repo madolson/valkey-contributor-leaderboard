@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 270,
-  "commit_count": 94,
-  "review_count": 176,
+  "score": 273,
+  "commit_count": 95,
+  "review_count": 178,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "3ff850f313",
+      "message": "docs: fix IAM refresh behavior and add manual refresh section (#325)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/325",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/3ff850f313c449129de9ff9ece624bc9cd7d4113"
+    },
     {
       "sha": "39bbceaa4b",
       "message": "cherry-pick: fix(core) buffer pending requests for all recovery paths (#6770)",
@@ -767,6 +775,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ee59d05093",
+      "message": "fix(core): mark PSUBSCRIBE and PUNSUBSCRIBE as read only command (#6756)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6756",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ee59d050938902920c7666b8ee65ea3a1f4060f0"
+    },
+    {
+      "sha": "770437d733",
+      "message": "feat(pubsub): introduce PubSub handler (#304)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/304",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/770437d7333dad81a3105f34c72ffb41a85d0311"
+    },
     {
       "sha": "89426bccf9",
       "message": "feat(rust): import the glide-rust client as a new rust/ crate (#6864)",

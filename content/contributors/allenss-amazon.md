@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 300,
+  "score": 302,
   "commit_count": 73,
-  "review_count": 227,
+  "review_count": 229,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -599,6 +599,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bc55ab18cf",
+      "message": "fix breaking changes introduced in #1008 (#1352)",
+      "date": "2026-09-03",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1352",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/bc55ab18cf430e030edce211ae7c0055e7b85ff1"
+    },
+    {
+      "sha": "7296a5a1b7",
+      "message": "feat: add Random Sample reducer to FT.Aggregate groupby stage (#949)",
+      "date": "2026-09-03",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/949",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7296a5a1b7047b01c67cbc28b96c4d2cd4ff0137"
+    },
     {
       "sha": "e8f05bbd9f",
       "message": "Fix HNSW load crash: remove incorrect max_level <= element_count check (#1349)",

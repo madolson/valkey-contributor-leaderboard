@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 19,
-  "commit_count": 4,
-  "review_count": 15,
+  "score": 21,
+  "commit_count": 5,
+  "review_count": 16,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "00e90fe3bc",
+      "message": "docs(client_info_tag): Add docs for client_info_tag (#321)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/321",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/00e90fe3bc0f49f8fa263e128ca4914a325b5abe"
+    },
     {
       "sha": "a1f026c29c",
       "message": "docs(node): Improve basic client examples (#6933)",
@@ -47,6 +55,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "eaf511e76c",
+      "message": "refactor(lint): run Roslynator analyzers and fixes during format and lint (#556)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/556",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/eaf511e76ced417a9b39c02383b3283977d76d8d"
+    },
     {
       "sha": "4ab2ed0c24",
       "message": "refactor(lint): enable Roslynator analyzers (#550)",

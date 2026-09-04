@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 217,
-  "commit_count": 60,
-  "review_count": 157,
+  "score": 220,
+  "commit_count": 61,
+  "review_count": 159,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "427208e36e",
+      "message": "Bump valkey-glide to 2.5.2 (#106)",
+      "date": "2026-09-03",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/106",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/427208e36e8874173a376639c49a3e3017f716ea"
+    },
     {
       "sha": "d4df273ba0",
       "message": "fix(go): allow ScopedConnection on pool-borrowed Client (#6814)",
@@ -495,6 +503,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7dce47242e",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 2 updates (#6957)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6957",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7dce47242e15c85466ad79698e75c5d4dbff0bd1"
+    },
+    {
+      "sha": "00e90fe3bc",
+      "message": "docs(client_info_tag): Add docs for client_info_tag (#321)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/321",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/00e90fe3bc0f49f8fa263e128ca4914a325b5abe"
+    },
+    {
+      "sha": "3ff850f313",
+      "message": "docs: fix IAM refresh behavior and add manual refresh section (#325)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/325",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/3ff850f313c449129de9ff9ece624bc9cd7d4113"
+    },
+    {
+      "sha": "0e49e96d41",
+      "message": "chore(deps): Bump dtolnay/rust-toolchain (#303)",
+      "date": "2026-09-03",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/303",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/0e49e96d41e76c38d29f6c9589800576cb61a8d6"
+    },
     {
       "sha": "8c652936ed",
       "message": "ci(rust): add `lint` job for Rust client and drop `rustfmt.toml` (#6972)",
