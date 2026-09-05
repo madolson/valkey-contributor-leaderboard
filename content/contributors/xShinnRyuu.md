@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 446,
+  "score": 447,
   "commit_count": 129,
-  "review_count": 317,
+  "review_count": 318,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -1049,6 +1049,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "72554acf55",
+      "message": "feat(core): add MGET client-side caching (#6807)",
+      "date": "2026-09-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6807",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/72554acf5517812eff8a03881e90e06406789611"
+    },
     {
       "sha": "427208e36e",
       "message": "Bump valkey-glide to 2.5.2 (#106)",

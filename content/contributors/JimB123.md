@@ -2,14 +2,30 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 63,
-  "commit_count": 22,
+  "score": 65,
+  "commit_count": 24,
   "review_count": 41,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "85d02f6388",
+      "message": "Fix duplicate reply on FLUSHDB/FLUSHALL with invalid args in forkless (#4610)",
+      "date": "2026-09-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4610",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/85d02f6388805948a638c8f3375db63a9800b8d9"
+    },
+    {
+      "sha": "da9d58f1b4",
+      "message": "improper int to bit-flag conversion (#4609)",
+      "date": "2026-09-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4609",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/da9d58f1b42fa19ae50931545806b7d2e6cb5feb"
+    },
     {
       "sha": "0a631f046c",
       "message": "revert typo config change (#4603)",

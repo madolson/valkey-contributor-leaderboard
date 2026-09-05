@@ -179068,6 +179068,187 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/949"
+    },
+    {
+      "sha": "b16fec8ef302a44b4a40c03c1da0666c00c9d99e",
+      "author_login": "jfg956",
+      "author_id": 8471576,
+      "avatar_url": "https://avatars.githubusercontent.com/u/8471576?v=4",
+      "message": " Migration to Planet Valkey. (#24)",
+      "date": "2026-09-04T20:19:35Z",
+      "repo": "planet",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b3cf06df0d1766dba557afcc2815061078ea6c6d",
+      "author_login": "jfg956",
+      "author_id": 8471576,
+      "avatar_url": "https://avatars.githubusercontent.com/u/8471576?v=4",
+      "message": "Update website with migration details.",
+      "date": "2026-09-04T14:47:48Z",
+      "repo": "planet",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "85d02f6388805948a638c8f3375db63a9800b8d9",
+      "author_login": "JimB123",
+      "author_id": 7267136,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
+      "message": "Fix duplicate reply on FLUSHDB/FLUSHALL with invalid args in forkless (#4610)",
+      "date": "2026-09-05T03:39:06Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-09-05T03:38:57Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4610"
+    },
+    {
+      "sha": "da9d58f1b42fa19ae50931545806b7d2e6cb5feb",
+      "author_login": "JimB123",
+      "author_id": 7267136,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
+      "message": "improper int to bit-flag conversion (#4609)",
+      "date": "2026-09-04T21:45:02Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-09-04T21:36:48Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4609"
+    },
+    {
+      "sha": "72554acf5517812eff8a03881e90e06406789611",
+      "author_login": "ajzach",
+      "author_id": 2071648,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2071648?v=4",
+      "message": "feat(core): add MGET client-side caching (#6807)",
+      "date": "2026-09-04T20:39:17Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-08-28T20:40:27Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-09-03T00:13:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6807"
+    },
+    {
+      "sha": "0651802d51ed38345b23292bfc1f9f2c16ffb62b",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "feat(rust): use redis Expiry/SetExpiry for HGETEX/HSETEX (#6977)",
+      "date": "2026-09-04T19:33:31Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-09-03T18:31:30Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-09-04T19:30:12Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6977"
+    },
+    {
+      "sha": "8a50c1827340ecdd95747ced4cea6a2132cbc4da",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "feat: Add client_info_tag and lib_name config options (#246)",
+      "date": "2026-09-04T21:42:11Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "nderraugh",
+          "date": "2026-09-02T13:03:28Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-09-04T18:04:05Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/246"
+    },
+    {
+      "sha": "ac8c035ca74e111005d9f860cddbe32ab55f63d0",
+      "author_login": "NotAFlightRisk",
+      "author_id": 23277273,
+      "avatar_url": "https://avatars.githubusercontent.com/u/23277273?v=4",
+      "message": "fix: parse AsIntMap values as base 10 (#1026)",
+      "date": "2026-09-05T04:55:02Z",
+      "repo": "valkey-go",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d8fef4a59e2cc69632538d31f2b63447d06df28c",
+      "author_login": "sandeepkunusoth",
+      "author_id": 31273507,
+      "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
+      "message": "(feat) version gating initial support  (#307)",
+      "date": "2026-09-04T09:05:12Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "melancholictheory",
+          "date": "2026-09-02T17:35:32Z"
+        },
+        {
+          "login": "bjosv",
+          "date": "2026-09-04T09:04:57Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/307"
+    },
+    {
+      "sha": "6e38de5d79b9d7c4f8bfcc0290b24a7aae7635f4",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Allow indexing the same field as both TEXT and TAG (#1195) (#1196)",
+      "date": "2026-09-05T05:27:50Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "BCathcart",
+          "date": "2026-09-01T04:27:04Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1196"
+    },
+    {
+      "sha": "0190919f15741d6f935f9ffe655b79aec219ddb5",
+      "author_login": "baswanth09",
+      "author_id": 122412818,
+      "avatar_url": "https://avatars.githubusercontent.com/u/122412818?v=4",
+      "message": "Fix ThreadPool suspend/resume race with concurrent Resize (#1331)",
+      "date": "2026-09-04T22:16:10Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "mohanrajendran",
+          "date": "2026-09-04T20:25:47Z"
+        },
+        {
+          "login": "allenss-amazon",
+          "date": "2026-09-04T22:16:03Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1331"
     }
   ]
 }

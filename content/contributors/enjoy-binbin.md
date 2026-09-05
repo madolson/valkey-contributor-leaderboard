@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 969,
+  "score": 970,
   "commit_count": 390,
-  "review_count": 579,
+  "review_count": 580,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3136,6 +3136,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "85d02f6388",
+      "message": "Fix duplicate reply on FLUSHDB/FLUSHALL with invalid args in forkless (#4610)",
+      "date": "2026-09-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4610",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/85d02f6388805948a638c8f3375db63a9800b8d9"
+    },
     {
       "sha": "1dbf1938b4",
       "message": "Only scan this test's own AOF writes for the LIMIT token (#4601)",

@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 247,
+  "score": 248,
   "commit_count": 123,
-  "review_count": 124,
+  "review_count": 125,
   "repos": [
     "libvalkey",
     "valkey",
@@ -999,6 +999,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d8fef4a59e",
+      "message": "(feat) version gating initial support  (#307)",
+      "date": "2026-09-04",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/307",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d8fef4a59e2cc69632538d31f2b63447d06df28c"
+    },
     {
       "sha": "7c3b716ad6",
       "message": "feat: discovery preferredEndpointType and headless serviceName (#378)",

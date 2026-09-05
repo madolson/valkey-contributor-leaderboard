@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 302,
-  "commit_count": 73,
-  "review_count": 229,
+  "score": 304,
+  "commit_count": 74,
+  "review_count": 230,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "6e38de5d79",
+      "message": "Allow indexing the same field as both TEXT and TAG (#1195) (#1196)",
+      "date": "2026-09-05",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1196",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6e38de5d79b9d7c4f8bfcc0290b24a7aae7635f4"
+    },
     {
       "sha": "7f04b7d6e9",
       "message": "Implicitly load fields referenced by a pipeline stage (#919) (#1341)",
@@ -599,6 +607,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0190919f15",
+      "message": "Fix ThreadPool suspend/resume race with concurrent Resize (#1331)",
+      "date": "2026-09-04",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1331",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0190919f15741d6f935f9ffe655b79aec219ddb5"
+    },
     {
       "sha": "bc55ab18cf",
       "message": "fix breaking changes introduced in #1008 (#1352)",

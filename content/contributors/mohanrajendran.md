@@ -2,9 +2,9 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 7,
+  "score": 8,
   "commit_count": 1,
-  "review_count": 6,
+  "review_count": 7,
   "repos": [
     "valkey-search"
   ],
@@ -19,6 +19,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0190919f15",
+      "message": "Fix ThreadPool suspend/resume race with concurrent Resize (#1331)",
+      "date": "2026-09-04",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1331",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0190919f15741d6f935f9ffe655b79aec219ddb5"
+    },
     {
       "sha": "e8f05bbd9f",
       "message": "Fix HNSW load crash: remove incorrect max_level <= element_count check (#1349)",

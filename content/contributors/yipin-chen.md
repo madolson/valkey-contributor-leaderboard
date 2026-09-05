@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 791,
+  "score": 792,
   "commit_count": 45,
-  "review_count": 746,
+  "review_count": 747,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0651802d51",
+      "message": "feat(rust): use redis Expiry/SetExpiry for HGETEX/HSETEX (#6977)",
+      "date": "2026-09-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6977",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0651802d51ed38345b23292bfc1f9f2c16ffb62b"
+    },
     {
       "sha": "427208e36e",
       "message": "Bump valkey-glide to 2.5.2 (#106)",

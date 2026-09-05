@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 306,
-  "commit_count": 176,
+  "score": 307,
+  "commit_count": 177,
   "review_count": 130,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "0651802d51",
+      "message": "feat(rust): use redis Expiry/SetExpiry for HGETEX/HSETEX (#6977)",
+      "date": "2026-09-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6977",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0651802d51ed38345b23292bfc1f9f2c16ffb62b"
+    },
     {
       "sha": "eaf511e76c",
       "message": "refactor(lint): run Roslynator analyzers and fixes during format and lint (#556)",

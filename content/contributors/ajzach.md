@@ -2,13 +2,21 @@
   "title": "ajzach",
   "login": "ajzach",
   "avatar_url": "https://avatars.githubusercontent.com/u/2071648?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-glide"
   ],
   "commit_list": [
+    {
+      "sha": "72554acf55",
+      "message": "feat(core): add MGET client-side caching (#6807)",
+      "date": "2026-09-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6807",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/72554acf5517812eff8a03881e90e06406789611"
+    },
     {
       "sha": "49f2b6d210",
       "message": "fix(go): prevent late FFI callbacks from using released channels (#6827)",

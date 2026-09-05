@@ -2,14 +2,22 @@
   "title": "baswanth09",
   "login": "baswanth09",
   "avatar_url": "https://avatars.githubusercontent.com/u/122412818?v=4",
-  "score": 13,
-  "commit_count": 13,
+  "score": 14,
+  "commit_count": 14,
   "review_count": 0,
   "repos": [
     "valkey",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "0190919f15",
+      "message": "Fix ThreadPool suspend/resume race with concurrent Resize (#1331)",
+      "date": "2026-09-04",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1331",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0190919f15741d6f935f9ffe655b79aec219ddb5"
+    },
     {
       "sha": "bb1f1c7231",
       "message": "Fix replica reporting incorrect search_number_of_indexes after full sync (#1265)",

@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 922,
+  "score": 923,
   "commit_count": 208,
-  "review_count": 714,
+  "review_count": 715,
   "repos": [
     ".github",
     "valkey",
@@ -1687,6 +1687,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "da9d58f1b4",
+      "message": "improper int to bit-flag conversion (#4609)",
+      "date": "2026-09-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4609",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/da9d58f1b42fa19ae50931545806b7d2e6cb5feb"
+    },
     {
       "sha": "075b7d5cb3",
       "message": "Fix scripts_mem accounting for LRU script SHA copies (#4587)",

@@ -2,9 +2,9 @@
   "title": "melancholictheory",
   "login": "melancholictheory",
   "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
-  "score": 10,
+  "score": 11,
   "commit_count": 10,
-  "review_count": 0,
+  "review_count": 1,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -92,5 +92,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/4cfb2d60e66adfff2a6ad95f3fbe4bf3ce8dcda4"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "d8fef4a59e",
+      "message": "(feat) version gating initial support  (#307)",
+      "date": "2026-09-04",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/307",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d8fef4a59e2cc69632538d31f2b63447d06df28c"
+    }
+  ]
 }

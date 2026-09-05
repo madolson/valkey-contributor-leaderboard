@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 21,
+  "score": 22,
   "commit_count": 5,
-  "review_count": 16,
+  "review_count": 17,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -55,6 +55,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8a50c18273",
+      "message": "feat: Add client_info_tag and lib_name config options (#246)",
+      "date": "2026-09-04",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/246",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/8a50c1827340ecdd95747ced4cea6a2132cbc4da"
+    },
     {
       "sha": "eaf511e76c",
       "message": "refactor(lint): run Roslynator analyzers and fixes during format and lint (#556)",

@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 103,
+  "score": 104,
   "commit_count": 40,
-  "review_count": 63,
+  "review_count": 64,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -334,6 +334,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6e38de5d79",
+      "message": "Allow indexing the same field as both TEXT and TAG (#1195) (#1196)",
+      "date": "2026-09-05",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1196",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6e38de5d79b9d7c4f8bfcc0290b24a7aae7635f4"
+    },
     {
       "sha": "b747be6591",
       "message": "Fix aarch64 RDB compatibility integration tests (#1343)",

@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 268,
+  "score": 269,
   "commit_count": 92,
-  "review_count": 176,
+  "review_count": 177,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -754,6 +754,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8a50c18273",
+      "message": "feat: Add client_info_tag and lib_name config options (#246)",
+      "date": "2026-09-04",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/246",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/8a50c1827340ecdd95747ced4cea6a2132cbc4da"
+    },
     {
       "sha": "eaf511e76c",
       "message": "refactor(lint): run Roslynator analyzers and fixes during format and lint (#556)",

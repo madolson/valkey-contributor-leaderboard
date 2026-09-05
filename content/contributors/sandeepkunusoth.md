@@ -2,13 +2,21 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 59,
-  "commit_count": 24,
+  "score": 60,
+  "commit_count": 25,
   "review_count": 35,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "d8fef4a59e",
+      "message": "(feat) version gating initial support  (#307)",
+      "date": "2026-09-04",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/307",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d8fef4a59e2cc69632538d31f2b63447d06df28c"
+    },
     {
       "sha": "0ca75638ae",
       "message": "chore: update default metrics exporter version v1.88.0 (#361)",

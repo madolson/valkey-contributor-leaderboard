@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 273,
+  "score": 275,
   "commit_count": 95,
-  "review_count": 178,
+  "review_count": 180,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -775,6 +775,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "72554acf55",
+      "message": "feat(core): add MGET client-side caching (#6807)",
+      "date": "2026-09-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6807",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/72554acf5517812eff8a03881e90e06406789611"
+    },
+    {
+      "sha": "0651802d51",
+      "message": "feat(rust): use redis Expiry/SetExpiry for HGETEX/HSETEX (#6977)",
+      "date": "2026-09-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6977",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0651802d51ed38345b23292bfc1f9f2c16ffb62b"
+    },
     {
       "sha": "ee59d05093",
       "message": "fix(core): mark PSUBSCRIBE and PUNSUBSCRIBE as read only command (#6756)",
