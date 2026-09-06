@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 46,
+  "score": 47,
   "commit_count": 9,
-  "review_count": 37,
+  "review_count": 38,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "32e48cc2ad",
+      "message": "Add InfoMap compatibility in Valkey-go (#163)",
+      "date": "2026-09-06",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/163",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/32e48cc2adcbdba7209798208176ba3f44460bfd"
+    },
     {
       "sha": "51d0e8ceda",
       "message": "fix(cluster): close conns added to c.conns while _refresh is unlocked (#161)",

@@ -179249,6 +179249,22 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1331"
+    },
+    {
+      "sha": "32e48cc2adcbdba7209798208176ba3f44460bfd",
+      "author_login": "kumariam-ai",
+      "author_id": 321359226,
+      "avatar_url": "https://avatars.githubusercontent.com/u/321359226?v=4",
+      "message": "Add InfoMap compatibility in Valkey-go (#163)",
+      "date": "2026-09-06T05:52:41Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-09-06T05:52:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/163"
     }
   ]
 }
