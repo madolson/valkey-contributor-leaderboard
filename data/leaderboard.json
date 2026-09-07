@@ -3586,7 +3586,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
       "name": "Allen Samuels",
       "company": "Amazon Web Services",
-      "commits": 74,
+      "commits": 75,
       "reviews": 230,
       "per_repo": {
         "valkey": {
@@ -3695,12 +3695,12 @@
             4
           ],
           "2026-09": [
-            2,
+            3,
             3
           ]
         }
       },
-      "score": 304,
+      "score": 305,
       "repos": [
         "valkey",
         "valkey-doc",
@@ -13944,6 +13944,47 @@
       ]
     },
     {
+      "login": "Frank-Gu-81",
+      "id": 93494304,
+      "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
+      "name": "Shaopeng Gu",
+      "company": "",
+      "commits": 7,
+      "reviews": 5,
+      "per_repo": {
+        "valkey-search": {
+          "2026-03": [
+            2,
+            0
+          ],
+          "2026-04": [
+            3,
+            0
+          ],
+          "2026-05": [
+            1,
+            0
+          ],
+          "2026-07": [
+            0,
+            1
+          ],
+          "2026-08": [
+            0,
+            2
+          ],
+          "2026-09": [
+            1,
+            2
+          ]
+        }
+      },
+      "score": 12,
+      "repos": [
+        "valkey-search"
+      ]
+    },
+    {
       "login": "nastena1606",
       "id": 60600800,
       "avatar_url": "https://avatars.githubusercontent.com/u/60600800?v=4",
@@ -14079,47 +14120,6 @@
       "score": 12,
       "repos": [
         "valkey-io.github.io"
-      ]
-    },
-    {
-      "login": "Frank-Gu-81",
-      "id": 93494304,
-      "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-      "name": "Shaopeng Gu",
-      "company": "",
-      "commits": 7,
-      "reviews": 4,
-      "per_repo": {
-        "valkey-search": {
-          "2026-03": [
-            2,
-            0
-          ],
-          "2026-04": [
-            3,
-            0
-          ],
-          "2026-05": [
-            1,
-            0
-          ],
-          "2026-07": [
-            0,
-            1
-          ],
-          "2026-08": [
-            0,
-            2
-          ],
-          "2026-09": [
-            1,
-            1
-          ]
-        }
-      },
-      "score": 11,
-      "repos": [
-        "valkey-search"
       ]
     },
     {

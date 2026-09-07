@@ -179265,6 +179265,22 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-go/pull/163"
+    },
+    {
+      "sha": "9e8fec7e0841344bf37aa48843a5f1203bf6addb",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Implement Renaming in LOAD clause of FT.AGGREGATE (COMPATIBILTY) PLUS FIX JSON on LOAD clause (#1084)",
+      "date": "2026-09-06T23:33:00Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-09-01T16:52:44Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1084"
     }
   ]
 }

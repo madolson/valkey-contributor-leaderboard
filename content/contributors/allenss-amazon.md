@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 304,
-  "commit_count": 74,
+  "score": 305,
+  "commit_count": 75,
   "review_count": 230,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "9e8fec7e08",
+      "message": "Implement Renaming in LOAD clause of FT.AGGREGATE (COMPATIBILTY) PLUS FIX JSON on LOAD clause (#1084)",
+      "date": "2026-09-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1084",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/9e8fec7e0841344bf37aa48843a5f1203bf6addb"
+    },
     {
       "sha": "6e38de5d79",
       "message": "Allow indexing the same field as both TEXT and TAG (#1195) (#1196)",

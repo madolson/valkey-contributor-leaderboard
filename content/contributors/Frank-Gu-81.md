@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 11,
+  "score": 12,
   "commit_count": 7,
-  "review_count": 4,
+  "review_count": 5,
   "repos": [
     "valkey-search"
   ],
@@ -67,6 +67,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9e8fec7e08",
+      "message": "Implement Renaming in LOAD clause of FT.AGGREGATE (COMPATIBILTY) PLUS FIX JSON on LOAD clause (#1084)",
+      "date": "2026-09-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1084",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/9e8fec7e0841344bf37aa48843a5f1203bf6addb"
+    },
     {
       "sha": "2fe364f204",
       "message": "Auto-assign reviewers + expanded slash commands (#1323)",
