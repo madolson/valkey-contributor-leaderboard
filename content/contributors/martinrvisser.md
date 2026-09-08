@@ -2,9 +2,9 @@
   "title": "martinrvisser",
   "login": "martinrvisser",
   "avatar_url": "https://avatars.githubusercontent.com/u/7462581?v=4",
-  "score": 7,
+  "score": 8,
   "commit_count": 7,
-  "review_count": 0,
+  "review_count": 1,
   "repos": [
     "valkey",
     "valkey-io.github.io",
@@ -68,5 +68,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/80e96123e9550ebbc42d00e31fd19da725ba4c81"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "4b66290e5b",
+      "message": "remove Copr builds from packaging workflows",
+      "date": "2026-09-07",
+      "repo": "valkey-ldap",
+      "pr_url": "https://github.com/valkey-io/valkey-ldap/pull/75",
+      "commit_url": "https://github.com/valkey-io/valkey-ldap/commit/4b66290e5b8f9a1854258f1845ee9ddaa2a7f1b1"
+    }
+  ]
 }

@@ -2,13 +2,14 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 108,
+  "score": 113,
   "commit_count": 24,
-  "review_count": 84,
+  "review_count": 89,
   "repos": [
     "valkey",
     "valkey-doc",
     "valkey-io.github.io",
+    "valkey-lua5.5",
     "valkey-luajit"
   ],
   "commit_list": [
@@ -206,6 +207,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3f59aae119",
+      "message": "Sync clang-format with valkey-luajit (#18)",
+      "date": "2026-09-07",
+      "repo": "valkey-lua5.5",
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/18",
+      "commit_url": "https://github.com/valkey-io/valkey-lua5.5/commit/3f59aae119493cb6c96b4ad4184be86f3bf68852"
+    },
+    {
+      "sha": "e7c1f4387d",
+      "message": "Fix forkless support",
+      "date": "2026-09-07",
+      "repo": "valkey-lua5.5",
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/17",
+      "commit_url": "https://github.com/valkey-io/valkey-lua5.5/commit/e7c1f4387d784422719b774ac5b2b0ffa95ceae5"
+    },
+    {
+      "sha": "8a1d39f8e6",
+      "message": "Flattern release artifacts (#62)",
+      "date": "2026-09-07",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/62",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/8a1d39f8e6553c9f65293b4cf07d2dbbdd125528"
+    },
+    {
+      "sha": "4fcb17e344",
+      "message": "Fix busy-reply-threshold for jit-enabled case",
+      "date": "2026-09-07",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/60",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/4fcb17e344df83905bd9387c44f3e30f8a1a4674"
+    },
+    {
+      "sha": "f30ece1218",
+      "message": "Fix forkless support",
+      "date": "2026-09-07",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/61",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/f30ece12188442bb0c2886fb66fd9427778d3e8f"
+    },
     {
       "sha": "20fe3dc733",
       "message": "Bump softprops/action-gh-release from 3.0.2 to 3.0.3 (#16)",

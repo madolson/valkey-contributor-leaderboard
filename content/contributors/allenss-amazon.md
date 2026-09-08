@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 305,
-  "commit_count": 75,
+  "score": 306,
+  "commit_count": 76,
   "review_count": 230,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "02a5506683",
+      "message": "Implement FLOAT16 and BFLOAT16 (#1001)",
+      "date": "2026-09-07",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1001",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/02a550668352c9b6798370b4fd529e817e423b6c"
+    },
     {
       "sha": "9e8fec7e08",
       "message": "Implement Renaming in LOAD clause of FT.AGGREGATE (COMPATIBILTY) PLUS FIX JSON on LOAD clause (#1084)",

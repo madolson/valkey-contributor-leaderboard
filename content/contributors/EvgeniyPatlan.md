@@ -2,9 +2,9 @@
   "title": "EvgeniyPatlan",
   "login": "EvgeniyPatlan",
   "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
-  "score": 9,
+  "score": 10,
   "commit_count": 6,
-  "review_count": 3,
+  "review_count": 4,
   "repos": [
     "valkey-go",
     "valkey-ldap",
@@ -62,6 +62,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4b66290e5b",
+      "message": "remove Copr builds from packaging workflows",
+      "date": "2026-09-07",
+      "repo": "valkey-ldap",
+      "pr_url": "https://github.com/valkey-io/valkey-ldap/pull/75",
+      "commit_url": "https://github.com/valkey-io/valkey-ldap/commit/4b66290e5b8f9a1854258f1845ee9ddaa2a7f1b1"
+    },
     {
       "sha": "0c5a1b9ab0",
       "message": "disable auto-enable/start of services after install",

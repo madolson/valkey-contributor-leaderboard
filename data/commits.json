@@ -179281,6 +179281,196 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1084"
+    },
+    {
+      "sha": "921ac8b92236233538f28442141a64e6055e5952",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump the github-actions group across 1 directory with 3 updates",
+      "date": "2026-09-07T08:14:13Z",
+      "repo": "libvalkey",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "bcc60f7132f7ac1118b2487dd680f52c7e34af36",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Fix timing issue in WATCHed key in another slot that expired aborts EXEC test (#4599)",
+      "date": "2026-09-07T09:27:28Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "nitaicaro",
+          "date": "2026-09-04T20:34:21Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-09-07T09:07:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4599"
+    },
+    {
+      "sha": "92ebbc1f41cb127501a2524d64591bf1063c623d",
+      "author_login": "sonalijhala-23",
+      "author_id": 321700091,
+      "avatar_url": "https://avatars.githubusercontent.com/u/321700091?v=4",
+      "message": "GetToBuffer code latest changes (#158)",
+      "date": "2026-09-07T21:50:01Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-09-07T21:49:50Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/158"
+    },
+    {
+      "sha": "4b66290e5b8f9a1854258f1845ee9ddaa2a7f1b1",
+      "author_login": "rjd15372",
+      "author_id": 1948156,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1948156?v=4",
+      "message": "remove Copr builds from packaging workflows",
+      "date": "2026-09-07T10:09:29Z",
+      "repo": "valkey-ldap",
+      "reviewed": [
+        {
+          "login": "martinrvisser",
+          "date": "2026-09-07T08:10:22Z"
+        },
+        {
+          "login": "EvgeniyPatlan",
+          "date": "2026-09-07T08:42:08Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-ldap/pull/75"
+    },
+    {
+      "sha": "3f59aae119493cb6c96b4ad4184be86f3bf68852",
+      "author_login": "secwall",
+      "author_id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "message": "Sync clang-format with valkey-luajit (#18)",
+      "date": "2026-09-07T12:09:29Z",
+      "repo": "valkey-lua5.5",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-09-07T12:09:20Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/18"
+    },
+    {
+      "sha": "e7c1f4387d784422719b774ac5b2b0ffa95ceae5",
+      "author_login": "secwall",
+      "author_id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "message": "Fix forkless support",
+      "date": "2026-09-07T11:34:24Z",
+      "repo": "valkey-lua5.5",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-09-07T11:20:04Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/17"
+    },
+    {
+      "sha": "74a8376101cee5524cbb97429a7c2b38ca92940b",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump github/codeql-action from 4.37.8 to 4.37.9",
+      "date": "2026-09-07T11:06:50Z",
+      "repo": "valkey-lua5.5",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "1858845b8ead67a5ee3d979a64fd0be81f48079b",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump deps/luajit from `1ee778a` to `24c20c9`",
+      "date": "2026-09-07T17:32:43Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "secwall",
+          "date": "2026-09-07T17:32:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/63"
+    },
+    {
+      "sha": "8a1d39f8e6553c9f65293b4cf07d2dbbdd125528",
+      "author_login": "secwall",
+      "author_id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "message": "Flattern release artifacts (#62)",
+      "date": "2026-09-07T16:45:13Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-09-07T16:45:08Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/62"
+    },
+    {
+      "sha": "4fcb17e344df83905bd9387c44f3e30f8a1a4674",
+      "author_login": "secwall",
+      "author_id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "message": "Fix busy-reply-threshold for jit-enabled case",
+      "date": "2026-09-07T11:49:46Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-09-07T10:33:58Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/60"
+    },
+    {
+      "sha": "f30ece12188442bb0c2886fb66fd9427778d3e8f",
+      "author_login": "secwall",
+      "author_id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "message": "Fix forkless support",
+      "date": "2026-09-07T11:21:49Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-09-07T10:37:36Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/61"
+    },
+    {
+      "sha": "02a550668352c9b6798370b4fd529e817e423b6c",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Implement FLOAT16 and BFLOAT16 (#1001)",
+      "date": "2026-09-07T20:37:44Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-09-07T20:34:03Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1001"
     }
   ]
 }

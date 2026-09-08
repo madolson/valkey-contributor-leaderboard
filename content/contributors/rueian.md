@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 47,
+  "score": 48,
   "commit_count": 9,
-  "review_count": 38,
+  "review_count": 39,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "92ebbc1f41",
+      "message": "GetToBuffer code latest changes (#158)",
+      "date": "2026-09-07",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/158",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/92ebbc1f41cb127501a2524d64591bf1063c623d"
+    },
     {
       "sha": "32e48cc2ad",
       "message": "Add InfoMap compatibility in Valkey-go (#163)",

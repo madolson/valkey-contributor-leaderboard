@@ -2,14 +2,55 @@
   "title": "secwall",
   "login": "secwall",
   "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
-  "score": 23,
-  "commit_count": 21,
+  "score": 28,
+  "commit_count": 26,
   "review_count": 2,
   "repos": [
     "valkey",
+    "valkey-lua5.5",
     "valkey-luajit"
   ],
   "commit_list": [
+    {
+      "sha": "3f59aae119",
+      "message": "Sync clang-format with valkey-luajit (#18)",
+      "date": "2026-09-07",
+      "repo": "valkey-lua5.5",
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/18",
+      "commit_url": "https://github.com/valkey-io/valkey-lua5.5/commit/3f59aae119493cb6c96b4ad4184be86f3bf68852"
+    },
+    {
+      "sha": "e7c1f4387d",
+      "message": "Fix forkless support",
+      "date": "2026-09-07",
+      "repo": "valkey-lua5.5",
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/17",
+      "commit_url": "https://github.com/valkey-io/valkey-lua5.5/commit/e7c1f4387d784422719b774ac5b2b0ffa95ceae5"
+    },
+    {
+      "sha": "8a1d39f8e6",
+      "message": "Flattern release artifacts (#62)",
+      "date": "2026-09-07",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/62",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/8a1d39f8e6553c9f65293b4cf07d2dbbdd125528"
+    },
+    {
+      "sha": "4fcb17e344",
+      "message": "Fix busy-reply-threshold for jit-enabled case",
+      "date": "2026-09-07",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/60",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/4fcb17e344df83905bd9387c44f3e30f8a1a4674"
+    },
+    {
+      "sha": "f30ece1218",
+      "message": "Fix forkless support",
+      "date": "2026-09-07",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/61",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/f30ece12188442bb0c2886fb66fd9427778d3e8f"
+    },
     {
       "sha": "39d43ec54f",
       "message": "Add null guard on username (#58)",
@@ -180,6 +221,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1858845b8e",
+      "message": "Bump deps/luajit from `1ee778a` to `24c20c9`",
+      "date": "2026-09-07",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/63",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/1858845b8ead67a5ee3d979a64fd0be81f48079b"
+    },
     {
       "sha": "5469fc69f4",
       "message": "Bump softprops/action-gh-release from 3.0.2 to 3.0.3",
