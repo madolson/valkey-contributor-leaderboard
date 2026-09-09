@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 248,
+  "score": 251,
   "commit_count": 123,
-  "review_count": 125,
+  "review_count": 128,
   "repos": [
     "libvalkey",
     "valkey",
@@ -999,6 +999,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "365bc5561e",
+      "message": "Slightly better Windows error ergonomics",
+      "date": "2026-09-08",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/343",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/365bc5561e37f3bd6b9741999686fd90ec6e3ed4"
+    },
+    {
+      "sha": "365bc5561e",
+      "message": "Slightly better Windows error ergonomics",
+      "date": "2026-09-08",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/343",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/365bc5561e37f3bd6b9741999686fd90ec6e3ed4"
+    },
+    {
+      "sha": "2373d03869",
+      "message": "fix: announced Hostname FQDN has no trailing dot (#429)",
+      "date": "2026-09-08",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/429",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2373d03869d17f9d56e26ec759597640b605942a"
+    },
     {
       "sha": "d8fef4a59e",
       "message": "(feat) version gating initial support  (#307)",

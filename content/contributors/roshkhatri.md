@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 416,
+  "score": 417,
   "commit_count": 152,
-  "review_count": 264,
+  "review_count": 265,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1238,6 +1238,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "05df39db5a",
+      "message": "Move build-debian-old CI job to Debian Bookworm (#4613)",
+      "date": "2026-09-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4613",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/05df39db5afc82f37b983d17710ac577d4ef9746"
+    },
     {
       "sha": "075b7d5cb3",
       "message": "Fix scripts_mem accounting for LRU script SHA copies (#4587)",

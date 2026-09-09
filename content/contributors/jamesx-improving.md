@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 277,
+  "score": 279,
   "commit_count": 81,
-  "review_count": 196,
+  "review_count": 198,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -663,6 +663,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f09b24d7c3",
+      "message": "fix(java): map Jedis database selection onto GLIDE databaseId (#6995)",
+      "date": "2026-09-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6995",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f09b24d7c3662472a1bee116bf145ddc3b2aaad5"
+    },
+    {
+      "sha": "953a315093",
+      "message": "feat: add LibName and ClientInfoTag to client configuration (#514)",
+      "date": "2026-09-08",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/514",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/953a315093a3a513ccc17911aea9b2ae9f818a52"
+    },
     {
       "sha": "ee59d05093",
       "message": "fix(core): mark PSUBSCRIBE and PUNSUBSCRIBE as read only command (#6756)",

@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 306,
-  "commit_count": 76,
+  "score": 307,
+  "commit_count": 77,
   "review_count": 230,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "e4880d4574",
+      "message": "Extended Array compatibility fixes (#1271)",
+      "date": "2026-09-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1271",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e4880d45744dbf9889ff53ccb00ffc73e13aa0e8"
+    },
     {
       "sha": "02a5506683",
       "message": "Implement FLOAT16 and BFLOAT16 (#1001)",

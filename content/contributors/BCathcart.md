@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 104,
+  "score": 105,
   "commit_count": 40,
-  "review_count": 64,
+  "review_count": 65,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -334,6 +334,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1e41c0a9d2",
+      "message": "Scoring: score all-text OR by fanning out fetchers instead of building a OR composite iterator (#1345)",
+      "date": "2026-09-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1345",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1e41c0a9d293b60d4becda19a76ecf953996bf53"
+    },
     {
       "sha": "6e38de5d79",
       "message": "Allow indexing the same field as both TEXT and TAG (#1195) (#1196)",

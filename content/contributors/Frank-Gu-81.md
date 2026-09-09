@@ -2,13 +2,21 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 13,
-  "commit_count": 7,
+  "score": 14,
+  "commit_count": 8,
   "review_count": 6,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "c8601e0d7f",
+      "message": "Follow-ups from #1268 (the PR search benchmark workflow) (#1317)",
+      "date": "2026-09-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1317",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c8601e0d7ffeee431dd86e814683130fea652333"
+    },
     {
       "sha": "bc55ab18cf",
       "message": "fix breaking changes introduced in #1008 (#1352)",

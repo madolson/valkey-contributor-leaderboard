@@ -2,8 +2,8 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 111,
-  "commit_count": 36,
+  "score": 113,
+  "commit_count": 38,
   "review_count": 75,
   "repos": [
     "valkey",
@@ -14,6 +14,22 @@
     "valkey-skills"
   ],
   "commit_list": [
+    {
+      "sha": "05df39db5a",
+      "message": "Move build-debian-old CI job to Debian Bookworm (#4613)",
+      "date": "2026-09-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4613",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/05df39db5afc82f37b983d17710ac577d4ef9746"
+    },
+    {
+      "sha": "e1126ce523",
+      "message": "valkey-benchmark: remove cross-thread contention from the hot path (#4332)",
+      "date": "2026-09-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4332",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e1126ce52381de5f5a54286f7a6f36babac55b3c"
+    },
     {
       "sha": "b3b2743bfb",
       "message": "Update sorted set docs: skiplist replaced by B+ tree (#471)",

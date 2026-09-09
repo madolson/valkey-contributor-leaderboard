@@ -2,14 +2,22 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 98,
-  "commit_count": 61,
+  "score": 99,
+  "commit_count": 62,
   "review_count": 37,
   "repos": [
     "valkey-ci-agent",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "d8dd200c2c",
+      "message": "fix: save ccache only on push to prevent cross-workflow eviction (#1116)",
+      "date": "2026-09-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1116",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d8dd200c2ce07e78dba0a8b9c69cb1bffe94dbd9"
+    },
     {
       "sha": "2fe364f204",
       "message": "Auto-assign reviewers + expanded slash commands (#1323)",

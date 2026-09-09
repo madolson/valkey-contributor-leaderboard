@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1233,
+  "score": 1234,
   "commit_count": 153,
-  "review_count": 1080,
+  "review_count": 1081,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1246,6 +1246,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e1126ce523",
+      "message": "valkey-benchmark: remove cross-thread contention from the hot path (#4332)",
+      "date": "2026-09-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4332",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e1126ce52381de5f5a54286f7a6f36babac55b3c"
+    },
     {
       "sha": "bcc60f7132",
       "message": "Fix timing issue in WATCHed key in another slot that expired aborts EXEC test (#4599)",

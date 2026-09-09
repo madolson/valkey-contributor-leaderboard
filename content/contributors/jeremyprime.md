@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 220,
-  "commit_count": 61,
-  "review_count": 159,
+  "score": 222,
+  "commit_count": 62,
+  "review_count": 160,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "c8e9358f96",
+      "message": "fix(core): honor blocking-command timeouts and discard poisoned scoped connections (#6978)",
+      "date": "2026-09-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6978",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c8e9358f9691cf9340726336ade52311a55b4aeb"
+    },
     {
       "sha": "427208e36e",
       "message": "Bump valkey-glide to 2.5.2 (#106)",
@@ -503,6 +511,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f134539a79",
+      "message": "feat(rust): set library name and version at runtime (#6876) (#7004)",
+      "date": "2026-09-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7004",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f134539a79c55e7f72a79212e916390540e2e2e9"
+    },
     {
       "sha": "7dce47242e",
       "message": "build(deps): bump the patch-updates group across 1 directory with 2 updates (#6957)",

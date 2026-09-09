@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 269,
+  "score": 270,
   "commit_count": 92,
-  "review_count": 177,
+  "review_count": 178,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -754,6 +754,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "62bf5fe3c8",
+      "message": "refactor(lint): enable RCS0053 and consolidate response converters (#557)",
+      "date": "2026-09-08",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/557",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/62bf5fe3c8117491c23081eb1d11d8b42abb0a28"
+    },
     {
       "sha": "8a50c18273",
       "message": "feat: Add client_info_tag and lib_name config options (#246)",

@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 275,
+  "score": 276,
   "commit_count": 95,
-  "review_count": 180,
+  "review_count": 181,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -775,6 +775,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f134539a79",
+      "message": "feat(rust): set library name and version at runtime (#6876) (#7004)",
+      "date": "2026-09-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7004",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f134539a79c55e7f72a79212e916390540e2e2e9"
+    },
     {
       "sha": "72554acf55",
       "message": "feat(core): add MGET client-side caching (#6807)",

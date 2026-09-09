@@ -2,14 +2,32 @@
   "title": "Jonathan-Improving",
   "login": "Jonathan-Improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
-  "score": 3,
-  "commit_count": 2,
+  "score": 5,
+  "commit_count": 4,
   "review_count": 1,
   "repos": [
     "valkey-glide",
+    "valkey-glide-csharp",
+    "valkey-glide-php",
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "953a315093",
+      "message": "feat: add LibName and ClientInfoTag to client configuration (#514)",
+      "date": "2026-09-08",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/514",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/953a315093a3a513ccc17911aea9b2ae9f818a52"
+    },
+    {
+      "sha": "4e7d68ced2",
+      "message": "feat(php): add lib_name and client_info_tag to client configuration (#292)",
+      "date": "2026-09-08",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/292",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/4e7d68ced2a07fb38640333ad602131c1a59dd69"
+    },
     {
       "sha": "8a50c18273",
       "message": "feat: Add client_info_tag and lib_name config options (#246)",

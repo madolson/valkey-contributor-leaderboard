@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 70,
+  "score": 72,
   "commit_count": 45,
-  "review_count": 25,
+  "review_count": 27,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -378,6 +378,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d8dd200c2c",
+      "message": "fix: save ccache only on push to prevent cross-workflow eviction (#1116)",
+      "date": "2026-09-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1116",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d8dd200c2ce07e78dba0a8b9c69cb1bffe94dbd9"
+    },
+    {
+      "sha": "1e41c0a9d2",
+      "message": "Scoring: score all-text OR by fanning out fetchers instead of building a OR composite iterator (#1345)",
+      "date": "2026-09-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1345",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1e41c0a9d293b60d4becda19a76ecf953996bf53"
+    },
     {
       "sha": "58faf1ca5f",
       "message": "Fixing crash on recursive path mutation (#120)",

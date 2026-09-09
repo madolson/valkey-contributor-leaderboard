@@ -2,13 +2,21 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 72,
-  "commit_count": 43,
+  "score": 73,
+  "commit_count": 44,
   "review_count": 29,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "1e41c0a9d2",
+      "message": "Scoring: score all-text OR by fanning out fetchers instead of building a OR composite iterator (#1345)",
+      "date": "2026-09-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1345",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1e41c0a9d293b60d4becda19a76ecf953996bf53"
+    },
     {
       "sha": "74037e9dfa",
       "message": "Scoring: BM25STD for text, numeric and tag (#1287)",

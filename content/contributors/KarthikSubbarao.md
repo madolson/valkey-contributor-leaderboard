@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 265,
+  "score": 267,
   "commit_count": 100,
-  "review_count": 165,
+  "review_count": 167,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -819,6 +819,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c8601e0d7f",
+      "message": "Follow-ups from #1268 (the PR search benchmark workflow) (#1317)",
+      "date": "2026-09-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1317",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c8601e0d7ffeee431dd86e814683130fea652333"
+    },
+    {
+      "sha": "d8dd200c2c",
+      "message": "fix: save ccache only on push to prevent cross-workflow eviction (#1116)",
+      "date": "2026-09-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1116",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d8dd200c2ce07e78dba0a8b9c69cb1bffe94dbd9"
+    },
     {
       "sha": "2432e1e4f0",
       "message": "Add PR-triggered search benchmark comparison workflow (#1268)",

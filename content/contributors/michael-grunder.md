@@ -2,13 +2,21 @@
   "title": "michael-grunder",
   "login": "michael-grunder",
   "avatar_url": "https://avatars.githubusercontent.com/u/468149?v=4",
-  "score": 78,
-  "commit_count": 19,
+  "score": 79,
+  "commit_count": 20,
   "review_count": 59,
   "repos": [
     "libvalkey"
   ],
   "commit_list": [
+    {
+      "sha": "365bc5561e",
+      "message": "Slightly better Windows error ergonomics",
+      "date": "2026-09-08",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/343",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/365bc5561e37f3bd6b9741999686fd90ec6e3ed4"
+    },
     {
       "sha": "3180cb6f7a",
       "message": "Add `maxdepth` member to `valkeyReader`.",

@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 447,
+  "score": 449,
   "commit_count": 129,
-  "review_count": 318,
+  "review_count": 320,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -1049,6 +1049,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c8e9358f96",
+      "message": "fix(core): honor blocking-command timeouts and discard poisoned scoped connections (#6978)",
+      "date": "2026-09-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6978",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c8e9358f9691cf9340726336ade52311a55b4aeb"
+    },
+    {
+      "sha": "62bf5fe3c8",
+      "message": "refactor(lint): enable RCS0053 and consolidate response converters (#557)",
+      "date": "2026-09-08",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/557",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/62bf5fe3c8117491c23081eb1d11d8b42abb0a28"
+    },
+    {
+      "sha": "ea397e735a",
+      "message": "chore(deps): bump valkey-glide from `5614711` to `ee59d05` (#561)",
+      "date": "2026-09-08",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/561",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/ea397e735a3a53d9b9efc37a2e3d3da9854015a4"
+    },
+    {
+      "sha": "4b2474a615",
+      "message": "chore(deps): bump the patch-updates group with 2 updates (#559)",
+      "date": "2026-09-08",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/559",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4b2474a615e59167ca94a69028e0e67e3179926e"
+    },
+    {
+      "sha": "50ceeee0eb",
+      "message": "chore(deps): bump taiki-e/install-action from 2.86.7 to 2.87.2 in the minor-updates group (#560)",
+      "date": "2026-09-08",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/560",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/50ceeee0eb6cddb33f47a0faa170c50e830118ae"
+    },
     {
       "sha": "72554acf55",
       "message": "feat(core): add MGET client-side caching (#6807)",

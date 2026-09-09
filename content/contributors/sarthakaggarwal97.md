@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 373,
+  "score": 374,
   "commit_count": 96,
-  "review_count": 277,
+  "review_count": 278,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -788,6 +788,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "05df39db5a",
+      "message": "Move build-debian-old CI job to Debian Bookworm (#4613)",
+      "date": "2026-09-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4613",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/05df39db5afc82f37b983d17710ac577d4ef9746"
+    },
     {
       "sha": "f2c1c5e9de",
       "message": "Speed up split-vote elections with the new FAILOVER_AUTH_NACK message (#3833)",

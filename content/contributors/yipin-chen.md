@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 792,
+  "score": 793,
   "commit_count": 45,
-  "review_count": 747,
+  "review_count": 748,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c8e9358f96",
+      "message": "fix(core): honor blocking-command timeouts and discard poisoned scoped connections (#6978)",
+      "date": "2026-09-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6978",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c8e9358f9691cf9340726336ade52311a55b4aeb"
+    },
     {
       "sha": "0651802d51",
       "message": "feat(rust): use redis Expiry/SetExpiry for HGETEX/HSETEX (#6977)",

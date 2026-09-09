@@ -2,12 +2,13 @@
   "title": "omanges",
   "login": "omanges",
   "avatar_url": "https://avatars.githubusercontent.com/u/30625612?v=4",
-  "score": 6,
+  "score": 7,
   "commit_count": 2,
-  "review_count": 4,
+  "review_count": 5,
   "repos": [
     "valkey",
-    "valkey-glide"
+    "valkey-glide",
+    "valkey-go"
   ],
   "commit_list": [
     {
@@ -28,6 +29,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9767656cac",
+      "message": "feat(cluster): add CLUSTERSCAN command definition and builders (#171)",
+      "date": "2026-09-09",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/171",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/9767656cac6436d9577d62f1aa388d4c49b4fe61"
+    },
     {
       "sha": "89ae7562f2",
       "message": "Merge pull request #3475 from niharikabhavaraju/lcscmd-niharika",

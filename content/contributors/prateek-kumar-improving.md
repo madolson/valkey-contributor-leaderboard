@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 424,
+  "score": 426,
   "commit_count": 147,
-  "review_count": 277,
+  "review_count": 279,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1191,6 +1191,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f09b24d7c3",
+      "message": "fix(java): map Jedis database selection onto GLIDE databaseId (#6995)",
+      "date": "2026-09-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6995",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f09b24d7c3662472a1bee116bf145ddc3b2aaad5"
+    },
+    {
+      "sha": "ed6c3be276",
+      "message": "ci(deps): bump softprops/action-gh-release from 3.0.2 to 3.0.3 (#332)",
+      "date": "2026-09-08",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/332",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/ed6c3be2762893ec3e0fd05cc585339fea20777d"
+    },
+    {
+      "sha": "4e7d68ced2",
+      "message": "feat(php): add lib_name and client_info_tag to client configuration (#292)",
+      "date": "2026-09-08",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/292",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/4e7d68ced2a07fb38640333ad602131c1a59dd69"
+    },
     {
       "sha": "6d8cfa30be",
       "message": "fix(core): `ClusterValue.HasSingleData` always true for value-type `T` (#548)",

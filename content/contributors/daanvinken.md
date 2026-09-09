@@ -2,14 +2,22 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 36,
-  "commit_count": 20,
+  "score": 37,
+  "commit_count": 21,
   "review_count": 16,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "2373d03869",
+      "message": "fix: announced Hostname FQDN has no trailing dot (#429)",
+      "date": "2026-09-08",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/429",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2373d03869d17f9d56e26ec759597640b605942a"
+    },
     {
       "sha": "7c3b716ad6",
       "message": "feat: discovery preferredEndpointType and headless serviceName (#378)",

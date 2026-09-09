@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 48,
+  "score": 50,
   "commit_count": 9,
-  "review_count": 39,
+  "review_count": 41,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9767656cac",
+      "message": "feat(cluster): add CLUSTERSCAN command definition and builders (#171)",
+      "date": "2026-09-09",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/171",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/9767656cac6436d9577d62f1aa388d4c49b4fe61"
+    },
+    {
+      "sha": "82d8608a02",
+      "message": "feat(valkeycompat): add SetFromBuffer for go-redis parity (#165)",
+      "date": "2026-09-09",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/165",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/82d8608a0282a92ae14d50681e8feee809d1b26d"
+    },
     {
       "sha": "92ebbc1f41",
       "message": "GetToBuffer code latest changes (#158)",

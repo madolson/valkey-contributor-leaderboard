@@ -2,13 +2,21 @@
   "title": "kumariam-ai",
   "login": "kumariam-ai",
   "avatar_url": "https://avatars.githubusercontent.com/u/321359226?v=4",
-  "score": 1,
-  "commit_count": 1,
+  "score": 2,
+  "commit_count": 2,
   "review_count": 0,
   "repos": [
     "valkey-go"
   ],
   "commit_list": [
+    {
+      "sha": "82d8608a02",
+      "message": "feat(valkeycompat): add SetFromBuffer for go-redis parity (#165)",
+      "date": "2026-09-09",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/165",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/82d8608a0282a92ae14d50681e8feee809d1b26d"
+    },
     {
       "sha": "32e48cc2ad",
       "message": "Add InfoMap compatibility in Valkey-go (#163)",
