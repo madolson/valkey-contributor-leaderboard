@@ -2,13 +2,21 @@
   "title": "kumariam-ai",
   "login": "kumariam-ai",
   "avatar_url": "https://avatars.githubusercontent.com/u/321359226?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-go"
   ],
   "commit_list": [
+    {
+      "sha": "9b73f94f30",
+      "message": "valkeycompat: add SlowLogLen support for adapter and pipeline (#167)",
+      "date": "2026-09-10",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/167",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/9b73f94f30693fac4e2564e8ac06282ce4df333a"
+    },
     {
       "sha": "82d8608a02",
       "message": "feat(valkeycompat): add SetFromBuffer for go-redis parity (#165)",

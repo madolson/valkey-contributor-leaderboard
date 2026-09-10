@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 222,
+  "score": 223,
   "commit_count": 62,
-  "review_count": 160,
+  "review_count": 161,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -511,6 +511,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "92314e7e82",
+      "message": "feat(java): add GlideCredentialProvider support to IamAuthConfig (#6825)",
+      "date": "2026-09-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6825",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/92314e7e820c579488899c9c0f035668ec742369"
+    },
     {
       "sha": "f134539a79",
       "message": "feat(rust): set library name and version at runtime (#6876) (#7004)",

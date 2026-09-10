@@ -2,14 +2,30 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 37,
-  "commit_count": 21,
+  "score": 39,
+  "commit_count": 23,
   "review_count": 16,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "92b1e89f3e",
+      "message": "test(e2e): Hostname migrate keeps Ready pod UID (#383)",
+      "date": "2026-09-09",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/383",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/92b1e89f3ef59a71a59a089e07032a9be413ad34"
+    },
+    {
+      "sha": "18e4a3244b",
+      "message": "fix: recover live-template STS Create after serviceName migrate race (#424) (#432)",
+      "date": "2026-09-09",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/432",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/18e4a3244b1eaecac05f0657b3b3c062757ae081"
+    },
     {
       "sha": "2373d03869",
       "message": "fix: announced Hostname FQDN has no trailing dot (#429)",

@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1234,
+  "score": 1236,
   "commit_count": 153,
-  "review_count": 1081,
+  "review_count": 1083,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1246,6 +1246,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7a681df306",
+      "message": "Deflake slow slot migration snapshot test (#4640)",
+      "date": "2026-09-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4640",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7a681df3061a23d3e23ed32c586998b2d491cb18"
+    },
+    {
+      "sha": "2d44c74996",
+      "message": "Nested prefetching for hash and zset inner hashtables (#3940)",
+      "date": "2026-09-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3940",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2d44c749967d1a18138d56e6137a93da2d698976"
+    },
     {
       "sha": "e1126ce523",
       "message": "valkey-benchmark: remove cross-thread contention from the hot path (#4332)",

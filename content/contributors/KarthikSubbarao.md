@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 267,
+  "score": 268,
   "commit_count": 100,
-  "review_count": 167,
+  "review_count": 168,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -819,6 +819,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cd64cff510",
+      "message": "Triage board: include only reviewers GitHub lists on the PR (#1369)",
+      "date": "2026-09-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1369",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/cd64cff510961684e941f4aaec3e8c64e656f463"
+    },
     {
       "sha": "c8601e0d7f",
       "message": "Follow-ups from #1268 (the PR search benchmark workflow) (#1317)",

@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 426,
+  "score": 427,
   "commit_count": 147,
-  "review_count": 279,
+  "review_count": 280,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1191,6 +1191,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "92314e7e82",
+      "message": "feat(java): add GlideCredentialProvider support to IamAuthConfig (#6825)",
+      "date": "2026-09-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6825",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/92314e7e820c579488899c9c0f035668ec742369"
+    },
+    {
+      "sha": "58e101d460",
+      "message": "ci(deps): bump actions/setup-java from 5.7.0 to 6.0.0 (#331)",
+      "date": "2026-09-09",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/331",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/58e101d460062dbbdd7d6f25cc91b1e59f459496"
+    },
     {
       "sha": "f09b24d7c3",
       "message": "fix(java): map Jedis database selection onto GLIDE databaseId (#6995)",

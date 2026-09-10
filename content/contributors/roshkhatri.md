@@ -2,8 +2,8 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 417,
-  "commit_count": 152,
+  "score": 418,
+  "commit_count": 153,
   "review_count": 265,
   "repos": [
     "valkey",
@@ -20,6 +20,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "2d44c74996",
+      "message": "Nested prefetching for hash and zset inner hashtables (#3940)",
+      "date": "2026-09-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3940",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2d44c749967d1a18138d56e6137a93da2d698976"
+    },
     {
       "sha": "58faf1ca5f",
       "message": "Fixing crash on recursive path mutation (#120)",

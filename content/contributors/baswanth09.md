@@ -2,14 +2,22 @@
   "title": "baswanth09",
   "login": "baswanth09",
   "avatar_url": "https://avatars.githubusercontent.com/u/122412818?v=4",
-  "score": 14,
-  "commit_count": 14,
+  "score": 15,
+  "commit_count": 15,
   "review_count": 0,
   "repos": [
     "valkey",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "3e8f9f7784",
+      "message": "Add configurable maximum TIMEOUT for search commands (#1368)",
+      "date": "2026-09-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1368",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/3e8f9f778412778a39504124fe8ee90f5370f317"
+    },
     {
       "sha": "0190919f15",
       "message": "Fix ThreadPool suspend/resume race with concurrent Resize (#1331)",

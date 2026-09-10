@@ -2,14 +2,22 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 99,
-  "commit_count": 62,
-  "review_count": 37,
+  "score": 101,
+  "commit_count": 63,
+  "review_count": 38,
   "repos": [
     "valkey-ci-agent",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "cd64cff510",
+      "message": "Triage board: include only reviewers GitHub lists on the PR (#1369)",
+      "date": "2026-09-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1369",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/cd64cff510961684e941f4aaec3e8c64e656f463"
+    },
     {
       "sha": "d8dd200c2c",
       "message": "fix: save ccache only on push to prevent cross-workflow eviction (#1116)",
@@ -508,6 +516,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bbafc3dd09",
+      "message": "Skip reviewer triage board workflow in forks (#1359)",
+      "date": "2026-09-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1359",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/bbafc3dd0970ffc7dc5e2f03396e588682a11428"
+    },
     {
       "sha": "cd4330d7f5",
       "message": "Extend release-notes cut to valkey-search, valkey-json, valkey-bloom (#80)",

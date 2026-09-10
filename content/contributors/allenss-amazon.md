@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 307,
-  "commit_count": 77,
-  "review_count": 230,
+  "score": 310,
+  "commit_count": 78,
+  "review_count": 232,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "024955289e",
+      "message": "New memory allocation machinery (#1360)",
+      "date": "2026-09-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1360",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/024955289ed74aa4a249f3975d00dd92f66456ec"
+    },
     {
       "sha": "e4880d4574",
       "message": "Extended Array compatibility fixes (#1271)",
@@ -631,6 +639,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "df38d5f17d",
+      "message": "Fix VectorRegistry lifecycle management, multi-DB isolation, and server event handling (#1325)",
+      "date": "2026-09-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1325",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/df38d5f17d497b39d16af6622e511b4748727f78"
+    },
+    {
+      "sha": "3e8f9f7784",
+      "message": "Add configurable maximum TIMEOUT for search commands (#1368)",
+      "date": "2026-09-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1368",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/3e8f9f778412778a39504124fe8ee90f5370f317"
+    },
     {
       "sha": "0190919f15",
       "message": "Fix ThreadPool suspend/resume race with concurrent Resize (#1331)",

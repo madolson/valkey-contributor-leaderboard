@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 14,
+  "score": 17,
   "commit_count": 8,
-  "review_count": 6,
+  "review_count": 9,
   "repos": [
     "valkey-search"
   ],
@@ -75,6 +75,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "024955289e",
+      "message": "New memory allocation machinery (#1360)",
+      "date": "2026-09-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1360",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/024955289ed74aa4a249f3975d00dd92f66456ec"
+    },
+    {
+      "sha": "024955289e",
+      "message": "New memory allocation machinery (#1360)",
+      "date": "2026-09-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1360",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/024955289ed74aa4a249f3975d00dd92f66456ec"
+    },
+    {
+      "sha": "cd64cff510",
+      "message": "Triage board: include only reviewers GitHub lists on the PR (#1369)",
+      "date": "2026-09-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1369",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/cd64cff510961684e941f4aaec3e8c64e656f463"
+    },
     {
       "sha": "02a5506683",
       "message": "Implement FLOAT16 and BFLOAT16 (#1001)",

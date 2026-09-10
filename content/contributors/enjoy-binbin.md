@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 971,
+  "score": 972,
   "commit_count": 391,
-  "review_count": 580,
+  "review_count": 581,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3144,6 +3144,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c27cc74bc6",
+      "message": "Tests: scale wait_process_paused when the pause depends on a fork (#4562)",
+      "date": "2026-09-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4562",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c27cc74bc6bd9b3b85beeb5d76f39002670d2952"
+    },
     {
       "sha": "85d02f6388",
       "message": "Fix duplicate reply on FLUSHDB/FLUSHALL with invalid args in forkless (#4610)",

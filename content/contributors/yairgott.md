@@ -2,8 +2,8 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 117,
-  "commit_count": 35,
+  "score": 118,
+  "commit_count": 36,
   "review_count": 82,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "df38d5f17d",
+      "message": "Fix VectorRegistry lifecycle management, multi-DB isolation, and server event handling (#1325)",
+      "date": "2026-09-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1325",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/df38d5f17d497b39d16af6622e511b4748727f78"
+    },
     {
       "sha": "5662dc10c7",
       "message": "Changing HNSWLib to store raw vectors (#1232)",

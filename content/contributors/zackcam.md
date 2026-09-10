@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 72,
+  "score": 73,
   "commit_count": 45,
-  "review_count": 27,
+  "review_count": 28,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -378,6 +378,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5da3b130b1",
+      "message": "Scoring: scoring-disabled dev only config (#1357)",
+      "date": "2026-09-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1357",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5da3b130b1a1ff8143b5f717803a68c130a18cd5"
+    },
     {
       "sha": "d8dd200c2c",
       "message": "fix: save ccache only on push to prevent cross-workflow eviction (#1116)",

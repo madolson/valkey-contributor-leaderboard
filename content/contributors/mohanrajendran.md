@@ -2,13 +2,21 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 8,
-  "commit_count": 1,
+  "score": 9,
+  "commit_count": 2,
   "review_count": 7,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "bbafc3dd09",
+      "message": "Skip reviewer triage board workflow in forks (#1359)",
+      "date": "2026-09-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1359",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/bbafc3dd0970ffc7dc5e2f03396e588682a11428"
+    },
     {
       "sha": "b747be6591",
       "message": "Fix aarch64 RDB compatibility integration tests (#1343)",

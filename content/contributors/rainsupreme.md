@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 113,
+  "score": 114,
   "commit_count": 38,
-  "review_count": 75,
+  "review_count": 76,
   "repos": [
     "valkey",
     "valkey-container",
@@ -320,6 +320,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2d44c74996",
+      "message": "Nested prefetching for hash and zset inner hashtables (#3940)",
+      "date": "2026-09-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3940",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2d44c749967d1a18138d56e6137a93da2d698976"
+    },
     {
       "sha": "f1addd8f39",
       "message": "Use BIO thread for cluster config saving in cluster-config-save-behavior best-effort mode (#2555)",

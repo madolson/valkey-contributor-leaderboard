@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 923,
-  "commit_count": 208,
-  "review_count": 715,
+  "score": 925,
+  "commit_count": 209,
+  "review_count": 716,
   "repos": [
     ".github",
     "valkey",
@@ -21,6 +21,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "c27cc74bc6",
+      "message": "Tests: scale wait_process_paused when the pause depends on a fork (#4562)",
+      "date": "2026-09-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4562",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c27cc74bc6bd9b3b85beeb5d76f39002670d2952"
+    },
     {
       "sha": "1dbf1938b4",
       "message": "Only scan this test's own AOF writes for the LIMIT token (#4601)",
@@ -1687,6 +1695,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "19d45e0941",
+      "message": "Add blog post: Finding big keys in a running Valkey cluster with Valkey Admin (#651)",
+      "date": "2026-09-10",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/651",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/19d45e09413da693cfd78785ee473b3abd348f25"
+    },
     {
       "sha": "da9d58f1b4",
       "message": "improper int to bit-flag conversion (#4609)",

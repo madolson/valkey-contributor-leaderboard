@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 276,
-  "commit_count": 95,
+  "score": 277,
+  "commit_count": 96,
   "review_count": 181,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "92314e7e82",
+      "message": "feat(java): add GlideCredentialProvider support to IamAuthConfig (#6825)",
+      "date": "2026-09-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6825",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/92314e7e820c579488899c9c0f035668ec742369"
+    },
     {
       "sha": "3ff850f313",
       "message": "docs: fix IAM refresh behavior and add manual refresh section (#325)",

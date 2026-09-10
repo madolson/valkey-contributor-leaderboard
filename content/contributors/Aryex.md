@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 270,
+  "score": 271,
   "commit_count": 92,
-  "review_count": 178,
+  "review_count": 179,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -754,6 +754,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6a6948fc39",
+      "message": "Add exception option to multi/pipeline for better errors handling (#299)",
+      "date": "2026-09-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/299",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6a6948fc391908c40133ae26cb4107af45fedb70"
+    },
     {
       "sha": "62bf5fe3c8",
       "message": "refactor(lint): enable RCS0053 and consolidate response converters (#557)",

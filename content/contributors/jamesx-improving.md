@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 279,
+  "score": 281,
   "commit_count": 81,
-  "review_count": 198,
+  "review_count": 200,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -663,6 +663,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0db97bee4e",
+      "message": "ci(rust): add test matrix for the Rust client (#6989)",
+      "date": "2026-09-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6989",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0db97bee4e551ed2c12ce8c589407d4cbbd2633c"
+    },
+    {
+      "sha": "6a6948fc39",
+      "message": "Add exception option to multi/pipeline for better errors handling (#299)",
+      "date": "2026-09-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/299",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6a6948fc391908c40133ae26cb4107af45fedb70"
+    },
     {
       "sha": "f09b24d7c3",
       "message": "fix(java): map Jedis database selection onto GLIDE databaseId (#6995)",

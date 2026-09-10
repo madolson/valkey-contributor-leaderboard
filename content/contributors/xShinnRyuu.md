@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 449,
+  "score": 450,
   "commit_count": 129,
-  "review_count": 320,
+  "review_count": 321,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -1049,6 +1049,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0db97bee4e",
+      "message": "ci(rust): add test matrix for the Rust client (#6989)",
+      "date": "2026-09-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6989",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0db97bee4e551ed2c12ce8c589407d4cbbd2633c"
+    },
     {
       "sha": "c8e9358f96",
       "message": "fix(core): honor blocking-command timeouts and discard poisoned scoped connections (#6978)",

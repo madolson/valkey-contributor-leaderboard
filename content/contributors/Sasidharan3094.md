@@ -2,14 +2,22 @@
   "title": "Sasidharan3094",
   "login": "Sasidharan3094",
   "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
-  "score": 42,
-  "commit_count": 29,
+  "score": 43,
+  "commit_count": 30,
   "review_count": 13,
   "repos": [
     "valkey-glide",
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "6a6948fc39",
+      "message": "Add exception option to multi/pipeline for better errors handling (#299)",
+      "date": "2026-09-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/299",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6a6948fc391908c40133ae26cb4107af45fedb70"
+    },
     {
       "sha": "1a0d24f60c",
       "message": "Fixing xpending org reordering (#300)",

@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 22,
-  "commit_count": 22,
+  "score": 23,
+  "commit_count": 23,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "e7e60037bb",
+      "message": "Reapplies indexing for zero-length keys(#1171)  (#1310)",
+      "date": "2026-09-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1310",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e7e60037bb29334a3c29825021b11dfd3ce1feb2"
+    },
     {
       "sha": "293b0f27a2",
       "message": "Fix TAG indexing of non UTF-8 data (#1075)",

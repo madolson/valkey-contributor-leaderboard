@@ -2,8 +2,8 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 374,
-  "commit_count": 96,
+  "score": 375,
+  "commit_count": 97,
   "review_count": 278,
   "repos": [
     "valkey",
@@ -18,6 +18,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "7a681df306",
+      "message": "Deflake slow slot migration snapshot test (#4640)",
+      "date": "2026-09-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4640",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7a681df3061a23d3e23ed32c586998b2d491cb18"
+    },
     {
       "sha": "cd4330d7f5",
       "message": "Extend release-notes cut to valkey-search, valkey-json, valkey-bloom (#80)",

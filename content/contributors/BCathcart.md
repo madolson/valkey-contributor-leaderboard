@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 105,
+  "score": 108,
   "commit_count": 40,
-  "review_count": 65,
+  "review_count": 68,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -334,6 +334,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e7e60037bb",
+      "message": "Reapplies indexing for zero-length keys(#1171)  (#1310)",
+      "date": "2026-09-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1310",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e7e60037bb29334a3c29825021b11dfd3ce1feb2"
+    },
+    {
+      "sha": "bbafc3dd09",
+      "message": "Skip reviewer triage board workflow in forks (#1359)",
+      "date": "2026-09-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1359",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/bbafc3dd0970ffc7dc5e2f03396e588682a11428"
+    },
+    {
+      "sha": "5da3b130b1",
+      "message": "Scoring: scoring-disabled dev only config (#1357)",
+      "date": "2026-09-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1357",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5da3b130b1a1ff8143b5f717803a68c130a18cd5"
+    },
     {
       "sha": "1e41c0a9d2",
       "message": "Scoring: score all-text OR by fanning out fetchers instead of building a OR composite iterator (#1345)",

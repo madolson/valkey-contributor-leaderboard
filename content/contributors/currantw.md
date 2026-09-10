@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 310,
-  "commit_count": 179,
+  "score": 311,
+  "commit_count": 180,
   "review_count": 131,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "0db97bee4e",
+      "message": "ci(rust): add test matrix for the Rust client (#6989)",
+      "date": "2026-09-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6989",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0db97bee4e551ed2c12ce8c589407d4cbbd2633c"
+    },
     {
       "sha": "f134539a79",
       "message": "feat(rust): set library name and version at runtime (#6876) (#7004)",
