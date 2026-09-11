@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 73,
+  "score": 74,
   "commit_count": 45,
-  "review_count": 28,
+  "review_count": 29,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -378,6 +378,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f737938b56",
+      "message": "Run integration tests in parallel (reduces runtime from ~12 minutes to ~95 seconds) (#1355)",
+      "date": "2026-09-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1355",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/f737938b5639c6c770db27e3e415beeb5029769f"
+    },
     {
       "sha": "5da3b130b1",
       "message": "Scoring: scoring-disabled dev only config (#1357)",

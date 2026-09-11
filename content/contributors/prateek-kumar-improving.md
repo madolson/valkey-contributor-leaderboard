@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 427,
+  "score": 428,
   "commit_count": 147,
-  "review_count": 280,
+  "review_count": 281,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1191,6 +1191,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a82ae84f79",
+      "message": "ci: add `dependabot` `cargo` entry for Rust client (#7032)",
+      "date": "2026-09-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7032",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a82ae84f79c12e80b292b27626deb4b9265b68a4"
+    },
     {
       "sha": "92314e7e82",
       "message": "feat(java): add GlideCredentialProvider support to IamAuthConfig (#6825)",

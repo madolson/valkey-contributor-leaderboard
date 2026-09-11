@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 311,
-  "commit_count": 180,
+  "score": 313,
+  "commit_count": 182,
   "review_count": 131,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "f88417efd5",
+      "message": "fix(rust): release cluster scan cursors on drop (#7027)",
+      "date": "2026-09-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7027",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f88417efd52d4aeccbb7f162d2006fb720774662"
+    },
+    {
+      "sha": "a82ae84f79",
+      "message": "ci: add `dependabot` `cargo` entry for Rust client (#7032)",
+      "date": "2026-09-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7032",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a82ae84f79c12e80b292b27626deb4b9265b68a4"
+    },
     {
       "sha": "0db97bee4e",
       "message": "ci(rust): add test matrix for the Rust client (#6989)",

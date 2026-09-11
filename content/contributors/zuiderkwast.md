@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1236,
+  "score": 1237,
   "commit_count": 153,
-  "review_count": 1083,
+  "review_count": 1084,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1246,6 +1246,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d46565268d",
+      "message": "Implement XACKDEL and XDELEX command (#4629)",
+      "date": "2026-09-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4629",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d46565268d95da6dd3305b33d183168de49c670d"
+    },
     {
       "sha": "7a681df306",
       "message": "Deflake slow slot migration snapshot test (#4640)",

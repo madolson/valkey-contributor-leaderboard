@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 793,
+  "score": 795,
   "commit_count": 45,
-  "review_count": 748,
+  "review_count": 750,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1809c4d5d6",
+      "message": "fix(core): add credentials_provider to IAM test call sites (#7047)",
+      "date": "2026-09-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7047",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1809c4d5d631886b7025f943338befe10864a070"
+    },
+    {
+      "sha": "1e61c7f7da",
+      "message": "feat(ruby): structured Valkey Search (FT.*) builder API (#295)",
+      "date": "2026-09-10",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/295",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/1e61c7f7da1b0fe53d18f0c86c026ae515d573c9"
+    },
     {
       "sha": "c8e9358f96",
       "message": "fix(core): honor blocking-command timeouts and discard poisoned scoped connections (#6978)",

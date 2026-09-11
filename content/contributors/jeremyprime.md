@@ -2,8 +2,8 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 223,
-  "commit_count": 62,
+  "score": 225,
+  "commit_count": 64,
   "review_count": 161,
   "repos": [
     "spring-data-valkey",
@@ -13,6 +13,22 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "1809c4d5d6",
+      "message": "fix(core): add credentials_provider to IAM test call sites (#7047)",
+      "date": "2026-09-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7047",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1809c4d5d631886b7025f943338befe10864a070"
+    },
+    {
+      "sha": "2a88fc9eb2",
+      "message": "fix(core): authenticate scoped connections as the IAM identity (#7022)",
+      "date": "2026-09-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7022",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2a88fc9eb28a8eb1169f570eab3a46bc154ca3e7"
+    },
     {
       "sha": "c8e9358f96",
       "message": "fix(core): honor blocking-command timeouts and discard poisoned scoped connections (#6978)",

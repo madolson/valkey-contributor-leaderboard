@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 450,
+  "score": 452,
   "commit_count": 129,
-  "review_count": 321,
+  "review_count": 323,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -1049,6 +1049,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a82ae84f79",
+      "message": "ci: add `dependabot` `cargo` entry for Rust client (#7032)",
+      "date": "2026-09-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7032",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a82ae84f79c12e80b292b27626deb4b9265b68a4"
+    },
+    {
+      "sha": "2a88fc9eb2",
+      "message": "fix(core): authenticate scoped connections as the IAM identity (#7022)",
+      "date": "2026-09-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7022",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2a88fc9eb28a8eb1169f570eab3a46bc154ca3e7"
+    },
     {
       "sha": "0db97bee4e",
       "message": "ci(rust): add test matrix for the Rust client (#6989)",

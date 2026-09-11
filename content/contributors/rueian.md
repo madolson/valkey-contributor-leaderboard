@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 51,
+  "score": 52,
   "commit_count": 9,
-  "review_count": 42,
+  "review_count": 43,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -94,6 +94,14 @@
       "repo": "valkey-go",
       "pr_url": "https://github.com/valkey-io/valkey-go/pull/167",
       "commit_url": "https://github.com/valkey-io/valkey-go/commit/9b73f94f30693fac4e2564e8ac06282ce4df333a"
+    },
+    {
+      "sha": "8da691f17b",
+      "message": "fix(cluster): re-pick unfinished commands between retry iterations (#151)",
+      "date": "2026-09-10",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/151",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/8da691f17b2867cf977b75d340689f78f504768f"
     },
     {
       "sha": "9767656cac",

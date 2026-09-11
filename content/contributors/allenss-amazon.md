@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 310,
-  "commit_count": 78,
-  "review_count": 232,
+  "score": 313,
+  "commit_count": 79,
+  "review_count": 234,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "028f3066ad",
+      "message": "Fix mangled job condition in Reviewer Triage Board workflow (#1377)",
+      "date": "2026-09-11",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1377",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/028f3066ad472a055f79fc5012dd96442549739e"
+    },
     {
       "sha": "024955289e",
       "message": "New memory allocation machinery (#1360)",
@@ -646,6 +654,22 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1325",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/df38d5f17d497b39d16af6622e511b4748727f78"
+    },
+    {
+      "sha": "ad9ea08b54",
+      "message": "vmsdk: keep std symbols local in versionscript.lds required due to recent change in allocation strategy (#1374)",
+      "date": "2026-09-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1374",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ad9ea08b546b5fc066752a37accfea8d4c5932e2"
+    },
+    {
+      "sha": "ad9ea08b54",
+      "message": "vmsdk: keep std symbols local in versionscript.lds required due to recent change in allocation strategy (#1374)",
+      "date": "2026-09-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1374",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ad9ea08b546b5fc066752a37accfea8d4c5932e2"
     },
     {
       "sha": "3e8f9f7784",

@@ -2,9 +2,9 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 9,
+  "score": 11,
   "commit_count": 2,
-  "review_count": 7,
+  "review_count": 9,
   "repos": [
     "valkey-search"
   ],
@@ -27,6 +27,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "583fe14cdb",
+      "message": "Fix stale RDB restore counters inflating number_of_indexes metric (#1312)",
+      "date": "2026-09-11",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1312",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/583fe14cdbf9e8dce67501f1a49f1b0dbd489b1e"
+    },
+    {
+      "sha": "a450bf9c80",
+      "message": "Avoid main-thread deadlock when draining the multi/exec queue during a fork (#1292)",
+      "date": "2026-09-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1292",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a450bf9c806ba1c86da5e88dfc31b504c1688b0d"
+    },
     {
       "sha": "0190919f15",
       "message": "Fix ThreadPool suspend/resume race with concurrent Resize (#1331)",

@@ -2,14 +2,39 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 101,
-  "commit_count": 63,
-  "review_count": 38,
+  "score": 106,
+  "commit_count": 66,
+  "review_count": 40,
   "repos": [
+    "valkey",
     "valkey-ci-agent",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "202a480581",
+      "message": "bgiteration: fix unit-test feed deadlock under slow execution (#4643)",
+      "date": "2026-09-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4643",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/202a4805816e2b4333c72dd9982510db087088ba"
+    },
+    {
+      "sha": "f9f1b3ee3d",
+      "message": "Making the module global-defrag callback usable (#4487)",
+      "date": "2026-09-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4487",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f9f1b3ee3db1c9091ab9b1ff90adce3b3e71db56"
+    },
+    {
+      "sha": "bf2e6fc726",
+      "message": "Fix SORTBY with NOCONTENT returning unsorted results (#1215) (#1217)",
+      "date": "2026-09-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1217",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/bf2e6fc7268a599205af9cb248c059dd7bff6157"
+    },
     {
       "sha": "cd64cff510",
       "message": "Triage board: include only reviewers GitHub lists on the PR (#1369)",
@@ -516,6 +541,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "583fe14cdb",
+      "message": "Fix stale RDB restore counters inflating number_of_indexes metric (#1312)",
+      "date": "2026-09-11",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1312",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/583fe14cdbf9e8dce67501f1a49f1b0dbd489b1e"
+    },
+    {
+      "sha": "028f3066ad",
+      "message": "Fix mangled job condition in Reviewer Triage Board workflow (#1377)",
+      "date": "2026-09-11",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1377",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/028f3066ad472a055f79fc5012dd96442549739e"
+    },
     {
       "sha": "bbafc3dd09",
       "message": "Skip reviewer triage board workflow in forks (#1359)",

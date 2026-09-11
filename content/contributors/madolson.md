@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 925,
+  "score": 926,
   "commit_count": 209,
-  "review_count": 716,
+  "review_count": 717,
   "repos": [
     ".github",
     "valkey",
@@ -1702,6 +1702,14 @@
       "repo": "valkey-io.github.io",
       "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/651",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/19d45e09413da693cfd78785ee473b3abd348f25"
+    },
+    {
+      "sha": "2f3bcead22",
+      "message": "Cluster Bus IO offload (#3438)",
+      "date": "2026-09-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3438",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2f3bcead223f632217c6031a79c1ff9b804ff386"
     },
     {
       "sha": "da9d58f1b4",

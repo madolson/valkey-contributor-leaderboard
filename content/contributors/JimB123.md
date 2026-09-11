@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 65,
+  "score": 67,
   "commit_count": 24,
-  "review_count": 41,
+  "review_count": 43,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -204,6 +204,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "202a480581",
+      "message": "bgiteration: fix unit-test feed deadlock under slow execution (#4643)",
+      "date": "2026-09-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4643",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/202a4805816e2b4333c72dd9982510db087088ba"
+    },
+    {
+      "sha": "f9f1b3ee3d",
+      "message": "Making the module global-defrag callback usable (#4487)",
+      "date": "2026-09-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4487",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f9f1b3ee3db1c9091ab9b1ff90adce3b3e71db56"
+    },
     {
       "sha": "351eb0c361",
       "message": "Tear down repl throttler when the last replica disconnects (#4595)",

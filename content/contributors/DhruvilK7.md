@@ -2,13 +2,22 @@
   "title": "DhruvilK7",
   "login": "DhruvilK7",
   "avatar_url": "https://avatars.githubusercontent.com/u/194411286?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
-    "valkey-glide"
+    "valkey-glide",
+    "valkey-go"
   ],
   "commit_list": [
+    {
+      "sha": "8da691f17b",
+      "message": "fix(cluster): re-pick unfinished commands between retry iterations (#151)",
+      "date": "2026-09-10",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/151",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/8da691f17b2867cf977b75d340689f78f504768f"
+    },
     {
       "sha": "463b6db3f0",
       "message": "chore(go): use proto.* helpers for optional protobuf assignments in config.go (#6858)",

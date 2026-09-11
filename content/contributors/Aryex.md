@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 271,
+  "score": 272,
   "commit_count": 92,
-  "review_count": 179,
+  "review_count": 180,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -754,6 +754,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1e61c7f7da",
+      "message": "feat(ruby): structured Valkey Search (FT.*) builder API (#295)",
+      "date": "2026-09-10",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/295",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/1e61c7f7da1b0fe53d18f0c86c026ae515d573c9"
+    },
     {
       "sha": "6a6948fc39",
       "message": "Add exception option to multi/pipeline for better errors handling (#299)",

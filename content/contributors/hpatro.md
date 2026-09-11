@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 302,
-  "commit_count": 65,
-  "review_count": 237,
+  "score": 304,
+  "commit_count": 66,
+  "review_count": 238,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -17,6 +17,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "2f3bcead22",
+      "message": "Cluster Bus IO offload (#3438)",
+      "date": "2026-09-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3438",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2f3bcead223f632217c6031a79c1ff9b804ff386"
+    },
     {
       "sha": "c2b8c17a93",
       "message": "Send replica version on dual-channel RDB connection (#4105)",
@@ -539,6 +547,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d46565268d",
+      "message": "Implement XACKDEL and XDELEX command (#4629)",
+      "date": "2026-09-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4629",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d46565268d95da6dd3305b33d183168de49c670d"
+    },
     {
       "sha": "d19563211e",
       "message": "Fix ping_sent getting stuck when peer traffic keeps link alive (#4171)",

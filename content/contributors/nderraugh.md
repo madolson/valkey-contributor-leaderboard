@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 24,
+  "score": 26,
   "commit_count": 5,
-  "review_count": 19,
+  "review_count": 21,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -55,6 +55,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1809c4d5d6",
+      "message": "fix(core): add credentials_provider to IAM test call sites (#7047)",
+      "date": "2026-09-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7047",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1809c4d5d631886b7025f943338befe10864a070"
+    },
+    {
+      "sha": "2a88fc9eb2",
+      "message": "fix(core): authenticate scoped connections as the IAM identity (#7022)",
+      "date": "2026-09-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7022",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2a88fc9eb28a8eb1169f570eab3a46bc154ca3e7"
+    },
     {
       "sha": "953a315093",
       "message": "feat: add LibName and ClientInfoTag to client configuration (#514)",

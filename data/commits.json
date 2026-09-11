@@ -180249,6 +180249,390 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1357"
+    },
+    {
+      "sha": "95e0e9ac7f3a3e7f5963756cad8fb0f9f86ae77b",
+      "author_login": "nemtsv",
+      "author_id": 13330571,
+      "avatar_url": "https://avatars.githubusercontent.com/u/13330571?v=4",
+      "message": "Add AUTH options to CLUSTER MIGRATESLOTS (#3538)",
+      "date": "2026-09-10T20:32:59Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "murphyjacob4",
+          "date": "2026-09-10T20:32:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3538"
+    },
+    {
+      "sha": "d46565268d95da6dd3305b33d183168de49c670d",
+      "author_login": "nickiaq",
+      "author_id": 271660280,
+      "avatar_url": "https://avatars.githubusercontent.com/u/271660280?v=4",
+      "message": "Implement XACKDEL and XDELEX command (#4629)",
+      "date": "2026-09-10T18:55:04Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "hpatro",
+          "date": "2026-09-10T15:27:04Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-09-10T15:42:49Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4629"
+    },
+    {
+      "sha": "c80da010b57ee578246ea30173306cd5ae12364f",
+      "author_login": "frostzt",
+      "author_id": 25434993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25434993?v=4",
+      "message": "Listpack encoding for Hash field expiration (#3212)",
+      "date": "2026-09-10T17:13:07Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "ranshid",
+          "date": "2026-09-10T14:05:14Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3212"
+    },
+    {
+      "sha": "202a4805816e2b4333c72dd9982510db087088ba",
+      "author_login": "Aksha1812",
+      "author_id": 48383029,
+      "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
+      "message": "bgiteration: fix unit-test feed deadlock under slow execution (#4643)",
+      "date": "2026-09-10T17:04:00Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "JimB123",
+          "date": "2026-09-10T17:02:28Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4643"
+    },
+    {
+      "sha": "f9f1b3ee3db1c9091ab9b1ff90adce3b3e71db56",
+      "author_login": "Aksha1812",
+      "author_id": 48383029,
+      "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
+      "message": "Making the module global-defrag callback usable (#4487)",
+      "date": "2026-09-10T16:15:52Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "JimB123",
+          "date": "2026-09-09T15:43:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4487"
+    },
+    {
+      "sha": "2f3bcead223f632217c6031a79c1ff9b804ff386",
+      "author_login": "hpatro",
+      "author_id": 30795839,
+      "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
+      "message": "Cluster Bus IO offload (#3438)",
+      "date": "2026-09-10T14:03:29Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-09-09T23:10:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3438"
+    },
+    {
+      "sha": "1809c4d5d631886b7025f943338befe10864a070",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "fix(core): add credentials_provider to IAM test call sites (#7047)",
+      "date": "2026-09-10T20:18:35Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-09-10T19:26:52Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-09-10T19:45:10Z"
+        },
+        {
+          "login": "nderraugh",
+          "date": "2026-09-10T20:10:15Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7047"
+    },
+    {
+      "sha": "f88417efd52d4aeccbb7f162d2006fb720774662",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "fix(rust): release cluster scan cursors on drop (#7027)",
+      "date": "2026-09-10T19:16:20Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-09-10T00:02:47Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-09-10T17:56:00Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7027"
+    },
+    {
+      "sha": "a82ae84f79c12e80b292b27626deb4b9265b68a4",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "ci: add `dependabot` `cargo` entry for Rust client (#7032)",
+      "date": "2026-09-10T19:02:26Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-09-10T17:03:30Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-09-10T19:01:20Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7032"
+    },
+    {
+      "sha": "2a88fc9eb28a8eb1169f570eab3a46bc154ca3e7",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "fix(core): authenticate scoped connections as the IAM identity (#7022)",
+      "date": "2026-09-10T18:04:03Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-09-09T23:02:15Z"
+        },
+        {
+          "login": "nderraugh",
+          "date": "2026-09-10T17:59:00Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7022"
+    },
+    {
+      "sha": "1e61c7f7da1b0fe53d18f0c86c026ae515d573c9",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "feat(ruby): structured Valkey Search (FT.*) builder API (#295)",
+      "date": "2026-09-10T21:23:26Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-09-01T16:54:48Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-09-10T20:41:45Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/295"
+    },
+    {
+      "sha": "8da691f17b2867cf977b75d340689f78f504768f",
+      "author_login": "DhruvilK7",
+      "author_id": 194411286,
+      "avatar_url": "https://avatars.githubusercontent.com/u/194411286?v=4",
+      "message": "fix(cluster): re-pick unfinished commands between retry iterations (#151)",
+      "date": "2026-09-10T15:44:47Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-09-10T15:44:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/151"
+    },
+    {
+      "sha": "106ab1cae38dba43269924b84549be6a68c51b40",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Let a post override its unfurl image (#666)",
+      "date": "2026-09-10T16:45:02Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3bd5e545b455987180674387311ca179805c5a56",
+      "author_login": "valkeyrie-ops[bot]",
+      "author_id": 284117741,
+      "avatar_url": "https://avatars.githubusercontent.com/u/164458127?v=4",
+      "message": "Publish scheduled blog posts",
+      "date": "2026-09-10T16:10:29Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "eb27f79ffaaa13f594cb55628c44bed60be8a573",
+      "author_login": "EvgeniyPatlan",
+      "author_id": 18436759,
+      "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
+      "message": "Add support for Ubuntu 26.04 platform",
+      "date": "2026-09-10T08:30:25Z",
+      "repo": "valkey-ldap",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "6d661c4609d0d7492774ec7236cc2a0c0d80b992",
+      "author_login": "EvgeniyPatlan",
+      "author_id": 18436759,
+      "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
+      "message": "Renove Debian 11 from supported platforms as it is EOL",
+      "date": "2026-09-10T08:30:25Z",
+      "repo": "valkey-ldap",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "583fe14cdbf9e8dce67501f1a49f1b0dbd489b1e",
+      "author_login": "Shikha-code36",
+      "author_id": 85352745,
+      "avatar_url": "https://avatars.githubusercontent.com/u/85352745?v=4",
+      "message": "Fix stale RDB restore counters inflating number_of_indexes metric (#1312)",
+      "date": "2026-09-11T02:41:39Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "mohanrajendran",
+          "date": "2026-08-27T01:23:43Z"
+        },
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-09-03T21:05:46Z"
+        },
+        {
+          "login": "Aksha1812",
+          "date": "2026-09-10T02:41:32Z"
+        },
+        {
+          "login": "BCathcart",
+          "date": "2026-09-11T01:46:47Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1312"
+    },
+    {
+      "sha": "028f3066ad472a055f79fc5012dd96442549739e",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Fix mangled job condition in Reviewer Triage Board workflow (#1377)",
+      "date": "2026-09-11T00:43:49Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Aksha1812",
+          "date": "2026-09-10T23:10:38Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1377"
+    },
+    {
+      "sha": "f737938b5639c6c770db27e3e415beeb5029769f",
+      "author_login": "yairgott",
+      "author_id": 19560967,
+      "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
+      "message": "Run integration tests in parallel (reduces runtime from ~12 minutes to ~95 seconds) (#1355)",
+      "date": "2026-09-10T23:28:11Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "zackcam",
+          "date": "2026-09-10T22:33:12Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1355"
+    },
+    {
+      "sha": "bf2e6fc7268a599205af9cb248c059dd7bff6157",
+      "author_login": "Aksha1812",
+      "author_id": 48383029,
+      "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
+      "message": "Fix SORTBY with NOCONTENT returning unsorted results (#1215) (#1217)",
+      "date": "2026-09-10T22:51:20Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "boda26",
+          "date": "2026-09-10T16:37:53Z"
+        },
+        {
+          "login": "KarthikSubbarao",
+          "date": "2026-09-10T19:28:12Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1217"
+    },
+    {
+      "sha": "ad9ea08b546b5fc066752a37accfea8d4c5932e2",
+      "author_login": "yairgott",
+      "author_id": 19560967,
+      "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
+      "message": "vmsdk: keep std symbols local in versionscript.lds required due to recent change in allocation strategy (#1374)",
+      "date": "2026-09-10T18:26:57Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-09-10T15:09:06Z"
+        },
+        {
+          "login": "allenss-amazon",
+          "date": "2026-09-10T15:50:54Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1374"
+    },
+    {
+      "sha": "a450bf9c806ba1c86da5e88dfc31b504c1688b0d",
+      "author_login": "txchmechanicus",
+      "author_id": 86063556,
+      "avatar_url": "https://avatars.githubusercontent.com/u/86063556?v=4",
+      "message": "Avoid main-thread deadlock when draining the multi/exec queue during a fork (#1292)",
+      "date": "2026-09-10T16:24:20Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "mohanrajendran",
+          "date": "2026-08-12T20:56:57Z"
+        },
+        {
+          "login": "KarthikSubbarao",
+          "date": "2026-09-10T16:23:18Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1292"
     }
   ]
 }

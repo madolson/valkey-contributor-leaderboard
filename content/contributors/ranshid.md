@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 306,
+  "score": 307,
   "commit_count": 96,
-  "review_count": 210,
+  "review_count": 211,
   "repos": [
     "valkey",
     "valkey-container",
@@ -786,6 +786,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c80da010b5",
+      "message": "Listpack encoding for Hash field expiration (#3212)",
+      "date": "2026-09-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3212",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c80da010b57ee578246ea30173306cd5ae12364f"
+    },
     {
       "sha": "205fde3d3d",
       "message": "Fix test_reclaimFilePageCache to avoid tmpfs (#4362)",

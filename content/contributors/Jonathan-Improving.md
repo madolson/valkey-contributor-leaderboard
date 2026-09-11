@@ -2,8 +2,8 @@
   "title": "Jonathan-Improving",
   "login": "Jonathan-Improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
-  "score": 5,
-  "commit_count": 4,
+  "score": 6,
+  "commit_count": 5,
   "review_count": 1,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "1e61c7f7da",
+      "message": "feat(ruby): structured Valkey Search (FT.*) builder API (#295)",
+      "date": "2026-09-10",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/295",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/1e61c7f7da1b0fe53d18f0c86c026ae515d573c9"
+    },
     {
       "sha": "953a315093",
       "message": "feat: add LibName and ClientInfoTag to client configuration (#514)",

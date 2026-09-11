@@ -2,8 +2,8 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 118,
-  "commit_count": 36,
+  "score": 120,
+  "commit_count": 38,
   "review_count": 82,
   "repos": [
     "valkey",
@@ -20,6 +20,22 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1325",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/df38d5f17d497b39d16af6622e511b4748727f78"
+    },
+    {
+      "sha": "f737938b56",
+      "message": "Run integration tests in parallel (reduces runtime from ~12 minutes to ~95 seconds) (#1355)",
+      "date": "2026-09-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1355",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/f737938b5639c6c770db27e3e415beeb5029769f"
+    },
+    {
+      "sha": "ad9ea08b54",
+      "message": "vmsdk: keep std symbols local in versionscript.lds required due to recent change in allocation strategy (#1374)",
+      "date": "2026-09-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1374",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ad9ea08b546b5fc066752a37accfea8d4c5932e2"
     },
     {
       "sha": "5662dc10c7",

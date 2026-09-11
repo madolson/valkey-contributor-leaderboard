@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 17,
+  "score": 18,
   "commit_count": 8,
-  "review_count": 9,
+  "review_count": 10,
   "repos": [
     "valkey-search"
   ],
@@ -75,6 +75,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "583fe14cdb",
+      "message": "Fix stale RDB restore counters inflating number_of_indexes metric (#1312)",
+      "date": "2026-09-11",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1312",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/583fe14cdbf9e8dce67501f1a49f1b0dbd489b1e"
+    },
     {
       "sha": "024955289e",
       "message": "New memory allocation machinery (#1360)",

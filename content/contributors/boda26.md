@@ -2,9 +2,9 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 76,
+  "score": 77,
   "commit_count": 45,
-  "review_count": 31,
+  "review_count": 32,
   "repos": [
     "valkey-search"
   ],
@@ -371,6 +371,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bf2e6fc726",
+      "message": "Fix SORTBY with NOCONTENT returning unsorted results (#1215) (#1217)",
+      "date": "2026-09-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1217",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/bf2e6fc7268a599205af9cb248c059dd7bff6157"
+    },
     {
       "sha": "e7e60037bb",
       "message": "Reapplies indexing for zero-length keys(#1171)  (#1310)",

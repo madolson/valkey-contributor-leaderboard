@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 277,
+  "score": 279,
   "commit_count": 96,
-  "review_count": 181,
+  "review_count": 183,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -783,6 +783,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1809c4d5d6",
+      "message": "fix(core): add credentials_provider to IAM test call sites (#7047)",
+      "date": "2026-09-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7047",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1809c4d5d631886b7025f943338befe10864a070"
+    },
+    {
+      "sha": "f88417efd5",
+      "message": "fix(rust): release cluster scan cursors on drop (#7027)",
+      "date": "2026-09-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7027",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f88417efd52d4aeccbb7f162d2006fb720774662"
+    },
     {
       "sha": "f134539a79",
       "message": "feat(rust): set library name and version at runtime (#6876) (#7004)",

@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 281,
+  "score": 282,
   "commit_count": 81,
-  "review_count": 200,
+  "review_count": 201,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -663,6 +663,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f88417efd5",
+      "message": "fix(rust): release cluster scan cursors on drop (#7027)",
+      "date": "2026-09-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7027",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f88417efd52d4aeccbb7f162d2006fb720774662"
+    },
     {
       "sha": "0db97bee4e",
       "message": "ci(rust): add test matrix for the Rust client (#6989)",

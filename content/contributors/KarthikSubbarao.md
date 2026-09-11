@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 268,
+  "score": 270,
   "commit_count": 100,
-  "review_count": 168,
+  "review_count": 170,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -819,6 +819,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bf2e6fc726",
+      "message": "Fix SORTBY with NOCONTENT returning unsorted results (#1215) (#1217)",
+      "date": "2026-09-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1217",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/bf2e6fc7268a599205af9cb248c059dd7bff6157"
+    },
+    {
+      "sha": "a450bf9c80",
+      "message": "Avoid main-thread deadlock when draining the multi/exec queue during a fork (#1292)",
+      "date": "2026-09-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1292",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a450bf9c806ba1c86da5e88dfc31b504c1688b0d"
+    },
     {
       "sha": "cd64cff510",
       "message": "Triage board: include only reviewers GitHub lists on the PR (#1369)",

@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 142,
+  "score": 143,
   "commit_count": 46,
-  "review_count": 96,
+  "review_count": 97,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -382,6 +382,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "95e0e9ac7f",
+      "message": "Add AUTH options to CLUSTER MIGRATESLOTS (#3538)",
+      "date": "2026-09-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3538",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/95e0e9ac7f3a3e7f5963756cad8fb0f9f86ae77b"
+    },
     {
       "sha": "bb741667dd",
       "message": "Reject non-migration clients for CLUSTER SYNCSLOTS FINISH (#4330)",

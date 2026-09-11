@@ -2,13 +2,21 @@
   "title": "frostzt",
   "login": "frostzt",
   "avatar_url": "https://avatars.githubusercontent.com/u/25434993?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "c80da010b5",
+      "message": "Listpack encoding for Hash field expiration (#3212)",
+      "date": "2026-09-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3212",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c80da010b57ee578246ea30173306cd5ae12364f"
+    },
     {
       "sha": "e4a3e9f0a2",
       "message": "fix(hash): Untrack hash with volatile fields when it is overwritten  (#3003)",
