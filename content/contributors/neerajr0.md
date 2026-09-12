@@ -2,14 +2,30 @@
   "title": "neerajr0",
   "login": "neerajr0",
   "avatar_url": "https://github.com/neerajr0.png?size=64",
-  "score": 3,
+  "score": 5,
   "commit_count": 0,
-  "review_count": 3,
+  "review_count": 5,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [],
   "review_list": [
+    {
+      "sha": "8b2fd84b95",
+      "message": "Install gcc14 static libstdc++ for benchmark builds due to #1360 (#1383)",
+      "date": "2026-09-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1383",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8b2fd84b957950282bab15a4ba399b80bd72d735"
+    },
+    {
+      "sha": "bd6d2f238b",
+      "message": "fixing redis search divergence #4: sort key prefix always use #; strings should use $ (#1364)",
+      "date": "2026-09-11",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1364",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/bd6d2f238be340095a382a8031f40b96e76d0702"
+    },
     {
       "sha": "e4880d4574",
       "message": "Extended Array compatibility fixes (#1271)",

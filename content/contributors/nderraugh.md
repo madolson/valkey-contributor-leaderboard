@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 26,
+  "score": 27,
   "commit_count": 5,
-  "review_count": 21,
+  "review_count": 22,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -55,6 +55,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d0e1292a76",
+      "message": "fix(core): accept max_total concurrent scopes, not max_total - 1 (#7030)",
+      "date": "2026-09-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7030",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d0e1292a76b02a5b39bcf78e6d5a437eba908ae1"
+    },
     {
       "sha": "1809c4d5d6",
       "message": "fix(core): add credentials_provider to IAM test call sites (#7047)",

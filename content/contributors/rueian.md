@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 52,
+  "score": 53,
   "commit_count": 9,
-  "review_count": 43,
+  "review_count": 44,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "471343adf5",
+      "message": "valkeycompat: add ReplicaOf command support to adapter, pipeline (#168)",
+      "date": "2026-09-12",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/168",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/471343adf5e04af19a9ca6181af258557bbe8514"
+    },
     {
       "sha": "9b73f94f30",
       "message": "valkeycompat: add SlowLogLen support for adapter and pipeline (#167)",

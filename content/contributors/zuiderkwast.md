@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1237,
+  "score": 1241,
   "commit_count": 153,
-  "review_count": 1084,
+  "review_count": 1088,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1246,6 +1246,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "03a7447bd8",
+      "message": "Add support for secondary certificates (#3717)",
+      "date": "2026-09-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3717",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/03a7447bd8da49e6c601ce069136abb9cd943e4f"
+    },
+    {
+      "sha": "13c66b82e1",
+      "message": "Fail fast on empty CA directory at TLS config load (#3522)",
+      "date": "2026-09-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3522",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/13c66b82e1fbfdf28189645af03cbd9f6c091aaf"
+    },
+    {
+      "sha": "4be324e887",
+      "message": "Streaming Compression support for fullsync",
+      "date": "2026-09-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4075",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4be324e8878fb0332353ad4886fa3940dbd23f91"
+    },
+    {
+      "sha": "98f9152124",
+      "message": "Fix XPENDING reply schema for empty pending lists (#4653)",
+      "date": "2026-09-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4653",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/98f91521245b8ca20523616e3243799ca5d1a08e"
+    },
     {
       "sha": "d46565268d",
       "message": "Implement XACKDEL and XDELEX command (#4629)",

@@ -2,9 +2,9 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 120,
+  "score": 122,
   "commit_count": 38,
-  "review_count": 82,
+  "review_count": 84,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -319,6 +319,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "207aa05913",
+      "message": "Remove continue in OnFlushDBEnded, to async free when recreate fails (#1204)",
+      "date": "2026-09-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1204",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/207aa05913eecbcc30425fdbbd356611c9f3f78a"
+    },
+    {
+      "sha": "feccde4ad3",
+      "message": "fix: guard HNSW prefetches against empty neighbor lists (#1320)",
+      "date": "2026-09-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1320",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/feccde4ad36b9b9acec6c091a4467d64beddba5b"
+    },
     {
       "sha": "20efe9774e",
       "message": "Add CODEOWNERS to auto-request team review on all PRs (#1294)",

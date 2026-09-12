@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 109,
+  "score": 110,
   "commit_count": 40,
-  "review_count": 69,
+  "review_count": 70,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -341,6 +341,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1312",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/583fe14cdbf9e8dce67501f1a49f1b0dbd489b1e"
+    },
+    {
+      "sha": "bd6d2f238b",
+      "message": "fixing redis search divergence #4: sort key prefix always use #; strings should use $ (#1364)",
+      "date": "2026-09-11",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1364",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/bd6d2f238be340095a382a8031f40b96e76d0702"
     },
     {
       "sha": "e7e60037bb",

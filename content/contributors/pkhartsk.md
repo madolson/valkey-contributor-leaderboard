@@ -2,13 +2,21 @@
   "title": "pkhartsk",
   "login": "pkhartsk",
   "avatar_url": "https://avatars.githubusercontent.com/u/225215338?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "03a7447bd8",
+      "message": "Add support for secondary certificates (#3717)",
+      "date": "2026-09-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3717",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/03a7447bd8da49e6c601ce069136abb9cd943e4f"
+    },
     {
       "sha": "64c73aacde",
       "message": "Log certificate errors in isCertValid (OpenSSL 4.0 only) (#4064)",

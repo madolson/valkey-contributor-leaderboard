@@ -2,14 +2,23 @@
   "title": "bluayer",
   "login": "bluayer",
   "avatar_url": "https://avatars.githubusercontent.com/u/37579681?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey",
-    "valkey-doc"
+    "valkey-doc",
+    "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "feccde4ad3",
+      "message": "fix: guard HNSW prefetches against empty neighbor lists (#1320)",
+      "date": "2026-09-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1320",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/feccde4ad36b9b9acec6c091a4467d64beddba5b"
+    },
     {
       "sha": "b8ccd9151d",
       "message": "Add description about benchmark option '--rfr' (#254)",

@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 418,
-  "commit_count": 153,
-  "review_count": 265,
+  "score": 420,
+  "commit_count": 154,
+  "review_count": 266,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -20,6 +20,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "4be324e887",
+      "message": "Streaming Compression support for fullsync",
+      "date": "2026-09-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4075",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4be324e8878fb0332353ad4886fa3940dbd23f91"
+    },
     {
       "sha": "2d44c74996",
       "message": "Nested prefetching for hash and zset inner hashtables (#3940)",
@@ -1246,6 +1254,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "98f9152124",
+      "message": "Fix XPENDING reply schema for empty pending lists (#4653)",
+      "date": "2026-09-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4653",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/98f91521245b8ca20523616e3243799ca5d1a08e"
+    },
     {
       "sha": "05df39db5a",
       "message": "Move build-debian-old CI job to Debian Bookworm (#4613)",

@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 60,
+  "score": 61,
   "commit_count": 25,
-  "review_count": 35,
+  "review_count": 36,
   "repos": [
     "valkey-operator"
   ],
@@ -211,6 +211,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3ec092dabb",
+      "message": "feat: optional pprof endpoint for profiling the operator (#435)",
+      "date": "2026-09-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/435",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3ec092dabbb8cdd9f3b70f3b4a2efedf760eb771"
+    },
     {
       "sha": "d52b7823a4",
       "message": "chore(deps): bump docker/login-action from 4.2.0 to 4.6.0 (#420)",

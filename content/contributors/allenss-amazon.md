@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 313,
+  "score": 315,
   "commit_count": 79,
-  "review_count": 234,
+  "review_count": 236,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -647,6 +647,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8b2fd84b95",
+      "message": "Install gcc14 static libstdc++ for benchmark builds due to #1360 (#1383)",
+      "date": "2026-09-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1383",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8b2fd84b957950282bab15a4ba399b80bd72d735"
+    },
+    {
+      "sha": "207aa05913",
+      "message": "Remove continue in OnFlushDBEnded, to async free when recreate fails (#1204)",
+      "date": "2026-09-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1204",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/207aa05913eecbcc30425fdbbd356611c9f3f78a"
+    },
     {
       "sha": "df38d5f17d",
       "message": "Fix VectorRegistry lifecycle management, multi-DB isolation, and server event handling (#1325)",

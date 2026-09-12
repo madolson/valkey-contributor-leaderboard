@@ -2,8 +2,8 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 253,
-  "commit_count": 123,
+  "score": 254,
+  "commit_count": 124,
   "review_count": 130,
   "repos": [
     "libvalkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "3ec092dabb",
+      "message": "feat: optional pprof endpoint for profiling the operator (#435)",
+      "date": "2026-09-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/435",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3ec092dabbb8cdd9f3b70f3b4a2efedf760eb771"
+    },
     {
       "sha": "a2d8cf876a",
       "message": "Release valkey-operator 0.6.0 (#244)",

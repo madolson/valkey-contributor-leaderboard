@@ -2,8 +2,8 @@
   "title": "yang-z-o",
   "login": "yang-z-o",
   "avatar_url": "https://avatars.githubusercontent.com/u/30397795?v=4",
-  "score": 17,
-  "commit_count": 11,
+  "score": 18,
+  "commit_count": 12,
   "review_count": 6,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-swift"
   ],
   "commit_list": [
+    {
+      "sha": "13c66b82e1",
+      "message": "Fail fast on empty CA directory at TLS config load (#3522)",
+      "date": "2026-09-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3522",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/13c66b82e1fbfdf28189645af03cbd9f6c091aaf"
+    },
     {
       "sha": "fc00f7be03",
       "message": "Fix VLA warning in io_threads (#3518)",

@@ -2,8 +2,8 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 270,
-  "commit_count": 100,
+  "score": 271,
+  "commit_count": 101,
   "review_count": 170,
   "repos": [
     "valkey",
@@ -17,6 +17,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "207aa05913",
+      "message": "Remove continue in OnFlushDBEnded, to async free when recreate fails (#1204)",
+      "date": "2026-09-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1204",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/207aa05913eecbcc30425fdbbd356611c9f3f78a"
+    },
     {
       "sha": "53ae957fd7",
       "message": "feat: overload protection - 2 mechanisms to prevent an ever growing query queue  (#1276)",

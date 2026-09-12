@@ -2,13 +2,21 @@
   "title": "kumariam-ai",
   "login": "kumariam-ai",
   "avatar_url": "https://avatars.githubusercontent.com/u/321359226?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey-go"
   ],
   "commit_list": [
+    {
+      "sha": "471343adf5",
+      "message": "valkeycompat: add ReplicaOf command support to adapter, pipeline (#168)",
+      "date": "2026-09-12",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/168",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/471343adf5e04af19a9ca6181af258557bbe8514"
+    },
     {
       "sha": "9b73f94f30",
       "message": "valkeycompat: add SlowLogLen support for adapter and pipeline (#167)",

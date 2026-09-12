@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 926,
+  "score": 929,
   "commit_count": 209,
-  "review_count": 717,
+  "review_count": 720,
   "repos": [
     ".github",
     "valkey",
@@ -1695,6 +1695,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "da91ccd12f",
+      "message": "Fix double-promotion compilation error in test_util.cpp (#4624)",
+      "date": "2026-09-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4624",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/da91ccd12f2961575102aea1f1020985debefb9f"
+    },
+    {
+      "sha": "4be324e887",
+      "message": "Streaming Compression support for fullsync",
+      "date": "2026-09-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4075",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4be324e8878fb0332353ad4886fa3940dbd23f91"
+    },
+    {
+      "sha": "a77986fbc9",
+      "message": "Redisson description and version updated (#480)",
+      "date": "2026-09-11",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/480",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/a77986fbc98df006a5d113323a1c908fef7bc4d4"
+    },
     {
       "sha": "19d45e0941",
       "message": "Add blog post: Finding big keys in a running Valkey cluster with Valkey Admin (#651)",

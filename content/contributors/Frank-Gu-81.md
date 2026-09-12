@@ -2,13 +2,21 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 18,
-  "commit_count": 8,
+  "score": 19,
+  "commit_count": 9,
   "review_count": 10,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "8b2fd84b95",
+      "message": "Install gcc14 static libstdc++ for benchmark builds due to #1360 (#1383)",
+      "date": "2026-09-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1383",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8b2fd84b957950282bab15a4ba399b80bd72d735"
+    },
     {
       "sha": "c8601e0d7f",
       "message": "Follow-ups from #1268 (the PR search benchmark workflow) (#1317)",
