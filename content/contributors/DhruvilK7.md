@@ -2,14 +2,22 @@
   "title": "DhruvilK7",
   "login": "DhruvilK7",
   "avatar_url": "https://avatars.githubusercontent.com/u/194411286?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey-glide",
     "valkey-go"
   ],
   "commit_list": [
+    {
+      "sha": "12c94e09bd",
+      "message": "perf(cluster): consolidate keyless commands onto one conn on retry (#180)",
+      "date": "2026-09-13",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/180",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/12c94e09bdb51eb72a7ede853827ea98a769ef24"
+    },
     {
       "sha": "8da691f17b",
       "message": "fix(cluster): re-pick unfinished commands between retry iterations (#151)",

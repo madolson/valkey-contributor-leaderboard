@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 19,
+  "score": 20,
   "commit_count": 9,
-  "review_count": 10,
+  "review_count": 11,
   "repos": [
     "valkey-search"
   ],
@@ -83,6 +83,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "707324aa1d",
+      "message": "FT.AGGREGATE: SORTBY ignores a following LIMIT, breaking paging past the first page (#1373)",
+      "date": "2026-09-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1373",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/707324aa1d410b62d120be846649e0e49e0bdbde"
+    },
     {
       "sha": "583fe14cdb",
       "message": "Fix stale RDB restore counters inflating number_of_indexes metric (#1312)",

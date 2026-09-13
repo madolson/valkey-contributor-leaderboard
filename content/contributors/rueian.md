@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 53,
+  "score": 55,
   "commit_count": 9,
-  "review_count": 44,
+  "review_count": 46,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -88,12 +88,28 @@
   ],
   "review_list": [
     {
+      "sha": "12c94e09bd",
+      "message": "perf(cluster): consolidate keyless commands onto one conn on retry (#180)",
+      "date": "2026-09-13",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/180",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/12c94e09bdb51eb72a7ede853827ea98a769ef24"
+    },
+    {
       "sha": "471343adf5",
       "message": "valkeycompat: add ReplicaOf command support to adapter, pipeline (#168)",
       "date": "2026-09-12",
       "repo": "valkey-go",
       "pr_url": "https://github.com/valkey-io/valkey-go/pull/168",
       "commit_url": "https://github.com/valkey-io/valkey-go/commit/471343adf5e04af19a9ca6181af258557bbe8514"
+    },
+    {
+      "sha": "d745f13865",
+      "message": "provide ser/de funcs with context and cache key (#170)",
+      "date": "2026-09-12",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/170",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/d745f138653c84b6eda109f123650dcff151afef"
     },
     {
       "sha": "9b73f94f30",

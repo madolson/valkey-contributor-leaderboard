@@ -180937,6 +180937,90 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1364"
+    },
+    {
+      "sha": "12c94e09bdb51eb72a7ede853827ea98a769ef24",
+      "author_login": "DhruvilK7",
+      "author_id": 194411286,
+      "avatar_url": "https://avatars.githubusercontent.com/u/194411286?v=4",
+      "message": "perf(cluster): consolidate keyless commands onto one conn on retry (#180)",
+      "date": "2026-09-13T01:51:17Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-09-13T01:49:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/180"
+    },
+    {
+      "sha": "d745f138653c84b6eda109f123650dcff151afef",
+      "author_login": "nelzblooket",
+      "author_id": 194830038,
+      "avatar_url": "https://avatars.githubusercontent.com/u/194830038?v=4",
+      "message": "provide ser/de funcs with context and cache key (#170)",
+      "date": "2026-09-12T15:16:40Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-09-12T15:16:31Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/170"
+    },
+    {
+      "sha": "707324aa1d410b62d120be846649e0e49e0bdbde",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "FT.AGGREGATE: SORTBY ignores a following LIMIT, breaking paging past the first page (#1373)",
+      "date": "2026-09-12T19:48:56Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-09-12T02:07:27Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1373"
+    },
+    {
+      "sha": "9db11eff590e6fae0d9ce8ca709d81d988ac9c7c",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Move compatibility reference to redis:latest and fix what it exposed (supersedes #1068, #1239) (#1366)",
+      "date": "2026-09-12T18:08:56Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "BCathcart",
+          "date": "2026-09-12T00:49:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1366"
+    },
+    {
+      "sha": "c7c4579dc4a181a8949c7dfbd6d0e014bb15d5ca",
+      "author_login": "yairgott",
+      "author_id": 19560967,
+      "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
+      "message": "Fix HNSW insertion failure on tombstone clusters and self-heal root (#1362)",
+      "date": "2026-09-12T15:23:42Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-09-11T21:37:27Z"
+        },
+        {
+          "login": "allenss-amazon",
+          "date": "2026-09-12T03:20:34Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1362"
     }
   ]
 }

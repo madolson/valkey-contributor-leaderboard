@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 315,
-  "commit_count": 79,
-  "review_count": 236,
+  "score": 319,
+  "commit_count": 81,
+  "review_count": 238,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "707324aa1d",
+      "message": "FT.AGGREGATE: SORTBY ignores a following LIMIT, breaking paging past the first page (#1373)",
+      "date": "2026-09-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1373",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/707324aa1d410b62d120be846649e0e49e0bdbde"
+    },
+    {
+      "sha": "9db11eff59",
+      "message": "Move compatibility reference to redis:latest and fix what it exposed (supersedes #1068, #1239) (#1366)",
+      "date": "2026-09-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1366",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/9db11eff590e6fae0d9ce8ca709d81d988ac9c7c"
+    },
     {
       "sha": "028f3066ad",
       "message": "Fix mangled job condition in Reviewer Triage Board workflow (#1377)",
@@ -662,6 +678,22 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1204",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/207aa05913eecbcc30425fdbbd356611c9f3f78a"
+    },
+    {
+      "sha": "c7c4579dc4",
+      "message": "Fix HNSW insertion failure on tombstone clusters and self-heal root (#1362)",
+      "date": "2026-09-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1362",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c7c4579dc4a181a8949c7dfbd6d0e014bb15d5ca"
+    },
+    {
+      "sha": "c7c4579dc4",
+      "message": "Fix HNSW insertion failure on tombstone clusters and self-heal root (#1362)",
+      "date": "2026-09-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1362",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c7c4579dc4a181a8949c7dfbd6d0e014bb15d5ca"
     },
     {
       "sha": "df38d5f17d",

@@ -2,8 +2,8 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 122,
-  "commit_count": 38,
+  "score": 123,
+  "commit_count": 39,
   "review_count": 84,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "c7c4579dc4",
+      "message": "Fix HNSW insertion failure on tombstone clusters and self-heal root (#1362)",
+      "date": "2026-09-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1362",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c7c4579dc4a181a8949c7dfbd6d0e014bb15d5ca"
+    },
     {
       "sha": "df38d5f17d",
       "message": "Fix VectorRegistry lifecycle management, multi-DB isolation, and server event handling (#1325)",

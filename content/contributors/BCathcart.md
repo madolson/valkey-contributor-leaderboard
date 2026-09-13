@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 110,
+  "score": 111,
   "commit_count": 40,
-  "review_count": 70,
+  "review_count": 71,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -334,6 +334,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9db11eff59",
+      "message": "Move compatibility reference to redis:latest and fix what it exposed (supersedes #1068, #1239) (#1366)",
+      "date": "2026-09-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1366",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/9db11eff590e6fae0d9ce8ca709d81d988ac9c7c"
+    },
     {
       "sha": "583fe14cdb",
       "message": "Fix stale RDB restore counters inflating number_of_indexes metric (#1312)",
