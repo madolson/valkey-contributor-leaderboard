@@ -2,8 +2,8 @@
   "title": "DhruvilK7",
   "login": "DhruvilK7",
   "avatar_url": "https://avatars.githubusercontent.com/u/194411286?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "valkey-glide",
@@ -17,6 +17,14 @@
       "repo": "valkey-go",
       "pr_url": "https://github.com/valkey-io/valkey-go/pull/180",
       "commit_url": "https://github.com/valkey-io/valkey-go/commit/12c94e09bdb51eb72a7ede853827ea98a769ef24"
+    },
+    {
+      "sha": "737e583f6b",
+      "message": "feat(cluster): add opt-in PreferClusterShards to use CLUSTER SHARDS before version 8 (#181)",
+      "date": "2026-09-13",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/181",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/737e583f6b71fe56ac9e1a3ef8bd188a2f0053a5"
     },
     {
       "sha": "8da691f17b",

@@ -606,7 +606,7 @@
       "name": "Binbin",
       "company": "Tencent Cloud NoSQL",
       "commits": 391,
-      "reviews": 581,
+      "reviews": 582,
       "per_repo": {
         "valkey": {
           "2024-04": [
@@ -727,7 +727,7 @@
           ],
           "2026-09": [
             8,
-            3
+            4
           ]
         },
         "valkey-bloom": {
@@ -849,7 +849,7 @@
           ]
         }
       },
-      "score": 972,
+      "score": 973,
       "repos": [
         "valkey",
         "valkey-bloom",
@@ -3060,7 +3060,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
       "name": "Allen Samuels",
       "company": "Amazon Web Services",
-      "commits": 81,
+      "commits": 82,
       "reviews": 238,
       "per_repo": {
         "valkey": {
@@ -3169,12 +3169,12 @@
             4
           ],
           "2026-09": [
-            9,
+            10,
             10
           ]
         }
       },
-      "score": 319,
+      "score": 320,
       "repos": [
         "valkey",
         "valkey-doc",
@@ -10186,7 +10186,7 @@
       "name": "Rueian",
       "company": "",
       "commits": 9,
-      "reviews": 46,
+      "reviews": 47,
       "per_repo": {
         "valkey": {
           "2025-01": [
@@ -10285,7 +10285,7 @@
           ],
           "2026-09": [
             0,
-            10
+            11
           ]
         },
         "valkey-operator": {
@@ -10295,7 +10295,7 @@
           ]
         }
       },
-      "score": 55,
+      "score": 56,
       "repos": [
         "valkey",
         "valkey-doc",
@@ -14227,6 +14227,31 @@
       ]
     },
     {
+      "login": "mohanrajendran",
+      "id": 4929558,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
+      "name": "Mohan Rajendran",
+      "company": "Amazon",
+      "commits": 2,
+      "reviews": 10,
+      "per_repo": {
+        "valkey-search": {
+          "2026-08": [
+            0,
+            7
+          ],
+          "2026-09": [
+            2,
+            3
+          ]
+        }
+      },
+      "score": 12,
+      "repos": [
+        "valkey-search"
+      ]
+    },
+    {
       "login": "karthyuom",
       "id": 7681639,
       "avatar_url": "https://avatars.githubusercontent.com/u/7681639?v=4",
@@ -14440,31 +14465,6 @@
         "valkey",
         "valkey-doc",
         "valkey-operator"
-      ]
-    },
-    {
-      "login": "mohanrajendran",
-      "id": 4929558,
-      "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-      "name": "Mohan Rajendran",
-      "company": "Amazon",
-      "commits": 2,
-      "reviews": 9,
-      "per_repo": {
-        "valkey-search": {
-          "2026-08": [
-            0,
-            7
-          ],
-          "2026-09": [
-            2,
-            2
-          ]
-        }
-      },
-      "score": 11,
-      "repos": [
-        "valkey-search"
       ]
     },
     {
@@ -16370,6 +16370,38 @@
       ]
     },
     {
+      "login": "DhruvilK7",
+      "id": 194411286,
+      "avatar_url": "https://avatars.githubusercontent.com/u/194411286?v=4",
+      "name": "Dhruvil",
+      "company": "Zomato",
+      "commits": 6,
+      "reviews": 0,
+      "per_repo": {
+        "valkey-glide": {
+          "2026-08": [
+            2,
+            0
+          ],
+          "2026-09": [
+            1,
+            0
+          ]
+        },
+        "valkey-go": {
+          "2026-09": [
+            3,
+            0
+          ]
+        }
+      },
+      "score": 6,
+      "repos": [
+        "valkey-glide",
+        "valkey-go"
+      ]
+    },
+    {
       "login": "Ada-Church-Closure",
       "id": 155656201,
       "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
@@ -16848,38 +16880,6 @@
       "score": 5,
       "repos": [
         "valkey-search"
-      ]
-    },
-    {
-      "login": "DhruvilK7",
-      "id": 194411286,
-      "avatar_url": "https://avatars.githubusercontent.com/u/194411286?v=4",
-      "name": "Dhruvil",
-      "company": "Zomato",
-      "commits": 5,
-      "reviews": 0,
-      "per_repo": {
-        "valkey-glide": {
-          "2026-08": [
-            2,
-            0
-          ],
-          "2026-09": [
-            1,
-            0
-          ]
-        },
-        "valkey-go": {
-          "2026-09": [
-            2,
-            0
-          ]
-        }
-      },
-      "score": 5,
-      "repos": [
-        "valkey-glide",
-        "valkey-go"
       ]
     },
     {
@@ -18351,6 +18351,27 @@
       "per_repo": {
         "valkey": {
           "2026-08": [
+            3,
+            0
+          ]
+        }
+      },
+      "score": 3,
+      "repos": [
+        "valkey"
+      ]
+    },
+    {
+      "login": "Baraa-Hasheesh",
+      "id": 202973079,
+      "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
+      "name": "Bara' Hasheesh",
+      "company": "Amazon Web Services",
+      "commits": 3,
+      "reviews": 0,
+      "per_repo": {
+        "valkey": {
+          "2026-09": [
             3,
             0
           ]
@@ -20521,27 +20542,6 @@
       "score": 2,
       "repos": [
         "valkey-operator"
-      ]
-    },
-    {
-      "login": "Baraa-Hasheesh",
-      "id": 202973079,
-      "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-      "name": "Bara' Hasheesh",
-      "company": "Amazon Web Services",
-      "commits": 2,
-      "reviews": 0,
-      "per_repo": {
-        "valkey": {
-          "2026-09": [
-            2,
-            0
-          ]
-        }
-      },
-      "score": 2,
-      "repos": [
-        "valkey"
       ]
     },
     {

@@ -2,9 +2,9 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 11,
+  "score": 12,
   "commit_count": 2,
-  "review_count": 9,
+  "review_count": 10,
   "repos": [
     "valkey-search"
   ],
@@ -27,6 +27,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cbf0fda34b",
+      "message": "Implement FILTER option on FT.CREATE (#984)",
+      "date": "2026-09-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/984",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/cbf0fda34becec831700e84f3134ffa5d7ab2221"
+    },
     {
       "sha": "583fe14cdb",
       "message": "Fix stale RDB restore counters inflating number_of_indexes metric (#1312)",

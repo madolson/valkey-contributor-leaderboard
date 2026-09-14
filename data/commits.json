@@ -181021,6 +181021,54 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1362"
+    },
+    {
+      "sha": "5810f5be96d94198fb3b4c6c03f41914b4561ba3",
+      "author_login": "Baraa-Hasheesh",
+      "author_id": 202973079,
+      "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
+      "message": "Remove duplicate c->flag.blocked check (#4617)",
+      "date": "2026-09-14T02:49:13Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-09-07T09:32:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4617"
+    },
+    {
+      "sha": "737e583f6b71fe56ac9e1a3ef8bd188a2f0053a5",
+      "author_login": "DhruvilK7",
+      "author_id": 194411286,
+      "avatar_url": "https://avatars.githubusercontent.com/u/194411286?v=4",
+      "message": "feat(cluster): add opt-in PreferClusterShards to use CLUSTER SHARDS before version 8 (#181)",
+      "date": "2026-09-13T21:06:53Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-09-13T21:06:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/181"
+    },
+    {
+      "sha": "cbf0fda34becec831700e84f3134ffa5d7ab2221",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Implement FILTER option on FT.CREATE (#984)",
+      "date": "2026-09-13T17:14:21Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "mohanrajendran",
+          "date": "2026-09-10T20:37:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/984"
     }
   ]
 }

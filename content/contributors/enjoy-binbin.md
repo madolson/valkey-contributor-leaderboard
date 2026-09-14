@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 972,
+  "score": 973,
   "commit_count": 391,
-  "review_count": 581,
+  "review_count": 582,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3144,6 +3144,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5810f5be96",
+      "message": "Remove duplicate c->flag.blocked check (#4617)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4617",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5810f5be96d94198fb3b4c6c03f41914b4561ba3"
+    },
     {
       "sha": "c27cc74bc6",
       "message": "Tests: scale wait_process_paused when the pause depends on a fork (#4562)",

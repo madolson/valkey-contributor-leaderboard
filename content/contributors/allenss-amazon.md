@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 319,
-  "commit_count": 81,
+  "score": 320,
+  "commit_count": 82,
   "review_count": 238,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "cbf0fda34b",
+      "message": "Implement FILTER option on FT.CREATE (#984)",
+      "date": "2026-09-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/984",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/cbf0fda34becec831700e84f3134ffa5d7ab2221"
+    },
     {
       "sha": "707324aa1d",
       "message": "FT.AGGREGATE: SORTBY ignores a following LIMIT, breaking paging past the first page (#1373)",
