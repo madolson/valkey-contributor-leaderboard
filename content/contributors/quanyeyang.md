@@ -2,13 +2,21 @@
   "title": "quanyeyang",
   "login": "quanyeyang",
   "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
-  "score": 15,
-  "commit_count": 13,
+  "score": 16,
+  "commit_count": 14,
   "review_count": 2,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "06d35aca65",
+      "message": "tests/rdma: isolate RXE from host RDMA devices (#4593)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4593",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/06d35aca655f80e07d12585fc3ce110ccdeb5321"
+    },
     {
       "sha": "12f9331312",
       "message": "tests/rdma: improve diagnostics for sporadic connection failures (#4586)",

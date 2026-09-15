@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 114,
-  "commit_count": 38,
-  "review_count": 76,
+  "score": 117,
+  "commit_count": 40,
+  "review_count": 77,
   "repos": [
     "valkey",
     "valkey-container",
@@ -14,6 +14,22 @@
     "valkey-skills"
   ],
   "commit_list": [
+    {
+      "sha": "cd79e02c1c",
+      "message": "zset bugfix - Fix btree score range resolution and prefix staleness (#4554)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4554",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cd79e02c1cae0a22b59e3fd1a2c7c8efe79fe5b1"
+    },
+    {
+      "sha": "754d9f15bc",
+      "message": "zset bugfix - Fix lex range sentinel handling in the ordered index (#4497)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4497",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/754d9f15bcb32fb05c070a2f2389c81d001da9a9"
+    },
     {
       "sha": "05df39db5a",
       "message": "Move build-debian-old CI job to Debian Bookworm (#4613)",
@@ -320,6 +336,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "089321adf5",
+      "message": "perf: combined post-command pending-work gate in afterCommand() (#4257)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4257",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/089321adf5a72591c8508e3f6dca957d463e1691"
+    },
     {
       "sha": "2d44c74996",
       "message": "Nested prefetching for hash and zset inner hashtables (#3940)",

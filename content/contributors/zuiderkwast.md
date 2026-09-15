@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1241,
+  "score": 1242,
   "commit_count": 153,
-  "review_count": 1088,
+  "review_count": 1089,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1246,6 +1246,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "05a9c29c62",
+      "message": "Add cluster-replica-no-failover if-empty to block failover from empty replicas (#4425)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4425",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/05a9c29c62538519d870d6512978f80ac58a758f"
+    },
     {
       "sha": "03a7447bd8",
       "message": "Add support for secondary certificates (#3717)",

@@ -2,13 +2,21 @@
   "title": "harrylin98",
   "login": "harrylin98",
   "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
-  "score": 15,
-  "commit_count": 14,
+  "score": 16,
+  "commit_count": 15,
   "review_count": 1,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "f26b1609e5",
+      "message": "Fix repl throttle read-handler and throttle_checked ordering, improve tcl tests (#4612)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4612",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f26b1609e57757783536b6ac9a513115f4111e88"
+    },
     {
       "sha": "351eb0c361",
       "message": "Tear down repl throttler when the last replica disconnects (#4595)",

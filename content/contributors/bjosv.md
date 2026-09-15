@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 254,
-  "commit_count": 124,
-  "review_count": 130,
+  "score": 256,
+  "commit_count": 125,
+  "review_count": 131,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "9564ac8359",
+      "message": "perf: tune valkey-go connections for control-plane use (#436)",
+      "date": "2026-09-14",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/436",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9564ac83590c80368cfcb5b7763f077d631564b0"
+    },
     {
       "sha": "3ec092dabb",
       "message": "feat: optional pprof endpoint for profiling the operator (#435)",
@@ -1007,6 +1015,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "118c675df8",
+      "message": "enhancement: reliable, event-driven ValkeyNode.Status.Role (#320)",
+      "date": "2026-09-14",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/320",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/118c675df8922ce25e0418c6e6ac2ca935c7624e"
+    },
     {
       "sha": "92b1e89f3e",
       "message": "test(e2e): Hostname migrate keeps Ready pod UID (#383)",

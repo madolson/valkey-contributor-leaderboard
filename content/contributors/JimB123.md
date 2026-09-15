@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 67,
+  "score": 71,
   "commit_count": 24,
-  "review_count": 43,
+  "review_count": 47,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -204,6 +204,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f42c9ab3d8",
+      "message": "Reserve connection slots for priority sources (#4005)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4005",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f42c9ab3d8bdc371f1ad3d5a2a9ef1820a985516"
+    },
+    {
+      "sha": "f26b1609e5",
+      "message": "Fix repl throttle read-handler and throttle_checked ordering, improve tcl tests (#4612)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4612",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f26b1609e57757783536b6ac9a513115f4111e88"
+    },
+    {
+      "sha": "88a536033c",
+      "message": "QoS for system critical events ( such as cluster heartbeats, replication streams, and slot migration) (#4076)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4076",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/88a536033c883e334a433e592d6bd4da331f8817"
+    },
+    {
+      "sha": "089321adf5",
+      "message": "perf: combined post-command pending-work gate in afterCommand() (#4257)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4257",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/089321adf5a72591c8508e3f6dca957d463e1691"
+    },
     {
       "sha": "202a480581",
       "message": "bgiteration: fix unit-test feed deadlock under slow execution (#4643)",

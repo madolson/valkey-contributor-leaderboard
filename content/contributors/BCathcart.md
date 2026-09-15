@@ -2,8 +2,8 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 111,
-  "commit_count": 40,
+  "score": 112,
+  "commit_count": 41,
   "review_count": 71,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "1927a526dc",
+      "message": "Add compatibility version mapping section (#1386)",
+      "date": "2026-09-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1386",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1927a526dcfc7bdab3a8456e189a9a92df425eb6"
+    },
     {
       "sha": "e8f05bbd9f",
       "message": "Fix HNSW load crash: remove incorrect max_level <= element_count check (#1349)",

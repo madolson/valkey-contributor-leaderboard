@@ -2,9 +2,9 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 106,
+  "score": 107,
   "commit_count": 66,
-  "review_count": 40,
+  "review_count": 41,
   "repos": [
     "valkey",
     "valkey-ci-agent",
@@ -541,6 +541,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "20757bae45",
+      "message": "RFC for multi-language support in FTS (#1279)",
+      "date": "2026-09-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1279",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/20757bae45a66df400b8e319d67fa947748b2a55"
+    },
     {
       "sha": "583fe14cdb",
       "message": "Fix stale RDB restore counters inflating number_of_indexes metric (#1312)",

@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 279,
-  "commit_count": 96,
-  "review_count": 183,
+  "score": 281,
+  "commit_count": 97,
+  "review_count": 184,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "9c29006882",
+      "message": "build(deps): bump rustls to 0.23.45 across all workspaces (RUSTSEC-2026-0285) (#7080)",
+      "date": "2026-09-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7080",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9c29006882cd0eaa2e2e667ef95a7f70bbeabcc1"
+    },
     {
       "sha": "92314e7e82",
       "message": "feat(java): add GlideCredentialProvider support to IamAuthConfig (#6825)",
@@ -783,6 +791,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5883749ba0",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 5 updates (#7075)",
+      "date": "2026-09-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7075",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5883749ba047ba89cb7a9075ee9577aaa4811763"
+    },
+    {
+      "sha": "3bbc67b299",
+      "message": "feat(pubsub): inline Pub/Sub APIs (#308)",
+      "date": "2026-09-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/308",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/3bbc67b2995c9bde34c7e707d400aae21dcd4121"
+    },
     {
       "sha": "1809c4d5d6",
       "message": "fix(core): add credentials_provider to IAM test call sites (#7047)",

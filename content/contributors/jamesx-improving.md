@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 282,
+  "score": 284,
   "commit_count": 81,
-  "review_count": 201,
+  "review_count": 203,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -663,6 +663,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9c29006882",
+      "message": "build(deps): bump rustls to 0.23.45 across all workspaces (RUSTSEC-2026-0285) (#7080)",
+      "date": "2026-09-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7080",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9c29006882cd0eaa2e2e667ef95a7f70bbeabcc1"
+    },
+    {
+      "sha": "3bbc67b299",
+      "message": "feat(pubsub): inline Pub/Sub APIs (#308)",
+      "date": "2026-09-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/308",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/3bbc67b2995c9bde34c7e707d400aae21dcd4121"
+    },
     {
       "sha": "f88417efd5",
       "message": "fix(rust): release cluster scan cursors on drop (#7027)",

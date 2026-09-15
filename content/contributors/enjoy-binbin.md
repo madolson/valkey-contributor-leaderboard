@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 973,
-  "commit_count": 391,
-  "review_count": 582,
+  "score": 978,
+  "commit_count": 392,
+  "review_count": 586,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "05a9c29c62",
+      "message": "Add cluster-replica-no-failover if-empty to block failover from empty replicas (#4425)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4425",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/05a9c29c62538519d870d6512978f80ac58a758f"
+    },
     {
       "sha": "bcc60f7132",
       "message": "Fix timing issue in WATCHed key in another slot that expired aborts EXEC test (#4599)",
@@ -3145,12 +3153,44 @@
   ],
   "review_list": [
     {
+      "sha": "74793bd028",
+      "message": "Check the SORT destination that is actually written (#4665)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4665",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/74793bd028793e1f18053e926d5654ba2381b284"
+    },
+    {
       "sha": "5810f5be96",
       "message": "Remove duplicate c->flag.blocked check (#4617)",
       "date": "2026-09-14",
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4617",
       "commit_url": "https://github.com/valkey-io/valkey/commit/5810f5be96d94198fb3b4c6c03f41914b4561ba3"
+    },
+    {
+      "sha": "63f56bd16c",
+      "message": "Implement `VM_IncrExternalMemory` and `VM_DecrExternalMemory`  (#4128)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4128",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/63f56bd16c838faffb9330c0e0bfa54a3459248c"
+    },
+    {
+      "sha": "18277411d6",
+      "message": "Reject repeated CLUSTER SYNCSLOTS ESTABLISH on the same connection (#4670)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4670",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/18277411d6ef7955240f915711e536b859cca4a5"
+    },
+    {
+      "sha": "1e90169efd",
+      "message": "Track field TTLs in the volatile set when a HASH_2 load converts mid-listpack (#4669)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4669",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1e90169efd9c21e016e2de4d4a7461b1859ac841"
     },
     {
       "sha": "c27cc74bc6",

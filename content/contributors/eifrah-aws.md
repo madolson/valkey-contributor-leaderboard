@@ -2,9 +2,9 @@
   "title": "eifrah-aws",
   "login": "eifrah-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/170855270?v=4",
-  "score": 214,
+  "score": 215,
   "commit_count": 94,
-  "review_count": 120,
+  "review_count": 121,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -769,6 +769,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "754d9f15bc",
+      "message": "zset bugfix - Fix lex range sentinel handling in the ordered index (#4497)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4497",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/754d9f15bcb32fb05c070a2f2389c81d001da9a9"
+    },
     {
       "sha": "ad3b33e3ba",
       "message": "cmake: Fix missing release_header dependency for cli, benchmark, and gtest (#3683)",

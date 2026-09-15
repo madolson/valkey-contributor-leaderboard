@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 929,
-  "commit_count": 209,
-  "review_count": 720,
+  "score": 936,
+  "commit_count": 211,
+  "review_count": 725,
   "repos": [
     ".github",
     "valkey",
@@ -21,6 +21,22 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "74793bd028",
+      "message": "Check the SORT destination that is actually written (#4665)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4665",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/74793bd028793e1f18053e926d5654ba2381b284"
+    },
+    {
+      "sha": "1e90169efd",
+      "message": "Track field TTLs in the volatile set when a HASH_2 load converts mid-listpack (#4669)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4669",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1e90169efd9c21e016e2de4d4a7461b1859ac841"
+    },
     {
       "sha": "c27cc74bc6",
       "message": "Tests: scale wait_process_paused when the pause depends on a fork (#4562)",
@@ -1695,6 +1711,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "06d35aca65",
+      "message": "tests/rdma: isolate RXE from host RDMA devices (#4593)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4593",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/06d35aca655f80e07d12585fc3ce110ccdeb5321"
+    },
+    {
+      "sha": "05a9c29c62",
+      "message": "Add cluster-replica-no-failover if-empty to block failover from empty replicas (#4425)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4425",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/05a9c29c62538519d870d6512978f80ac58a758f"
+    },
+    {
+      "sha": "cd79e02c1c",
+      "message": "zset bugfix - Fix btree score range resolution and prefix staleness (#4554)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4554",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cd79e02c1cae0a22b59e3fd1a2c7c8efe79fe5b1"
+    },
+    {
+      "sha": "754d9f15bc",
+      "message": "zset bugfix - Fix lex range sentinel handling in the ordered index (#4497)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4497",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/754d9f15bcb32fb05c070a2f2389c81d001da9a9"
+    },
+    {
+      "sha": "63f56bd16c",
+      "message": "Implement `VM_IncrExternalMemory` and `VM_DecrExternalMemory`  (#4128)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4128",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/63f56bd16c838faffb9330c0e0bfa54a3459248c"
+    },
     {
       "sha": "da91ccd12f",
       "message": "Fix double-promotion compilation error in test_util.cpp (#4624)",

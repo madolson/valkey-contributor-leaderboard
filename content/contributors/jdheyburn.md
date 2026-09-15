@@ -2,8 +2,8 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 142,
-  "commit_count": 45,
+  "score": 143,
+  "commit_count": 46,
   "review_count": 97,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "118c675df8",
+      "message": "enhancement: reliable, event-driven ValkeyNode.Status.Role (#320)",
+      "date": "2026-09-14",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/320",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/118c675df8922ce25e0418c6e6ac2ca935c7624e"
+    },
     {
       "sha": "9f541b24fe",
       "message": "fix: use workloadRevision for determining proactive failover (#402)",

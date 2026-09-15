@@ -56,6 +56,14 @@
   ],
   "review_list": [
     {
+      "sha": "5883749ba0",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 5 updates (#7075)",
+      "date": "2026-09-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7075",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5883749ba047ba89cb7a9075ee9577aaa4811763"
+    },
+    {
       "sha": "d0e1292a76",
       "message": "fix(core): accept max_total concurrent scopes, not max_total - 1 (#7030)",
       "date": "2026-09-11",

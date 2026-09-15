@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 23,
-  "commit_count": 23,
+  "score": 25,
+  "commit_count": 25,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "0adf657af9",
+      "message": "Add `IFEQ`, `IFNE`, `XX`, and `NX` options to `EXEC` command (#4019)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4019",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0adf657af9327f906430ab526e5cbe326ba5410a"
+    },
+    {
+      "sha": "63f56bd16c",
+      "message": "Implement `VM_IncrExternalMemory` and `VM_DecrExternalMemory`  (#4128)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4128",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/63f56bd16c838faffb9330c0e0bfa54a3459248c"
+    },
     {
       "sha": "e7e60037bb",
       "message": "Reapplies indexing for zero-length keys(#1171)  (#1310)",

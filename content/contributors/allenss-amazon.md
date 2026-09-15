@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 320,
+  "score": 323,
   "commit_count": 82,
-  "review_count": 238,
+  "review_count": 241,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -671,6 +671,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "20757bae45",
+      "message": "RFC for multi-language support in FTS (#1279)",
+      "date": "2026-09-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1279",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/20757bae45a66df400b8e319d67fa947748b2a55"
+    },
+    {
+      "sha": "63f56bd16c",
+      "message": "Implement `VM_IncrExternalMemory` and `VM_DecrExternalMemory`  (#4128)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4128",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/63f56bd16c838faffb9330c0e0bfa54a3459248c"
+    },
+    {
+      "sha": "1927a526dc",
+      "message": "Add compatibility version mapping section (#1386)",
+      "date": "2026-09-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1386",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1927a526dcfc7bdab3a8456e189a9a92df425eb6"
+    },
     {
       "sha": "8b2fd84b95",
       "message": "Install gcc14 static libstdc++ for benchmark builds due to #1360 (#1383)",

@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 272,
-  "commit_count": 92,
+  "score": 273,
+  "commit_count": 93,
   "review_count": 180,
   "repos": [
     "spring-data-valkey",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "3bbc67b299",
+      "message": "feat(pubsub): inline Pub/Sub APIs (#308)",
+      "date": "2026-09-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/308",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/3bbc67b2995c9bde34c7e707d400aae21dcd4121"
+    },
     {
       "sha": "770437d733",
       "message": "feat(pubsub): introduce PubSub handler (#304)",

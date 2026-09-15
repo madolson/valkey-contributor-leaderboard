@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 143,
+  "score": 146,
   "commit_count": 46,
-  "review_count": 97,
+  "review_count": 100,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -382,6 +382,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6ae7eb4889",
+      "message": "Introduce INCREX command (#3253)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3253",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6ae7eb4889b32d4763d25ce8f7aeb3091d225665"
+    },
+    {
+      "sha": "0adf657af9",
+      "message": "Add `IFEQ`, `IFNE`, `XX`, and `NX` options to `EXEC` command (#4019)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4019",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0adf657af9327f906430ab526e5cbe326ba5410a"
+    },
+    {
+      "sha": "18277411d6",
+      "message": "Reject repeated CLUSTER SYNCSLOTS ESTABLISH on the same connection (#4670)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4670",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/18277411d6ef7955240f915711e536b859cca4a5"
+    },
     {
       "sha": "95e0e9ac7f",
       "message": "Add AUTH options to CLUSTER MIGRATESLOTS (#3538)",

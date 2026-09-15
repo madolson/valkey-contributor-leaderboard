@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 796,
+  "score": 797,
   "commit_count": 45,
-  "review_count": 751,
+  "review_count": 752,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "845e5c569b",
+      "message": "docs: remove unpublished pooling-and-scopes doc (#7065)",
+      "date": "2026-09-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7065",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/845e5c569bd80aee878912397b029d8d0b6e500e"
+    },
     {
       "sha": "d0e1292a76",
       "message": "fix(core): accept max_total concurrent scopes, not max_total - 1 (#7030)",

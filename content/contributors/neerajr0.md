@@ -1,14 +1,23 @@
 {
   "title": "neerajr0",
   "login": "neerajr0",
-  "avatar_url": "https://github.com/neerajr0.png?size=64",
-  "score": 5,
-  "commit_count": 0,
+  "avatar_url": "https://avatars.githubusercontent.com/u/55604693?v=4",
+  "score": 6,
+  "commit_count": 1,
   "review_count": 5,
   "repos": [
     "valkey-search"
   ],
-  "commit_list": [],
+  "commit_list": [
+    {
+      "sha": "20757bae45",
+      "message": "RFC for multi-language support in FTS (#1279)",
+      "date": "2026-09-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1279",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/20757bae45a66df400b8e319d67fa947748b2a55"
+    }
+  ],
   "review_list": [
     {
       "sha": "8b2fd84b95",

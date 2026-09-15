@@ -2,14 +2,30 @@
   "title": "satheeshaGowda",
   "login": "satheeshaGowda",
   "avatar_url": "https://avatars.githubusercontent.com/u/7914152?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 7,
+  "commit_count": 7,
   "review_count": 0,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "f42c9ab3d8",
+      "message": "Reserve connection slots for priority sources (#4005)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4005",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f42c9ab3d8bdc371f1ad3d5a2a9ef1820a985516"
+    },
+    {
+      "sha": "88a536033c",
+      "message": "QoS for system critical events ( such as cluster heartbeats, replication streams, and slot migration) (#4076)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4076",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/88a536033c883e334a433e592d6bd4da331f8817"
+    },
     {
       "sha": "597114d0b1",
       "message": "Avoid offloading ACK's reads to IO threads for the slot migration export job while snapshotting (#4559)",

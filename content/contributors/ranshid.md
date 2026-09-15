@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 307,
+  "score": 308,
   "commit_count": 96,
-  "review_count": 211,
+  "review_count": 212,
   "repos": [
     "valkey",
     "valkey-container",
@@ -786,6 +786,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1e90169efd",
+      "message": "Track field TTLs in the volatile set when a HASH_2 load converts mid-listpack (#4669)",
+      "date": "2026-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4669",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1e90169efd9c21e016e2de4d4a7461b1859ac841"
+    },
     {
       "sha": "c80da010b5",
       "message": "Listpack encoding for Hash field expiration (#3212)",

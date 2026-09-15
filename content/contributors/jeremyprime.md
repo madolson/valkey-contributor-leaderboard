@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 226,
-  "commit_count": 65,
-  "review_count": 161,
+  "score": 229,
+  "commit_count": 66,
+  "review_count": 163,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "845e5c569b",
+      "message": "docs: remove unpublished pooling-and-scopes doc (#7065)",
+      "date": "2026-09-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7065",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/845e5c569bd80aee878912397b029d8d0b6e500e"
+    },
     {
       "sha": "d0e1292a76",
       "message": "fix(core): accept max_total concurrent scopes, not max_total - 1 (#7030)",
@@ -535,6 +543,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9c29006882",
+      "message": "build(deps): bump rustls to 0.23.45 across all workspaces (RUSTSEC-2026-0285) (#7080)",
+      "date": "2026-09-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7080",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9c29006882cd0eaa2e2e667ef95a7f70bbeabcc1"
+    },
+    {
+      "sha": "da6e52c5f1",
+      "message": "fix(rust): surface scan iterator errors instead of ending iteration (#7053)",
+      "date": "2026-09-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7053",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/da6e52c5f1f93b280d9c97fc896ce26699130366"
+    },
+    {
+      "sha": "5883749ba0",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 5 updates (#7075)",
+      "date": "2026-09-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7075",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5883749ba047ba89cb7a9075ee9577aaa4811763"
+    },
     {
       "sha": "92314e7e82",
       "message": "feat(java): add GlideCredentialProvider support to IamAuthConfig (#6825)",

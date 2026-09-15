@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 61,
+  "score": 62,
   "commit_count": 25,
-  "review_count": 36,
+  "review_count": 37,
   "repos": [
     "valkey-operator"
   ],
@@ -211,6 +211,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9564ac8359",
+      "message": "perf: tune valkey-go connections for control-plane use (#436)",
+      "date": "2026-09-14",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/436",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9564ac83590c80368cfcb5b7763f077d631564b0"
+    },
     {
       "sha": "3ec092dabb",
       "message": "feat: optional pprof endpoint for profiling the operator (#435)",

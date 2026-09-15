@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 146,
-  "commit_count": 111,
+  "score": 147,
+  "commit_count": 112,
   "review_count": 35,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "ef58fe5d36",
+      "message": "set clientInfoTag and upgrade glide to version 2.5.2 (#506)",
+      "date": "2026-09-14",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/506",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/ef58fe5d36765570c31e733da5554a3141a19dfa"
+    },
     {
       "sha": "7031a96b5c",
       "message": "metric server binds to 127.0.0.1 for all modes except K8 (#494)",
