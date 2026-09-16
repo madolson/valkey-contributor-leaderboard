@@ -2,13 +2,21 @@
   "title": "Tarte12",
   "login": "Tarte12",
   "avatar_url": "https://avatars.githubusercontent.com/u/101166683?v=4",
-  "score": 1,
-  "commit_count": 1,
+  "score": 2,
+  "commit_count": 2,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "c0739a2b40",
+      "message": "Fix missing signalModifiedKey calls for stream commands (#3459)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3459",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c0739a2b4070f08e89f407f4cd19a7ba6bcffc82"
+    },
     {
       "sha": "edce58c934",
       "message": "Improve listpack threshold guidance in valkey.conf (#3419)",

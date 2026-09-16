@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 281,
+  "score": 282,
   "commit_count": 97,
-  "review_count": 184,
+  "review_count": 185,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -791,6 +791,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "030ad18b07",
+      "message": "ci(rust): simplify test matrix to Valkey 9.0 and Redis 6.2 (#7083)",
+      "date": "2026-09-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7083",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/030ad18b0781830089d26fad9d8805e3a6f2e9e4"
+    },
     {
       "sha": "5883749ba0",
       "message": "build(deps): bump the patch-updates group across 1 directory with 5 updates (#7075)",

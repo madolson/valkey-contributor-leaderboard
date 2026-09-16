@@ -2,8 +2,8 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 271,
-  "commit_count": 101,
+  "score": 272,
+  "commit_count": 102,
   "review_count": 170,
   "repos": [
     "valkey",
@@ -17,6 +17,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "6225ee7c37",
+      "message": "Add VM_ScanKeyRawBorrowed to allow scanning keys without allocating (#4403)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4403",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6225ee7c37ca099a84510bd8b3982efc3603f09e"
+    },
     {
       "sha": "207aa05913",
       "message": "Remove continue in OnFlushDBEnded, to async free when recreate fails (#1204)",

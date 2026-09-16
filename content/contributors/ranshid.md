@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 308,
+  "score": 309,
   "commit_count": 96,
-  "review_count": 212,
+  "review_count": 213,
   "repos": [
     "valkey",
     "valkey-container",
@@ -786,6 +786,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ae2ab6bba8",
+      "message": "Add optional XX to SISMEMBER; return -1 if the key does not exist (#2972)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2972",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ae2ab6bba84945c4187eea17f36a2f07b3398042"
+    },
     {
       "sha": "1e90169efd",
       "message": "Track field TTLs in the volatile set when a HASH_2 load converts mid-listpack (#4669)",

@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 936,
-  "commit_count": 211,
-  "review_count": 725,
+  "score": 939,
+  "commit_count": 212,
+  "review_count": 727,
   "repos": [
     ".github",
     "valkey",
@@ -21,6 +21,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "3f9062ed54",
+      "message": "Report each server certificate against the config that loaded it (#4664)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4664",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3f9062ed54d56ec0e6b0cfb0037cebbd3726acdc"
+    },
     {
       "sha": "74793bd028",
       "message": "Check the SORT destination that is actually written (#4665)",
@@ -1711,6 +1719,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d265ca949b",
+      "message": "Fixes to dual certs (#4663)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4663",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d265ca949baf5468a38e6508fc074b15733c710e"
+    },
+    {
+      "sha": "d6415e766b",
+      "message": "Fix return types of three module API declarations to match definitions (#4676)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4676",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d6415e766b8d0273d7f353eacf4791ed0d4ef1a5"
+    },
     {
       "sha": "06d35aca65",
       "message": "tests/rdma: isolate RXE from host RDMA devices (#4593)",

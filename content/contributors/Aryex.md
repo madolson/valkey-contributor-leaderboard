@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 273,
-  "commit_count": 93,
-  "review_count": 180,
+  "score": 275,
+  "commit_count": 94,
+  "review_count": 181,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "231c9ae88a",
+      "message": "refactor(pubsub): mixin refactor (#311)",
+      "date": "2026-09-15",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/311",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/231c9ae88a34bf3971fa1024b15936209db14a59"
+    },
     {
       "sha": "3bbc67b299",
       "message": "feat(pubsub): inline Pub/Sub APIs (#308)",
@@ -762,6 +770,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "07893c848d",
+      "message": "docs: minor typo (#330)",
+      "date": "2026-09-15",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/330",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/07893c848dc45ec08275c2c5db53e01a99200e2a"
+    },
     {
       "sha": "1e61c7f7da",
       "message": "feat(ruby): structured Valkey Search (FT.*) builder API (#295)",

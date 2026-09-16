@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 284,
-  "commit_count": 81,
-  "review_count": 203,
+  "score": 286,
+  "commit_count": 82,
+  "review_count": 204,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "9803fdfa30",
+      "message": "Java: Add `AZ_AFFINITY_ALL_NODES` read strategy (#7059)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7059",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9803fdfa3084152b56b2d927631f3a03fb901e38"
+    },
     {
       "sha": "953b626972",
       "message": "CI: pin valkey-bundle to 9.1.3 and fix arrinsert modules tests for ValkeyJSON 1.0.3 (#6991)",
@@ -663,6 +671,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "231c9ae88a",
+      "message": "refactor(pubsub): mixin refactor (#311)",
+      "date": "2026-09-15",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/311",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/231c9ae88a34bf3971fa1024b15936209db14a59"
+    },
     {
       "sha": "9c29006882",
       "message": "build(deps): bump rustls to 0.23.45 across all workspaces (RUSTSEC-2026-0285) (#7080)",

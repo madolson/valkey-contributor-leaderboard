@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 420,
-  "commit_count": 154,
-  "review_count": 266,
+  "score": 424,
+  "commit_count": 156,
+  "review_count": 268,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -20,6 +20,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "66f9618f43",
+      "message": "Streaming Compression support for Replication (#3853)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3853",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/66f9618f4309250c3e94f7c722e1130467fc7f5f"
+    },
+    {
+      "sha": "a12f90a97e",
+      "message": "Pin Debian 11 apt to snapshot.debian.org after LTS EOL (#68)",
+      "date": "2026-09-15",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/68",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/a12f90a97e078f46bfe07d02cdda36aecbc83d02"
+    },
     {
       "sha": "4be324e887",
       "message": "Streaming Compression support for fullsync",
@@ -1254,6 +1270,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4181224de0",
+      "message": "Fix update-versions.py script to handle certain cases and add additional tests (#124)",
+      "date": "2026-09-15",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/124",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/4181224de0b116b18609522225792bde26b103fc"
+    },
+    {
+      "sha": "4181224de0",
+      "message": "Fix update-versions.py script to handle certain cases and add additional tests (#124)",
+      "date": "2026-09-15",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/124",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/4181224de0b116b18609522225792bde26b103fc"
+    },
     {
       "sha": "98f9152124",
       "message": "Fix XPENDING reply schema for empty pending lists (#4653)",

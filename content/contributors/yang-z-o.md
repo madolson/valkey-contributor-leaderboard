@@ -2,8 +2,8 @@
   "title": "yang-z-o",
   "login": "yang-z-o",
   "avatar_url": "https://avatars.githubusercontent.com/u/30397795?v=4",
-  "score": 18,
-  "commit_count": 12,
+  "score": 19,
+  "commit_count": 13,
   "review_count": 6,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-swift"
   ],
   "commit_list": [
+    {
+      "sha": "6163991268",
+      "message": "Add ACL role support (#3967)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3967",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6163991268a4e9593a9799528be2be883950a6b6"
+    },
     {
       "sha": "13c66b82e1",
       "message": "Fail fast on empty CA directory at TLS config load (#3522)",

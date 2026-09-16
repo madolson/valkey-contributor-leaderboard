@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 454,
+  "score": 456,
   "commit_count": 129,
-  "review_count": 325,
+  "review_count": 327,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -1050,12 +1050,28 @@
   ],
   "review_list": [
     {
+      "sha": "9803fdfa30",
+      "message": "Java: Add `AZ_AFFINITY_ALL_NODES` read strategy (#7059)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7059",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9803fdfa3084152b56b2d927631f3a03fb901e38"
+    },
+    {
       "sha": "445908e116",
       "message": "build(deps): bump strum_macros from 0.26.4 to 0.28.0 in /glide-core (#5426)",
       "date": "2026-09-15",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5426",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/445908e11633b08ace083bfc0ad8276d116a59ce"
+    },
+    {
+      "sha": "9439b2ba87",
+      "message": "fix: remove strum macros, pin aws-smithy-types breaking change (#7092)",
+      "date": "2026-09-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7092",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9439b2ba879553d7b017777d97ce9b9ac6147ccf"
     },
     {
       "sha": "da6e52c5f1",

@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 304,
+  "score": 306,
   "commit_count": 66,
-  "review_count": 238,
+  "review_count": 240,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -547,6 +547,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "22b3faaa62",
+      "message": "New maxmemory-scripts config to limit EVAL scripts memory, add DENYOOM flag to SCRIPT LOAD (#866)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/866",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/22b3faaa623026ef9d343bf88a1c5b06edf5b0b6"
+    },
+    {
+      "sha": "6163991268",
+      "message": "Add ACL role support (#3967)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3967",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6163991268a4e9593a9799528be2be883950a6b6"
+    },
     {
       "sha": "d46565268d",
       "message": "Implement XACKDEL and XDELEX command (#4629)",

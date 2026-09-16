@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 978,
-  "commit_count": 392,
-  "review_count": 586,
+  "score": 981,
+  "commit_count": 393,
+  "review_count": 588,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -21,6 +21,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4425",
       "commit_url": "https://github.com/valkey-io/valkey/commit/05a9c29c62538519d870d6512978f80ac58a758f"
+    },
+    {
+      "sha": "22b3faaa62",
+      "message": "New maxmemory-scripts config to limit EVAL scripts memory, add DENYOOM flag to SCRIPT LOAD (#866)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/866",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/22b3faaa623026ef9d343bf88a1c5b06edf5b0b6"
     },
     {
       "sha": "bcc60f7132",
@@ -3153,12 +3161,28 @@
   ],
   "review_list": [
     {
+      "sha": "3f9062ed54",
+      "message": "Report each server certificate against the config that loaded it (#4664)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4664",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3f9062ed54d56ec0e6b0cfb0037cebbd3726acdc"
+    },
+    {
       "sha": "74793bd028",
       "message": "Check the SORT destination that is actually written (#4665)",
       "date": "2026-09-15",
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4665",
       "commit_url": "https://github.com/valkey-io/valkey/commit/74793bd028793e1f18053e926d5654ba2381b284"
+    },
+    {
+      "sha": "ae2ab6bba8",
+      "message": "Add optional XX to SISMEMBER; return -1 if the key does not exist (#2972)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2972",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ae2ab6bba84945c4187eea17f36a2f07b3398042"
     },
     {
       "sha": "5810f5be96",

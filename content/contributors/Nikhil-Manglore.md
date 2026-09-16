@@ -2,8 +2,8 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 254,
-  "commit_count": 94,
+  "score": 255,
+  "commit_count": 95,
   "review_count": 160,
   "repos": [
     "valkey",
@@ -23,6 +23,14 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "4181224de0",
+      "message": "Fix update-versions.py script to handle certain cases and add additional tests (#124)",
+      "date": "2026-09-15",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/124",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/4181224de0b116b18609522225792bde26b103fc"
+    },
     {
       "sha": "5c9bb25d80",
       "message": "Strip [bot] suffix from github.actor when constructing Docker image tags. (#116)",

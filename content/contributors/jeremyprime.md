@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 229,
+  "score": 230,
   "commit_count": 66,
-  "review_count": 163,
+  "review_count": 164,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -543,6 +543,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9803fdfa30",
+      "message": "Java: Add `AZ_AFFINITY_ALL_NODES` read strategy (#7059)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7059",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9803fdfa3084152b56b2d927631f3a03fb901e38"
+    },
     {
       "sha": "9c29006882",
       "message": "build(deps): bump rustls to 0.23.45 across all workspaces (RUSTSEC-2026-0285) (#7080)",

@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1242,
+  "score": 1249,
   "commit_count": 153,
-  "review_count": 1089,
+  "review_count": 1096,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1253,6 +1253,62 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4425",
       "commit_url": "https://github.com/valkey-io/valkey/commit/05a9c29c62538519d870d6512978f80ac58a758f"
+    },
+    {
+      "sha": "66f9618f43",
+      "message": "Streaming Compression support for Replication (#3853)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3853",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/66f9618f4309250c3e94f7c722e1130467fc7f5f"
+    },
+    {
+      "sha": "6225ee7c37",
+      "message": "Add VM_ScanKeyRawBorrowed to allow scanning keys without allocating (#4403)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4403",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6225ee7c37ca099a84510bd8b3982efc3603f09e"
+    },
+    {
+      "sha": "6225ee7c37",
+      "message": "Add VM_ScanKeyRawBorrowed to allow scanning keys without allocating (#4403)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4403",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6225ee7c37ca099a84510bd8b3982efc3603f09e"
+    },
+    {
+      "sha": "22b3faaa62",
+      "message": "New maxmemory-scripts config to limit EVAL scripts memory, add DENYOOM flag to SCRIPT LOAD (#866)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/866",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/22b3faaa623026ef9d343bf88a1c5b06edf5b0b6"
+    },
+    {
+      "sha": "22b3faaa62",
+      "message": "New maxmemory-scripts config to limit EVAL scripts memory, add DENYOOM flag to SCRIPT LOAD (#866)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/866",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/22b3faaa623026ef9d343bf88a1c5b06edf5b0b6"
+    },
+    {
+      "sha": "6163991268",
+      "message": "Add ACL role support (#3967)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3967",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6163991268a4e9593a9799528be2be883950a6b6"
+    },
+    {
+      "sha": "c0739a2b40",
+      "message": "Fix missing signalModifiedKey calls for stream commands (#3459)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3459",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c0739a2b4070f08e89f407f4cd19a7ba6bcffc82"
     },
     {
       "sha": "03a7447bd8",

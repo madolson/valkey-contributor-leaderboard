@@ -181877,6 +181877,385 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1386"
+    },
+    {
+      "sha": "96c45f33e298eeb0c8987d184aa1234c77be3a14",
+      "author_login": "jfg956",
+      "author_id": 8471576,
+      "avatar_url": "https://avatars.githubusercontent.com/u/8471576?v=4",
+      "message": "Website improvements. (#25)",
+      "date": "2026-09-15T14:32:28Z",
+      "repo": "planet",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3f9062ed54d56ec0e6b0cfb0037cebbd3726acdc",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Report each server certificate against the config that loaded it (#4664)",
+      "date": "2026-09-16T06:07:13Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-09-14T08:50:50Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4664"
+    },
+    {
+      "sha": "d265ca949baf5468a38e6508fc074b15733c710e",
+      "author_login": "pkhartsk",
+      "author_id": 225215338,
+      "avatar_url": "https://avatars.githubusercontent.com/u/225215338?v=4",
+      "message": "Fixes to dual certs (#4663)",
+      "date": "2026-09-16T06:06:37Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-09-16T06:06:21Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4663"
+    },
+    {
+      "sha": "d6415e766b8d0273d7f353eacf4791ed0d4ef1a5",
+      "author_login": "rainsupreme",
+      "author_id": 20649182,
+      "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
+      "message": "Fix return types of three module API declarations to match definitions (#4676)",
+      "date": "2026-09-16T02:41:42Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-09-16T02:41:16Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4676"
+    },
+    {
+      "sha": "66f9618f4309250c3e94f7c722e1130467fc7f5f",
+      "author_login": "roshkhatri",
+      "author_id": 117414976,
+      "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
+      "message": "Streaming Compression support for Replication (#3853)",
+      "date": "2026-09-15T21:15:52Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-09-13T14:45:09Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-09-15T17:23:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3853"
+    },
+    {
+      "sha": "6225ee7c37ca099a84510bd8b3982efc3603f09e",
+      "author_login": "KarthikSubbarao",
+      "author_id": 104098378,
+      "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
+      "message": "Add VM_ScanKeyRawBorrowed to allow scanning keys without allocating (#4403)",
+      "date": "2026-09-15T17:10:03Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-09-11T07:18:15Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-09-15T17:08:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4403"
+    },
+    {
+      "sha": "22b3faaa623026ef9d343bf88a1c5b06edf5b0b6",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "New maxmemory-scripts config to limit EVAL scripts memory, add DENYOOM flag to SCRIPT LOAD (#866)",
+      "date": "2026-09-15T16:34:21Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "hpatro",
+          "date": "2024-08-02T20:12:19Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-02-27T22:03:52Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-09-04T11:06:42Z"
+        },
+        {
+          "login": "zuiderkwast",
+          "date": "2026-09-15T08:55:58Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/866"
+    },
+    {
+      "sha": "6163991268a4e9593a9799528be2be883950a6b6",
+      "author_login": "yang-z-o",
+      "author_id": 30397795,
+      "avatar_url": "https://avatars.githubusercontent.com/u/30397795?v=4",
+      "message": "Add ACL role support (#3967)",
+      "date": "2026-09-15T13:56:36Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-09-15T13:21:02Z"
+        },
+        {
+          "login": "hpatro",
+          "date": "2026-09-15T13:54:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3967"
+    },
+    {
+      "sha": "c0739a2b4070f08e89f407f4cd19a7ba6bcffc82",
+      "author_login": "Tarte12",
+      "author_id": 101166683,
+      "avatar_url": "https://avatars.githubusercontent.com/u/101166683?v=4",
+      "message": "Fix missing signalModifiedKey calls for stream commands (#3459)",
+      "date": "2026-09-15T13:05:24Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-09-11T15:52:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3459"
+    },
+    {
+      "sha": "ae2ab6bba84945c4187eea17f36a2f07b3398042",
+      "author_login": "li-benson",
+      "author_id": 46148313,
+      "avatar_url": "https://avatars.githubusercontent.com/u/46148313?v=4",
+      "message": "Add optional XX to SISMEMBER; return -1 if the key does not exist (#2972)",
+      "date": "2026-09-15T10:41:47Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "ranshid",
+          "date": "2026-01-06T12:34:43Z"
+        },
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-01-06T15:46:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2972"
+    },
+    {
+      "sha": "4181224de0b116b18609522225792bde26b103fc",
+      "author_login": "Nikhil-Manglore",
+      "author_id": 46588759,
+      "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
+      "message": "Fix update-versions.py script to handle certain cases and add additional tests (#124)",
+      "date": "2026-09-15T18:28:16Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-09-01T04:53:16Z"
+        },
+        {
+          "login": "roshkhatri",
+          "date": "2026-09-15T18:28:04Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/124"
+    },
+    {
+      "sha": "9803fdfa3084152b56b2d927631f3a03fb901e38",
+      "author_login": "jamesx-improving",
+      "author_id": 126831592,
+      "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
+      "message": "Java: Add `AZ_AFFINITY_ALL_NODES` read strategy (#7059)",
+      "date": "2026-09-16T00:19:14Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-09-14T15:58:48Z"
+        },
+        {
+          "login": "jeremyprime",
+          "date": "2026-09-15T20:43:48Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-09-16T00:04:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7059"
+    },
+    {
+      "sha": "9439b2ba879553d7b017777d97ce9b9ac6147ccf",
+      "author_login": "nderraugh",
+      "author_id": 970382,
+      "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
+      "message": "fix: remove strum macros, pin aws-smithy-types breaking change (#7092)",
+      "date": "2026-09-15T19:17:36Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-09-15T17:26:16Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-09-15T19:16:59Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7092"
+    },
+    {
+      "sha": "030ad18b0781830089d26fad9d8805e3a6f2e9e4",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "ci(rust): simplify test matrix to Valkey 9.0 and Redis 6.2 (#7083)",
+      "date": "2026-09-15T15:16:06Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-09-14T22:46:08Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-09-14T22:56:36Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7083"
+    },
+    {
+      "sha": "07893c848dc45ec08275c2c5db53e01a99200e2a",
+      "author_login": "nderraugh",
+      "author_id": 970382,
+      "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
+      "message": "docs: minor typo (#330)",
+      "date": "2026-09-15T17:24:03Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-09-15T17:16:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/330"
+    },
+    {
+      "sha": "231c9ae88a34bf3971fa1024b15936209db14a59",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "refactor(pubsub): mixin refactor (#311)",
+      "date": "2026-09-15T21:16:10Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "nderraugh",
+          "date": "2026-09-15T17:33:27Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-09-15T21:15:36Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/311"
+    },
+    {
+      "sha": "4a7ba2a5fba1d5b1b6f2f04099b8b5e5af27a4f1",
+      "author_login": "NotAFlightRisk",
+      "author_id": 23277273,
+      "avatar_url": "https://avatars.githubusercontent.com/u/23277273?v=4",
+      "message": "docs: fix the Receive cleanup and parse-error examples (#182)",
+      "date": "2026-09-16T03:40:43Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-09-16T03:40:37Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/182"
+    },
+    {
+      "sha": "56264d78719abca89f86612631c28584de68e6b8",
+      "author_login": "EvgeniyPatlan",
+      "author_id": 18436759,
+      "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
+      "message": "ci: drop Fedora 41 and 42 from the package build matrix",
+      "date": "2026-09-15T07:48:07Z",
+      "repo": "valkey-ldap",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c14b22a45ca1ab0c2cce8104a58e06e732c25b07",
+      "author_login": "EvgeniyPatlan",
+      "author_id": 18436759,
+      "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
+      "message": "ci: add Fedora 45 to the package build matrix",
+      "date": "2026-09-15T07:48:07Z",
+      "repo": "valkey-ldap",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "335ca216f95f1d3a5dc97bc1c052218e6fe54a50",
+      "author_login": "EvgeniyPatlan",
+      "author_id": 18436759,
+      "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
+      "message": "fix: support building against OpenSSL 4",
+      "date": "2026-09-15T07:48:07Z",
+      "repo": "valkey-ldap",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "a12f90a97e078f46bfe07d02cdda36aecbc83d02",
+      "author_login": "roshkhatri",
+      "author_id": 117414976,
+      "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
+      "message": "Pin Debian 11 apt to snapshot.debian.org after LTS EOL (#68)",
+      "date": "2026-09-15T23:38:00Z",
+      "repo": "valkey-release-automation",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-09-15T23:23:08Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/68"
+    },
+    {
+      "sha": "0cc7609c65f0510b45be141503cbff9d2ede2536",
+      "author_login": "bandalgomsu",
+      "author_id": 121839239,
+      "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
+      "message": "Fix AS parameter substitution for vector score aliases (#1090)",
+      "date": "2026-09-15T21:04:04Z",
+      "repo": "valkey-search",
+      "reviewed": false,
+      "pr_url": ""
     }
   ]
 }

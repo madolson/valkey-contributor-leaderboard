@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 378,
+  "score": 381,
   "commit_count": 98,
-  "review_count": 280,
+  "review_count": 283,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -804,6 +804,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "66f9618f43",
+      "message": "Streaming Compression support for Replication (#3853)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3853",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/66f9618f4309250c3e94f7c722e1130467fc7f5f"
+    },
+    {
+      "sha": "22b3faaa62",
+      "message": "New maxmemory-scripts config to limit EVAL scripts memory, add DENYOOM flag to SCRIPT LOAD (#866)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/866",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/22b3faaa623026ef9d343bf88a1c5b06edf5b0b6"
+    },
+    {
+      "sha": "a12f90a97e",
+      "message": "Pin Debian 11 apt to snapshot.debian.org after LTS EOL (#68)",
+      "date": "2026-09-15",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/68",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/a12f90a97e078f46bfe07d02cdda36aecbc83d02"
+    },
     {
       "sha": "4be324e887",
       "message": "Streaming Compression support for fullsync",

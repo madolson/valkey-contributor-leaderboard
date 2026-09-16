@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 314,
-  "commit_count": 183,
-  "review_count": 131,
+  "score": 316,
+  "commit_count": 184,
+  "review_count": 132,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "030ad18b07",
+      "message": "ci(rust): simplify test matrix to Valkey 9.0 and Redis 6.2 (#7083)",
+      "date": "2026-09-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7083",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/030ad18b0781830089d26fad9d8805e3a6f2e9e4"
+    },
     {
       "sha": "da6e52c5f1",
       "message": "fix(rust): surface scan iterator errors instead of ending iteration (#7053)",
@@ -1488,6 +1496,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/5426",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/445908e11633b08ace083bfc0ad8276d116a59ce"
+    },
+    {
+      "sha": "9439b2ba87",
+      "message": "fix: remove strum macros, pin aws-smithy-types breaking change (#7092)",
+      "date": "2026-09-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7092",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9439b2ba879553d7b017777d97ce9b9ac6147ccf"
     },
     {
       "sha": "12bd6970b3",

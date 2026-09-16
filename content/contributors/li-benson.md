@@ -2,13 +2,21 @@
   "title": "li-benson",
   "login": "li-benson",
   "avatar_url": "https://avatars.githubusercontent.com/u/46148313?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "ae2ab6bba8",
+      "message": "Add optional XX to SISMEMBER; return -1 if the key does not exist (#2972)",
+      "date": "2026-09-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2972",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ae2ab6bba84945c4187eea17f36a2f07b3398042"
+    },
     {
       "sha": "f5d7dc8d05",
       "message": "Fix potential memory leaks when a writable replica is promoted to primary after direct writes of keys with expiration (#2953)",

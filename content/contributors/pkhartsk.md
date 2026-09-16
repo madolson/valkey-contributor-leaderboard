@@ -2,13 +2,21 @@
   "title": "pkhartsk",
   "login": "pkhartsk",
   "avatar_url": "https://avatars.githubusercontent.com/u/225215338?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "d265ca949b",
+      "message": "Fixes to dual certs (#4663)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4663",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d265ca949baf5468a38e6508fc074b15733c710e"
+    },
     {
       "sha": "03a7447bd8",
       "message": "Add support for secondary certificates (#3717)",

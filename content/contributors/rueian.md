@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 56,
+  "score": 57,
   "commit_count": 9,
-  "review_count": 47,
+  "review_count": 48,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4a7ba2a5fb",
+      "message": "docs: fix the Receive cleanup and parse-error examples (#182)",
+      "date": "2026-09-16",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/182",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/4a7ba2a5fba1d5b1b6f2f04099b8b5e5af27a4f1"
+    },
     {
       "sha": "12c94e09bd",
       "message": "perf(cluster): consolidate keyless commands onto one conn on retry (#180)",

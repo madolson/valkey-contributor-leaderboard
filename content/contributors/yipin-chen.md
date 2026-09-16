@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 797,
+  "score": 799,
   "commit_count": 45,
-  "review_count": 752,
+  "review_count": 754,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9803fdfa30",
+      "message": "Java: Add `AZ_AFFINITY_ALL_NODES` read strategy (#7059)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7059",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9803fdfa3084152b56b2d927631f3a03fb901e38"
+    },
+    {
+      "sha": "030ad18b07",
+      "message": "ci(rust): simplify test matrix to Valkey 9.0 and Redis 6.2 (#7083)",
+      "date": "2026-09-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7083",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/030ad18b0781830089d26fad9d8805e3a6f2e9e4"
+    },
     {
       "sha": "845e5c569b",
       "message": "docs: remove unpublished pooling-and-scopes doc (#7065)",

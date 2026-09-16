@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 27,
-  "commit_count": 5,
-  "review_count": 22,
+  "score": 30,
+  "commit_count": 7,
+  "review_count": 23,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "9439b2ba87",
+      "message": "fix: remove strum macros, pin aws-smithy-types breaking change (#7092)",
+      "date": "2026-09-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7092",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9439b2ba879553d7b017777d97ce9b9ac6147ccf"
+    },
+    {
+      "sha": "07893c848d",
+      "message": "docs: minor typo (#330)",
+      "date": "2026-09-15",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/330",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/07893c848dc45ec08275c2c5db53e01a99200e2a"
+    },
     {
       "sha": "00e90fe3bc",
       "message": "docs(client_info_tag): Add docs for client_info_tag (#321)",
@@ -55,6 +71,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "231c9ae88a",
+      "message": "refactor(pubsub): mixin refactor (#311)",
+      "date": "2026-09-15",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/311",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/231c9ae88a34bf3971fa1024b15936209db14a59"
+    },
     {
       "sha": "5883749ba0",
       "message": "build(deps): bump the patch-updates group across 1 directory with 5 updates (#7075)",
