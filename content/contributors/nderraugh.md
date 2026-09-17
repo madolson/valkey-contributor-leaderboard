@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 30,
+  "score": 31,
   "commit_count": 7,
-  "review_count": 23,
+  "review_count": 24,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -71,6 +71,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ce2951513d",
+      "message": "fix(core): scoped commands require a live parent client (#7062)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7062",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ce2951513df2141765a36ca8142bf1ad80537883"
+    },
     {
       "sha": "231c9ae88a",
       "message": "refactor(pubsub): mixin refactor (#311)",

@@ -2,8 +2,8 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 230,
-  "commit_count": 66,
+  "score": 232,
+  "commit_count": 68,
   "review_count": 164,
   "repos": [
     "spring-data-valkey",
@@ -13,6 +13,22 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "8736ec05d3",
+      "message": "fix(core): reset CLIENT SETNAME on scope release (#7094)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7094",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8736ec05d3e974e7daa06438b315bba1ce700ea5"
+    },
+    {
+      "sha": "ce2951513d",
+      "message": "fix(core): scoped commands require a live parent client (#7062)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7062",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ce2951513df2141765a36ca8142bf1ad80537883"
+    },
     {
       "sha": "845e5c569b",
       "message": "docs: remove unpublished pooling-and-scopes doc (#7065)",

@@ -2,14 +2,22 @@
   "title": "xdk-amz",
   "login": "xdk-amz",
   "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
-  "score": 7,
-  "commit_count": 4,
+  "score": 8,
+  "commit_count": 5,
   "review_count": 3,
   "repos": [
     "valkey",
     "valkey-glide"
   ],
   "commit_list": [
+    {
+      "sha": "5c24e5d20d",
+      "message": "[Bug Fix] Echo the rejected request epoch in FAILOVER_AUTH_NACK (#4654)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4654",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5c24e5d20df204fd247d8f700b887d372935fb84"
+    },
     {
       "sha": "db3da42c77",
       "message": "[Go] Implement Go bindings for Transparent Compression (#5359)",

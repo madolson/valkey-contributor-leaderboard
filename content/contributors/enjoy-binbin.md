@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 981,
+  "score": 983,
   "commit_count": 393,
-  "review_count": 588,
+  "review_count": 590,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3167,6 +3167,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4664",
       "commit_url": "https://github.com/valkey-io/valkey/commit/3f9062ed54d56ec0e6b0cfb0037cebbd3726acdc"
+    },
+    {
+      "sha": "5c24e5d20d",
+      "message": "[Bug Fix] Echo the rejected request epoch in FAILOVER_AUTH_NACK (#4654)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4654",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5c24e5d20df204fd247d8f700b887d372935fb84"
+    },
+    {
+      "sha": "a84b2f5b9a",
+      "message": "Feature valkey path hash (#4506)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4506",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a84b2f5b9ae27f3799690cd3a778cc9907303c84"
     },
     {
       "sha": "74793bd028",

@@ -2,13 +2,29 @@
   "title": "nitaicaro",
   "login": "nitaicaro",
   "avatar_url": "https://avatars.githubusercontent.com/u/42576749?v=4",
-  "score": 9,
-  "commit_count": 7,
+  "score": 11,
+  "commit_count": 9,
   "review_count": 2,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "e082696cf1",
+      "message": "Document VALKEYMODULE_OPTIONS_HANDLE_FORKLESS (#4716)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4716",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e082696cf13e2bba67454179e9335cf41029e8a6"
+    },
+    {
+      "sha": "f93169d8b7",
+      "message": "Deflake BgIterationTest.createAndCleanup (#4714)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4714",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f93169d8b7e4cdbafdead25666f3e5300927b751"
+    },
     {
       "sha": "db7da3d115",
       "message": "Resolve a key's slot from the key, not from the executing command (#4380)",

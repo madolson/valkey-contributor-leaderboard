@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 309,
+  "score": 310,
   "commit_count": 96,
-  "review_count": 213,
+  "review_count": 214,
   "repos": [
     "valkey",
     "valkey-container",
@@ -786,6 +786,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "23c73ab6f2",
+      "message": "Bump minimum cmake version to 3.24 (#4232)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4232",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/23c73ab6f20662a7d60ac71636930daf5ce4992b"
+    },
     {
       "sha": "ae2ab6bba8",
       "message": "Add optional XX to SISMEMBER; return -1 if the key does not exist (#2972)",

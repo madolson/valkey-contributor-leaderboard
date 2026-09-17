@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 71,
+  "score": 74,
   "commit_count": 24,
-  "review_count": 47,
+  "review_count": 50,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -204,6 +204,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e082696cf1",
+      "message": "Document VALKEYMODULE_OPTIONS_HANDLE_FORKLESS (#4716)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4716",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e082696cf13e2bba67454179e9335cf41029e8a6"
+    },
+    {
+      "sha": "f93169d8b7",
+      "message": "Deflake BgIterationTest.createAndCleanup (#4714)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4714",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f93169d8b7e4cdbafdead25666f3e5300927b751"
+    },
+    {
+      "sha": "122ec7e162",
+      "message": "Pin release automation builds to resolved tag commits (#4495)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4495",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/122ec7e1623c0fad925f93799ef3dcd40a8a3e79"
+    },
     {
       "sha": "f42c9ab3d8",
       "message": "Reserve connection slots for priority sources (#4005)",

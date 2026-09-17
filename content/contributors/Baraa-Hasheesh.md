@@ -2,13 +2,21 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "23c73ab6f2",
+      "message": "Bump minimum cmake version to 3.24 (#4232)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4232",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/23c73ab6f20662a7d60ac71636930daf5ce4992b"
+    },
     {
       "sha": "5810f5be96",
       "message": "Remove duplicate c->flag.blocked check (#4617)",

@@ -2,8 +2,8 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 939,
-  "commit_count": 212,
+  "score": 941,
+  "commit_count": 214,
   "review_count": 727,
   "repos": [
     ".github",
@@ -28,6 +28,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4664",
       "commit_url": "https://github.com/valkey-io/valkey/commit/3f9062ed54d56ec0e6b0cfb0037cebbd3726acdc"
+    },
+    {
+      "sha": "bf80312745",
+      "message": "Regenerate commands.def for the path hash command tips (#4709)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4709",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bf803127450e008fdc98f9bff51398c7ab355473"
+    },
+    {
+      "sha": "72049a302e",
+      "message": "Report the real error when a reply schema fails validation (#4703)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4703",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/72049a302e0d8e6f0ca77ccba3c5b28c926e3e01"
     },
     {
       "sha": "74793bd028",

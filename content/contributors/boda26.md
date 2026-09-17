@@ -2,13 +2,21 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 77,
-  "commit_count": 45,
+  "score": 78,
+  "commit_count": 46,
   "review_count": 32,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "4f6ef4b043",
+      "message": "Scoring: BM25STD scoring for prefix, suffix and fuzzy queries (#1350)",
+      "date": "2026-09-16",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1350",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/4f6ef4b043b1a79009a257e2df0254c50c4bcf0c"
+    },
     {
       "sha": "5da3b130b1",
       "message": "Scoring: scoring-disabled dev only config (#1357)",

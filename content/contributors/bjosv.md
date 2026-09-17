@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 256,
+  "score": 259,
   "commit_count": 125,
-  "review_count": 131,
+  "review_count": 134,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1015,6 +1015,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2a77f14d03",
+      "message": "fix: Harden aggregate allocation",
+      "date": "2026-09-16",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/345",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/2a77f14d03532ea5da4844e2b3f807fc9cebf8bb"
+    },
+    {
+      "sha": "16c2dafb8e",
+      "message": "fix: Protect against overflow on LLP64",
+      "date": "2026-09-16",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/346",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/16c2dafb8e3962f67d3ccd4fd12eb6b70b177e05"
+    },
+    {
+      "sha": "c81156ba8a",
+      "message": "fix: Prevent use-after-free in macos adapter",
+      "date": "2026-09-16",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/347",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/c81156ba8a252598fcbb7cd2f711b0d2c6a985c3"
+    },
     {
       "sha": "118c675df8",
       "message": "enhancement: reliable, event-driven ValkeyNode.Status.Role (#320)",

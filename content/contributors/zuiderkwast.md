@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1249,
+  "score": 1251,
   "commit_count": 153,
-  "review_count": 1096,
+  "review_count": 1098,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1246,6 +1246,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "00a8a19554",
+      "message": "Attribute LZ4 codec context memory to client memory usage (#4702)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4702",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/00a8a19554a39facb591837ea41ba4350260919d"
+    },
+    {
+      "sha": "5c24e5d20d",
+      "message": "[Bug Fix] Echo the rejected request epoch in FAILOVER_AUTH_NACK (#4654)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4654",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5c24e5d20df204fd247d8f700b887d372935fb84"
+    },
     {
       "sha": "05a9c29c62",
       "message": "Add cluster-replica-no-failover if-empty to block failover from empty replicas (#4425)",

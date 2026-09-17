@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 456,
-  "commit_count": 129,
-  "review_count": 327,
+  "score": 459,
+  "commit_count": 130,
+  "review_count": 329,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "3243fbdbd3",
+      "message": "build(deps): raise js-yaml and browserslist npm override floors (#7100)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7100",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3243fbdbd386b0348a6066839d30b9468a15ffe9"
+    },
     {
       "sha": "da0db305dd",
       "message": "fix(java): decode scoped-connection responses larger than 16 KB (#6958)",
@@ -1056,6 +1064,46 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7059",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9803fdfa3084152b56b2d927631f3a03fb901e38"
+    },
+    {
+      "sha": "6495d991d5",
+      "message": "build(deps): bump the npm_and_yarn group across 2 directories with 3 updates (#7084)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7084",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6495d991d51cb9181b34331f2fc690db04ab0cb5"
+    },
+    {
+      "sha": "6495d991d5",
+      "message": "build(deps): bump the npm_and_yarn group across 2 directories with 3 updates (#7084)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7084",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6495d991d51cb9181b34331f2fc690db04ab0cb5"
+    },
+    {
+      "sha": "ce2951513d",
+      "message": "fix(core): scoped commands require a live parent client (#7062)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7062",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ce2951513df2141765a36ca8142bf1ad80537883"
+    },
+    {
+      "sha": "fb11d94971",
+      "message": "build(deps): bump which from 8.0.5 to 8.0.6 in /glide-core in the patch-updates group across 1 directory (#7081)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7081",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fb11d94971900872ee221fd24d20a04776ea79df"
+    },
+    {
+      "sha": "6899c09bd9",
+      "message": "ci(ort): fix attribution build (ORT 59.0.0) (#336)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/336",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/6899c09bd98a3bb21ec94162d8e6ebe151469004"
     },
     {
       "sha": "445908e116",

@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 323,
+  "score": 324,
   "commit_count": 82,
-  "review_count": 241,
+  "review_count": 242,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -671,6 +671,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "03f27d2ac2",
+      "message": "Support field-scoped text group @field:(a|b|c) (#1214) (#1218)",
+      "date": "2026-09-16",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1218",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/03f27d2ac263af68b4f86e126560a405df548f8f"
+    },
     {
       "sha": "20757bae45",
       "message": "RFC for multi-language support in FTS (#1279)",

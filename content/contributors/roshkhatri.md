@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 424,
+  "score": 430,
   "commit_count": 156,
-  "review_count": 268,
+  "review_count": 274,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1270,6 +1270,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "00a8a19554",
+      "message": "Attribute LZ4 codec context memory to client memory usage (#4702)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4702",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/00a8a19554a39facb591837ea41ba4350260919d"
+    },
+    {
+      "sha": "122ec7e162",
+      "message": "Pin release automation builds to resolved tag commits (#4495)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4495",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/122ec7e1623c0fad925f93799ef3dcd40a8a3e79"
+    },
+    {
+      "sha": "3479a18f1a",
+      "message": "Update versions.json and Dockerfiles for version 9.2.0-rc1 (#168)",
+      "date": "2026-09-16",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/168",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/3479a18f1af0b418cec30d25084edca5665fc91f"
+    },
+    {
+      "sha": "62ff54502f",
+      "message": "Grant production callers the actions:read their approval jobs declare (#70)",
+      "date": "2026-09-16",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/70",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/62ff54502fd09e5ea2c2cc43ea218594ee44e68d"
+    },
+    {
+      "sha": "bd3eb4a0d5",
+      "message": "Grant the qualification path the actions:read its nested graph declares (#69)",
+      "date": "2026-09-16",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/69",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/bd3eb4a0d52bd37ca665658164dad4cfcd9aed28"
+    },
+    {
+      "sha": "18c13c35d1",
+      "message": "deb: make Packages Filename paths resolve against the repository URI (#66)",
+      "date": "2026-09-16",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/66",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/18c13c35d1e1a5dbbc960a0c7a59c6a6275a0d7f"
+    },
+    {
+      "sha": "4bbdaa3bf6",
+      "message": "Add release qualification and SHA-pinned production builds (#65)",
+      "date": "2026-09-16",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/65",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/4bbdaa3bf60e084dc797ee6cf5c23d741c1a5fc1"
+    },
     {
       "sha": "4181224de0",
       "message": "Fix update-versions.py script to handle certain cases and add additional tests (#124)",

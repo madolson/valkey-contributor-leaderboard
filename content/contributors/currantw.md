@@ -1490,6 +1490,14 @@
   ],
   "review_list": [
     {
+      "sha": "fb11d94971",
+      "message": "build(deps): bump which from 8.0.5 to 8.0.6 in /glide-core in the patch-updates group across 1 directory (#7081)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7081",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fb11d94971900872ee221fd24d20a04776ea79df"
+    },
+    {
       "sha": "445908e116",
       "message": "build(deps): bump strum_macros from 0.26.4 to 0.28.0 in /glide-core (#5426)",
       "date": "2026-09-15",

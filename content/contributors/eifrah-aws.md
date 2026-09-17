@@ -2,9 +2,9 @@
   "title": "eifrah-aws",
   "login": "eifrah-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/170855270?v=4",
-  "score": 215,
+  "score": 216,
   "commit_count": 94,
-  "review_count": 121,
+  "review_count": 122,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -769,6 +769,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "23c73ab6f2",
+      "message": "Bump minimum cmake version to 3.24 (#4232)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4232",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/23c73ab6f20662a7d60ac71636930daf5ce4992b"
+    },
     {
       "sha": "754d9f15bc",
       "message": "zset bugfix - Fix lex range sentinel handling in the ordered index (#4497)",

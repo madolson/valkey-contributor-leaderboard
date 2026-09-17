@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 20,
+  "score": 21,
   "commit_count": 9,
-  "review_count": 11,
+  "review_count": 12,
   "repos": [
     "valkey-search"
   ],
@@ -83,6 +83,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "03f27d2ac2",
+      "message": "Support field-scoped text group @field:(a|b|c) (#1214) (#1218)",
+      "date": "2026-09-16",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1218",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/03f27d2ac263af68b4f86e126560a405df548f8f"
+    },
     {
       "sha": "707324aa1d",
       "message": "FT.AGGREGATE: SORTBY ignores a following LIMIT, breaking paging past the first page (#1373)",

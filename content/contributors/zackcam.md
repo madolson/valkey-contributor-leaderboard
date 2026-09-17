@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 74,
+  "score": 75,
   "commit_count": 45,
-  "review_count": 29,
+  "review_count": 30,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -378,6 +378,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4f6ef4b043",
+      "message": "Scoring: BM25STD scoring for prefix, suffix and fuzzy queries (#1350)",
+      "date": "2026-09-16",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1350",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/4f6ef4b043b1a79009a257e2df0254c50c4bcf0c"
+    },
     {
       "sha": "f737938b56",
       "message": "Run integration tests in parallel (reduces runtime from ~12 minutes to ~95 seconds) (#1355)",

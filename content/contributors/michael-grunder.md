@@ -2,13 +2,37 @@
   "title": "michael-grunder",
   "login": "michael-grunder",
   "avatar_url": "https://avatars.githubusercontent.com/u/468149?v=4",
-  "score": 79,
-  "commit_count": 20,
+  "score": 82,
+  "commit_count": 23,
   "review_count": 59,
   "repos": [
     "libvalkey"
   ],
   "commit_list": [
+    {
+      "sha": "2a77f14d03",
+      "message": "fix: Harden aggregate allocation",
+      "date": "2026-09-16",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/345",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/2a77f14d03532ea5da4844e2b3f807fc9cebf8bb"
+    },
+    {
+      "sha": "16c2dafb8e",
+      "message": "fix: Protect against overflow on LLP64",
+      "date": "2026-09-16",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/346",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/16c2dafb8e3962f67d3ccd4fd12eb6b70b177e05"
+    },
+    {
+      "sha": "c81156ba8a",
+      "message": "fix: Prevent use-after-free in macos adapter",
+      "date": "2026-09-16",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/347",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/c81156ba8a252598fcbb7cd2f711b0d2c6a985c3"
+    },
     {
       "sha": "365bc5561e",
       "message": "Slightly better Windows error ergonomics",

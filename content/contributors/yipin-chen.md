@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 799,
+  "score": 803,
   "commit_count": 45,
-  "review_count": 754,
+  "review_count": 758,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -384,6 +384,38 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7059",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9803fdfa3084152b56b2d927631f3a03fb901e38"
+    },
+    {
+      "sha": "3243fbdbd3",
+      "message": "build(deps): raise js-yaml and browserslist npm override floors (#7100)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7100",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3243fbdbd386b0348a6066839d30b9468a15ffe9"
+    },
+    {
+      "sha": "8736ec05d3",
+      "message": "fix(core): reset CLIENT SETNAME on scope release (#7094)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7094",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8736ec05d3e974e7daa06438b315bba1ce700ea5"
+    },
+    {
+      "sha": "ce2951513d",
+      "message": "fix(core): scoped commands require a live parent client (#7062)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7062",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ce2951513df2141765a36ca8142bf1ad80537883"
+    },
+    {
+      "sha": "6899c09bd9",
+      "message": "ci(ort): fix attribution build (ORT 59.0.0) (#336)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/336",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/6899c09bd98a3bb21ec94162d8e6ebe151469004"
     },
     {
       "sha": "030ad18b07",

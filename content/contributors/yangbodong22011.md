@@ -2,14 +2,22 @@
   "title": "yangbodong22011",
   "login": "yangbodong22011",
   "avatar_url": "https://avatars.githubusercontent.com/u/13137470?v=4",
-  "score": 3,
-  "commit_count": 2,
+  "score": 4,
+  "commit_count": 3,
   "review_count": 1,
   "repos": [
     "valkey",
     "valkey-java"
   ],
   "commit_list": [
+    {
+      "sha": "a84b2f5b9a",
+      "message": "Feature valkey path hash (#4506)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4506",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a84b2f5b9ae27f3799690cd3a778cc9907303c84"
+    },
     {
       "sha": "1eaa60a15f",
       "message": "fix #12, Add doc for nil (#14)",

@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 146,
+  "score": 147,
   "commit_count": 46,
-  "review_count": 100,
+  "review_count": 101,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -382,6 +382,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a84b2f5b9a",
+      "message": "Feature valkey path hash (#4506)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4506",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a84b2f5b9ae27f3799690cd3a778cc9907303c84"
+    },
     {
       "sha": "6ae7eb4889",
       "message": "Introduce INCREX command (#3253)",

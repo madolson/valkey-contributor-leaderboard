@@ -2,8 +2,8 @@
   "title": "EvgeniyPatlan",
   "login": "EvgeniyPatlan",
   "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
-  "score": 10,
-  "commit_count": 6,
+  "score": 11,
+  "commit_count": 7,
   "review_count": 4,
   "repos": [
     "valkey-go",
@@ -12,6 +12,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "18c13c35d1",
+      "message": "deb: make Packages Filename paths resolve against the repository URI (#66)",
+      "date": "2026-09-16",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/66",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/18c13c35d1e1a5dbbc960a0c7a59c6a6275a0d7f"
+    },
     {
       "sha": "87185f5f16",
       "message": "build and publish packages during release (#58)",

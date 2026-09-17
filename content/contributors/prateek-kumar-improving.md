@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 428,
-  "commit_count": 147,
-  "review_count": 281,
+  "score": 431,
+  "commit_count": 148,
+  "review_count": 283,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "6899c09bd9",
+      "message": "ci(ort): fix attribution build (ORT 59.0.0) (#336)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/336",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/6899c09bd98a3bb21ec94162d8e6ebe151469004"
+    },
     {
       "sha": "0b86d579dc",
       "message": "feat(config): add mTLS (mutual TLS) client certificate support (#321)",
@@ -1191,6 +1199,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3243fbdbd3",
+      "message": "build(deps): raise js-yaml and browserslist npm override floors (#7100)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7100",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3243fbdbd386b0348a6066839d30b9468a15ffe9"
+    },
+    {
+      "sha": "8736ec05d3",
+      "message": "fix(core): reset CLIENT SETNAME on scope release (#7094)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7094",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8736ec05d3e974e7daa06438b315bba1ce700ea5"
+    },
+    {
+      "sha": "6495d991d5",
+      "message": "build(deps): bump the npm_and_yarn group across 2 directories with 3 updates (#7084)",
+      "date": "2026-09-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7084",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6495d991d51cb9181b34331f2fc690db04ab0cb5"
+    },
     {
       "sha": "a82ae84f79",
       "message": "ci: add `dependabot` `cargo` entry for Rust client (#7032)",

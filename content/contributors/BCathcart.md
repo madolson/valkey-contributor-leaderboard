@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 112,
+  "score": 113,
   "commit_count": 41,
-  "review_count": 71,
+  "review_count": 72,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -342,6 +342,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4f6ef4b043",
+      "message": "Scoring: BM25STD scoring for prefix, suffix and fuzzy queries (#1350)",
+      "date": "2026-09-16",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1350",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/4f6ef4b043b1a79009a257e2df0254c50c4bcf0c"
+    },
     {
       "sha": "9db11eff59",
       "message": "Move compatibility reference to redis:latest and fix what it exposed (supersedes #1068, #1239) (#1366)",

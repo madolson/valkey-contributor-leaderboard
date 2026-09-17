@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 306,
+  "score": 307,
   "commit_count": 66,
-  "review_count": 240,
+  "review_count": 241,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -547,6 +547,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "00a8a19554",
+      "message": "Attribute LZ4 codec context memory to client memory usage (#4702)",
+      "date": "2026-09-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4702",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/00a8a19554a39facb591837ea41ba4350260919d"
+    },
     {
       "sha": "22b3faaa62",
       "message": "New maxmemory-scripts config to limit EVAL scripts memory, add DENYOOM flag to SCRIPT LOAD (#866)",
