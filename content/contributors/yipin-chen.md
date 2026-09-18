@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 803,
+  "score": 804,
   "commit_count": 45,
-  "review_count": 758,
+  "review_count": 759,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9be92472fd",
+      "message": "feat(node): add AZAffinityAllNodes read strategy (#7104)",
+      "date": "2026-09-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7104",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9be92472fd08aa2de66ce2bcd05c546544754d97"
+    },
     {
       "sha": "9803fdfa30",
       "message": "Java: Add `AZ_AFFINITY_ALL_NODES` read strategy (#7059)",

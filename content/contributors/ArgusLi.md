@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 113,
+  "score": 114,
   "commit_count": 70,
-  "review_count": 43,
+  "review_count": 44,
   "repos": [
     "valkey-admin"
   ],
@@ -571,6 +571,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9836fb49fd",
+      "message": "Fix K8s sidecar registration and stale cluster topology broadcast (#512)",
+      "date": "2026-09-17",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/512",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/9836fb49fd62282c342d6a22386ef61ef4045a13"
+    },
     {
       "sha": "ef58fe5d36",
       "message": "set clientInfoTag and upgrade glide to version 2.5.2 (#506)",

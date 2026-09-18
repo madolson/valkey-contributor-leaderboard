@@ -2,9 +2,9 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 57,
+  "score": 58,
   "commit_count": 25,
-  "review_count": 32,
+  "review_count": 33,
   "repos": [
     "valkey",
     "valkey-perf-benchmark",
@@ -214,6 +214,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b8d5f269ba",
+      "message": "fix search benchmark dependency issue (#92)",
+      "date": "2026-09-17",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/92",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/b8d5f269ba74aa7a8ef203d05e84588fabbb0353"
+    },
     {
       "sha": "2432e1e4f0",
       "message": "Add PR-triggered search benchmark comparison workflow (#1268)",

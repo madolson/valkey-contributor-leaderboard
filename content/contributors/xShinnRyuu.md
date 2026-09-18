@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 459,
+  "score": 461,
   "commit_count": 130,
-  "review_count": 329,
+  "review_count": 331,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -1057,6 +1057,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "53ad326231",
+      "message": "fix(core): Key scope targets on resolved primary address, fail closed on unresolved slots. (#7054)",
+      "date": "2026-09-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7054",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/53ad32623183d8ece8a16b064ca622c3dd02f02b"
+    },
+    {
+      "sha": "9be92472fd",
+      "message": "feat(node): add AZAffinityAllNodes read strategy (#7104)",
+      "date": "2026-09-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7104",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9be92472fd08aa2de66ce2bcd05c546544754d97"
+    },
     {
       "sha": "9803fdfa30",
       "message": "Java: Add `AZ_AFFINITY_ALL_NODES` read strategy (#7059)",

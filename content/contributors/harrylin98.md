@@ -2,9 +2,9 @@
   "title": "harrylin98",
   "login": "harrylin98",
   "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
-  "score": 16,
+  "score": 17,
   "commit_count": 15,
-  "review_count": 1,
+  "review_count": 2,
   "repos": [
     "valkey"
   ],
@@ -131,6 +131,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1c847e8868",
+      "message": "Deflake throttle-repl tests (#4730)",
+      "date": "2026-09-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4730",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1c847e8868f2210eddb0a0b0438750a7f3283628"
+    },
     {
       "sha": "c9ce3e0919",
       "message": "Fix OOM aborts in large-memory ASAN tests on GitHub runners (#3263)",

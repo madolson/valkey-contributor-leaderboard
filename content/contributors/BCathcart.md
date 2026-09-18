@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 113,
+  "score": 114,
   "commit_count": 41,
-  "review_count": 72,
+  "review_count": 73,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -342,6 +342,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6428b669ba",
+      "message": "Bug fix: only last RETURN in SEARCH should be effective (#1389)",
+      "date": "2026-09-17",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1389",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6428b669ba473d2faafd98b6d5dcf385f0c7befc"
+    },
     {
       "sha": "4f6ef4b043",
       "message": "Scoring: BM25STD scoring for prefix, suffix and fuzzy queries (#1350)",

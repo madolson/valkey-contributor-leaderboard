@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 31,
-  "commit_count": 7,
-  "review_count": 24,
+  "score": 33,
+  "commit_count": 8,
+  "review_count": 25,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "53ad326231",
+      "message": "fix(core): Key scope targets on resolved primary address, fail closed on unresolved slots. (#7054)",
+      "date": "2026-09-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7054",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/53ad32623183d8ece8a16b064ca622c3dd02f02b"
+    },
     {
       "sha": "9439b2ba87",
       "message": "fix: remove strum macros, pin aws-smithy-types breaking change (#7092)",
@@ -71,6 +79,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "52d396f0b4",
+      "message": "feat(pubsub): pattern subscriptions, lazy variants and callback delivery (#316)",
+      "date": "2026-09-17",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/316",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/52d396f0b4644e0008fab0084e885f28ea69684f"
+    },
     {
       "sha": "ce2951513d",
       "message": "fix(core): scoped commands require a live parent client (#7062)",

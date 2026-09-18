@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 57,
+  "score": 58,
   "commit_count": 9,
-  "review_count": 48,
+  "review_count": 49,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5a2430a293",
+      "message": "add MSetEx compatibility (#164)",
+      "date": "2026-09-18",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/164",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/5a2430a29343406fdae8f3d2e8835827b9ebf510"
+    },
     {
       "sha": "4a7ba2a5fb",
       "message": "docs: fix the Receive cleanup and parse-error examples (#182)",

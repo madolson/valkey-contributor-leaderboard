@@ -2,13 +2,22 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 21,
-  "commit_count": 9,
+  "score": 22,
+  "commit_count": 10,
   "review_count": 12,
   "repos": [
+    "valkey-perf-benchmark",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "b8d5f269ba",
+      "message": "fix search benchmark dependency issue (#92)",
+      "date": "2026-09-17",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/92",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/b8d5f269ba74aa7a8ef203d05e84588fabbb0353"
+    },
     {
       "sha": "8b2fd84b95",
       "message": "Install gcc14 static libstdc++ for benchmark builds due to #1360 (#1383)",

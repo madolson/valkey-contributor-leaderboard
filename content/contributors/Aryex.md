@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 275,
-  "commit_count": 94,
+  "score": 276,
+  "commit_count": 95,
   "review_count": 181,
   "repos": [
     "spring-data-valkey",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "52d396f0b4",
+      "message": "feat(pubsub): pattern subscriptions, lazy variants and callback delivery (#316)",
+      "date": "2026-09-17",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/316",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/52d396f0b4644e0008fab0084e885f28ea69684f"
+    },
     {
       "sha": "231c9ae88a",
       "message": "refactor(pubsub): mixin refactor (#311)",

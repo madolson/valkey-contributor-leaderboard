@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 941,
-  "commit_count": 214,
-  "review_count": 727,
+  "score": 944,
+  "commit_count": 216,
+  "review_count": 728,
   "repos": [
     ".github",
     "valkey",
@@ -21,6 +21,22 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "b4a976f68f",
+      "message": "Fix execGetKeys() dropping the first 256 keys past the static buffer (#4712)",
+      "date": "2026-09-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4712",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b4a976f68f22205a56145f10d94e478f74351fc1"
+    },
+    {
+      "sha": "0ea865e729",
+      "message": "Add blog post: Keeping up with AI, Valkey security in 2026 (#664)",
+      "date": "2026-09-17",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/664",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/0ea865e7292aad3977fda733d10705df12454750"
+    },
     {
       "sha": "3f9062ed54",
       "message": "Report each server certificate against the config that loaded it (#4664)",
@@ -1735,6 +1751,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "47c9839b22",
+      "message": "Deflake replica migration tests (#4684)",
+      "date": "2026-09-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4684",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/47c9839b22638e04e93a689fa304ee2985eb5771"
+    },
     {
       "sha": "d265ca949b",
       "message": "Fixes to dual certs (#4663)",

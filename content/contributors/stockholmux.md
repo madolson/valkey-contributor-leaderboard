@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 144,
+  "score": 145,
   "commit_count": 18,
-  "review_count": 126,
+  "review_count": 127,
   "repos": [
     "valkey",
     "valkey-container",
@@ -159,6 +159,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0ea865e729",
+      "message": "Add blog post: Keeping up with AI, Valkey security in 2026 (#664)",
+      "date": "2026-09-17",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/664",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/0ea865e7292aad3977fda733d10705df12454750"
+    },
     {
       "sha": "b9510c5950",
       "message": "Unfurl blog posts with their own image, not the logo (#656)",

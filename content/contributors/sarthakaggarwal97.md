@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 388,
-  "commit_count": 103,
-  "review_count": 285,
+  "score": 391,
+  "commit_count": 104,
+  "review_count": 287,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -18,6 +18,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "caf766d5a7",
+      "message": "Remove the standalone deployment gates and fail closed on bucket selection",
+      "date": "2026-09-17",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/72",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/caf766d5a7974e39fcbe0ac23699b4968e92d2be"
+    },
     {
       "sha": "00a8a19554",
       "message": "Attribute LZ4 codec context memory to client memory usage (#4702)",
@@ -844,6 +852,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1c847e8868",
+      "message": "Deflake throttle-repl tests (#4730)",
+      "date": "2026-09-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4730",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1c847e8868f2210eddb0a0b0438750a7f3283628"
+    },
+    {
+      "sha": "3959be664c",
+      "message": "Automated Updates for Valkey Bundle (#128)",
+      "date": "2026-09-17",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/128",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/3959be664c25c2d0f84063999fd58348f192c7cc"
+    },
+    {
+      "sha": "00c4b297eb",
+      "message": "Build only changed versions in CI and remove flaky integration tests (#129)",
+      "date": "2026-09-17",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/129",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/00c4b297eb170b0afca720173e7071df70d4215b"
+    },
     {
       "sha": "bf80312745",
       "message": "Regenerate commands.def for the path hash command tips (#4709)",

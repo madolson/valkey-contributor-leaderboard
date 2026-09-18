@@ -2,8 +2,8 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 259,
-  "commit_count": 125,
+  "score": 260,
+  "commit_count": 126,
   "review_count": 134,
   "repos": [
     "libvalkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "3a3770a15c",
+      "message": "fix: Handle event_new() failure in libevent adapter (#349)",
+      "date": "2026-09-17",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/349",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/3a3770a15ccb6991316d785101b140e87598fabe"
+    },
     {
       "sha": "9564ac8359",
       "message": "perf: tune valkey-go connections for control-plane use (#436)",

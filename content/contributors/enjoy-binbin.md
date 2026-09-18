@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 983,
+  "score": 985,
   "commit_count": 393,
-  "review_count": 590,
+  "review_count": 592,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3160,6 +3160,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b4a976f68f",
+      "message": "Fix execGetKeys() dropping the first 256 keys past the static buffer (#4712)",
+      "date": "2026-09-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4712",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b4a976f68f22205a56145f10d94e478f74351fc1"
+    },
+    {
+      "sha": "47c9839b22",
+      "message": "Deflake replica migration tests (#4684)",
+      "date": "2026-09-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4684",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/47c9839b22638e04e93a689fa304ee2985eb5771"
+    },
     {
       "sha": "3f9062ed54",
       "message": "Report each server certificate against the config that loaded it (#4664)",

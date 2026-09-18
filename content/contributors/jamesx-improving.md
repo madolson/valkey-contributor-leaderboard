@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 286,
+  "score": 289,
   "commit_count": 82,
-  "review_count": 204,
+  "review_count": 207,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -671,6 +671,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "53ad326231",
+      "message": "fix(core): Key scope targets on resolved primary address, fail closed on unresolved slots. (#7054)",
+      "date": "2026-09-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7054",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/53ad32623183d8ece8a16b064ca622c3dd02f02b"
+    },
+    {
+      "sha": "9be92472fd",
+      "message": "feat(node): add AZAffinityAllNodes read strategy (#7104)",
+      "date": "2026-09-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7104",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9be92472fd08aa2de66ce2bcd05c546544754d97"
+    },
+    {
+      "sha": "52d396f0b4",
+      "message": "feat(pubsub): pattern subscriptions, lazy variants and callback delivery (#316)",
+      "date": "2026-09-17",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/316",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/52d396f0b4644e0008fab0084e885f28ea69684f"
+    },
     {
       "sha": "231c9ae88a",
       "message": "refactor(pubsub): mixin refactor (#311)",

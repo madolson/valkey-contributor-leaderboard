@@ -2,13 +2,29 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "1c847e8868",
+      "message": "Deflake throttle-repl tests (#4730)",
+      "date": "2026-09-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4730",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1c847e8868f2210eddb0a0b0438750a7f3283628"
+    },
+    {
+      "sha": "47c9839b22",
+      "message": "Deflake replica migration tests (#4684)",
+      "date": "2026-09-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4684",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/47c9839b22638e04e93a689fa304ee2985eb5771"
+    },
     {
       "sha": "23c73ab6f2",
       "message": "Bump minimum cmake version to 3.24 (#4232)",

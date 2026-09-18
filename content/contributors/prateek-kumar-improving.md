@@ -2,8 +2,8 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 431,
-  "commit_count": 148,
+  "score": 432,
+  "commit_count": 149,
   "review_count": 283,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "9be92472fd",
+      "message": "feat(node): add AZAffinityAllNodes read strategy (#7104)",
+      "date": "2026-09-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7104",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9be92472fd08aa2de66ce2bcd05c546544754d97"
+    },
     {
       "sha": "6899c09bd9",
       "message": "ci(ort): fix attribution build (ORT 59.0.0) (#336)",

@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 324,
+  "score": 325,
   "commit_count": 82,
-  "review_count": 242,
+  "review_count": 243,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -671,6 +671,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ef57713911",
+      "message": "Fix long-running clang-format after running integration tests (#1406)",
+      "date": "2026-09-17",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1406",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ef57713911af42d04fbc93bcfe653c35ce4ecdd6"
+    },
     {
       "sha": "03f27d2ac2",
       "message": "Support field-scoped text group @field:(a|b|c) (#1214) (#1218)",

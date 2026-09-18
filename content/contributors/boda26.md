@@ -2,13 +2,21 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 78,
-  "commit_count": 46,
+  "score": 79,
+  "commit_count": 47,
   "review_count": 32,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "ef57713911",
+      "message": "Fix long-running clang-format after running integration tests (#1406)",
+      "date": "2026-09-17",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1406",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ef57713911af42d04fbc93bcfe653c35ce4ecdd6"
+    },
     {
       "sha": "4f6ef4b043",
       "message": "Scoring: BM25STD scoring for prefix, suffix and fuzzy queries (#1350)",

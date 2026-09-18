@@ -2,9 +2,9 @@
   "title": "michael-grunder",
   "login": "michael-grunder",
   "avatar_url": "https://avatars.githubusercontent.com/u/468149?v=4",
-  "score": 82,
+  "score": 83,
   "commit_count": 23,
-  "review_count": 59,
+  "review_count": 60,
   "repos": [
     "libvalkey"
   ],
@@ -195,6 +195,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3a3770a15c",
+      "message": "fix: Handle event_new() failure in libevent adapter (#349)",
+      "date": "2026-09-17",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/349",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/3a3770a15ccb6991316d785101b140e87598fabe"
+    },
     {
       "sha": "3f2444a224",
       "message": "Add option to attach an adapter in valkeyAsyncConnectWithOptions() (#331)",

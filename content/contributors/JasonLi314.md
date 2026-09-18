@@ -2,13 +2,21 @@
   "title": "JasonLi314",
   "login": "JasonLi314",
   "avatar_url": "https://avatars.githubusercontent.com/u/47095666?v=4",
-  "score": 1,
-  "commit_count": 1,
+  "score": 2,
+  "commit_count": 2,
   "review_count": 0,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "6428b669ba",
+      "message": "Bug fix: only last RETURN in SEARCH should be effective (#1389)",
+      "date": "2026-09-17",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1389",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6428b669ba473d2faafd98b6d5dcf385f0c7befc"
+    },
     {
       "sha": "bd6d2f238b",
       "message": "fixing redis search divergence #4: sort key prefix always use #; strings should use $ (#1364)",

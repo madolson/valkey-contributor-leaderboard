@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 232,
+  "score": 233,
   "commit_count": 68,
-  "review_count": 164,
+  "review_count": 165,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -559,6 +559,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "53ad326231",
+      "message": "fix(core): Key scope targets on resolved primary address, fail closed on unresolved slots. (#7054)",
+      "date": "2026-09-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7054",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/53ad32623183d8ece8a16b064ca622c3dd02f02b"
+    },
     {
       "sha": "9803fdfa30",
       "message": "Java: Add `AZ_AFFINITY_ALL_NODES` read strategy (#7059)",

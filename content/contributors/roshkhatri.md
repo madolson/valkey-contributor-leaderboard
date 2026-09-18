@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 430,
-  "commit_count": 156,
-  "review_count": 274,
+  "score": 435,
+  "commit_count": 157,
+  "review_count": 278,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -20,6 +20,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "00c4b297eb",
+      "message": "Build only changed versions in CI and remove flaky integration tests (#129)",
+      "date": "2026-09-17",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/129",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/00c4b297eb170b0afca720173e7071df70d4215b"
+    },
     {
       "sha": "66f9618f43",
       "message": "Streaming Compression support for Replication (#3853)",
@@ -1270,6 +1278,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3959be664c",
+      "message": "Automated Updates for Valkey Bundle (#128)",
+      "date": "2026-09-17",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/128",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/3959be664c25c2d0f84063999fd58348f192c7cc"
+    },
+    {
+      "sha": "b8d5f269ba",
+      "message": "fix search benchmark dependency issue (#92)",
+      "date": "2026-09-17",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/92",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/b8d5f269ba74aa7a8ef203d05e84588fabbb0353"
+    },
+    {
+      "sha": "caf766d5a7",
+      "message": "Remove the standalone deployment gates and fail closed on bucket selection",
+      "date": "2026-09-17",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/72",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/caf766d5a7974e39fcbe0ac23699b4968e92d2be"
+    },
+    {
+      "sha": "caf766d5a7",
+      "message": "Remove the standalone deployment gates and fail closed on bucket selection",
+      "date": "2026-09-17",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/72",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/caf766d5a7974e39fcbe0ac23699b4968e92d2be"
+    },
+    {
+      "sha": "caf766d5a7",
+      "message": "Remove the standalone deployment gates and fail closed on bucket selection",
+      "date": "2026-09-17",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/72",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/caf766d5a7974e39fcbe0ac23699b4968e92d2be"
+    },
     {
       "sha": "00a8a19554",
       "message": "Attribute LZ4 codec context memory to client memory usage (#4702)",

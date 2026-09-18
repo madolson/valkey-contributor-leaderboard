@@ -2,9 +2,9 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 12,
+  "score": 13,
   "commit_count": 2,
-  "review_count": 10,
+  "review_count": 11,
   "repos": [
     "valkey-search"
   ],
@@ -27,6 +27,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6428b669ba",
+      "message": "Bug fix: only last RETURN in SEARCH should be effective (#1389)",
+      "date": "2026-09-17",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1389",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6428b669ba473d2faafd98b6d5dcf385f0c7befc"
+    },
     {
       "sha": "cbf0fda34b",
       "message": "Implement FILTER option on FT.CREATE (#984)",

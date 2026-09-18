@@ -2,14 +2,22 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 203,
-  "commit_count": 122,
+  "score": 204,
+  "commit_count": 123,
   "review_count": 81,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "9836fb49fd",
+      "message": "Fix K8s sidecar registration and stale cluster topology broadcast (#512)",
+      "date": "2026-09-17",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/512",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/9836fb49fd62282c342d6a22386ef61ef4045a13"
+    },
     {
       "sha": "14ccfeb14c",
       "message": "Scope Valkey client reuse to the owning session (#500)",

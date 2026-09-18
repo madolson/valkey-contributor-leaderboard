@@ -2,13 +2,21 @@
   "title": "sonalijhala-23",
   "login": "sonalijhala-23",
   "avatar_url": "https://avatars.githubusercontent.com/u/321700091?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-go"
   ],
   "commit_list": [
+    {
+      "sha": "5a2430a293",
+      "message": "add MSetEx compatibility (#164)",
+      "date": "2026-09-18",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/164",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/5a2430a29343406fdae8f3d2e8835827b9ebf510"
+    },
     {
       "sha": "9767656cac",
       "message": "feat(cluster): add CLUSTERSCAN command definition and builders (#171)",
