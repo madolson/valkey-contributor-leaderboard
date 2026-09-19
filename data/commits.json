@@ -183208,6 +183208,246 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1389"
+    },
+    {
+      "sha": "f9120361b6f773e357c93d1f6197d8520562424c",
+      "author_login": "michael-grunder",
+      "author_id": 468149,
+      "avatar_url": "https://avatars.githubusercontent.com/u/468149?v=4",
+      "message": "Fix possible NULL pointer dereference in Windows (#351)",
+      "date": "2026-09-18T08:34:15Z",
+      "repo": "libvalkey",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-09-18T08:33:44Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/351"
+    },
+    {
+      "sha": "e7d051fe759d2ee5ba3603ae91d2f4486bec9d1b",
+      "author_login": "michael-grunder",
+      "author_id": 468149,
+      "avatar_url": "https://avatars.githubusercontent.com/u/468149?v=4",
+      "message": "fix: Harden async subscribe reply shape logic (#350)",
+      "date": "2026-09-18T08:31:12Z",
+      "repo": "libvalkey",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-09-17T08:53:17Z"
+        },
+        {
+          "login": "bjosv",
+          "date": "2026-09-18T08:28:44Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/350"
+    },
+    {
+      "sha": "11387e50c67ab22dce61f093be6c4af8087a189f",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Persist OPENSSL_PREFIX across builds (#4738)",
+      "date": "2026-09-18T23:13:46Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-09-18T21:20:47Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4738"
+    },
+    {
+      "sha": "7b87fee268b8f3de41e9e1fbd4bbb3f1a8fbd0aa",
+      "author_login": "frostzt",
+      "author_id": 25434993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25434993?v=4",
+      "message": "Preserve expired but unreaped fields across listpack-to-hashtable conversion (#4704)",
+      "date": "2026-09-18T07:29:51Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "ranshid",
+          "date": "2026-09-17T18:48:45Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4704"
+    },
+    {
+      "sha": "bfaa57969e0581293f53658f423ad701db380f61",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Require a per-launch token for the Electron WebSocket handshake (#516)",
+      "date": "2026-09-18T19:42:27Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ArgusLi",
+          "date": "2026-09-18T18:56:55Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/516"
+    },
+    {
+      "sha": "80c442e28f587532ee4ce1b8d9d02cba4dee27ed",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Default the server bind to loopback for Web mode (#521)",
+      "date": "2026-09-18T19:42:12Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ArgusLi",
+          "date": "2026-09-18T18:58:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/521"
+    },
+    {
+      "sha": "82ef99dffe730ac0a050d5bef6aa446ff7ef06b0",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Java: Fix flaky pubsub_with_binary test and synchronize PubSubTests callback lists (#6481)",
+      "date": "2026-09-18T23:15:54Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-09-16T18:51:53Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-09-18T21:46:06Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6481"
+    },
+    {
+      "sha": "12c00a5de154152edc552e6dd0bc41d9e8705a28",
+      "author_login": "affonsov",
+      "author_id": 67347924,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
+      "message": "ci(node): add EC2-orchestrated Windows CI for the Node.js client (#7026)",
+      "date": "2026-09-18T22:38:59Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-09-10T19:54:02Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-09-14T18:17:13Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-09-14T19:01:52Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7026"
+    },
+    {
+      "sha": "c4eb62f98a5fa003eb1e167944edd42a284178ab",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "test(rust): add SecureTls cluster integration tests (#7089)",
+      "date": "2026-09-18T16:36:11Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-09-16T00:41:05Z"
+        },
+        {
+          "login": "nderraugh",
+          "date": "2026-09-17T18:13:22Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-09-17T20:16:19Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7089"
+    },
+    {
+      "sha": "88bbd48d8d63f8637e890dd5ed80d37390b5722a",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "feat(php): add READ_FROM_AZ_AFFINITY_ALL_NODES read strategy (#335)",
+      "date": "2026-09-18T17:28:06Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-09-17T21:32:48Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-09-18T16:53:06Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/335"
+    },
+    {
+      "sha": "e8547d98feee9d1e64c6039e95494883c32446cc",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "feat(pubsub): sharded Pub/Sub for cluster mode (#317)",
+      "date": "2026-09-18T18:23:11Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-09-17T23:53:13Z"
+        },
+        {
+          "login": "nderraugh",
+          "date": "2026-09-18T15:48:56Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/317"
+    },
+    {
+      "sha": "fb246d57738cc77dd44361863cd7c1b42f7077cb",
+      "author_login": "sonalijhala-23",
+      "author_id": 321700091,
+      "avatar_url": "https://avatars.githubusercontent.com/u/321700091?v=4",
+      "message": "feat(valkeycompat): add latency and latencyReset (#169)",
+      "date": "2026-09-19T04:16:53Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-09-19T04:16:34Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/169"
+    },
+    {
+      "sha": "cac33ed2820084e8faebd869b8943d763f67e283",
+      "author_login": "EvgeniyPatlan",
+      "author_id": 18436759,
+      "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
+      "message": "deb: rework the source patch set \u2014 drop 0001 and 0003, slim 0004 (#64)",
+      "date": "2026-09-18T17:03:01Z",
+      "repo": "valkey-release-automation",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-09-18T16:34:47Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/64"
     }
   ]
 }

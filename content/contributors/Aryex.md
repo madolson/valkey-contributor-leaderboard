@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 276,
-  "commit_count": 95,
-  "review_count": 181,
+  "score": 278,
+  "commit_count": 96,
+  "review_count": 182,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "e8547d98fe",
+      "message": "feat(pubsub): sharded Pub/Sub for cluster mode (#317)",
+      "date": "2026-09-18",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/317",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/e8547d98feee9d1e64c6039e95494883c32446cc"
+    },
     {
       "sha": "52d396f0b4",
       "message": "feat(pubsub): pattern subscriptions, lazy variants and callback delivery (#316)",
@@ -778,6 +786,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "12c00a5de1",
+      "message": "ci(node): add EC2-orchestrated Windows CI for the Node.js client (#7026)",
+      "date": "2026-09-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7026",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/12c00a5de154152edc552e6dd0bc41d9e8705a28"
+    },
     {
       "sha": "07893c848d",
       "message": "docs: minor typo (#330)",

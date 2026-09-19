@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 114,
+  "score": 116,
   "commit_count": 70,
-  "review_count": 44,
+  "review_count": 46,
   "repos": [
     "valkey-admin"
   ],
@@ -571,6 +571,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bfaa57969e",
+      "message": "Require a per-launch token for the Electron WebSocket handshake (#516)",
+      "date": "2026-09-18",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/516",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/bfaa57969e0581293f53658f423ad701db380f61"
+    },
+    {
+      "sha": "80c442e28f",
+      "message": "Default the server bind to loopback for Web mode (#521)",
+      "date": "2026-09-18",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/521",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/80c442e28f587532ee4ce1b8d9d02cba4dee27ed"
+    },
     {
       "sha": "9836fb49fd",
       "message": "Fix K8s sidecar registration and stale cluster topology broadcast (#512)",

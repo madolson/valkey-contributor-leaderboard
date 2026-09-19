@@ -2,8 +2,8 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 391,
-  "commit_count": 104,
+  "score": 392,
+  "commit_count": 105,
   "review_count": 287,
   "repos": [
     "valkey",
@@ -18,6 +18,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "11387e50c6",
+      "message": "Persist OPENSSL_PREFIX across builds (#4738)",
+      "date": "2026-09-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4738",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/11387e50c67ab22dce61f093be6c4af8087a189f"
+    },
     {
       "sha": "caf766d5a7",
       "message": "Remove the standalone deployment gates and fail closed on bucket selection",

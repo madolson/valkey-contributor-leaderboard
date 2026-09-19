@@ -2,13 +2,21 @@
   "title": "frostzt",
   "login": "frostzt",
   "avatar_url": "https://avatars.githubusercontent.com/u/25434993?v=4",
-  "score": 4,
-  "commit_count": 3,
+  "score": 5,
+  "commit_count": 4,
   "review_count": 1,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "7b87fee268",
+      "message": "Preserve expired but unreaped fields across listpack-to-hashtable conversion (#4704)",
+      "date": "2026-09-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4704",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7b87fee268b8f3de41e9e1fbd4bbb3f1a8fbd0aa"
+    },
     {
       "sha": "c80da010b5",
       "message": "Listpack encoding for Hash field expiration (#3212)",

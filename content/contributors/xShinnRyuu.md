@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 461,
-  "commit_count": 130,
-  "review_count": 331,
+  "score": 463,
+  "commit_count": 131,
+  "review_count": 332,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "82ef99dffe",
+      "message": "Java: Fix flaky pubsub_with_binary test and synchronize PubSubTests callback lists (#6481)",
+      "date": "2026-09-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6481",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/82ef99dffe730ac0a050d5bef6aa446ff7ef06b0"
+    },
     {
       "sha": "3243fbdbd3",
       "message": "build(deps): raise js-yaml and browserslist npm override floors (#7100)",
@@ -1057,6 +1065,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c4eb62f98a",
+      "message": "test(rust): add SecureTls cluster integration tests (#7089)",
+      "date": "2026-09-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7089",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c4eb62f98a5fa003eb1e167944edd42a284178ab"
+    },
     {
       "sha": "53ad326231",
       "message": "fix(core): Key scope targets on resolved primary address, fail closed on unresolved slots. (#7054)",

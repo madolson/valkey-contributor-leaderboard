@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 260,
+  "score": 263,
   "commit_count": 126,
-  "review_count": 134,
+  "review_count": 137,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1023,6 +1023,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f9120361b6",
+      "message": "Fix possible NULL pointer dereference in Windows (#351)",
+      "date": "2026-09-18",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/351",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/f9120361b6f773e357c93d1f6197d8520562424c"
+    },
+    {
+      "sha": "e7d051fe75",
+      "message": "fix: Harden async subscribe reply shape logic (#350)",
+      "date": "2026-09-18",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/350",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/e7d051fe759d2ee5ba3603ae91d2f4486bec9d1b"
+    },
+    {
+      "sha": "e7d051fe75",
+      "message": "fix: Harden async subscribe reply shape logic (#350)",
+      "date": "2026-09-18",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/350",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/e7d051fe759d2ee5ba3603ae91d2f4486bec9d1b"
+    },
     {
       "sha": "2a77f14d03",
       "message": "fix: Harden aggregate allocation",

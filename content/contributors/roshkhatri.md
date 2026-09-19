@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 435,
+  "score": 436,
   "commit_count": 157,
-  "review_count": 278,
+  "review_count": 279,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1278,6 +1278,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cac33ed282",
+      "message": "deb: rework the source patch set \u2014 drop 0001 and 0003, slim 0004 (#64)",
+      "date": "2026-09-18",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/64",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/cac33ed2820084e8faebd869b8943d763f67e283"
+    },
     {
       "sha": "3959be664c",
       "message": "Automated Updates for Valkey Bundle (#128)",

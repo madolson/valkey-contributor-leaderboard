@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 289,
+  "score": 293,
   "commit_count": 82,
-  "review_count": 207,
+  "review_count": 211,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -671,6 +671,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "82ef99dffe",
+      "message": "Java: Fix flaky pubsub_with_binary test and synchronize PubSubTests callback lists (#6481)",
+      "date": "2026-09-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6481",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/82ef99dffe730ac0a050d5bef6aa446ff7ef06b0"
+    },
+    {
+      "sha": "12c00a5de1",
+      "message": "ci(node): add EC2-orchestrated Windows CI for the Node.js client (#7026)",
+      "date": "2026-09-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7026",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/12c00a5de154152edc552e6dd0bc41d9e8705a28"
+    },
+    {
+      "sha": "c4eb62f98a",
+      "message": "test(rust): add SecureTls cluster integration tests (#7089)",
+      "date": "2026-09-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7089",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c4eb62f98a5fa003eb1e167944edd42a284178ab"
+    },
+    {
+      "sha": "88bbd48d8d",
+      "message": "feat(php): add READ_FROM_AZ_AFFINITY_ALL_NODES read strategy (#335)",
+      "date": "2026-09-18",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/335",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/88bbd48d8d63f8637e890dd5ed80d37390b5722a"
+    },
     {
       "sha": "53ad326231",
       "message": "fix(core): Key scope targets on resolved primary address, fail closed on unresolved slots. (#7054)",

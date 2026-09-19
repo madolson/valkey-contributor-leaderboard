@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 310,
+  "score": 311,
   "commit_count": 96,
-  "review_count": 214,
+  "review_count": 215,
   "repos": [
     "valkey",
     "valkey-container",
@@ -786,6 +786,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7b87fee268",
+      "message": "Preserve expired but unreaped fields across listpack-to-hashtable conversion (#4704)",
+      "date": "2026-09-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4704",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7b87fee268b8f3de41e9e1fbd4bbb3f1a8fbd0aa"
+    },
     {
       "sha": "23c73ab6f2",
       "message": "Bump minimum cmake version to 3.24 (#4232)",

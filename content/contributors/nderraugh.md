@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 33,
+  "score": 35,
   "commit_count": 8,
-  "review_count": 25,
+  "review_count": 27,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -79,6 +79,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c4eb62f98a",
+      "message": "test(rust): add SecureTls cluster integration tests (#7089)",
+      "date": "2026-09-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7089",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c4eb62f98a5fa003eb1e167944edd42a284178ab"
+    },
+    {
+      "sha": "e8547d98fe",
+      "message": "feat(pubsub): sharded Pub/Sub for cluster mode (#317)",
+      "date": "2026-09-18",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/317",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/e8547d98feee9d1e64c6039e95494883c32446cc"
+    },
     {
       "sha": "52d396f0b4",
       "message": "feat(pubsub): pattern subscriptions, lazy variants and callback delivery (#316)",

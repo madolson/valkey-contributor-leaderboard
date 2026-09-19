@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1251,
+  "score": 1252,
   "commit_count": 153,
-  "review_count": 1098,
+  "review_count": 1099,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1246,6 +1246,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "11387e50c6",
+      "message": "Persist OPENSSL_PREFIX across builds (#4738)",
+      "date": "2026-09-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4738",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/11387e50c67ab22dce61f093be6c4af8087a189f"
+    },
     {
       "sha": "00a8a19554",
       "message": "Attribute LZ4 codec context memory to client memory usage (#4702)",

@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 58,
+  "score": 59,
   "commit_count": 9,
-  "review_count": 49,
+  "review_count": 50,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fb246d5773",
+      "message": "feat(valkeycompat): add latency and latencyReset (#169)",
+      "date": "2026-09-19",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/169",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/fb246d57738cc77dd44361863cd7c1b42f7077cb"
+    },
     {
       "sha": "5a2430a293",
       "message": "add MSetEx compatibility (#164)",

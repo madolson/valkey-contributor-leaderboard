@@ -2,13 +2,21 @@
   "title": "sonalijhala-23",
   "login": "sonalijhala-23",
   "avatar_url": "https://avatars.githubusercontent.com/u/321700091?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey-go"
   ],
   "commit_list": [
+    {
+      "sha": "fb246d5773",
+      "message": "feat(valkeycompat): add latency and latencyReset (#169)",
+      "date": "2026-09-19",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/169",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/fb246d57738cc77dd44361863cd7c1b42f7077cb"
+    },
     {
       "sha": "5a2430a293",
       "message": "add MSetEx compatibility (#164)",

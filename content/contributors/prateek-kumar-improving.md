@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 432,
-  "commit_count": 149,
-  "review_count": 283,
+  "score": 434,
+  "commit_count": 150,
+  "review_count": 284,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "88bbd48d8d",
+      "message": "feat(php): add READ_FROM_AZ_AFFINITY_ALL_NODES read strategy (#335)",
+      "date": "2026-09-18",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/335",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/88bbd48d8d63f8637e890dd5ed80d37390b5722a"
+    },
     {
       "sha": "9be92472fd",
       "message": "feat(node): add AZAffinityAllNodes read strategy (#7104)",
@@ -1207,6 +1215,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "82ef99dffe",
+      "message": "Java: Fix flaky pubsub_with_binary test and synchronize PubSubTests callback lists (#6481)",
+      "date": "2026-09-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6481",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/82ef99dffe730ac0a050d5bef6aa446ff7ef06b0"
+    },
     {
       "sha": "3243fbdbd3",
       "message": "build(deps): raise js-yaml and browserslist npm override floors (#7100)",

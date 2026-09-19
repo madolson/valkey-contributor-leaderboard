@@ -2,8 +2,8 @@
   "title": "EvgeniyPatlan",
   "login": "EvgeniyPatlan",
   "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
-  "score": 11,
-  "commit_count": 7,
+  "score": 12,
+  "commit_count": 8,
   "review_count": 4,
   "repos": [
     "valkey-go",
@@ -12,6 +12,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "cac33ed282",
+      "message": "deb: rework the source patch set \u2014 drop 0001 and 0003, slim 0004 (#64)",
+      "date": "2026-09-18",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/64",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/cac33ed2820084e8faebd869b8943d763f67e283"
+    },
     {
       "sha": "18c13c35d1",
       "message": "deb: make Packages Filename paths resolve against the repository URI (#66)",

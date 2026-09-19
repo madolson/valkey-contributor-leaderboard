@@ -2,14 +2,30 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 204,
-  "commit_count": 123,
+  "score": 206,
+  "commit_count": 125,
   "review_count": 81,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "bfaa57969e",
+      "message": "Require a per-launch token for the Electron WebSocket handshake (#516)",
+      "date": "2026-09-18",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/516",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/bfaa57969e0581293f53658f423ad701db380f61"
+    },
+    {
+      "sha": "80c442e28f",
+      "message": "Default the server bind to loopback for Web mode (#521)",
+      "date": "2026-09-18",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/521",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/80c442e28f587532ee4ce1b8d9d02cba4dee27ed"
+    },
     {
       "sha": "9836fb49fd",
       "message": "Fix K8s sidecar registration and stale cluster topology broadcast (#512)",

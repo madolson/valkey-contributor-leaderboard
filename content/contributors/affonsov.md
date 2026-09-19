@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 282,
-  "commit_count": 97,
-  "review_count": 185,
+  "score": 284,
+  "commit_count": 98,
+  "review_count": 186,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "12c00a5de1",
+      "message": "ci(node): add EC2-orchestrated Windows CI for the Node.js client (#7026)",
+      "date": "2026-09-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7026",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/12c00a5de154152edc552e6dd0bc41d9e8705a28"
+    },
     {
       "sha": "9c29006882",
       "message": "build(deps): bump rustls to 0.23.45 across all workspaces (RUSTSEC-2026-0285) (#7080)",
@@ -791,6 +799,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e8547d98fe",
+      "message": "feat(pubsub): sharded Pub/Sub for cluster mode (#317)",
+      "date": "2026-09-18",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/317",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/e8547d98feee9d1e64c6039e95494883c32446cc"
+    },
     {
       "sha": "030ad18b07",
       "message": "ci(rust): simplify test matrix to Valkey 9.0 and Redis 6.2 (#7083)",
