@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 325,
-  "commit_count": 82,
+  "score": 326,
+  "commit_count": 83,
   "review_count": 243,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "e968b168ca",
+      "message": "Fixing Alpine Build (#1402)",
+      "date": "2026-09-20",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1402",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e968b168ca9dd3484e4ab3b62de1b2d4e45db89a"
+    },
     {
       "sha": "cbf0fda34b",
       "message": "Implement FILTER option on FT.CREATE (#984)",

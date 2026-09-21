@@ -3092,7 +3092,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
       "name": "Allen Samuels",
       "company": "Amazon Web Services",
-      "commits": 82,
+      "commits": 83,
       "reviews": 243,
       "per_repo": {
         "valkey": {
@@ -3205,12 +3205,12 @@
             4
           ],
           "2026-09": [
-            10,
+            11,
             14
           ]
         }
       },
-      "score": 325,
+      "score": 326,
       "repos": [
         "valkey",
         "valkey-doc",
@@ -12601,6 +12601,54 @@
       ]
     },
     {
+      "login": "Frank-Gu-81",
+      "id": 93494304,
+      "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
+      "name": "Shaopeng Gu",
+      "company": "",
+      "commits": 10,
+      "reviews": 13,
+      "per_repo": {
+        "valkey-perf-benchmark": {
+          "2026-09": [
+            1,
+            0
+          ]
+        },
+        "valkey-search": {
+          "2026-03": [
+            2,
+            0
+          ],
+          "2026-04": [
+            3,
+            0
+          ],
+          "2026-05": [
+            1,
+            0
+          ],
+          "2026-07": [
+            0,
+            1
+          ],
+          "2026-08": [
+            0,
+            2
+          ],
+          "2026-09": [
+            3,
+            10
+          ]
+        }
+      },
+      "score": 23,
+      "repos": [
+        "valkey-perf-benchmark",
+        "valkey-search"
+      ]
+    },
+    {
       "login": "artikell",
       "id": 8474552,
       "avatar_url": "https://avatars.githubusercontent.com/u/8474552?v=4",
@@ -12815,54 +12863,6 @@
       "repos": [
         "valkey-json",
         "valkey-rfc"
-      ]
-    },
-    {
-      "login": "Frank-Gu-81",
-      "id": 93494304,
-      "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-      "name": "Shaopeng Gu",
-      "company": "",
-      "commits": 10,
-      "reviews": 12,
-      "per_repo": {
-        "valkey-perf-benchmark": {
-          "2026-09": [
-            1,
-            0
-          ]
-        },
-        "valkey-search": {
-          "2026-03": [
-            2,
-            0
-          ],
-          "2026-04": [
-            3,
-            0
-          ],
-          "2026-05": [
-            1,
-            0
-          ],
-          "2026-07": [
-            0,
-            1
-          ],
-          "2026-08": [
-            0,
-            2
-          ],
-          "2026-09": [
-            3,
-            9
-          ]
-        }
-      },
-      "score": 22,
-      "repos": [
-        "valkey-perf-benchmark",
-        "valkey-search"
       ]
     },
     {

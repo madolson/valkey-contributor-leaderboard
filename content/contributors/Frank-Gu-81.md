@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 22,
+  "score": 23,
   "commit_count": 10,
-  "review_count": 12,
+  "review_count": 13,
   "repos": [
     "valkey-perf-benchmark",
     "valkey-search"
@@ -92,6 +92,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e968b168ca",
+      "message": "Fixing Alpine Build (#1402)",
+      "date": "2026-09-20",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1402",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e968b168ca9dd3484e4ab3b62de1b2d4e45db89a"
+    },
     {
       "sha": "03f27d2ac2",
       "message": "Support field-scoped text group @field:(a|b|c) (#1214) (#1218)",

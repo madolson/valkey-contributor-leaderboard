@@ -183448,6 +183448,22 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/64"
+    },
+    {
+      "sha": "e968b168ca9dd3484e4ab3b62de1b2d4e45db89a",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Fixing Alpine Build (#1402)",
+      "date": "2026-09-20T22:17:36Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-09-20T20:48:48Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1402"
     }
   ]
 }
