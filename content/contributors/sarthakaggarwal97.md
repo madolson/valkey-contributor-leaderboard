@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 392,
-  "commit_count": 105,
-  "review_count": 287,
+  "score": 397,
+  "commit_count": 107,
+  "review_count": 290,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -18,6 +18,22 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "f2bcd083dc",
+      "message": "ZSTD Support for Streaming Compression  (#3798)",
+      "date": "2026-09-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3798",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f2bcd083dc5efb83a3aff1d155261c031440b448"
+    },
+    {
+      "sha": "27c68f14f4",
+      "message": "Fix valkey-check-aof detection of Valkey RDB base files (#4739)",
+      "date": "2026-09-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4739",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/27c68f14f4f6f01978b4c6acf4d8ebe53003ce3b"
+    },
     {
       "sha": "11387e50c6",
       "message": "Persist OPENSSL_PREFIX across builds (#4738)",
@@ -860,6 +876,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5045624583",
+      "message": "Remove duplicate clientsCronTcpIsClosing() call in clientsCron (#4752)",
+      "date": "2026-09-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4752",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5045624583ab012e9b5923481edf2322f903c973"
+    },
+    {
+      "sha": "15aa872383",
+      "message": "Skip INCREX BYFLOAT overflow test under valgrind (#4729)",
+      "date": "2026-09-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4729",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/15aa872383dc34a20cc99a9fa4aca0525a747a03"
+    },
+    {
+      "sha": "eae50c20c9",
+      "message": "Regenerate commands.def for DELEX (#4747)",
+      "date": "2026-09-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4747",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/eae50c20c9d9d0d0fdc8f9db7ee177c51d2e645c"
+    },
     {
       "sha": "1c847e8868",
       "message": "Deflake throttle-repl tests (#4730)",

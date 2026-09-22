@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 143,
+  "score": 144,
   "commit_count": 46,
-  "review_count": 97,
+  "review_count": 98,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -381,6 +381,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a360316a56",
+      "message": "refactor: parse CLUSTER NODES into a struct instead of seven ad-hoc field walks (#433)",
+      "date": "2026-09-22",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/433",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a360316a56f1c4fb2cf6c2e1ec47d7502cc7a2d5"
+    },
     {
       "sha": "9b61a0175b",
       "message": "test(e2e): cluster re-forms after a full simultaneous pod restart (#380)",

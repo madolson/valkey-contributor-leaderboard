@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 23,
+  "score": 24,
   "commit_count": 10,
-  "review_count": 13,
+  "review_count": 14,
   "repos": [
     "valkey-perf-benchmark",
     "valkey-search"
@@ -92,6 +92,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5b8c243288",
+      "message": "FT.Hybrid Initial Implementation (#1083)",
+      "date": "2026-09-22",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1083",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5b8c24328851443d5a00dc8b30f9feac3f0f1feb"
+    },
     {
       "sha": "e968b168ca",
       "message": "Fixing Alpine Build (#1402)",

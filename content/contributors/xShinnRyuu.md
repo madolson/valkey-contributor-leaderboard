@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 463,
+  "score": 466,
   "commit_count": 131,
-  "review_count": 332,
+  "review_count": 335,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -1065,6 +1065,110 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "72d3a6c76c",
+      "message": "ci(node): add id-token: write to fmt-node.yml for reusable workflow call (#7156)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7156",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/72d3a6c76ce2d154ede9978126a1205dead61e1b"
+    },
+    {
+      "sha": "528f1093db",
+      "message": "fix(core): reused scoped connections keep the parent's runtime database (#7113)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7113",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/528f1093db1d7bf188a88a3c732b9dcd1a186781"
+    },
+    {
+      "sha": "ebfcb52707",
+      "message": "build(deps): bump the patch-updates group in /node/rust-client with 4 updates (#7145)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7145",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ebfcb527071ceaf72174aff69abf0fa4f669c298"
+    },
+    {
+      "sha": "049f2099ba",
+      "message": "build(deps): bump rstest from 0.26.1 to 0.27.0 in /ffi (#7147)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7147",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/049f2099ba6bbd9f1c8ff765d26bf90227e5b3e0"
+    },
+    {
+      "sha": "12a9fb5a89",
+      "message": "build(deps): bump uuid from 1.26.0 to 1.26.1 in /ffi in the patch-updates group (#7146)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7146",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/12a9fb5a89641917c269b4bd3fcca07583657bde"
+    },
+    {
+      "sha": "b6afc0e136",
+      "message": "build(deps): bump uuid from 1.26.0 to 1.26.1 in /python/glide-async in the patch-updates group (#7144)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7144",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b6afc0e1363b8f85db7c0b94ca04e9eb728fe590"
+    },
+    {
+      "sha": "e5eee6555a",
+      "message": "build(deps): bump actions/setup-java from 6.0.0 to 6.0.1 in the patch-updates group (#7143)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7143",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e5eee6555a74b7cf2577e096efe56218b902d95d"
+    },
+    {
+      "sha": "bc5206a2ad",
+      "message": "build(deps): bump rstest from 0.26.1 to 0.27.0 in /glide-core (#7139)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7139",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bc5206a2adcaabfd4aa82c10a6ead6ada13fe6d8"
+    },
+    {
+      "sha": "7da471a712",
+      "message": "build(deps): bump zstd from 0.13.3 to 0.14.0 in /glide-core (#7138)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7138",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7da471a712273647c6b3c752a7ca6a4cea5c1be5"
+    },
+    {
+      "sha": "cfd7806727",
+      "message": "refactor(python): hoist cluster skip helper into require_cluster_addresses (#7114)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7114",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cfd78067274512ce754ee16b9d7ed0bc511bf88b"
+    },
+    {
+      "sha": "da23a0832e",
+      "message": "Bump the patch-updates group with 1 update (#565)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/565",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/da23a0832efc3c0ec554b4e93c72c4cd0abf5de7"
+    },
+    {
+      "sha": "703005b547",
+      "message": "chore(deps): bump the patch-updates group with 2 updates (#566)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/566",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/703005b5472e52e7b01c41bf5777288d34ee7fbc"
+    },
+    {
+      "sha": "894400d4de",
+      "message": "chore(deps): bump the minor-updates group with 3 updates (#567)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/567",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/894400d4de72d747cdc2d38d3097928ad88a6464"
+    },
     {
       "sha": "c4eb62f98a",
       "message": "test(rust): add SecureTls cluster integration tests (#7089)",

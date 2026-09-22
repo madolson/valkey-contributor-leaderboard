@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 35,
-  "commit_count": 8,
-  "review_count": 27,
+  "score": 38,
+  "commit_count": 9,
+  "review_count": 29,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "cfd7806727",
+      "message": "refactor(python): hoist cluster skip helper into require_cluster_addresses (#7114)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7114",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cfd78067274512ce754ee16b9d7ed0bc511bf88b"
+    },
     {
       "sha": "53ad326231",
       "message": "fix(core): Key scope targets on resolved primary address, fail closed on unresolved slots. (#7054)",
@@ -79,6 +87,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "528f1093db",
+      "message": "fix(core): reused scoped connections keep the parent's runtime database (#7113)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7113",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/528f1093db1d7bf188a88a3c732b9dcd1a186781"
+    },
+    {
+      "sha": "c56e9b8202",
+      "message": "feat(pubsub): metadata API (#320)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/320",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/c56e9b8202e11f7045877344c558041ec372319f"
+    },
     {
       "sha": "c4eb62f98a",
       "message": "test(rust): add SecureTls cluster integration tests (#7089)",

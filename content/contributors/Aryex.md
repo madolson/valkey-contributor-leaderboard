@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 278,
-  "commit_count": 96,
-  "review_count": 182,
+  "score": 280,
+  "commit_count": 97,
+  "review_count": 183,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "c56e9b8202",
+      "message": "feat(pubsub): metadata API (#320)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/320",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/c56e9b8202e11f7045877344c558041ec372319f"
+    },
     {
       "sha": "e8547d98fe",
       "message": "feat(pubsub): sharded Pub/Sub for cluster mode (#317)",
@@ -786,6 +794,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "72d3a6c76c",
+      "message": "ci(node): add id-token: write to fmt-node.yml for reusable workflow call (#7156)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7156",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/72d3a6c76ce2d154ede9978126a1205dead61e1b"
+    },
     {
       "sha": "12c00a5de1",
       "message": "ci(node): add EC2-orchestrated Windows CI for the Node.js client (#7026)",

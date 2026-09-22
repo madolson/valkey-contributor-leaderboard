@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 284,
-  "commit_count": 98,
+  "score": 285,
+  "commit_count": 99,
   "review_count": 186,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "72d3a6c76c",
+      "message": "ci(node): add id-token: write to fmt-node.yml for reusable workflow call (#7156)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7156",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/72d3a6c76ce2d154ede9978126a1205dead61e1b"
+    },
     {
       "sha": "12c00a5de1",
       "message": "ci(node): add EC2-orchestrated Windows CI for the Node.js client (#7026)",

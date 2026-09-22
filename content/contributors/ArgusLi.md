@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 116,
+  "score": 117,
   "commit_count": 70,
-  "review_count": 46,
+  "review_count": 47,
   "repos": [
     "valkey-admin"
   ],
@@ -571,6 +571,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b5c70c54c3",
+      "message": "Fail closed instead of storing a cleartext password when no OS keystore is available (#522)",
+      "date": "2026-09-21",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/522",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/b5c70c54c3652e3b7f6fa177117dca79146477b4"
+    },
     {
       "sha": "bfaa57969e",
       "message": "Require a per-launch token for the Electron WebSocket handshake (#516)",

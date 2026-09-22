@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 59,
+  "score": 60,
   "commit_count": 9,
-  "review_count": 50,
+  "review_count": 51,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a588ccc65c",
+      "message": "fix(valkeyaside): the deadlock during a FLUSHDB/FLUSHALL (#185)",
+      "date": "2026-09-22",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/185",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/a588ccc65c0b6ca8a68d71ddf55b1e3cfcefad79"
+    },
     {
       "sha": "fb246d5773",
       "message": "feat(valkeycompat): add latency and latencyReset (#169)",

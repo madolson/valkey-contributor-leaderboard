@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 293,
+  "score": 294,
   "commit_count": 82,
-  "review_count": 211,
+  "review_count": 212,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -671,6 +671,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c56e9b8202",
+      "message": "feat(pubsub): metadata API (#320)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/320",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/c56e9b8202e11f7045877344c558041ec372319f"
+    },
     {
       "sha": "82ef99dffe",
       "message": "Java: Fix flaky pubsub_with_binary test and synchronize PubSubTests callback lists (#6481)",

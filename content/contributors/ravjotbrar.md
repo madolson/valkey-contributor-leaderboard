@@ -2,14 +2,22 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 206,
-  "commit_count": 125,
+  "score": 207,
+  "commit_count": 126,
   "review_count": 81,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "b5c70c54c3",
+      "message": "Fail closed instead of storing a cleartext password when no OS keystore is available (#522)",
+      "date": "2026-09-21",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/522",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/b5c70c54c3652e3b7f6fa177117dca79146477b4"
+    },
     {
       "sha": "bfaa57969e",
       "message": "Require a per-launch token for the Electron WebSocket handshake (#516)",

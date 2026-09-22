@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 326,
-  "commit_count": 83,
+  "score": 327,
+  "commit_count": 84,
   "review_count": 243,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "5b8c243288",
+      "message": "FT.Hybrid Initial Implementation (#1083)",
+      "date": "2026-09-22",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1083",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5b8c24328851443d5a00dc8b30f9feac3f0f1feb"
+    },
     {
       "sha": "e968b168ca",
       "message": "Fixing Alpine Build (#1402)",

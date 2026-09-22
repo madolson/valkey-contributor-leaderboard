@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 233,
-  "commit_count": 68,
-  "review_count": 165,
+  "score": 236,
+  "commit_count": 69,
+  "review_count": 167,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "528f1093db",
+      "message": "fix(core): reused scoped connections keep the parent's runtime database (#7113)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7113",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/528f1093db1d7bf188a88a3c732b9dcd1a186781"
+    },
     {
       "sha": "8736ec05d3",
       "message": "fix(core): reset CLIENT SETNAME on scope release (#7094)",
@@ -559,6 +567,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "790c4eeb17",
+      "message": "Continue GLIDE scans across empty batches (#109)",
+      "date": "2026-09-21",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/109",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/790c4eeb17bb7e91177cd8e198447d8f791d8ba6"
+    },
+    {
+      "sha": "cfd7806727",
+      "message": "refactor(python): hoist cluster skip helper into require_cluster_addresses (#7114)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7114",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cfd78067274512ce754ee16b9d7ed0bc511bf88b"
+    },
     {
       "sha": "53ad326231",
       "message": "fix(core): Key scope targets on resolved primary address, fail closed on unresolved slots. (#7054)",

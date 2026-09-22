@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 806,
+  "score": 807,
   "commit_count": 45,
-  "review_count": 761,
+  "review_count": 762,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "528f1093db",
+      "message": "fix(core): reused scoped connections keep the parent's runtime database (#7113)",
+      "date": "2026-09-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7113",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/528f1093db1d7bf188a88a3c732b9dcd1a186781"
+    },
     {
       "sha": "12c00a5de1",
       "message": "ci(node): add EC2-orchestrated Windows CI for the Node.js client (#7026)",

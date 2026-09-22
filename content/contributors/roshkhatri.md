@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 436,
+  "score": 437,
   "commit_count": 157,
-  "review_count": 279,
+  "review_count": 280,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1278,6 +1278,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f2bcd083dc",
+      "message": "ZSTD Support for Streaming Compression  (#3798)",
+      "date": "2026-09-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3798",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f2bcd083dc5efb83a3aff1d155261c031440b448"
+    },
     {
       "sha": "cac33ed282",
       "message": "deb: rework the source patch set \u2014 drop 0001 and 0003, slim 0004 (#64)",

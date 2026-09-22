@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 263,
-  "commit_count": 126,
-  "review_count": 137,
+  "score": 265,
+  "commit_count": 127,
+  "review_count": 138,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "a360316a56",
+      "message": "refactor: parse CLUSTER NODES into a struct instead of seven ad-hoc field walks (#433)",
+      "date": "2026-09-22",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/433",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a360316a56f1c4fb2cf6c2e1ec47d7502cc7a2d5"
+    },
     {
       "sha": "3a3770a15c",
       "message": "fix: Handle event_new() failure in libevent adapter (#349)",
@@ -1023,6 +1031,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0f06979cda",
+      "message": "(feat) support Mutual TLS (mTLS) certificate-based ACL authentication (#242)",
+      "date": "2026-09-21",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/242",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0f06979cda3c798412f2188f64281f2d9b4a0dbd"
+    },
     {
       "sha": "f9120361b6",
       "message": "Fix possible NULL pointer dereference in Windows (#351)",

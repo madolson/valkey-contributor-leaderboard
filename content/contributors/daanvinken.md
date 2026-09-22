@@ -2,9 +2,9 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 39,
+  "score": 40,
   "commit_count": 23,
-  "review_count": 16,
+  "review_count": 17,
   "repos": [
     "valkey-helm",
     "valkey-operator"
@@ -196,6 +196,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0f06979cda",
+      "message": "(feat) support Mutual TLS (mTLS) certificate-based ACL authentication (#242)",
+      "date": "2026-09-21",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/242",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0f06979cda3c798412f2188f64281f2d9b4a0dbd"
+    },
     {
       "sha": "5b7bf47ffd",
       "message": "refactor!: TLS API restructure (#377)",

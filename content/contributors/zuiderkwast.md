@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1252,
+  "score": 1255,
   "commit_count": 153,
-  "review_count": 1099,
+  "review_count": 1102,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1246,6 +1246,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f2bcd083dc",
+      "message": "ZSTD Support for Streaming Compression  (#3798)",
+      "date": "2026-09-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3798",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f2bcd083dc5efb83a3aff1d155261c031440b448"
+    },
+    {
+      "sha": "27c68f14f4",
+      "message": "Fix valkey-check-aof detection of Valkey RDB base files (#4739)",
+      "date": "2026-09-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4739",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/27c68f14f4f6f01978b4c6acf4d8ebe53003ce3b"
+    },
+    {
+      "sha": "7945915f53",
+      "message": "Add DELEX command with conditional predicates (#4607)",
+      "date": "2026-09-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4607",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7945915f537b87e35392725b2f4e9de57ba7e2d9"
+    },
     {
       "sha": "11387e50c6",
       "message": "Persist OPENSSL_PREFIX across builds (#4738)",

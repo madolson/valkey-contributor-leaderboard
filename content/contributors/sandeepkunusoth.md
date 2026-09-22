@@ -2,13 +2,21 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 62,
-  "commit_count": 25,
+  "score": 63,
+  "commit_count": 26,
   "review_count": 37,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "0f06979cda",
+      "message": "(feat) support Mutual TLS (mTLS) certificate-based ACL authentication (#242)",
+      "date": "2026-09-21",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/242",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0f06979cda3c798412f2188f64281f2d9b4a0dbd"
+    },
     {
       "sha": "d8fef4a59e",
       "message": "(feat) version gating initial support  (#307)",

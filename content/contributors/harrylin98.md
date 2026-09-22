@@ -2,13 +2,21 @@
   "title": "harrylin98",
   "login": "harrylin98",
   "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
-  "score": 17,
-  "commit_count": 15,
+  "score": 18,
+  "commit_count": 16,
   "review_count": 2,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "5045624583",
+      "message": "Remove duplicate clientsCronTcpIsClosing() call in clientsCron (#4752)",
+      "date": "2026-09-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4752",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5045624583ab012e9b5923481edf2322f903c973"
+    },
     {
       "sha": "f26b1609e5",
       "message": "Fix repl throttle read-handler and throttle_checked ordering, improve tcl tests (#4612)",
