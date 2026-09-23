@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 807,
+  "score": 812,
   "commit_count": 45,
-  "review_count": 762,
+  "review_count": 767,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1bcd25349a",
+      "message": "feat: add AzAffinityAllNodes read strategy (#564)",
+      "date": "2026-09-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/564",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/1bcd25349af2b9ee4fe124ad216b507ac0d63477"
+    },
+    {
+      "sha": "bd8cb0ee6a",
+      "message": "refactor(rust): hide internal crate types behind a Valkey-branded public API (#7024) (#7116)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7116",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bd8cb0ee6a8400a4058a62901363b87da0e83ff1"
+    },
+    {
+      "sha": "a88c45d628",
+      "message": "fix(go): reject a custom address resolver on a pool config (#7128)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7128",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a88c45d6288190ade57ba38358f50d471941093f"
+    },
+    {
+      "sha": "3c48ea203f",
+      "message": "fix(java): pooled clients build their ConnectionRequest via the shared serializer (#7119)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7119",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3c48ea203f023184adbac5e53cb6bd718210bb9b"
+    },
+    {
+      "sha": "8c92143633",
+      "message": "docs(ruby): update Valkey GLIDE documentation links (#328)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/328",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/8c921436333a83c7447275f1ee6f7d967bd7558d"
+    },
     {
       "sha": "528f1093db",
       "message": "fix(core): reused scoped connections keep the parent's runtime database (#7113)",

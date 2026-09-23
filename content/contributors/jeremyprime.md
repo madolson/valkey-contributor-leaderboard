@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 236,
-  "commit_count": 69,
-  "review_count": 167,
+  "score": 241,
+  "commit_count": 71,
+  "review_count": 170,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -13,6 +13,22 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "a88c45d628",
+      "message": "fix(go): reject a custom address resolver on a pool config (#7128)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7128",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a88c45d6288190ade57ba38358f50d471941093f"
+    },
+    {
+      "sha": "3c48ea203f",
+      "message": "fix(java): pooled clients build their ConnectionRequest via the shared serializer (#7119)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7119",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3c48ea203f023184adbac5e53cb6bd718210bb9b"
+    },
     {
       "sha": "528f1093db",
       "message": "fix(core): reused scoped connections keep the parent's runtime database (#7113)",
@@ -567,6 +583,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bd8cb0ee6a",
+      "message": "refactor(rust): hide internal crate types behind a Valkey-branded public API (#7024) (#7116)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7116",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bd8cb0ee6a8400a4058a62901363b87da0e83ff1"
+    },
+    {
+      "sha": "bd8cb0ee6a",
+      "message": "refactor(rust): hide internal crate types behind a Valkey-branded public API (#7024) (#7116)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7116",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bd8cb0ee6a8400a4058a62901363b87da0e83ff1"
+    },
+    {
+      "sha": "e952277b37",
+      "message": "docs: fix Lua function signatures (#309)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/309",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/e952277b3736e37294103b71a6ee486af46c1816"
+    },
     {
       "sha": "790c4eeb17",
       "message": "Continue GLIDE scans across empty batches (#109)",

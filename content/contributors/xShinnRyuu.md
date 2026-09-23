@@ -1074,6 +1074,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/72d3a6c76ce2d154ede9978126a1205dead61e1b"
     },
     {
+      "sha": "46a50d5c96",
+      "message": "chore(deps): bump valkey-glide from `1809c4d` to `53ad326` (#568)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/568",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/46a50d5c96da9d55a9c822856fe7db04ee795069"
+    },
+    {
       "sha": "528f1093db",
       "message": "fix(core): reused scoped connections keep the parent's runtime database (#7113)",
       "date": "2026-09-21",

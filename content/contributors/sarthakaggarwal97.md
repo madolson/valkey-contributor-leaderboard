@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 397,
+  "score": 398,
   "commit_count": 107,
-  "review_count": 290,
+  "review_count": 291,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -883,6 +883,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4752",
       "commit_url": "https://github.com/valkey-io/valkey/commit/5045624583ab012e9b5923481edf2322f903c973"
+    },
+    {
+      "sha": "77b00b2dda",
+      "message": "bgiteration: fix barrier item count for swap/flush during termination (#4750)",
+      "date": "2026-09-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4750",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/77b00b2ddaf1b5cce154313098d3951ea83b155c"
     },
     {
       "sha": "15aa872383",

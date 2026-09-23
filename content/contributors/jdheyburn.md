@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 144,
+  "score": 146,
   "commit_count": 46,
-  "review_count": 98,
+  "review_count": 100,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -388,6 +388,22 @@
       "repo": "valkey-operator",
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/433",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a360316a56f1c4fb2cf6c2e1ec47d7502cc7a2d5"
+    },
+    {
+      "sha": "529962e052",
+      "message": "Merge pull request #245 from bjosv/valkey-resources-0.2.0",
+      "date": "2026-09-22",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/245",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/529962e052ae59b4b8369cdab06b0cd27f47c9e4"
+    },
+    {
+      "sha": "c2358ed0da",
+      "message": "Release valkey-resources 0.2.0",
+      "date": "2026-09-01",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/245",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/c2358ed0dabeae48ea10f50ecd05aceac1ef0353"
     },
     {
       "sha": "9b61a0175b",

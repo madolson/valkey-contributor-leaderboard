@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 280,
-  "commit_count": 97,
-  "review_count": 183,
+  "score": 284,
+  "commit_count": 98,
+  "review_count": 186,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "8c92143633",
+      "message": "docs(ruby): update Valkey GLIDE documentation links (#328)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/328",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/8c921436333a83c7447275f1ee6f7d967bd7558d"
+    },
     {
       "sha": "c56e9b8202",
       "message": "feat(pubsub): metadata API (#320)",
@@ -801,6 +809,30 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7156",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/72d3a6c76ce2d154ede9978126a1205dead61e1b"
+    },
+    {
+      "sha": "e952277b37",
+      "message": "docs: fix Lua function signatures (#309)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/309",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/e952277b3736e37294103b71a6ee486af46c1816"
+    },
+    {
+      "sha": "e25b5e093f",
+      "message": "Otel improvements for shipping resource attributes (#325)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/325",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/e25b5e093f0557c7852b157f8284baa11107fb15"
+    },
+    {
+      "sha": "e25b5e093f",
+      "message": "Otel improvements for shipping resource attributes (#325)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/325",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/e25b5e093f0557c7852b157f8284baa11107fb15"
     },
     {
       "sha": "12c00a5de1",

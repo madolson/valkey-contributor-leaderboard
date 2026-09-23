@@ -2,14 +2,22 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 74,
-  "commit_count": 24,
+  "score": 75,
+  "commit_count": 25,
   "review_count": 50,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "77b00b2dda",
+      "message": "bgiteration: fix barrier item count for swap/flush during termination (#4750)",
+      "date": "2026-09-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4750",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/77b00b2ddaf1b5cce154313098d3951ea83b155c"
+    },
     {
       "sha": "85d02f6388",
       "message": "Fix duplicate reply on FLUSHDB/FLUSHALL with invalid args in forkless (#4610)",

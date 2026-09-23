@@ -2,9 +2,9 @@
   "title": "pizhenwei",
   "login": "pizhenwei",
   "avatar_url": "https://avatars.githubusercontent.com/u/5586500?v=4",
-  "score": 46,
+  "score": 47,
   "commit_count": 33,
-  "review_count": 13,
+  "review_count": 14,
   "repos": [
     "libvalkey",
     "valkey",
@@ -277,6 +277,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ba2ecac1b3",
+      "message": "fix: Harden RDMA recv against peer-supplied length (#352)",
+      "date": "2026-09-22",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/352",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/ba2ecac1b324b202ecf4383b3612a6583e28b11f"
+    },
     {
       "sha": "12f9331312",
       "message": "tests/rdma: improve diagnostics for sporadic connection failures (#4586)",

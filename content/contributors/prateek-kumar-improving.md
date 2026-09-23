@@ -2,8 +2,8 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 434,
-  "commit_count": 150,
+  "score": 435,
+  "commit_count": 151,
   "review_count": 284,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "1bcd25349a",
+      "message": "feat: add AzAffinityAllNodes read strategy (#564)",
+      "date": "2026-09-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/564",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/1bcd25349af2b9ee4fe124ad216b507ac0d63477"
+    },
     {
       "sha": "88bbd48d8d",
       "message": "feat(php): add READ_FROM_AZ_AFFINITY_ALL_NODES read strategy (#335)",

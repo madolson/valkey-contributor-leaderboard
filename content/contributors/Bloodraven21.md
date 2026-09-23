@@ -2,13 +2,21 @@
   "title": "Bloodraven21",
   "login": "Bloodraven21",
   "avatar_url": "https://avatars.githubusercontent.com/u/60031755?v=4",
-  "score": 23,
-  "commit_count": 9,
-  "review_count": 14,
+  "score": 25,
+  "commit_count": 10,
+  "review_count": 15,
   "repos": [
     "valkey-helm"
   ],
   "commit_list": [
+    {
+      "sha": "529962e052",
+      "message": "Merge pull request #245 from bjosv/valkey-resources-0.2.0",
+      "date": "2026-09-22",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/245",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/529962e052ae59b4b8369cdab06b0cd27f47c9e4"
+    },
     {
       "sha": "dd2d78213a",
       "message": "Merge pull request #240 from valkey-io/jdheyburn/valkey-operator-0.5",
@@ -90,6 +98,14 @@
       "repo": "valkey-helm",
       "pr_url": "https://github.com/valkey-io/valkey-helm/pull/244",
       "commit_url": "https://github.com/valkey-io/valkey-helm/commit/a2d8cf876aa81432e248a1ec3787098f7702c613"
+    },
+    {
+      "sha": "c2358ed0da",
+      "message": "Release valkey-resources 0.2.0",
+      "date": "2026-09-01",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/245",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/c2358ed0dabeae48ea10f50ecd05aceac1ef0353"
     },
     {
       "sha": "c34252e6e9",

@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 294,
+  "score": 297,
   "commit_count": 82,
-  "review_count": 212,
+  "review_count": 215,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -671,6 +671,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1bcd25349a",
+      "message": "feat: add AzAffinityAllNodes read strategy (#564)",
+      "date": "2026-09-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/564",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/1bcd25349af2b9ee4fe124ad216b507ac0d63477"
+    },
+    {
+      "sha": "8c92143633",
+      "message": "docs(ruby): update Valkey GLIDE documentation links (#328)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/328",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/8c921436333a83c7447275f1ee6f7d967bd7558d"
+    },
+    {
+      "sha": "e25b5e093f",
+      "message": "Otel improvements for shipping resource attributes (#325)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/325",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/e25b5e093f0557c7852b157f8284baa11107fb15"
+    },
     {
       "sha": "c56e9b8202",
       "message": "feat(pubsub): metadata API (#320)",

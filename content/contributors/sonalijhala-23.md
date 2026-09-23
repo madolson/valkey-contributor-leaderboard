@@ -2,13 +2,21 @@
   "title": "sonalijhala-23",
   "login": "sonalijhala-23",
   "avatar_url": "https://avatars.githubusercontent.com/u/321700091?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey-go"
   ],
   "commit_list": [
+    {
+      "sha": "64ddda3b87",
+      "message": "feat(cluster): add ClusterScanner helper and ClusterScanEntry (#172)",
+      "date": "2026-09-22",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/172",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/64ddda3b87a417c0bd5097953287508bd25b0a53"
+    },
     {
       "sha": "fb246d5773",
       "message": "feat(valkeycompat): add latency and latencyReset (#169)",

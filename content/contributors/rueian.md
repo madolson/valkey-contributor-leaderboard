@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 60,
+  "score": 61,
   "commit_count": 9,
-  "review_count": 51,
+  "review_count": 52,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -94,6 +94,14 @@
       "repo": "valkey-go",
       "pr_url": "https://github.com/valkey-io/valkey-go/pull/185",
       "commit_url": "https://github.com/valkey-io/valkey-go/commit/a588ccc65c0b6ca8a68d71ddf55b1e3cfcefad79"
+    },
+    {
+      "sha": "64ddda3b87",
+      "message": "feat(cluster): add ClusterScanner helper and ClusterScanEntry (#172)",
+      "date": "2026-09-22",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/172",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/64ddda3b87a417c0bd5097953287508bd25b0a53"
     },
     {
       "sha": "fb246d5773",

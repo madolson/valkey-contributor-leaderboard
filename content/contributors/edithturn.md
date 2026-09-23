@@ -2,14 +2,22 @@
   "title": "edithturn",
   "login": "edithturn",
   "avatar_url": "https://avatars.githubusercontent.com/u/58795858?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey-io.github.io",
     "valkey-swift"
   ],
   "commit_list": [
+    {
+      "sha": "3b3355388b",
+      "message": "Add blog post: Valkey Metrics in Prometheus: redis_exporter and BetterDB (#645)",
+      "date": "2026-09-22",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/645",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/3b3355388b5a88f3e67ebd0ac3698b1d6de3c499"
+    },
     {
       "sha": "3770e02a9f",
       "message": "docs: add Pub/Sub section to README (#398)",

@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 317,
-  "commit_count": 185,
-  "review_count": 132,
+  "score": 319,
+  "commit_count": 186,
+  "review_count": 133,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "bd8cb0ee6a",
+      "message": "refactor(rust): hide internal crate types behind a Valkey-branded public API (#7024) (#7116)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7116",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bd8cb0ee6a8400a4058a62901363b87da0e83ff1"
+    },
     {
       "sha": "c4eb62f98a",
       "message": "test(rust): add SecureTls cluster integration tests (#7089)",
@@ -1497,6 +1505,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1bcd25349a",
+      "message": "feat: add AzAffinityAllNodes read strategy (#564)",
+      "date": "2026-09-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/564",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/1bcd25349af2b9ee4fe124ad216b507ac0d63477"
+    },
+    {
+      "sha": "46a50d5c96",
+      "message": "chore(deps): bump valkey-glide from `1809c4d` to `53ad326` (#568)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/568",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/46a50d5c96da9d55a9c822856fe7db04ee795069"
+    },
     {
       "sha": "ebfcb52707",
       "message": "build(deps): bump the patch-updates group in /node/rust-client with 4 updates (#7145)",

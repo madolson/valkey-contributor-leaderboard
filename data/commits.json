@@ -184063,6 +184063,370 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1083"
+    },
+    {
+      "sha": "a009167dfe10ac773bba88a8aba2259010c6ac0c",
+      "author_login": "bjosv",
+      "author_id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "message": "Add internal timer system for async timeout handling (#330)",
+      "date": "2026-09-22T21:06:35Z",
+      "repo": "libvalkey",
+      "reviewed": [
+        {
+          "login": "michael-grunder",
+          "date": "2026-09-19T01:30:08Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/330"
+    },
+    {
+      "sha": "48ccf91cb5942a7697b34af0d56c6ce0f8eecd49",
+      "author_login": "michael-grunder",
+      "author_id": 468149,
+      "avatar_url": "https://avatars.githubusercontent.com/u/468149?v=4",
+      "message": "Drain socket error queue on connect",
+      "date": "2026-09-22T16:42:59Z",
+      "repo": "libvalkey",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-09-21T08:48:38Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/353"
+    },
+    {
+      "sha": "ba2ecac1b324b202ecf4383b3612a6583e28b11f",
+      "author_login": "bjosv",
+      "author_id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "message": "fix: Harden RDMA recv against peer-supplied length (#352)",
+      "date": "2026-09-22T09:54:25Z",
+      "repo": "libvalkey",
+      "reviewed": [
+        {
+          "login": "pizhenwei",
+          "date": "2026-09-18T10:50:11Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/352"
+    },
+    {
+      "sha": "90af08497d6fbee48c071fedab0f910f2a091a4c",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "Fix release workflow to publish to Maven Central via the Portal API (#107)",
+      "date": "2026-09-22T19:57:18Z",
+      "repo": "spring-data-valkey",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "77b00b2ddaf1b5cce154313098d3951ea83b155c",
+      "author_login": "JimB123",
+      "author_id": 7267136,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
+      "message": "bgiteration: fix barrier item count for swap/flush during termination (#4750)",
+      "date": "2026-09-22T15:03:13Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-09-21T23:05:48Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4750"
+    },
+    {
+      "sha": "6fc37b1ebbfca3f21f4744907951a8b02d2bbf02",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Update express and body-parser to latest patch releases (#526)",
+      "date": "2026-09-22T18:32:26Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "nassery318",
+          "date": "2026-09-22T17:23:31Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/526"
+    },
+    {
+      "sha": "b76fc635acb304381c7b1522de34eab00938d233",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Stop the daily backport sweep from timing out at three hours (#110)",
+      "date": "2026-09-22T19:52:18Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "757161234f647b46f97acfde8f4af4c51322e792",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Simplify Valkey backport validation config (#111)",
+      "date": "2026-09-22T19:47:54Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "8d502cbf940c850c24f021070503371e044143c5",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Fix backport validation dependencies and improve sweep logs (#109)",
+      "date": "2026-09-22T18:47:57Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "bd8cb0ee6a8400a4058a62901363b87da0e83ff1",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "refactor(rust): hide internal crate types behind a Valkey-branded public API (#7024) (#7116)",
+      "date": "2026-09-22T22:33:03Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-09-21T19:09:25Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-09-22T02:32:07Z"
+        },
+        {
+          "login": "jeremyprime",
+          "date": "2026-09-22T18:15:55Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7116"
+    },
+    {
+      "sha": "a88c45d6288190ade57ba38358f50d471941093f",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "fix(go): reject a custom address resolver on a pool config (#7128)",
+      "date": "2026-09-22T15:42:56Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-09-21T15:16:19Z"
+        },
+        {
+          "login": "affonsov",
+          "date": "2026-09-21T23:22:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7128"
+    },
+    {
+      "sha": "3c48ea203f023184adbac5e53cb6bd718210bb9b",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "fix(java): pooled clients build their ConnectionRequest via the shared serializer (#7119)",
+      "date": "2026-09-22T15:41:00Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-09-18T22:27:33Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-09-18T23:30:19Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7119"
+    },
+    {
+      "sha": "1bcd25349af2b9ee4fe124ad216b507ac0d63477",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "feat: add AzAffinityAllNodes read strategy (#564)",
+      "date": "2026-09-23T00:27:35Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-09-18T21:57:25Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-09-22T15:47:23Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-09-22T21:12:57Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/564"
+    },
+    {
+      "sha": "46a50d5c96da9d55a9c822856fe7db04ee795069",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump valkey-glide from `1809c4d` to `53ad326` (#568)",
+      "date": "2026-09-22T20:42:01Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-09-21T16:24:08Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-09-21T16:38:16Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/568"
+    },
+    {
+      "sha": "e952277b3736e37294103b71a6ee486af46c1816",
+      "author_login": "lntutor",
+      "author_id": 1948922,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1948922?v=4",
+      "message": "docs: fix Lua function signatures (#309)",
+      "date": "2026-09-22T19:58:45Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-08-06T16:32:12Z"
+        },
+        {
+          "login": "jeremyprime",
+          "date": "2026-08-10T14:57:57Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/309"
+    },
+    {
+      "sha": "8c921436333a83c7447275f1ee6f7d967bd7558d",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "docs(ruby): update Valkey GLIDE documentation links (#328)",
+      "date": "2026-09-22T18:06:29Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-09-22T15:44:34Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-09-22T17:27:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/328"
+    },
+    {
+      "sha": "e25b5e093f0557c7852b157f8284baa11107fb15",
+      "author_login": "Sasidharan3094",
+      "author_id": 56465593,
+      "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
+      "message": "Otel improvements for shipping resource attributes (#325)",
+      "date": "2026-09-22T17:13:11Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-09-18T21:42:31Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-09-22T17:05:57Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-09-22T17:13:00Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/325"
+    },
+    {
+      "sha": "64ddda3b87a417c0bd5097953287508bd25b0a53",
+      "author_login": "sonalijhala-23",
+      "author_id": 321700091,
+      "avatar_url": "https://avatars.githubusercontent.com/u/321700091?v=4",
+      "message": "feat(cluster): add ClusterScanner helper and ClusterScanEntry (#172)",
+      "date": "2026-09-22T15:06:28Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-09-22T15:04:56Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/172"
+    },
+    {
+      "sha": "529962e052ae59b4b8369cdab06b0cd27f47c9e4",
+      "author_login": "Bloodraven21",
+      "author_id": 60031755,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60031755?v=4",
+      "message": "Merge pull request #245 from bjosv/valkey-resources-0.2.0",
+      "date": "2026-09-22T17:38:14Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-09-22T15:57:40Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/245"
+    },
+    {
+      "sha": "c2358ed0dabeae48ea10f50ecd05aceac1ef0353",
+      "author_login": "bjosv",
+      "author_id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "message": "Release valkey-resources 0.2.0",
+      "date": "2026-09-01T13:54:31Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "Bloodraven21",
+          "date": "2026-09-10T14:15:05Z"
+        },
+        {
+          "login": "jdheyburn",
+          "date": "2026-09-22T15:57:40Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/245"
+    },
+    {
+      "sha": "3b3355388b5a88f3e67ebd0ac3698b1d6de3c499",
+      "author_login": "edithturn",
+      "author_id": 58795858,
+      "avatar_url": "https://avatars.githubusercontent.com/u/58795858?v=4",
+      "message": "Add blog post: Valkey Metrics in Prometheus: redis_exporter and BetterDB (#645)",
+      "date": "2026-09-22T16:58:19Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "stockholmux",
+          "date": "2026-09-22T16:51:27Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/645"
     }
   ]
 }

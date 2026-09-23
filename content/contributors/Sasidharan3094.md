@@ -2,14 +2,22 @@
   "title": "Sasidharan3094",
   "login": "Sasidharan3094",
   "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
-  "score": 43,
-  "commit_count": 30,
+  "score": 44,
+  "commit_count": 31,
   "review_count": 13,
   "repos": [
     "valkey-glide",
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "e25b5e093f",
+      "message": "Otel improvements for shipping resource attributes (#325)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/325",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/e25b5e093f0557c7852b157f8284baa11107fb15"
+    },
     {
       "sha": "6a6948fc39",
       "message": "Add exception option to multi/pipeline for better errors handling (#299)",

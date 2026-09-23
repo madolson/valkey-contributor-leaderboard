@@ -2,13 +2,21 @@
   "title": "michael-grunder",
   "login": "michael-grunder",
   "avatar_url": "https://avatars.githubusercontent.com/u/468149?v=4",
-  "score": 85,
-  "commit_count": 25,
-  "review_count": 60,
+  "score": 87,
+  "commit_count": 26,
+  "review_count": 61,
   "repos": [
     "libvalkey"
   ],
   "commit_list": [
+    {
+      "sha": "48ccf91cb5",
+      "message": "Drain socket error queue on connect",
+      "date": "2026-09-22",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/353",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/48ccf91cb5942a7697b34af0d56c6ce0f8eecd49"
+    },
     {
       "sha": "f9120361b6",
       "message": "Fix possible NULL pointer dereference in Windows (#351)",
@@ -211,6 +219,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a009167dfe",
+      "message": "Add internal timer system for async timeout handling (#330)",
+      "date": "2026-09-22",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/330",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/a009167dfe10ac773bba88a8aba2259010c6ac0c"
+    },
     {
       "sha": "3a3770a15c",
       "message": "fix: Handle event_new() failure in libevent adapter (#349)",

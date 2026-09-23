@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 285,
+  "score": 287,
   "commit_count": 99,
-  "review_count": 186,
+  "review_count": 188,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -807,6 +807,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a88c45d628",
+      "message": "fix(go): reject a custom address resolver on a pool config (#7128)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7128",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a88c45d6288190ade57ba38358f50d471941093f"
+    },
+    {
+      "sha": "3c48ea203f",
+      "message": "fix(java): pooled clients build their ConnectionRequest via the shared serializer (#7119)",
+      "date": "2026-09-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7119",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3c48ea203f023184adbac5e53cb6bd718210bb9b"
+    },
     {
       "sha": "e8547d98fe",
       "message": "feat(pubsub): sharded Pub/Sub for cluster mode (#317)",

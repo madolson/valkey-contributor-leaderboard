@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 265,
-  "commit_count": 127,
-  "review_count": 138,
+  "score": 269,
+  "commit_count": 130,
+  "review_count": 139,
   "repos": [
     "libvalkey",
     "valkey",
@@ -20,6 +20,22 @@
       "repo": "valkey-operator",
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/433",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a360316a56f1c4fb2cf6c2e1ec47d7502cc7a2d5"
+    },
+    {
+      "sha": "a009167dfe",
+      "message": "Add internal timer system for async timeout handling (#330)",
+      "date": "2026-09-22",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/330",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/a009167dfe10ac773bba88a8aba2259010c6ac0c"
+    },
+    {
+      "sha": "ba2ecac1b3",
+      "message": "fix: Harden RDMA recv against peer-supplied length (#352)",
+      "date": "2026-09-22",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/352",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/ba2ecac1b324b202ecf4383b3612a6583e28b11f"
     },
     {
       "sha": "3a3770a15c",
@@ -52,6 +68,14 @@
       "repo": "valkey-helm",
       "pr_url": "https://github.com/valkey-io/valkey-helm/pull/244",
       "commit_url": "https://github.com/valkey-io/valkey-helm/commit/a2d8cf876aa81432e248a1ec3787098f7702c613"
+    },
+    {
+      "sha": "c2358ed0da",
+      "message": "Release valkey-resources 0.2.0",
+      "date": "2026-09-01",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/245",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/c2358ed0dabeae48ea10f50ecd05aceac1ef0353"
     },
     {
       "sha": "4160d5470f",
@@ -1031,6 +1055,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "48ccf91cb5",
+      "message": "Drain socket error queue on connect",
+      "date": "2026-09-22",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/353",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/48ccf91cb5942a7697b34af0d56c6ce0f8eecd49"
+    },
     {
       "sha": "0f06979cda",
       "message": "(feat) support Mutual TLS (mTLS) certificate-based ACL authentication (#242)",
