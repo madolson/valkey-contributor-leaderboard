@@ -2,8 +2,8 @@
   "title": "kurtmckee",
   "login": "kurtmckee",
   "avatar_url": "https://avatars.githubusercontent.com/u/39996?v=4",
-  "score": 25,
-  "commit_count": 23,
+  "score": 26,
+  "commit_count": 24,
   "review_count": 2,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "5b6e6a005a",
+      "message": "Type annotate `valkey.utils`",
+      "date": "2026-09-23",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/319",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/5b6e6a005ac694174fac9df0f99bfdd625024975"
+    },
     {
       "sha": "83b5244e2f",
       "message": "Fix a \"title underline too short\" doc build warning",

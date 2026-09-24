@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 241,
+  "score": 245,
   "commit_count": 71,
-  "review_count": 170,
+  "review_count": 174,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -583,6 +583,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6dea9e4a86",
+      "message": "chore: Using spring-boot-configuration-processor to handle annotation metadata (#110)",
+      "date": "2026-09-23",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/110",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/6dea9e4a86fceec44aa23c9e00da80fed2c5966a"
+    },
+    {
+      "sha": "575dcfe40f",
+      "message": "ci(rust): set MSRV for Rust client (1.94.1) (#7174)",
+      "date": "2026-09-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7174",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/575dcfe40ff7f61858b3100906b387b7afb691e4"
+    },
+    {
+      "sha": "32900d1c75",
+      "message": "docs: add recovery request queue configuration guide (#303)",
+      "date": "2026-09-23",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/303",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/32900d1c75e1306a17c14ea1de13a44fa9d79b16"
+    },
+    {
+      "sha": "63fba48c64",
+      "message": "Docs: Document Java AZ All Nodes and clarify read strategies (#332)",
+      "date": "2026-09-23",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/332",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/63fba48c64693ad5c32cbbefc17895cdb4f12134"
+    },
     {
       "sha": "bd8cb0ee6a",
       "message": "refactor(rust): hide internal crate types behind a Valkey-branded public API (#7024) (#7116)",

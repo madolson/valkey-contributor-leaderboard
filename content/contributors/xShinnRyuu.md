@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 466,
+  "score": 468,
   "commit_count": 131,
-  "review_count": 335,
+  "review_count": 337,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -1065,6 +1065,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "575dcfe40f",
+      "message": "ci(rust): set MSRV for Rust client (1.94.1) (#7174)",
+      "date": "2026-09-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7174",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/575dcfe40ff7f61858b3100906b387b7afb691e4"
+    },
+    {
+      "sha": "8526231251",
+      "message": "docs(python): document sync client zero-copy buffers for get/mget (#288)",
+      "date": "2026-09-23",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/288",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/852623125176ebf4656d41cb77e75ddaae394cf8"
+    },
     {
       "sha": "72d3a6c76c",
       "message": "ci(node): add id-token: write to fmt-node.yml for reusable workflow call (#7156)",

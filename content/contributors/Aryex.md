@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 284,
-  "commit_count": 98,
-  "review_count": 186,
+  "score": 287,
+  "commit_count": 100,
+  "review_count": 187,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "8526231251",
+      "message": "docs(python): document sync client zero-copy buffers for get/mget (#288)",
+      "date": "2026-09-23",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/288",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/852623125176ebf4656d41cb77e75ddaae394cf8"
+    },
+    {
+      "sha": "32900d1c75",
+      "message": "docs: add recovery request queue configuration guide (#303)",
+      "date": "2026-09-23",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/303",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/32900d1c75e1306a17c14ea1de13a44fa9d79b16"
+    },
     {
       "sha": "8c92143633",
       "message": "docs(ruby): update Valkey GLIDE documentation links (#328)",
@@ -802,6 +818,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "63fba48c64",
+      "message": "Docs: Document Java AZ All Nodes and clarify read strategies (#332)",
+      "date": "2026-09-23",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/332",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/63fba48c64693ad5c32cbbefc17895cdb4f12134"
+    },
     {
       "sha": "72d3a6c76c",
       "message": "ci(node): add id-token: write to fmt-node.yml for reusable workflow call (#7156)",

@@ -2,14 +2,22 @@
   "title": "deepakpunjabi",
   "login": "deepakpunjabi",
   "avatar_url": "https://avatars.githubusercontent.com/u/17640076?v=4",
-  "score": 5,
-  "commit_count": 4,
+  "score": 6,
+  "commit_count": 5,
   "review_count": 1,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "2b546fb6d6",
+      "message": "feat: make cluster-node-timeout user configurable (#450)",
+      "date": "2026-09-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/450",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2b546fb6d693f95172bce9c1f6f8145c79532573"
+    },
     {
       "sha": "7888b68250",
       "message": "fix!: Rename go module to github.com/valkey-io/valkey-operator (#316)",

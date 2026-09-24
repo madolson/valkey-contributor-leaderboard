@@ -2,11 +2,12 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 50,
+  "score": 52,
   "commit_count": 9,
-  "review_count": 41,
+  "review_count": 43,
   "repos": [
     "libvalkey-py",
+    "one-time-for-planet",
     "planet",
     "valkey",
     "valkey-py",
@@ -87,6 +88,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9ac65514fb",
+      "message": "Add an OpenAI post.",
+      "date": "2026-09-23",
+      "repo": "one-time-for-planet",
+      "pr_url": "https://github.com/valkey-io/one-time-for-planet/pull/1",
+      "commit_url": "https://github.com/valkey-io/one-time-for-planet/commit/9ac65514fb4c3e1f7261b3b13ef4a16752d5a374"
+    },
+    {
+      "sha": "5b6e6a005a",
+      "message": "Type annotate `valkey.utils`",
+      "date": "2026-09-23",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/319",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/5b6e6a005ac694174fac9df0f99bfdd625024975"
+    },
     {
       "sha": "d5c813ba0d",
       "message": "build(deps): bump pypa/cibuildwheel from 4.1.0 to 4.2.0 (#85)",

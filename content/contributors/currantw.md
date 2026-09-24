@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 319,
-  "commit_count": 186,
+  "score": 320,
+  "commit_count": 187,
   "review_count": 133,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "575dcfe40f",
+      "message": "ci(rust): set MSRV for Rust client (1.94.1) (#7174)",
+      "date": "2026-09-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7174",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/575dcfe40ff7f61858b3100906b387b7afb691e4"
+    },
     {
       "sha": "bd8cb0ee6a",
       "message": "refactor(rust): hide internal crate types behind a Valkey-branded public API (#7024) (#7116)",

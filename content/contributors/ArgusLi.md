@@ -2,13 +2,21 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 117,
-  "commit_count": 70,
-  "review_count": 47,
+  "score": 121,
+  "commit_count": 71,
+  "review_count": 50,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "c30df0eaf4",
+      "message": "Rename ttl no expiry and idle hit ratio (#531)",
+      "date": "2026-09-23",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/531",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/c30df0eaf4179a93c24a496d3e9c2c874c2cbc0f"
+    },
     {
       "sha": "9400398f17",
       "message": "Add authentication for metrics process register and ping (#504)",
@@ -571,6 +579,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9471197b52",
+      "message": "Fix K8s example seed host, and always use a node-local metrics client (#528)",
+      "date": "2026-09-23",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/528",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/9471197b52f602f05c2beb57c1d73d72d7cfff0a"
+    },
+    {
+      "sha": "0504f3f36c",
+      "message": "feat: add GCP Memorystore for Valkey IAM auth and private-CA TLS support - ISSUE-507 (#508)",
+      "date": "2026-09-23",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/508",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/0504f3f36c4b9409a15e1c160a5d29058020e1b5"
+    },
+    {
+      "sha": "518bbe5efe",
+      "message": "reduced the noise generated due JSON module, binary strings and metric server uri (#520)",
+      "date": "2026-09-23",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/520",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/518bbe5efeb9db853ad5273c63c5e388262a211f"
+    },
     {
       "sha": "b5c70c54c3",
       "message": "Fail closed instead of storing a cleartext password when no OS keystore is available (#522)",

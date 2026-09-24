@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 269,
+  "score": 272,
   "commit_count": 130,
-  "review_count": 139,
+  "review_count": 142,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1055,6 +1055,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e33318d56c",
+      "message": "Fix scan-build-222 static analysis findings",
+      "date": "2026-09-23",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/357",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/e33318d56cdea92b1aa8dad1e6b93e2659a080f5"
+    },
+    {
+      "sha": "64c6e7f996",
+      "message": "fix libuv use-after-free issue",
+      "date": "2026-09-23",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/356",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/64c6e7f996d6a4c20165baf87a06c68ab1533c41"
+    },
+    {
+      "sha": "62d723731b",
+      "message": "fixuse-after-free in our Qt  adapter",
+      "date": "2026-09-23",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/355",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/62d723731b31b5d9d45f3600b55e2873dea6ecf0"
+    },
     {
       "sha": "48ccf91cb5",
       "message": "Drain socket error queue on connect",

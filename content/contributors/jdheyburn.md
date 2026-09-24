@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 146,
+  "score": 149,
   "commit_count": 46,
-  "review_count": 100,
+  "review_count": 103,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -381,6 +381,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "eb8144a5cc",
+      "message": "test(e2e): add AST-based scan to verify _operator ACL covers all operator commands (#392)",
+      "date": "2026-09-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/392",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/eb8144a5cc5098afc5f80df5870611fea1b03bc6"
+    },
+    {
+      "sha": "2b546fb6d6",
+      "message": "feat: make cluster-node-timeout user configurable (#450)",
+      "date": "2026-09-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/450",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2b546fb6d693f95172bce9c1f6f8145c79532573"
+    },
+    {
+      "sha": "0357c3156c",
+      "message": "fix: replace a pod its StatefulSet can no longer replace (#410)",
+      "date": "2026-09-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/410",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0357c3156c4683bcb03122830185f70e6192ebf3"
+    },
     {
       "sha": "a360316a56",
       "message": "refactor: parse CLUSTER NODES into a struct instead of seven ad-hoc field walks (#433)",

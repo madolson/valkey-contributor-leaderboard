@@ -2,14 +2,22 @@
   "title": "tkarger",
   "login": "tkarger",
   "avatar_url": "https://avatars.githubusercontent.com/u/49390121?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "eb8144a5cc",
+      "message": "test(e2e): add AST-based scan to verify _operator ACL covers all operator commands (#392)",
+      "date": "2026-09-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/392",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/eb8144a5cc5098afc5f80df5870611fea1b03bc6"
+    },
     {
       "sha": "19d2d6d87f",
       "message": "feat(acl): allow config|get for auditability (#341)",

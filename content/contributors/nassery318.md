@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 148,
-  "commit_count": 112,
-  "review_count": 36,
+  "score": 151,
+  "commit_count": 113,
+  "review_count": 38,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "518bbe5efe",
+      "message": "reduced the noise generated due JSON module, binary strings and metric server uri (#520)",
+      "date": "2026-09-23",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/520",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/518bbe5efeb9db853ad5273c63c5e388262a211f"
+    },
     {
       "sha": "ef58fe5d36",
       "message": "set clientInfoTag and upgrade glide to version 2.5.2 (#506)",
@@ -907,6 +915,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c30df0eaf4",
+      "message": "Rename ttl no expiry and idle hit ratio (#531)",
+      "date": "2026-09-23",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/531",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/c30df0eaf4179a93c24a496d3e9c2c874c2cbc0f"
+    },
+    {
+      "sha": "c30df0eaf4",
+      "message": "Rename ttl no expiry and idle hit ratio (#531)",
+      "date": "2026-09-23",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/531",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/c30df0eaf4179a93c24a496d3e9c2c874c2cbc0f"
+    },
     {
       "sha": "6fc37b1ebb",
       "message": "Update express and body-parser to latest patch releases (#526)",

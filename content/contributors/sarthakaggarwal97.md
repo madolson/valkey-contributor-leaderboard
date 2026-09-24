@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 398,
-  "commit_count": 107,
-  "review_count": 291,
+  "score": 400,
+  "commit_count": 108,
+  "review_count": 292,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -18,6 +18,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "dcc66eff8b",
+      "message": "Run commands.def validation in an independent CI job (#4753)",
+      "date": "2026-09-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4753",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/dcc66eff8b759f90372f861b166b5edccfac26c7"
+    },
     {
       "sha": "f2bcd083dc",
       "message": "ZSTD Support for Streaming Compression  (#3798)",
@@ -876,6 +884,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "03f0c4b99a",
+      "message": "Fix sorted-set backlink test isolation (#4756)",
+      "date": "2026-09-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4756",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/03f0c4b99ae30eef64ce3ca06ddd798a50ba1a70"
+    },
     {
       "sha": "5045624583",
       "message": "Remove duplicate clientsCronTcpIsClosing() call in clientsCron (#4752)",

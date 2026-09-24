@@ -2,8 +2,8 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 297,
-  "commit_count": 82,
+  "score": 298,
+  "commit_count": 83,
   "review_count": 215,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "63fba48c64",
+      "message": "Docs: Document Java AZ All Nodes and clarify read strategies (#332)",
+      "date": "2026-09-23",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/332",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/63fba48c64693ad5c32cbbefc17895cdb4f12134"
+    },
     {
       "sha": "9803fdfa30",
       "message": "Java: Add `AZ_AFFINITY_ALL_NODES` read strategy (#7059)",

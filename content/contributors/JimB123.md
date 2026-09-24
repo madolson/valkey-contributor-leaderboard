@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 75,
+  "score": 76,
   "commit_count": 25,
-  "review_count": 50,
+  "review_count": 51,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -212,6 +212,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "019ec0bc27",
+      "message": "Remove duplicate pointer-key hashtable callbacks (#4745)",
+      "date": "2026-09-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4745",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/019ec0bc275bbf7917e2cd6ce1a6d88232e51a34"
+    },
     {
       "sha": "e082696cf1",
       "message": "Document VALKEYMODULE_OPTIONS_HANDLE_FORKLESS (#4716)",

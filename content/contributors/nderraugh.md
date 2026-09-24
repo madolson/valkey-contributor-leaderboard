@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 38,
+  "score": 39,
   "commit_count": 9,
-  "review_count": 29,
+  "review_count": 30,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "32900d1c75",
+      "message": "docs: add recovery request queue configuration guide (#303)",
+      "date": "2026-09-23",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/303",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/32900d1c75e1306a17c14ea1de13a44fa9d79b16"
+    },
     {
       "sha": "528f1093db",
       "message": "fix(core): reused scoped connections keep the parent's runtime database (#7113)",

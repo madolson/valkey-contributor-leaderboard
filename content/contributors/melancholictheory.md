@@ -2,8 +2,8 @@
   "title": "melancholictheory",
   "login": "melancholictheory",
   "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
-  "score": 11,
-  "commit_count": 10,
+  "score": 12,
+  "commit_count": 11,
   "review_count": 1,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "0357c3156c",
+      "message": "fix: replace a pod its StatefulSet can no longer replace (#410)",
+      "date": "2026-09-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/410",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0357c3156c4683bcb03122830185f70e6192ebf3"
+    },
     {
       "sha": "e23ccb31db",
       "message": "Add ACL DIGEST command (#4446)",

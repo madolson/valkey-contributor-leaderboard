@@ -2,14 +2,22 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 208,
-  "commit_count": 127,
+  "score": 209,
+  "commit_count": 128,
   "review_count": 81,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "9471197b52",
+      "message": "Fix K8s example seed host, and always use a node-local metrics client (#528)",
+      "date": "2026-09-23",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/528",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/9471197b52f602f05c2beb57c1d73d72d7cfff0a"
+    },
     {
       "sha": "6fc37b1ebb",
       "message": "Update express and body-parser to latest patch releases (#526)",

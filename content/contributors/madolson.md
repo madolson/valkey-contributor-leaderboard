@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 944,
+  "score": 945,
   "commit_count": 216,
-  "review_count": 728,
+  "review_count": 729,
   "repos": [
     ".github",
     "valkey",
@@ -1751,6 +1751,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dcc66eff8b",
+      "message": "Run commands.def validation in an independent CI job (#4753)",
+      "date": "2026-09-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4753",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/dcc66eff8b759f90372f861b166b5edccfac26c7"
+    },
     {
       "sha": "47c9839b22",
       "message": "Deflake replica migration tests (#4684)",

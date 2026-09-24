@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 812,
+  "score": 813,
   "commit_count": 45,
-  "review_count": 767,
+  "review_count": 768,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -384,6 +384,14 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/564",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/1bcd25349af2b9ee4fe124ad216b507ac0d63477"
+    },
+    {
+      "sha": "63fba48c64",
+      "message": "Docs: Document Java AZ All Nodes and clarify read strategies (#332)",
+      "date": "2026-09-23",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/332",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/63fba48c64693ad5c32cbbefc17895cdb4f12134"
     },
     {
       "sha": "bd8cb0ee6a",
