@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 39,
+  "score": 40,
   "commit_count": 9,
-  "review_count": 30,
+  "review_count": 31,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "03dcd4ae97",
+      "message": "fix(pool): eliminate abandon monitor race for blocking commands (#6971) (#7063)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7063",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/03dcd4ae97ecc411877e5dc7d746ff3270aac6e0"
+    },
     {
       "sha": "32900d1c75",
       "message": "docs: add recovery request queue configuration guide (#303)",

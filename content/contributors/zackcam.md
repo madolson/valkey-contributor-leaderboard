@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 75,
-  "commit_count": 45,
-  "review_count": 30,
+  "score": 77,
+  "commit_count": 46,
+  "review_count": 31,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -16,6 +16,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "de5a710f32",
+      "message": "Removing use of deprecated method to use teardown_method (#16)",
+      "date": "2026-09-24",
+      "repo": "valkey-test-framework",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/16",
+      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/de5a710f323e0cd156e25dae616df64e6439d699"
+    },
     {
       "sha": "7d0acb4c97",
       "message": "Making PR's run unstable and latest only, adding a daily job for all versions (#117)",
@@ -378,6 +386,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0e1bc33035",
+      "message": "Various small scoring changes (#1400)",
+      "date": "2026-09-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1400",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0e1bc3303578a198c62a9ec86f5c94e0e2c9eb08"
+    },
     {
       "sha": "4f6ef4b043",
       "message": "Scoring: BM25STD scoring for prefix, suffix and fuzzy queries (#1350)",

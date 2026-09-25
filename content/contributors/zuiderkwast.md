@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1255,
+  "score": 1256,
   "commit_count": 153,
-  "review_count": 1102,
+  "review_count": 1103,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1246,6 +1246,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "06d4c3b79d",
+      "message": "Fix wait for slot migration completion before checking DBSIZE (#4366)",
+      "date": "2026-09-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4366",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/06d4c3b79db4cc3a277d16a4a781189e7d8cf6f5"
+    },
     {
       "sha": "f2bcd083dc",
       "message": "ZSTD Support for Streaming Compression  (#3798)",

@@ -2,9 +2,9 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 151,
+  "score": 152,
   "commit_count": 113,
-  "review_count": 38,
+  "review_count": 39,
   "repos": [
     "valkey-admin"
   ],
@@ -915,6 +915,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "02c292f9bc",
+      "message": "Update version to 1.2.0 (#537)",
+      "date": "2026-09-24",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/537",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/02c292f9bcf52b291de3033220422f7c916f05f7"
+    },
     {
       "sha": "c30df0eaf4",
       "message": "Rename ttl no expiry and idle hit ratio (#531)",

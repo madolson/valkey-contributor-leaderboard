@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 468,
-  "commit_count": 131,
-  "review_count": 337,
+  "score": 470,
+  "commit_count": 132,
+  "review_count": 338,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "eff3ac46f7",
+      "message": "ci: key the engine cache on the runner image and rebuild bad restores (#7158)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7158",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/eff3ac46f7be4ab6bec64579b6c198c11d7ddda0"
+    },
     {
       "sha": "82ef99dffe",
       "message": "Java: Fix flaky pubsub_with_binary test and synchronize PubSubTests callback lists (#6481)",
@@ -1065,6 +1073,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7a7de416fa",
+      "message": "fix(core): reclaim scope-pool reservations on cancel and dedupe scope creation retries per acquire (#7120)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7120",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7a7de416fab842524db19867b58337572646e080"
+    },
+    {
+      "sha": "d47fc0c74a",
+      "message": "chore(deps): Bump ruby/setup-ruby in the minor-updates group (#326)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/326",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d47fc0c74a5e001d95e53fc769a4d3373d4d591d"
+    },
     {
       "sha": "575dcfe40f",
       "message": "ci(rust): set MSRV for Rust client (1.94.1) (#7174)",

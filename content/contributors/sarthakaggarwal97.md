@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 400,
+  "score": 404,
   "commit_count": 108,
-  "review_count": 292,
+  "review_count": 296,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -891,6 +891,38 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4756",
       "commit_url": "https://github.com/valkey-io/valkey/commit/03f0c4b99ae30eef64ce3ca06ddd798a50ba1a70"
+    },
+    {
+      "sha": "06050cb1fc",
+      "message": "Fix geohashGetLatDistance() when latitudes are equal (#4777)",
+      "date": "2026-09-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4777",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/06050cb1fc93a96cd457d509aa403cd4f17ea5d2"
+    },
+    {
+      "sha": "c79f17d251",
+      "message": "zset: add in-place fast path for score updates in listpack encoding (#3491)",
+      "date": "2026-09-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3491",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c79f17d251038cfb660a5ad836053d06d25d8342"
+    },
+    {
+      "sha": "60f3944c14",
+      "message": "Increase valkey-benchmark max latency bucket to 60 seconds (#3157)",
+      "date": "2026-09-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3157",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/60f3944c14260f9462975d684c0f1dede93ebb5a"
+    },
+    {
+      "sha": "60f3944c14",
+      "message": "Increase valkey-benchmark max latency bucket to 60 seconds (#3157)",
+      "date": "2026-09-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3157",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/60f3944c14260f9462975d684c0f1dede93ebb5a"
     },
     {
       "sha": "5045624583",

@@ -2,13 +2,21 @@
   "title": "gabiganam",
   "login": "gabiganam",
   "avatar_url": "https://avatars.githubusercontent.com/u/28859646?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "60f3944c14",
+      "message": "Increase valkey-benchmark max latency bucket to 60 seconds (#3157)",
+      "date": "2026-09-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3157",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/60f3944c14260f9462975d684c0f1dede93ebb5a"
+    },
     {
       "sha": "d0a32a70f8",
       "message": "Add `ALLOW_BUSY` flag to `SELECT` and various `CLIENT` sub-commands (#3217)",

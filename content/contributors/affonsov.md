@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 287,
-  "commit_count": 99,
-  "review_count": 188,
+  "score": 289,
+  "commit_count": 100,
+  "review_count": 189,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "03dcd4ae97",
+      "message": "fix(pool): eliminate abandon monitor race for blocking commands (#6971) (#7063)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7063",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/03dcd4ae97ecc411877e5dc7d746ff3270aac6e0"
+    },
     {
       "sha": "72d3a6c76c",
       "message": "ci(node): add id-token: write to fmt-node.yml for reusable workflow call (#7156)",
@@ -807,6 +815,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "500d06287e",
+      "message": "feat(ruby): enable Pub/Sub commands in pipeline and multi (#329)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/329",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/500d06287e9cbecf31c958b4d8babb3f9b628f93"
+    },
     {
       "sha": "a88c45d628",
       "message": "fix(go): reject a custom address resolver on a pool config (#7128)",

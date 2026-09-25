@@ -2,13 +2,37 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 121,
-  "commit_count": 71,
+  "score": 124,
+  "commit_count": 74,
   "review_count": 50,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "b85b66e842",
+      "message": "Update header name. (#539)",
+      "date": "2026-09-25",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/539",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/b85b66e842b3b3b5e73f133f177cce54c87833ee"
+    },
+    {
+      "sha": "ead76ccfe0",
+      "message": "Update releases page (#538)",
+      "date": "2026-09-24",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/538",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/ead76ccfe0301594491e3964a822cd008f861377"
+    },
+    {
+      "sha": "02c292f9bc",
+      "message": "Update version to 1.2.0 (#537)",
+      "date": "2026-09-24",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/537",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/02c292f9bcf52b291de3033220422f7c916f05f7"
+    },
     {
       "sha": "c30df0eaf4",
       "message": "Rename ttl no expiry and idle hit ratio (#531)",

@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 245,
-  "commit_count": 71,
-  "review_count": 174,
+  "score": 250,
+  "commit_count": 72,
+  "review_count": 178,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "7a7de416fa",
+      "message": "fix(core): reclaim scope-pool reservations on cancel and dedupe scope creation retries per acquire (#7120)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7120",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7a7de416fab842524db19867b58337572646e080"
+    },
     {
       "sha": "a88c45d628",
       "message": "fix(go): reject a custom address resolver on a pool config (#7128)",
@@ -583,6 +591,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "03dcd4ae97",
+      "message": "fix(pool): eliminate abandon monitor race for blocking commands (#6971) (#7063)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7063",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/03dcd4ae97ecc411877e5dc7d746ff3270aac6e0"
+    },
+    {
+      "sha": "03dcd4ae97",
+      "message": "fix(pool): eliminate abandon monitor race for blocking commands (#6971) (#7063)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7063",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/03dcd4ae97ecc411877e5dc7d746ff3270aac6e0"
+    },
+    {
+      "sha": "f42ec97ba1",
+      "message": "refactor(rust): extract telemetry crate to glide-telemetry (#6905) (#7186)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7186",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f42ec97ba13a54f96e47b8688967431f3cba4332"
+    },
+    {
+      "sha": "799eb62e48",
+      "message": "refactor(rust): rename logger_core crate to glide-logger (#7178)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7178",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/799eb62e48c3bbce703539159e20bf1d44f84c53"
+    },
     {
       "sha": "6dea9e4a86",
       "message": "chore: Using spring-boot-configuration-processor to handle annotation metadata (#110)",

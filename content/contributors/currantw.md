@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 320,
-  "commit_count": 187,
+  "score": 322,
+  "commit_count": 189,
   "review_count": 133,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "f42ec97ba1",
+      "message": "refactor(rust): extract telemetry crate to glide-telemetry (#6905) (#7186)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7186",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f42ec97ba13a54f96e47b8688967431f3cba4332"
+    },
+    {
+      "sha": "799eb62e48",
+      "message": "refactor(rust): rename logger_core crate to glide-logger (#7178)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7178",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/799eb62e48c3bbce703539159e20bf1d44f84c53"
+    },
     {
       "sha": "575dcfe40f",
       "message": "ci(rust): set MSRV for Rust client (1.94.1) (#7174)",

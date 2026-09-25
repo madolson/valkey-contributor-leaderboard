@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 119,
+  "score": 121,
   "commit_count": 41,
-  "review_count": 78,
+  "review_count": 80,
   "repos": [
     "valkey",
     "valkey-container",
@@ -351,6 +351,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4756",
       "commit_url": "https://github.com/valkey-io/valkey/commit/03f0c4b99ae30eef64ce3ca06ddd798a50ba1a70"
+    },
+    {
+      "sha": "c79f17d251",
+      "message": "zset: add in-place fast path for score updates in listpack encoding (#3491)",
+      "date": "2026-09-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3491",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c79f17d251038cfb660a5ad836053d06d25d8342"
+    },
+    {
+      "sha": "06d4c3b79d",
+      "message": "Fix wait for slot migration completion before checking DBSIZE (#4366)",
+      "date": "2026-09-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4366",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/06d4c3b79db4cc3a277d16a4a781189e7d8cf6f5"
     },
     {
       "sha": "089321adf5",

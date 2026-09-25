@@ -2,9 +2,9 @@
   "title": "michael-grunder",
   "login": "michael-grunder",
   "avatar_url": "https://avatars.githubusercontent.com/u/468149?v=4",
-  "score": 90,
+  "score": 92,
   "commit_count": 29,
-  "review_count": 61,
+  "review_count": 63,
   "repos": [
     "libvalkey"
   ],
@@ -243,6 +243,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "725d7e8206",
+      "message": "fix: Clear the OpenSSL error queue before TLS reads and writes (#359)",
+      "date": "2026-09-24",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/359",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/725d7e820626342cc0a7e87b0b372e21857c4d11"
+    },
+    {
+      "sha": "3e4c24108f",
+      "message": "Add connect/disconnect callbacks to valkeyOptions (#358)",
+      "date": "2026-09-24",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/358",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/3e4c24108fcf2d96ccf2419014027c78fe8297ef"
+    },
     {
       "sha": "a009167dfe",
       "message": "Add internal timer system for async timeout handling (#330)",

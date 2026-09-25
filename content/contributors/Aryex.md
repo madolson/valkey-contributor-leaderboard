@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 287,
-  "commit_count": 100,
+  "score": 288,
+  "commit_count": 101,
   "review_count": 187,
   "repos": [
     "spring-data-valkey",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "500d06287e",
+      "message": "feat(ruby): enable Pub/Sub commands in pipeline and multi (#329)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/329",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/500d06287e9cbecf31c958b4d8babb3f9b628f93"
+    },
     {
       "sha": "8526231251",
       "message": "docs(python): document sync client zero-copy buffers for get/mget (#288)",
@@ -818,6 +826,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d47fc0c74a",
+      "message": "chore(deps): Bump ruby/setup-ruby in the minor-updates group (#326)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/326",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d47fc0c74a5e001d95e53fc769a4d3373d4d591d"
+    },
     {
       "sha": "63fba48c64",
       "message": "Docs: Document Java AZ All Nodes and clarify read strategies (#332)",

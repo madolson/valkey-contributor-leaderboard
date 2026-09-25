@@ -2,8 +2,8 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 114,
-  "commit_count": 41,
+  "score": 115,
+  "commit_count": 42,
   "review_count": 73,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "0e1bc33035",
+      "message": "Various small scoring changes (#1400)",
+      "date": "2026-09-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1400",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0e1bc3303578a198c62a9ec86f5c94e0e2c9eb08"
+    },
     {
       "sha": "1927a526dc",
       "message": "Add compatibility version mapping section (#1386)",

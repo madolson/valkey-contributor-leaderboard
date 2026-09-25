@@ -2,9 +2,9 @@
   "title": "alexey-temnikov",
   "login": "alexey-temnikov",
   "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
-  "score": 26,
+  "score": 28,
   "commit_count": 12,
-  "review_count": 14,
+  "review_count": 16,
   "repos": [
     "valkey-admin",
     "valkey-doc",
@@ -111,6 +111,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b85b66e842",
+      "message": "Update header name. (#539)",
+      "date": "2026-09-25",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/539",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/b85b66e842b3b3b5e73f133f177cce54c87833ee"
+    },
+    {
+      "sha": "ead76ccfe0",
+      "message": "Update releases page (#538)",
+      "date": "2026-09-24",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/538",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/ead76ccfe0301594491e3964a822cd008f861377"
+    },
     {
       "sha": "7ecf31c3a0",
       "message": "Fix documentation inaccuracies (#453)",

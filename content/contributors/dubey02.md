@@ -2,9 +2,9 @@
   "title": "dubey02",
   "login": "dubey02",
   "avatar_url": "https://avatars.githubusercontent.com/u/19818774?v=4",
-  "score": 6,
+  "score": 7,
   "commit_count": 2,
-  "review_count": 4,
+  "review_count": 5,
   "repos": [
     "valkey"
   ],
@@ -27,6 +27,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "06050cb1fc",
+      "message": "Fix geohashGetLatDistance() when latitudes are equal (#4777)",
+      "date": "2026-09-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4777",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/06050cb1fc93a96cd457d509aa403cd4f17ea5d2"
+    },
     {
       "sha": "db7da3d115",
       "message": "Resolve a key's slot from the key, not from the executing command (#4380)",

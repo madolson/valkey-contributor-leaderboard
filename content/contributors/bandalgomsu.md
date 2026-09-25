@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 25,
-  "commit_count": 25,
+  "score": 26,
+  "commit_count": 26,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "06d4c3b79d",
+      "message": "Fix wait for slot migration completion before checking DBSIZE (#4366)",
+      "date": "2026-09-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4366",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/06d4c3b79db4cc3a277d16a4a781189e7d8cf6f5"
+    },
     {
       "sha": "0adf657af9",
       "message": "Add `IFEQ`, `IFNE`, `XX`, and `NX` options to `EXEC` command (#4019)",

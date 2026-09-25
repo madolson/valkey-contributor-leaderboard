@@ -2,13 +2,21 @@
   "title": "charsyam",
   "login": "charsyam",
   "avatar_url": "https://avatars.githubusercontent.com/u/439301?v=4",
-  "score": 8,
-  "commit_count": 8,
+  "score": 9,
+  "commit_count": 9,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "c79f17d251",
+      "message": "zset: add in-place fast path for score updates in listpack encoding (#3491)",
+      "date": "2026-09-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3491",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c79f17d251038cfb660a5ad836053d06d25d8342"
+    },
     {
       "sha": "47b497e4e3",
       "message": "Fix stale MY_PRIMARY_FAIL gossip flag (#4533)",

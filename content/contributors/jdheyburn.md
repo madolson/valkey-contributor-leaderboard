@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 149,
+  "score": 150,
   "commit_count": 46,
-  "review_count": 103,
+  "review_count": 104,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -381,6 +381,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "01892dd7e4",
+      "message": "fix: ask the peers, not the node, whether a cluster member is failing (#442)",
+      "date": "2026-09-24",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/442",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/01892dd7e4bddf60e04aba199d1b7115b118fae6"
+    },
     {
       "sha": "eb8144a5cc",
       "message": "test(e2e): add AST-based scan to verify _operator ACL covers all operator commands (#392)",

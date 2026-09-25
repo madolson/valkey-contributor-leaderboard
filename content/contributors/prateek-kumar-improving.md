@@ -1224,6 +1224,14 @@
   ],
   "review_list": [
     {
+      "sha": "45178a1b43",
+      "message": "ci(deps): bump actions/setup-java from 6.0.0 to 6.0.1 (#338)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/338",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/45178a1b43dda04b26b12f43d86226798b9885c8"
+    },
+    {
       "sha": "82ef99dffe",
       "message": "Java: Fix flaky pubsub_with_binary test and synchronize PubSubTests callback lists (#6481)",
       "date": "2026-09-18",

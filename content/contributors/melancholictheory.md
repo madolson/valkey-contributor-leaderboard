@@ -2,8 +2,8 @@
   "title": "melancholictheory",
   "login": "melancholictheory",
   "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
-  "score": 12,
-  "commit_count": 11,
+  "score": 13,
+  "commit_count": 12,
   "review_count": 1,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "01892dd7e4",
+      "message": "fix: ask the peers, not the node, whether a cluster member is failing (#442)",
+      "date": "2026-09-24",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/442",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/01892dd7e4bddf60e04aba199d1b7115b118fae6"
+    },
     {
       "sha": "0357c3156c",
       "message": "fix: replace a pod its StatefulSet can no longer replace (#410)",

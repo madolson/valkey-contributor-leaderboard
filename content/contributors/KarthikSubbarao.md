@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 272,
+  "score": 274,
   "commit_count": 102,
-  "review_count": 170,
+  "review_count": 172,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -835,6 +835,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0e1bc33035",
+      "message": "Various small scoring changes (#1400)",
+      "date": "2026-09-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1400",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0e1bc3303578a198c62a9ec86f5c94e0e2c9eb08"
+    },
+    {
+      "sha": "de5a710f32",
+      "message": "Removing use of deprecated method to use teardown_method (#16)",
+      "date": "2026-09-24",
+      "repo": "valkey-test-framework",
+      "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/16",
+      "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/de5a710f323e0cd156e25dae616df64e6439d699"
+    },
     {
       "sha": "bf2e6fc726",
       "message": "Fix SORTBY with NOCONTENT returning unsorted results (#1215) (#1217)",

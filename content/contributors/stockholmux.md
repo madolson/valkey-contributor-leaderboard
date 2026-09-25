@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 146,
+  "score": 147,
   "commit_count": 18,
-  "review_count": 128,
+  "review_count": 129,
   "repos": [
     "valkey",
     "valkey-container",
@@ -159,6 +159,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8f92e86496",
+      "message": "Add blog post: Browsing a Valkey keyspace safely (#649)",
+      "date": "2026-09-24",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/649",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/8f92e864967ba377d02b8fb563d46bc653955f01"
+    },
     {
       "sha": "3b3355388b",
       "message": "Add blog post: Valkey Metrics in Prometheus: redis_exporter and BetterDB (#645)",

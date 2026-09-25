@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 311,
+  "score": 312,
   "commit_count": 96,
-  "review_count": 215,
+  "review_count": 216,
   "repos": [
     "valkey",
     "valkey-container",
@@ -786,6 +786,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c79f17d251",
+      "message": "zset: add in-place fast path for score updates in listpack encoding (#3491)",
+      "date": "2026-09-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3491",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c79f17d251038cfb660a5ad836053d06d25d8342"
+    },
     {
       "sha": "7b87fee268",
       "message": "Preserve expired but unreaped fields across listpack-to-hashtable conversion (#4704)",

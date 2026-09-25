@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 813,
+  "score": 817,
   "commit_count": 45,
-  "review_count": 768,
+  "review_count": 772,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7a7de416fa",
+      "message": "fix(core): reclaim scope-pool reservations on cancel and dedupe scope creation retries per acquire (#7120)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7120",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7a7de416fab842524db19867b58337572646e080"
+    },
+    {
+      "sha": "799eb62e48",
+      "message": "refactor(rust): rename logger_core crate to glide-logger (#7178)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7178",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/799eb62e48c3bbce703539159e20bf1d44f84c53"
+    },
+    {
+      "sha": "eff3ac46f7",
+      "message": "ci: key the engine cache on the runner image and rebuild bad restores (#7158)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7158",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/eff3ac46f7be4ab6bec64579b6c198c11d7ddda0"
+    },
+    {
+      "sha": "500d06287e",
+      "message": "feat(ruby): enable Pub/Sub commands in pipeline and multi (#329)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/329",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/500d06287e9cbecf31c958b4d8babb3f9b628f93"
+    },
     {
       "sha": "1bcd25349a",
       "message": "feat: add AzAffinityAllNodes read strategy (#564)",

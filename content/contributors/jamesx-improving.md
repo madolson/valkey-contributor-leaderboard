@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 298,
+  "score": 303,
   "commit_count": 83,
-  "review_count": 215,
+  "review_count": 220,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -679,6 +679,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "03dcd4ae97",
+      "message": "fix(pool): eliminate abandon monitor race for blocking commands (#6971) (#7063)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7063",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/03dcd4ae97ecc411877e5dc7d746ff3270aac6e0"
+    },
+    {
+      "sha": "f42ec97ba1",
+      "message": "refactor(rust): extract telemetry crate to glide-telemetry (#6905) (#7186)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7186",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f42ec97ba13a54f96e47b8688967431f3cba4332"
+    },
+    {
+      "sha": "7a7de416fa",
+      "message": "fix(core): reclaim scope-pool reservations on cancel and dedupe scope creation retries per acquire (#7120)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7120",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7a7de416fab842524db19867b58337572646e080"
+    },
+    {
+      "sha": "799eb62e48",
+      "message": "refactor(rust): rename logger_core crate to glide-logger (#7178)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7178",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/799eb62e48c3bbce703539159e20bf1d44f84c53"
+    },
+    {
+      "sha": "eff3ac46f7",
+      "message": "ci: key the engine cache on the runner image and rebuild bad restores (#7158)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7158",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/eff3ac46f7be4ab6bec64579b6c198c11d7ddda0"
+    },
+    {
+      "sha": "d47fc0c74a",
+      "message": "chore(deps): Bump ruby/setup-ruby in the minor-updates group (#326)",
+      "date": "2026-09-24",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/326",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d47fc0c74a5e001d95e53fc769a4d3373d4d591d"
+    },
     {
       "sha": "1bcd25349a",
       "message": "feat: add AzAffinityAllNodes read strategy (#564)",

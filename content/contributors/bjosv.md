@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 272,
-  "commit_count": 130,
-  "review_count": 142,
+  "score": 275,
+  "commit_count": 132,
+  "review_count": 143,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,22 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "725d7e8206",
+      "message": "fix: Clear the OpenSSL error queue before TLS reads and writes (#359)",
+      "date": "2026-09-24",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/359",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/725d7e820626342cc0a7e87b0b372e21857c4d11"
+    },
+    {
+      "sha": "3e4c24108f",
+      "message": "Add connect/disconnect callbacks to valkeyOptions (#358)",
+      "date": "2026-09-24",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/358",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/3e4c24108fcf2d96ccf2419014027c78fe8297ef"
+    },
     {
       "sha": "a360316a56",
       "message": "refactor: parse CLUSTER NODES into a struct instead of seven ad-hoc field walks (#433)",
@@ -1055,6 +1071,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "01892dd7e4",
+      "message": "fix: ask the peers, not the node, whether a cluster member is failing (#442)",
+      "date": "2026-09-24",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/442",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/01892dd7e4bddf60e04aba199d1b7115b118fae6"
+    },
     {
       "sha": "e33318d56c",
       "message": "Fix scan-build-222 static analysis findings",
