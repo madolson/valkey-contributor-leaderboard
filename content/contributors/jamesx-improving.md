@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 303,
+  "score": 307,
   "commit_count": 83,
-  "review_count": 220,
+  "review_count": 224,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -679,6 +679,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8ab9c0f6d1",
+      "message": "fix(java): pool-borrowed clients honor client-config timeout, credentials, and inflight limit (#7176)",
+      "date": "2026-09-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7176",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8ab9c0f6d1a93af6fb8810cd4fc384894924aa84"
+    },
+    {
+      "sha": "8ab9c0f6d1",
+      "message": "fix(java): pool-borrowed clients honor client-config timeout, credentials, and inflight limit (#7176)",
+      "date": "2026-09-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7176",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8ab9c0f6d1a93af6fb8810cd4fc384894924aa84"
+    },
+    {
+      "sha": "4b6ac086b5",
+      "message": "fix(core): build scoped connections without a redis:// URL round-trip (#7172)",
+      "date": "2026-09-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7172",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4b6ac086b5260a0937616d1ae82269e2ae5ce051"
+    },
+    {
+      "sha": "4b6ac086b5",
+      "message": "fix(core): build scoped connections without a redis:// URL round-trip (#7172)",
+      "date": "2026-09-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7172",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4b6ac086b5260a0937616d1ae82269e2ae5ce051"
+    },
+    {
+      "sha": "84294260d6",
+      "message": "chore(deps): Bump dtolnay/rust-toolchain (#327)",
+      "date": "2026-09-25",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/327",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/84294260d68f00511e399765c3b8577c58ea6f2c"
+    },
     {
       "sha": "03dcd4ae97",
       "message": "fix(pool): eliminate abandon monitor race for blocking commands (#6971) (#7063)",

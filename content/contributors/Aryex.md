@@ -827,6 +827,14 @@
   ],
   "review_list": [
     {
+      "sha": "84294260d6",
+      "message": "chore(deps): Bump dtolnay/rust-toolchain (#327)",
+      "date": "2026-09-25",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/327",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/84294260d68f00511e399765c3b8577c58ea6f2c"
+    },
+    {
       "sha": "d47fc0c74a",
       "message": "chore(deps): Bump ruby/setup-ruby in the minor-updates group (#326)",
       "date": "2026-09-24",

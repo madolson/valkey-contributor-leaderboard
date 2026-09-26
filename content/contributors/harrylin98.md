@@ -2,13 +2,21 @@
   "title": "harrylin98",
   "login": "harrylin98",
   "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
-  "score": 18,
-  "commit_count": 16,
+  "score": 19,
+  "commit_count": 17,
   "review_count": 2,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "dca022fa11",
+      "message": "Fix throttle-repl test deadlock on throttled writer socket (#4778)",
+      "date": "2026-09-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4778",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/dca022fa11e82b336a78b8e95b85c2f1d4a4ddc0"
+    },
     {
       "sha": "5045624583",
       "message": "Remove duplicate clientsCronTcpIsClosing() call in clientsCron (#4752)",

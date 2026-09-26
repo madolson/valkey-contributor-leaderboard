@@ -1530,6 +1530,14 @@
   ],
   "review_list": [
     {
+      "sha": "7d45894e09",
+      "message": "build(deps-dev): bump @types/node from 26.2.0 to 26.6.1 in /node/pm-and-types-tests/depend-on-glide-dependent in the minor-updates group across 1 directory (#7152)",
+      "date": "2026-09-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7152",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7d45894e09c042985e05adf5d2074a794a1f5296"
+    },
+    {
       "sha": "1bcd25349a",
       "message": "feat: add AzAffinityAllNodes read strategy (#564)",
       "date": "2026-09-23",

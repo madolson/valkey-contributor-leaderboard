@@ -185295,6 +185295,309 @@
       "repo": "valkeymodule-rs",
       "reviewed": false,
       "pr_url": ""
+    },
+    {
+      "sha": "3284afd3c1e4fbfd58d4ffb9a74d25126f018a35",
+      "author_login": "quanyeyang",
+      "author_id": 155656201,
+      "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
+      "message": "Report pending SO_ERROR when non-blocking recv returns EAGAIN (#360)",
+      "date": "2026-09-25T09:30:11Z",
+      "repo": "libvalkey",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-09-25T09:29:45Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/360"
+    },
+    {
+      "sha": "e871916db2e8734aaa80402fcdd1031ac5af9053",
+      "author_login": "KIvanow",
+      "author_id": 541999,
+      "avatar_url": "https://avatars.githubusercontent.com/u/541999?v=4",
+      "message": "Add BetterDB Blog (Valkey) feed",
+      "date": "2026-09-25T15:45:47Z",
+      "repo": "planet",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-09-25T15:45:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/planet/pull/26"
+    },
+    {
+      "sha": "01cf031dc6ff91bcbec0997331585d714b437130",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "Wait longer for Maven Central publish to reach PUBLISHED (#115)",
+      "date": "2026-09-25T18:16:36Z",
+      "repo": "spring-data-valkey",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "dca022fa11e82b336a78b8e95b85c2f1d4a4ddc0",
+      "author_login": "harrylin98",
+      "author_id": 49881386,
+      "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
+      "message": "Fix throttle-repl test deadlock on throttled writer socket (#4778)",
+      "date": "2026-09-26T01:58:32Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-09-25T20:51:55Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4778"
+    },
+    {
+      "sha": "76d09727e2c591fde179d1dd6debbd3df73f6acd",
+      "author_login": "kakiuwang-ui",
+      "author_id": 229876677,
+      "avatar_url": "https://avatars.githubusercontent.com/u/229876677?v=4",
+      "message": "Deflake the TTL-expiration and eviction tests for forkless bgsave (#4673)",
+      "date": "2026-09-25T17:21:21Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "JimB123",
+          "date": "2026-09-25T15:39:54Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4673"
+    },
+    {
+      "sha": "8ab9c0f6d1a93af6fb8810cd4fc384894924aa84",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "fix(java): pool-borrowed clients honor client-config timeout, credentials, and inflight limit (#7176)",
+      "date": "2026-09-25T23:25:59Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-09-23T21:53:07Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-09-24T01:05:53Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-09-24T23:10:32Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-09-25T22:42:45Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7176"
+    },
+    {
+      "sha": "4b6ac086b5260a0937616d1ae82269e2ae5ce051",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "fix(core): build scoped connections without a redis:// URL round-trip (#7172)",
+      "date": "2026-09-25T17:34:53Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-09-23T22:05:14Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-09-23T22:56:56Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-09-24T06:17:28Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-09-24T21:37:34Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-09-24T22:09:42Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7172"
+    },
+    {
+      "sha": "7d45894e09c042985e05adf5d2074a794a1f5296",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "build(deps-dev): bump @types/node from 26.2.0 to 26.6.1 in /node/pm-and-types-tests/depend-on-glide-dependent in the minor-updates group across 1 directory (#7152)",
+      "date": "2026-09-25T16:08:37Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-09-21T17:10:35Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-09-25T16:08:22Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7152"
+    },
+    {
+      "sha": "84294260d68f00511e399765c3b8577c58ea6f2c",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): Bump dtolnay/rust-toolchain (#327)",
+      "date": "2026-09-25T23:58:51Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-09-21T16:33:58Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-09-23T23:12:33Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-09-23T23:54:44Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/327"
+    },
+    {
+      "sha": "808745d6d3e2dd51325457df92a85c24bd804876",
+      "author_login": "pat-s",
+      "author_id": 8430564,
+      "avatar_url": "https://avatars.githubusercontent.com/u/8430564?v=4",
+      "message": "fix(valkey): pass the private key to the health probes, not the certificate (#253)",
+      "date": "2026-09-25T20:35:48Z",
+      "repo": "valkey-helm",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "0da91fef78d926f403c6a26d75d915dccde975a5",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "fix: roll one node at a time when upgrading from v0.6.0 (#467)",
+      "date": "2026-09-25T20:14:37Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-09-25T19:56:36Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/467"
+    },
+    {
+      "sha": "a7fb71809c82e36a26139b1bb601979a09a5561e",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "fix: fall back to the cluster server name for node TLS (#468)",
+      "date": "2026-09-25T19:33:00Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-09-25T19:03:25Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/468"
+    },
+    {
+      "sha": "5456a33aa62e0b802e7de511936b09bd408094e8",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "docs: raise the minimum Kubernetes version to 1.32 (#466)",
+      "date": "2026-09-25T17:28:30Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-09-25T17:03:50Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/466"
+    },
+    {
+      "sha": "63653552e23604ba9029a0ff0cce014e7f433688",
+      "author_login": "bjosv",
+      "author_id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "message": "fix: skip only the shard whose primary is unidentifiable (#452)",
+      "date": "2026-09-25T10:24:10Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-09-25T10:24:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/452"
+    },
+    {
+      "sha": "2f45571e8431574a7314c31ef8a5ee880d63adb0",
+      "author_login": "bogdanp05",
+      "author_id": 7281856,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
+      "message": "Merge pull request #339 from 9128305/fix-resp3-auth-health-checks-lsywmtkvpnwu-me",
+      "date": "2026-09-25T13:13:02Z",
+      "repo": "valkey-py",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d5a42d52cc2ca7eae35ff6368e8f7b7010a60741",
+      "author_login": "9128305",
+      "author_id": 129173596,
+      "avatar_url": "https://avatars.githubusercontent.com/u/129173596?v=4",
+      "message": "Fix RESP3 auth health checks",
+      "date": "2026-09-25T12:08:00Z",
+      "repo": "valkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-09-25T12:36:57Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/339"
+    },
+    {
+      "sha": "17ffbe0ffb9b92374cadd35c693d76a0d6c7bda0",
+      "author_login": "mohanrajendran",
+      "author_id": 4929558,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
+      "message": "fix: harden slash command workflow (#1438)",
+      "date": "2026-09-25T21:34:50Z",
+      "repo": "valkey-search",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "2164c311d114c88bb38d9685c7219c8f8bb03782",
+      "author_login": "dmitrypol",
+      "author_id": 210308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/210308?v=4",
+      "message": "run integ tests under redis and different valkey versions (#247)",
+      "date": "2026-09-25T15:44:14Z",
+      "repo": "valkeymodule-rs",
+      "reviewed": false,
+      "pr_url": ""
     }
   ]
 }

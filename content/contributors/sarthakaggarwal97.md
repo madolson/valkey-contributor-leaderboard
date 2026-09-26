@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 404,
+  "score": 405,
   "commit_count": 108,
-  "review_count": 296,
+  "review_count": 297,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -884,6 +884,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dca022fa11",
+      "message": "Fix throttle-repl test deadlock on throttled writer socket (#4778)",
+      "date": "2026-09-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4778",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/dca022fa11e82b336a78b8e95b85c2f1d4a4ddc0"
+    },
     {
       "sha": "03f0c4b99a",
       "message": "Fix sorted-set backlink test isolation (#4756)",

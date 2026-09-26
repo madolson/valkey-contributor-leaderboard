@@ -2,8 +2,8 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 250,
-  "commit_count": 72,
+  "score": 252,
+  "commit_count": 74,
   "review_count": 178,
   "repos": [
     "spring-data-valkey",
@@ -13,6 +13,22 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "8ab9c0f6d1",
+      "message": "fix(java): pool-borrowed clients honor client-config timeout, credentials, and inflight limit (#7176)",
+      "date": "2026-09-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7176",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8ab9c0f6d1a93af6fb8810cd4fc384894924aa84"
+    },
+    {
+      "sha": "4b6ac086b5",
+      "message": "fix(core): build scoped connections without a redis:// URL round-trip (#7172)",
+      "date": "2026-09-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7172",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4b6ac086b5260a0937616d1ae82269e2ae5ce051"
+    },
     {
       "sha": "7a7de416fa",
       "message": "fix(core): reclaim scope-pool reservations on cancel and dedupe scope creation retries per acquire (#7120)",

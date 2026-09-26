@@ -2,15 +2,39 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 150,
-  "commit_count": 46,
-  "review_count": 104,
+  "score": 154,
+  "commit_count": 49,
+  "review_count": 105,
   "repos": [
     "valkey",
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "0da91fef78",
+      "message": "fix: roll one node at a time when upgrading from v0.6.0 (#467)",
+      "date": "2026-09-25",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/467",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0da91fef78d926f403c6a26d75d915dccde975a5"
+    },
+    {
+      "sha": "a7fb71809c",
+      "message": "fix: fall back to the cluster server name for node TLS (#468)",
+      "date": "2026-09-25",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/468",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a7fb71809c82e36a26139b1bb601979a09a5561e"
+    },
+    {
+      "sha": "5456a33aa6",
+      "message": "docs: raise the minimum Kubernetes version to 1.32 (#466)",
+      "date": "2026-09-25",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/466",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/5456a33aa62e0b802e7de511936b09bd408094e8"
+    },
     {
       "sha": "118c675df8",
       "message": "enhancement: reliable, event-driven ValkeyNode.Status.Role (#320)",
@@ -381,6 +405,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "63653552e2",
+      "message": "fix: skip only the shard whose primary is unidentifiable (#452)",
+      "date": "2026-09-25",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/452",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/63653552e23604ba9029a0ff0cce014e7f433688"
+    },
     {
       "sha": "01892dd7e4",
       "message": "fix: ask the peers, not the node, whether a cluster member is failing (#442)",

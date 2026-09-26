@@ -2,9 +2,9 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 52,
+  "score": 54,
   "commit_count": 9,
-  "review_count": 43,
+  "review_count": 45,
   "repos": [
     "libvalkey-py",
     "one-time-for-planet",
@@ -88,6 +88,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e871916db2",
+      "message": "Add BetterDB Blog (Valkey) feed",
+      "date": "2026-09-25",
+      "repo": "planet",
+      "pr_url": "https://github.com/valkey-io/planet/pull/26",
+      "commit_url": "https://github.com/valkey-io/planet/commit/e871916db2e8734aaa80402fcdd1031ac5af9053"
+    },
+    {
+      "sha": "d5a42d52cc",
+      "message": "Fix RESP3 auth health checks",
+      "date": "2026-09-25",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/339",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/d5a42d52cc2ca7eae35ff6368e8f7b7010a60741"
+    },
     {
       "sha": "9ac65514fb",
       "message": "Add an OpenAI post.",

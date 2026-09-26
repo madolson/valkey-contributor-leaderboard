@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 470,
+  "score": 473,
   "commit_count": 132,
-  "review_count": 338,
+  "review_count": 341,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -1073,6 +1073,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8ab9c0f6d1",
+      "message": "fix(java): pool-borrowed clients honor client-config timeout, credentials, and inflight limit (#7176)",
+      "date": "2026-09-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7176",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8ab9c0f6d1a93af6fb8810cd4fc384894924aa84"
+    },
+    {
+      "sha": "4b6ac086b5",
+      "message": "fix(core): build scoped connections without a redis:// URL round-trip (#7172)",
+      "date": "2026-09-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7172",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4b6ac086b5260a0937616d1ae82269e2ae5ce051"
+    },
+    {
+      "sha": "4b6ac086b5",
+      "message": "fix(core): build scoped connections without a redis:// URL round-trip (#7172)",
+      "date": "2026-09-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7172",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4b6ac086b5260a0937616d1ae82269e2ae5ce051"
+    },
+    {
+      "sha": "7d45894e09",
+      "message": "build(deps-dev): bump @types/node from 26.2.0 to 26.6.1 in /node/pm-and-types-tests/depend-on-glide-dependent in the minor-updates group across 1 directory (#7152)",
+      "date": "2026-09-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7152",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7d45894e09c042985e05adf5d2074a794a1f5296"
+    },
+    {
+      "sha": "84294260d6",
+      "message": "chore(deps): Bump dtolnay/rust-toolchain (#327)",
+      "date": "2026-09-25",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/327",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/84294260d68f00511e399765c3b8577c58ea6f2c"
+    },
     {
       "sha": "7a7de416fa",
       "message": "fix(core): reclaim scope-pool reservations on cancel and dedupe scope creation retries per acquire (#7120)",

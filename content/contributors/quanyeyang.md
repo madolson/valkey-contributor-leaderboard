@@ -2,13 +2,22 @@
   "title": "quanyeyang",
   "login": "quanyeyang",
   "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
-  "score": 16,
-  "commit_count": 14,
+  "score": 17,
+  "commit_count": 15,
   "review_count": 2,
   "repos": [
+    "libvalkey",
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "3284afd3c1",
+      "message": "Report pending SO_ERROR when non-blocking recv returns EAGAIN (#360)",
+      "date": "2026-09-25",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/360",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/3284afd3c1e4fbfd58d4ffb9a74d25126f018a35"
+    },
     {
       "sha": "06d35aca65",
       "message": "tests/rdma: isolate RXE from host RDMA devices (#4593)",

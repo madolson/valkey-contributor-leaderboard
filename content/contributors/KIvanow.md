@@ -2,16 +2,25 @@
   "title": "KIvanow",
   "login": "KIvanow",
   "avatar_url": "https://avatars.githubusercontent.com/u/541999?v=4",
-  "score": 14,
-  "commit_count": 12,
+  "score": 15,
+  "commit_count": 13,
   "review_count": 2,
   "repos": [
+    "planet",
     "valkey",
     "valkey-admin",
     "valkey-glide-php",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "e871916db2",
+      "message": "Add BetterDB Blog (Valkey) feed",
+      "date": "2026-09-25",
+      "repo": "planet",
+      "pr_url": "https://github.com/valkey-io/planet/pull/26",
+      "commit_url": "https://github.com/valkey-io/planet/commit/e871916db2e8734aaa80402fcdd1031ac5af9053"
+    },
     {
       "sha": "23b1623f7d",
       "message": "Update BetterDB participant description (#631)",
