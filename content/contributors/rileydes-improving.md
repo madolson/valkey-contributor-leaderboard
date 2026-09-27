@@ -2,13 +2,21 @@
   "title": "rileydes-improving",
   "login": "rileydes-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/216890177?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "d719c30c20",
+      "message": "feat: Implement INKEYS parameter for FT.SEARCH (#967)",
+      "date": "2026-09-27",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/967",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d719c30c20c05c7fd053f0517107da53f5c0b868"
+    },
     {
       "sha": "7296a5a1b7",
       "message": "feat: add Random Sample reducer to FT.Aggregate groupby stage (#949)",

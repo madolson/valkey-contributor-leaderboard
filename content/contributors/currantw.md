@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 322,
-  "commit_count": 189,
+  "score": 323,
+  "commit_count": 190,
   "review_count": 133,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "be1d7c603f",
+      "message": "refactor(rust): finalize glide- crate renames and cleanup (#6905) (#7195)",
+      "date": "2026-09-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7195",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/be1d7c603f287ed17af3f043df813c9e0f92356c"
+    },
     {
       "sha": "f42ec97ba1",
       "message": "refactor(rust): extract telemetry crate to glide-telemetry (#6905) (#7186)",

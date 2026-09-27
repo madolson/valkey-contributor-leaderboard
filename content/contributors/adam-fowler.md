@@ -2,9 +2,9 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 173,
+  "score": 174,
   "commit_count": 135,
-  "review_count": 38,
+  "review_count": 39,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -1095,6 +1095,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4091ed1c4b",
+      "message": "Mark passwords as secret in config reader (#403)",
+      "date": "2026-09-26",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/403",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/4091ed1c4b53dde7693af5e1bc3d8092090a5735"
+    },
     {
       "sha": "3770e02a9f",
       "message": "docs: add Pub/Sub section to README (#398)",

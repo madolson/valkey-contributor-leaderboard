@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 61,
+  "score": 63,
   "commit_count": 9,
-  "review_count": 52,
+  "review_count": 54,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "894a46ac16",
+      "message": "fix: NewClient must not return a typed-nil Client on construction errors (#192)",
+      "date": "2026-09-26",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/192",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/894a46ac1605f53cdb32a62201a67804cd603542"
+    },
+    {
+      "sha": "b7c8e2e9a5",
+      "message": "emit trace attributes for cache hits (#189)",
+      "date": "2026-09-26",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/189",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/b7c8e2e9a5bf4fdef66586df8a14e953df1b7efa"
+    },
     {
       "sha": "a588ccc65c",
       "message": "fix(valkeyaside): the deadlock during a FLUSHDB/FLUSHALL (#185)",

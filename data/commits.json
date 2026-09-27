@@ -185598,6 +185598,112 @@
       "repo": "valkeymodule-rs",
       "reviewed": false,
       "pr_url": ""
+    },
+    {
+      "sha": "be1d7c603f287ed17af3f043df813c9e0f92356c",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "refactor(rust): finalize glide- crate renames and cleanup (#6905) (#7195)",
+      "date": "2026-09-26T16:07:50Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-09-25T22:48:30Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-09-25T23:12:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7195"
+    },
+    {
+      "sha": "894a46ac1605f53cdb32a62201a67804cd603542",
+      "author_login": "weihong-xu-hpe",
+      "author_id": 145993105,
+      "avatar_url": "https://avatars.githubusercontent.com/u/145993105?v=4",
+      "message": "fix: NewClient must not return a typed-nil Client on construction errors (#192)",
+      "date": "2026-09-26T17:52:21Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-09-26T17:52:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/192"
+    },
+    {
+      "sha": "b7c8e2e9a5bf4fdef66586df8a14e953df1b7efa",
+      "author_login": "nelzblooket",
+      "author_id": 194830038,
+      "avatar_url": "https://avatars.githubusercontent.com/u/194830038?v=4",
+      "message": "emit trace attributes for cache hits (#189)",
+      "date": "2026-09-26T17:41:51Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-09-26T17:41:42Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/189"
+    },
+    {
+      "sha": "8316f21ad549eb4041945a064b3b4380edaf7623",
+      "author_login": "melancholictheory",
+      "author_id": 61789920,
+      "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
+      "message": "feat(valkey-operator): grant the manager delete on pods (#251)",
+      "date": "2026-09-26T08:40:06Z",
+      "repo": "valkey-helm",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d719c30c20c05c7fd053f0517107da53f5c0b868",
+      "author_login": "rileydes-improving",
+      "author_id": 216890177,
+      "avatar_url": "https://avatars.githubusercontent.com/u/216890177?v=4",
+      "message": "feat: Implement INKEYS parameter for FT.SEARCH (#967)",
+      "date": "2026-09-27T01:42:52Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-09-01T04:50:36Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/967"
+    },
+    {
+      "sha": "4091ed1c4b53dde7693af5e1bc3d8092090a5735",
+      "author_login": "hamzahrmalik",
+      "author_id": 6820175,
+      "avatar_url": "https://avatars.githubusercontent.com/u/6820175?v=4",
+      "message": "Mark passwords as secret in config reader (#403)",
+      "date": "2026-09-26T13:55:59Z",
+      "repo": "valkey-swift",
+      "reviewed": [
+        {
+          "login": "adam-fowler",
+          "date": "2026-09-24T13:26:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/403"
+    },
+    {
+      "sha": "9ed1bbf60992ead4ba4ba3cbaeb19fbc8484d3d3",
+      "author_login": "dmitrypol",
+      "author_id": 210308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/210308?v=4",
+      "message": "Compatibility version feature dependencies bwn Redis 7 and different version of Valkey (7, 8, 9) (#248)",
+      "date": "2026-09-26T13:05:43Z",
+      "repo": "valkeymodule-rs",
+      "reviewed": false,
+      "pr_url": ""
     }
   ]
 }

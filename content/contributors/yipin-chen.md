@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 819,
+  "score": 820,
   "commit_count": 45,
-  "review_count": 774,
+  "review_count": 775,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "be1d7c603f",
+      "message": "refactor(rust): finalize glide- crate renames and cleanup (#6905) (#7195)",
+      "date": "2026-09-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7195",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/be1d7c603f287ed17af3f043df813c9e0f92356c"
+    },
     {
       "sha": "8ab9c0f6d1",
       "message": "fix(java): pool-borrowed clients honor client-config timeout, credentials, and inflight limit (#7176)",

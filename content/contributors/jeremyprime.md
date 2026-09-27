@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 252,
+  "score": 253,
   "commit_count": 74,
-  "review_count": 178,
+  "review_count": 179,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -607,6 +607,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "be1d7c603f",
+      "message": "refactor(rust): finalize glide- crate renames and cleanup (#6905) (#7195)",
+      "date": "2026-09-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7195",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/be1d7c603f287ed17af3f043df813c9e0f92356c"
+    },
     {
       "sha": "03dcd4ae97",
       "message": "fix(pool): eliminate abandon monitor race for blocking commands (#6971) (#7063)",

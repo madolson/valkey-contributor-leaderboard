@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 24,
+  "score": 25,
   "commit_count": 10,
-  "review_count": 14,
+  "review_count": 15,
   "repos": [
     "valkey-perf-benchmark",
     "valkey-search"
@@ -92,6 +92,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d719c30c20",
+      "message": "feat: Implement INKEYS parameter for FT.SEARCH (#967)",
+      "date": "2026-09-27",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/967",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d719c30c20c05c7fd053f0517107da53f5c0b868"
+    },
     {
       "sha": "5b8c243288",
       "message": "FT.Hybrid Initial Implementation (#1083)",

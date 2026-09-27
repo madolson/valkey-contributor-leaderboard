@@ -2,13 +2,21 @@
   "title": "nelzblooket",
   "login": "nelzblooket",
   "avatar_url": "https://avatars.githubusercontent.com/u/194830038?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-go"
   ],
   "commit_list": [
+    {
+      "sha": "b7c8e2e9a5",
+      "message": "emit trace attributes for cache hits (#189)",
+      "date": "2026-09-26",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/189",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/b7c8e2e9a5bf4fdef66586df8a14e953df1b7efa"
+    },
     {
       "sha": "a588ccc65c",
       "message": "fix(valkeyaside): the deadlock during a FLUSHDB/FLUSHALL (#185)",
