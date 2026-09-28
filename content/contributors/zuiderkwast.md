@@ -2,8 +2,8 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1256,
-  "commit_count": 153,
+  "score": 1257,
+  "commit_count": 154,
   "review_count": 1103,
   "repos": [
     "libvalkey",
@@ -20,6 +20,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "7fe7ca45ff",
+      "message": "Decouple `rdbcompression` (disk format) from `repl-compression` (wire format) (#4749)",
+      "date": "2026-09-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4749",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7fe7ca45ffc7bb0ba009a952a2f64395e45e432a"
+    },
     {
       "sha": "6774c09978",
       "message": "Add REUSE compliance for machine-readable licensing and SBOM generation (#3968)",

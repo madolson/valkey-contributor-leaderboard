@@ -185704,6 +185704,53 @@
       "repo": "valkeymodule-rs",
       "reviewed": false,
       "pr_url": ""
+    },
+    {
+      "sha": "7fe7ca45ffc7bb0ba009a952a2f64395e45e432a",
+      "author_login": "zuiderkwast",
+      "author_id": 273886,
+      "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
+      "message": "Decouple `rdbcompression` (disk format) from `repl-compression` (wire format) (#4749)",
+      "date": "2026-09-27T22:38:49Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-09-23T18:39:01Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-09-25T16:53:59Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4749"
+    },
+    {
+      "sha": "7c033a8654012d767b691c62bd071af621479bdf",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Ignore earlier build artifacts in backport edit-scope checks (#113)",
+      "date": "2026-09-28T01:44:08Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b552b5c2900813fc41d75e32b1234e18cdea356c",
+      "author_login": "NotAFlightRisk",
+      "author_id": 23277273,
+      "avatar_url": "https://avatars.githubusercontent.com/u/23277273?v=4",
+      "message": "docs: add the stream methods to the valkeyhook example (#195)",
+      "date": "2026-09-27T19:59:27Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-09-27T19:58:53Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/195"
     }
   ]
 }

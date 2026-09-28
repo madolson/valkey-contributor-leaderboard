@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 405,
+  "score": 407,
   "commit_count": 108,
-  "review_count": 297,
+  "review_count": 299,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -884,6 +884,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7fe7ca45ff",
+      "message": "Decouple `rdbcompression` (disk format) from `repl-compression` (wire format) (#4749)",
+      "date": "2026-09-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4749",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7fe7ca45ffc7bb0ba009a952a2f64395e45e432a"
+    },
+    {
+      "sha": "7fe7ca45ff",
+      "message": "Decouple `rdbcompression` (disk format) from `repl-compression` (wire format) (#4749)",
+      "date": "2026-09-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4749",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7fe7ca45ffc7bb0ba009a952a2f64395e45e432a"
+    },
     {
       "sha": "dca022fa11",
       "message": "Fix throttle-repl test deadlock on throttled writer socket (#4778)",

@@ -40,7 +40,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
       "name": "Viktor S\u00f6derqvist",
       "company": "Ericsson Software Technology",
-      "commits": 153,
+      "commits": 154,
       "reviews": 1103,
       "per_repo": {
         "libvalkey": {
@@ -239,7 +239,7 @@
             34
           ],
           "2026-09": [
-            0,
+            1,
             26
           ]
         },
@@ -472,7 +472,7 @@
           ]
         }
       },
-      "score": 1256,
+      "score": 1257,
       "repos": [
         "libvalkey",
         "valkey",
@@ -2801,7 +2801,7 @@
       "name": "Sarthak Aggarwal",
       "company": "aws @valkey-io @opensearch-project",
       "commits": 108,
-      "reviews": 297,
+      "reviews": 299,
       "per_repo": {
         "valkey": {
           "2024-12": [
@@ -2890,7 +2890,7 @@
           ],
           "2026-09": [
             8,
-            14
+            16
           ]
         },
         "valkey-bundle": {
@@ -3080,7 +3080,7 @@
           ]
         }
       },
-      "score": 405,
+      "score": 407,
       "repos": [
         "valkey",
         "valkey-bundle",
@@ -9963,111 +9963,13 @@
       ]
     },
     {
-      "login": "asafpamzn",
-      "id": 97948347,
-      "avatar_url": "https://avatars.githubusercontent.com/u/97948347?v=4",
-      "name": "Asaf Porat Stoler",
-      "company": "",
-      "commits": 13,
-      "reviews": 51,
-      "per_repo": {
-        "valkey-doc": {
-          "2025-02": [
-            1,
-            0
-          ]
-        },
-        "valkey-glide": {
-          "2024-06": [
-            0,
-            5
-          ],
-          "2024-07": [
-            1,
-            21
-          ],
-          "2024-09": [
-            0,
-            2
-          ],
-          "2024-11": [
-            0,
-            2
-          ],
-          "2024-12": [
-            0,
-            3
-          ],
-          "2025-01": [
-            0,
-            1
-          ],
-          "2025-02": [
-            0,
-            1
-          ],
-          "2025-04": [
-            0,
-            2
-          ],
-          "2025-05": [
-            0,
-            2
-          ],
-          "2025-06": [
-            0,
-            1
-          ],
-          "2025-07": [
-            0,
-            1
-          ],
-          "2025-08": [
-            0,
-            1
-          ],
-          "2025-12": [
-            0,
-            1
-          ]
-        },
-        "valkey-glide-php": {
-          "2025-08": [
-            3,
-            5
-          ],
-          "2025-09": [
-            6,
-            1
-          ],
-          "2025-10": [
-            2,
-            0
-          ]
-        },
-        "valkey-io.github.io": {
-          "2025-03": [
-            0,
-            2
-          ]
-        }
-      },
-      "score": 64,
-      "repos": [
-        "valkey-doc",
-        "valkey-glide",
-        "valkey-glide-php",
-        "valkey-io.github.io"
-      ]
-    },
-    {
       "login": "rueian",
       "id": 2727535,
       "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
       "name": "Rueian",
       "company": "",
       "commits": 9,
-      "reviews": 54,
+      "reviews": 55,
       "per_repo": {
         "valkey": {
           "2025-01": [
@@ -10166,7 +10068,7 @@
           ],
           "2026-09": [
             0,
-            18
+            19
           ]
         },
         "valkey-operator": {
@@ -10176,13 +10078,111 @@
           ]
         }
       },
-      "score": 63,
+      "score": 64,
       "repos": [
         "valkey",
         "valkey-doc",
         "valkey-glide",
         "valkey-go",
         "valkey-operator"
+      ]
+    },
+    {
+      "login": "asafpamzn",
+      "id": 97948347,
+      "avatar_url": "https://avatars.githubusercontent.com/u/97948347?v=4",
+      "name": "Asaf Porat Stoler",
+      "company": "",
+      "commits": 13,
+      "reviews": 51,
+      "per_repo": {
+        "valkey-doc": {
+          "2025-02": [
+            1,
+            0
+          ]
+        },
+        "valkey-glide": {
+          "2024-06": [
+            0,
+            5
+          ],
+          "2024-07": [
+            1,
+            21
+          ],
+          "2024-09": [
+            0,
+            2
+          ],
+          "2024-11": [
+            0,
+            2
+          ],
+          "2024-12": [
+            0,
+            3
+          ],
+          "2025-01": [
+            0,
+            1
+          ],
+          "2025-02": [
+            0,
+            1
+          ],
+          "2025-04": [
+            0,
+            2
+          ],
+          "2025-05": [
+            0,
+            2
+          ],
+          "2025-06": [
+            0,
+            1
+          ],
+          "2025-07": [
+            0,
+            1
+          ],
+          "2025-08": [
+            0,
+            1
+          ],
+          "2025-12": [
+            0,
+            1
+          ]
+        },
+        "valkey-glide-php": {
+          "2025-08": [
+            3,
+            5
+          ],
+          "2025-09": [
+            6,
+            1
+          ],
+          "2025-10": [
+            2,
+            0
+          ]
+        },
+        "valkey-io.github.io": {
+          "2025-03": [
+            0,
+            2
+          ]
+        }
+      },
+      "score": 64,
+      "repos": [
+        "valkey-doc",
+        "valkey-glide",
+        "valkey-glide-php",
+        "valkey-io.github.io"
       ]
     },
     {
@@ -20899,6 +20899,27 @@
       ]
     },
     {
+      "login": "NotAFlightRisk",
+      "id": 23277273,
+      "avatar_url": "https://avatars.githubusercontent.com/u/23277273?v=4",
+      "name": "Iain",
+      "company": "DeloitteDigitalUK",
+      "commits": 2,
+      "reviews": 0,
+      "per_repo": {
+        "valkey-go": {
+          "2026-09": [
+            2,
+            0
+          ]
+        }
+      },
+      "score": 2,
+      "repos": [
+        "valkey-go"
+      ]
+    },
+    {
       "login": "sepidehattar",
       "id": 0,
       "avatar_url": "https://github.com/sepidehattar.png?size=64",
@@ -26839,27 +26860,6 @@
       "score": 1,
       "repos": [
         "valkey"
-      ]
-    },
-    {
-      "login": "NotAFlightRisk",
-      "id": 23277273,
-      "avatar_url": "https://avatars.githubusercontent.com/u/23277273?v=4",
-      "name": "Iain",
-      "company": "DeloitteDigitalUK",
-      "commits": 1,
-      "reviews": 0,
-      "per_repo": {
-        "valkey-go": {
-          "2026-09": [
-            1,
-            0
-          ]
-        }
-      },
-      "score": 1,
-      "repos": [
-        "valkey-go"
       ]
     },
     {
