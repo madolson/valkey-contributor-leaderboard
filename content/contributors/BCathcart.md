@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 115,
+  "score": 116,
   "commit_count": 42,
-  "review_count": 73,
+  "review_count": 74,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cc6cb5e7f1",
+      "message": "Scoring: BM25STD scoring for stemming queries (#1354)",
+      "date": "2026-09-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1354",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/cc6cb5e7f194ea3ebb371fad77709b96d58a1ac4"
+    },
     {
       "sha": "6428b669ba",
       "message": "Bug fix: only last RETURN in SEARCH should be effective (#1389)",

@@ -2,9 +2,9 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 13,
+  "score": 14,
   "commit_count": 2,
-  "review_count": 11,
+  "review_count": 12,
   "repos": [
     "valkey-search"
   ],
@@ -27,6 +27,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cad3560558",
+      "message": "Add WITHCURSOR to FT.AGGREGATE and FT.SEARCH, and the FT.CURSOR command (#1394)",
+      "date": "2026-09-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1394",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/cad3560558a070e50e147f8534935f33c29568db"
+    },
     {
       "sha": "6428b669ba",
       "message": "Bug fix: only last RETURN in SEARCH should be effective (#1389)",

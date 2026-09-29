@@ -2,13 +2,21 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 9,
-  "commit_count": 9,
+  "score": 10,
+  "commit_count": 10,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "ae819a9419",
+      "message": "Deflake corrupt-dump-fuzzer (#4746)",
+      "date": "2026-09-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4746",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ae819a9419bb519f1cfbab04f2213899adf78e84"
+    },
     {
       "sha": "06050cb1fc",
       "message": "Fix geohashGetLatDistance() when latitudes are equal (#4777)",

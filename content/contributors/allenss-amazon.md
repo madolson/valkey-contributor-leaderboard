@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 327,
-  "commit_count": 84,
-  "review_count": 243,
+  "score": 329,
+  "commit_count": 85,
+  "review_count": 244,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "cad3560558",
+      "message": "Add WITHCURSOR to FT.AGGREGATE and FT.SEARCH, and the FT.CURSOR command (#1394)",
+      "date": "2026-09-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1394",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/cad3560558a070e50e147f8534935f33c29568db"
+    },
     {
       "sha": "5b8c243288",
       "message": "FT.Hybrid Initial Implementation (#1083)",
@@ -687,6 +695,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "20f414ee1e",
+      "message": "Accept NOHL and SORTABLE UNF in FT.CREATE, and report sortable/unf in FT.INFO (#1395)",
+      "date": "2026-09-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1395",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/20f414ee1eec24622e4e30bdc86e3362ac817ca0"
+    },
     {
       "sha": "ef57713911",
       "message": "Fix long-running clang-format after running integration tests (#1406)",

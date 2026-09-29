@@ -1538,6 +1538,22 @@
   ],
   "review_list": [
     {
+      "sha": "4382c33eaf",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.1.0 to 10.2.0 in the minor-updates group (#571)",
+      "date": "2026-09-28",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/571",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4382c33eaf2ba5021a0c26b97ea28d62dc28a897"
+    },
+    {
+      "sha": "db49ea9d02",
+      "message": "chore(deps): bump the patch-updates group with 3 updates (#570)",
+      "date": "2026-09-28",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/570",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/db49ea9d02e1f0fbb0be5bfdbdba0903fa581252"
+    },
+    {
       "sha": "7d45894e09",
       "message": "build(deps-dev): bump @types/node from 26.2.0 to 26.6.1 in /node/pm-and-types-tests/depend-on-glide-dependent in the minor-updates group across 1 directory (#7152)",
       "date": "2026-09-25",

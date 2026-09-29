@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 124,
+  "score": 125,
   "commit_count": 74,
-  "review_count": 50,
+  "review_count": 51,
   "repos": [
     "valkey-admin"
   ],
@@ -603,6 +603,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "41b8127a65",
+      "message": "fix: fall back to VALKEY_CA_CERT_PATH for UI-initiated connect/discovery (#535)",
+      "date": "2026-09-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/535",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/41b8127a652961576d71c5933f1346b5af2ee5c7"
+    },
     {
       "sha": "9471197b52",
       "message": "Fix K8s example seed host, and always use a node-local metrics client (#528)",

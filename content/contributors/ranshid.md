@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 312,
+  "score": 313,
   "commit_count": 96,
-  "review_count": 216,
+  "review_count": 217,
   "repos": [
     "valkey",
     "valkey-container",
@@ -786,6 +786,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ae819a9419",
+      "message": "Deflake corrupt-dump-fuzzer (#4746)",
+      "date": "2026-09-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4746",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ae819a9419bb519f1cfbab04f2213899adf78e84"
+    },
     {
       "sha": "c79f17d251",
       "message": "zset: add in-place fast path for score updates in listpack encoding (#3491)",

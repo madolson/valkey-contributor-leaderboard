@@ -2,8 +2,8 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 437,
-  "commit_count": 157,
+  "score": 438,
+  "commit_count": 158,
   "review_count": 280,
   "repos": [
     "valkey",
@@ -20,6 +20,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "094a6445e9",
+      "message": "Add benchmark_args scenario key for valkey-benchmark flag passthrough (#90)",
+      "date": "2026-09-28",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/90",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/094a6445e9b52f9bb6beb65a613c99239e8d71da"
+    },
     {
       "sha": "00c4b297eb",
       "message": "Build only changed versions in CI and remove flaky integration tests (#129)",

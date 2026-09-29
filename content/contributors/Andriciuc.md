@@ -2,8 +2,8 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 11,
-  "commit_count": 11,
+  "score": 12,
+  "commit_count": 12,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "7828d3fea5",
+      "message": "Add blog post: Monitoring Valkey with Prometheus (#627)",
+      "date": "2026-09-28",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/627",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/7828d3fea558dcc065883b5d5cb7d8f60ec97802"
+    },
     {
       "sha": "560d347b07",
       "message": "Add Rain as a blog contributor (#644)",

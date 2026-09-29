@@ -2,15 +2,39 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 154,
-  "commit_count": 49,
-  "review_count": 105,
+  "score": 159,
+  "commit_count": 52,
+  "review_count": 107,
   "repos": [
     "valkey",
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "8d302312a4",
+      "message": "Release valkey-resources 0.3.0 (#258)",
+      "date": "2026-09-28",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/258",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/8d302312a495850bf341508ae49d6eb7b0d06a80"
+    },
+    {
+      "sha": "fe15e6b1fa",
+      "message": "Release valkey-operator 0.7.0 (#257)",
+      "date": "2026-09-28",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/257",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/fe15e6b1fa418023b9b896844a2251ae42721e4e"
+    },
+    {
+      "sha": "c24c471e97",
+      "message": "fix: validate serverName without the CEL format library so the CRDs apply on Kubernetes 1.31 (#473)",
+      "date": "2026-09-28",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/473",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c24c471e972bd16a463cd5a1acdf17b38729bea2"
+    },
     {
       "sha": "0da91fef78",
       "message": "fix: roll one node at a time when upgrading from v0.6.0 (#467)",
@@ -405,6 +429,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "eba2317908",
+      "message": "fixed lint issues with go 1.26 (#479)",
+      "date": "2026-09-29",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/479",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/eba231790863fbea62beb07048402b55695d7128"
+    },
+    {
+      "sha": "e11e318cfa",
+      "message": "(feat) allow custom serviceAccountName on valkey cluster pods (#415)",
+      "date": "2026-09-29",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/415",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/e11e318cfad20afc48823a2859a92e1e21b2d1d4"
+    },
     {
       "sha": "63653552e2",
       "message": "fix: skip only the shard whose primary is unidentifiable (#452)",

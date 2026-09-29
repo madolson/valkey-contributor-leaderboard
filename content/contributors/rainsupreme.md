@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 121,
+  "score": 122,
   "commit_count": 41,
-  "review_count": 80,
+  "review_count": 81,
   "repos": [
     "valkey",
     "valkey-container",
@@ -344,6 +344,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "094a6445e9",
+      "message": "Add benchmark_args scenario key for valkey-benchmark flag passthrough (#90)",
+      "date": "2026-09-28",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/90",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/094a6445e9b52f9bb6beb65a613c99239e8d71da"
+    },
     {
       "sha": "03f0c4b99a",
       "message": "Fix sorted-set backlink test isolation (#4756)",

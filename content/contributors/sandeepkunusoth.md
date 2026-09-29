@@ -2,13 +2,29 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 63,
-  "commit_count": 26,
-  "review_count": 37,
+  "score": 66,
+  "commit_count": 28,
+  "review_count": 38,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "eba2317908",
+      "message": "fixed lint issues with go 1.26 (#479)",
+      "date": "2026-09-29",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/479",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/eba231790863fbea62beb07048402b55695d7128"
+    },
+    {
+      "sha": "e11e318cfa",
+      "message": "(feat) allow custom serviceAccountName on valkey cluster pods (#415)",
+      "date": "2026-09-29",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/415",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/e11e318cfad20afc48823a2859a92e1e21b2d1d4"
+    },
     {
       "sha": "0f06979cda",
       "message": "(feat) support Mutual TLS (mTLS) certificate-based ACL authentication (#242)",
@@ -219,6 +235,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c24c471e97",
+      "message": "fix: validate serverName without the CEL format library so the CRDs apply on Kubernetes 1.31 (#473)",
+      "date": "2026-09-28",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/473",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c24c471e972bd16a463cd5a1acdf17b38729bea2"
+    },
     {
       "sha": "9564ac8359",
       "message": "perf: tune valkey-go connections for control-plane use (#436)",

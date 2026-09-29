@@ -2,8 +2,8 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 473,
-  "commit_count": 132,
+  "score": 474,
+  "commit_count": 133,
   "review_count": 341,
   "repos": [
     ".github",
@@ -15,6 +15,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "428c136b9a",
+      "message": "fix(java): clear jedis-compat-shared javadoc errors and deprecate substr (#7191)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7191",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/428c136b9ae71bcb9143c42e8392c18324cc42e3"
+    },
     {
       "sha": "eff3ac46f7",
       "message": "ci: key the engine cache on the runner image and rebuild bad restores (#7158)",
@@ -1073,6 +1081,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4382c33eaf",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.1.0 to 10.2.0 in the minor-updates group (#571)",
+      "date": "2026-09-28",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/571",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4382c33eaf2ba5021a0c26b97ea28d62dc28a897"
+    },
+    {
+      "sha": "db49ea9d02",
+      "message": "chore(deps): bump the patch-updates group with 3 updates (#570)",
+      "date": "2026-09-28",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/570",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/db49ea9d02e1f0fbb0be5bfdbdba0903fa581252"
+    },
     {
       "sha": "8ab9c0f6d1",
       "message": "fix(java): pool-borrowed clients honor client-config timeout, credentials, and inflight limit (#7176)",

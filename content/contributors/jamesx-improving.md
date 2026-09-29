@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 307,
+  "score": 308,
   "commit_count": 83,
-  "review_count": 224,
+  "review_count": 225,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -679,6 +679,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "428c136b9a",
+      "message": "fix(java): clear jedis-compat-shared javadoc errors and deprecate substr (#7191)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7191",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/428c136b9ae71bcb9143c42e8392c18324cc42e3"
+    },
     {
       "sha": "8ab9c0f6d1",
       "message": "fix(java): pool-borrowed clients honor client-config timeout, credentials, and inflight limit (#7176)",

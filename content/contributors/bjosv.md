@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 280,
+  "score": 282,
   "commit_count": 133,
-  "review_count": 147,
+  "review_count": 149,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1079,6 +1079,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8d302312a4",
+      "message": "Release valkey-resources 0.3.0 (#258)",
+      "date": "2026-09-28",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/258",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/8d302312a495850bf341508ae49d6eb7b0d06a80"
+    },
+    {
+      "sha": "fe15e6b1fa",
+      "message": "Release valkey-operator 0.7.0 (#257)",
+      "date": "2026-09-28",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/257",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/fe15e6b1fa418023b9b896844a2251ae42721e4e"
+    },
     {
       "sha": "3284afd3c1",
       "message": "Report pending SO_ERROR when non-blocking recv returns EAGAIN (#360)",

@@ -2,13 +2,21 @@
   "title": "rezakaramad",
   "login": "rezakaramad",
   "avatar_url": "https://avatars.githubusercontent.com/u/54620712?v=4",
-  "score": 1,
-  "commit_count": 1,
+  "score": 2,
+  "commit_count": 2,
   "review_count": 0,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "41b8127a65",
+      "message": "fix: fall back to VALKEY_CA_CERT_PATH for UI-initiated connect/discovery (#535)",
+      "date": "2026-09-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/535",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/41b8127a652961576d71c5933f1346b5af2ee5c7"
+    },
     {
       "sha": "0504f3f36c",
       "message": "feat: add GCP Memorystore for Valkey IAM auth and private-CA TLS support - ISSUE-507 (#508)",

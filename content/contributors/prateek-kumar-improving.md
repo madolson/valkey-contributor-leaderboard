@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 435,
+  "score": 436,
   "commit_count": 151,
-  "review_count": 284,
+  "review_count": 285,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1223,6 +1223,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "428c136b9a",
+      "message": "fix(java): clear jedis-compat-shared javadoc errors and deprecate substr (#7191)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7191",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/428c136b9ae71bcb9143c42e8392c18324cc42e3"
+    },
     {
       "sha": "45178a1b43",
       "message": "ci(deps): bump actions/setup-java from 6.0.0 to 6.0.1 (#338)",

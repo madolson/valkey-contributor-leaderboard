@@ -2,13 +2,21 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 79,
-  "commit_count": 47,
+  "score": 80,
+  "commit_count": 48,
   "review_count": 32,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "cc6cb5e7f1",
+      "message": "Scoring: BM25STD scoring for stemming queries (#1354)",
+      "date": "2026-09-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1354",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/cc6cb5e7f194ea3ebb371fad77709b96d58a1ac4"
+    },
     {
       "sha": "ef57713911",
       "message": "Fix long-running clang-format after running integration tests (#1406)",

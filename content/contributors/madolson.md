@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 945,
+  "score": 946,
   "commit_count": 216,
-  "review_count": 729,
+  "review_count": 730,
   "repos": [
     ".github",
     "valkey",
@@ -1751,6 +1751,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "57570c2cad",
+      "message": "small post-publish fixes for 'Monitoring Valkey with Prometheus' (#681)",
+      "date": "2026-09-28",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/681",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/57570c2cad97c26c2407f255d5d1dc55fb50c7e1"
+    },
     {
       "sha": "dcc66eff8b",
       "message": "Run commands.def validation in an independent CI job (#4753)",
