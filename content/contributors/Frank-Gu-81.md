@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 25,
+  "score": 26,
   "commit_count": 10,
-  "review_count": 15,
+  "review_count": 16,
   "repos": [
     "valkey-perf-benchmark",
     "valkey-search"
@@ -92,6 +92,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0a8e615a20",
+      "message": "fixed: sort key should be nil instead of `#` when sortby is missing (#1445)",
+      "date": "2026-09-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1445",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0a8e615a20cfab6fa890457ffdc8d0a8054d4b98"
+    },
     {
       "sha": "d719c30c20",
       "message": "feat: Implement INKEYS parameter for FT.SEARCH (#967)",

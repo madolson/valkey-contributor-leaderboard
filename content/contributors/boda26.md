@@ -2,13 +2,21 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 80,
-  "commit_count": 48,
+  "score": 81,
+  "commit_count": 49,
   "review_count": 32,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "3e484a7c42",
+      "message": "Optimize regenerate.sh by using multiple workers (#1478)",
+      "date": "2026-09-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1478",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/3e484a7c42280e0dac1f2e0625d0759d3640fabf"
+    },
     {
       "sha": "cc6cb5e7f1",
       "message": "Scoring: BM25STD scoring for stemming queries (#1354)",

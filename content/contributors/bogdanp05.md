@@ -2,8 +2,8 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 54,
-  "commit_count": 9,
+  "score": 55,
+  "commit_count": 10,
   "review_count": 45,
   "repos": [
     "libvalkey-py",
@@ -14,6 +14,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "b7cd0cfbad",
+      "message": "Merge pull request #2 from valkey-io/bogdanp05/oci_valkey",
+      "date": "2026-09-29",
+      "repo": "one-time-for-planet",
+      "pr_url": "https://github.com/valkey-io/one-time-for-planet/pull/2",
+      "commit_url": "https://github.com/valkey-io/one-time-for-planet/commit/b7cd0cfbad75d1cdd44bfaa45d0a73f8d4f2c9ee"
+    },
     {
       "sha": "8fc3bbdc02",
       "message": "Lower per-field info definition log from WARNING to DEBUG (#1281)",

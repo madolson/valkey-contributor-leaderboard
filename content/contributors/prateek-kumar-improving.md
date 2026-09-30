@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 436,
-  "commit_count": 151,
-  "review_count": 285,
+  "score": 439,
+  "commit_count": 152,
+  "review_count": 287,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "dea50939fa",
+      "message": "feat(java): add HGETDEL command support (#7206)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7206",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dea50939fae44b98a96ecfb8dbfd807babd0c382"
+    },
     {
       "sha": "1bcd25349a",
       "message": "feat: add AzAffinityAllNodes read strategy (#564)",
@@ -1224,12 +1232,28 @@
   ],
   "review_list": [
     {
+      "sha": "b38ae3a2ed",
+      "message": "refactor(rust): rework the command-table parity guard as an in-crate unit test (#7230)",
+      "date": "2026-09-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7230",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b38ae3a2ede285f138f06e28d1d15e43a3c3067f"
+    },
+    {
       "sha": "428c136b9a",
       "message": "fix(java): clear jedis-compat-shared javadoc errors and deprecate substr (#7191)",
       "date": "2026-09-29",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7191",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/428c136b9ae71bcb9143c42e8392c18324cc42e3"
+    },
+    {
+      "sha": "fef1bec8c8",
+      "message": "ci(php): add PHP 8.4 and 8.5 to the supported versions matrix (#339)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/339",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/fef1bec8c849040ecd7409bdb51fc346d09e2096"
     },
     {
       "sha": "45178a1b43",

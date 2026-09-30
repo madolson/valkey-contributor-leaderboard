@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 308,
+  "score": 314,
   "commit_count": 83,
-  "review_count": 225,
+  "review_count": 231,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -686,6 +686,62 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7191",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/428c136b9ae71bcb9143c42e8392c18324cc42e3"
+    },
+    {
+      "sha": "a5ae4b3647",
+      "message": "test(python): fix test_sync_resubscribe_after_connection_kill TimeoutError in cluster mode (#6701)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6701",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a5ae4b3647e998f01fe9f8db37fefba31695ebbf"
+    },
+    {
+      "sha": "a5ae4b3647",
+      "message": "test(python): fix test_sync_resubscribe_after_connection_kill TimeoutError in cluster mode (#6701)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6701",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a5ae4b3647e998f01fe9f8db37fefba31695ebbf"
+    },
+    {
+      "sha": "dea50939fa",
+      "message": "feat(java): add HGETDEL command support (#7206)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7206",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dea50939fae44b98a96ecfb8dbfd807babd0c382"
+    },
+    {
+      "sha": "42d3d35e4b",
+      "message": "fix(ffi): preserve username-only userinfo in create_client_from_uri (#7193)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7193",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/42d3d35e4b473640418f4ac7ff42141183189ba4"
+    },
+    {
+      "sha": "fef1bec8c8",
+      "message": "ci(php): add PHP 8.4 and 8.5 to the supported versions matrix (#339)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/339",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/fef1bec8c849040ecd7409bdb51fc346d09e2096"
+    },
+    {
+      "sha": "f6225afe27",
+      "message": "test(ruby): add parameterized Pub/Sub coverage matrix (#332)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/332",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/f6225afe27fda3bb77c4bda17dd4d1c8aee18099"
+    },
+    {
+      "sha": "2a7b3b3bac",
+      "message": "chore(deps): Bump ruby/setup-ruby in the minor-updates group (#334)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/334",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/2a7b3b3bac396c6ec47dec74562c63858e89aaa4"
     },
     {
       "sha": "8ab9c0f6d1",

@@ -2,9 +2,9 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 123,
+  "score": 125,
   "commit_count": 39,
-  "review_count": 84,
+  "review_count": 86,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -327,6 +327,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "04e7934755",
+      "message": "[BUG] Fix build-dependent FT.HYBRID cosine tests failing in debug builds (#1480)",
+      "date": "2026-09-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1480",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/04e7934755ff196e3c14ebb22eb03887c5767032"
+    },
+    {
+      "sha": "41e65646fd",
+      "message": "Fix flaky test_vector_registry_advanced_coverage (#1477)",
+      "date": "2026-09-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1477",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/41e65646fd65c4919ebfc3fc53bd413b93e2fc83"
+    },
     {
       "sha": "207aa05913",
       "message": "Remove continue in OnFlushDBEnded, to async free when recreate fails (#1204)",

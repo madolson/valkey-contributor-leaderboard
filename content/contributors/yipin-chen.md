@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 820,
+  "score": 825,
   "commit_count": 45,
-  "review_count": 775,
+  "review_count": 780,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ab65e37cb5",
+      "message": "test(go): always run TLS integration tests in CI (#6748)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6748",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ab65e37cb5d861da52c101058fd81af35133eafe"
+    },
+    {
+      "sha": "dea50939fa",
+      "message": "feat(java): add HGETDEL command support (#7206)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7206",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dea50939fae44b98a96ecfb8dbfd807babd0c382"
+    },
+    {
+      "sha": "42d3d35e4b",
+      "message": "fix(ffi): preserve username-only userinfo in create_client_from_uri (#7193)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7193",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/42d3d35e4b473640418f4ac7ff42141183189ba4"
+    },
+    {
+      "sha": "4d462d3b1f",
+      "message": "docs: added Ruby pubsub (#335)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/335",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/4d462d3b1f1ea312d47c72f14183224b4063d6f3"
+    },
+    {
+      "sha": "f6225afe27",
+      "message": "test(ruby): add parameterized Pub/Sub coverage matrix (#332)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/332",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/f6225afe27fda3bb77c4bda17dd4d1c8aee18099"
+    },
     {
       "sha": "be1d7c603f",
       "message": "refactor(rust): finalize glide- crate renames and cleanup (#6905) (#7195)",

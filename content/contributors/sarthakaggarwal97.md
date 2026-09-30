@@ -2,8 +2,8 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 407,
-  "commit_count": 108,
+  "score": 409,
+  "commit_count": 110,
   "review_count": 299,
   "repos": [
     "valkey",
@@ -18,6 +18,22 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "51b3f0c879",
+      "message": "Support streaming-compressed RDB preambles in AOF (#4754)",
+      "date": "2026-09-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4754",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/51b3f0c87942cb6eb91f3320f48feca0f1de3983"
+    },
+    {
+      "sha": "7ffc744eb9",
+      "message": "Skip IO-thread Replication Compression tests under Valgrind (#4774)",
+      "date": "2026-09-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4774",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7ffc744eb9f8df4bd708d9245d96f867c70833c6"
+    },
     {
       "sha": "dcc66eff8b",
       "message": "Run commands.def validation in an independent CI job (#4753)",

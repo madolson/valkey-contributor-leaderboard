@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 116,
+  "score": 118,
   "commit_count": 42,
-  "review_count": 74,
+  "review_count": 76,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0a8e615a20",
+      "message": "fixed: sort key should be nil instead of `#` when sortby is missing (#1445)",
+      "date": "2026-09-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1445",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0a8e615a20cfab6fa890457ffdc8d0a8054d4b98"
+    },
+    {
+      "sha": "3e484a7c42",
+      "message": "Optimize regenerate.sh by using multiple workers (#1478)",
+      "date": "2026-09-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1478",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/3e484a7c42280e0dac1f2e0625d0759d3640fabf"
+    },
     {
       "sha": "cc6cb5e7f1",
       "message": "Scoring: BM25STD scoring for stemming queries (#1354)",

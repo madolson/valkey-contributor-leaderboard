@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 474,
-  "commit_count": 133,
-  "review_count": 341,
+  "score": 478,
+  "commit_count": 135,
+  "review_count": 343,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -22,6 +22,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7191",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/428c136b9ae71bcb9143c42e8392c18324cc42e3"
+    },
+    {
+      "sha": "a5ae4b3647",
+      "message": "test(python): fix test_sync_resubscribe_after_connection_kill TimeoutError in cluster mode (#6701)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6701",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a5ae4b3647e998f01fe9f8db37fefba31695ebbf"
+    },
+    {
+      "sha": "ab65e37cb5",
+      "message": "test(go): always run TLS integration tests in CI (#6748)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6748",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ab65e37cb5d861da52c101058fd81af35133eafe"
     },
     {
       "sha": "eff3ac46f7",
@@ -1081,6 +1097,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "da524608b1",
+      "message": "feat(python): propagate OpenTelemetry span context to native spans (#7069)",
+      "date": "2026-09-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7069",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/da524608b127a5691081e5e8b3cf33770fe2d8ed"
+    },
+    {
+      "sha": "b38ae3a2ed",
+      "message": "refactor(rust): rework the command-table parity guard as an in-crate unit test (#7230)",
+      "date": "2026-09-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7230",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b38ae3a2ede285f138f06e28d1d15e43a3c3067f"
+    },
     {
       "sha": "4382c33eaf",
       "message": "chore(deps): bump astral-sh/setup-uv from 10.1.0 to 10.2.0 in the minor-updates group (#571)",

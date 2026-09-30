@@ -2,13 +2,22 @@
   "title": "lightsigma96",
   "login": "lightsigma96",
   "avatar_url": "https://avatars.githubusercontent.com/u/95867159?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "5b8c7a9c20",
+      "message": "Document DELEX command (#490)",
+      "date": "2026-09-29",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/490",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/5b8c7a9c2010b88ac5c5058e7844f82287e62df9"
+    },
     {
       "sha": "7945915f53",
       "message": "Add DELEX command with conditional predicates (#4607)",

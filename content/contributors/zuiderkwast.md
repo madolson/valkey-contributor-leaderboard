@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1257,
+  "score": 1264,
   "commit_count": 154,
-  "review_count": 1103,
+  "review_count": 1110,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1254,6 +1254,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "51b3f0c879",
+      "message": "Support streaming-compressed RDB preambles in AOF (#4754)",
+      "date": "2026-09-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4754",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/51b3f0c87942cb6eb91f3320f48feca0f1de3983"
+    },
+    {
+      "sha": "51b3f0c879",
+      "message": "Support streaming-compressed RDB preambles in AOF (#4754)",
+      "date": "2026-09-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4754",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/51b3f0c87942cb6eb91f3320f48feca0f1de3983"
+    },
+    {
+      "sha": "7ffc744eb9",
+      "message": "Skip IO-thread Replication Compression tests under Valgrind (#4774)",
+      "date": "2026-09-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4774",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7ffc744eb9f8df4bd708d9245d96f867c70833c6"
+    },
+    {
+      "sha": "026d291679",
+      "message": "Fix inline protocol parser stalling on an embedded '\\0' (#4759)",
+      "date": "2026-09-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4759",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/026d291679e693ff9fb5e313a4b80b79348f4022"
+    },
+    {
+      "sha": "5b8c7a9c20",
+      "message": "Document DELEX command (#490)",
+      "date": "2026-09-29",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/490",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/5b8c7a9c2010b88ac5c5058e7844f82287e62df9"
+    },
+    {
+      "sha": "b12f73d2dd",
+      "message": "Fix typos in HEXPIRE family command docs (#494)",
+      "date": "2026-09-29",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/494",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/b12f73d2dd6e183b8ecf93e2ecb0fbec5055ad66"
+    },
+    {
+      "sha": "98c3e4ae52",
+      "message": "Fix wrong markdown hyperlink syntax in topics/hashes.md (#440)",
+      "date": "2026-09-29",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/440",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/98c3e4ae52a8d164243cdc9845e91a3ccab1f7a6"
+    },
     {
       "sha": "06d4c3b79d",
       "message": "Fix wait for slot migration completion before checking DBSIZE (#4366)",

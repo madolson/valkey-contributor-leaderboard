@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 313,
+  "score": 314,
   "commit_count": 96,
-  "review_count": 217,
+  "review_count": 218,
   "repos": [
     "valkey",
     "valkey-container",
@@ -786,6 +786,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b12f73d2dd",
+      "message": "Fix typos in HEXPIRE family command docs (#494)",
+      "date": "2026-09-29",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/494",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/b12f73d2dd6e183b8ecf93e2ecb0fbec5055ad66"
+    },
     {
       "sha": "ae819a9419",
       "message": "Deflake corrupt-dump-fuzzer (#4746)",

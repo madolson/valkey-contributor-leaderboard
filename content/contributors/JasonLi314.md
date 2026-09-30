@@ -2,13 +2,21 @@
   "title": "JasonLi314",
   "login": "JasonLi314",
   "avatar_url": "https://avatars.githubusercontent.com/u/47095666?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "0a8e615a20",
+      "message": "fixed: sort key should be nil instead of `#` when sortby is missing (#1445)",
+      "date": "2026-09-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1445",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0a8e615a20cfab6fa890457ffdc8d0a8054d4b98"
+    },
     {
       "sha": "6428b669ba",
       "message": "Bug fix: only last RETURN in SEARCH should be effective (#1389)",

@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 323,
-  "commit_count": 190,
+  "score": 325,
+  "commit_count": 192,
   "review_count": 133,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "b38ae3a2ed",
+      "message": "refactor(rust): rework the command-table parity guard as an in-crate unit test (#7230)",
+      "date": "2026-09-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7230",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b38ae3a2ede285f138f06e28d1d15e43a3c3067f"
+    },
+    {
+      "sha": "4832868990",
+      "message": "test(rust): fail instead of silently skipping when no test server is available (#7224)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7224",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4832868990bf043baaa068d84ef5d0eb7d11e5db"
+    },
     {
       "sha": "be1d7c603f",
       "message": "refactor(rust): finalize glide- crate renames and cleanup (#6905) (#7195)",

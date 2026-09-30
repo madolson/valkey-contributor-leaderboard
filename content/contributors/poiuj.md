@@ -2,13 +2,22 @@
   "title": "poiuj",
   "login": "poiuj",
   "avatar_url": "https://avatars.githubusercontent.com/u/1099644?v=4",
-  "score": 8,
-  "commit_count": 8,
+  "score": 9,
+  "commit_count": 9,
   "review_count": 0,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "b12f73d2dd",
+      "message": "Fix typos in HEXPIRE family command docs (#494)",
+      "date": "2026-09-29",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/494",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/b12f73d2dd6e183b8ecf93e2ecb0fbec5055ad66"
+    },
     {
       "sha": "ad3b33e3ba",
       "message": "cmake: Fix missing release_header dependency for cli, benchmark, and gtest (#3683)",

@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 159,
+  "score": 160,
   "commit_count": 52,
-  "review_count": 107,
+  "review_count": 108,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -444,6 +444,14 @@
       "repo": "valkey-operator",
       "pr_url": "https://github.com/valkey-io/valkey-operator/pull/415",
       "commit_url": "https://github.com/valkey-io/valkey-operator/commit/e11e318cfad20afc48823a2859a92e1e21b2d1d4"
+    },
+    {
+      "sha": "ff451218bc",
+      "message": "fix: let the exporter user probe and read COMMANDLOG (#481)",
+      "date": "2026-09-29",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/481",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/ff451218bc554077ef5842dcad2067d870b16978"
     },
     {
       "sha": "63653552e2",

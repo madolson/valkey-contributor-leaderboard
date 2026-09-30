@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 40,
+  "score": 41,
   "commit_count": 9,
-  "review_count": 31,
+  "review_count": 32,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4832868990",
+      "message": "test(rust): fail instead of silently skipping when no test server is available (#7224)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7224",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4832868990bf043baaa068d84ef5d0eb7d11e5db"
+    },
     {
       "sha": "03dcd4ae97",
       "message": "fix(pool): eliminate abandon monitor race for blocking commands (#6971) (#7063)",

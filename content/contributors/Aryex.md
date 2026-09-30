@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 288,
-  "commit_count": 101,
-  "review_count": 187,
+  "score": 293,
+  "commit_count": 104,
+  "review_count": 189,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,30 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "42d3d35e4b",
+      "message": "fix(ffi): preserve username-only userinfo in create_client_from_uri (#7193)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7193",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/42d3d35e4b473640418f4ac7ff42141183189ba4"
+    },
+    {
+      "sha": "4d462d3b1f",
+      "message": "docs: added Ruby pubsub (#335)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/335",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/4d462d3b1f1ea312d47c72f14183224b4063d6f3"
+    },
+    {
+      "sha": "f6225afe27",
+      "message": "test(ruby): add parameterized Pub/Sub coverage matrix (#332)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/332",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/f6225afe27fda3bb77c4bda17dd4d1c8aee18099"
+    },
     {
       "sha": "500d06287e",
       "message": "feat(ruby): enable Pub/Sub commands in pipeline and multi (#329)",
@@ -826,6 +850,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a5ae4b3647",
+      "message": "test(python): fix test_sync_resubscribe_after_connection_kill TimeoutError in cluster mode (#6701)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6701",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a5ae4b3647e998f01fe9f8db37fefba31695ebbf"
+    },
+    {
+      "sha": "4832868990",
+      "message": "test(rust): fail instead of silently skipping when no test server is available (#7224)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7224",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4832868990bf043baaa068d84ef5d0eb7d11e5db"
+    },
+    {
+      "sha": "2a7b3b3bac",
+      "message": "chore(deps): Bump ruby/setup-ruby in the minor-updates group (#334)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/334",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/2a7b3b3bac396c6ec47dec74562c63858e89aaa4"
+    },
     {
       "sha": "84294260d6",
       "message": "chore(deps): Bump dtolnay/rust-toolchain (#327)",

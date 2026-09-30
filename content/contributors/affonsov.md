@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 289,
+  "score": 291,
   "commit_count": 100,
-  "review_count": 189,
+  "review_count": 191,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -815,6 +815,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "da524608b1",
+      "message": "feat(python): propagate OpenTelemetry span context to native spans (#7069)",
+      "date": "2026-09-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7069",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/da524608b127a5691081e5e8b3cf33770fe2d8ed"
+    },
+    {
+      "sha": "ab65e37cb5",
+      "message": "test(go): always run TLS integration tests in CI (#6748)",
+      "date": "2026-09-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6748",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ab65e37cb5d861da52c101058fd81af35133eafe"
+    },
     {
       "sha": "500d06287e",
       "message": "feat(ruby): enable Pub/Sub commands in pipeline and multi (#329)",

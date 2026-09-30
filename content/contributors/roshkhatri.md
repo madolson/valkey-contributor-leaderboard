@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 438,
+  "score": 439,
   "commit_count": 158,
-  "review_count": 280,
+  "review_count": 281,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1286,6 +1286,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7ffc744eb9",
+      "message": "Skip IO-thread Replication Compression tests under Valgrind (#4774)",
+      "date": "2026-09-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4774",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7ffc744eb9f8df4bd708d9245d96f867c70833c6"
+    },
     {
       "sha": "f2bcd083dc",
       "message": "ZSTD Support for Streaming Compression  (#3798)",

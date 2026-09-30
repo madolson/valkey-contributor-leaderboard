@@ -2,14 +2,22 @@
   "title": "cjx-zar",
   "login": "cjx-zar",
   "avatar_url": "https://avatars.githubusercontent.com/u/56825069?v=4",
-  "score": 10,
-  "commit_count": 9,
+  "score": 11,
+  "commit_count": 10,
   "review_count": 1,
   "repos": [
     "valkey",
     "valkey-bloom"
   ],
   "commit_list": [
+    {
+      "sha": "026d291679",
+      "message": "Fix inline protocol parser stalling on an embedded '\\0' (#4759)",
+      "date": "2026-09-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4759",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/026d291679e693ff9fb5e313a4b80b79348f4022"
+    },
     {
       "sha": "527a382220",
       "message": "Fix FIELDS token validation for HPERSIST and HTTL family commands (#4300)",

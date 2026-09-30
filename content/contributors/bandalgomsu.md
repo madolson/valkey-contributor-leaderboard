@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 26,
-  "commit_count": 26,
+  "score": 27,
+  "commit_count": 27,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "41e65646fd",
+      "message": "Fix flaky test_vector_registry_advanced_coverage (#1477)",
+      "date": "2026-09-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1477",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/41e65646fd65c4919ebfc3fc53bd413b93e2fc83"
+    },
     {
       "sha": "06d4c3b79d",
       "message": "Fix wait for slot migration completion before checking DBSIZE (#4366)",

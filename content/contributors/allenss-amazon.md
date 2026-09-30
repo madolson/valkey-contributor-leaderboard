@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 329,
-  "commit_count": 85,
-  "review_count": 244,
+  "score": 331,
+  "commit_count": 86,
+  "review_count": 245,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "04e7934755",
+      "message": "[BUG] Fix build-dependent FT.HYBRID cosine tests failing in debug builds (#1480)",
+      "date": "2026-09-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1480",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/04e7934755ff196e3c14ebb22eb03887c5767032"
+    },
     {
       "sha": "cad3560558",
       "message": "Add WITHCURSOR to FT.AGGREGATE and FT.SEARCH, and the FT.CURSOR command (#1394)",
@@ -695,6 +703,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0a8e615a20",
+      "message": "fixed: sort key should be nil instead of `#` when sortby is missing (#1445)",
+      "date": "2026-09-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1445",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0a8e615a20cfab6fa890457ffdc8d0a8054d4b98"
+    },
     {
       "sha": "20f414ee1e",
       "message": "Accept NOHL and SORTABLE UNF in FT.CREATE, and report sortable/unf in FT.INFO (#1395)",
