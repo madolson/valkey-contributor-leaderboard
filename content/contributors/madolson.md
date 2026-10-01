@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 946,
+  "score": 948,
   "commit_count": 216,
-  "review_count": 730,
+  "review_count": 732,
   "repos": [
     ".github",
     "valkey",
@@ -1751,6 +1751,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2783842743",
+      "message": "Fix IO thread shutdown cleanup leak (#4710)",
+      "date": "2026-10-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4710",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2783842743ef76827347af8375ff9b5f0b39b704"
+    },
+    {
+      "sha": "1e2f6a3041",
+      "message": "Community Page Revamp (#660)",
+      "date": "2026-09-30",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/660",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/1e2f6a304184f548b8817d07199914270978ff7f"
+    },
     {
       "sha": "57570c2cad",
       "message": "small post-publish fixes for 'Monitoring Valkey with Prometheus' (#681)",

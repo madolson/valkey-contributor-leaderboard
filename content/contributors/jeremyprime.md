@@ -2,8 +2,8 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 253,
-  "commit_count": 74,
+  "score": 254,
+  "commit_count": 75,
   "review_count": 179,
   "repos": [
     "spring-data-valkey",
@@ -13,6 +13,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "7afe98e8e4",
+      "message": "fix(core): re-authenticate pool-borrowed clients with a rotated IAM token on borrow (#7155)",
+      "date": "2026-09-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7155",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7afe98e8e4276b3d1689538aa0b9f1ad9641d1be"
+    },
     {
       "sha": "8ab9c0f6d1",
       "message": "fix(java): pool-borrowed clients honor client-config timeout, credentials, and inflight limit (#7176)",

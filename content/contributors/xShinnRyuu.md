@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 478,
+  "score": 481,
   "commit_count": 135,
-  "review_count": 343,
+  "review_count": 346,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -1112,6 +1112,30 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7230",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b38ae3a2ede285f138f06e28d1d15e43a3c3067f"
+    },
+    {
+      "sha": "614e9c2b19",
+      "message": "test(python): fail session on unexpected cluster skips (#7127)",
+      "date": "2026-09-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7127",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/614e9c2b190db48862b25851545dce39cec880bd"
+    },
+    {
+      "sha": "7afe98e8e4",
+      "message": "fix(core): re-authenticate pool-borrowed clients with a rotated IAM token on borrow (#7155)",
+      "date": "2026-09-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7155",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7afe98e8e4276b3d1689538aa0b9f1ad9641d1be"
+    },
+    {
+      "sha": "86aea18a30",
+      "message": "chore(deps): Update yoke-derive to 0.8.4 (0.8.3 yanked) (#7248)",
+      "date": "2026-09-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7248",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/86aea18a3039516868dfcb5cd0da9937ec3a2f2c"
     },
     {
       "sha": "4382c33eaf",

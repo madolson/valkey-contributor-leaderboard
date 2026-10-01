@@ -2,8 +2,8 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 439,
-  "commit_count": 158,
+  "score": 441,
+  "commit_count": 160,
   "review_count": 281,
   "repos": [
     "valkey",
@@ -20,6 +20,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "2783842743",
+      "message": "Fix IO thread shutdown cleanup leak (#4710)",
+      "date": "2026-10-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4710",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2783842743ef76827347af8375ff9b5f0b39b704"
+    },
+    {
+      "sha": "936a6cd187",
+      "message": "Let custom-server-configs override non-protected server defaults (#93)",
+      "date": "2026-09-30",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/93",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/936a6cd1874b52641e65f72b09a86165855b5293"
+    },
     {
       "sha": "094a6445e9",
       "message": "Add benchmark_args scenario key for valkey-benchmark flag passthrough (#90)",

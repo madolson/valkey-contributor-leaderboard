@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 122,
+  "score": 124,
   "commit_count": 41,
-  "review_count": 81,
+  "review_count": 83,
   "repos": [
     "valkey",
     "valkey-container",
@@ -344,6 +344,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3293091659",
+      "message": "Fix valkey-benchmark spin on would-block writes (#4567)",
+      "date": "2026-09-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4567",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3293091659be29ae2df8ee110409370d4563ef74"
+    },
+    {
+      "sha": "936a6cd187",
+      "message": "Let custom-server-configs override non-protected server defaults (#93)",
+      "date": "2026-09-30",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/93",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/936a6cd1874b52641e65f72b09a86165855b5293"
+    },
     {
       "sha": "094a6445e9",
       "message": "Add benchmark_args scenario key for valkey-benchmark flag passthrough (#90)",

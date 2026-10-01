@@ -2,9 +2,9 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 109,
+  "score": 110,
   "commit_count": 68,
-  "review_count": 41,
+  "review_count": 42,
   "repos": [
     "valkey",
     "valkey-ci-agent",
@@ -557,6 +557,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2c41b1e412",
+      "message": "optimized pickle regen from 5 minutes to 15 seconds (#1486)",
+      "date": "2026-09-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1486",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2c41b1e412fa5dc6f127b093b58bdcef74784a41"
+    },
     {
       "sha": "20757bae45",
       "message": "RFC for multi-language support in FTS (#1279)",

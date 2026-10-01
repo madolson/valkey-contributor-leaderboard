@@ -2,9 +2,9 @@
   "title": "rlunar",
   "login": "rlunar",
   "avatar_url": "https://avatars.githubusercontent.com/u/2453805?v=4",
-  "score": 21,
+  "score": 22,
   "commit_count": 12,
-  "review_count": 9,
+  "review_count": 10,
   "repos": [
     "valkey-bundle",
     "valkey-io.github.io",
@@ -109,6 +109,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1e2f6a3041",
+      "message": "Community Page Revamp (#660)",
+      "date": "2026-09-30",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/660",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/1e2f6a304184f548b8817d07199914270978ff7f"
+    },
     {
       "sha": "19d45e0941",
       "message": "Add blog post: Finding big keys in a running Valkey cluster with Valkey Admin (#651)",

@@ -2,9 +2,9 @@
   "title": "Nivesh-01",
   "login": "Nivesh-01",
   "avatar_url": "https://avatars.githubusercontent.com/u/110855046?v=4",
-  "score": 21,
+  "score": 22,
   "commit_count": 19,
-  "review_count": 2,
+  "review_count": 3,
   "repos": [
     "valkey-search"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7687ca2e92",
+      "message": "Skip metadata reconciliation after replica demotion (#1304)",
+      "date": "2026-09-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1304",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7687ca2e92ccb9eecbeb65b1fec22f5e79a00a8c"
+    },
     {
       "sha": "3e3825c019",
       "message": "Revise handling of keys with fields with invalid values to match Redisearch (#1155)",

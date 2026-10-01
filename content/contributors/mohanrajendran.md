@@ -2,13 +2,21 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 14,
-  "commit_count": 2,
+  "score": 15,
+  "commit_count": 3,
   "review_count": 12,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "7687ca2e92",
+      "message": "Skip metadata reconciliation after replica demotion (#1304)",
+      "date": "2026-09-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1304",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7687ca2e92ccb9eecbeb65b1fec22f5e79a00a8c"
+    },
     {
       "sha": "bbafc3dd09",
       "message": "Skip reviewer triage board workflow in forks (#1359)",

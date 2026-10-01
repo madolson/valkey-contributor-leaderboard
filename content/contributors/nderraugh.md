@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 41,
-  "commit_count": 9,
-  "review_count": 32,
+  "score": 43,
+  "commit_count": 10,
+  "review_count": 33,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "86aea18a30",
+      "message": "chore(deps): Update yoke-derive to 0.8.4 (0.8.3 yanked) (#7248)",
+      "date": "2026-09-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7248",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/86aea18a3039516868dfcb5cd0da9937ec3a2f2c"
+    },
     {
       "sha": "cfd7806727",
       "message": "refactor(python): hoist cluster skip helper into require_cluster_addresses (#7114)",
@@ -87,6 +95,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "614e9c2b19",
+      "message": "test(python): fail session on unexpected cluster skips (#7127)",
+      "date": "2026-09-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7127",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/614e9c2b190db48862b25851545dce39cec880bd"
+    },
     {
       "sha": "4832868990",
       "message": "test(rust): fail instead of silently skipping when no test server is available (#7224)",

@@ -2,14 +2,22 @@
   "title": "poiuj",
   "login": "poiuj",
   "avatar_url": "https://avatars.githubusercontent.com/u/1099644?v=4",
-  "score": 9,
-  "commit_count": 9,
+  "score": 10,
+  "commit_count": 10,
   "review_count": 0,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "28ecc51424",
+      "message": "Fix HEXPIRE family command summaries (#4783)",
+      "date": "2026-10-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4783",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/28ecc514244025719263730a06cb362020705c00"
+    },
     {
       "sha": "b12f73d2dd",
       "message": "Fix typos in HEXPIRE family command docs (#494)",

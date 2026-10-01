@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 293,
+  "score": 294,
   "commit_count": 104,
-  "review_count": 189,
+  "review_count": 190,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -850,6 +850,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "86aea18a30",
+      "message": "chore(deps): Update yoke-derive to 0.8.4 (0.8.3 yanked) (#7248)",
+      "date": "2026-09-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7248",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/86aea18a3039516868dfcb5cd0da9937ec3a2f2c"
+    },
     {
       "sha": "a5ae4b3647",
       "message": "test(python): fix test_sync_resubscribe_after_connection_kill TimeoutError in cluster mode (#6701)",

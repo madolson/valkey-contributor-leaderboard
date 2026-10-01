@@ -2,13 +2,21 @@
   "title": "mtuteja-git",
   "login": "mtuteja-git",
   "avatar_url": "https://avatars.githubusercontent.com/u/93806838?v=4",
-  "score": 6,
-  "commit_count": 4,
+  "score": 7,
+  "commit_count": 5,
   "review_count": 2,
   "repos": [
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "1e2f6a3041",
+      "message": "Community Page Revamp (#660)",
+      "date": "2026-09-30",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/660",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/1e2f6a304184f548b8817d07199914270978ff7f"
+    },
     {
       "sha": "710a321fbe",
       "message": "Update 2026 events calendar (#587)",

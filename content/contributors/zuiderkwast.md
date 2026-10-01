@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1264,
+  "score": 1266,
   "commit_count": 154,
-  "review_count": 1110,
+  "review_count": 1112,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1254,6 +1254,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3293091659",
+      "message": "Fix valkey-benchmark spin on would-block writes (#4567)",
+      "date": "2026-09-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4567",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3293091659be29ae2df8ee110409370d4563ef74"
+    },
+    {
+      "sha": "4852e820d0",
+      "message": "Document SET IFNE option (#477)",
+      "date": "2026-09-30",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/477",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/4852e820d09315c7417ac2902759dd90d662543d"
+    },
     {
       "sha": "51b3f0c879",
       "message": "Support streaming-compressed RDB preambles in AOF (#4754)",

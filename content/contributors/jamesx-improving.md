@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 314,
+  "score": 316,
   "commit_count": 83,
-  "review_count": 231,
+  "review_count": 233,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -679,6 +679,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7afe98e8e4",
+      "message": "fix(core): re-authenticate pool-borrowed clients with a rotated IAM token on borrow (#7155)",
+      "date": "2026-09-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7155",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7afe98e8e4276b3d1689538aa0b9f1ad9641d1be"
+    },
+    {
+      "sha": "7afe98e8e4",
+      "message": "fix(core): re-authenticate pool-borrowed clients with a rotated IAM token on borrow (#7155)",
+      "date": "2026-09-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7155",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7afe98e8e4276b3d1689538aa0b9f1ad9641d1be"
+    },
     {
       "sha": "428c136b9a",
       "message": "fix(java): clear jedis-compat-shared javadoc errors and deprecate substr (#7191)",

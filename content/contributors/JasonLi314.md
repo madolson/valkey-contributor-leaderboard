@@ -2,13 +2,21 @@
   "title": "JasonLi314",
   "login": "JasonLi314",
   "avatar_url": "https://avatars.githubusercontent.com/u/47095666?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "2c41b1e412",
+      "message": "optimized pickle regen from 5 minutes to 15 seconds (#1486)",
+      "date": "2026-09-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1486",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2c41b1e412fa5dc6f127b093b58bdcef74784a41"
+    },
     {
       "sha": "0a8e615a20",
       "message": "fixed: sort key should be nil instead of `#` when sortby is missing (#1445)",

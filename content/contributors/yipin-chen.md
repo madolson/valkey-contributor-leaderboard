@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 825,
+  "score": 826,
   "commit_count": 45,
-  "review_count": 780,
+  "review_count": 781,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7afe98e8e4",
+      "message": "fix(core): re-authenticate pool-borrowed clients with a rotated IAM token on borrow (#7155)",
+      "date": "2026-09-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7155",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7afe98e8e4276b3d1689538aa0b9f1ad9641d1be"
+    },
     {
       "sha": "ab65e37cb5",
       "message": "test(go): always run TLS integration tests in CI (#6748)",

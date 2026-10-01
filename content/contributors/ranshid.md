@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 314,
+  "score": 315,
   "commit_count": 96,
-  "review_count": 218,
+  "review_count": 219,
   "repos": [
     "valkey",
     "valkey-container",
@@ -786,6 +786,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "28ecc51424",
+      "message": "Fix HEXPIRE family command summaries (#4783)",
+      "date": "2026-10-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4783",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/28ecc514244025719263730a06cb362020705c00"
+    },
     {
       "sha": "b12f73d2dd",
       "message": "Fix typos in HEXPIRE family command docs (#494)",

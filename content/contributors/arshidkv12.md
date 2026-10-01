@@ -2,13 +2,22 @@
   "title": "arshidkv12",
   "login": "arshidkv12",
   "avatar_url": "https://avatars.githubusercontent.com/u/6806645?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "4852e820d0",
+      "message": "Document SET IFNE option (#477)",
+      "date": "2026-09-30",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/477",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/4852e820d09315c7417ac2902759dd90d662543d"
+    },
     {
       "sha": "9ab664158a",
       "message": "SET: add IFNE conditional option (#3105)",

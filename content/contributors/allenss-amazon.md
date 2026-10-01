@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 331,
+  "score": 332,
   "commit_count": 86,
-  "review_count": 245,
+  "review_count": 246,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -703,6 +703,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7687ca2e92",
+      "message": "Skip metadata reconciliation after replica demotion (#1304)",
+      "date": "2026-09-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1304",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7687ca2e92ccb9eecbeb65b1fec22f5e79a00a8c"
+    },
     {
       "sha": "0a8e615a20",
       "message": "fixed: sort key should be nil instead of `#` when sortby is missing (#1445)",

@@ -2,9 +2,9 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 58,
+  "score": 59,
   "commit_count": 25,
-  "review_count": 33,
+  "review_count": 34,
   "repos": [
     "valkey",
     "valkey-perf-benchmark",
@@ -214,6 +214,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7687ca2e92",
+      "message": "Skip metadata reconciliation after replica demotion (#1304)",
+      "date": "2026-09-30",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1304",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7687ca2e92ccb9eecbeb65b1fec22f5e79a00a8c"
+    },
     {
       "sha": "b8d5f269ba",
       "message": "fix search benchmark dependency issue (#92)",
