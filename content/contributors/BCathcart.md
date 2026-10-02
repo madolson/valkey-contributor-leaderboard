@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 118,
+  "score": 119,
   "commit_count": 42,
-  "review_count": 76,
+  "review_count": 77,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0cbca0e607",
+      "message": "Fix GROUPBY 0 being rejected in FT.AGGREGATE (#1464)",
+      "date": "2026-10-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1464",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0cbca0e6077efe1de91d428312f4e013943648b8"
+    },
     {
       "sha": "0a8e615a20",
       "message": "fixed: sort key should be nil instead of `#` when sortby is missing (#1445)",

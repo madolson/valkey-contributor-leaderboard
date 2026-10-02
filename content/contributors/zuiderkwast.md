@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1266,
+  "score": 1268,
   "commit_count": 154,
-  "review_count": 1112,
+  "review_count": 1114,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1254,6 +1254,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f4cbd1c5ef",
+      "message": "fix: Reject module writes during client pause to prevent crash (#3645)",
+      "date": "2026-10-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3645",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f4cbd1c5ef06f0dd574799a0a6ab5f5bf57c82a5"
+    },
+    {
+      "sha": "2a823011bd",
+      "message": "Resolve slot from key for module and arbitrary-key commands (#4424)",
+      "date": "2026-10-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4424",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2a823011bd69e067f652c34bc5939320923bb220"
+    },
     {
       "sha": "3293091659",
       "message": "Fix valkey-benchmark spin on would-block writes (#4567)",

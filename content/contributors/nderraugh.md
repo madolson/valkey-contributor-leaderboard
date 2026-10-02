@@ -2,8 +2,8 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 43,
-  "commit_count": 10,
+  "score": 44,
+  "commit_count": 11,
   "review_count": 33,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "a5a20a1365",
+      "message": "fix(rust): allow deprecated fetch_update until MSRV reaches 1.95 (#7253)",
+      "date": "2026-10-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7253",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a5a20a136577569e19e2f7538dd0fe890377f362"
+    },
     {
       "sha": "86aea18a30",
       "message": "chore(deps): Update yoke-derive to 0.8.4 (0.8.3 yanked) (#7248)",

@@ -186831,6 +186831,252 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1304"
+    },
+    {
+      "sha": "f4cbd1c5ef06f0dd574799a0a6ab5f5bf57c82a5",
+      "author_login": "smkher",
+      "author_id": 3863574,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3863574?v=4",
+      "message": "fix: Reject module writes during client pause to prevent crash (#3645)",
+      "date": "2026-10-01T14:18:22Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-09-29T10:56:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3645"
+    },
+    {
+      "sha": "2a823011bd69e067f652c34bc5939320923bb220",
+      "author_login": "patrickswedish",
+      "author_id": 233187023,
+      "avatar_url": "https://avatars.githubusercontent.com/u/233187023?v=4",
+      "message": "Resolve slot from key for module and arbitrary-key commands (#4424)",
+      "date": "2026-10-01T14:13:42Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-09-24T10:31:55Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4424"
+    },
+    {
+      "sha": "7a38108a0fa89e64a4eba5a30bb36d6310810692",
+      "author_login": "ArgusLi",
+      "author_id": 43020525,
+      "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
+      "message": "Add more detail for utilization and refresh rate in Cluster Topology documentation (#543)",
+      "date": "2026-10-01T23:20:28Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ravjotbrar",
+          "date": "2026-10-01T23:17:12Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/543"
+    },
+    {
+      "sha": "cb34ef5ef1182c7e2ce994f1e0aec3dba6a8cc19",
+      "author_login": "nassery318",
+      "author_id": 86083902,
+      "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
+      "message": "updated cluster toplogy documentation for new view (#542)",
+      "date": "2026-10-01T16:34:07Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ArgusLi",
+          "date": "2026-10-01T16:31:50Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/542"
+    },
+    {
+      "sha": "6c1b58151b36555de2547324ece41b3f8e774ec3",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Pin SERVER_CFLAGS on the Valkey backport baseline build (#117)",
+      "date": "2026-10-01T21:27:39Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f5f4474257c25c1f98983cd0946ca050f723ef08",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "feat(node): add HGETDEL command support (#7240)",
+      "date": "2026-10-01T18:43:19Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-09-29T23:21:39Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-09-30T01:14:05Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7240"
+    },
+    {
+      "sha": "86e349014bc8358b822f8b8fb703a509b3ae9af7",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Fix flaky test: ClusterClientTests password reconnection with ACL user (#6056)",
+      "date": "2026-10-01T17:21:01Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-07-21T17:59:15Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-07-31T16:05:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6056"
+    },
+    {
+      "sha": "a5a20a136577569e19e2f7538dd0fe890377f362",
+      "author_login": "nderraugh",
+      "author_id": 970382,
+      "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
+      "message": "fix(rust): allow deprecated fetch_update until MSRV reaches 1.95 (#7253)",
+      "date": "2026-10-01T17:12:22Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-10-01T16:15:23Z"
+        },
+        {
+          "login": "currantw",
+          "date": "2026-10-01T16:37:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7253"
+    },
+    {
+      "sha": "a4c76325142dffdbb6e3ca756a6a5159e9a05011",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "feat(go): add HGETDEL command support (#7207)",
+      "date": "2026-10-01T16:41:35Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-09-29T22:50:38Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-09-30T01:16:04Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7207"
+    },
+    {
+      "sha": "edd43e67cf1c51cf2be255a643b71fbc49090a96",
+      "author_login": "edithturn",
+      "author_id": 58795858,
+      "avatar_url": "https://avatars.githubusercontent.com/u/58795858?v=4",
+      "message": "Update call to action in Valkey Prometheus exporters blog post (#684)",
+      "date": "2026-10-01T19:46:24Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "stockholmux",
+          "date": "2026-10-01T19:46:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/684"
+    },
+    {
+      "sha": "6ad54c2b27539fcc8b149697a1991f9246ec227d",
+      "author_login": "hieu2102",
+      "author_id": 13182932,
+      "avatar_url": "https://avatars.githubusercontent.com/u/13182932?v=4",
+      "message": "Update README.md",
+      "date": "2026-10-01T07:08:10Z",
+      "repo": "valkey-ldap",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "2067c73a76bdd70ba74fd8b6716b75fc1ed8120a",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump docker/setup-buildx-action from 4.3.0 to 4.4.1 (#497)",
+      "date": "2026-10-01T22:41:54Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-10-01T22:41:21Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/497"
+    },
+    {
+      "sha": "73114ff66c46fd2a01f8eff3ee3edded70e39a06",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump docker/build-push-action from 7.3.0 to 7.4.0 (#498)",
+      "date": "2026-10-01T21:53:01Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-10-01T21:52:18Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/498"
+    },
+    {
+      "sha": "0cbca0e6077efe1de91d428312f4e013943648b8",
+      "author_login": "bandalgomsu",
+      "author_id": 121839239,
+      "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
+      "message": "Fix GROUPBY 0 being rejected in FT.AGGREGATE (#1464)",
+      "date": "2026-10-02T00:17:39Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "BCathcart",
+          "date": "2026-10-02T00:17:31Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1464"
+    },
+    {
+      "sha": "c24e745818604649df079e25aa7b9d93218c089b",
+      "author_login": "yairgott",
+      "author_id": 19560967,
+      "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
+      "message": "perf: Restore HNSW ingestion and search throughput to 1.2 levels (#1487)",
+      "date": "2026-10-01T13:56:44Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-10-01T00:15:47Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1487"
     }
   ]
 }

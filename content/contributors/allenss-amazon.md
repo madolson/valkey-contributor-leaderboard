@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 332,
+  "score": 333,
   "commit_count": 86,
-  "review_count": 246,
+  "review_count": 247,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -703,6 +703,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c24e745818",
+      "message": "perf: Restore HNSW ingestion and search throughput to 1.2 levels (#1487)",
+      "date": "2026-10-01",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1487",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c24e745818604649df079e25aa7b9d93218c089b"
+    },
     {
       "sha": "7687ca2e92",
       "message": "Skip metadata reconciliation after replica demotion (#1304)",

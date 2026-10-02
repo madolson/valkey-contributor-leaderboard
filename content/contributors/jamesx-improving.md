@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 316,
+  "score": 318,
   "commit_count": 83,
-  "review_count": 233,
+  "review_count": 235,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -679,6 +679,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f5f4474257",
+      "message": "feat(node): add HGETDEL command support (#7240)",
+      "date": "2026-10-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7240",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f5f4474257c25c1f98983cd0946ca050f723ef08"
+    },
+    {
+      "sha": "a4c7632514",
+      "message": "feat(go): add HGETDEL command support (#7207)",
+      "date": "2026-10-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7207",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a4c76325142dffdbb6e3ca756a6a5159e9a05011"
+    },
     {
       "sha": "7afe98e8e4",
       "message": "fix(core): re-authenticate pool-borrowed clients with a rotated IAM token on borrow (#7155)",

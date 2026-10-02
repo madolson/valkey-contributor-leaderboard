@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 291,
+  "score": 292,
   "commit_count": 100,
-  "review_count": 191,
+  "review_count": 192,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -815,6 +815,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "86e349014b",
+      "message": "Fix flaky test: ClusterClientTests password reconnection with ACL user (#6056)",
+      "date": "2026-10-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6056",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/86e349014bc8358b822f8b8fb703a509b3ae9af7"
+    },
     {
       "sha": "da524608b1",
       "message": "feat(python): propagate OpenTelemetry span context to native spans (#7069)",

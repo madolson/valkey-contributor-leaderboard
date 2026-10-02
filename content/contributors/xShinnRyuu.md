@@ -2,8 +2,8 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 481,
-  "commit_count": 135,
+  "score": 482,
+  "commit_count": 136,
   "review_count": 346,
   "repos": [
     ".github",
@@ -15,6 +15,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "86e349014b",
+      "message": "Fix flaky test: ClusterClientTests password reconnection with ACL user (#6056)",
+      "date": "2026-10-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6056",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/86e349014bc8358b822f8b8fb703a509b3ae9af7"
+    },
     {
       "sha": "428c136b9a",
       "message": "fix(java): clear jedis-compat-shared javadoc errors and deprecate substr (#7191)",

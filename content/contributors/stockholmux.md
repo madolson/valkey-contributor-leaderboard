@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 149,
+  "score": 150,
   "commit_count": 19,
-  "review_count": 130,
+  "review_count": 131,
   "repos": [
     "valkey",
     "valkey-container",
@@ -167,6 +167,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "edd43e67cf",
+      "message": "Update call to action in Valkey Prometheus exporters blog post (#684)",
+      "date": "2026-10-01",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/684",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/edd43e67cf1c51cf2be255a643b71fbc49090a96"
+    },
     {
       "sha": "7828d3fea5",
       "message": "Add blog post: Monitoring Valkey with Prometheus (#627)",

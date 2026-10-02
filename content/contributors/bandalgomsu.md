@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 27,
-  "commit_count": 27,
+  "score": 28,
+  "commit_count": 28,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "0cbca0e607",
+      "message": "Fix GROUPBY 0 being rejected in FT.AGGREGATE (#1464)",
+      "date": "2026-10-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1464",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/0cbca0e6077efe1de91d428312f4e013943648b8"
+    },
     {
       "sha": "41e65646fd",
       "message": "Fix flaky test_vector_registry_advanced_coverage (#1477)",

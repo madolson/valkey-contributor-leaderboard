@@ -2,13 +2,21 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 126,
-  "commit_count": 74,
-  "review_count": 52,
+  "score": 128,
+  "commit_count": 75,
+  "review_count": 53,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "7a38108a0f",
+      "message": "Add more detail for utilization and refresh rate in Cluster Topology documentation (#543)",
+      "date": "2026-10-01",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/543",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/7a38108a0fa89e64a4eba5a30bb36d6310810692"
+    },
     {
       "sha": "b85b66e842",
       "message": "Update header name. (#539)",
@@ -603,6 +611,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cb34ef5ef1",
+      "message": "updated cluster toplogy documentation for new view (#542)",
+      "date": "2026-10-01",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/542",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/cb34ef5ef1182c7e2ce994f1e0aec3dba6a8cc19"
+    },
     {
       "sha": "d1a3d880d7",
       "message": "Block connection-state commands in Send Command (#534)",

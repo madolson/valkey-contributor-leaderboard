@@ -2,8 +2,8 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 126,
-  "commit_count": 39,
+  "score": 127,
+  "commit_count": 40,
   "review_count": 87,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "c24e745818",
+      "message": "perf: Restore HNSW ingestion and search throughput to 1.2 levels (#1487)",
+      "date": "2026-10-01",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1487",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c24e745818604649df079e25aa7b9d93218c089b"
+    },
     {
       "sha": "c7c4579dc4",
       "message": "Fix HNSW insertion failure on tombstone clusters and self-heal root (#1362)",

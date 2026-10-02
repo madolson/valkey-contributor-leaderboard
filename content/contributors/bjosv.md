@@ -1080,6 +1080,22 @@
   ],
   "review_list": [
     {
+      "sha": "2067c73a76",
+      "message": "chore(deps): bump docker/setup-buildx-action from 4.3.0 to 4.4.1 (#497)",
+      "date": "2026-10-01",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/497",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2067c73a76bdd70ba74fd8b6716b75fc1ed8120a"
+    },
+    {
+      "sha": "73114ff66c",
+      "message": "chore(deps): bump docker/build-push-action from 7.3.0 to 7.4.0 (#498)",
+      "date": "2026-10-01",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/498",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/73114ff66c46fd2a01f8eff3ee3edded70e39a06"
+    },
+    {
       "sha": "8d302312a4",
       "message": "Release valkey-resources 0.3.0 (#258)",
       "date": "2026-09-28",

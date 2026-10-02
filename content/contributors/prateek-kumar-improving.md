@@ -2,8 +2,8 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 439,
-  "commit_count": 152,
+  "score": 441,
+  "commit_count": 154,
   "review_count": 287,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "f5f4474257",
+      "message": "feat(node): add HGETDEL command support (#7240)",
+      "date": "2026-10-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7240",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f5f4474257c25c1f98983cd0946ca050f723ef08"
+    },
+    {
+      "sha": "a4c7632514",
+      "message": "feat(go): add HGETDEL command support (#7207)",
+      "date": "2026-10-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7207",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a4c76325142dffdbb6e3ca756a6a5159e9a05011"
+    },
     {
       "sha": "dea50939fa",
       "message": "feat(java): add HGETDEL command support (#7206)",

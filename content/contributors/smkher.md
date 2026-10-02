@@ -2,8 +2,8 @@
   "title": "smkher",
   "login": "smkher",
   "avatar_url": "https://avatars.githubusercontent.com/u/3863574?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "f4cbd1c5ef",
+      "message": "fix: Reject module writes during client pause to prevent crash (#3645)",
+      "date": "2026-10-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3645",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f4cbd1c5ef06f0dd574799a0a6ab5f5bf57c82a5"
+    },
     {
       "sha": "eefa8927dc",
       "message": "fix: Reject corrupt stream RDB with shared NACK across consumers (#4073)",

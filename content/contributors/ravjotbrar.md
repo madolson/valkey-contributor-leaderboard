@@ -2,9 +2,9 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 209,
+  "score": 210,
   "commit_count": 128,
-  "review_count": 81,
+  "review_count": 82,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
@@ -1036,6 +1036,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7a38108a0f",
+      "message": "Add more detail for utilization and refresh rate in Cluster Topology documentation (#543)",
+      "date": "2026-10-01",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/543",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/7a38108a0fa89e64a4eba5a30bb36d6310810692"
+    },
     {
       "sha": "9400398f17",
       "message": "Add authentication for metrics process register and ping (#504)",

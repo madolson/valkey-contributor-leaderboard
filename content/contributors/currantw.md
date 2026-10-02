@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 325,
+  "score": 326,
   "commit_count": 192,
-  "review_count": 133,
+  "review_count": 134,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -1553,6 +1553,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a5a20a1365",
+      "message": "fix(rust): allow deprecated fetch_update until MSRV reaches 1.95 (#7253)",
+      "date": "2026-10-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7253",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a5a20a136577569e19e2f7538dd0fe890377f362"
+    },
     {
       "sha": "4382c33eaf",
       "message": "chore(deps): bump astral-sh/setup-uv from 10.1.0 to 10.2.0 in the minor-updates group (#571)",

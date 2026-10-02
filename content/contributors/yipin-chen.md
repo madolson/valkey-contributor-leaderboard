@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 826,
+  "score": 830,
   "commit_count": 45,
-  "review_count": 781,
+  "review_count": 785,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f5f4474257",
+      "message": "feat(node): add HGETDEL command support (#7240)",
+      "date": "2026-10-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7240",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f5f4474257c25c1f98983cd0946ca050f723ef08"
+    },
+    {
+      "sha": "86e349014b",
+      "message": "Fix flaky test: ClusterClientTests password reconnection with ACL user (#6056)",
+      "date": "2026-10-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6056",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/86e349014bc8358b822f8b8fb703a509b3ae9af7"
+    },
+    {
+      "sha": "a5a20a1365",
+      "message": "fix(rust): allow deprecated fetch_update until MSRV reaches 1.95 (#7253)",
+      "date": "2026-10-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7253",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a5a20a136577569e19e2f7538dd0fe890377f362"
+    },
+    {
+      "sha": "a4c7632514",
+      "message": "feat(go): add HGETDEL command support (#7207)",
+      "date": "2026-10-01",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7207",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a4c76325142dffdbb6e3ca756a6a5159e9a05011"
+    },
     {
       "sha": "7afe98e8e4",
       "message": "fix(core): re-authenticate pool-borrowed clients with a rotated IAM token on borrow (#7155)",

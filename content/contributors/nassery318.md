@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 152,
-  "commit_count": 113,
+  "score": 153,
+  "commit_count": 114,
   "review_count": 39,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "cb34ef5ef1",
+      "message": "updated cluster toplogy documentation for new view (#542)",
+      "date": "2026-10-01",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/542",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/cb34ef5ef1182c7e2ce994f1e0aec3dba6a8cc19"
+    },
     {
       "sha": "518bbe5efe",
       "message": "reduced the noise generated due JSON module, binary strings and metric server uri (#520)",
