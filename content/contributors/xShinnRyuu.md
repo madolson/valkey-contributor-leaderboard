@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 482,
+  "score": 483,
   "commit_count": 136,
-  "review_count": 346,
+  "review_count": 347,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -1105,6 +1105,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5fb5c69aa4",
+      "message": "chore(rust): prepare glide-logger for crates.io publishing (#7257)",
+      "date": "2026-10-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7257",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5fb5c69aa4c62da342c24552e422c6a7b5f5063d"
+    },
     {
       "sha": "da524608b1",
       "message": "feat(python): propagate OpenTelemetry span context to native spans (#7069)",

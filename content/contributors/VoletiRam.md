@@ -2,9 +2,9 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 59,
+  "score": 60,
   "commit_count": 25,
-  "review_count": 34,
+  "review_count": 35,
   "repos": [
     "valkey",
     "valkey-perf-benchmark",
@@ -214,6 +214,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ee0a84a4b2",
+      "message": "chore: bump min engine version for 1.3.0 (#1499)",
+      "date": "2026-10-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1499",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ee0a84a4b2d93638155965381c65e28e64de1fdf"
+    },
     {
       "sha": "7687ca2e92",
       "message": "Skip metadata reconciliation after replica demotion (#1304)",

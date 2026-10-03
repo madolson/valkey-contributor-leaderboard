@@ -2,13 +2,21 @@
   "title": "chenshi5012",
   "login": "chenshi5012",
   "avatar_url": "https://avatars.githubusercontent.com/u/10794822?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "642196f63c",
+      "message": " bracketed IPv6 cluster CLI address parsing (#4800)",
+      "date": "2026-10-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4800",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/642196f63ca40ca7c55d36d9b43e5f3cee9fb8e2"
+    },
     {
       "sha": "8d3e6c306b",
       "message": "Fix \"time_t' different  typedef  on 32-bit /64-bit systems (#3787)",

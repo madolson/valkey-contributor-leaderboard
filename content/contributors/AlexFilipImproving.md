@@ -2,8 +2,8 @@
   "title": "AlexFilipImproving",
   "login": "AlexFilipImproving",
   "avatar_url": "https://avatars.githubusercontent.com/u/104015771?v=4",
-  "score": 7,
-  "commit_count": 7,
+  "score": 8,
+  "commit_count": 8,
   "review_count": 0,
   "repos": [
     "valkey-doc",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "a12bb364f9",
+      "message": "feat: add Vector Range query support to FT.SEARCH (#985)",
+      "date": "2026-10-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/985",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a12bb364f90de6ddc06cd521bd0e2db89e15936b"
+    },
     {
       "sha": "a1f2159c67",
       "message": "feat: add TOLIST reducer for FT.AGGREGATE GROUPBY stage (#932)",

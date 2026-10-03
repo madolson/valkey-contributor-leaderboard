@@ -2,13 +2,21 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 15,
-  "commit_count": 3,
+  "score": 16,
+  "commit_count": 4,
   "review_count": 12,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "c52efbe206",
+      "message": "feat(query): support HYBRID_POLICY runtime override (#1460)",
+      "date": "2026-10-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1460",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c52efbe206a8714a125305aaa5fec92febd31eed"
+    },
     {
       "sha": "7687ca2e92",
       "message": "Skip metadata reconciliation after replica demotion (#1304)",

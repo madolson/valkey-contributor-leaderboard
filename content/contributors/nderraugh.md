@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 44,
+  "score": 45,
   "commit_count": 11,
-  "review_count": 33,
+  "review_count": 34,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -103,6 +103,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9409f947d4",
+      "message": "ci(rust): add crates.io CD workflow for glide-logger (#7266)",
+      "date": "2026-10-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7266",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9409f947d47d1a71b46014c97b9a7a18f3b3d7e8"
+    },
     {
       "sha": "614e9c2b19",
       "message": "test(python): fail session on unexpected cluster skips (#7127)",

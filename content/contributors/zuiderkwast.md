@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1268,
+  "score": 1269,
   "commit_count": 154,
-  "review_count": 1114,
+  "review_count": 1115,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1254,6 +1254,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "642196f63c",
+      "message": " bracketed IPv6 cluster CLI address parsing (#4800)",
+      "date": "2026-10-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4800",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/642196f63ca40ca7c55d36d9b43e5f3cee9fb8e2"
+    },
     {
       "sha": "f4cbd1c5ef",
       "message": "fix: Reject module writes during client pause to prevent crash (#3645)",

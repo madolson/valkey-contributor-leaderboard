@@ -187077,6 +187077,258 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1487"
+    },
+    {
+      "sha": "d18edd8e51e04390913c638b15250ebad65d7e32",
+      "author_login": "bogdanp05",
+      "author_id": 7281856,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
+      "message": "Merge pull request #3 from valkey-io/bogdanp05/signals_blog",
+      "date": "2026-10-02T16:04:07Z",
+      "repo": "one-time-for-planet",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "2523bcc5259760dab65ec9d9b2a521ef2cd8bd7a",
+      "author_login": "bogdanp05",
+      "author_id": 7281856,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
+      "message": "Add a signals post.",
+      "date": "2026-10-02T15:57:59Z",
+      "repo": "one-time-for-planet",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "642196f63ca40ca7c55d36d9b43e5f3cee9fb8e2",
+      "author_login": "chenshi5012",
+      "author_id": 10794822,
+      "avatar_url": "https://avatars.githubusercontent.com/u/10794822?v=4",
+      "message": " bracketed IPv6 cluster CLI address parsing (#4800)",
+      "date": "2026-10-03T04:17:26Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-10-03T04:07:49Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4800"
+    },
+    {
+      "sha": "2484ee676e3d744df9efcd193a1cdd19c175b82f",
+      "author_login": "nassery318",
+      "author_id": 86083902,
+      "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
+      "message": "address cluster aggregation view comments about node failover and max\u2026 (#515)",
+      "date": "2026-10-02T19:11:59Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ArgusLi",
+          "date": "2026-10-02T19:09:50Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/515"
+    },
+    {
+      "sha": "a107fbccb38fab08a86207d36532336fc691983c",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "chore(rust): prepare glide-telemetry for crates.io publishing (#7273)",
+      "date": "2026-10-03T01:11:07Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-10-02T23:30:14Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-10-02T23:54:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7273"
+    },
+    {
+      "sha": "9409f947d47d1a71b46014c97b9a7a18f3b3d7e8",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "ci(rust): add crates.io CD workflow for glide-logger (#7266)",
+      "date": "2026-10-02T19:55:43Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-10-02T16:58:08Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-10-02T17:42:52Z"
+        },
+        {
+          "login": "nderraugh",
+          "date": "2026-10-02T18:37:59Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7266"
+    },
+    {
+      "sha": "5fb5c69aa4c62da342c24552e422c6a7b5f5063d",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "chore(rust): prepare glide-logger for crates.io publishing (#7257)",
+      "date": "2026-10-02T14:37:20Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-10-01T21:49:46Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-10-01T22:29:55Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7257"
+    },
+    {
+      "sha": "ce3585e1be85547dde0002d9eeb0174a25cb10f3",
+      "author_login": "Turgon37",
+      "author_id": 10003029,
+      "avatar_url": "https://avatars.githubusercontent.com/u/10003029?v=4",
+      "message": "Fix exporter tls config and upgrade exporter version (#262)",
+      "date": "2026-10-02T21:32:11Z",
+      "repo": "valkey-helm",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "881679642d7decf13b8503415ad513170e202537",
+      "author_login": "sgissi",
+      "author_id": 2590559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2590559?v=4",
+      "message": "fix(valkey): start standalone Valkey from the config init.sh generates (#266)",
+      "date": "2026-10-02T18:24:09Z",
+      "repo": "valkey-helm",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "5ec61f4c47a8182bc50c53eac41a785c2e5e800c",
+      "author_login": "Frank-Gu-81",
+      "author_id": 93494304,
+      "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
+      "message": "Sync INFO SEARCH metrics doc with current App metrics (#1507)",
+      "date": "2026-10-02T23:53:11Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "BCathcart",
+          "date": "2026-10-02T23:43:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1507"
+    },
+    {
+      "sha": "c52efbe206a8714a125305aaa5fec92febd31eed",
+      "author_login": "mohanrajendran",
+      "author_id": 4929558,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
+      "message": "feat(query): support HYBRID_POLICY runtime override (#1460)",
+      "date": "2026-10-02T22:50:46Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-10-01T18:09:20Z"
+        },
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-10-02T05:51:21Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1460"
+    },
+    {
+      "sha": "ecb06e2d85191099fda63747d380d41d11ffacba",
+      "author_login": "Frank-Gu-81",
+      "author_id": 93494304,
+      "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
+      "message": "FT.CREATE and FT.SEARCH documentation updated (#1495)",
+      "date": "2026-10-02T22:16:32Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "BCathcart",
+          "date": "2026-10-02T21:53:09Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1495"
+    },
+    {
+      "sha": "a12bb364f90de6ddc06cd521bd0e2db89e15936b",
+      "author_login": "AlexFilipImproving",
+      "author_id": 104015771,
+      "avatar_url": "https://avatars.githubusercontent.com/u/104015771?v=4",
+      "message": "feat: add Vector Range query support to FT.SEARCH (#985)",
+      "date": "2026-10-02T15:55:20Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-10-01T00:55:43Z"
+        },
+        {
+          "login": "BCathcart",
+          "date": "2026-10-02T15:52:21Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/985"
+    },
+    {
+      "sha": "ee0a84a4b2d93638155965381c65e28e64de1fdf",
+      "author_login": "Frank-Gu-81",
+      "author_id": 93494304,
+      "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
+      "message": "chore: bump min engine version for 1.3.0 (#1499)",
+      "date": "2026-10-02T08:00:24Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "BCathcart",
+          "date": "2026-10-01T23:52:14Z"
+        },
+        {
+          "login": "VoletiRam",
+          "date": "2026-10-02T00:02:20Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1499"
+    },
+    {
+      "sha": "f04b8651ce5d6db87521709eafdd6136ef39a1eb",
+      "author_login": "Frank-Gu-81",
+      "author_id": 93494304,
+      "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
+      "message": "make dev config mutable (#1485)",
+      "date": "2026-10-02T07:56:27Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "mnunberg1",
+          "date": "2026-10-01T23:45:49Z"
+        },
+        {
+          "login": "BCathcart",
+          "date": "2026-10-02T07:56:19Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1485"
     }
   ]
 }

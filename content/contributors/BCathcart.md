@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 119,
+  "score": 124,
   "commit_count": 42,
-  "review_count": 77,
+  "review_count": 82,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -357,6 +357,46 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1464",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/0cbca0e6077efe1de91d428312f4e013943648b8"
+    },
+    {
+      "sha": "5ec61f4c47",
+      "message": "Sync INFO SEARCH metrics doc with current App metrics (#1507)",
+      "date": "2026-10-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1507",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5ec61f4c47a8182bc50c53eac41a785c2e5e800c"
+    },
+    {
+      "sha": "ecb06e2d85",
+      "message": "FT.CREATE and FT.SEARCH documentation updated (#1495)",
+      "date": "2026-10-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1495",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ecb06e2d85191099fda63747d380d41d11ffacba"
+    },
+    {
+      "sha": "a12bb364f9",
+      "message": "feat: add Vector Range query support to FT.SEARCH (#985)",
+      "date": "2026-10-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/985",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a12bb364f90de6ddc06cd521bd0e2db89e15936b"
+    },
+    {
+      "sha": "ee0a84a4b2",
+      "message": "chore: bump min engine version for 1.3.0 (#1499)",
+      "date": "2026-10-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1499",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ee0a84a4b2d93638155965381c65e28e64de1fdf"
+    },
+    {
+      "sha": "f04b8651ce",
+      "message": "make dev config mutable (#1485)",
+      "date": "2026-10-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1485",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/f04b8651ce5d6db87521709eafdd6136ef39a1eb"
     },
     {
       "sha": "0a8e615a20",

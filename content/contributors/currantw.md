@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 326,
-  "commit_count": 192,
+  "score": 329,
+  "commit_count": 195,
   "review_count": 134,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,30 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "a107fbccb3",
+      "message": "chore(rust): prepare glide-telemetry for crates.io publishing (#7273)",
+      "date": "2026-10-03",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7273",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a107fbccb38fab08a86207d36532336fc691983c"
+    },
+    {
+      "sha": "9409f947d4",
+      "message": "ci(rust): add crates.io CD workflow for glide-logger (#7266)",
+      "date": "2026-10-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7266",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9409f947d47d1a71b46014c97b9a7a18f3b3d7e8"
+    },
+    {
+      "sha": "5fb5c69aa4",
+      "message": "chore(rust): prepare glide-logger for crates.io publishing (#7257)",
+      "date": "2026-10-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7257",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5fb5c69aa4c62da342c24552e422c6a7b5f5063d"
+    },
     {
       "sha": "b38ae3a2ed",
       "message": "refactor(rust): rework the command-table parity guard as an in-crate unit test (#7230)",

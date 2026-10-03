@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 333,
+  "score": 334,
   "commit_count": 86,
-  "review_count": 247,
+  "review_count": 248,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -703,6 +703,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a12bb364f9",
+      "message": "feat: add Vector Range query support to FT.SEARCH (#985)",
+      "date": "2026-10-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/985",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a12bb364f90de6ddc06cd521bd0e2db89e15936b"
+    },
     {
       "sha": "c24e745818",
       "message": "perf: Restore HNSW ingestion and search throughput to 1.2 levels (#1487)",

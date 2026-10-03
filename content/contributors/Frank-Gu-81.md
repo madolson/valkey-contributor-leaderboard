@@ -2,14 +2,46 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 26,
-  "commit_count": 10,
-  "review_count": 16,
+  "score": 32,
+  "commit_count": 14,
+  "review_count": 18,
   "repos": [
     "valkey-perf-benchmark",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "5ec61f4c47",
+      "message": "Sync INFO SEARCH metrics doc with current App metrics (#1507)",
+      "date": "2026-10-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1507",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5ec61f4c47a8182bc50c53eac41a785c2e5e800c"
+    },
+    {
+      "sha": "ecb06e2d85",
+      "message": "FT.CREATE and FT.SEARCH documentation updated (#1495)",
+      "date": "2026-10-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1495",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ecb06e2d85191099fda63747d380d41d11ffacba"
+    },
+    {
+      "sha": "ee0a84a4b2",
+      "message": "chore: bump min engine version for 1.3.0 (#1499)",
+      "date": "2026-10-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1499",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ee0a84a4b2d93638155965381c65e28e64de1fdf"
+    },
+    {
+      "sha": "f04b8651ce",
+      "message": "make dev config mutable (#1485)",
+      "date": "2026-10-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1485",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/f04b8651ce5d6db87521709eafdd6136ef39a1eb"
+    },
     {
       "sha": "b8d5f269ba",
       "message": "fix search benchmark dependency issue (#92)",
@@ -92,6 +124,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c52efbe206",
+      "message": "feat(query): support HYBRID_POLICY runtime override (#1460)",
+      "date": "2026-10-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1460",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c52efbe206a8714a125305aaa5fec92febd31eed"
+    },
+    {
+      "sha": "c52efbe206",
+      "message": "feat(query): support HYBRID_POLICY runtime override (#1460)",
+      "date": "2026-10-02",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1460",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c52efbe206a8714a125305aaa5fec92febd31eed"
+    },
     {
       "sha": "0a8e615a20",
       "message": "fixed: sort key should be nil instead of `#` when sortby is missing (#1445)",
