@@ -42,7 +42,7 @@
       "name": "Viktor S\u00f6derqvist",
       "company": "Ericsson Software Technology",
       "commits": 154,
-      "reviews": 1115,
+      "reviews": 1116,
       "per_repo": {
         "libvalkey": {
           "2024-06": [
@@ -114,6 +114,10 @@
             3
           ],
           "2026-05": [
+            0,
+            1
+          ],
+          "2026-10": [
             0,
             1
           ]
@@ -481,7 +485,7 @@
           ]
         }
       },
-      "score": 1269,
+      "score": 1270,
       "repos": [
         "libvalkey",
         "valkey",
@@ -4737,7 +4741,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
       "name": "Bj\u00f6rn Svensson",
       "company": "Ericsson",
-      "commits": 133,
+      "commits": 134,
       "reviews": 149,
       "per_repo": {
         "libvalkey": {
@@ -4832,6 +4836,10 @@
           "2026-09": [
             5,
             13
+          ],
+          "2026-10": [
+            1,
+            0
           ]
         },
         "valkey": {
@@ -4943,7 +4951,7 @@
           ]
         }
       },
-      "score": 282,
+      "score": 283,
       "repos": [
         "libvalkey",
         "valkey",

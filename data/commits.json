@@ -187329,6 +187329,55 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1485"
+    },
+    {
+      "sha": "c5ed4416b296665e27a4aa3f790bb4fc4879f642",
+      "author_login": "bjosv",
+      "author_id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "message": "fix: Harden cluster redirect slot against out-of-bounds write (#363)",
+      "date": "2026-10-03T19:13:56Z",
+      "repo": "libvalkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-10-02T14:06:27Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/363"
+    },
+    {
+      "sha": "7782c91fb1065bf691a2082e40f5ff353e07ef17",
+      "author_login": "sgissi",
+      "author_id": 2590559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2590559?v=4",
+      "message": "fix(valkey): Small updates and combine Pod template (#268)",
+      "date": "2026-10-03T23:07:19Z",
+      "repo": "valkey-helm",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "967192a69d2fa971e00da35efdf639ad7ea6c08a",
+      "author_login": "pat-s",
+      "author_id": 8430564,
+      "avatar_url": "https://avatars.githubusercontent.com/u/8430564?v=4",
+      "message": "feat(valkey): add an optional HAProxy front-end for Sentinel (#235)",
+      "date": "2026-10-03T21:48:51Z",
+      "repo": "valkey-helm",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d021294b4fb262d9eeb7dec826cbd9353befe708",
+      "author_login": "Turgon37",
+      "author_id": 10003029,
+      "avatar_url": "https://avatars.githubusercontent.com/u/10003029?v=4",
+      "message": "fix(valkey): Handle correct loglevel setting way (#267)",
+      "date": "2026-10-03T21:29:48Z",
+      "repo": "valkey-helm",
+      "reviewed": false,
+      "pr_url": ""
     }
   ]
 }

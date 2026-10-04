@@ -2,8 +2,8 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 282,
-  "commit_count": 133,
+  "score": 283,
+  "commit_count": 134,
   "review_count": 149,
   "repos": [
     "libvalkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "c5ed4416b2",
+      "message": "fix: Harden cluster redirect slot against out-of-bounds write (#363)",
+      "date": "2026-10-03",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/363",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/c5ed4416b296665e27a4aa3f790bb4fc4879f642"
+    },
     {
       "sha": "63653552e2",
       "message": "fix: skip only the shard whose primary is unidentifiable (#452)",

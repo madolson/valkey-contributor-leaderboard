@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1269,
+  "score": 1270,
   "commit_count": 154,
-  "review_count": 1115,
+  "review_count": 1116,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1261,6 +1261,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4800",
       "commit_url": "https://github.com/valkey-io/valkey/commit/642196f63ca40ca7c55d36d9b43e5f3cee9fb8e2"
+    },
+    {
+      "sha": "c5ed4416b2",
+      "message": "fix: Harden cluster redirect slot against out-of-bounds write (#363)",
+      "date": "2026-10-03",
+      "repo": "libvalkey",
+      "pr_url": "https://github.com/valkey-io/libvalkey/pull/363",
+      "commit_url": "https://github.com/valkey-io/libvalkey/commit/c5ed4416b296665e27a4aa3f790bb4fc4879f642"
     },
     {
       "sha": "f4cbd1c5ef",
