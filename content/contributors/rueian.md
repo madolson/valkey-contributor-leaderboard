@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 64,
+  "score": 65,
   "commit_count": 9,
-  "review_count": 55,
+  "review_count": 56,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1d5dcf601c",
+      "message": "feat: add MUnlink helper (#197)",
+      "date": "2026-10-04",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/197",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/1d5dcf601c112e0a790070715c4d6b556e17789b"
+    },
     {
       "sha": "b552b5c290",
       "message": "docs: add the stream methods to the valkeyhook example (#195)",

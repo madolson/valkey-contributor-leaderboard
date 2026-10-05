@@ -10115,7 +10115,7 @@
       "name": "Rueian",
       "company": "",
       "commits": 9,
-      "reviews": 55,
+      "reviews": 56,
       "per_repo": {
         "valkey": {
           "2025-01": [
@@ -10215,6 +10215,10 @@
           "2026-09": [
             0,
             19
+          ],
+          "2026-10": [
+            0,
+            1
           ]
         },
         "valkey-operator": {
@@ -10224,7 +10228,7 @@
           ]
         }
       },
-      "score": 64,
+      "score": 65,
       "repos": [
         "valkey",
         "valkey-doc",
@@ -21061,6 +21065,31 @@
       ]
     },
     {
+      "login": "frozenbonito",
+      "id": 26363256,
+      "avatar_url": "https://avatars.githubusercontent.com/u/26363256?v=4",
+      "name": "",
+      "company": "",
+      "commits": 2,
+      "reviews": 0,
+      "per_repo": {
+        "valkey-go": {
+          "2026-08": [
+            1,
+            0
+          ],
+          "2026-10": [
+            1,
+            0
+          ]
+        }
+      },
+      "score": 2,
+      "repos": [
+        "valkey-go"
+      ]
+    },
+    {
       "login": "AzazelSensei",
       "id": 89297042,
       "avatar_url": "https://avatars.githubusercontent.com/u/89297042?v=4",
@@ -26753,27 +26782,6 @@
       "score": 1,
       "repos": [
         "libvalkey-py"
-      ]
-    },
-    {
-      "login": "frozenbonito",
-      "id": 26363256,
-      "avatar_url": "https://avatars.githubusercontent.com/u/26363256?v=4",
-      "name": "",
-      "company": "",
-      "commits": 1,
-      "reviews": 0,
-      "per_repo": {
-        "valkey-go": {
-          "2026-08": [
-            1,
-            0
-          ]
-        }
-      },
-      "score": 1,
-      "repos": [
-        "valkey-go"
       ]
     },
     {
