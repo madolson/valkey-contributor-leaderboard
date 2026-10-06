@@ -2,8 +2,8 @@
   "title": "eifrah-aws",
   "login": "eifrah-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/170855270?v=4",
-  "score": 216,
-  "commit_count": 94,
+  "score": 217,
+  "commit_count": 95,
   "review_count": 122,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "f213a6750d",
+      "message": "Build: make the Make / CMake gtest build link on macOS (#4657)",
+      "date": "2026-10-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4657",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f213a6750d117bcf457cf56475fc3d381c810a42"
+    },
     {
       "sha": "d84a2e8598",
       "message": "Deflake HRANDFIELD CASE 4 test with expired hash fields (#4331)",

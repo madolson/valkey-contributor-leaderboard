@@ -2,17 +2,26 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 150,
-  "commit_count": 19,
+  "score": 151,
+  "commit_count": 20,
   "review_count": 131,
   "repos": [
     "valkey",
     "valkey-container",
     "valkey-doc",
     "valkey-io.github.io",
-    "valkey-operator"
+    "valkey-operator",
+    "valkey-proxy"
   ],
   "commit_list": [
+    {
+      "sha": "300372c93b",
+      "message": "changes order of text",
+      "date": "2026-10-05",
+      "repo": "valkey-proxy",
+      "pr_url": "https://github.com/valkey-io/valkey-proxy/pull/1",
+      "commit_url": "https://github.com/valkey-io/valkey-proxy/commit/300372c93bdaded0741eab8ac72a81a5ef4c7e0a"
+    },
     {
       "sha": "57570c2cad",
       "message": "small post-publish fixes for 'Monitoring Valkey with Prometheus' (#681)",

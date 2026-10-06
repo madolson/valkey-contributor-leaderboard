@@ -2,9 +2,9 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 210,
+  "score": 211,
   "commit_count": 128,
-  "review_count": 82,
+  "review_count": 83,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
@@ -1036,6 +1036,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "64f5fb413a",
+      "message": "implementation of cluster hot slots version 1 (#503)",
+      "date": "2026-10-06",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/503",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/64f5fb413a2ab19037dd870cdcdd5ef69bbde407"
+    },
     {
       "sha": "7a38108a0f",
       "message": "Add more detail for utilization and refresh rate in Cluster Topology documentation (#543)",

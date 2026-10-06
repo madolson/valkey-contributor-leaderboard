@@ -2,9 +2,9 @@
   "title": "satheeshaGowda",
   "login": "satheeshaGowda",
   "avatar_url": "https://avatars.githubusercontent.com/u/7914152?v=4",
-  "score": 7,
+  "score": 8,
   "commit_count": 7,
-  "review_count": 0,
+  "review_count": 1,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -67,5 +67,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/5bbbc6bd9a3ec44c9a47b0cbb91219370e798088"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "e130edbb78",
+      "message": "Support arbitrary commands and mixed loads in the on-demand benchmark (#4537)",
+      "date": "2026-10-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4537",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e130edbb780f59f225d3cc4065439f0345e4da3a"
+    }
+  ]
 }

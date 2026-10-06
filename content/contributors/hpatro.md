@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 307,
+  "score": 308,
   "commit_count": 66,
-  "review_count": 241,
+  "review_count": 242,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -547,6 +547,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e130edbb78",
+      "message": "Support arbitrary commands and mixed loads in the on-demand benchmark (#4537)",
+      "date": "2026-10-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4537",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e130edbb780f59f225d3cc4065439f0345e4da3a"
+    },
     {
       "sha": "00a8a19554",
       "message": "Attribute LZ4 codec context memory to client memory usage (#4702)",

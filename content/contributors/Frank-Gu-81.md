@@ -2,14 +2,22 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 32,
-  "commit_count": 14,
+  "score": 33,
+  "commit_count": 15,
   "review_count": 18,
   "repos": [
     "valkey-perf-benchmark",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "9208e3862c",
+      "message": "Correct default KNN score field name in search-query.md (#1519)",
+      "date": "2026-10-05",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1519",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/9208e3862c7990804bd2c1fb7d275a0469c3b4d0"
+    },
     {
       "sha": "5ec61f4c47",
       "message": "Sync INFO SEARCH metrics doc with current App metrics (#1507)",

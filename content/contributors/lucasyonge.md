@@ -2,14 +2,15 @@
   "title": "lucasyonge",
   "login": "lucasyonge",
   "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
-  "score": 16,
+  "score": 17,
   "commit_count": 4,
-  "review_count": 12,
+  "review_count": 13,
   "repos": [
     "valkey",
     "valkey-container",
     "valkey-doc",
-    "valkey-io.github.io"
+    "valkey-io.github.io",
+    "valkey-proxy"
   ],
   "commit_list": [
     {
@@ -46,6 +47,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "300372c93b",
+      "message": "changes order of text",
+      "date": "2026-10-05",
+      "repo": "valkey-proxy",
+      "pr_url": "https://github.com/valkey-io/valkey-proxy/pull/1",
+      "commit_url": "https://github.com/valkey-io/valkey-proxy/commit/300372c93bdaded0741eab8ac72a81a5ef4c7e0a"
+    },
     {
       "sha": "23ce45cb8a",
       "message": "Update ZRANGE WITHSCORES examples (#446)",

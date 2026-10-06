@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 154,
-  "commit_count": 115,
+  "score": 155,
+  "commit_count": 116,
   "review_count": 39,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "64f5fb413a",
+      "message": "implementation of cluster hot slots version 1 (#503)",
+      "date": "2026-10-06",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/503",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/64f5fb413a2ab19037dd870cdcdd5ef69bbde407"
+    },
     {
       "sha": "2484ee676e",
       "message": "address cluster aggregation view comments about node failover and max\u2026 (#515)",

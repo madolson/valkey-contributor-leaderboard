@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 315,
+  "score": 316,
   "commit_count": 96,
-  "review_count": 219,
+  "review_count": 220,
   "repos": [
     "valkey",
     "valkey-container",
@@ -786,6 +786,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f213a6750d",
+      "message": "Build: make the Make / CMake gtest build link on macOS (#4657)",
+      "date": "2026-10-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4657",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f213a6750d117bcf457cf56475fc3d381c810a42"
+    },
     {
       "sha": "28ecc51424",
       "message": "Fix HEXPIRE family command summaries (#4783)",

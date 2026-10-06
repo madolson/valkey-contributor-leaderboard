@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 254,
+  "score": 255,
   "commit_count": 75,
-  "review_count": 179,
+  "review_count": 180,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -615,6 +615,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4a0c4169e4",
+      "message": "fix(core): Report every ClientPool discard to the bindings (#7256)",
+      "date": "2026-10-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7256",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4a0c4169e47e88e317798f428bbb673ea2874558"
+    },
     {
       "sha": "be1d7c603f",
       "message": "refactor(rust): finalize glide- crate renames and cleanup (#6905) (#7195)",

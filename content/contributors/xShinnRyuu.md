@@ -1106,6 +1106,14 @@
   ],
   "review_list": [
     {
+      "sha": "17fe8b7e14",
+      "message": "chore(deps): bump the patch-updates group with 3 updates (#573)",
+      "date": "2026-10-05",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/573",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/17fe8b7e141dd86222f77c6b109db900f1617205"
+    },
+    {
       "sha": "5fb5c69aa4",
       "message": "chore(rust): prepare glide-logger for crates.io publishing (#7257)",
       "date": "2026-10-02",

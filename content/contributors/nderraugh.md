@@ -2,8 +2,8 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 45,
-  "commit_count": 11,
+  "score": 46,
+  "commit_count": 12,
   "review_count": 34,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "4a0c4169e4",
+      "message": "fix(core): Report every ClientPool discard to the bindings (#7256)",
+      "date": "2026-10-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7256",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4a0c4169e47e88e317798f428bbb673ea2874558"
+    },
     {
       "sha": "a5a20a1365",
       "message": "fix(rust): allow deprecated fetch_update until MSRV reaches 1.95 (#7253)",

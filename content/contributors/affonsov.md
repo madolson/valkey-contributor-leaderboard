@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 292,
-  "commit_count": 100,
+  "score": 293,
+  "commit_count": 101,
   "review_count": 192,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "32a8b595f4",
+      "message": "fix(node/cd): fix napi publish related issues on node deployment (#7179)",
+      "date": "2026-10-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7179",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/32a8b595f4668544297a6558d164cdf991a15462"
+    },
     {
       "sha": "03dcd4ae97",
       "message": "fix(pool): eliminate abandon monitor race for blocking commands (#6971) (#7063)",

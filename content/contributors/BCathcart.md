@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 124,
+  "score": 126,
   "commit_count": 42,
-  "review_count": 82,
+  "review_count": 84,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "42d395d2ea",
+      "message": "Fix GCC 12 build and 'local' outside function in CI script (#1520)",
+      "date": "2026-10-05",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1520",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/42d395d2eae4d5e14fbca3f9140c2845e30331ab"
+    },
+    {
+      "sha": "9208e3862c",
+      "message": "Correct default KNN score field name in search-query.md (#1519)",
+      "date": "2026-10-05",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1519",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/9208e3862c7990804bd2c1fb7d275a0469c3b4d0"
+    },
     {
       "sha": "0cbca0e607",
       "message": "Fix GROUPBY 0 being rejected in FT.AGGREGATE (#1464)",

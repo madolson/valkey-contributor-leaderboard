@@ -2,8 +2,8 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 441,
-  "commit_count": 160,
+  "score": 442,
+  "commit_count": 161,
   "review_count": 281,
   "repos": [
     "valkey",
@@ -20,6 +20,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "e130edbb78",
+      "message": "Support arbitrary commands and mixed loads in the on-demand benchmark (#4537)",
+      "date": "2026-10-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4537",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e130edbb780f59f225d3cc4065439f0345e4da3a"
+    },
     {
       "sha": "2783842743",
       "message": "Fix IO thread shutdown cleanup leak (#4710)",

@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 329,
-  "commit_count": 195,
+  "score": 331,
+  "commit_count": 197,
   "review_count": 134,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "7c3729ec10",
+      "message": "chore(rust): prepare `glide-core` for publishing (#7282)",
+      "date": "2026-10-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7282",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7c3729ec1068c5bdeac296e31e423372c3a54a23"
+    },
+    {
+      "sha": "6586cae50d",
+      "message": "chore(rust): prepare `glide-core-engine` for publishing (#7275)",
+      "date": "2026-10-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7275",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6586cae50d0f686fb24412d5613cbf1627dce301"
+    },
     {
       "sha": "a107fbccb3",
       "message": "chore(rust): prepare glide-telemetry for crates.io publishing (#7273)",
@@ -1577,6 +1593,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "17fe8b7e14",
+      "message": "chore(deps): bump the patch-updates group with 3 updates (#573)",
+      "date": "2026-10-05",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/573",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/17fe8b7e141dd86222f77c6b109db900f1617205"
+    },
     {
       "sha": "a5a20a1365",
       "message": "fix(rust): allow deprecated fetch_update until MSRV reaches 1.95 (#7253)",

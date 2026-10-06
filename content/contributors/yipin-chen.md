@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 833,
+  "score": 839,
   "commit_count": 45,
-  "review_count": 788,
+  "review_count": 794,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4a0c4169e4",
+      "message": "fix(core): Report every ClientPool discard to the bindings (#7256)",
+      "date": "2026-10-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7256",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4a0c4169e47e88e317798f428bbb673ea2874558"
+    },
+    {
+      "sha": "32a8b595f4",
+      "message": "fix(node/cd): fix napi publish related issues on node deployment (#7179)",
+      "date": "2026-10-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7179",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/32a8b595f4668544297a6558d164cdf991a15462"
+    },
+    {
+      "sha": "32a8b595f4",
+      "message": "fix(node/cd): fix napi publish related issues on node deployment (#7179)",
+      "date": "2026-10-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7179",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/32a8b595f4668544297a6558d164cdf991a15462"
+    },
+    {
+      "sha": "0b46f0551b",
+      "message": "feat(python): add HGETDEL command support (#7284)",
+      "date": "2026-10-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7284",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0b46f0551b0656cb664fac39e4f9ce171f76a607"
+    },
+    {
+      "sha": "7c3729ec10",
+      "message": "chore(rust): prepare `glide-core` for publishing (#7282)",
+      "date": "2026-10-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7282",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7c3729ec1068c5bdeac296e31e423372c3a54a23"
+    },
+    {
+      "sha": "6586cae50d",
+      "message": "chore(rust): prepare `glide-core-engine` for publishing (#7275)",
+      "date": "2026-10-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7275",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6586cae50d0f686fb24412d5613cbf1627dce301"
+    },
     {
       "sha": "a107fbccb3",
       "message": "chore(rust): prepare glide-telemetry for crates.io publishing (#7273)",

@@ -2,13 +2,21 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 16,
-  "commit_count": 4,
+  "score": 17,
+  "commit_count": 5,
   "review_count": 12,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "42d395d2ea",
+      "message": "Fix GCC 12 build and 'local' outside function in CI script (#1520)",
+      "date": "2026-10-05",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1520",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/42d395d2eae4d5e14fbca3f9140c2845e30331ab"
+    },
     {
       "sha": "c52efbe206",
       "message": "feat(query): support HYBRID_POLICY runtime override (#1460)",
