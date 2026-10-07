@@ -2,8 +2,8 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 121,
-  "commit_count": 26,
+  "score": 122,
+  "commit_count": 27,
   "review_count": 95,
   "repos": [
     "libvalkey",
@@ -12,6 +12,14 @@
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "1b39744a61",
+      "message": "Merge pull request #348 from valkey-io/mkmkme/update-devenv",
+      "date": "2026-10-06",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/348",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/1b39744a61b0b722f8f8620732420648a009c34b"
+    },
     {
       "sha": "66ba154ffc",
       "message": "Merge pull request #80 from valkey-io/v4.1.0",

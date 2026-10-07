@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 331,
-  "commit_count": 197,
+  "score": 335,
+  "commit_count": 201,
   "review_count": 134,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,38 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "046685fba2",
+      "message": "chore(rust): prepare `valkey-glide` for publishing (#7298)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7298",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/046685fba2ffcc1ed29ddcb5fa30f65bea8d22a4"
+    },
+    {
+      "sha": "1ccce16974",
+      "message": "refactor(rust): align the command API with redis-rs 1.7.0 (#7287)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7287",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1ccce16974473d4c0dbc1ef144dd1b51703adca7"
+    },
+    {
+      "sha": "c6f4967f3a",
+      "message": "ci(rust): publish all crates from a single approved job (#7293)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7293",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c6f4967f3a763a35081dc764bc9d4efffaab6439"
+    },
+    {
+      "sha": "52c592d7ff",
+      "message": "fix(utils): avoid duplicate bind address when --host resolves to loopback (#7285)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7285",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/52c592d7ffeaa8c9b6f4d933fdae51b7dbf4e924"
+    },
     {
       "sha": "7c3729ec10",
       "message": "chore(rust): prepare `glide-core` for publishing (#7282)",
@@ -1593,6 +1625,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "341070407c",
+      "message": "chore(deps): bump valkey-glide from `53ad326` to `52c592d` (#572)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/572",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/341070407c610024113bb2dd4ff8a7b21a15fbd0"
+    },
     {
       "sha": "17fe8b7e14",
       "message": "chore(deps): bump the patch-updates group with 3 updates (#573)",

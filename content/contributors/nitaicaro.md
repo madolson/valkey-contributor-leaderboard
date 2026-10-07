@@ -2,9 +2,9 @@
   "title": "nitaicaro",
   "login": "nitaicaro",
   "avatar_url": "https://avatars.githubusercontent.com/u/42576749?v=4",
-  "score": 11,
+  "score": 12,
   "commit_count": 9,
-  "review_count": 2,
+  "review_count": 3,
   "repos": [
     "valkey"
   ],
@@ -83,6 +83,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ea4d4e7d56",
+      "message": "Deflake modify new keys during forkless bgsave (#4789)",
+      "date": "2026-10-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4789",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ea4d4e7d561895f64a86238bc587063c79c23da7"
+    },
     {
       "sha": "bcc60f7132",
       "message": "Fix timing issue in WATCHed key in another slot that expired aborts EXEC test (#4599)",

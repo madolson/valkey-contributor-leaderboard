@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 293,
+  "score": 295,
   "commit_count": 101,
-  "review_count": 192,
+  "review_count": 194,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -823,6 +823,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "52c592d7ff",
+      "message": "fix(utils): avoid duplicate bind address when --host resolves to loopback (#7285)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7285",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/52c592d7ffeaa8c9b6f4d933fdae51b7dbf4e924"
+    },
+    {
+      "sha": "52c592d7ff",
+      "message": "fix(utils): avoid duplicate bind address when --host resolves to loopback (#7285)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7285",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/52c592d7ffeaa8c9b6f4d933fdae51b7dbf4e924"
+    },
     {
       "sha": "86e349014b",
       "message": "Fix flaky test: ClusterClientTests password reconnection with ACL user (#6056)",

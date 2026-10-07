@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 255,
-  "commit_count": 75,
-  "review_count": 180,
+  "score": 259,
+  "commit_count": 76,
+  "review_count": 183,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "4b36283f50",
+      "message": "fix(java/go): hash whole key for empty cluster hash tag (#7294)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7294",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4b36283f503519f66a5d227bceefb3c72898bb8d"
+    },
     {
       "sha": "7afe98e8e4",
       "message": "fix(core): re-authenticate pool-borrowed clients with a rotated IAM token on borrow (#7155)",
@@ -615,6 +623,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7d60612eb8",
+      "message": "Make close() authoritative for SSCAN and HSCAN cursors (#116)",
+      "date": "2026-10-06",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/116",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/7d60612eb81a03a30eeacebef49026a4fee09da4"
+    },
+    {
+      "sha": "046685fba2",
+      "message": "chore(rust): prepare `valkey-glide` for publishing (#7298)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7298",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/046685fba2ffcc1ed29ddcb5fa30f65bea8d22a4"
+    },
+    {
+      "sha": "1ccce16974",
+      "message": "refactor(rust): align the command API with redis-rs 1.7.0 (#7287)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7287",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1ccce16974473d4c0dbc1ef144dd1b51703adca7"
+    },
     {
       "sha": "4a0c4169e4",
       "message": "fix(core): Report every ClientPool discard to the bindings (#7256)",

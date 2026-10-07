@@ -2,11 +2,12 @@
   "title": "smkher",
   "login": "smkher",
   "avatar_url": "https://avatars.githubusercontent.com/u/3863574?v=4",
-  "score": 6,
+  "score": 7,
   "commit_count": 6,
-  "review_count": 0,
+  "review_count": 1,
   "repos": [
     "valkey",
+    "valkey-doc",
     "valkey-fuzzer",
     "valkey-json",
     "valkey-search"
@@ -61,5 +62,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-fuzzer/commit/8e4bed054a5915d6e10654cd0a424193922966bd"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "058a8fd1e3",
+      "message": "Documentation changes for Valkey Search 1.3 (#500)",
+      "date": "2026-10-06",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/500",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/058a8fd1e3d05b89f87e86720bcaabdcdc615e5c"
+    }
+  ]
 }

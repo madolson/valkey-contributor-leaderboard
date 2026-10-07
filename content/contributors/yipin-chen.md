@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 839,
+  "score": 847,
   "commit_count": 45,
-  "review_count": 794,
+  "review_count": 802,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,70 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "046685fba2",
+      "message": "chore(rust): prepare `valkey-glide` for publishing (#7298)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7298",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/046685fba2ffcc1ed29ddcb5fa30f65bea8d22a4"
+    },
+    {
+      "sha": "4b36283f50",
+      "message": "fix(java/go): hash whole key for empty cluster hash tag (#7294)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7294",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4b36283f503519f66a5d227bceefb3c72898bb8d"
+    },
+    {
+      "sha": "610fcfec6a",
+      "message": "fix(java): resolve flaky timeout in migrate_cluster_mode_basic test (#6746)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6746",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/610fcfec6a876c81a77e4b1003d318fa033c577c"
+    },
+    {
+      "sha": "c6f4967f3a",
+      "message": "ci(rust): publish all crates from a single approved job (#7293)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7293",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c6f4967f3a763a35081dc764bc9d4efffaab6439"
+    },
+    {
+      "sha": "20d13abd88",
+      "message": "test(python): Cut pubsub test wall time by 55% by replacing fixed sleeps with polling (#7268)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7268",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/20d13abd8897543333ba2e133103948ca9abeb10"
+    },
+    {
+      "sha": "79cd9a178a",
+      "message": "test(redis-rs): fix test-infra bugs masked by #[serial] and drop --test-threads=1 (#7249)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7249",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/79cd9a178ac426540e365e867c06c58a2f4df422"
+    },
+    {
+      "sha": "52c592d7ff",
+      "message": "fix(utils): avoid duplicate bind address when --host resolves to loopback (#7285)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7285",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/52c592d7ffeaa8c9b6f4d933fdae51b7dbf4e924"
+    },
+    {
+      "sha": "2465dc259e",
+      "message": "docs(ruby): document Valkey Search (FT.*) support (#336)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/336",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/2465dc259ebae8d4aeb59fdbb9af3fa6487f2100"
+    },
     {
       "sha": "4a0c4169e4",
       "message": "fix(core): Report every ClientPool discard to the bindings (#7256)",

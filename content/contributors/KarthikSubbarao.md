@@ -2,21 +2,70 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 274,
-  "commit_count": 102,
-  "review_count": 172,
+  "score": 295,
+  "commit_count": 114,
+  "review_count": 181,
   "repos": [
     "valkey",
     "valkey-bloom",
     "valkey-doc",
     "valkey-io.github.io",
     "valkey-json",
+    "valkey-large-object",
     "valkey-rfc",
     "valkey-search",
     "valkey-test-framework",
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "7f342d18b3",
+      "message": "rename ValkeyLargeObj to valkey-large-object (#109)",
+      "date": "2026-10-05",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/109",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/7f342d18b3d23be8272bc1c42ae556a5c18d7732"
+    },
+    {
+      "sha": "eded434e79",
+      "message": "Scaling Pt3 - Per Segment Pool Uring Engine and IoVecs Table (#105)",
+      "date": "2026-10-02",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/105",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/eded434e79a05703307fff3fb2dcb004fa4f3302"
+    },
+    {
+      "sha": "ab1f020f58",
+      "message": "Scaling Part2 (#103)",
+      "date": "2026-09-30",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/103",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/ab1f020f58baa1658c1d98626bbe91c2d49129ed"
+    },
+    {
+      "sha": "00f397e2a9",
+      "message": "Refactor engine.rs into a single driver for streamread and streamwrite (#93)",
+      "date": "2026-09-25",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/93",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/00f397e2a98a0f8bbd822117d03539c3848aa9d4"
+    },
+    {
+      "sha": "27ae59f7cc",
+      "message": "refactor(alloc): drop redundant get_allocated_span precheck (#85)",
+      "date": "2026-09-19",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/85",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/27ae59f7cc840ea484006eda1ec27029d77d9028"
+    },
+    {
+      "sha": "a2fb0f5bce",
+      "message": "Scaling (#75)",
+      "date": "2026-09-17",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/75",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/a2fb0f5bce115740e70824d3d0a7ff677bdbc22b"
+    },
     {
       "sha": "6225ee7c37",
       "message": "Add VM_ScanKeyRawBorrowed to allow scanning keys without allocating (#4403)",
@@ -32,6 +81,54 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1204",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/207aa05913eecbcc30425fdbbd356611c9f3f78a"
+    },
+    {
+      "sha": "58dd2b6557",
+      "message": "docs: add STORAGE_DESIGN.md (#46)",
+      "date": "2026-09-11",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/46",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/58dd2b6557020654204001127982360af17d01d6"
+    },
+    {
+      "sha": "cb6a16e7f1",
+      "message": "followup - correctness & hardening (#52)",
+      "date": "2026-09-03",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/52",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/cb6a16e7f11d3bf5d7c354e750b69be15dc2acdf"
+    },
+    {
+      "sha": "43c20dbeb6",
+      "message": "Critical fixes and handling (#49)",
+      "date": "2026-09-01",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/49",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/43c20dbeb664dd470b476926e9168462bbc34435"
+    },
+    {
+      "sha": "6b38b943fe",
+      "message": "Refactor to follow Storage Design: Segment, Pools ontop of Segment, DRAM Layer, NVME Layer, routing engine, Tiering (#48)",
+      "date": "2026-08-28",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/48",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/6b38b943fe99b9f84adfde05f7b38cc01123c479"
+    },
+    {
+      "sha": "bf7fd367ba",
+      "message": "Add DMA command syntax doc + Using Option 2 for now - Per-Request rkey and HELLO pinned to one client efa addr (#6)",
+      "date": "2026-08-25",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/6",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/bf7fd367ba22b1797c8da9f1ea9fab20d6fdf1d1"
+    },
+    {
+      "sha": "16163e443b",
+      "message": "Add CI pipeline (fmt, clippy, build, unit + integ tests, ASAN), direct-io config, unit tests, and fix UAF in unblock_client (#3)",
+      "date": "2026-08-18",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/3",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/16163e443b568d479ca918a5fe49dc8bc1c81161"
     },
     {
       "sha": "53ae957fd7",
@@ -836,6 +933,38 @@
   ],
   "review_list": [
     {
+      "sha": "d1e3317700",
+      "message": "Adding Keyspace notifications for set and update. Renaming LO to BLOB (#108)",
+      "date": "2026-10-05",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/108",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/d1e3317700e5bc7bb3e386e0c0ec58d1d2d92f8a"
+    },
+    {
+      "sha": "45e5fd1951",
+      "message": "add support for multi address EFA in command syntax (#102)",
+      "date": "2026-10-02",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/102",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/45e5fd1951ec2bb9c184dac28893d332cc88efc1"
+    },
+    {
+      "sha": "47bb6c56fa",
+      "message": "add max-object-size config and guardrails (#78)",
+      "date": "2026-10-01",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/78",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/47bb6c56faad264285ac5892d54087bba5e47ffc"
+    },
+    {
+      "sha": "af4cfe9d3a",
+      "message": "add missing segment expansion logic in EFA DRAM SET path (#100)",
+      "date": "2026-09-29",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/100",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/af4cfe9d3a7f3d9b1e6372e3654f21a1f164281d"
+    },
+    {
       "sha": "0e1bc33035",
       "message": "Various small scoring changes (#1400)",
       "date": "2026-09-24",
@@ -850,6 +979,30 @@
       "repo": "valkey-test-framework",
       "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/16",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/de5a710f323e0cd156e25dae616df64e6439d699"
+    },
+    {
+      "sha": "998648c0c8",
+      "message": "Adding lo.info as a command this returns length, crc and where the object is (#92)",
+      "date": "2026-09-23",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/92",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/998648c0c8fe0fbc7db73cb2032c2004997a136f"
+    },
+    {
+      "sha": "d4765e12d0",
+      "message": "note syntax resolution (#86)",
+      "date": "2026-09-22",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/86",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/d4765e12d0542b832ca9844c6daba95e9bc050b3"
+    },
+    {
+      "sha": "4668af3709",
+      "message": "start fabric servers (#81)",
+      "date": "2026-09-17",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/81",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/4668af3709fcef1f12764542f597d4c7ee719af0"
     },
     {
       "sha": "bf2e6fc726",
@@ -890,6 +1043,22 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1116",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/d8dd200c2ce07e78dba0a8b9c69cb1bffe94dbd9"
+    },
+    {
+      "sha": "ced4b320ba",
+      "message": "add largeobj data type callbacks (#41)",
+      "date": "2026-09-01",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/41",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/ced4b320ba49a883a67279c84da17f07d9e61550"
+    },
+    {
+      "sha": "7f8760f171",
+      "message": "Clean up NVMe object files on teardown and startup (#43)",
+      "date": "2026-08-29",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/43",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/7f8760f171082efdbe1d044db06ac67f2b6d0200"
     },
     {
       "sha": "2432e1e4f0",

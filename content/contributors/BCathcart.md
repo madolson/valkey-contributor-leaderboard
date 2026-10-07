@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 126,
+  "score": 130,
   "commit_count": 42,
-  "review_count": 84,
+  "review_count": 88,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8fa0d7a7d4",
+      "message": "update stale release workflow (#1535)",
+      "date": "2026-10-07",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1535",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8fa0d7a7d400f95db2fcb14dc902392a089de305"
+    },
+    {
+      "sha": "058a8fd1e3",
+      "message": "Documentation changes for Valkey Search 1.3 (#500)",
+      "date": "2026-10-06",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/500",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/058a8fd1e3d05b89f87e86720bcaabdcdc615e5c"
+    },
+    {
+      "sha": "23423a3b3a",
+      "message": "feat: introduce multi-language support for 12 snowball stemmer languages  (#1263)",
+      "date": "2026-10-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1263",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/23423a3b3ac6208a2a7fff0017e311c6ad2e4938"
+    },
+    {
+      "sha": "9600ce527b",
+      "message": "Align FT.INFO reply documentation with actual server output (#1501)",
+      "date": "2026-10-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1501",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/9600ce527b9f8d11bf59e10d24e76d29aced947b"
+    },
     {
       "sha": "42d395d2ea",
       "message": "Fix GCC 12 build and 'local' outside function in CI script (#1520)",

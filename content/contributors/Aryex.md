@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 294,
-  "commit_count": 104,
+  "score": 295,
+  "commit_count": 105,
   "review_count": 190,
   "repos": [
     "spring-data-valkey",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "2465dc259e",
+      "message": "docs(ruby): document Valkey Search (FT.*) support (#336)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/336",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/2465dc259ebae8d4aeb59fdbb9af3fa6487f2100"
+    },
     {
       "sha": "42d3d35e4b",
       "message": "fix(ffi): preserve username-only userinfo in create_client_from_uri (#7193)",
@@ -850,6 +858,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "89d4610d39",
+      "message": "chore(deps): Bump ruby/setup-ruby (#339)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/339",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/89d4610d398a95192b6591054580326a0788464f"
+    },
+    {
+      "sha": "2718084ab1",
+      "message": "chore(deps): Bump dtolnay/rust-toolchain (#340)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/340",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/2718084ab1bec8e0a1fcbc9271618b1cc7dccff4"
+    },
     {
       "sha": "86aea18a30",
       "message": "chore(deps): Update yoke-derive to 0.8.4 (0.8.3 yanked) (#7248)",

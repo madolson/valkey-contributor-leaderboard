@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 483,
-  "commit_count": 136,
-  "review_count": 347,
+  "score": 486,
+  "commit_count": 137,
+  "review_count": 349,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "610fcfec6a",
+      "message": "fix(java): resolve flaky timeout in migrate_cluster_mode_basic test (#6746)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6746",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/610fcfec6a876c81a77e4b1003d318fa033c577c"
+    },
     {
       "sha": "86e349014b",
       "message": "Fix flaky test: ClusterClientTests password reconnection with ACL user (#6056)",
@@ -1105,6 +1113,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "84f030058b",
+      "message": "feat(java): add useMutualTlsFromKeyStore to load mTLS client identity (#7258)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7258",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/84f030058ba88d318050fe6942e632cf536f5639"
+    },
+    {
+      "sha": "1ccce16974",
+      "message": "refactor(rust): align the command API with redis-rs 1.7.0 (#7287)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7287",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1ccce16974473d4c0dbc1ef144dd1b51703adca7"
+    },
+    {
+      "sha": "341070407c",
+      "message": "chore(deps): bump valkey-glide from `53ad326` to `52c592d` (#572)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/572",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/341070407c610024113bb2dd4ff8a7b21a15fbd0"
+    },
     {
       "sha": "17fe8b7e14",
       "message": "chore(deps): bump the patch-updates group with 3 updates (#573)",

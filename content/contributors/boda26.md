@@ -2,9 +2,9 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 81,
+  "score": 82,
   "commit_count": 49,
-  "review_count": 32,
+  "review_count": 33,
   "repos": [
     "valkey-search"
   ],
@@ -403,6 +403,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "23423a3b3a",
+      "message": "feat: introduce multi-language support for 12 snowball stemmer languages  (#1263)",
+      "date": "2026-10-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1263",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/23423a3b3ac6208a2a7fff0017e311c6ad2e4938"
+    },
     {
       "sha": "bf2e6fc726",
       "message": "Fix SORTBY with NOCONTENT returning unsorted results (#1215) (#1217)",

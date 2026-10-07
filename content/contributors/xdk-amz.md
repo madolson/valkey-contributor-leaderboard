@@ -2,12 +2,13 @@
   "title": "xdk-amz",
   "login": "xdk-amz",
   "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
-  "score": 8,
+  "score": 9,
   "commit_count": 5,
-  "review_count": 3,
+  "review_count": 4,
   "repos": [
     "valkey",
-    "valkey-glide"
+    "valkey-glide",
+    "valkey-perf-benchmark"
   ],
   "commit_list": [
     {
@@ -52,6 +53,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c7261ea603",
+      "message": "Add per-second metrics sampler with selectable sources (#91)",
+      "date": "2026-10-06",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/91",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/c7261ea60369e401d4c8403b10495ca2b2224c9b"
+    },
     {
       "sha": "5d3fd68586",
       "message": "Add streaming compression support for RDB (#3531)",

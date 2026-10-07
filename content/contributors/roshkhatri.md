@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 442,
-  "commit_count": 161,
-  "review_count": 281,
+  "score": 444,
+  "commit_count": 162,
+  "review_count": 282,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -20,6 +20,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "c7261ea603",
+      "message": "Add per-second metrics sampler with selectable sources (#91)",
+      "date": "2026-10-06",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/91",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/c7261ea60369e401d4c8403b10495ca2b2224c9b"
+    },
     {
       "sha": "e130edbb78",
       "message": "Support arbitrary commands and mixed loads in the on-demand benchmark (#4537)",
@@ -1310,6 +1318,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d5b6592e3c",
+      "message": "Automated Updates for Valkey Bundle (#130)",
+      "date": "2026-10-07",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/130",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/d5b6592e3c510d477d2c6ea2789442ebb9de4f75"
+    },
+    {
+      "sha": "03104cfa3a",
+      "message": "register valkey search 1.3 branch for backporting (#119)",
+      "date": "2026-10-06",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/119",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/03104cfa3a2df31a460afe7404ce4a2621a1bc98"
+    },
     {
       "sha": "7ffc744eb9",
       "message": "Skip IO-thread Replication Compression tests under Valgrind (#4774)",

@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 46,
-  "commit_count": 12,
-  "review_count": 34,
+  "score": 49,
+  "commit_count": 14,
+  "review_count": 35,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "20d13abd88",
+      "message": "test(python): Cut pubsub test wall time by 55% by replacing fixed sleeps with polling (#7268)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7268",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/20d13abd8897543333ba2e133103948ca9abeb10"
+    },
+    {
+      "sha": "79cd9a178a",
+      "message": "test(redis-rs): fix test-infra bugs masked by #[serial] and drop --test-threads=1 (#7249)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7249",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/79cd9a178ac426540e365e867c06c58a2f4df422"
+    },
     {
       "sha": "4a0c4169e4",
       "message": "fix(core): Report every ClientPool discard to the bindings (#7256)",
@@ -111,6 +127,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4b36283f50",
+      "message": "fix(java/go): hash whole key for empty cluster hash tag (#7294)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7294",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4b36283f503519f66a5d227bceefb3c72898bb8d"
+    },
     {
       "sha": "9409f947d4",
       "message": "ci(rust): add crates.io CD workflow for glide-logger (#7266)",

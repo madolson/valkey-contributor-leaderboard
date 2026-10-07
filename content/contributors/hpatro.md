@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 308,
+  "score": 309,
   "commit_count": 66,
-  "review_count": 242,
+  "review_count": 243,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -547,6 +547,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "70fbb33aed",
+      "message": "Add Rain Valentine as a committer (#4836)",
+      "date": "2026-10-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4836",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/70fbb33aedd2ca683543093b81df66adb8bec15d"
+    },
     {
       "sha": "e130edbb78",
       "message": "Support arbitrary commands and mixed loads in the on-demand benchmark (#4537)",

@@ -2,8 +2,8 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 442,
-  "commit_count": 155,
+  "score": 443,
+  "commit_count": 156,
   "review_count": 287,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "84f030058b",
+      "message": "feat(java): add useMutualTlsFromKeyStore to load mTLS client identity (#7258)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7258",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/84f030058ba88d318050fe6942e632cf536f5639"
+    },
     {
       "sha": "0b46f0551b",
       "message": "feat(python): add HGETDEL command support (#7284)",

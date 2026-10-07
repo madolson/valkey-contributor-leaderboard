@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 78,
+  "score": 79,
   "commit_count": 25,
-  "review_count": 53,
+  "review_count": 54,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -212,6 +212,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ea4d4e7d56",
+      "message": "Deflake modify new keys during forkless bgsave (#4789)",
+      "date": "2026-10-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4789",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ea4d4e7d561895f64a86238bc587063c79c23da7"
+    },
     {
       "sha": "9b270b6d8b",
       "message": "Bound the time spent evicting keys from the tracking table (#4775)",

@@ -2,8 +2,8 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1270,
-  "commit_count": 154,
+  "score": 1271,
+  "commit_count": 155,
   "review_count": 1116,
   "repos": [
     "libvalkey",
@@ -20,6 +20,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "70fbb33aed",
+      "message": "Add Rain Valentine as a committer (#4836)",
+      "date": "2026-10-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4836",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/70fbb33aedd2ca683543093b81df66adb8bec15d"
+    },
     {
       "sha": "7fe7ca45ff",
       "message": "Decouple `rdbcompression` (disk format) from `repl-compression` (wire format) (#4749)",

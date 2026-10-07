@@ -2,9 +2,9 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 55,
+  "score": 56,
   "commit_count": 10,
-  "review_count": 45,
+  "review_count": 46,
   "repos": [
     "libvalkey-py",
     "one-time-for-planet",
@@ -96,6 +96,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1b39744a61",
+      "message": "Merge pull request #348 from valkey-io/mkmkme/update-devenv",
+      "date": "2026-10-06",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/348",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/1b39744a61b0b722f8f8620732420648a009c34b"
+    },
     {
       "sha": "e871916db2",
       "message": "Add BetterDB Blog (Valkey) feed",

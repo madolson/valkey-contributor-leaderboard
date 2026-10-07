@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 324,
+  "score": 328,
   "commit_count": 83,
-  "review_count": 241,
+  "review_count": 245,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -679,6 +679,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "610fcfec6a",
+      "message": "fix(java): resolve flaky timeout in migrate_cluster_mode_basic test (#6746)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6746",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/610fcfec6a876c81a77e4b1003d318fa033c577c"
+    },
+    {
+      "sha": "c6f4967f3a",
+      "message": "ci(rust): publish all crates from a single approved job (#7293)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7293",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c6f4967f3a763a35081dc764bc9d4efffaab6439"
+    },
+    {
+      "sha": "20d13abd88",
+      "message": "test(python): Cut pubsub test wall time by 55% by replacing fixed sleeps with polling (#7268)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7268",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/20d13abd8897543333ba2e133103948ca9abeb10"
+    },
+    {
+      "sha": "79cd9a178a",
+      "message": "test(redis-rs): fix test-infra bugs masked by #[serial] and drop --test-threads=1 (#7249)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7249",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/79cd9a178ac426540e365e867c06c58a2f4df422"
+    },
+    {
+      "sha": "89d4610d39",
+      "message": "chore(deps): Bump ruby/setup-ruby (#339)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/339",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/89d4610d398a95192b6591054580326a0788464f"
+    },
+    {
+      "sha": "2718084ab1",
+      "message": "chore(deps): Bump dtolnay/rust-toolchain (#340)",
+      "date": "2026-10-06",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/340",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/2718084ab1bec8e0a1fcbc9271618b1cc7dccff4"
+    },
     {
       "sha": "32a8b595f4",
       "message": "fix(node/cd): fix napi publish related issues on node deployment (#7179)",

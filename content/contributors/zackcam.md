@@ -2,20 +2,29 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 77,
-  "commit_count": 46,
-  "review_count": 31,
+  "score": 81,
+  "commit_count": 48,
+  "review_count": 33,
   "repos": [
     "valkey",
     "valkey-bloom",
     "valkey-doc",
     "valkey-io.github.io",
     "valkey-json",
+    "valkey-large-object",
     "valkey-search",
     "valkey-test-framework",
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "d1e3317700",
+      "message": "Adding Keyspace notifications for set and update. Renaming LO to BLOB (#108)",
+      "date": "2026-10-05",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/108",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/d1e3317700e5bc7bb3e386e0c0ec58d1d2d92f8a"
+    },
     {
       "sha": "de5a710f32",
       "message": "Removing use of deprecated method to use teardown_method (#16)",
@@ -23,6 +32,14 @@
       "repo": "valkey-test-framework",
       "pr_url": "https://github.com/valkey-io/valkey-test-framework/pull/16",
       "commit_url": "https://github.com/valkey-io/valkey-test-framework/commit/de5a710f323e0cd156e25dae616df64e6439d699"
+    },
+    {
+      "sha": "998648c0c8",
+      "message": "Adding lo.info as a command this returns length, crc and where the object is (#92)",
+      "date": "2026-09-23",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/92",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/998648c0c8fe0fbc7db73cb2032c2004997a136f"
     },
     {
       "sha": "7d0acb4c97",
@@ -387,12 +404,28 @@
   ],
   "review_list": [
     {
+      "sha": "7f342d18b3",
+      "message": "rename ValkeyLargeObj to valkey-large-object (#109)",
+      "date": "2026-10-05",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/109",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/7f342d18b3d23be8272bc1c42ae556a5c18d7732"
+    },
+    {
       "sha": "0e1bc33035",
       "message": "Various small scoring changes (#1400)",
       "date": "2026-09-24",
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1400",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/0e1bc3303578a198c62a9ec86f5c94e0e2c9eb08"
+    },
+    {
+      "sha": "27ae59f7cc",
+      "message": "refactor(alloc): drop redundant get_allocated_span precheck (#85)",
+      "date": "2026-09-19",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/85",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/27ae59f7cc840ea484006eda1ec27029d77d9028"
     },
     {
       "sha": "4f6ef4b043",

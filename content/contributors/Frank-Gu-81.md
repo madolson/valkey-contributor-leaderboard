@@ -2,14 +2,48 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 33,
-  "commit_count": 15,
+  "score": 37,
+  "commit_count": 19,
   "review_count": 18,
   "repos": [
+    "valkey-ci-agent",
+    "valkey-doc",
     "valkey-perf-benchmark",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "8fa0d7a7d4",
+      "message": "update stale release workflow (#1535)",
+      "date": "2026-10-07",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1535",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8fa0d7a7d400f95db2fcb14dc902392a089de305"
+    },
+    {
+      "sha": "03104cfa3a",
+      "message": "register valkey search 1.3 branch for backporting (#119)",
+      "date": "2026-10-06",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/119",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/03104cfa3a2df31a460afe7404ce4a2621a1bc98"
+    },
+    {
+      "sha": "058a8fd1e3",
+      "message": "Documentation changes for Valkey Search 1.3 (#500)",
+      "date": "2026-10-06",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/500",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/058a8fd1e3d05b89f87e86720bcaabdcdc615e5c"
+    },
+    {
+      "sha": "9600ce527b",
+      "message": "Align FT.INFO reply documentation with actual server output (#1501)",
+      "date": "2026-10-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1501",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/9600ce527b9f8d11bf59e10d24e76d29aced947b"
+    },
     {
       "sha": "9208e3862c",
       "message": "Correct default KNN score field name in search-query.md (#1519)",
@@ -132,6 +166,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d5b6592e3c",
+      "message": "Automated Updates for Valkey Bundle (#130)",
+      "date": "2026-10-07",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/130",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/d5b6592e3c510d477d2c6ea2789442ebb9de4f75"
+    },
     {
       "sha": "c52efbe206",
       "message": "feat(query): support HYBRID_POLICY runtime override (#1460)",
