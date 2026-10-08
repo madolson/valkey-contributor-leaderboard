@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 295,
-  "commit_count": 105,
+  "score": 297,
+  "commit_count": 107,
   "review_count": 190,
   "repos": [
     "spring-data-valkey",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "a274666bed",
+      "message": "feat(ruby): add IAM authentication (#342)",
+      "date": "2026-10-07",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/342",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/a274666bed686fa02433afecb4e1bd8891e44e7f"
+    },
+    {
+      "sha": "a3eb4d8ec3",
+      "message": "chore(ruby): bump GLIDE Core sub modules (#341)",
+      "date": "2026-10-07",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/341",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/a3eb4d8ec3665e34622ca08979c68957e2070f71"
+    },
     {
       "sha": "2465dc259e",
       "message": "docs(ruby): document Valkey Search (FT.*) support (#336)",

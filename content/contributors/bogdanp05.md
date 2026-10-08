@@ -2,9 +2,9 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 56,
+  "score": 57,
   "commit_count": 10,
-  "review_count": 46,
+  "review_count": 47,
   "repos": [
     "libvalkey-py",
     "one-time-for-planet",
@@ -96,6 +96,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b23c8b3bea",
+      "message": "Fix RuntimeError when the node dict is mutated during initialize()",
+      "date": "2026-10-07",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/332",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/b23c8b3bea30edc94487c66543ee6ede24f24a56"
+    },
     {
       "sha": "1b39744a61",
       "message": "Merge pull request #348 from valkey-io/mkmkme/update-devenv",

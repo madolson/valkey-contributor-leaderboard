@@ -2,9 +2,9 @@
   "title": "xdk-amz",
   "login": "xdk-amz",
   "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
-  "score": 9,
+  "score": 10,
   "commit_count": 5,
-  "review_count": 4,
+  "review_count": 5,
   "repos": [
     "valkey",
     "valkey-glide",
@@ -53,6 +53,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "79646e93ad",
+      "message": "Add the data tiering benchmarks (#97)",
+      "date": "2026-10-07",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/97",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/79646e93ad34520ed43307f6907b082ce7b94189"
+    },
     {
       "sha": "c7261ea603",
       "message": "Add per-second metrics sampler with selectable sources (#91)",

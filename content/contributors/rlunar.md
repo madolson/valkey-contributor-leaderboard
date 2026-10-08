@@ -2,11 +2,12 @@
   "title": "rlunar",
   "login": "rlunar",
   "avatar_url": "https://avatars.githubusercontent.com/u/2453805?v=4",
-  "score": 22,
+  "score": 23,
   "commit_count": 12,
-  "review_count": 10,
+  "review_count": 11,
   "repos": [
     "valkey-bundle",
+    "valkey-doc",
     "valkey-io.github.io",
     "valkey-search"
   ],
@@ -109,6 +110,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "32983094d9",
+      "message": "Valkey search rc-1 doc sync + cleanup (#501)",
+      "date": "2026-10-07",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/501",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/32983094d9d8217336e4e3187f70b9eef4a17381"
+    },
     {
       "sha": "1e2f6a3041",
       "message": "Community Page Revamp (#660)",

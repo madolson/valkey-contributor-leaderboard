@@ -2,8 +2,8 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 948,
-  "commit_count": 216,
+  "score": 949,
+  "commit_count": 217,
   "review_count": 732,
   "repos": [
     ".github",
@@ -21,6 +21,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "8a56026234",
+      "message": "Add AI tooling policy to CONTRIBUTING.md (#4844)",
+      "date": "2026-10-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4844",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8a5602623486b3e648d00847272ee43a840e17a4"
+    },
     {
       "sha": "b4a976f68f",
       "message": "Fix execGetKeys() dropping the first 256 keys past the static buffer (#4712)",

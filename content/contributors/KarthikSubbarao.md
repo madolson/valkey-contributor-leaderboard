@@ -2,8 +2,8 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 295,
-  "commit_count": 114,
+  "score": 296,
+  "commit_count": 115,
   "review_count": 181,
   "repos": [
     "valkey",
@@ -18,6 +18,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "258c407eb0",
+      "message": "Shrinking DRAM Mode + Reclaim List Global + Reclaim cron (#111)",
+      "date": "2026-10-08",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/111",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/258c407eb0a84a6ed07db40e58668b4dc9f581a2"
+    },
     {
       "sha": "7f342d18b3",
       "message": "rename ValkeyLargeObj to valkey-large-object (#109)",

@@ -2,9 +2,9 @@
   "title": "nadav-levanoni",
   "login": "nadav-levanoni",
   "avatar_url": "https://avatars.githubusercontent.com/u/38641521?v=4",
-  "score": 5,
+  "score": 6,
   "commit_count": 3,
-  "review_count": 2,
+  "review_count": 3,
   "repos": [
     "valkey",
     "valkey-large-object"
@@ -36,6 +36,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "258c407eb0",
+      "message": "Shrinking DRAM Mode + Reclaim List Global + Reclaim cron (#111)",
+      "date": "2026-10-08",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/111",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/258c407eb0a84a6ed07db40e58668b4dc9f581a2"
+    },
     {
       "sha": "ab1f020f58",
       "message": "Scaling Part2 (#103)",

@@ -2646,5 +2646,13 @@
   "kvcache": {
     "name": "Kenny",
     "company": ""
+  },
+  "datatrigger": {
+    "name": "Vincent Le Goualher",
+    "company": "ELCA"
+  },
+  "EugeneChung": {
+    "name": "Eugene Chung",
+    "company": "teamdable"
   }
 }

@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 130,
+  "score": 133,
   "commit_count": 42,
-  "review_count": 88,
+  "review_count": 91,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -351,12 +351,36 @@
   ],
   "review_list": [
     {
+      "sha": "d8cf85ed1a",
+      "message": "Sync command JSON files and docs with 1.3.0 behavior (#1549)",
+      "date": "2026-10-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1549",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d8cf85ed1a0c18ddd0ba19c9fb268468d74f3d93"
+    },
+    {
       "sha": "8fa0d7a7d4",
       "message": "update stale release workflow (#1535)",
       "date": "2026-10-07",
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1535",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/8fa0d7a7d400f95db2fcb14dc902392a089de305"
+    },
+    {
+      "sha": "8ab5f6bbd9",
+      "message": "docs: sync with valkey-doc repo (#1541)",
+      "date": "2026-10-07",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1541",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8ab5f6bbd91f2e90f0176563157a31d66870f844"
+    },
+    {
+      "sha": "039112f5a6",
+      "message": "doc: include 1.3 branch to backport doc (#1543)",
+      "date": "2026-10-07",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1543",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/039112f5a6ae21f6b21d49609124205ccc1716fb"
     },
     {
       "sha": "058a8fd1e3",

@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 328,
+  "score": 334,
   "commit_count": 83,
-  "review_count": 245,
+  "review_count": 251,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -679,6 +679,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "896acfc41e",
+      "message": "fix(core): stop MONITOR and PubSub streams from dropping buffered handshake bytes (#6979)",
+      "date": "2026-10-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6979",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/896acfc41eb79485d76bbf16c24ef22df7de485b"
+    },
+    {
+      "sha": "02b2931ae9",
+      "message": "fix(node): log the disconnect warning when the Disconnection push arrives (#7277)",
+      "date": "2026-10-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7277",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/02b2931ae9c265e349d0e8736c4a91f4b3561580"
+    },
+    {
+      "sha": "59aabaf34f",
+      "message": "fix(core, go): use uint32 for Go BackoffStrategy fields and harden reconnect RetryStrategy against out-of-range values (#6680)",
+      "date": "2026-10-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6680",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/59aabaf34f789d00ca040746f3aecf922cc741b3"
+    },
+    {
+      "sha": "59aabaf34f",
+      "message": "fix(core, go): use uint32 for Go BackoffStrategy fields and harden reconnect RetryStrategy against out-of-range values (#6680)",
+      "date": "2026-10-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6680",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/59aabaf34f789d00ca040746f3aecf922cc741b3"
+    },
+    {
+      "sha": "a274666bed",
+      "message": "feat(ruby): add IAM authentication (#342)",
+      "date": "2026-10-07",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/342",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/a274666bed686fa02433afecb4e1bd8891e44e7f"
+    },
+    {
+      "sha": "a3eb4d8ec3",
+      "message": "chore(ruby): bump GLIDE Core sub modules (#341)",
+      "date": "2026-10-07",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/341",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/a3eb4d8ec3665e34622ca08979c68957e2070f71"
+    },
     {
       "sha": "610fcfec6a",
       "message": "fix(java): resolve flaky timeout in migrate_cluster_mode_basic test (#6746)",

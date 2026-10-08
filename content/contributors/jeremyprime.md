@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 259,
-  "commit_count": 76,
-  "review_count": 183,
+  "score": 261,
+  "commit_count": 77,
+  "review_count": 184,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "8948af2bcd",
+      "message": "fix(core): scoped connections inherit parent TLS cert material and address resolver (#7296)",
+      "date": "2026-10-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7296",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8948af2bcd59bd9004d8184729e99ce67813fd77"
+    },
     {
       "sha": "4b36283f50",
       "message": "fix(java/go): hash whole key for empty cluster hash tag (#7294)",
@@ -623,6 +631,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "59aabaf34f",
+      "message": "fix(core, go): use uint32 for Go BackoffStrategy fields and harden reconnect RetryStrategy against out-of-range values (#6680)",
+      "date": "2026-10-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6680",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/59aabaf34f789d00ca040746f3aecf922cc741b3"
+    },
     {
       "sha": "7d60612eb8",
       "message": "Make close() authoritative for SSCAN and HSCAN cursors (#116)",

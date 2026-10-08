@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 147,
+  "score": 148,
   "commit_count": 46,
-  "review_count": 101,
+  "review_count": 102,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -382,6 +382,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8a56026234",
+      "message": "Add AI tooling policy to CONTRIBUTING.md (#4844)",
+      "date": "2026-10-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4844",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8a5602623486b3e648d00847272ee43a840e17a4"
+    },
     {
       "sha": "a84b2f5b9a",
       "message": "Feature valkey path hash (#4506)",

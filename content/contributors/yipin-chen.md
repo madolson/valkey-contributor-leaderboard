@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 847,
+  "score": 849,
   "commit_count": 45,
-  "review_count": 802,
+  "review_count": 804,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "896acfc41e",
+      "message": "fix(core): stop MONITOR and PubSub streams from dropping buffered handshake bytes (#6979)",
+      "date": "2026-10-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6979",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/896acfc41eb79485d76bbf16c24ef22df7de485b"
+    },
+    {
+      "sha": "8948af2bcd",
+      "message": "fix(core): scoped connections inherit parent TLS cert material and address resolver (#7296)",
+      "date": "2026-10-07",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7296",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8948af2bcd59bd9004d8184729e99ce67813fd77"
+    },
     {
       "sha": "046685fba2",
       "message": "chore(rust): prepare `valkey-glide` for publishing (#7298)",

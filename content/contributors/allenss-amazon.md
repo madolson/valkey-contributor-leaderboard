@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 334,
+  "score": 335,
   "commit_count": 86,
-  "review_count": 248,
+  "review_count": 249,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -703,6 +703,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b7f6135a2d",
+      "message": "fix: FT.HYBRID drops coordinator's local shard together when one arm fails (#1529)",
+      "date": "2026-10-07",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1529",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/b7f6135a2d0f9d661729f22cb406611eb76f8390"
+    },
     {
       "sha": "a12bb364f9",
       "message": "feat: add Vector Range query support to FT.SEARCH (#985)",

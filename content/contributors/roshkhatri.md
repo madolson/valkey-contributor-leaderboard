@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 444,
-  "commit_count": 162,
-  "review_count": 282,
+  "score": 446,
+  "commit_count": 163,
+  "review_count": 283,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -20,6 +20,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "79646e93ad",
+      "message": "Add the data tiering benchmarks (#97)",
+      "date": "2026-10-07",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/97",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/79646e93ad34520ed43307f6907b082ce7b94189"
+    },
     {
       "sha": "c7261ea603",
       "message": "Add per-second metrics sampler with selectable sources (#91)",
@@ -1325,6 +1333,14 @@
       "repo": "valkey-bundle",
       "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/130",
       "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/d5b6592e3c510d477d2c6ea2789442ebb9de4f75"
+    },
+    {
+      "sha": "fb105b1291",
+      "message": "Support post-commands for capturing server state after benchmark runs (#94)",
+      "date": "2026-10-07",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/94",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/fb105b12913f568f6a4a4ecceb7a65aba33a8db5"
     },
     {
       "sha": "03104cfa3a",

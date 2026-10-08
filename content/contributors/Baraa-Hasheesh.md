@@ -2,13 +2,22 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 11,
-  "commit_count": 11,
+  "score": 12,
+  "commit_count": 12,
   "review_count": 0,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "fb105b1291",
+      "message": "Support post-commands for capturing server state after benchmark runs (#94)",
+      "date": "2026-10-07",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/94",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/fb105b12913f568f6a4a4ecceb7a65aba33a8db5"
+    },
     {
       "sha": "ea4d4e7d56",
       "message": "Deflake modify new keys during forkless bgsave (#4789)",

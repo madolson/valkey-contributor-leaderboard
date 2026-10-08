@@ -2,13 +2,21 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 82,
-  "commit_count": 49,
+  "score": 83,
+  "commit_count": 50,
   "review_count": 33,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "b7f6135a2d",
+      "message": "fix: FT.HYBRID drops coordinator's local shard together when one arm fails (#1529)",
+      "date": "2026-10-07",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1529",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/b7f6135a2d0f9d661729f22cb406611eb76f8390"
+    },
     {
       "sha": "3e484a7c42",
       "message": "Optimize regenerate.sh by using multiple workers (#1478)",
