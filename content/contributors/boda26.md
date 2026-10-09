@@ -2,13 +2,21 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 83,
-  "commit_count": 50,
-  "review_count": 33,
+  "score": 85,
+  "commit_count": 51,
+  "review_count": 34,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "c338559c06",
+      "message": "Fix weight 0 is rejected (#1505)",
+      "date": "2026-10-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1505",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c338559c0631699c0ddbc3273f2d91bd164c404a"
+    },
     {
       "sha": "b7f6135a2d",
       "message": "fix: FT.HYBRID drops coordinator's local shard together when one arm fails (#1529)",
@@ -411,6 +419,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "432d746b1a",
+      "message": "chore: first pass reviewer pool update (#1449)",
+      "date": "2026-10-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1449",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/432d746b1aa8f474f7c8d2997cd2eb4f542dcde0"
+    },
     {
       "sha": "23423a3b3a",
       "message": "feat: introduce multi-language support for 12 snowball stemmer languages  (#1263)",

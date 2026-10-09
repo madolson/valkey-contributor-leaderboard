@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 41,
-  "commit_count": 23,
-  "review_count": 18,
+  "score": 43,
+  "commit_count": 24,
+  "review_count": 19,
   "repos": [
     "valkey-ci-agent",
     "valkey-doc",
@@ -19,6 +19,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1549",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/d8cf85ed1a0c18ddd0ba19c9fb268468d74f3d93"
+    },
+    {
+      "sha": "432d746b1a",
+      "message": "chore: first pass reviewer pool update (#1449)",
+      "date": "2026-10-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1449",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/432d746b1aa8f474f7c8d2997cd2eb4f542dcde0"
     },
     {
       "sha": "8fa0d7a7d4",
@@ -198,6 +206,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c338559c06",
+      "message": "Fix weight 0 is rejected (#1505)",
+      "date": "2026-10-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1505",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c338559c0631699c0ddbc3273f2d91bd164c404a"
+    },
     {
       "sha": "d5b6592e3c",
       "message": "Automated Updates for Valkey Bundle (#130)",

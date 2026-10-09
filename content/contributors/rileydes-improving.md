@@ -2,10 +2,11 @@
   "title": "rileydes-improving",
   "login": "rileydes-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/216890177?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
+    "valkey-developer-resources",
     "valkey-search"
   ],
   "commit_list": [
@@ -16,6 +17,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/967",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/d719c30c20c05c7fd053f0517107da53f5c0b868"
+    },
+    {
+      "sha": "53e5a9264c",
+      "message": "feat(lmcache): rewrite the lmcache cookbook inorder to align with the discussed outline and changes",
+      "date": "2026-09-05",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/53e5a9264c7312fd8d60761d7472d07224afdcc1"
     },
     {
       "sha": "7296a5a1b7",

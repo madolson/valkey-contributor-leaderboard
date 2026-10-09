@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 296,
+  "score": 297,
   "commit_count": 115,
-  "review_count": 181,
+  "review_count": 182,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -940,6 +940,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a073b2552c",
+      "message": "Fixing copy bug, adding largeobj ACL category (#112)",
+      "date": "2026-10-09",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/112",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/a073b2552c49d91fecd9f0726d2f808ce7c347b9"
+    },
     {
       "sha": "d1e3317700",
       "message": "Adding Keyspace notifications for set and update. Renaming LO to BLOB (#108)",

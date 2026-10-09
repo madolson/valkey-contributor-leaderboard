@@ -2,14 +2,22 @@
   "title": "mnunberg1",
   "login": "mnunberg1",
   "avatar_url": "https://github.com/mnunberg1.png?size=64",
-  "score": 2,
+  "score": 3,
   "commit_count": 0,
-  "review_count": 2,
+  "review_count": 3,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [],
   "review_list": [
+    {
+      "sha": "c338559c06",
+      "message": "Fix weight 0 is rejected (#1505)",
+      "date": "2026-10-08",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1505",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c338559c0631699c0ddbc3273f2d91bd164c404a"
+    },
     {
       "sha": "f04b8651ce",
       "message": "make dev config mutable (#1485)",

@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 124,
+  "score": 125,
   "commit_count": 41,
-  "review_count": 83,
+  "review_count": 84,
   "repos": [
     "valkey",
     "valkey-container",
@@ -344,6 +344,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ff9481cfbe",
+      "message": "Restore replica flow control with I/O threads enabled (#4765)",
+      "date": "2026-10-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4765",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ff9481cfbee0ebb3237404705e3e8fc6cf122f8c"
+    },
     {
       "sha": "3293091659",
       "message": "Fix valkey-benchmark spin on would-block writes (#4567)",

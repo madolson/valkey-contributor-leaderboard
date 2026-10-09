@@ -2,15 +2,24 @@
   "title": "jbrinkman",
   "login": "jbrinkman",
   "avatar_url": "https://avatars.githubusercontent.com/u/862921?v=4",
-  "score": 200,
-  "commit_count": 51,
-  "review_count": 149,
+  "score": 220,
+  "commit_count": 52,
+  "review_count": 168,
   "repos": [
+    "valkey-developer-resources",
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "6bace53681",
+      "message": "Merge pull request #8 from valkey-io/migration/cookbooks",
+      "date": "2026-05-11",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/8",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/6bace53681e1925d34cf745199c8b14f739dd02b"
+    },
     {
       "sha": "7119d9893b",
       "message": "feat: Implement PubSub commands for standalone and cluster clients (#109)",
@@ -421,6 +430,158 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2fa55eb84a",
+      "message": "Merge pull request #102 from valkey-io/readme-naming-update",
+      "date": "2026-10-06",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/102",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/2fa55eb84accb02ddb0b84bbf57c4ac36cd52599"
+    },
+    {
+      "sha": "25ae84a5b7",
+      "message": "Merge pull request #76 from valkey-io/cookbook-lmcache-revamp",
+      "date": "2026-10-05",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/25ae84a5b75a9dc11167347a4a8e66dcc0e56765"
+    },
+    {
+      "sha": "25ae84a5b7",
+      "message": "Merge pull request #76 from valkey-io/cookbook-lmcache-revamp",
+      "date": "2026-10-05",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/25ae84a5b75a9dc11167347a4a8e66dcc0e56765"
+    },
+    {
+      "sha": "25ae84a5b7",
+      "message": "Merge pull request #76 from valkey-io/cookbook-lmcache-revamp",
+      "date": "2026-10-05",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/25ae84a5b75a9dc11167347a4a8e66dcc0e56765"
+    },
+    {
+      "sha": "5993b8fd94",
+      "message": "docs(kv-caching): show detected memory in the preflight",
+      "date": "2026-10-01",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/5993b8fd945e8e07546ce5834c9467d20c3b9b70"
+    },
+    {
+      "sha": "5993b8fd94",
+      "message": "docs(kv-caching): show detected memory in the preflight",
+      "date": "2026-10-01",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/5993b8fd945e8e07546ce5834c9467d20c3b9b70"
+    },
+    {
+      "sha": "5993b8fd94",
+      "message": "docs(kv-caching): show detected memory in the preflight",
+      "date": "2026-10-01",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/5993b8fd945e8e07546ce5834c9467d20c3b9b70"
+    },
+    {
+      "sha": "53e5a9264c",
+      "message": "feat(lmcache): rewrite the lmcache cookbook inorder to align with the discussed outline and changes",
+      "date": "2026-09-05",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/53e5a9264c7312fd8d60761d7472d07224afdcc1"
+    },
+    {
+      "sha": "53e5a9264c",
+      "message": "feat(lmcache): rewrite the lmcache cookbook inorder to align with the discussed outline and changes",
+      "date": "2026-09-05",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/53e5a9264c7312fd8d60761d7472d07224afdcc1"
+    },
+    {
+      "sha": "53e5a9264c",
+      "message": "feat(lmcache): rewrite the lmcache cookbook inorder to align with the discussed outline and changes",
+      "date": "2026-09-05",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/53e5a9264c7312fd8d60761d7472d07224afdcc1"
+    },
+    {
+      "sha": "2fabbc4d6f",
+      "message": "fix(lmcache): remove vendor-specific deployment guidance",
+      "date": "2026-08-24",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/2fabbc4d6f413b3a896e3dfedb5bdf93348e1926"
+    },
+    {
+      "sha": "2fabbc4d6f",
+      "message": "fix(lmcache): remove vendor-specific deployment guidance",
+      "date": "2026-08-24",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/2fabbc4d6f413b3a896e3dfedb5bdf93348e1926"
+    },
+    {
+      "sha": "2fabbc4d6f",
+      "message": "fix(lmcache): remove vendor-specific deployment guidance",
+      "date": "2026-08-24",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/2fabbc4d6f413b3a896e3dfedb5bdf93348e1926"
+    },
+    {
+      "sha": "e4f87da810",
+      "message": "fix: complete nav footers and rename CI workflow to cookbook-lmcache.yml",
+      "date": "2026-08-24",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/e4f87da8102c13159941445cb0bc9d28edb963df"
+    },
+    {
+      "sha": "e4f87da810",
+      "message": "fix: complete nav footers and rename CI workflow to cookbook-lmcache.yml",
+      "date": "2026-08-24",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/e4f87da8102c13159941445cb0bc9d28edb963df"
+    },
+    {
+      "sha": "e4f87da810",
+      "message": "fix: complete nav footers and rename CI workflow to cookbook-lmcache.yml",
+      "date": "2026-08-24",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/e4f87da8102c13159941445cb0bc9d28edb963df"
+    },
+    {
+      "sha": "e61fb8fb39",
+      "message": "fix: disable MD013 (line length) rule entirely",
+      "date": "2026-08-12",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/40",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/e61fb8fb39cffb57e0f4bc0eaf2e697c024bd3fb"
+    },
+    {
+      "sha": "125330e2cf",
+      "message": "Merge pull request #10 from valkey-io/cookbook-langchain4j",
+      "date": "2026-05-26",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/10",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/125330e2cfe7f613d3142a2c265fad1f60479056"
+    },
+    {
+      "sha": "9fb9bf16c1",
+      "message": "Merge pull request #12 from valkey-io/cookbooks/docs-gpt-valkey-integration",
+      "date": "2026-05-20",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/12",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/9fb9bf16c19fd4724c671f4906e4fd7494f5f77d"
+    },
     {
       "sha": "96e79b928f",
       "message": "Bump actions/github-script from 7 to 8 (#82)",

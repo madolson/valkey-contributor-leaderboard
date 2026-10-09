@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 65,
+  "score": 66,
   "commit_count": 9,
-  "review_count": 56,
+  "review_count": 57,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "29a282ac63",
+      "message": "fix: do not start the reader when the sync path fails (#203)",
+      "date": "2026-10-09",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/203",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/29a282ac63013d09bc5a944e1556b8889c7993fa"
+    },
     {
       "sha": "1d5dcf601c",
       "message": "feat: add MUnlink helper (#197)",

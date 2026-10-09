@@ -189584,6 +189584,3905 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1529"
+    },
+    {
+      "sha": "1db8edcbe1a641618c7836d18967d3b6f4678c3b",
+      "author_login": "Baraa-Hasheesh",
+      "author_id": 202973079,
+      "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
+      "message": "geohash code cleanup (#4787)",
+      "date": "2026-10-08T20:31:55Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-10-08T20:31:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4787"
+    },
+    {
+      "sha": "ff9481cfbee0ebb3237404705e3e8fc6cf122f8c",
+      "author_login": "chky1386",
+      "author_id": 63842058,
+      "avatar_url": "https://avatars.githubusercontent.com/u/63842058?v=4",
+      "message": "Restore replica flow control with I/O threads enabled (#4765)",
+      "date": "2026-10-08T07:47:24Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-09-23T19:57:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4765"
+    },
+    {
+      "sha": "9407483e3cd7a0202b1b75978c6208e105614970",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Run CI and CodeQL on release branches (#549)",
+      "date": "2026-10-09T00:43:36Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ArgusLi",
+          "date": "2026-10-07T22:40:13Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/549"
+    },
+    {
+      "sha": "e4ae3490809e38a87465e3dc6dae8d96228430ac",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Label the sample K8s StatefulSet as local-testing only (#550)",
+      "date": "2026-10-09T00:43:02Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ArgusLi",
+          "date": "2026-10-07T22:40:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/550"
+    },
+    {
+      "sha": "2fa55eb84accb02ddb0b84bbf57c4ac36cd52599",
+      "author_login": "alexey-temnikov",
+      "author_id": 7035336,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
+      "message": "Merge pull request #102 from valkey-io/readme-naming-update",
+      "date": "2026-10-06T07:50:29Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-10-05T16:42:31Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/102"
+    },
+    {
+      "sha": "16f319000a82bd2012d56bb207ccacb9b8290301",
+      "author_login": "alexey-temnikov",
+      "author_id": 7035336,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
+      "message": "docs: re-add MAINTAINERS.md and add GOVERNANCE.md",
+      "date": "2026-10-05T15:20:40Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-10-05T16:42:31Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/102"
+    },
+    {
+      "sha": "9cb0128852a17c002c4844e63aaaf3d2613f9e12",
+      "author_login": "alexey-temnikov",
+      "author_id": 7035336,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
+      "message": "docs(kv-caching): keep the notebook's original title block",
+      "date": "2026-10-05T14:25:08Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-10-05T16:42:31Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/102"
+    },
+    {
+      "sha": "4377f1ce6fb2b1aa7ae178b97f08752eac2c1f31",
+      "author_login": "alexey-temnikov",
+      "author_id": 7035336,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
+      "message": "docs: point CONTRIBUTING questions and issues at this repository",
+      "date": "2026-10-05T14:20:31Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-10-05T16:42:31Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/102"
+    },
+    {
+      "sha": "0bbfc98665f2d050c122a20305d6da141dc733f9",
+      "author_login": "alexey-temnikov",
+      "author_id": 7035336,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
+      "message": "docs(kv-caching): fix reader-facing errors in the README and notebook",
+      "date": "2026-10-05T14:20:31Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-10-05T16:42:31Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/102"
+    },
+    {
+      "sha": "7c40306b8fac6780eee41a4955568ffa3bb25d00",
+      "author_login": "alexey-temnikov",
+      "author_id": 7035336,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
+      "message": "fix(kv-caching): run on Podman and pin LMCache's dependencies",
+      "date": "2026-10-05T14:20:31Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-10-05T16:42:31Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/102"
+    },
+    {
+      "sha": "43f691a9a585d4581c463563db932a1f7e104d6e",
+      "author_login": "alexey-temnikov",
+      "author_id": 7035336,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
+      "message": "docs: rename title, singularize cookbook, drop MAINTAINERS",
+      "date": "2026-10-05T12:40:14Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-10-05T16:42:31Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/102"
+    },
+    {
+      "sha": "0a650b09c9cecffabf4f8c81bc9f3fb95b2bbca9",
+      "author_login": "alexey-temnikov",
+      "author_id": 7035336,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
+      "message": "Merge pull request #43 from valkey-io/ci-cookbook-validation",
+      "date": "2026-10-05T12:29:10Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T17:52:59Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/43"
+    },
+    {
+      "sha": "25ae84a5b75a9dc11167347a4a8e66dcc0e56765",
+      "author_login": "alexey-temnikov",
+      "author_id": 7035336,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
+      "message": "Merge pull request #76 from valkey-io/cookbook-lmcache-revamp",
+      "date": "2026-10-05T12:29:05Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "649e48ec6aeff33ecc494aa9efb08d658fd32ea5",
+      "author_login": "alexey-temnikov",
+      "author_id": 7035336,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
+      "message": "Merge pull request #94 from valkey-io/contributing-notebook-convention",
+      "date": "2026-10-05T12:27:24Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "5993b8fd945e8e07546ce5834c9467d20c3b9b70",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(kv-caching): show detected memory in the preflight",
+      "date": "2026-10-01T16:01:18Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "26a4c4476a7da44405dff888f9fea6b7c45e2c52",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(kv-caching): detect Podman-as-docker in preflight, lower to 8 GiB, name recipes",
+      "date": "2026-10-01T15:51:16Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "384f76bb0c48a30a9454d4145efedcd653ebf201",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "perf(kv-caching): cut stack memory to under 8 GiB, runtime-agnostic tests",
+      "date": "2026-10-01T14:37:32Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "1f8c507fbf88ab265e10178316495aa4049df959",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(contributing): CI wording + heavy-runtime exception (apply #100)",
+      "date": "2026-10-01T14:23:03Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d94d74ae3db721daf267c06fb72ca329fa3e5887",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "ci: let heavy cookbooks skip notebook execution (reconcile #99 with uv)",
+      "date": "2026-10-01T14:21:43Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T17:52:59Z"
+        },
+        {
+          "login": "alexey-temnikov",
+          "date": "2026-10-05T12:28:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/43"
+    },
+    {
+      "sha": "02198ab550dc2d4251e7d222e40f34a85f1d447d",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "ci: run Python cookbooks with uv",
+      "date": "2026-10-01T13:48:56Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T17:52:59Z"
+        },
+        {
+          "login": "alexey-temnikov",
+          "date": "2026-10-05T12:28:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/43"
+    },
+    {
+      "sha": "abb5d90aa8f44f5d0166c97edd7e9be7fe950b9f",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(contributing): require uv for Python cookbooks",
+      "date": "2026-10-01T13:46:45Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3a9ea0bb77395ebc3904b7fbb9a3dc7b4b35b5ca",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(kv-caching): add uv install guidance to Prerequisites",
+      "date": "2026-10-01T13:43:53Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "85657603ba298cf1a155a9ea08203b569daf0901",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "chore(kv-caching): manage dependencies with uv and pyproject.toml",
+      "date": "2026-10-01T13:43:53Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "cac57f33b92e791a1b2318028d70a130dd8d080c",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(kv-caching): drop dead KEYS * helper, make README preflight paste-safe",
+      "date": "2026-09-24T12:21:06Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "c4e38c73c73c0943f5c58af8f97210c15a98bcb9",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "test(kv-caching): address review nits on the wiring tests",
+      "date": "2026-09-21T18:46:38Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "bbbb7d1f651df6cb4d154d13bcb309921fb32c49",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(kv-caching): add cookbook README, address review feedback",
+      "date": "2026-09-21T17:50:07Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "1d6463fe019a178548fed0f1c24ad2a8040ae9fe",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "ci: run cookbook standalone test_*.py, not just nbmake",
+      "date": "2026-09-21T17:00:21Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T17:52:59Z"
+        },
+        {
+          "login": "alexey-temnikov",
+          "date": "2026-10-05T12:28:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/43"
+    },
+    {
+      "sha": "6a5e3073837d57c1a01bb9acaf0be845bed4f372",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs: align cookbook convention with the single-notebook pattern",
+      "date": "2026-09-21T15:10:30Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b9707f6b26284ea0f6eace0e5a50d5d3d76a1c56",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(kv-caching): trim compose comments and align the memory requirement to 16 GiB",
+      "date": "2026-09-16T18:53:36Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "96332d4487b8ec974e28493227a7dbd92ab87067",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "remove cpu vs gpu paragraph, clean up run command",
+      "date": "2026-09-16T13:00:17Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "2e09faf95097111af62c1a76c3a9eb9783e4c386",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "removed extraneous paragraph",
+      "date": "2026-09-16T12:52:41Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "91f27b6c00b64ee9985c0c78e383c8f32e39ca27",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "fix(kv-caching): lower the Docker memory preflight threshold to ~15.58 GiB",
+      "date": "2026-09-15T22:27:31Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "843624bb4942704d02d562116a46ffdafb22083f",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Update cookbooks/kv-caching/kv-caching-with-valkey.ipynb",
+      "date": "2026-09-15T22:20:35Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "1f8c71e28a91758f49d87b19f1b65f263a77dc09",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Update README.md",
+      "date": "2026-09-15T22:20:09Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "2741fbcd8f6725048f32b72802bb780396fb0a9d",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "refactor(kv-caching): move the LMCache cookbook up to cookbooks/kv-caching/",
+      "date": "2026-09-14T17:47:22Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "beb48aa5778d8e79734021f5a3af268ea9f8ae4f",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "updates prompt",
+      "date": "2026-09-11T21:45:37Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "e8874e7ffdd2c661ffda1c8f60439c38e9c3a3fb",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Update cookbooks/kv-caching/lmcache/kv-caching-with-valkey.ipynb",
+      "date": "2026-09-11T20:17:38Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "087c5780b71512ade45bfe1f5dafbe0600befb2f",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Update cookbooks/kv-caching/lmcache/kv-caching-with-valkey.ipynb",
+      "date": "2026-09-11T20:17:07Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "85b05778f44dfa3d62a9cd018635f64a193dbc9c",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Update cookbooks/kv-caching/lmcache/docker-compose.yml",
+      "date": "2026-09-11T20:16:49Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "fb64519259d3c86e559a92f232a7e1d7373b9779",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Update cookbooks/kv-caching/lmcache/kv-caching-with-valkey.ipynb",
+      "date": "2026-09-11T20:16:23Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "ace45c1d4a94a6bc4c2b80ebc13c73facddb8729",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Update cookbooks/kv-caching/lmcache/docker-compose.yml",
+      "date": "2026-09-11T20:16:09Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "8eebc0803d960f27fa7a779126b01543332d5fd6",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Update cookbooks/kv-caching/lmcache/docker-compose.yml",
+      "date": "2026-09-11T20:15:36Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "c82ba3dbb3f906cb88871a320104592f37638bd6",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Update cookbooks/kv-caching/lmcache/docker-compose.yml",
+      "date": "2026-09-11T20:15:19Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "ca0e45d79281f1c12d69df59a3483c2680109511",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Update cookbooks/kv-caching/lmcache/docker-compose.yml",
+      "date": "2026-09-11T20:14:59Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "288296c0f1db282fa458e60ef17b94a104a79121",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Update cookbooks/kv-caching/lmcache/docker-compose.yml",
+      "date": "2026-09-11T20:14:43Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "97389e9e11fc290712a1a8750ea95b3cd50a33fe",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Update cookbooks/kv-caching/lmcache/docker-compose.yml",
+      "date": "2026-09-11T20:14:05Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "fc6074252a963909e4aacb8a7abbdc73a0a36db7",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Update cookbooks/kv-caching/lmcache/docker-compose.yml",
+      "date": "2026-09-11T20:13:45Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "a34a7992e9d133aff8812e46ca533fb74d966c86",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Update cookbooks/kv-caching/lmcache/docker-compose.yml",
+      "date": "2026-09-11T20:13:20Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "e87976e533616799b6bc742fad743650217b232f",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(lmcache): drop the two SETUP.md references left in the notebook",
+      "date": "2026-09-11T16:39:22Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "63e5917e8eec761a9c96dffba6913bef3a2bdab5",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(lmcache): remove SETUP.md, keep setup commands inline in the notebook",
+      "date": "2026-09-11T16:39:04Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "da8160704b14bf1031c5b8236c442585f4d684c2",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "fix(lmcache): make the cold turn genuinely store KV, ship notebook without stale outputs",
+      "date": "2026-09-10T23:33:11Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "5e5121feee829cc1097fd9488dcdf6454a1e679a",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(lmcache): lead the config comments with what each thing is",
+      "date": "2026-09-10T22:53:06Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "42965f8a02e48446ce60a8ba1c8dee6826add901",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "fix(lmcache): pin the vLLM image by digest so lmcache install stays CPU-only",
+      "date": "2026-09-10T22:31:53Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "1fae200b7c9d7686fd8a117f3a1b151c462a8b68",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "fix(lmcache): use the Valkey GLIDE client in the notebook",
+      "date": "2026-09-10T22:27:46Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "55ef7a1959f075d3ef19096ac36df9402dbdd0a4",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "fix(lmcache): actually switch the notebook to the valkey client",
+      "date": "2026-09-10T21:34:51Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "5b3f58b39ecd895c77d82761051d254790136e7c",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(lmcache): keep setup commands inline, note SETUP.md for copy-paste",
+      "date": "2026-09-10T21:23:49Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "051d45d131d0d6f6a0bf59255538ba53c1fe5a1d",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(lmcache): move terminal setup into a copy-paste SETUP.md",
+      "date": "2026-09-10T21:03:36Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "0b181f7c738b558755dc91a80ed795e8b945698b",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "fix(lmcache): read Valkey over the network, not via docker exec",
+      "date": "2026-09-10T20:49:43Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "af5cb6f31061c2d837805f7385f15d764882bf60",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "feat(lmcache): switch demo model to Qwen2.5-0.5B-Instruct",
+      "date": "2026-09-10T20:19:40Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "80265ee17028415197f40af4dcdc01d657bba946",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(lmcache): add run guidance to the notebook",
+      "date": "2026-09-10T18:17:37Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "e55f1d3cad910474196fc62ca4d408a5c8c9f1ce",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(lmcache): migrate README-only content into the notebook, index from root",
+      "date": "2026-09-10T16:50:47Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "da4cb05462cbd62cbc9088e7189a434f15c7faea",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(lmcache): fold the README into the notebook, link from the root README",
+      "date": "2026-09-10T16:50:31Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "bca88b0a3049b6c372fb3336b9c8a98aba07e8b8",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(lmcache): add a cold-vs-warm latency demo and pin Python 3.12",
+      "date": "2026-09-10T15:46:18Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "e82c693b369fa8ae25da12f233cf773a669d1ebd",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(lmcache): document Valkey adapter TTL and chunk_size guidance",
+      "date": "2026-09-10T15:07:46Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "0f0b3ec4d1b48a6209d1d7352a1773fae08cb0a2",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(lmcache): add difficulty badge and finish README review items",
+      "date": "2026-09-10T14:59:53Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "237ea97de6299e6d75cf752f3c519841e303ec97",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "feat(lmcache): read KV back from Valkey (skip_l1) and address README feedback",
+      "date": "2026-09-10T14:49:36Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "d4922ab2857ecec3f669d6792e6dac2195b3518d",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(lmcache): reword the shared-cache comment in docker-compose",
+      "date": "2026-09-10T14:19:25Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "9122f9a2491d97fe70e648a83a1ec0238b8781d9",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "refactor(lmcache): move cookbook to cookbooks/kv-caching/lmcache",
+      "date": "2026-09-10T14:14:12Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "b60554c723e0b9aa0f24e2e6c90915678a9124dc",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "fix(lmcache): run on CPU + ARM by fixing the lmcache server transfer mode",
+      "date": "2026-09-10T14:00:44Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "9c9f0bcad55161b8c35421fc97ff84bc6b7e47ba",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "fix(lmcache): make the KV-cache-in-Valkey demo actually work on CPU",
+      "date": "2026-09-08T15:56:02Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "53e5a9264c7312fd8d60761d7472d07224afdcc1",
+      "author_login": "rileydes-improving",
+      "author_id": 216890177,
+      "avatar_url": "https://avatars.githubusercontent.com/u/216890177?v=4",
+      "message": "feat(lmcache): rewrite the lmcache cookbook inorder to align with the discussed outline and changes",
+      "date": "2026-09-05T02:12:21Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "376e0f9288b08e08aaf8f3f26b05f2ebae12ff60",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs: reconcile cookbook required-files and Valkey startup guidance",
+      "date": "2026-08-31T13:00:36Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "fde736e185a9f2c717e8ce3e61776d9acba99f8e",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "ci: finish pinning the notebook toolchain and harden extras",
+      "date": "2026-08-31T12:56:02Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T17:52:59Z"
+        },
+        {
+          "login": "alexey-temnikov",
+          "date": "2026-10-05T12:28:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/43"
+    },
+    {
+      "sha": "1df5715ed81eedccd28f47d55c645533e51515cf",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(lmcache): address review feedback on README and notebooks",
+      "date": "2026-08-26T13:32:10Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "06c90376bf9a9e97e08bd41e2b62bf370de59bc9",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "ci: validate cookbook notebooks; harden per review",
+      "date": "2026-08-25T14:34:51Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T17:52:59Z"
+        },
+        {
+          "login": "alexey-temnikov",
+          "date": "2026-10-05T12:28:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/43"
+    },
+    {
+      "sha": "19d35e7c40486fe7dd8b81bd408da56f1ef52bde",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs: use notebooks for all cookbook languages, not just Python",
+      "date": "2026-08-25T14:19:30Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "6f53b17d57fed8ea39b5d65f0302768c803faa32",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(lmcache): use CPU-safe naive serde in 03, note cachegen is GPU-only",
+      "date": "2026-08-25T14:07:58Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "cd9c2f913f0e80fc101b5dbbc7ad5ee8f952bcdb",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(lmcache): convert cookbook to notebooks with genuine end-to-end",
+      "date": "2026-08-25T14:05:14Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "d0b71fd9f3270fc8ce4d812a3199cc33d0ba4590",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "chore: standardize sample/.gitignore across Python cookbooks",
+      "date": "2026-08-24T19:46:59Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "2fabbc4d6f413b3a896e3dfedb5bdf93348e1926",
+      "author_login": "atao2004",
+      "author_id": 148929819,
+      "avatar_url": "https://avatars.githubusercontent.com/u/148929819?v=4",
+      "message": "fix(lmcache): remove vendor-specific deployment guidance",
+      "date": "2026-08-24T19:46:59Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "3cd5b2b1ffb5938ff7b7d095b10c74be44e65ded",
+      "author_login": "atao2004",
+      "author_id": 148929819,
+      "avatar_url": "https://avatars.githubusercontent.com/u/148929819?v=4",
+      "message": "docs(lmcache): align cookbook sample conventions",
+      "date": "2026-08-24T19:46:59Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "e499a1480f5d97abb11e6bc0474b9fda5b56c694",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs(lmcache): remove Podman references",
+      "date": "2026-08-24T19:46:59Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "1a64618ce0effeb59bed49db749f63c94a2dba95",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "fix(lmcache): remove per-PR CI, rename client \u2192 valkeyClient",
+      "date": "2026-08-24T19:46:59Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "e44362148710204a6eed4d9333df7119b05c7c81",
+      "author_login": "atao2004",
+      "author_id": 148929819,
+      "avatar_url": "https://avatars.githubusercontent.com/u/148929819?v=4",
+      "message": "fix(lmcache): place cookbook under python integrations",
+      "date": "2026-08-24T19:46:59Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "e4f87da8102c13159941445cb0bc9d28edb963df",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "fix: complete nav footers and rename CI workflow to cookbook-lmcache.yml",
+      "date": "2026-08-24T19:46:59Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "2001dfe3b0935e33d55ca0eee4b1286ae90bcc9b",
+      "author_login": "atao2004",
+      "author_id": 148929819,
+      "avatar_url": "https://avatars.githubusercontent.com/u/148929819?v=4",
+      "message": "fix(lmcache): repair broken LMCache example link (lychee CI failure)",
+      "date": "2026-08-24T19:46:59Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "8420fa3c7110e64e750530e7c84764611d67b184",
+      "author_login": "atao2004",
+      "author_id": 148929819,
+      "avatar_url": "https://avatars.githubusercontent.com/u/148929819?v=4",
+      "message": "docs(lmcache): revamp LMCache + Valkey cookbook series",
+      "date": "2026-08-24T19:46:59Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T18:00:40Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-19T20:01:44Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:44:08Z"
+        },
+        {
+          "login": "jbrinkman",
+          "date": "2026-09-09T22:54:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76"
+    },
+    {
+      "sha": "a41d893220595dd0c7ec8f1d7fd92b1cd1fe1ec3",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs: adopt Jupyter notebooks for Python cookbooks",
+      "date": "2026-08-24T19:44:11Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "acc280f506be82fb492c5013eec4713d7547ad3a",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "ci: align setup-python to v7.0.0 across all jobs",
+      "date": "2026-08-18T13:31:38Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T17:52:59Z"
+        },
+        {
+          "login": "alexey-temnikov",
+          "date": "2026-10-05T12:28:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/43"
+    },
+    {
+      "sha": "f26d7a4ce8759756c016f7ef0a9c21b66e13000e",
+      "author_login": "atao2004",
+      "author_id": 148929819,
+      "avatar_url": "https://avatars.githubusercontent.com/u/148929819?v=4",
+      "message": "ci: validate Python cookbook samples",
+      "date": "2026-08-18T06:52:44Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T17:52:59Z"
+        },
+        {
+          "login": "alexey-temnikov",
+          "date": "2026-10-05T12:28:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/43"
+    },
+    {
+      "sha": "a3c8f6e6e662b67bf85e7d158a0031dd42caa142",
+      "author_login": "atao2004",
+      "author_id": 148929819,
+      "avatar_url": "https://avatars.githubusercontent.com/u/148929819?v=4",
+      "message": "ci: add Go cookbook validation",
+      "date": "2026-08-18T01:12:30Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T17:52:59Z"
+        },
+        {
+          "login": "alexey-temnikov",
+          "date": "2026-10-05T12:28:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/43"
+    },
+    {
+      "sha": "4357030b64ccbbb6a5ed3208d90e4dddf167f77b",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "fix: add eslint lint step to Node cookbook validation",
+      "date": "2026-08-12T20:33:29Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T17:52:59Z"
+        },
+        {
+          "login": "alexey-temnikov",
+          "date": "2026-10-05T12:28:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/43"
+    },
+    {
+      "sha": "3d771f92cd1b209096b0400ed6aff74ff2f2bc37",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Merge branch 'main' into ci-cookbook-validation",
+      "date": "2026-08-12T20:31:43Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T17:52:59Z"
+        },
+        {
+          "login": "alexey-temnikov",
+          "date": "2026-10-05T12:28:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/43"
+    },
+    {
+      "sha": "cfc073b42b16f5b417e66207e2b640419333cd15",
+      "author_login": "jbrinkman",
+      "author_id": 862921,
+      "avatar_url": "https://avatars.githubusercontent.com/u/862921?v=4",
+      "message": "Merge pull request #40 from valkey-io/contributing-guidelines",
+      "date": "2026-08-12T20:08:45Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e61fb8fb39cffb57e0f4bc0eaf2e697c024bd3fb",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "fix: disable MD013 (line length) rule entirely",
+      "date": "2026-08-12T19:58:26Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-12T20:08:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/40"
+    },
+    {
+      "sha": "6fa19b93575894ee387e2e499096c793f41b53fa",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "fix: address PR #40 review \u2014 RFC compliance updates",
+      "date": "2026-08-12T19:50:57Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-12T20:08:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/40"
+    },
+    {
+      "sha": "983aa2174d2f71a72b2e729512755ed6ef911ffc",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "fix: address PR #43 review \u2014 dynamic discovery + Python support",
+      "date": "2026-08-12T19:36:24Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T17:52:59Z"
+        },
+        {
+          "login": "alexey-temnikov",
+          "date": "2026-10-05T12:28:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/43"
+    },
+    {
+      "sha": "6d13cc88f08a13df5eee8b54aa1d5d1d58394ef3",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "ci: use valkey-bundle with pinned version matrix",
+      "date": "2026-07-14T14:02:56Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T17:52:59Z"
+        },
+        {
+          "login": "alexey-temnikov",
+          "date": "2026-10-05T12:28:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/43"
+    },
+    {
+      "sha": "61dcd1c37c75e5082dbd6e25bdda3740060a4533",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs: prefer valkey-bundle with pinned versions, add version matrix policy",
+      "date": "2026-07-14T14:02:16Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-12T20:08:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/40"
+    },
+    {
+      "sha": "aeb02749f12c3053415bcab9cda0c331ad3461f7",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "ci: add cookbook validation workflow",
+      "date": "2026-07-10T14:25:08Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-08-18T17:52:59Z"
+        },
+        {
+          "login": "alexey-temnikov",
+          "date": "2026-10-05T12:28:41Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/43"
+    },
+    {
+      "sha": "5c2ecede961a209539df85ab4d9ec9d6ba703d43",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "fix: remove duplicate closing brace in .markdownlint.jsonc",
+      "date": "2026-07-10T13:31:37Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-12T20:08:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/40"
+    },
+    {
+      "sha": "7b442ca18c265308dae053ec797cd10ae19f0144",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Merge branch 'main' into contributing-guidelines",
+      "date": "2026-07-10T13:29:55Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-12T20:08:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/40"
+    },
+    {
+      "sha": "ec70f819321572f818d9282cfd603f80dffe4036",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "fix: resolve markdown lint failures",
+      "date": "2026-07-09T17:50:10Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-12T20:08:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/40"
+    },
+    {
+      "sha": "b264d4d618456440af8b2f6c891c984012809472",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs: address RFC-aligned review feedback",
+      "date": "2026-07-09T17:47:37Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-12T20:08:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/40"
+    },
+    {
+      "sha": "05fd0171f5111d2f0cea690a447d64198ce3a703",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Merge pull request #41 from valkey-io/ci-markdown-linting",
+      "date": "2026-07-09T13:22:11Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-07-08T21:50:15Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/41"
+    },
+    {
+      "sha": "2949e14c42ef44fbb707ec25926a02c5b9f4dc9d",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "fix: address PR review feedback",
+      "date": "2026-07-09T13:20:27Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-07-08T21:50:15Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/41"
+    },
+    {
+      "sha": "00bc938b7863cc0beec4cc074b4478a7c9905c66",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs: remove meta.json section from CONTRIBUTING.md",
+      "date": "2026-07-09T13:17:52Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-12T20:08:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/40"
+    },
+    {
+      "sha": "428e7e5d0099de674140b8cf7f608f8786505d23",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs: address review feedback on CONTRIBUTING.md",
+      "date": "2026-07-09T13:14:55Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-12T20:08:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/40"
+    },
+    {
+      "sha": "ec008ac77421099144b471dcdc8ab2edaa93ff5a",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "fix: resolve CI failures",
+      "date": "2026-07-08T17:56:22Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-07-08T21:50:15Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/41"
+    },
+    {
+      "sha": "52eaec45f76a4b6df7f0a29fb8dfbb134a0da0fe",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "ci: add markdown linting and link checking",
+      "date": "2026-07-08T17:54:00Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-07-08T21:50:15Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/41"
+    },
+    {
+      "sha": "efdb3dea88cd564bd9e1113297302dec6f19cf0a",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "docs: add acceptance criteria, vendor neutrality, and review process to CONTRIBUTING.md",
+      "date": "2026-07-08T15:48:23Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-08-12T20:08:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/40"
+    },
+    {
+      "sha": "f3e8a277c07eb3e2ccbbf32cdc4b07083357cca7",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "revert: reset to blank slate for repository reorganization",
+      "date": "2026-07-08T15:37:48Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e7bcf1ba73f710521d181f54b4e9adfc1298b080",
+      "author_login": "edlng",
+      "author_id": 76571219,
+      "avatar_url": "https://avatars.githubusercontent.com/u/76571219?v=4",
+      "message": "Add e-commerce product recommendation sample app to showcase Valkey Search (#4)",
+      "date": "2026-06-26T16:53:01Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e43dd2c156aa2bac26ed0c26c7e06cedbe438d2b",
+      "author_login": "rileydes-improving",
+      "author_id": 216890177,
+      "avatar_url": "https://avatars.githubusercontent.com/u/216890177?v=4",
+      "message": "Merge pull request #5 from valkey-io/sports-sample",
+      "date": "2026-06-26T16:24:07Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "bfe56496a25ad1fe5ddddca96ec5be0f9665b58f",
+      "author_login": "rileydes-improving",
+      "author_id": 216890177,
+      "avatar_url": "https://avatars.githubusercontent.com/u/216890177?v=4",
+      "message": "Merge branch 'main' into sports-sample",
+      "date": "2026-06-26T16:23:29Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "32bbbd4400efd6b1caf8f903b12a2574d3eefc43",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "more tweaks for easier demoing",
+      "date": "2026-06-26T16:21:22Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "607129134fce1fe94bd3bc693a5645ed42d138ac",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "tweaks for easier demoing",
+      "date": "2026-06-26T16:20:00Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ad33675209c0595d751a805e145defbee533eb7b",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Merge pull request #36 from valkey-io/cookbooks/openai-valkey-integration",
+      "date": "2026-06-26T14:58:54Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "atao2004",
+          "date": "2026-06-25T17:18:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/36"
+    },
+    {
+      "sha": "29a80cd476521e97450f6cda3de1bb97168e7adf",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Merge remote-tracking branch 'origin/main' into cookbooks/openai-valkey-integration",
+      "date": "2026-06-25T19:07:44Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "atao2004",
+          "date": "2026-06-25T17:18:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/36"
+    },
+    {
+      "sha": "b9ebb9803769fc8c5c98240f955701909c69d2da",
+      "author_login": "jbrinkman",
+      "author_id": 862921,
+      "avatar_url": "https://avatars.githubusercontent.com/u/862921?v=4",
+      "message": "Merge pull request #28 from valkey-io/inline-cookbooks-readme",
+      "date": "2026-06-25T15:29:39Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "1edbfd02d4c9e79161a0ad4a8533518001567e2c",
+      "author_login": "edlng",
+      "author_id": 76571219,
+      "avatar_url": "https://avatars.githubusercontent.com/u/76571219?v=4",
+      "message": "fix: update readme",
+      "date": "2026-06-25T15:27:35Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "cc9167962769fc18df037dfd76df2bfba7648ebb",
+      "author_login": "edlng",
+      "author_id": 76571219,
+      "avatar_url": "https://avatars.githubusercontent.com/u/76571219?v=4",
+      "message": "Merge remote-tracking branch 'origin' into inline-cookbooks-readme",
+      "date": "2026-06-25T15:17:17Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e5615b5cec8c5249709ec4084bc4c56ec36c648f",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Address review: explicit DIALECT 2, async inline search, HNSW demo note",
+      "date": "2026-06-24T19:01:58Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "atao2004",
+          "date": "2026-06-25T17:18:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/36"
+    },
+    {
+      "sha": "5d6b5c8b8ce7988c6026c2eefff87de341c67da9",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Add OpenAI + Valkey integration cookbooks",
+      "date": "2026-06-24T18:37:39Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "atao2004",
+          "date": "2026-06-25T17:18:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/36"
+    },
+    {
+      "sha": "db27080a4ff0622bb2c5ec817fd7aa6d3c70c0b3",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Merge pull request #18 from valkey-io/cookbooks/cocoindex-valkey-integration",
+      "date": "2026-06-22T15:44:51Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-25T19:56:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/18"
+    },
+    {
+      "sha": "7ec39e491d3c66f816f5eeef04444864b0f0f629",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Merge branch 'main' into cookbooks/cocoindex-valkey-integration",
+      "date": "2026-06-22T15:44:37Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-25T19:56:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/18"
+    },
+    {
+      "sha": "b89723bb1911bb1c37e911adee7ee1d4983717f2",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Merge pull request #30 from valkey-io/cookbooks/vllm-semantic-router-valkey-integration",
+      "date": "2026-06-16T17:45:47Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "edlng",
+          "date": "2026-06-15T18:27:47Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/30"
+    },
+    {
+      "sha": "3819ad2afebca2d68058c390e2e3213c6e0c1c46",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "refactor: strip README to only Sample Apps and Cookbooks",
+      "date": "2026-06-15T18:30:49Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f84c094b09a94b50cd59e96340816aec7f0f5d3c",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Merge branch 'main' into inline-cookbooks-readme",
+      "date": "2026-06-15T18:29:16Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "2c9de81d670ff3c2107ee43805ae3d2df60767b2",
+      "author_login": "edlng",
+      "author_id": 76571219,
+      "avatar_url": "https://avatars.githubusercontent.com/u/76571219?v=4",
+      "message": "Add cookbooks for PraisonAI (#11)",
+      "date": "2026-06-15T18:08:59Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "5293a3267150d35cf63b43e877d8d57530bf4ea0",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Address review feedback on vLLM Semantic Router cookbooks (round 2)",
+      "date": "2026-06-15T16:57:22Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "edlng",
+          "date": "2026-06-15T18:27:47Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/30"
+    },
+    {
+      "sha": "5fc2a99a58df13f34760a2c72fc1094761f3bd78",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Merge pull request #6 from valkey-io/demo/fts",
+      "date": "2026-06-12T16:45:23Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c84f049fe23628a553aa752f466093c8ac8b4409",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Include GH action for FTS app, CI build",
+      "date": "2026-06-12T16:45:03Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "17d46237c6d7cf9d98c0c47b31f366ff67f86fab",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Correct broken integration tests",
+      "date": "2026-06-12T16:45:03Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "08579ee2bac94fa5ed71901a36d89cdfc57dbc56",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Benchmarks not realistic, introduce data seeding to emulate a real-to-life scenario",
+      "date": "2026-06-12T16:45:03Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "2a4bc71cb56d0bf284f84de7a8b0e38509ddb51a",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Changes from internal QA workflow",
+      "date": "2026-06-12T16:45:03Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "0c2cb1513a1477d82afff287fa6ee45e4e994f4a",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Use `String` \u21d0 `GlideString`",
+      "date": "2026-06-12T16:45:03Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b20f08c68d7dbf4fc73f22b02fe3059cf4f8e768",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Upgrade to JavaFX 26 and Java v24 to address video description tab-navigation bug",
+      "date": "2026-06-12T16:45:03Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e580a58ee848afd05b09d65e31585cc014a5940f",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Clear the upload form when navigating to it",
+      "date": "2026-06-12T16:45:03Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "fb1a6a18725fd3c2f9ea3c40d406caeeb6e21d06",
+      "author_login": "jneufeld-ncl",
+      "author_id": 199160776,
+      "avatar_url": "https://avatars.githubusercontent.com/u/199160776?v=4",
+      "message": "Rewrite Docker stack to use local port mappings",
+      "date": "2026-06-12T16:45:03Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "af2a608abc3d042a4d4260edd37165b3cecbedbf",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Re-work benchmarks to contrast Valkey caching from typical tranditional database access, and address issues from internal code review",
+      "date": "2026-06-12T16:43:57Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7a20e841b70b6e4e31452ea2a72a1b202f81b54e",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Facility to backup/restore database",
+      "date": "2026-06-12T16:43:57Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "2f497ec2a5d7da29389a54ff352dc73125b4a458",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Randomize seek for thumbnail picking",
+      "date": "2026-06-12T16:43:57Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "4cc56977bb8c352ba2d17cec1684fad8983c7fb9",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Document known limitations of JavaFX MediaPlayer",
+      "date": "2026-06-12T16:43:57Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e4ed53afdf0eeb6a2e63ed72cebc9152c7399309",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Internal code review fixes, tidy-up, vulnerability patching",
+      "date": "2026-06-12T16:43:57Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "721ee87902332315632abee2518323235a4cbf57",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "[Gap] Migrate to ValkeySearch for browsing and watch history",
+      "date": "2026-06-12T16:43:57Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "48dfe662ab1b6cee01b6e282335c58451865c824",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Switch over to official (but unstable) Valkey-Bundle Docker image",
+      "date": "2026-06-12T16:43:57Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7df78247c0e74b54479d6d2ef98e951e0a19c886",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Need a Git ignore file",
+      "date": "2026-06-12T16:43:57Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "43a33cf814121cb105192ab0baf63cd3bdc6c8a9",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Introducing Flic-Enjoyer",
+      "date": "2026-06-12T16:43:57Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "cdf4d8a78ca0ca7b2678b05adbaefbecaa9fb2cc",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Address review feedback on vLLM Semantic Router cookbooks",
+      "date": "2026-06-11T18:09:30Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "edlng",
+          "date": "2026-06-15T18:27:47Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/30"
+    },
+    {
+      "sha": "7e979bc8ac1194d818baa6b71eb87a178d18b12f",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Add vLLM Semantic Router + Valkey integration cookbooks",
+      "date": "2026-06-11T17:00:11Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "edlng",
+          "date": "2026-06-15T18:27:47Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/30"
+    },
+    {
+      "sha": "feccdf461ed0f6244ab01fa15f80af69780d241f",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Inline cookbooks README into top-level README",
+      "date": "2026-06-11T15:26:32Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "601f5fae5f263c8b3b000c5aa425e99583b881ec",
+      "author_login": "jbrinkman",
+      "author_id": 862921,
+      "avatar_url": "https://avatars.githubusercontent.com/u/862921?v=4",
+      "message": "Comment out Sample Apps link in README",
+      "date": "2026-06-03T20:04:17Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "9cd2e047115b26d77fb978b1ff483352fb3de005",
+      "author_login": "jbrinkman",
+      "author_id": 862921,
+      "avatar_url": "https://avatars.githubusercontent.com/u/862921?v=4",
+      "message": "Update README with Valkey Sample Apps section",
+      "date": "2026-06-03T20:03:15Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3cf801aaa72047d7e54ffe0b0fd79b94ff7bf1ab",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Merge pull request #16 from valkey-io/cookbook-lmcache",
+      "date": "2026-05-28T19:55:29Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-05-28T19:54:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/16"
+    },
+    {
+      "sha": "4157e251f7436c0dd794be9c2d4b422aa8cc3d99",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Address review feedback on LMCache cookbook",
+      "date": "2026-05-28T17:57:19Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-05-28T19:54:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/16"
+    },
+    {
+      "sha": "ce5498afd70178faaabf91f0181c5102e1d0d166",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Merge pull request #17 from valkey-io/cookbook-node-rate-limiter-flexible",
+      "date": "2026-05-28T13:49:42Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-05-27T20:05:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/17"
+    },
+    {
+      "sha": "3755d84946acad8736b4efbedfe6a7c96fd420d8",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Merge branch 'main' into cookbook-lmcache",
+      "date": "2026-05-26T18:22:20Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-05-28T19:54:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/16"
+    },
+    {
+      "sha": "92da5e67417344f12374fa6adf9c1f7a35eabd50",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Address follow-up review feedback",
+      "date": "2026-05-26T16:47:18Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-05-27T20:05:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/17"
+    },
+    {
+      "sha": "125330e2cfe7f613d3142a2c265fad1f60479056",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Merge pull request #10 from valkey-io/cookbook-langchain4j",
+      "date": "2026-05-26T16:30:30Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-05-26T16:22:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/10"
+    },
+    {
+      "sha": "c9b7a8fc2391904de45e31c4cf86d485b1b82710",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Merge pull request #15 from valkey-io/cookbook-cognee",
+      "date": "2026-05-26T15:22:20Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "05e4c760c8b053d1c370ec34c2e6d460d3391142",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Address PR review feedback (Jonathan-Improving)",
+      "date": "2026-05-26T13:32:57Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-05-27T20:05:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/17"
+    },
+    {
+      "sha": "fbba512ab4768b9af2db0d107289556d98f6ca78",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Add node-rate-limiter-flexible + Valkey cookbook and sample code",
+      "date": "2026-05-26T13:32:57Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-05-27T20:05:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/17"
+    },
+    {
+      "sha": "83d7e150cb5393dd19d3c58e575a40f9c1c0c9c0",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Address review feedback: hybrid search, docker-compose, README entries, meta.json leads, .env rename, dep bounds",
+      "date": "2026-05-25T19:57:56Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-25T19:56:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/18"
+    },
+    {
+      "sha": "4c297fc8dfe847f9feb488f8b046dfdd1da9c330",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Add CocoIndex + Valkey cookbook - Add getting started and RAG pipeline cookbooks for CocoIndex - Demonstrate incremental vector indexing with Valkey HNSW - Update top-level README tables with CocoIndex entry",
+      "date": "2026-05-25T19:57:56Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-25T19:56:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/18"
+    },
+    {
+      "sha": "fd0388c9b2cf43d8260787c7103bca6aa3c25670",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Address PR review feedback",
+      "date": "2026-05-25T18:02:03Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "964ea57978ec33722ce85edb57592b1212e13b75",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Address review feedback: pin deps, fix credential pattern, add .gitignore, fix logging style",
+      "date": "2026-05-25T18:02:02Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d365c3c9e1bc1595e82667fcbd0fb34770c703cb",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Add Cognee + Valkey cookbook and sample code",
+      "date": "2026-05-25T18:02:02Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d4c24a20c865c2a3dd4536e9f1abb8c22cda1271",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Address PR review feedback",
+      "date": "2026-05-25T17:18:32Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-05-28T19:54:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/16"
+    },
+    {
+      "sha": "deffa2188d1c527f7f18ed7c81503c6ab3c2e9bb",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Add LMCache + Valkey cookbook and sample code",
+      "date": "2026-05-25T17:18:32Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "Jonathan-Improving",
+          "date": "2026-05-28T19:54:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/16"
+    },
+    {
+      "sha": "ae70e5efa62d729d217523970b8a47f0164ad6ad",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Merge branch 'main' into cookbook-langchain4j",
+      "date": "2026-05-22T14:14:06Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-05-26T16:22:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/10"
+    },
+    {
+      "sha": "3157329f838aba1398b0a9525dc983c9f16dae5c",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Address PR #10 review feedback",
+      "date": "2026-05-22T14:13:20Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-05-26T16:22:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/10"
+    },
+    {
+      "sha": "c298226396bba526be46a55aeac1761908ce7382",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Merge pull request #9 from valkey-io/cookbooks/db-gpt-valkey-integration",
+      "date": "2026-05-21T18:22:44Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-21T17:25:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/9"
+    },
+    {
+      "sha": "9bc80691195c42267688d3592ee4d75407bfcf11",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Add DocsGPT entry to parent README tables",
+      "date": "2026-05-21T17:03:15Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-21T17:25:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/9"
+    },
+    {
+      "sha": "e991cdffd89264d4523f0bf1d026d7697d8bdca8",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Merge remote-tracking branch 'origin/main' into cookbooks/db-gpt-valkey-integration",
+      "date": "2026-05-21T17:02:56Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-21T17:25:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/9"
+    },
+    {
+      "sha": "9dc0acf57179208d52257d7cab7476892d83f25d",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Address review feedback: add parent README entries, fix JSON.SET reference, deduplicate JsonSerializer, add cleanup note",
+      "date": "2026-05-21T17:00:03Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-21T17:25:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/9"
+    },
+    {
+      "sha": "9fb9bf16c19fd4724c671f4906e4fd7494f5f77d",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Merge pull request #12 from valkey-io/cookbooks/docs-gpt-valkey-integration",
+      "date": "2026-05-20T20:08:02Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-05-18T19:24:05Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/12"
+    },
+    {
+      "sha": "1b25eaa5bc440a841c5b134c99e619a8e6a3dd8c",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Address review feedback: add missing config vars, context manager, version note",
+      "date": "2026-05-20T19:27:23Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-05-18T19:24:05Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/12"
+    },
+    {
+      "sha": "c45503b16806b21d4fa054285d98cf805cb8419b",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Add DocsGPT + Valkey cookbooks",
+      "date": "2026-05-13T18:57:05Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "jbrinkman",
+          "date": "2026-05-18T19:24:05Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/12"
+    },
+    {
+      "sha": "6d54c781f5d4735b155fb44962a7ae50e9bf50a3",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "Address review feedback: wording fix and auth options section",
+      "date": "2026-05-13T18:46:07Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-21T17:25:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/9"
+    },
+    {
+      "sha": "4f89abb8dcd55b75863c414cc27f638f9489c1ac",
+      "author_login": "daric93",
+      "author_id": 14977665,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14977665?v=4",
+      "message": "db-gpt valkey integration cookbooks",
+      "date": "2026-05-11T20:13:49Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-21T17:25:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/9"
+    },
+    {
+      "sha": "6bace53681e1925d34cf745199c8b14f739dd02b",
+      "author_login": "jbrinkman",
+      "author_id": 862921,
+      "avatar_url": "https://avatars.githubusercontent.com/u/862921?v=4",
+      "message": "Merge pull request #8 from valkey-io/migration/cookbooks",
+      "date": "2026-05-11T15:03:44Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-04T19:38:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/8"
+    },
+    {
+      "sha": "162ea5d33c55cc716fe90d4c5580b3e071c823af",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Revert \"Updated introductory summaries in use-case cookbooks for clarity and AI-focused messaging.\"",
+      "date": "2026-05-07T16:51:34Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-04T19:38:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/8"
+    },
+    {
+      "sha": "142c1d9e1735d22fbc708cf433ddad6dc4ca55d1",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Updated introductory summaries in use-case cookbooks for clarity and AI-focused messaging.",
+      "date": "2026-05-06T18:34:58Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-04T19:38:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/8"
+    },
+    {
+      "sha": "e7c3840a46333ce3a8e468cbcfedc600a6852522",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Added difficulty levels, estimated time, and programming language tags to cookbooks for consistency and easier navigation.",
+      "date": "2026-05-06T18:27:01Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-04T19:38:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/8"
+    },
+    {
+      "sha": "f8643601a6ab73b67383ba37b329cf6610787c81",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Added navigation links to sections across cookbooks for improved readability and flow.",
+      "date": "2026-05-06T18:25:35Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-04T19:38:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/8"
+    },
+    {
+      "sha": "c4e4c9c56f5a432bb9992db9eac26db9aa56960f",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Added missing article preambles / lead title / text",
+      "date": "2026-05-06T18:22:54Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-04T19:38:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/8"
+    },
+    {
+      "sha": "9de97c75f7b60dc3dfc3b05ca2953dd335f33671",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Updated and clarified links to ValkeyForAI repository in production and monitoring cookbooks.",
+      "date": "2026-05-06T18:08:41Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-04T19:38:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/8"
+    },
+    {
+      "sha": "38f7d2adfe9f945839f0fbb2b8158f1993579719",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Fixed missing newline characters at the end of multiple markdown files across cookbooks.",
+      "date": "2026-05-06T17:58:59Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-04T19:38:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/8"
+    },
+    {
+      "sha": "03a8e2e200e1b02901cb78eb7b686850afb9dfcc",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Added quick-start links for Semantic Caching and LangChain in README",
+      "date": "2026-05-06T17:58:50Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-04T19:38:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/8"
+    },
+    {
+      "sha": "6ff5b9d9bbdfe92d9ea2eec953e1132461d0d670",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Corrected mashed together words due to whitespace lost in translation",
+      "date": "2026-05-06T17:22:10Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-04T19:38:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/8"
+    },
+    {
+      "sha": "5e2bb440ee20b5927ac9f21333a22ab78d06bdd8",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Corrected broken links",
+      "date": "2026-05-06T17:07:26Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-04T19:38:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/8"
+    },
+    {
+      "sha": "d5beba907a6ca31fff3c87510095b697c48493f9",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "Migration of ValkeyForAI cookbooks to Valkey-Samples",
+      "date": "2026-05-05T19:29:53Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": [
+        {
+          "login": "MatthiasHowellYopp",
+          "date": "2026-05-04T19:38:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/8"
+    },
+    {
+      "sha": "c490e4e4013de1d7e8c64bda11e79ff5dd0a4d1d",
+      "author_login": "MatthiasHowellYopp",
+      "author_id": 106839070,
+      "avatar_url": "https://avatars.githubusercontent.com/u/106839070?v=4",
+      "message": "Merge pull request #7 from valkey-io/411-update-readme",
+      "date": "2026-05-01T18:13:40Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c38c886b02fdfeab765e6108fa48b69bad85839e",
+      "author_login": "jbrinkman",
+      "author_id": 862921,
+      "avatar_url": "https://avatars.githubusercontent.com/u/862921?v=4",
+      "message": "Rename project and update description in README",
+      "date": "2026-02-19T21:29:28Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "4867b6a95cb56202672bbc4a8180fc32d9a2c939",
+      "author_login": "jbrinkman",
+      "author_id": 862921,
+      "avatar_url": "https://avatars.githubusercontent.com/u/862921?v=4",
+      "message": "Initial commit",
+      "date": "2026-02-04T18:29:00Z",
+      "repo": "valkey-developer-resources",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "aa6b693e3bcaa5a1a516b43a1186284a57347a2e",
+      "author_login": "stevenzengg",
+      "author_id": 55719685,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55719685?v=4",
+      "message": "fix(core): resolve cluster redirect addresses (#6788)",
+      "date": "2026-10-08T18:34:39Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-09-03T20:13:11Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-09-24T20:55:43Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-10-01T21:09:22Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6788"
+    },
+    {
+      "sha": "5d54f3744a8ebdd8dd90b7401023251aa865cc3c",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "feat(php): add HGETDEL command support (#343)",
+      "date": "2026-10-08T09:30:15Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-10-07T18:55:41Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-10-07T21:59:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/343"
+    },
+    {
+      "sha": "877fbbf27c209cbfc5c248fdcb6c0f17d480214a",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "fix(ruby): harden FFI, CI, and gem releases (#338)",
+      "date": "2026-10-08T22:20:16Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-10-07T00:30:53Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-10-08T15:21:49Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-10-08T22:14:09Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/338"
+    },
+    {
+      "sha": "f64dd0daed56f08a3c697a3f0b2737cb69af4448",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "fix(ruby): reject cluster mode configurations that has empty nodes (#344)",
+      "date": "2026-10-08T21:40:29Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-10-08T15:22:53Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-10-08T21:23:04Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/344"
+    },
+    {
+      "sha": "29a282ac63013d09bc5a944e1556b8889c7993fa",
+      "author_login": "magiclin99",
+      "author_id": 5689573,
+      "avatar_url": "https://avatars.githubusercontent.com/u/5689573?v=4",
+      "message": "fix: do not start the reader when the sync path fails (#203)",
+      "date": "2026-10-09T03:28:49Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-10-09T03:07:42Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/203"
+    },
+    {
+      "sha": "a073b2552c49d91fecd9f0726d2f808ce7c347b9",
+      "author_login": "zackcam",
+      "author_id": 181388575,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
+      "message": "Fixing copy bug, adding largeobj ACL category (#112)",
+      "date": "2026-10-09T01:00:25Z",
+      "repo": "valkey-large-object",
+      "reviewed": [
+        {
+          "login": "KarthikSubbarao",
+          "date": "2026-10-09T00:57:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/112"
+    },
+    {
+      "sha": "1eee90a967584fb810288b07a394e57fc2bc29e3",
+      "author_login": "melancholictheory",
+      "author_id": 61789920,
+      "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
+      "message": "fix: say in the status when a primary's roll is waiting for a synced replica (#483)",
+      "date": "2026-10-08T08:33:31Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-10-08T08:33:22Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/483"
+    },
+    {
+      "sha": "c338559c0631699c0ddbc3273f2d91bd164c404a",
+      "author_login": "boda26",
+      "author_id": 54991825,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
+      "message": "Fix weight 0 is rejected (#1505)",
+      "date": "2026-10-08T23:20:12Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "mnunberg1",
+          "date": "2026-10-05T14:34:58Z"
+        },
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-10-08T21:16:38Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1505"
+    },
+    {
+      "sha": "432d746b1aa8f474f7c8d2997cd2eb4f542dcde0",
+      "author_login": "Frank-Gu-81",
+      "author_id": 93494304,
+      "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
+      "message": "chore: first pass reviewer pool update (#1449)",
+      "date": "2026-10-08T18:29:05Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "boda26",
+          "date": "2026-10-01T17:40:59Z"
+        },
+        {
+          "login": "BCathcart",
+          "date": "2026-10-08T18:28:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1449"
+    },
+    {
+      "sha": "0f4d6b8db298e2c0ff5d28e0e8b9d47c319c4f5d",
+      "author_login": "adam-fowler",
+      "author_id": 9382567,
+      "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
+      "message": "Swift 6.4 (#404)",
+      "date": "2026-10-08T13:51:43Z",
+      "repo": "valkey-swift",
+      "reviewed": false,
+      "pr_url": ""
     }
   ]
 }

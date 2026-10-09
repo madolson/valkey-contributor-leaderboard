@@ -2,17 +2,42 @@
   "title": "alexey-temnikov",
   "login": "alexey-temnikov",
   "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
-  "score": 28,
-  "commit_count": 12,
-  "review_count": 16,
+  "score": 33,
+  "commit_count": 15,
+  "review_count": 18,
   "repos": [
     "valkey-admin",
+    "valkey-developer-resources",
     "valkey-doc",
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-docs"
   ],
   "commit_list": [
+    {
+      "sha": "2fa55eb84a",
+      "message": "Merge pull request #102 from valkey-io/readme-naming-update",
+      "date": "2026-10-06",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/102",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/2fa55eb84accb02ddb0b84bbf57c4ac36cd52599"
+    },
+    {
+      "sha": "0a650b09c9",
+      "message": "Merge pull request #43 from valkey-io/ci-cookbook-validation",
+      "date": "2026-10-05",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/43",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/0a650b09c9cecffabf4f8c81bc9f3fb95b2bbca9"
+    },
+    {
+      "sha": "25ae84a5b7",
+      "message": "Merge pull request #76 from valkey-io/cookbook-lmcache-revamp",
+      "date": "2026-10-05",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/25ae84a5b75a9dc11167347a4a8e66dcc0e56765"
+    },
     {
       "sha": "095b5c789e",
       "message": "ci: harden external link check against transient TLS/network flakes (#218)",
@@ -112,6 +137,14 @@
   ],
   "review_list": [
     {
+      "sha": "d94d74ae3d",
+      "message": "ci: let heavy cookbooks skip notebook execution (reconcile #99 with uv)",
+      "date": "2026-10-01",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/43",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/d94d74ae3db721daf267c06fb72ca329fa3e5887"
+    },
+    {
       "sha": "b85b66e842",
       "message": "Update header name. (#539)",
       "date": "2026-09-25",
@@ -126,6 +159,14 @@
       "repo": "valkey-admin",
       "pr_url": "https://github.com/valkey-io/valkey-admin/pull/538",
       "commit_url": "https://github.com/valkey-io/valkey-admin/commit/ead76ccfe0301594491e3964a822cd008f861377"
+    },
+    {
+      "sha": "f26d7a4ce8",
+      "message": "ci: validate Python cookbook samples",
+      "date": "2026-08-18",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/43",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/f26d7a4ce8759756c016f7ef0a9c21b66e13000e"
     },
     {
       "sha": "7ecf31c3a0",

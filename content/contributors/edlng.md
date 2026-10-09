@@ -2,10 +2,11 @@
   "title": "edlng",
   "login": "edlng",
   "avatar_url": "https://avatars.githubusercontent.com/u/76571219?v=4",
-  "score": 174,
+  "score": 175,
   "commit_count": 112,
-  "review_count": 62,
+  "review_count": 63,
   "repos": [
+    "valkey-developer-resources",
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-docs",
@@ -910,6 +911,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b89723bb19",
+      "message": "Merge pull request #30 from valkey-io/cookbooks/vllm-semantic-router-valkey-integration",
+      "date": "2026-06-16",
+      "repo": "valkey-developer-resources",
+      "pr_url": "https://github.com/valkey-io/valkey-developer-resources/pull/30",
+      "commit_url": "https://github.com/valkey-io/valkey-developer-resources/commit/b89723bb1911bb1c37e911adee7ee1d4983717f2"
+    },
     {
       "sha": "380cd28275",
       "message": "Bump submodule + update gitignore (#43)",

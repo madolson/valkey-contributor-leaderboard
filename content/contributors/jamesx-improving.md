@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 334,
+  "score": 340,
   "commit_count": 83,
-  "review_count": 251,
+  "review_count": 257,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -686,6 +686,54 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6979",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/896acfc41eb79485d76bbf16c24ef22df7de485b"
+    },
+    {
+      "sha": "aa6b693e3b",
+      "message": "fix(core): resolve cluster redirect addresses (#6788)",
+      "date": "2026-10-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6788",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/aa6b693e3bcaa5a1a516b43a1186284a57347a2e"
+    },
+    {
+      "sha": "aa6b693e3b",
+      "message": "fix(core): resolve cluster redirect addresses (#6788)",
+      "date": "2026-10-08",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6788",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/aa6b693e3bcaa5a1a516b43a1186284a57347a2e"
+    },
+    {
+      "sha": "5d54f3744a",
+      "message": "feat(php): add HGETDEL command support (#343)",
+      "date": "2026-10-08",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/343",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/5d54f3744a8ebdd8dd90b7401023251aa865cc3c"
+    },
+    {
+      "sha": "877fbbf27c",
+      "message": "fix(ruby): harden FFI, CI, and gem releases (#338)",
+      "date": "2026-10-08",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/338",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/877fbbf27c209cbfc5c248fdcb6c0f17d480214a"
+    },
+    {
+      "sha": "877fbbf27c",
+      "message": "fix(ruby): harden FFI, CI, and gem releases (#338)",
+      "date": "2026-10-08",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/338",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/877fbbf27c209cbfc5c248fdcb6c0f17d480214a"
+    },
+    {
+      "sha": "f64dd0daed",
+      "message": "fix(ruby): reject cluster mode configurations that has empty nodes (#344)",
+      "date": "2026-10-08",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/344",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/f64dd0daed56f08a3c697a3f0b2737cb69af4448"
     },
     {
       "sha": "02b2931ae9",

@@ -2,8 +2,8 @@
   "title": "melancholictheory",
   "login": "melancholictheory",
   "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
-  "score": 13,
-  "commit_count": 12,
+  "score": 14,
+  "commit_count": 13,
   "review_count": 1,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "1eee90a967",
+      "message": "fix: say in the status when a primary's roll is waiting for a synced replica (#483)",
+      "date": "2026-10-08",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/483",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/1eee90a967584fb810288b07a394e57fc2bc29e3"
+    },
     {
       "sha": "01892dd7e4",
       "message": "fix: ask the peers, not the node, whether a cluster member is failing (#442)",

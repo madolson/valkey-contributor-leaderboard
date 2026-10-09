@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 160,
+  "score": 161,
   "commit_count": 52,
-  "review_count": 108,
+  "review_count": 109,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -429,6 +429,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1eee90a967",
+      "message": "fix: say in the status when a primary's roll is waiting for a synced replica (#483)",
+      "date": "2026-10-08",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/483",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/1eee90a967584fb810288b07a394e57fc2bc29e3"
+    },
     {
       "sha": "eba2317908",
       "message": "fixed lint issues with go 1.26 (#479)",

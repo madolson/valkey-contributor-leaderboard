@@ -2,14 +2,30 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 211,
-  "commit_count": 128,
+  "score": 213,
+  "commit_count": 130,
   "review_count": 83,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "9407483e3c",
+      "message": "Run CI and CodeQL on release branches (#549)",
+      "date": "2026-10-09",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/549",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/9407483e3cd7a0202b1b75978c6208e105614970"
+    },
+    {
+      "sha": "e4ae349080",
+      "message": "Label the sample K8s StatefulSet as local-testing only (#550)",
+      "date": "2026-10-09",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/550",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/e4ae3490809e38a87465e3dc6dae8d96228430ac"
+    },
     {
       "sha": "9471197b52",
       "message": "Fix K8s example seed host, and always use a node-local metrics client (#528)",

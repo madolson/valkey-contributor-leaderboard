@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 297,
-  "commit_count": 107,
-  "review_count": 190,
+  "score": 300,
+  "commit_count": 109,
+  "review_count": 191,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "877fbbf27c",
+      "message": "fix(ruby): harden FFI, CI, and gem releases (#338)",
+      "date": "2026-10-08",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/338",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/877fbbf27c209cbfc5c248fdcb6c0f17d480214a"
+    },
+    {
+      "sha": "f64dd0daed",
+      "message": "fix(ruby): reject cluster mode configurations that has empty nodes (#344)",
+      "date": "2026-10-08",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/344",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/f64dd0daed56f08a3c697a3f0b2737cb69af4448"
+    },
     {
       "sha": "a274666bed",
       "message": "feat(ruby): add IAM authentication (#342)",
@@ -874,6 +890,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5d54f3744a",
+      "message": "feat(php): add HGETDEL command support (#343)",
+      "date": "2026-10-08",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/343",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/5d54f3744a8ebdd8dd90b7401023251aa865cc3c"
+    },
     {
       "sha": "89d4610d39",
       "message": "chore(deps): Bump ruby/setup-ruby (#339)",

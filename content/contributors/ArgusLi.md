@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 130,
+  "score": 132,
   "commit_count": 75,
-  "review_count": 55,
+  "review_count": 57,
   "repos": [
     "valkey-admin"
   ],
@@ -611,6 +611,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9407483e3c",
+      "message": "Run CI and CodeQL on release branches (#549)",
+      "date": "2026-10-09",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/549",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/9407483e3cd7a0202b1b75978c6208e105614970"
+    },
+    {
+      "sha": "e4ae349080",
+      "message": "Label the sample K8s StatefulSet as local-testing only (#550)",
+      "date": "2026-10-09",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/550",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/e4ae3490809e38a87465e3dc6dae8d96228430ac"
+    },
     {
       "sha": "64f5fb413a",
       "message": "implementation of cluster hot slots version 1 (#503)",

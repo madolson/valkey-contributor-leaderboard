@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 949,
+  "score": 950,
   "commit_count": 217,
-  "review_count": 732,
+  "review_count": 733,
   "repos": [
     ".github",
     "valkey",
@@ -1759,6 +1759,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1db8edcbe1",
+      "message": "geohash code cleanup (#4787)",
+      "date": "2026-10-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4787",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1db8edcbe1a641618c7836d18967d3b6f4678c3b"
+    },
     {
       "sha": "2783842743",
       "message": "Fix IO thread shutdown cleanup leak (#4710)",
