@@ -2,9 +2,9 @@
   "title": "omanges",
   "login": "omanges",
   "avatar_url": "https://avatars.githubusercontent.com/u/30625612?v=4",
-  "score": 7,
+  "score": 8,
   "commit_count": 2,
-  "review_count": 5,
+  "review_count": 6,
   "repos": [
     "valkey",
     "valkey-glide",
@@ -29,6 +29,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a4e5fe300a",
+      "message": "valkeylimiter: add GCRA rate limiting strategy and valkeycompatrate package (#176)",
+      "date": "2026-10-09",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/176",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/a4e5fe300a46ba97483de4ecd09b7e5c9ade50ef"
+    },
     {
       "sha": "9767656cac",
       "message": "feat(cluster): add CLUSTERSCAN command definition and builders (#171)",

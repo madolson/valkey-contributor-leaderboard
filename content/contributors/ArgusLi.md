@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 132,
+  "score": 133,
   "commit_count": 75,
-  "review_count": 57,
+  "review_count": 58,
   "repos": [
     "valkey-admin"
   ],
@@ -626,6 +626,14 @@
       "repo": "valkey-admin",
       "pr_url": "https://github.com/valkey-io/valkey-admin/pull/550",
       "commit_url": "https://github.com/valkey-io/valkey-admin/commit/e4ae3490809e38a87465e3dc6dae8d96228430ac"
+    },
+    {
+      "sha": "24cc09d52f",
+      "message": "extend UI to support showing longer time horizons of memory and cpu metrics (#554)",
+      "date": "2026-10-09",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/554",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/24cc09d52f8100f4ab52e5c4dc6be718fdca8553"
     },
     {
       "sha": "64f5fb413a",

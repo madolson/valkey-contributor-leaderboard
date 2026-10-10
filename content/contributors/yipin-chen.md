@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 851,
+  "score": 853,
   "commit_count": 45,
-  "review_count": 806,
+  "review_count": 808,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0a3bd5429d",
+      "message": "fix(java,node): draw ordinary-client ids from the shared pool allocator (#7302)",
+      "date": "2026-10-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7302",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0a3bd5429dec9ce4263c48b35f9c5e1755d9b420"
+    },
+    {
+      "sha": "2366a7bda3",
+      "message": "fix(ruby): leave the RESP protocol default to glide-core (#331)",
+      "date": "2026-10-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/331",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/2366a7bda33c92bcc5d915d030ea77fadcfd3558"
+    },
     {
       "sha": "896acfc41e",
       "message": "fix(core): stop MONITOR and PubSub streams from dropping buffered handshake bytes (#6979)",

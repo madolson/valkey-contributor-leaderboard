@@ -2,13 +2,21 @@
   "title": "JasonLi314",
   "login": "JasonLi314",
   "avatar_url": "https://avatars.githubusercontent.com/u/47095666?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "b9fe506350",
+      "message": "[Bug] Fix flaky test_rdb_load_error_cleanup: -LOADING is not a crash (#1553)",
+      "date": "2026-10-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1553",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/b9fe5063502de359eb21c288dd05874eec7923d0"
+    },
     {
       "sha": "2c41b1e412",
       "message": "optimized pickle regen from 5 minutes to 15 seconds (#1486)",

@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 155,
-  "commit_count": 116,
+  "score": 156,
+  "commit_count": 117,
   "review_count": 39,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "24cc09d52f",
+      "message": "extend UI to support showing longer time horizons of memory and cpu metrics (#554)",
+      "date": "2026-10-09",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/554",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/24cc09d52f8100f4ab52e5c4dc6be718fdca8553"
+    },
     {
       "sha": "64f5fb413a",
       "message": "implementation of cluster hot slots version 1 (#503)",

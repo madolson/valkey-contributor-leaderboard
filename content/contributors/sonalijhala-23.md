@@ -2,13 +2,21 @@
   "title": "sonalijhala-23",
   "login": "sonalijhala-23",
   "avatar_url": "https://avatars.githubusercontent.com/u/321700091?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "valkey-go"
   ],
   "commit_list": [
+    {
+      "sha": "a4e5fe300a",
+      "message": "valkeylimiter: add GCRA rate limiting strategy and valkeycompatrate package (#176)",
+      "date": "2026-10-09",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/176",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/a4e5fe300a46ba97483de4ecd09b7e5c9ade50ef"
+    },
     {
       "sha": "64ddda3b87",
       "message": "feat(cluster): add ClusterScanner helper and ClusterScanEntry (#172)",

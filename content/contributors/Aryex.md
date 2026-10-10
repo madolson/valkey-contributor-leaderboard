@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 300,
-  "commit_count": 109,
-  "review_count": 191,
+  "score": 304,
+  "commit_count": 110,
+  "review_count": 194,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "2366a7bda3",
+      "message": "fix(ruby): leave the RESP protocol default to glide-core (#331)",
+      "date": "2026-10-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/331",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/2366a7bda33c92bcc5d915d030ea77fadcfd3558"
+    },
     {
       "sha": "877fbbf27c",
       "message": "fix(ruby): harden FFI, CI, and gem releases (#338)",
@@ -890,6 +898,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5e07d54e58",
+      "message": "ci(rust): use consistent trigger paths across Rust crate workflows (#7317)",
+      "date": "2026-10-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7317",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5e07d54e58851a3f06ab007fe93518bd44944e34"
+    },
+    {
+      "sha": "4530665dc7",
+      "message": "ci: test against Valkey `9.2.0-rc1` (#7316)",
+      "date": "2026-10-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7316",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4530665dc7b65b2dd33f35b25947ce0742fdbbb7"
+    },
+    {
+      "sha": "b2132b3ac6",
+      "message": "ci: test against Valkey `9.2.0-rc1` (#350)",
+      "date": "2026-10-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/350",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/b2132b3ac63f2989338b79d750d93a5a0cc13e4b"
+    },
     {
       "sha": "5d54f3744a",
       "message": "feat(php): add HGETDEL command support (#343)",

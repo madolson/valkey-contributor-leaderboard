@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 297,
+  "score": 298,
   "commit_count": 115,
-  "review_count": 182,
+  "review_count": 183,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -947,6 +947,14 @@
       "repo": "valkey-large-object",
       "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/112",
       "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/a073b2552c49d91fecd9f0726d2f808ce7c347b9"
+    },
+    {
+      "sha": "9ef6914ced",
+      "message": "drain remaining EFA futures on failure (#117)",
+      "date": "2026-10-09",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/117",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/9ef6914ceda7a806c7135ff0428e8e924c206fe8"
     },
     {
       "sha": "d1e3317700",

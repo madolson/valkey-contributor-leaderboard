@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 340,
+  "score": 343,
   "commit_count": 83,
-  "review_count": 257,
+  "review_count": 260,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -679,6 +679,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5e07d54e58",
+      "message": "ci(rust): use consistent trigger paths across Rust crate workflows (#7317)",
+      "date": "2026-10-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7317",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5e07d54e58851a3f06ab007fe93518bd44944e34"
+    },
+    {
+      "sha": "2366a7bda3",
+      "message": "fix(ruby): leave the RESP protocol default to glide-core (#331)",
+      "date": "2026-10-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/331",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/2366a7bda33c92bcc5d915d030ea77fadcfd3558"
+    },
+    {
+      "sha": "2366a7bda3",
+      "message": "fix(ruby): leave the RESP protocol default to glide-core (#331)",
+      "date": "2026-10-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/331",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/2366a7bda33c92bcc5d915d030ea77fadcfd3558"
+    },
     {
       "sha": "896acfc41e",
       "message": "fix(core): stop MONITOR and PubSub streams from dropping buffered handshake bytes (#6979)",

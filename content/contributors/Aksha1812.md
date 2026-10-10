@@ -2,9 +2,9 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 110,
+  "score": 111,
   "commit_count": 68,
-  "review_count": 42,
+  "review_count": 43,
   "repos": [
     "valkey",
     "valkey-ci-agent",
@@ -557,6 +557,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b9fe506350",
+      "message": "[Bug] Fix flaky test_rdb_load_error_cleanup: -LOADING is not a crash (#1553)",
+      "date": "2026-10-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1553",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/b9fe5063502de359eb21c288dd05874eec7923d0"
+    },
     {
       "sha": "2c41b1e412",
       "message": "optimized pickle regen from 5 minutes to 15 seconds (#1486)",

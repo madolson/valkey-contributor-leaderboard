@@ -2,14 +2,22 @@
   "title": "neerajr0",
   "login": "neerajr0",
   "avatar_url": "https://avatars.githubusercontent.com/u/55604693?v=4",
-  "score": 20,
-  "commit_count": 6,
+  "score": 21,
+  "commit_count": 7,
   "review_count": 14,
   "repos": [
     "valkey-large-object",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "9ef6914ced",
+      "message": "drain remaining EFA futures on failure (#117)",
+      "date": "2026-10-09",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/117",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/9ef6914ceda7a806c7135ff0428e8e924c206fe8"
+    },
     {
       "sha": "23423a3b3a",
       "message": "feat: introduce multi-language support for 12 snowball stemmer languages  (#1263)",

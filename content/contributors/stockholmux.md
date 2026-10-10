@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 151,
+  "score": 153,
   "commit_count": 20,
-  "review_count": 131,
+  "review_count": 133,
   "repos": [
     "valkey",
     "valkey-container",
@@ -176,6 +176,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "10fa3e7377",
+      "message": "Fix docs link rewriting corrupting code blocks (#687)",
+      "date": "2026-10-09",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/687",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/10fa3e7377814ac1f0170c57063d507f91959dbd"
+    },
+    {
+      "sha": "0005ac39ce",
+      "message": "Fix ../clients/ links on topic pages (#690)",
+      "date": "2026-10-09",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/690",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/0005ac39ceb34929ed77a692da854bfcf5a044e6"
+    },
     {
       "sha": "edd43e67cf",
       "message": "Update call to action in Valkey Prometheus exporters blog post (#684)",

@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 335,
-  "commit_count": 201,
+  "score": 340,
+  "commit_count": 206,
   "review_count": 134,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,46 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "5e07d54e58",
+      "message": "ci(rust): use consistent trigger paths across Rust crate workflows (#7317)",
+      "date": "2026-10-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7317",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5e07d54e58851a3f06ab007fe93518bd44944e34"
+    },
+    {
+      "sha": "85e7a6af76",
+      "message": "feat(rust): add `Cmd::with_arg` and simplify command builders (#7314)",
+      "date": "2026-10-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7314",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/85e7a6af7645cb0ea67a6d50e79cca5c1d500a67"
+    },
+    {
+      "sha": "4530665dc7",
+      "message": "ci: test against Valkey `9.2.0-rc1` (#7316)",
+      "date": "2026-10-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7316",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4530665dc7b65b2dd33f35b25947ce0742fdbbb7"
+    },
+    {
+      "sha": "ea7a60af4b",
+      "message": "ci(php): test against Valkey 9.2.0-rc1 (#346)",
+      "date": "2026-10-09",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/346",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/ea7a60af4bb1c3402134df8c67adf067cf844a85"
+    },
+    {
+      "sha": "b2132b3ac6",
+      "message": "ci: test against Valkey `9.2.0-rc1` (#350)",
+      "date": "2026-10-09",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/350",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/b2132b3ac63f2989338b79d750d93a5a0cc13e4b"
+    },
     {
       "sha": "046685fba2",
       "message": "chore(rust): prepare `valkey-glide` for publishing (#7298)",

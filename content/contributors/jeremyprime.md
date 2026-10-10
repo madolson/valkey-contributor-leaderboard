@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 261,
-  "commit_count": 77,
-  "review_count": 184,
+  "score": 263,
+  "commit_count": 78,
+  "review_count": 185,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "0a3bd5429d",
+      "message": "fix(java,node): draw ordinary-client ids from the shared pool allocator (#7302)",
+      "date": "2026-10-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7302",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0a3bd5429dec9ce4263c48b35f9c5e1755d9b420"
+    },
     {
       "sha": "8948af2bcd",
       "message": "fix(core): scoped connections inherit parent TLS cert material and address resolver (#7296)",
@@ -631,6 +639,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "85e7a6af76",
+      "message": "feat(rust): add `Cmd::with_arg` and simplify command builders (#7314)",
+      "date": "2026-10-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7314",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/85e7a6af7645cb0ea67a6d50e79cca5c1d500a67"
+    },
     {
       "sha": "59aabaf34f",
       "message": "fix(core, go): use uint32 for Go BackoffStrategy fields and harden reconnect RetryStrategy against out-of-range values (#6680)",

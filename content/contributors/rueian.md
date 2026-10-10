@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 66,
+  "score": 67,
   "commit_count": 9,
-  "review_count": 57,
+  "review_count": 58,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -94,6 +94,14 @@
       "repo": "valkey-go",
       "pr_url": "https://github.com/valkey-io/valkey-go/pull/203",
       "commit_url": "https://github.com/valkey-io/valkey-go/commit/29a282ac63013d09bc5a944e1556b8889c7993fa"
+    },
+    {
+      "sha": "a4e5fe300a",
+      "message": "valkeylimiter: add GCRA rate limiting strategy and valkeycompatrate package (#176)",
+      "date": "2026-10-09",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/176",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/a4e5fe300a46ba97483de4ecd09b7e5c9ade50ef"
     },
     {
       "sha": "1d5dcf601c",
