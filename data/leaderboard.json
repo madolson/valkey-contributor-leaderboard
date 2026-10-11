@@ -7282,6 +7282,119 @@
       ]
     },
     {
+      "login": "adam-fowler",
+      "id": 9382567,
+      "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
+      "name": "Adam Fowler",
+      "company": "",
+      "commits": 136,
+      "reviews": 39,
+      "per_repo": {
+        "valkey": {
+          "2025-08": [
+            1,
+            0
+          ]
+        },
+        "valkey-doc": {
+          "2025-09": [
+            1,
+            0
+          ],
+          "2026-02": [
+            2,
+            0
+          ]
+        },
+        "valkey-io.github.io": {
+          "2025-08": [
+            1,
+            0
+          ],
+          "2026-04": [
+            1,
+            0
+          ]
+        },
+        "valkey-search": {
+          "2026-07": [
+            1,
+            0
+          ]
+        },
+        "valkey-swift": {
+          "2025-07": [
+            11,
+            8
+          ],
+          "2025-08": [
+            8,
+            3
+          ],
+          "2025-09": [
+            15,
+            4
+          ],
+          "2025-10": [
+            13,
+            4
+          ],
+          "2025-12": [
+            12,
+            3
+          ],
+          "2026-01": [
+            24,
+            4
+          ],
+          "2026-02": [
+            19,
+            5
+          ],
+          "2026-03": [
+            10,
+            1
+          ],
+          "2026-04": [
+            10,
+            3
+          ],
+          "2026-05": [
+            2,
+            0
+          ],
+          "2026-06": [
+            3,
+            0
+          ],
+          "2026-07": [
+            1,
+            0
+          ],
+          "2026-08": [
+            0,
+            3
+          ],
+          "2026-09": [
+            0,
+            1
+          ],
+          "2026-10": [
+            1,
+            0
+          ]
+        }
+      },
+      "score": 175,
+      "repos": [
+        "valkey",
+        "valkey-doc",
+        "valkey-io.github.io",
+        "valkey-search",
+        "valkey-swift"
+      ]
+    },
+    {
       "login": "edlng",
       "id": 76571219,
       "avatar_url": "https://avatars.githubusercontent.com/u/76571219?v=4",
@@ -7527,115 +7640,6 @@
         "spring-data-valkey",
         "valkey-glide",
         "valkey-glide-docs"
-      ]
-    },
-    {
-      "login": "adam-fowler",
-      "id": 9382567,
-      "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-      "name": "Adam Fowler",
-      "company": "",
-      "commits": 135,
-      "reviews": 39,
-      "per_repo": {
-        "valkey": {
-          "2025-08": [
-            1,
-            0
-          ]
-        },
-        "valkey-doc": {
-          "2025-09": [
-            1,
-            0
-          ],
-          "2026-02": [
-            2,
-            0
-          ]
-        },
-        "valkey-io.github.io": {
-          "2025-08": [
-            1,
-            0
-          ],
-          "2026-04": [
-            1,
-            0
-          ]
-        },
-        "valkey-search": {
-          "2026-07": [
-            1,
-            0
-          ]
-        },
-        "valkey-swift": {
-          "2025-07": [
-            11,
-            8
-          ],
-          "2025-08": [
-            8,
-            3
-          ],
-          "2025-09": [
-            15,
-            4
-          ],
-          "2025-10": [
-            13,
-            4
-          ],
-          "2025-12": [
-            12,
-            3
-          ],
-          "2026-01": [
-            24,
-            4
-          ],
-          "2026-02": [
-            19,
-            5
-          ],
-          "2026-03": [
-            10,
-            1
-          ],
-          "2026-04": [
-            10,
-            3
-          ],
-          "2026-05": [
-            2,
-            0
-          ],
-          "2026-06": [
-            3,
-            0
-          ],
-          "2026-07": [
-            1,
-            0
-          ],
-          "2026-08": [
-            0,
-            3
-          ],
-          "2026-09": [
-            0,
-            1
-          ]
-        }
-      },
-      "score": 174,
-      "repos": [
-        "valkey",
-        "valkey-doc",
-        "valkey-io.github.io",
-        "valkey-search",
-        "valkey-swift"
       ]
     },
     {
@@ -8885,7 +8889,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
       "name": "Mikhail Koviazin",
       "company": "Altinity",
-      "commits": 27,
+      "commits": 28,
       "reviews": 95,
       "per_repo": {
         "libvalkey": {
@@ -8924,6 +8928,10 @@
             0
           ],
           "2026-07": [
+            1,
+            0
+          ],
+          "2026-10": [
             1,
             0
           ]
@@ -9025,7 +9033,7 @@
           ]
         }
       },
-      "score": 122,
+      "score": 123,
       "repos": [
         "libvalkey",
         "libvalkey-py",
@@ -9040,7 +9048,7 @@
       "name": "Nilanshu Sharma",
       "company": "Apple",
       "commits": 14,
-      "reviews": 107,
+      "reviews": 108,
       "per_repo": {
         "valkey": {
           "2025-10": [
@@ -9091,11 +9099,11 @@
           ],
           "2026-07": [
             0,
-            1
+            2
           ]
         }
       },
-      "score": 121,
+      "score": 122,
       "repos": [
         "valkey",
         "valkey-swift"
@@ -10671,7 +10679,7 @@
       "name": "Bogdan Petre",
       "company": "aiven.io",
       "commits": 10,
-      "reviews": 47,
+      "reviews": 48,
       "per_repo": {
         "libvalkey-py": {
           "2025-07": [
@@ -10699,6 +10707,10 @@
             1
           ],
           "2026-08": [
+            0,
+            1
+          ],
+          "2026-10": [
             0,
             1
           ]
@@ -10802,7 +10814,7 @@
           ]
         }
       },
-      "score": 57,
+      "score": 58,
       "repos": [
         "libvalkey-py",
         "one-time-for-planet",

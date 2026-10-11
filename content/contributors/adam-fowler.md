@@ -2,8 +2,8 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 174,
-  "commit_count": 135,
+  "score": 175,
+  "commit_count": 136,
   "review_count": 39,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-swift"
   ],
   "commit_list": [
+    {
+      "sha": "b8cbb96422",
+      "message": "Add support for setting the number of streams per connection. (#394)",
+      "date": "2026-10-10",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/394",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/b8cbb9642228cf7e96ec40f53dac7e500f14504f"
+    },
     {
       "sha": "320aec93eb",
       "message": "Replace blocks with token field in json files (#832)",

@@ -2,8 +2,8 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 122,
-  "commit_count": 27,
+  "score": 123,
+  "commit_count": 28,
   "review_count": 95,
   "repos": [
     "libvalkey",
@@ -12,6 +12,14 @@
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "fb440a6b28",
+      "message": "Merge pull request #87 from valkey-io/mkmkme/bump-vendor",
+      "date": "2026-10-10",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/87",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/fb440a6b280744694b417200570f6c4b25deb519"
+    },
     {
       "sha": "1b39744a61",
       "message": "Merge pull request #348 from valkey-io/mkmkme/update-devenv",

@@ -193738,6 +193738,150 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1553"
+    },
+    {
+      "sha": "fb440a6b280744694b417200570f6c4b25deb519",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "Merge pull request #87 from valkey-io/mkmkme/bump-vendor",
+      "date": "2026-10-10T18:21:55Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-10-10T18:21:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/87"
+    },
+    {
+      "sha": "e2138e9b29c75ef354ed19d2b71142f45bfbf2fa",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "github: added support for PyPy 3.12 as well",
+      "date": "2026-10-10T15:47:39Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-10-10T18:21:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/87"
+    },
+    {
+      "sha": "b33c85e95e0fe1c53ebee94a90d00c834a3d987b",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "bump cibuildwheel to 4.3.1",
+      "date": "2026-10-10T15:36:18Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-10-10T18:21:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/87"
+    },
+    {
+      "sha": "9ee069fb35fd594e1f80849a6dacbc9d726f4392",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "github: replace setup-python with setup-uv",
+      "date": "2026-10-10T15:35:08Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-10-10T18:21:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/87"
+    },
+    {
+      "sha": "47162effdf7f273137765c5f93987479cbe261da",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "Bump version to 4.2.0",
+      "date": "2026-10-09T19:34:13Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-10-10T18:21:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/87"
+    },
+    {
+      "sha": "4b8bf812b65a664bcd6114190b69115cd586ca37",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "Add support for Python 3.15 and drop 3.10",
+      "date": "2026-10-09T19:33:10Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-10-10T18:21:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/87"
+    },
+    {
+      "sha": "0c8428146795039d3a7e5c5de39371d8b88ced7d",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "test: align Reader.len() expectations with feed-time compaction",
+      "date": "2026-10-09T19:33:10Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-10-10T18:21:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/87"
+    },
+    {
+      "sha": "43d21563b730227fe5203cf1044e79d915eb076b",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "Bump libvalkey to the latest main",
+      "date": "2026-10-09T19:33:10Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-10-10T18:21:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/87"
+    },
+    {
+      "sha": "b8cbb9642228cf7e96ec40f53dac7e500f14504f",
+      "author_login": "adam-fowler",
+      "author_id": 9382567,
+      "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
+      "message": "Add support for setting the number of streams per connection. (#394)",
+      "date": "2026-10-10T11:24:31Z",
+      "repo": "valkey-swift",
+      "reviewed": [
+        {
+          "login": "nilanshu-sharma",
+          "date": "2026-07-07T15:46:21Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/394"
     }
   ]
 }

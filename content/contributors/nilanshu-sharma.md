@@ -2,9 +2,9 @@
   "title": "nilanshu-sharma",
   "login": "nilanshu-sharma",
   "avatar_url": "https://avatars.githubusercontent.com/u/220134298?v=4",
-  "score": 121,
+  "score": 122,
   "commit_count": 14,
-  "review_count": 107,
+  "review_count": 108,
   "repos": [
     "valkey",
     "valkey-swift"
@@ -124,6 +124,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b8cbb96422",
+      "message": "Add support for setting the number of streams per connection. (#394)",
+      "date": "2026-10-10",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/394",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/b8cbb9642228cf7e96ec40f53dac7e500f14504f"
+    },
     {
       "sha": "f4a8915f1b",
       "message": "Don't cancel other pending commands on command cancellation (#396)",
