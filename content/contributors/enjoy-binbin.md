@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 985,
+  "score": 986,
   "commit_count": 393,
-  "review_count": 592,
+  "review_count": 593,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3160,6 +3160,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b3a1356376",
+      "message": "Optimize infoCommand with SDS pre-allocation (#3413)",
+      "date": "2026-10-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3413",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b3a13563766cecbf9d859c7641d1ed00bf75108e"
+    },
     {
       "sha": "b4a976f68f",
       "message": "Fix execGetKeys() dropping the first 256 keys past the static buffer (#4712)",

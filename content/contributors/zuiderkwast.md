@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1271,
+  "score": 1273,
   "commit_count": 155,
-  "review_count": 1116,
+  "review_count": 1118,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1262,6 +1262,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b3a1356376",
+      "message": "Optimize infoCommand with SDS pre-allocation (#3413)",
+      "date": "2026-10-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3413",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b3a13563766cecbf9d859c7641d1ed00bf75108e"
+    },
+    {
+      "sha": "2fce936b3f",
+      "message": "Skip raw TSC when the kernel clocksource is not tsc (#4707)",
+      "date": "2026-10-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4707",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2fce936b3f934e879cd2dce20d263191eef07cb5"
+    },
     {
       "sha": "642196f63c",
       "message": " bracketed IPv6 cluster CLI address parsing (#4800)",

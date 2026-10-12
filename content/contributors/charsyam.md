@@ -2,13 +2,21 @@
   "title": "charsyam",
   "login": "charsyam",
   "avatar_url": "https://avatars.githubusercontent.com/u/439301?v=4",
-  "score": 9,
-  "commit_count": 9,
+  "score": 10,
+  "commit_count": 10,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "b3a1356376",
+      "message": "Optimize infoCommand with SDS pre-allocation (#3413)",
+      "date": "2026-10-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3413",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b3a13563766cecbf9d859c7641d1ed00bf75108e"
+    },
     {
       "sha": "c79f17d251",
       "message": "zset: add in-place fast path for score updates in listpack encoding (#3491)",

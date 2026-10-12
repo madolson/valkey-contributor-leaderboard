@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 113,
+  "score": 115,
   "commit_count": 24,
-  "review_count": 89,
+  "review_count": 91,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -207,6 +207,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b3a1356376",
+      "message": "Optimize infoCommand with SDS pre-allocation (#3413)",
+      "date": "2026-10-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3413",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b3a13563766cecbf9d859c7641d1ed00bf75108e"
+    },
+    {
+      "sha": "2fce936b3f",
+      "message": "Skip raw TSC when the kernel clocksource is not tsc (#4707)",
+      "date": "2026-10-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4707",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2fce936b3f934e879cd2dce20d263191eef07cb5"
+    },
     {
       "sha": "3f59aae119",
       "message": "Sync clang-format with valkey-luajit (#18)",

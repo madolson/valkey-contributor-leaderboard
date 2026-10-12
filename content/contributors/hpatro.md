@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 309,
+  "score": 310,
   "commit_count": 66,
-  "review_count": 243,
+  "review_count": 244,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -547,6 +547,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b3a1356376",
+      "message": "Optimize infoCommand with SDS pre-allocation (#3413)",
+      "date": "2026-10-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3413",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b3a13563766cecbf9d859c7641d1ed00bf75108e"
+    },
     {
       "sha": "70fbb33aed",
       "message": "Add Rain Valentine as a committer (#4836)",

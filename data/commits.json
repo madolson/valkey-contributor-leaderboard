@@ -193882,6 +193882,161 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-swift/pull/394"
+    },
+    {
+      "sha": "17c5e509d42c02b5d1656edbd03bedbae56cef0e",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "Merge pull request #88 from valkey-io/mkmkme/improve-pypi-publish",
+      "date": "2026-10-11T20:16:08Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-10-11T20:15:42Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/88"
+    },
+    {
+      "sha": "fbc661a5d51f76c6247327b267938925df36dacf",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "Test and publish native Windows ARM64 wheels",
+      "date": "2026-10-11T09:28:21Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-10-11T20:15:42Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/88"
+    },
+    {
+      "sha": "0dbafff3ae0525fbbb8cfcb01e269d671267f603",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "Publish PyPy wheels for supported release targets",
+      "date": "2026-10-11T09:26:57Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-10-11T20:15:42Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/88"
+    },
+    {
+      "sha": "70744701ad5d40b56f5db9c4c48aa5f2f0eb93fa",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "Shard Linux release wheels by Python version and architecture",
+      "date": "2026-10-11T09:26:29Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-10-11T20:15:42Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/88"
+    },
+    {
+      "sha": "b3a13563766cecbf9d859c7641d1ed00bf75108e",
+      "author_login": "charsyam",
+      "author_id": 439301,
+      "avatar_url": "https://avatars.githubusercontent.com/u/439301?v=4",
+      "message": "Optimize infoCommand with SDS pre-allocation (#3413)",
+      "date": "2026-10-11T16:31:50Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-03-30T11:53:28Z"
+        },
+        {
+          "login": "dvkashapov",
+          "date": "2026-03-30T12:49:50Z"
+        },
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-03-30T15:28:32Z"
+        },
+        {
+          "login": "hpatro",
+          "date": "2026-03-30T21:22:21Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3413"
+    },
+    {
+      "sha": "2fce936b3f934e879cd2dce20d263191eef07cb5",
+      "author_login": "quanyeyang",
+      "author_id": 155656201,
+      "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
+      "message": "Skip raw TSC when the kernel clocksource is not tsc (#4707)",
+      "date": "2026-10-11T16:20:21Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-10-01T15:46:27Z"
+        },
+        {
+          "login": "dvkashapov",
+          "date": "2026-10-10T08:50:08Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4707"
+    },
+    {
+      "sha": "1cd2492b5d1b41d1d1d9797865eb830aa9c9fd18",
+      "author_login": "bogdanp05",
+      "author_id": 7281856,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
+      "message": "Merge pull request #352 from valkey-io/valkey-py-python-3.15",
+      "date": "2026-10-11T20:16:58Z",
+      "repo": "valkey-py",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b4f76ab02a044e874f0b002dbed7faac13ae8244",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "added support for pypy 3.12 as well",
+      "date": "2026-10-11T09:55:09Z",
+      "repo": "valkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-10-11T20:16:00Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/352"
+    },
+    {
+      "sha": "bae3e2ebc14f3db0268383dc31f73398d99f40dd",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "Added support for python 3.15 and dropped 3.10",
+      "date": "2026-10-09T19:39:45Z",
+      "repo": "valkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-10-11T20:16:00Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/352"
     }
   ]
 }

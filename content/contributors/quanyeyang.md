@@ -2,14 +2,22 @@
   "title": "quanyeyang",
   "login": "quanyeyang",
   "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
-  "score": 17,
-  "commit_count": 15,
+  "score": 18,
+  "commit_count": 16,
   "review_count": 2,
   "repos": [
     "libvalkey",
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "2fce936b3f",
+      "message": "Skip raw TSC when the kernel clocksource is not tsc (#4707)",
+      "date": "2026-10-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4707",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2fce936b3f934e879cd2dce20d263191eef07cb5"
+    },
     {
       "sha": "3284afd3c1",
       "message": "Report pending SO_ERROR when non-blocking recv returns EAGAIN (#360)",

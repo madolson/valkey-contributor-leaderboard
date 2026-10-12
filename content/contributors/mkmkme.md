@@ -2,8 +2,8 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 123,
-  "commit_count": 28,
+  "score": 125,
+  "commit_count": 30,
   "review_count": 95,
   "repos": [
     "libvalkey",
@@ -12,6 +12,22 @@
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "17c5e509d4",
+      "message": "Merge pull request #88 from valkey-io/mkmkme/improve-pypi-publish",
+      "date": "2026-10-11",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/88",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/17c5e509d42c02b5d1656edbd03bedbae56cef0e"
+    },
+    {
+      "sha": "b4f76ab02a",
+      "message": "added support for pypy 3.12 as well",
+      "date": "2026-10-11",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/352",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/b4f76ab02a044e874f0b002dbed7faac13ae8244"
+    },
     {
       "sha": "fb440a6b28",
       "message": "Merge pull request #87 from valkey-io/mkmkme/bump-vendor",
