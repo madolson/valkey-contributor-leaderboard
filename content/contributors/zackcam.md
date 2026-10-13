@@ -2,8 +2,8 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 82,
-  "commit_count": 49,
+  "score": 83,
+  "commit_count": 50,
   "review_count": 33,
   "repos": [
     "valkey",
@@ -17,6 +17,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "0320276c78",
+      "message": "Remove the stored iovec table from SegmentPool (#119)",
+      "date": "2026-10-12",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/119",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/0320276c78a018a26a1782bdb38b02b542d49a01"
+    },
     {
       "sha": "a073b2552c",
       "message": "Fixing copy bug, adding largeobj ACL category (#112)",

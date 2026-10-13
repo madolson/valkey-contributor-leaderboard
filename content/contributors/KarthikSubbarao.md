@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 298,
+  "score": 299,
   "commit_count": 115,
-  "review_count": 183,
+  "review_count": 184,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -940,6 +940,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0320276c78",
+      "message": "Remove the stored iovec table from SegmentPool (#119)",
+      "date": "2026-10-12",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/119",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/0320276c78a018a26a1782bdb38b02b542d49a01"
+    },
     {
       "sha": "a073b2552c",
       "message": "Fixing copy bug, adding largeobj ACL category (#112)",

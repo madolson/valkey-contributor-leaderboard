@@ -2,9 +2,9 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 60,
+  "score": 64,
   "commit_count": 10,
-  "review_count": 50,
+  "review_count": 54,
   "repos": [
     "libvalkey-py",
     "one-time-for-planet",
@@ -96,6 +96,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5dd1271b42",
+      "message": "Merge pull request #90 from valkey-io/mkmkme/bump-version",
+      "date": "2026-10-12",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/90",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/5dd1271b420841b1a80657d00c8c73cc2eaa3b87"
+    },
+    {
+      "sha": "792d0097be",
+      "message": "Merge pull request #359 from valkey-io/valkey-py-contributing-async-tests",
+      "date": "2026-10-12",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/359",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/792d0097be83228858a2d8ed2cba9c6ea004ce80"
+    },
+    {
+      "sha": "51b2cd7236",
+      "message": "Merge pull request #357 from valkey-io/mkmkme/add-codeql-x.y",
+      "date": "2026-10-12",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/357",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/51b2cd72363d528bf7d0c4c55b08d179a1354f7d"
+    },
+    {
+      "sha": "773f7da712",
+      "message": "Use uv for CI Python environments and dependency installation",
+      "date": "2026-10-12",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/358",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/773f7da712110fc0bb44871648d3071a4c948660"
+    },
     {
       "sha": "17c5e509d4",
       "message": "Merge pull request #88 from valkey-io/mkmkme/improve-pypi-publish",

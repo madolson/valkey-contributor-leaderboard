@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 67,
+  "score": 68,
   "commit_count": 9,
-  "review_count": 58,
+  "review_count": 59,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "48112faa28",
+      "message": "Feat/structured acl api (#187)",
+      "date": "2026-10-13",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/187",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/48112faa28a9ce78771918e28a6a08a1a3bdc825"
+    },
     {
       "sha": "29a282ac63",
       "message": "fix: do not start the reader when the sync path fails (#203)",

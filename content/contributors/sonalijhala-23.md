@@ -2,13 +2,21 @@
   "title": "sonalijhala-23",
   "login": "sonalijhala-23",
   "avatar_url": "https://avatars.githubusercontent.com/u/321700091?v=4",
-  "score": 6,
-  "commit_count": 6,
+  "score": 7,
+  "commit_count": 7,
   "review_count": 0,
   "repos": [
     "valkey-go"
   ],
   "commit_list": [
+    {
+      "sha": "48112faa28",
+      "message": "Feat/structured acl api (#187)",
+      "date": "2026-10-13",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/187",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/48112faa28a9ce78771918e28a6a08a1a3bdc825"
+    },
     {
       "sha": "a4e5fe300a",
       "message": "valkeylimiter: add GCRA rate limiting strategy and valkeycompatrate package (#176)",
