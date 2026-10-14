@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 83,
+  "score": 84,
   "commit_count": 50,
-  "review_count": 33,
+  "review_count": 34,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -419,6 +419,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "71d4d3e7c6",
+      "message": "config updates (#118)",
+      "date": "2026-10-13",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/118",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/71d4d3e7c6a5e7be9d28160893933dbe96fe184f"
+    },
     {
       "sha": "7f342d18b3",
       "message": "rename ValkeyLargeObj to valkey-large-object (#109)",

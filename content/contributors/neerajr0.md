@@ -2,14 +2,30 @@
   "title": "neerajr0",
   "login": "neerajr0",
   "avatar_url": "https://avatars.githubusercontent.com/u/55604693?v=4",
-  "score": 21,
-  "commit_count": 7,
+  "score": 23,
+  "commit_count": 9,
   "review_count": 14,
   "repos": [
     "valkey-large-object",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "71d4d3e7c6",
+      "message": "config updates (#118)",
+      "date": "2026-10-13",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/118",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/71d4d3e7c6a5e7be9d28160893933dbe96fe184f"
+    },
+    {
+      "sha": "da69d13c81",
+      "message": "split HELLO/SET/GET commands into TCP/RDMA (#121)",
+      "date": "2026-10-13",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/121",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/da69d13c8173cfed83a055be1a442183ad0e3ded"
+    },
     {
       "sha": "9ef6914ced",
       "message": "drain remaining EFA futures on failure (#117)",

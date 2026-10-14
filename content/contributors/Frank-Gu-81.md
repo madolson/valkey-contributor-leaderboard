@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 43,
-  "commit_count": 24,
-  "review_count": 19,
+  "score": 49,
+  "commit_count": 26,
+  "review_count": 23,
   "repos": [
     "valkey-ci-agent",
     "valkey-doc",
@@ -12,6 +12,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "1df065c072",
+      "message": "chore: reviewer pool update (#1556)",
+      "date": "2026-10-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1556",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1df065c0721beeb04762d5ac0b0e3c9731c4aecb"
+    },
+    {
+      "sha": "53ed364990",
+      "message": "Apply debug-mode before other module args (#1562)",
+      "date": "2026-10-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1562",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/53ed364990b11ebca0e63ee7c0635aaa5eb852b5"
+    },
     {
       "sha": "d8cf85ed1a",
       "message": "Sync command JSON files and docs with 1.3.0 behavior (#1549)",
@@ -206,6 +222,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c47ae7b734",
+      "message": "Fix Gate non-UTF-8 TAG indexing behavior change behind search.emulate-release (#1536)",
+      "date": "2026-10-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1536",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c47ae7b734967b3db684a8deced8463cde841864"
+    },
+    {
+      "sha": "c47ae7b734",
+      "message": "Fix Gate non-UTF-8 TAG indexing behavior change behind search.emulate-release (#1536)",
+      "date": "2026-10-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1536",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c47ae7b734967b3db684a8deced8463cde841864"
+    },
+    {
+      "sha": "1ce64680f9",
+      "message": "Skip orphan multi/exec keys in SaveIndexExtension instead of aborting (#1361)",
+      "date": "2026-10-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1361",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1ce64680f949d9e1da8bb1d7caae689e1321dbbc"
+    },
+    {
+      "sha": "c1819da5b2",
+      "message": "fix(query): do not error on unused PARAMS in FT.SEARCH/FT.AGGREGATE (#1372) (#1407)",
+      "date": "2026-10-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1407",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c1819da5b21c267defe2f3a1215af68a2b04008b"
+    },
     {
       "sha": "c338559c06",
       "message": "Fix weight 0 is rejected (#1505)",

@@ -194283,6 +194283,3846 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-py/pull/357"
+    },
+    {
+      "sha": "4319738e6a5aec3682c4fb397363c494d98ba6fe",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Reject relative expires that overflow when the base time is added (#4880)",
+      "date": "2026-10-14T00:00:11Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-10-13T23:06:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4880"
+    },
+    {
+      "sha": "7a782369f77fe63297ee18d79d6f2f405d060a49",
+      "author_login": "MarkAtwood",
+      "author_id": 34491708,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34491708?v=4",
+      "message": "Route security/auth crypto through the OpenSSL 3 provider API (#4339)",
+      "date": "2026-10-13T23:59:15Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-10-13T22:54:38Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4339"
+    },
+    {
+      "sha": "3db525ec40760c3c045eab597b141aa57de62983",
+      "author_login": "jjuleslasarte",
+      "author_id": 140852041,
+      "avatar_url": "https://avatars.githubusercontent.com/u/140852041?v=4",
+      "message": "Fix RDB and replication failures for certain listpack entry lengths (#4819)",
+      "date": "2026-10-13T19:15:51Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-10-13T19:13:09Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4819"
+    },
+    {
+      "sha": "01857eb359abaf2afdf5d8ffecfe79b6c991a361",
+      "author_login": "rayjinghaolei",
+      "author_id": 45613893,
+      "avatar_url": "https://avatars.githubusercontent.com/u/45613893?v=4",
+      "message": "Reclaim dead client IDs from the tracking table (#4143) (#4190)",
+      "date": "2026-10-13T17:31:20Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "JimB123",
+          "date": "2026-10-13T16:20:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4190"
+    },
+    {
+      "sha": "0eb4ba3236bc6256457ff3370060b2a6ec50aea3",
+      "author_login": "adityamukesh",
+      "author_id": 229895809,
+      "avatar_url": "https://avatars.githubusercontent.com/u/229895809?v=4",
+      "message": "Fix XACKDEL KEEPREF reply for acked entry whose stream item is gone (#4843)",
+      "date": "2026-10-13T09:29:08Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-10-13T09:22:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4843"
+    },
+    {
+      "sha": "2c1e7d25b352fc18d5e858cfce45e3123dc10e12",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Only fast-fail on NACK reasons a new election epoch can fix (#4700)",
+      "date": "2026-10-13T06:48:33Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-09-16T05:26:37Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4700"
+    },
+    {
+      "sha": "692688b6f080c0c27f9d345c3e03b1daf746ac92",
+      "author_login": "ravjotbrar",
+      "author_id": 83892020,
+      "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
+      "message": "Purge legacy unencrypted passwords on hosts with no keystore (#555)",
+      "date": "2026-10-13T16:20:01Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ArgusLi",
+          "date": "2026-10-09T17:31:49Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/555"
+    },
+    {
+      "sha": "27a41b64f06f3f17c4c29e6f963f3a5de2434444",
+      "author_login": "nderraugh",
+      "author_id": 970382,
+      "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
+      "message": "ci(python): Run the Python Tests job under pytest-xdist (#7307)",
+      "date": "2026-10-14T00:14:47Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-10-13T22:53:06Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-10-13T23:44:42Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7307"
+    },
+    {
+      "sha": "413ffb630f33d809b92eadd0f776f6698d830de8",
+      "author_login": "nderraugh",
+      "author_id": 970382,
+      "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
+      "message": "test(utils): Tune server flags so test clusters form in ~6s instead of ~15s (#7337)",
+      "date": "2026-10-13T22:36:42Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-10-13T20:46:34Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-10-13T21:08:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7337"
+    },
+    {
+      "sha": "6a41d465e508a1cbfe522ec2b5aba921645c2362",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "fix(core): validate a cluster scope's first command against its acquisition slot (#7308)",
+      "date": "2026-10-13T21:46:23Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-10-09T17:56:46Z"
+        },
+        {
+          "login": "nderraugh",
+          "date": "2026-10-13T21:31:58Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7308"
+    },
+    {
+      "sha": "20adba4b7ba26b54908802e264b87651ca3b0121",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "Node: Allow opening an IsolatedScope on a (pool-borrowed) client via scopedConnection() (#6983)",
+      "date": "2026-10-13T18:16:48Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-10-10T01:18:30Z"
+        },
+        {
+          "login": "nderraugh",
+          "date": "2026-10-13T18:10:52Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6983"
+    },
+    {
+      "sha": "5f9a378c4f965cbe0ff27b47414c87244a8fb881",
+      "author_login": "currantw",
+      "author_id": 181785993,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
+      "message": "ci: test against Valkey `9.2.0-rc1` (#585)",
+      "date": "2026-10-13T17:25:53Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-10-09T18:49:07Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-10-13T17:18:31Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/585"
+    },
+    {
+      "sha": "0ee39a6e8374a60262f8d5e02faee09dd23a181d",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump the patch-updates group with 2 updates (#586)",
+      "date": "2026-10-13T16:46:55Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-10-13T16:27:02Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-10-13T16:41:38Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/586"
+    },
+    {
+      "sha": "8d45fd14b0ae3e4bffa778f2ab637f3848d4def1",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump tokio from 1.53.1 to 1.53.2 in /rust in the patch-updates group (#588)",
+      "date": "2026-10-13T16:46:15Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-10-13T16:28:31Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-10-13T16:41:13Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/588"
+    },
+    {
+      "sha": "3639ae4c749259ac7ff884436b95e17e9b71a415",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump valkey-glide from `52c592d` to `0a3bd54` (#589)",
+      "date": "2026-10-13T16:45:13Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-10-13T16:22:21Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-10-13T16:41:53Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/589"
+    },
+    {
+      "sha": "d1787271bd61dd8ddbc15ba2de32271204986c64",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): bump taiki-e/install-action from 2.87.21 to 2.87.26 in the patch-updates group (#587)",
+      "date": "2026-10-13T16:42:00Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-10-13T16:27:29Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-10-13T16:41:27Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/587"
+    },
+    {
+      "sha": "dc8230a5f737014dc1d812fddd1d4c4e6e7d7ae9",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "ci: move external link checks to optional workflow (#338)",
+      "date": "2026-10-13T21:40:45Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-10-10T00:43:54Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/338"
+    },
+    {
+      "sha": "fd2541ea9b4e5aecc3b8160c82953b34cd0c59c7",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "feat(ruby): add AZ-affinity all-nodes routing (#349)",
+      "date": "2026-10-13T17:47:44Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-10-10T08:52:43Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-10-11T01:57:53Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-10-13T15:48:06Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-10-13T17:42:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/349"
+    },
+    {
+      "sha": "6cf7b623dee500893a82ffb55e7af45f16ba387f",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/git-secrets-scan.yml (#353)",
+      "date": "2026-10-13T17:25:07Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-10-13T16:26:38Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-10-13T16:27:08Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/353"
+    },
+    {
+      "sha": "dc44fa5291320efa6afe9485500d1dc0819e0a3b",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): Bump dtolnay/rust-toolchain (#351)",
+      "date": "2026-10-13T16:52:26Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "Aryex",
+          "date": "2026-10-13T16:00:30Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-10-13T16:39:11Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-10-13T16:44:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/351"
+    },
+    {
+      "sha": "172a887b0d11f27e46935c0850a6286f935cf7f7",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/semgrep.yml (#352)",
+      "date": "2026-10-13T16:27:29Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-10-13T16:25:38Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-10-13T16:27:22Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/352"
+    },
+    {
+      "sha": "1477ed5be5e54c5fbc06be5e8d06551f21cf2fab",
+      "author_login": "kaya-abdullah",
+      "author_id": 74303216,
+      "avatar_url": "https://avatars.githubusercontent.com/u/74303216?v=4",
+      "message": "Add LibreDB Studio as participant (#678)",
+      "date": "2026-10-13T20:11:48Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "stockholmux",
+          "date": "2026-10-13T20:11:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/678"
+    },
+    {
+      "sha": "c0323550457ce6ea79cbddc17e30ef82b51d0d13",
+      "author_login": "danielfrankcom",
+      "author_id": 15225573,
+      "avatar_url": "https://avatars.githubusercontent.com/u/15225573?v=4",
+      "message": "Fix GitHub handle for Muhammad Awawdi (#691)",
+      "date": "2026-10-13T20:07:15Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "mo-amzn",
+          "date": "2026-10-13T06:48:19Z"
+        },
+        {
+          "login": "stockholmux",
+          "date": "2026-10-13T20:07:05Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/691"
+    },
+    {
+      "sha": "71d4d3e7c6a5e7be9d28160893933dbe96fe184f",
+      "author_login": "neerajr0",
+      "author_id": 55604693,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55604693?v=4",
+      "message": "config updates (#118)",
+      "date": "2026-10-13T23:51:04Z",
+      "repo": "valkey-large-object",
+      "reviewed": [
+        {
+          "login": "KarthikSubbarao",
+          "date": "2026-10-13T23:35:18Z"
+        },
+        {
+          "login": "zackcam",
+          "date": "2026-10-13T23:41:21Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/118"
+    },
+    {
+      "sha": "da69d13c8173cfed83a055be1a442183ad0e3ded",
+      "author_login": "neerajr0",
+      "author_id": 55604693,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55604693?v=4",
+      "message": "split HELLO/SET/GET commands into TCP/RDMA (#121)",
+      "date": "2026-10-13T20:21:37Z",
+      "repo": "valkey-large-object",
+      "reviewed": [
+        {
+          "login": "KarthikSubbarao",
+          "date": "2026-10-13T20:21:18Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/121"
+    },
+    {
+      "sha": "43ce8afcde6a76123c50387101a2b01e0b685bcc",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump actions/download-artifact from 8.0.1 to 8.0.2",
+      "date": "2026-10-14T00:12:37Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "secwall",
+          "date": "2026-10-14T00:12:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/69"
+    },
+    {
+      "sha": "0a5066f48a4736d6fc71c20f558f633e1882cbcd",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump github/codeql-action from 4.38.2 to 4.38.3",
+      "date": "2026-10-13T22:46:17Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "secwall",
+          "date": "2026-10-13T22:19:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/70"
+    },
+    {
+      "sha": "b0a3df09d890af83fd1afff9f635b3d79a407e88",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump actions/upload-artifact from 7.0.1 to 7.0.2",
+      "date": "2026-10-13T22:19:16Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "secwall",
+          "date": "2026-10-13T22:19:08Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/68"
+    },
+    {
+      "sha": "cfc50a6da6a88eddb6f4291da9dede8e917ae78b",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "feat: dial ValkeyNode clients through ClientProvider.ForNode (#457)",
+      "date": "2026-10-13T20:28:38Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-10-13T12:51:19Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/457"
+    },
+    {
+      "sha": "bb69fc1a9247b74ef8a6792fabb088a1afd6f7b0",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "feat: add ClientProvider and dial the cluster scrape through it (#456)",
+      "date": "2026-10-13T11:41:14Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-10-13T11:12:54Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/456"
+    },
+    {
+      "sha": "032251ad6ee7fe86e75343536d2488c8913edb91",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "refactor(valkey): pass a dial func to GetClusterState (#455)",
+      "date": "2026-10-13T10:29:44Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-10-13T09:33:34Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/455"
+    },
+    {
+      "sha": "f567612509ac782214b35ce18cea875f640d7ce2",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Install every package before testing, and name adopt's --bucket",
+      "date": "2026-10-14T02:40:26Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "011a72d7cdd7612b13f791174e69d441f086ac8c",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Document the curator's quoted model log and check changes",
+      "date": "2026-10-14T02:40:26Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d88f3924b8ca19407cfb86020379d39220029555",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Document the watchdog, round and fix-claim changes",
+      "date": "2026-10-14T02:40:26Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "6c95c52b1b03a7c9b207d9d6d4dc4e16406756e0",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Point the rollout at adopt for skills outside the lifecycle",
+      "date": "2026-10-14T02:40:26Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "64817396f6968aaa3d4f6e9bc4f681d19f850b30",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Document upgrading and rolling back a deployment",
+      "date": "2026-10-14T02:40:25Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "296765ed00a5c9c734c928709100e7dd8f2ab670",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Correct two infra/README notes the stacks no longer match",
+      "date": "2026-10-14T02:40:25Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "325d6bff883ecdfba123d23e4b18d78ceb3ebffe",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Fix the landing guide's verification and repo check steps",
+      "date": "2026-10-14T02:40:25Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "55d6665bebc5e426d0035878e998b3daef675d72",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Say what the receiver's installation tokens ask for",
+      "date": "2026-10-14T02:40:25Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "9c94449236b291162ff5077da8b1b06e743e48f9",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Point the orphans output at adopt instead of deprecate",
+      "date": "2026-10-14T02:40:25Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "55518343305c9f91479f0a23c19a98b47299fed7",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add registry-skills.mjs adopt for skills outside the lifecycle",
+      "date": "2026-10-14T02:40:25Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "dce0700b6940e3c97aa604acd8217ef6390099f6",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Say what a report-mode check stores, in skill-check.mjs",
+      "date": "2026-10-14T02:40:25Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "acee629c42b8c3d697148ca45d341b7bef498d9a",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Rename the jq $label binding so concerns-dump runs on jq 1.6",
+      "date": "2026-10-14T02:40:25Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "25b6bcd2636f2743a383fbbbc51fff8fa78b8152",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Leave the marker alone when a retirement's marker write loses",
+      "date": "2026-10-14T02:40:25Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f930cfb50a84f1be0201e311a558611b0f72f906",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Report names only the description cites as advisory in checks",
+      "date": "2026-10-14T02:40:25Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f89cc747dd30d4de10712a282f942b823eb4add9",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Restore the standing an obsolete finding took when it is cleared",
+      "date": "2026-10-14T02:40:25Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "6ed478dee4e62097df29af0f887c1df0080d0259",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Test directory-style area entries for files in the obsolete rule",
+      "date": "2026-10-14T02:40:25Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "90436d5d0af67c0e3877f95183bb645e49d8db0f",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Drop the retirement marker on every release after a live read",
+      "date": "2026-10-14T02:40:25Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ab41bc64244191de1841a6ddb15dc3141850b10f",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Log the curator's model text only quoted",
+      "date": "2026-10-14T02:40:25Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "9104a6ba68e54848263eb026ed6bd69ed10a011c",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Correct the watchdog summary for a review with no start record",
+      "date": "2026-10-14T02:40:25Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3d863546bf16278827b2a084dd17baf872864d09",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Give back the round of a waiting review the runtime will skip",
+      "date": "2026-10-14T02:40:25Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b8b9040250270e45642745da4319c06c420145ec",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Start a fix check for a one-word fix claim in the App's thread",
+      "date": "2026-10-14T02:40:24Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d1fe6cbd9e0a9d77504364344b84ec9f044e665d",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Tell a never-run review from a dead run by its start record",
+      "date": "2026-10-14T02:40:24Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "796356bd89b232edda671c392c19f2d75abee968",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Stop forged heartbeat records from dropping automatic reviews",
+      "date": "2026-10-14T02:40:24Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "5e2e80b47d05b47e7a6790da6393bc8cd2b27767",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Build the invoker test's runtime ARN from an account constant",
+      "date": "2026-10-14T02:40:24Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c0e20711aa03b9dc0908f5359c384fed8471e8af",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Correct the doc points the final docs review found",
+      "date": "2026-10-13T23:47:56Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "9bca5bc7a659fb464913683c6cf1360116d2f233",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Update the curator runtime only after its prompts are uploaded",
+      "date": "2026-10-13T23:46:09Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "4268cfd26ccee323c430a284129635ecb4bb31c3",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Reject two settings that cannot work, in the deployment config",
+      "date": "2026-10-13T23:46:09Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "5e384c69ae61e7cd9f8f99fa46bed24f134dd350",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Ask for explicit permissions in the receiver's installation tokens",
+      "date": "2026-10-13T23:39:01Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "39faabe975b88b1c82ec6172fabfa8b99587e526",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Note the skill-check.md upload race in infra/README",
+      "date": "2026-10-13T23:10:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "553229a94ed80ec5fb466db62d6a6616c3c15806",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Clarify two defaults in the README and infra/README",
+      "date": "2026-10-13T23:08:38Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "5ceb08ddcf6aabc7407cc1898c731df748327b63",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Tighten the skill check wording in the architecture doc",
+      "date": "2026-10-13T23:07:46Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7b5d3fb5447b7139723e3156574c3d2d08e72724",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Say what a deprecation means in the curator skills README",
+      "date": "2026-10-13T23:05:53Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "93600679740639b43752ca64a80fd0df84cba5d7",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add the operator script tests to CONTRIBUTING",
+      "date": "2026-10-13T23:05:28Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "705e7c6c9e1d1bded89545adfd09d64f912745b4",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Describe the release check and skills-repo broker in SECURITY.md",
+      "date": "2026-10-13T23:04:35Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "8f0d925cf0528b5a87947866f7eaa3b2ffb2c1f1",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add skill lifecycle operations to infra/README",
+      "date": "2026-10-13T23:03:26Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "a55aea581af194180e0d0099fa934452a13a3900",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Document the new deployment settings and grants in infra/README",
+      "date": "2026-10-13T22:58:55Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d4d96ec5b14c04fa45ac58513c62c98244f54d0f",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Describe the skill lifecycle in the architecture doc",
+      "date": "2026-10-13T22:56:42Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d63400accb64e992880b8839b10c8df3cb45fcb4",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Describe review rounds and thread replies in the architecture doc",
+      "date": "2026-10-13T22:50:26Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "9e7ca31071fa68c5fbdcdfe57cccf1896e55a200",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Document review rounds, markers and the skills-repo broker in webhook",
+      "date": "2026-10-13T22:48:52Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f55c8e28f504e17891f4098ff43cdb1182df0271",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add a guide to landing a new project",
+      "date": "2026-10-13T22:47:12Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3a017078598e9fe693b81b81a236a547d9eede15",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Describe skill standing and release checks in the README",
+      "date": "2026-10-13T22:39:46Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "43162cc23fca1268ce29ad5dc1839fbc9bec5516",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Describe review rounds and thread replies in the README",
+      "date": "2026-10-13T22:39:39Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e33e57cc392135675ee63b89911e484230c4d6f7",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Run the operator script tests in CI",
+      "date": "2026-10-13T21:59:27Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "481ae9115c91e13f23b6c1ff748fd36e0ffc627c",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Pass the automatic review round settings to the receiver",
+      "date": "2026-10-13T21:59:27Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "cfaffa4a7c0e3ad133908d1a43d352c5f63f201e",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add the skills-repo token broker for the curator",
+      "date": "2026-10-13T21:57:10Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "9b119b2353cee36463a250923ff6813d4bb4b823",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Let review workers clear pending markers and claim run starts",
+      "date": "2026-10-13T21:54:53Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "04a0e55e5b7f5664e8d6ddb5495240121db17f3e",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Give the curator its skill maintenance settings and status grant",
+      "date": "2026-10-13T21:52:59Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "323e11a384dfa1975a6fcfc97e877392dc99b62e",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Send the decay job's maintenance requests to the curator queue",
+      "date": "2026-10-13T21:51:06Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "363d37056ff4f0546a55800dc3c78ef20aed879f",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Parse the skill lifecycle, skills repo and review round settings",
+      "date": "2026-10-13T21:47:13Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "151763cd2c6ab2b7f34cc24642f63862bb56c81c",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Refuse a repository named . or .. in the deployment config",
+      "date": "2026-10-13T21:45:11Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "0fa2adf22f602bdb5585ab9b5d8230d37c7fc723",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Pass the reviewer ids to the repo-skill proposal and record declines",
+      "date": "2026-10-13T21:11:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ca7017306c3e540fac8009494c071f3b32eb7222",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Treat a closed skill-check pull request as declined for its release",
+      "date": "2026-10-13T21:11:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "67203b848d63c602109d859abac85cde5696cbfc",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Free the key of a reopen or ready review when a waiting review may be skipped",
+      "date": "2026-10-13T21:05:53Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b3c91cf4c6eeaa251e19f13750291c80e7aa0fad",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Give a reopen its own key and heartbeat nonce",
+      "date": "2026-10-13T21:05:53Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "925589f19a8d6f7cacc502571de341df5552d978",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Say each way a pending marker can outlive its review",
+      "date": "2026-10-13T21:05:53Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "dcc31701b676c3883739fab1202975764285283d",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Test the delay each automatic review gives its marker",
+      "date": "2026-10-13T21:05:53Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "39c4b4cd49304313f9e8130986546b28441c4099",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Write a start record before the worker invokes a review",
+      "date": "2026-10-13T21:05:53Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d65c40160f327d520cff838f51944ab3f3f4c162",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Send a trigger with every automatic review",
+      "date": "2026-10-13T21:05:52Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "6c5d74f44d001d506f794a92f00b90c7ff26698b",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Skip any automatic review its pull request no longer wants",
+      "date": "2026-10-13T21:05:52Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "44ca5b57de89243b7ac5f4b0acc506a18d6a80b7",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Say that skill-check's default limit is the code default",
+      "date": "2026-10-13T21:05:52Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ba5d6f50d38c1fbd030dffb724c3bee53fab5c3d",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Say which back-off records' checks matter",
+      "date": "2026-10-13T21:05:52Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "01a345196fad8cd3c68895dff96e30b22b8c9869",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Stop skill-facts when git cannot read an object",
+      "date": "2026-10-13T21:05:52Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "9c72df92cde5755f9ea7f7ef3384102ce3abc991",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Refuse a partial clone in skill-facts --checkout with any git",
+      "date": "2026-10-13T21:05:52Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "50af85f77452ee9673b74c7142f69029740f97c8",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Say which tombstone writes remove the deprecation marker",
+      "date": "2026-10-13T21:05:52Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e870d6662fb639e66c2b626d5394b20d5c395cdd",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add the partial-clone hint only to a missing-object error",
+      "date": "2026-10-13T21:05:52Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "fd7839bafb34306ab50835af23ffb788784d6802",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Say that the retire_backoff counter's records can still be checked",
+      "date": "2026-10-13T21:05:52Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "1866c724c686c688fd6362d1e1bb66b4476d5107",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add an npm test script for the operator scripts",
+      "date": "2026-10-13T21:05:51Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "bb2286d53f3c4a251168b5a8db6eb9db8a1b97c0",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Leave reserved buckets out of the orphans scan",
+      "date": "2026-10-13T21:05:51Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "da6f5a911e6cbb95f0289e7a9b1e777e243cc327",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Cap the checks skill-check queues in one run",
+      "date": "2026-10-13T21:05:51Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b9b405a72507b09c8e0d2b446843b58713a50351",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Refuse credentials in --url before printing it",
+      "date": "2026-10-13T21:05:51Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b1b4e238d9d1e6a99bbe2e9f697ea0e09f085ff4",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Read a --checkout clone without fetching missing objects",
+      "date": "2026-10-13T21:05:51Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e4bd1e18d1845238edad3e6ddb59f02cca173681",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Print no control or format character from the shell scripts",
+      "date": "2026-10-13T21:05:51Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7ae9d5e7f923cae4a891cac99921a43fa1134ee1",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Print no control or format character from the Node scripts",
+      "date": "2026-10-13T21:05:51Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "853b383a3887d7aa036c245bc6675e5cb4217d2c",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Give the exact key of a reserved item whose key was stripped",
+      "date": "2026-10-13T21:05:51Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "65f8b3123cab0a38cb1dbb0e9ee0ea445febeb15",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Check a record in retire back-off when a check is due",
+      "date": "2026-10-13T21:05:51Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "5e46e02c8cd20d04005af30eac2bb2aac30453e9",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "State one rule for keeping or removing the deprecation marker",
+      "date": "2026-10-13T21:05:51Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "bc0ee56a410cf30b6cfa31f79c686f28fb65ac3c",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Percent-encode parentheses in evidence links",
+      "date": "2026-10-13T21:05:50Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f1f3a08ba0fdfc309069717849d27253d73e208a",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Report GitHub's anonymous rate limit as its own error",
+      "date": "2026-10-13T21:05:50Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ee3459aa08901dd0c596e67ef07fe9373d06c7ee",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Respect skill pull requests maintainers closed without merging",
+      "date": "2026-10-13T21:05:50Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f94c75ab2dcd4321a0ce80becaab6532a10a5457",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Propose only configured reviewers' repo skills",
+      "date": "2026-10-13T21:05:50Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "55c450e6b228122151956a34fd3b04263b570b50",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Join a skill-check branch another attempt created first",
+      "date": "2026-10-13T21:05:50Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c00c3eaafd77fc9f4115d35ee26ec36963fc3ecb",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Bring an open skill pull request's text up to date on every attempt",
+      "date": "2026-10-13T21:05:50Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b184c630caeb80c5a4750ac172b9b940bfec46f9",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Check proposed repo-skill edits with the edit contract",
+      "date": "2026-10-13T21:05:50Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "fce0532068bd50db0aa236b76fee662ed46dd9be",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Propose repo-skill edits as pull requests",
+      "date": "2026-10-13T21:05:50Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "fc20d01c85634617dead8c19da259a0acee07ccd",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Read a repo skill file anonymously at a commit",
+      "date": "2026-10-13T21:05:50Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c3cfb0dec8856aaf52c9b48f1b5cc930381c648b",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add the curator's skills-repo token source",
+      "date": "2026-10-13T21:05:50Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "628d31e2edbe4d05e09fd290055ded3889cd8254",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add the skills-repo token broker Lambda",
+      "date": "2026-10-13T21:05:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "4f7caed1e0dcf4575b1cdbe0de13d2abcf15994e",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Describe dry-run decisions and partial checks in the module comment",
+      "date": "2026-10-13T21:05:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c651d09f7f2efcb01bf1c13cec72f717e69fff11",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Count a check whose diff was read in part once per message",
+      "date": "2026-10-13T21:05:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "0730cf4fbbca16832b32ba3f80cecf44b9e8857e",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Check from the verified commit whenever there is one",
+      "date": "2026-10-13T21:05:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d5bc69c7fa64ec09a973737094b09c7623352bca",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Pin the maintenance writes' race guards with tests",
+      "date": "2026-10-13T21:05:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ac25c0738243d3fbadd0bfca147a2536203a124f",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Quote the decision in the curator's maintenance line",
+      "date": "2026-10-13T21:05:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "1d96513a1a900781c108e682079b72896b2123ae",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Pin a retirement of a gone registry record on the decay state",
+      "date": "2026-10-13T21:05:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "a070ffc596fb881ea206ed5eca0009d2585c0e3e",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Keep a real check's pending edits through a dry run",
+      "date": "2026-10-13T21:05:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "29b51be6519eb648f37d37578f4c7619c5840858",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Say on every check path whether the outcome was recorded",
+      "date": "2026-10-13T21:05:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "6c05c0ffd2be56f27a59fe8d3ea02ddafea4c8bb",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Record an obsolete finding a reinforcement overtook as suspect",
+      "date": "2026-10-13T21:05:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "87e5a2b089a70b7704e8214aa3cd95fdba7bde3c",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Record no retirement in a dry run",
+      "date": "2026-10-13T21:05:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e3f8ceca7762b37fa0b4f9ad5bb3eb5681968f92",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Keep a lost name lost until the code or the skill drops it",
+      "date": "2026-10-13T21:05:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c884fafc88958a82e1b01f51e3573318dca44a31",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "List each change on its own line in a repo skill proposal",
+      "date": "2026-10-13T21:05:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "77ab4638998412af9b766d26452c7c25966c46b7",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Decide a check's verification in one place",
+      "date": "2026-10-13T21:05:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "152b7d338ecdf068afbd05a06f081dee923b69ee",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Install git in the curator image for release checks",
+      "date": "2026-10-13T21:05:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "684aed23b5af65e11d7891ca5b19fadc53e847f0",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Dispatch maintenance messages in the curator entrypoint",
+      "date": "2026-10-13T21:05:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "cf6b2bb516a9d875d6c2f38ae538c612fb81aeda",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Give the feedback tools the registry reader",
+      "date": "2026-10-13T21:05:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "df69eaf705bb6b12229accecea04044b99240211",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Run release checks and retirements in the curator",
+      "date": "2026-10-13T21:05:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "af8f4d8e37113aba7a6f0c5a6f7404c73319942d",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add the release check's audit tools and report",
+      "date": "2026-10-13T21:05:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ebc3c9fa3c26cacdefe75ab03f5d671a1ba4ab1d",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Read the curator's skill maintenance settings",
+      "date": "2026-10-13T21:05:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ed71d3b279f6d6de0d42aa62d9f9302a0dbfeec6",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Let curate end a run at a deadline",
+      "date": "2026-10-13T21:05:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "0e9faa19bd2b038d4c707664dd14bec65561a774",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Record a rejected skill as an operator retirement",
+      "date": "2026-10-13T21:05:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e05807ff2c843f4952d27e74c4b503534eeae37c",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Say where the revise claim in the submit_skill tests comes from",
+      "date": "2026-10-13T21:05:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "66d64c0450d05390c8770373c59ca80447162408",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Let an operator restore an unfinished generation",
+      "date": "2026-10-13T21:05:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "dc3d83212556695995782923912fddb51af0a085",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Describe how an unrecorded re-publication is finished",
+      "date": "2026-10-13T21:05:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "bf0065e62146d0b4fc3f07a49fa98ff9017ae87b",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Refuse to recreate a missing skill from update_concern alone",
+      "date": "2026-10-13T21:05:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f35a4ec7d2b0388d9bb5abafe42d9094cb1f2581",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Show the replaced skill in get_skill only for a tombstone",
+      "date": "2026-10-13T21:05:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d18821b3d73d9d9fb1dba73f43e8d21d06940192",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Match suppression-marker look-alikes in linear time",
+      "date": "2026-10-13T21:05:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "65e00f7560f6191b0792c6981fcabc5854fd36ef",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Test that a marker change voids a recorded retirement",
+      "date": "2026-10-13T21:05:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "926640da514a92ea06571a57ae781b2a059d47f9",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Condition the generation claim on the retirement as read",
+      "date": "2026-10-13T21:05:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "72ea21338afd9b57e811955b2df4fa9e8b4d2980",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Clear retire_refused_at on publish and keep it from the model",
+      "date": "2026-10-13T21:05:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c1cd0100b7b5dc47335263a908dfa54e676b24f6",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Keep a skill update and a release-check edit apart",
+      "date": "2026-10-13T21:05:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "9e62476c6a953bc948a9e16510e98cd9b9d0ca21",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Record an operator retirement of an unfinished generation",
+      "date": "2026-10-13T21:05:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f15bff049a6b2de71f5c1960ecbd94c95b7926c9",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Retry the write that records a published skill",
+      "date": "2026-10-13T21:05:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "4c0e79aefc6823b62e5d592792f177af85bc45aa",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Count each partial skill check once per maintenance message",
+      "date": "2026-10-13T21:05:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ca8eb14a88ca6d2eecc2d6edbc78b1b131d34549",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Let a skill check that stays partial confirm after two tries",
+      "date": "2026-10-13T21:05:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "400efdc09f95faaaab018b5babb8d79ea0be946c",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Diff every skill-check candidate file within a byte budget",
+      "date": "2026-10-13T21:05:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e20f6193d8e26a1021582fbf4a4ced72918535ec",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Tell a base the remote dropped from a failed base fetch",
+      "date": "2026-10-13T21:05:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "1b006daf330c9044e8ea54826bf2d63b2ebf7932",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Use a generated reason in the prompt tests' suppression marker",
+      "date": "2026-10-13T18:01:44Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "30da4c3858d30ed68561ec18a4c33b66f3529292",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Test the wait of opened and ready reviews on one message each",
+      "date": "2026-10-13T17:57:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "39aa98d21e47aab8f60757ad5d5b04f5e812490e",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Note when a pending marker outlives its review",
+      "date": "2026-10-13T17:57:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e7d48ed00e3a02b324277b640ecde591c61b3684",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Do not run a review whose marker another receive took",
+      "date": "2026-10-13T17:57:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "640edb9cf009e37fa351d9a9f76663a7bd799280",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Hold every automatic review while another review of the PR runs",
+      "date": "2026-10-13T17:57:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c539ec89e690766a67ee8c51db1275b00735bdf4",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Give every automatic review the pull request's pending marker",
+      "date": "2026-10-13T17:57:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "47a583324026ee6f143263ff83b044989034eda6",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Give push reviews their own key and heartbeat nonce",
+      "date": "2026-10-13T17:57:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "216870552c0f3402afd78bfd0dda800e470cf712",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "State how the curator releases a claim and its marker",
+      "date": "2026-10-13T17:57:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ac23d22be5f65ffd7b36772de49df5a31d4dee70",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Back off retiring a record the curator refused",
+      "date": "2026-10-13T17:57:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "84f05bd80bf9b71121b938852d4306947a7e2a59",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Decay without a curator queue instead of failing",
+      "date": "2026-10-13T17:57:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "1f7bec5d99f6027ab914f334de389d3a301c1b60",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Count and list items in reserved buckets",
+      "date": "2026-10-13T17:57:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7f66860ec4384bf84c204c690a700edfcba6cc96",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Strip invisible characters from decay report values",
+      "date": "2026-10-13T17:57:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "340d765a8cdc8651f02a04ed0c976ed6036ec587",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Show the skill lifecycle and pending edits in concerns-dump.sh",
+      "date": "2026-10-13T17:57:48Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "43a6f20814682535992faf61fc1fefe700a0821c",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Honour --region in concerns-dump.sh",
+      "date": "2026-10-13T17:57:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "1c723f4dc1705cf3ed86999d3bb80fdf2370100e",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Delete the fake AWS CLI directories when a test file ends",
+      "date": "2026-10-13T17:57:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e00c3074b12d16acf80f439714c16ab2f4c7a0d2",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add skill-facts.mjs to run a skill's fact check locally",
+      "date": "2026-10-13T17:57:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "8efcce0b24ae5466ff09ce569f3cadbfac1f82da",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add skill-check.mjs to queue report-mode skill checks",
+      "date": "2026-10-13T17:57:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "218803d80e147825467053fe70a59ed585184a29",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add an orphans subcommand to registry-skills.mjs",
+      "date": "2026-10-13T17:57:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "afdfcb4dd352cc4bd5a7d363e6c49c5749174d25",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Deprecate through deprecateSkill in registry-skills.mjs",
+      "date": "2026-10-13T17:57:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "1edfee86230c975db71a3bf5b2e1bc1ba51f3948",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add AWS CLI helpers for the operator scripts",
+      "date": "2026-10-13T17:57:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "59b70fe5afbb4eef8c1aa2e3c1e8feeb7b5f40ce",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Describe the generation attributes in the concerns tools comment",
+      "date": "2026-10-13T17:57:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "45ed49dc47d0e77d1f2bfc7fac03cc92f91e1e77",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Do not report an operator-retired record as eligible to graduate",
+      "date": "2026-10-13T17:57:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "a67c897b2468a07dda54a0b52cededcf2e45cc1f",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Ask for code names in backticks in curator-written skills",
+      "date": "2026-10-13T17:57:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ae39db96298afa73b3e2f854b4368a899acb4efe",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Teach the curator to re-publish from the published skill",
+      "date": "2026-10-13T17:57:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "bfce5837996016f27d64d57b12dec4f9872edaa4",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Show the replaced skill in get_skill for an unpublished generation",
+      "date": "2026-10-13T17:57:47Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "9a97424c9e5855c7b183e9c2446036549c6a0320",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Keep the release check's suppressed pieces when re-publishing",
+      "date": "2026-10-13T17:57:46Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c93110afdbc83ff6ec55d9274c04a9a5097214b5",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Re-publish retired skills under generation names in submit_skill",
+      "date": "2026-10-13T17:57:46Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "cbf5f4551ccaccc4a9d88ba3b2281388a335747f",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Let pushback re-publish a graduated record's skill",
+      "date": "2026-10-13T17:57:46Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "304550b66208427a53beb10075747a3dd11a5cc4",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add get_skill to read a graduated record's published skill",
+      "date": "2026-10-13T17:57:46Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "9304bc6b1c2b3cacedc0b1643d4da9dbc9d3c924",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Record when update_concern changes a graduated record",
+      "date": "2026-10-13T17:57:46Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "778369b749d2fd287f1411c70c1c27c2f6549757",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Show a graduated record's skill state to the curator",
+      "date": "2026-10-13T17:57:46Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c943b9e6c337c437f3fb4a93da5a91a0cb62cfdc",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Refuse reserved area buckets in the curator's concerns tools",
+      "date": "2026-10-13T17:57:46Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3aa3e1bbf26b565df85cccba889d786d18a3fe84",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Name the wrong-finding exception in the completion criteria",
+      "date": "2026-10-13T17:57:46Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "85219c620ad09db4b367b970da7b298a818ebd99",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Say in the state schema that a wrong finding is dropped",
+      "date": "2026-10-13T17:57:46Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "08924e7aee4a8d2563755d5788b699277cf9da8e",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Describe superseded skill pieces as the reviewer sees them",
+      "date": "2026-10-13T17:57:46Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c387c79bedc88d663f14398f3d70f75132ecaa99",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Find fenced blocks in skills the way the release check does",
+      "date": "2026-10-13T17:57:46Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "6be0eb3b468891bc8d76226c609abe3725a7b2bf",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Export the skill check's frontmatter and fence scan",
+      "date": "2026-10-13T17:57:46Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "184eee75401d9e960e7bf4c8c769ea87702c82ee",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Strip the record id sentence from descriptions in linear time",
+      "date": "2026-10-13T17:57:46Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "2f617ebb040b5688a7af431330701b7d4aeba638",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Find the record id citation in linear time",
+      "date": "2026-10-13T17:57:46Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "8003c0bcb8f85bd4de93cec9aec465998dbb278d",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Say which lines the edits.ts overview never edits",
+      "date": "2026-10-13T17:57:46Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f37279eab878f9bf065728de6812365ab7a7d56b",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Give the skill-check runner timing tests more slack",
+      "date": "2026-10-13T17:57:45Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "27e50d7b00650d12c1ad1b9d1a72b725385d04af",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Read only generated reasons as well-formed suppression markers",
+      "date": "2026-10-13T17:57:45Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "eab125252a1b6b1c94d1314a20c9305bfdebc094",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Read git's output until it closes after killing what git left",
+      "date": "2026-10-13T17:57:45Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "016249c2fe44ecd0c0c6b5c30f96c583a6d930ca",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Let skill-check edits change only flagged names and their numbers",
+      "date": "2026-10-13T17:57:45Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b1d429e87383fe07bba7ccc0ab093bf84a6df636",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Treat escaped backticks as text in skill-check code spans",
+      "date": "2026-10-13T17:57:45Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f688dde1d5aa3c05bab824db354f8ba7c5329f9e",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Never confirm a skill check whose diff was not read in full",
+      "date": "2026-10-13T17:57:45Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "cbe1b4bdae3b8e0f23bf077f6f591da9885ae8a3",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Kill the whole git process group on a skill-check timeout",
+      "date": "2026-10-13T17:57:45Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "0a50bf1c249817153854254cbd1d02be320357f8",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Name the git subcommand in skill-check errors",
+      "date": "2026-10-13T17:57:45Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "fa787caef2f7282e1d276736420655b50fdee9db",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Note that the Valkey prompt test reads the GLIDE prompt",
+      "date": "2026-10-13T16:46:19Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7e56f2c07b490ca1ff28e6062f9fbe24b82bd5d8",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Describe thread replies accurately in the receiver config",
+      "date": "2026-10-13T16:46:19Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "dcf15da85a25464c8e6a109e20da93e8a16d6391",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Cut long file names in the thread-reply instruction",
+      "date": "2026-10-13T16:46:19Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "23a1a1d5c36742a3cf1062a075605fe2fbbc4156",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Give a wrong finding one rule: drop it, do not resolve it",
+      "date": "2026-10-13T16:46:19Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "85dd7dc02aaa6224826363a74b4af77f65aff840",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Scope the safety gate's dispute rule to the bot's own findings",
+      "date": "2026-10-13T16:46:19Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "508464fb463b68f35644c0ea4dbbe633fc04fe29",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Enable thread replies on the Valkey route of the example config",
+      "date": "2026-10-13T16:46:19Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "013e52c358c9af07f3b3c5d689d8e6e66466b877",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Tell the reviewers what suppressed skill pieces mean",
+      "date": "2026-10-13T16:46:19Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "72ae8285194c934424976de3875e0e7044e14e3c",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Cover disputes and questions in the reviewer thread-reply bullet",
+      "date": "2026-10-13T16:46:19Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d24076bc6737227731abbc253df8645086de3e3a",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Cut the quoted comment, not the directive, in thread replies",
+      "date": "2026-10-13T16:46:19Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b3a919d4c308db840993f66abcdc17c31af56605",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Answer disputes and questions in review-thread replies",
+      "date": "2026-10-13T16:46:19Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "bb7a346a0f15c4f763050e0dd07d72384579f7ef",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Run a push review when the worker may not read its marker",
+      "date": "2026-10-13T16:46:18Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7508ea86306a864df77d57a97291e8b2c07834c2",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Note the remaining review-round gaps in the receiver",
+      "date": "2026-10-13T16:46:18Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7b6cadd15ac0e15f644d689b112d0343a0d3246a",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Hold a push review while another review of the pull request runs",
+      "date": "2026-10-13T16:46:18Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b63d7d5810c8bb2bfac763a7457d030eaa1c05eb",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Run a push review only after its pending marker is cleared",
+      "date": "2026-10-13T16:46:18Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7cfa31dec341d3937e34d8b434ba39cd9fed60f4",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Mark push reviews with trigger and skip_drafts in the envelope",
+      "date": "2026-10-13T16:46:18Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f62957b91208db0a49270c8f6ad42fc95d785719",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Let a reopen or ready_for_review join a waiting push review",
+      "date": "2026-10-13T16:46:18Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "127fc571c64ebf4b76309e19610304e47f6c9490",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Release the key of a push that joins a waiting review",
+      "date": "2026-10-13T16:46:18Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "db33848597e8d1b04a5dba0e960e6aa9ded9bbe9",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Test a push to a ready pull request on a skipDrafts route",
+      "date": "2026-10-13T16:46:18Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "5438f44cad445c531ae7990c82b4abfe314096bf",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Show the reason and dry run in maintenance log lines",
+      "date": "2026-10-13T16:46:18Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "79b03c3258ee1fac5510df15fadb17ab3652bced",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Log the pull request when a push joins a waiting review",
+      "date": "2026-10-13T16:46:18Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c50dd169ba7fabfcd9b0a2695ef9e4e98663aa25",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Clear the pending marker when the worker starts a review",
+      "date": "2026-10-13T16:46:18Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e225a2c25fdff185aee70b012f72b6adee059226",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Review new commits after a delay, one review per burst",
+      "date": "2026-10-13T16:46:17Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "8005906851d6619fd8e7d9b22464713577b888cd",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Cap automatic reviews per pull request",
+      "date": "2026-10-13T16:46:17Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "2d4b91d7834863e5f814e5d219e5975aab4b3b72",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add receiver settings for automatic review rounds",
+      "date": "2026-10-13T16:46:17Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "4112906cef2f8718eb8c5abb0e0380ed0d7a29b3",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Treat maintenance envelopes as curator messages",
+      "date": "2026-10-13T16:46:17Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "a00e9a4834610934cf89971a833e5294a0207a0a",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Pin how a maintenance claim expires and what a claim touches",
+      "date": "2026-10-13T16:46:17Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "4c8da0f77af9b739eacaf08ae44466e0a0b1ffde",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Reserve area_bucket values that start with \"#\"",
+      "date": "2026-10-13T16:46:17Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "6cad41d9c9d08c4a2a11e1c098bc0fedd4c35804",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Default SKILL_CHECKS_PER_DAY to 10",
+      "date": "2026-10-13T16:46:17Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "1484bf9ee898954bd3978504ab73a494eb2c543e",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Quote table values in the decay report lines",
+      "date": "2026-10-13T16:46:17Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "15c83c4350e27ec2b90623c38ca25085ab20b78b",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Make the re-scored record test able to fail",
+      "date": "2026-10-13T16:46:17Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "db7c961bca0ecd5c080a1684abd93b4caf9e6ce1",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Pin the decay scan projection in the tests",
+      "date": "2026-10-13T16:46:17Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "be940be9aa13d8a5a0acae3018144bcd56dc64e9",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Queue a check of each reviewer's repo skill per release",
+      "date": "2026-10-13T16:46:17Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "de7605d973e3986f42d8d7030719bb17dff9d0e7",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Queue skill checks and retirements for the curator",
+      "date": "2026-10-13T16:46:17Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "4a02fc77ffbbe5a585312e98965618d2020ca4cf",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Keep graduated concern records and decay them more slowly",
+      "date": "2026-10-13T16:46:17Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "db3799772071d5b52aaed3cda58882d683cf6ae3",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Condition every decay write on the score it read",
+      "date": "2026-10-13T16:46:16Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e1b6db8387d11dd843dc6265cc53c25b836e92c4",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add GA release detection for the decay job",
+      "date": "2026-10-13T16:46:16Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "36ad661c2cdaf8210b795ad86fe65043233d5f59",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Label suppressed pieces with the release check's marker parser",
+      "date": "2026-10-13T16:46:16Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "28abc0bdf56cae21f4e65f8eb82ded261b4f166a",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Skip push reviews of pull requests closed or drafted while queued",
+      "date": "2026-10-13T16:46:16Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ff5c8d63029e15d73480c4d01ce8528c62aee434",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Label suppressed pieces of the baked-in skill",
+      "date": "2026-10-13T16:46:16Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d9a3dcae6ee9cdca0bb7d87d81d819a05b7aac87",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Cut a skill's status reason without splitting a character",
+      "date": "2026-10-13T16:46:16Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3aae5c3834d660a1de69a4ddb973c6f960a22048",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Leave the record id citation out of rendered skill bodies",
+      "date": "2026-10-13T16:46:16Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "9be2dc788e0ca846e0dd2fd536b12c7959b47a52",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Find fenced blocks in skill text with CRLF line endings",
+      "date": "2026-10-13T16:46:15Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "0b9fdd92af590e791b8c150a869c6371adbae142",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Label superseded skill text in the reviewer prompt",
+      "date": "2026-10-13T16:46:15Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b2c31985cb555a8cd527d5b5b8a984440a30637d",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Render graduated skills without frontmatter or record ids",
+      "date": "2026-10-13T16:46:15Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "24e539f665b45e22466013ab42fcf03fd831b6f5",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add skill lookup by name and deprecation to the registry module",
+      "date": "2026-10-13T16:46:15Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "2315afe09745a2e12cacb6acc4f56ebd2b0128cf",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Refuse retired skill records in upsertSkill",
+      "date": "2026-10-13T16:46:15Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f07d90a8dedffdb1990032bdf3c8f94a7a480a95",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Split the edit rules in the edits.ts overview into their own paragraph",
+      "date": "2026-10-13T16:46:15Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "19f287b82b4e279532b86442cc5c4fb12d83b097",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Report a capped or truncated diff as not clean",
+      "date": "2026-10-13T16:46:15Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b50a1be2b2e0c2eecba48bcd4c6fc3102b618f7b",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Check a given revision with fixed grep output",
+      "date": "2026-10-13T16:46:15Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "fb685ff96ca3d13c8f92ad50bdd2513f50187e70",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Make the skill-check checkout non-promisor after its fetches",
+      "date": "2026-10-13T16:46:15Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "5aa2252628d9bb4c01b2c830695788587172ed7f",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Hide only well-formed suppressed blocks from the name check",
+      "date": "2026-10-13T16:46:15Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3ed5d9dc78447a7a6a62e99cc59d8d1a3e99403b",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Name the branch and commit when no release tag is known",
+      "date": "2026-10-13T16:46:15Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "bbdde3a5de7cf3736ad36d735d39d9d09c9d8504",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Require the cited line to contain a new path, directory or glob",
+      "date": "2026-10-13T16:46:15Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "5a67745092763bf18bcedec502b49ead223ccdc0",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Refuse edits to a skill with unclosed frontmatter",
+      "date": "2026-10-13T16:46:15Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "8c0c6ee3cd6bda032f31f3d36fe01dca00262f6a",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Cap the rendered growth of skill-check edits",
+      "date": "2026-10-13T16:46:14Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e69e9678f0a707d3251a5f4641deb4bade21444b",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Change only code spans and numbers in skill-check edits",
+      "date": "2026-10-13T16:46:14Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f97960094e387f23430f8030b1752f2fd6838b14",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Generate the suppression reason from the changed names",
+      "date": "2026-10-13T16:46:14Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f492ca87fdc5adbd1259b9cf42218d9bf08e02ae",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add the deterministic skill check",
+      "date": "2026-10-13T16:46:14Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7c41ef2fce00b3abcf15b748b501791c6dd4d245",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add the upstream checkout for skill checks",
+      "date": "2026-10-13T16:46:14Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "9b69fe9833059bc4ec4d2ab7ab4e10458f1f56ca",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add suppress-and-add edits for skill checks",
+      "date": "2026-10-13T16:46:14Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d90bb1098a7324786c7d980f4b4fa9c15dda4c38",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add code-name extraction for skill checks",
+      "date": "2026-10-13T16:46:14Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "8a64fc9c7dcdd3231a406740f7895a512c549d08",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Drop sprintf-js from the infra test dependencies",
+      "date": "2026-10-13T12:28:11Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e30345044d4602639220f77ac6bf3981cf4ef180",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Update the infra build and test dependencies with advisories",
+      "date": "2026-10-13T12:23:42Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c58f366b05e4ce81c1d27f495faf8739eb0afc28",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Depend on the harness tool packages the reviewers use",
+      "date": "2026-10-13T12:18:21Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "862e2ae2b19da05c9650384bfea9a6f01f939297",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Describe the broker's reach and the drained-run logs accurately",
+      "date": "2026-10-13T11:37:21Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "4cade51e3dcb5279a7c4ea24a6b501a3cb75d507",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Keep each review-state finding on one line",
+      "date": "2026-10-13T11:37:11Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "a138bc2fd43f09c695e59fe6a3937a00bb77ae63",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Correct doc claims found in the final review",
+      "date": "2026-10-13T11:20:38Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ab209a121c0f6f2789328654ad8320af5921b4c7",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Log a failed drained review even when the close hits its last frame",
+      "date": "2026-10-13T11:18:53Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d6ad31938ae9657dd7e6ba87f33ae9b7ebd6ae04",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Check git diff operands after -- for paths outside the repository",
+      "date": "2026-10-13T11:17:52Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "6951fcfd85016d0b33d1823f21f0878ec3c697f3",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Bring architecture.md in line with the runtime and tool changes",
+      "date": "2026-10-13T10:34:43Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "cdeeb089de87fec87db61e5d305e6ef6c7320d17",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Describe review triggers, feedback and limits as the code has them",
+      "date": "2026-10-13T10:32:18Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "93e1dd4f1b3c4a97f721c4ce1ae5eac1e2d5fb95",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Document the runtime roles' real scope and the broker's checks",
+      "date": "2026-10-13T10:30:34Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "61a0009521ff35a153ddda0fc6c536215d6635dc",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Fix the deploy and synth instructions",
+      "date": "2026-10-13T10:28:28Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "46031c4aa7adea9831350340a8a429ada65d4f97",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Log why a review failed when it ends after the stream closed",
+      "date": "2026-10-13T10:18:18Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "6a39ca3e921902aac302b5adc93607254e2b1487",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Leave common's tsconfig out of the image build context",
+      "date": "2026-10-13T10:18:05Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "83887d7d5c6100a11d080be74f76925b655d7f90",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Limit the curator's log writes to its own runtime log groups",
+      "date": "2026-10-13T10:17:35Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "8a4ec2ad1c078b15d596562d1ab9c3c9dce282c5",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "End reviewer sessions two hours after they start",
+      "date": "2026-10-13T10:17:35Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e6f498e5a9ef0a7e2dbd782056b2380a0c1780d4",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Quote PR file names in the mention prompts",
+      "date": "2026-10-13T10:13:16Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "0b1e357d0793fb4b0a5915e675e2e970589bd2e9",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Limit the reviewer runtime role's log and asset access",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ddf974d4537f8c3019db8e52ac5e0a617db67e90",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Remove build-glide-skill.sh",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7e8c08cd5b821bd50ad65ba02dd47ba952cd8eb6",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "List kms:Decrypt in the concerns-dump.sh permissions",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "061df3164433237ca7ccedddb328b78898f1c406",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Honor --registry-id in the skills-registry scripts",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "0802f779cc5c98fbbcf884c8a16bbc7b249fc9e3",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Read the heartbeat before the watchdog's run-budget check",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "32ab689ef481ccd9740b1fc8bb30f2d7186adf1a",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Check the installation before the token broker issues a token",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "df48c14641ace3f36d8dd7ecd631dbf92ff72646",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Pin base images by digest and say what the GLIDE image pins",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "85be19dc72c8e2a55e8952763d5833038ccf687e",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Write graduated skill checks as tool calls, not shell one-liners",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "8e0959fb960304d319eed3cabc4abdc6c487578d",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Cap submitted skills at half the reviewers' load budget",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "80b0e73f770086a86e4c24184bd75f7ffbd67adf",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Load one copy of the Strands SDK in the curator image",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c3d83c27415b4547fc290b9f4b43b2ea0100933a",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Point the prompts at the overview's inline comments section",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e83c2bd5d57238b01ff568bb4d58563168472ca4",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Allow a reply-only post_review on mention runs in its description",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b4afb2b57286eabf8172886dc0276059d566831e",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Do not report \"0 inline comment(s)\" on an empty mention reply",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "510633426cb19ea6a056b07bd6117c625afd2905",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "List release lines in the overview by their bare names",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b302126cfb5a21c8633f6cbe4b396513b293db99",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Take the state comment only when the marker opens it",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "40e36cea7bfa43f241b0f0eeb8c3df89e0c9947d",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Fence the PR head branch name in the overview",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "5d3fbc818473060bf7a8aa8e64c34207c4ac20b5",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Ignore the global git config during workspace preparation",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b4276b178c7c8518851321a2fcb8d299e2c821bd",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Check each grep result path against the patterns once",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7b1a182330c9f5a9dcc035062ad6ddf1f7e1cd9e",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Find callers with git grep, not lsp references",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f1063c860350a6c0abbc80589c1db2e67508db94",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Leave sensitive files out of grep results",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d037fe536b72f6646686166ae3149e38c63dbd9d",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Allow --text and --filter only on the subcommands that have them",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "78a59735bf5c42c5a916e4a934f343ba093424f0",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Refuse git diff paths outside the repository",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "1ff0ccdc6084d53b2620b079e7237c638eed7e25",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Refuse writes that land outside the workspace through a symlink",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "aca27ef06281ae82fbb980007317968b88c1c990",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Stop the whole process group when a tool command times out",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ef229a68ef27f31f64cc53f6b5f53bd7d965a71d",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Report HealthyBusy on /ping while a review is running",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "77ff721eeec52d3465f32cca5a21880222e0848b",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Keep a review running when the stream closes at a text frame",
+      "date": "2026-10-13T10:10:49Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "044020a333c4e68cb94c0223e58dd436d954fff9",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Fix the agnix action version and the GLIDE image's zigbuild check",
+      "date": "2026-10-13T07:29:46Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "afddbde2e362049a9a5541029964c0ba57dea432",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add documentation",
+      "date": "2026-10-13T07:07:56Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b4b3dfdad4fca823750ff826cba59910a7fcd319",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add CI and dependency updates",
+      "date": "2026-10-13T07:07:56Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7c0d77ca16115923e1d0852c6df8602bf099073e",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add operator scripts",
+      "date": "2026-10-13T07:07:56Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "5b28ae76cc50ac053e7ce874a246973d1492a2cd",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add the CDK app",
+      "date": "2026-10-13T07:07:56Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "871e08329fa776a3c6d36f54e470179fcd9517f8",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add the concerns decay job",
+      "date": "2026-10-13T07:07:55Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "64b3eacc807f8a84f3083c581b933426888f7c2c",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add the curator",
+      "date": "2026-10-13T07:07:55Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3f5f7e6433a2ffd97c3e1ccbbce76055fce53012",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add the webhook receiver, invoker and token broker",
+      "date": "2026-10-13T07:07:55Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c76876f06469d576d618ca1c34c3ae26b6ace634",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add the Valkey GLIDE reviewer",
+      "date": "2026-10-13T07:07:55Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "9b2e0adb109ac6f11102ab47876b754e7b9a4b75",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add the Valkey reviewer",
+      "date": "2026-10-13T07:07:55Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f91bf332a92af1cea4191ed29c1ee924e5648ca8",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add the shared reviewer runtime",
+      "date": "2026-10-13T07:07:55Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "4686de6428fdb11119726680a97a4f1a2d050e29",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Add license and repository basics",
+      "date": "2026-10-13T07:07:55Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c47ae7b734967b3db684a8deced8463cde841864",
+      "author_login": "bandalgomsu",
+      "author_id": 121839239,
+      "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
+      "message": "Fix Gate non-UTF-8 TAG indexing behavior change behind search.emulate-release (#1536)",
+      "date": "2026-10-13T23:30:34Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-10-13T17:54:11Z"
+        },
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-10-13T23:15:28Z"
+        },
+        {
+          "login": "BCathcart",
+          "date": "2026-10-13T23:29:38Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1536"
+    },
+    {
+      "sha": "1ce64680f949d9e1da8bb1d7caae689e1321dbbc",
+      "author_login": "mohanrajendran",
+      "author_id": 4929558,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
+      "message": "Skip orphan multi/exec keys in SaveIndexExtension instead of aborting (#1361)",
+      "date": "2026-10-13T23:28:57Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "mnunberg1",
+          "date": "2026-10-08T23:46:00Z"
+        },
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-10-13T18:19:07Z"
+        },
+        {
+          "login": "BCathcart",
+          "date": "2026-10-13T23:28:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1361"
+    },
+    {
+      "sha": "c1819da5b21c267defe2f3a1215af68a2b04008b",
+      "author_login": "mohanrajendran",
+      "author_id": 4929558,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
+      "message": "fix(query): do not error on unused PARAMS in FT.SEARCH/FT.AGGREGATE (#1372) (#1407)",
+      "date": "2026-10-13T22:51:55Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "BCathcart",
+          "date": "2026-09-30T20:41:34Z"
+        },
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-10-13T18:09:04Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1407"
+    },
+    {
+      "sha": "1df065c0721beeb04762d5ac0b0e3c9731c4aecb",
+      "author_login": "Frank-Gu-81",
+      "author_id": 93494304,
+      "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
+      "message": "chore: reviewer pool update (#1556)",
+      "date": "2026-10-13T22:04:28Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "BCathcart",
+          "date": "2026-10-13T22:04:20Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1556"
+    },
+    {
+      "sha": "53ed364990b11ebca0e63ee7c0635aaa5eb852b5",
+      "author_login": "Frank-Gu-81",
+      "author_id": 93494304,
+      "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
+      "message": "Apply debug-mode before other module args (#1562)",
+      "date": "2026-10-13T21:55:53Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "boda26",
+          "date": "2026-10-13T17:56:56Z"
+        },
+        {
+          "login": "BCathcart",
+          "date": "2026-10-13T21:55:44Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1562"
     }
   ]
 }

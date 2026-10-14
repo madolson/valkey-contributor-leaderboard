@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 304,
-  "commit_count": 110,
-  "review_count": 194,
+  "score": 307,
+  "commit_count": 112,
+  "review_count": 195,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "dc8230a5f7",
+      "message": "ci: move external link checks to optional workflow (#338)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/338",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/dc8230a5f737014dc1d812fddd1d4c4e6e7d7ae9"
+    },
+    {
+      "sha": "fd2541ea9b",
+      "message": "feat(ruby): add AZ-affinity all-nodes routing (#349)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/349",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/fd2541ea9b4e5aecc3b8160c82953b34cd0c59c7"
+    },
     {
       "sha": "2366a7bda3",
       "message": "fix(ruby): leave the RESP protocol default to glide-core (#331)",
@@ -898,6 +914,70 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5f9a378c4f",
+      "message": "ci: test against Valkey `9.2.0-rc1` (#585)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/585",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5f9a378c4f965cbe0ff27b47414c87244a8fb881"
+    },
+    {
+      "sha": "0ee39a6e83",
+      "message": "Bump the patch-updates group with 2 updates (#586)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/586",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/0ee39a6e8374a60262f8d5e02faee09dd23a181d"
+    },
+    {
+      "sha": "8d45fd14b0",
+      "message": "chore(deps): bump tokio from 1.53.1 to 1.53.2 in /rust in the patch-updates group (#588)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/588",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8d45fd14b0ae3e4bffa778f2ab637f3848d4def1"
+    },
+    {
+      "sha": "3639ae4c74",
+      "message": "chore(deps): bump valkey-glide from `52c592d` to `0a3bd54` (#589)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/589",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3639ae4c749259ac7ff884436b95e17e9b71a415"
+    },
+    {
+      "sha": "d1787271bd",
+      "message": "chore(deps): bump taiki-e/install-action from 2.87.21 to 2.87.26 in the patch-updates group (#587)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/587",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d1787271bd61dd8ddbc15ba2de32271204986c64"
+    },
+    {
+      "sha": "6cf7b623de",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/git-secrets-scan.yml (#353)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/353",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6cf7b623dee500893a82ffb55e7af45f16ba387f"
+    },
+    {
+      "sha": "dc44fa5291",
+      "message": "chore(deps): Bump dtolnay/rust-toolchain (#351)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/351",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/dc44fa5291320efa6afe9485500d1dc0819e0a3b"
+    },
+    {
+      "sha": "172a887b0d",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/semgrep.yml (#352)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/352",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/172a887b0d11f27e46935c0850a6286f935cf7f7"
+    },
     {
       "sha": "5e07d54e58",
       "message": "ci(rust): use consistent trigger paths across Rust crate workflows (#7317)",

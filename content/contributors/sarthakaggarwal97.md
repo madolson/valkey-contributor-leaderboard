@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 409,
+  "score": 410,
   "commit_count": 110,
-  "review_count": 299,
+  "review_count": 300,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -900,6 +900,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4319738e6a",
+      "message": "Reject relative expires that overflow when the base time is added (#4880)",
+      "date": "2026-10-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4880",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4319738e6a5aec3682c4fb397363c494d98ba6fe"
+    },
     {
       "sha": "7fe7ca45ff",
       "message": "Decouple `rdbcompression` (disk format) from `repl-compression` (wire format) (#4749)",

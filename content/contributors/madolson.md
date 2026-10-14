@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 950,
-  "commit_count": 217,
-  "review_count": 733,
+  "score": 953,
+  "commit_count": 218,
+  "review_count": 735,
   "repos": [
     ".github",
     "valkey",
@@ -21,6 +21,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "4319738e6a",
+      "message": "Reject relative expires that overflow when the base time is added (#4880)",
+      "date": "2026-10-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4880",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4319738e6a5aec3682c4fb397363c494d98ba6fe"
+    },
     {
       "sha": "8a56026234",
       "message": "Add AI tooling policy to CONTRIBUTING.md (#4844)",
@@ -1759,6 +1767,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7a782369f7",
+      "message": "Route security/auth crypto through the OpenSSL 3 provider API (#4339)",
+      "date": "2026-10-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4339",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7a782369f77fe63297ee18d79d6f2f405d060a49"
+    },
+    {
+      "sha": "2c1e7d25b3",
+      "message": "Only fast-fail on NACK reasons a new election epoch can fix (#4700)",
+      "date": "2026-10-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4700",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2c1e7d25b352fc18d5e858cfce45e3123dc10e12"
+    },
     {
       "sha": "1db8edcbe1",
       "message": "geohash code cleanup (#4787)",

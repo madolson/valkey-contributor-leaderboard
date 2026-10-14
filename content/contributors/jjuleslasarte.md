@@ -2,13 +2,21 @@
   "title": "jjuleslasarte",
   "login": "jjuleslasarte",
   "avatar_url": "https://avatars.githubusercontent.com/u/140852041?v=4",
-  "score": 7,
-  "commit_count": 5,
+  "score": 8,
+  "commit_count": 6,
   "review_count": 2,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "3db525ec40",
+      "message": "Fix RDB and replication failures for certain listpack entry lengths (#4819)",
+      "date": "2026-10-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4819",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3db525ec40760c3c045eab597b141aa57de62983"
+    },
     {
       "sha": "a251aeb5d7",
       "message": "Fix io-thread race in slot migration establish response handler (#4320)",

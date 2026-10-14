@@ -2,14 +2,22 @@
   "title": "mnunberg1",
   "login": "mnunberg1",
   "avatar_url": "https://github.com/mnunberg1.png?size=64",
-  "score": 3,
+  "score": 4,
   "commit_count": 0,
-  "review_count": 3,
+  "review_count": 4,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [],
   "review_list": [
+    {
+      "sha": "1ce64680f9",
+      "message": "Skip orphan multi/exec keys in SaveIndexExtension instead of aborting (#1361)",
+      "date": "2026-10-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1361",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1ce64680f949d9e1da8bb1d7caae689e1321dbbc"
+    },
     {
       "sha": "c338559c06",
       "message": "Fix weight 0 is rejected (#1505)",

@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 853,
+  "score": 859,
   "commit_count": 45,
-  "review_count": 808,
+  "review_count": 814,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "27a41b64f0",
+      "message": "ci(python): Run the Python Tests job under pytest-xdist (#7307)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7307",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/27a41b64f06f3f17c4c29e6f963f3a5de2434444"
+    },
+    {
+      "sha": "413ffb630f",
+      "message": "test(utils): Tune server flags so test clusters form in ~6s instead of ~15s (#7337)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7337",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/413ffb630f33d809b92eadd0f776f6698d830de8"
+    },
+    {
+      "sha": "6a41d465e5",
+      "message": "fix(core): validate a cluster scope's first command against its acquisition slot (#7308)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7308",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6a41d465e508a1cbfe522ec2b5aba921645c2362"
+    },
+    {
+      "sha": "fd2541ea9b",
+      "message": "feat(ruby): add AZ-affinity all-nodes routing (#349)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/349",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/fd2541ea9b4e5aecc3b8160c82953b34cd0c59c7"
+    },
+    {
+      "sha": "fd2541ea9b",
+      "message": "feat(ruby): add AZ-affinity all-nodes routing (#349)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/349",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/fd2541ea9b4e5aecc3b8160c82953b34cd0c59c7"
+    },
+    {
+      "sha": "fd2541ea9b",
+      "message": "feat(ruby): add AZ-affinity all-nodes routing (#349)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/349",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/fd2541ea9b4e5aecc3b8160c82953b34cd0c59c7"
+    },
+    {
+      "sha": "dc44fa5291",
+      "message": "chore(deps): Bump dtolnay/rust-toolchain (#351)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/351",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/dc44fa5291320efa6afe9485500d1dc0819e0a3b"
+    },
     {
       "sha": "0a3bd5429d",
       "message": "fix(java,node): draw ordinary-client ids from the shared pool allocator (#7302)",

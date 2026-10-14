@@ -222,6 +222,30 @@
   ],
   "review_list": [
     {
+      "sha": "43ce8afcde",
+      "message": "Bump actions/download-artifact from 8.0.1 to 8.0.2",
+      "date": "2026-10-14",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/69",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/43ce8afcde6a76123c50387101a2b01e0b685bcc"
+    },
+    {
+      "sha": "0a5066f48a",
+      "message": "Bump github/codeql-action from 4.38.2 to 4.38.3",
+      "date": "2026-10-13",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/70",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/0a5066f48a4736d6fc71c20f558f633e1882cbcd"
+    },
+    {
+      "sha": "b0a3df09d8",
+      "message": "Bump actions/upload-artifact from 7.0.1 to 7.0.2",
+      "date": "2026-10-13",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/68",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/b0a3df09d890af83fd1afff9f635b3d79a407e88"
+    },
+    {
       "sha": "2ef0915750",
       "message": "Bump github/codeql-action from 4.38.1 to 4.38.2",
       "date": "2026-09-28",

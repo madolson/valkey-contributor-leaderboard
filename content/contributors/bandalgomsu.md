@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 28,
-  "commit_count": 28,
+  "score": 29,
+  "commit_count": 29,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "c47ae7b734",
+      "message": "Fix Gate non-UTF-8 TAG indexing behavior change behind search.emulate-release (#1536)",
+      "date": "2026-10-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1536",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c47ae7b734967b3db684a8deced8463cde841864"
+    },
     {
       "sha": "0cbca0e607",
       "message": "Fix GROUPBY 0 being rejected in FT.AGGREGATE (#1464)",

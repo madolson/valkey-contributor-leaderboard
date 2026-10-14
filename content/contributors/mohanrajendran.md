@@ -2,13 +2,29 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 17,
-  "commit_count": 5,
+  "score": 19,
+  "commit_count": 7,
   "review_count": 12,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "1ce64680f9",
+      "message": "Skip orphan multi/exec keys in SaveIndexExtension instead of aborting (#1361)",
+      "date": "2026-10-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1361",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/1ce64680f949d9e1da8bb1d7caae689e1321dbbc"
+    },
+    {
+      "sha": "c1819da5b2",
+      "message": "fix(query): do not error on unused PARAMS in FT.SEARCH/FT.AGGREGATE (#1372) (#1407)",
+      "date": "2026-10-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1407",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c1819da5b21c267defe2f3a1215af68a2b04008b"
+    },
     {
       "sha": "42d395d2ea",
       "message": "Fix GCC 12 build and 'local' outside function in CI script (#1520)",

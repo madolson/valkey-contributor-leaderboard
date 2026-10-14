@@ -2,13 +2,21 @@
   "title": "danielfrankcom",
   "login": "danielfrankcom",
   "avatar_url": "https://avatars.githubusercontent.com/u/15225573?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "c032355045",
+      "message": "Fix GitHub handle for Muhammad Awawdi (#691)",
+      "date": "2026-10-13",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/691",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c0323550457ce6ea79cbddc17e30ef82b51d0d13"
+    },
     {
       "sha": "10fa3e7377",
       "message": "Fix docs link rewriting corrupting code blocks (#687)",

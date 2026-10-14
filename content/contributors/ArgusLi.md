@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 133,
+  "score": 134,
   "commit_count": 75,
-  "review_count": 58,
+  "review_count": 59,
   "repos": [
     "valkey-admin"
   ],
@@ -611,6 +611,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "692688b6f0",
+      "message": "Purge legacy unencrypted passwords on hosts with no keystore (#555)",
+      "date": "2026-10-13",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/555",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/692688b6f080c0c27f9d345c3e03b1daf746ac92"
+    },
     {
       "sha": "9407483e3c",
       "message": "Run CI and CodeQL on release branches (#549)",

@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 50,
-  "commit_count": 14,
-  "review_count": 36,
+  "score": 54,
+  "commit_count": 16,
+  "review_count": 38,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "27a41b64f0",
+      "message": "ci(python): Run the Python Tests job under pytest-xdist (#7307)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7307",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/27a41b64f06f3f17c4c29e6f963f3a5de2434444"
+    },
+    {
+      "sha": "413ffb630f",
+      "message": "test(utils): Tune server flags so test clusters form in ~6s instead of ~15s (#7337)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7337",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/413ffb630f33d809b92eadd0f776f6698d830de8"
+    },
     {
       "sha": "20d13abd88",
       "message": "test(python): Cut pubsub test wall time by 55% by replacing fixed sleeps with polling (#7268)",
@@ -127,6 +143,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6a41d465e5",
+      "message": "fix(core): validate a cluster scope's first command against its acquisition slot (#7308)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7308",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6a41d465e508a1cbfe522ec2b5aba921645c2362"
+    },
+    {
+      "sha": "20adba4b7b",
+      "message": "Node: Allow opening an IsolatedScope on a (pool-borrowed) client via scopedConnection() (#6983)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6983",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/20adba4b7ba26b54908802e264b87651ca3b0121"
+    },
     {
       "sha": "0a3bd5429d",
       "message": "fix(java,node): draw ordinary-client ids from the shared pool allocator (#7302)",

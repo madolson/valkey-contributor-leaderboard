@@ -2,9 +2,9 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 85,
+  "score": 86,
   "commit_count": 51,
-  "review_count": 34,
+  "review_count": 35,
   "repos": [
     "valkey-search"
   ],
@@ -419,6 +419,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "53ed364990",
+      "message": "Apply debug-mode before other module args (#1562)",
+      "date": "2026-10-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1562",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/53ed364990b11ebca0e63ee7c0635aaa5eb852b5"
+    },
     {
       "sha": "432d746b1a",
       "message": "chore: first pass reviewer pool update (#1449)",

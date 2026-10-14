@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1273,
+  "score": 1275,
   "commit_count": 155,
-  "review_count": 1118,
+  "review_count": 1120,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1262,6 +1262,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3db525ec40",
+      "message": "Fix RDB and replication failures for certain listpack entry lengths (#4819)",
+      "date": "2026-10-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4819",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3db525ec40760c3c045eab597b141aa57de62983"
+    },
+    {
+      "sha": "0eb4ba3236",
+      "message": "Fix XACKDEL KEEPREF reply for acked entry whose stream item is gone (#4843)",
+      "date": "2026-10-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4843",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0eb4ba3236bc6256457ff3370060b2a6ec50aea3"
+    },
     {
       "sha": "b3a1356376",
       "message": "Optimize infoCommand with SDS pre-allocation (#3413)",

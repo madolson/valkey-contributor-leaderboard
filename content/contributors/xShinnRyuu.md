@@ -2,8 +2,8 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 493,
-  "commit_count": 139,
+  "score": 494,
+  "commit_count": 140,
   "review_count": 354,
   "repos": [
     ".github",
@@ -15,6 +15,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "20adba4b7b",
+      "message": "Node: Allow opening an IsolatedScope on a (pool-borrowed) client via scopedConnection() (#6983)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6983",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/20adba4b7ba26b54908802e264b87651ca3b0121"
+    },
     {
       "sha": "896acfc41e",
       "message": "fix(core): stop MONITOR and PubSub streams from dropping buffered handshake bytes (#6979)",

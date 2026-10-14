@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 343,
+  "score": 345,
   "commit_count": 83,
-  "review_count": 260,
+  "review_count": 262,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -679,6 +679,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "27a41b64f0",
+      "message": "ci(python): Run the Python Tests job under pytest-xdist (#7307)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7307",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/27a41b64f06f3f17c4c29e6f963f3a5de2434444"
+    },
+    {
+      "sha": "fd2541ea9b",
+      "message": "feat(ruby): add AZ-affinity all-nodes routing (#349)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/349",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/fd2541ea9b4e5aecc3b8160c82953b34cd0c59c7"
+    },
+    {
+      "sha": "dc44fa5291",
+      "message": "chore(deps): Bump dtolnay/rust-toolchain (#351)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/351",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/dc44fa5291320efa6afe9485500d1dc0819e0a3b"
+    },
     {
       "sha": "5e07d54e58",
       "message": "ci(rust): use consistent trigger paths across Rust crate workflows (#7317)",

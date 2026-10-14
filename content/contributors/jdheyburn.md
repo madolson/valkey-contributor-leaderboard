@@ -2,8 +2,8 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 161,
-  "commit_count": 52,
+  "score": 164,
+  "commit_count": 55,
   "review_count": 109,
   "repos": [
     "valkey",
@@ -11,6 +11,30 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "cfc50a6da6",
+      "message": "feat: dial ValkeyNode clients through ClientProvider.ForNode (#457)",
+      "date": "2026-10-13",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/457",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/cfc50a6da6a88eddb6f4291da9dede8e917ae78b"
+    },
+    {
+      "sha": "bb69fc1a92",
+      "message": "feat: add ClientProvider and dial the cluster scrape through it (#456)",
+      "date": "2026-10-13",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/456",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/bb69fc1a9247b74ef8a6792fabb088a1afd6f7b0"
+    },
+    {
+      "sha": "032251ad6e",
+      "message": "refactor(valkey): pass a dial func to GetClusterState (#455)",
+      "date": "2026-10-13",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/455",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/032251ad6ee7fe86e75343536d2488c8913edb91"
+    },
     {
       "sha": "8d302312a4",
       "message": "Release valkey-resources 0.3.0 (#258)",

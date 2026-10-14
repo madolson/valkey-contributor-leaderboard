@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 340,
-  "commit_count": 206,
+  "score": 341,
+  "commit_count": 207,
   "review_count": 134,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "5f9a378c4f",
+      "message": "ci: test against Valkey `9.2.0-rc1` (#585)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/585",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5f9a378c4f965cbe0ff27b47414c87244a8fb881"
+    },
     {
       "sha": "5e07d54e58",
       "message": "ci(rust): use consistent trigger paths across Rust crate workflows (#7317)",
@@ -1665,6 +1673,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0ee39a6e83",
+      "message": "Bump the patch-updates group with 2 updates (#586)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/586",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/0ee39a6e8374a60262f8d5e02faee09dd23a181d"
+    },
+    {
+      "sha": "8d45fd14b0",
+      "message": "chore(deps): bump tokio from 1.53.1 to 1.53.2 in /rust in the patch-updates group (#588)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/588",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8d45fd14b0ae3e4bffa778f2ab637f3848d4def1"
+    },
+    {
+      "sha": "3639ae4c74",
+      "message": "chore(deps): bump valkey-glide from `52c592d` to `0a3bd54` (#589)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/589",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3639ae4c749259ac7ff884436b95e17e9b71a415"
+    },
+    {
+      "sha": "d1787271bd",
+      "message": "chore(deps): bump taiki-e/install-action from 2.87.21 to 2.87.26 in the patch-updates group (#587)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/587",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d1787271bd61dd8ddbc15ba2de32271204986c64"
+    },
+    {
+      "sha": "6cf7b623de",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/git-secrets-scan.yml (#353)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/353",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6cf7b623dee500893a82ffb55e7af45f16ba387f"
+    },
+    {
+      "sha": "172a887b0d",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/semgrep.yml (#352)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/352",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/172a887b0d11f27e46935c0850a6286f935cf7f7"
+    },
     {
       "sha": "341070407c",
       "message": "chore(deps): bump valkey-glide from `53ad326` to `52c592d` (#572)",

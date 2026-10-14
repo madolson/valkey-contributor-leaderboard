@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 153,
+  "score": 155,
   "commit_count": 20,
-  "review_count": 133,
+  "review_count": 135,
   "repos": [
     "valkey",
     "valkey-container",
@@ -176,6 +176,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1477ed5be5",
+      "message": "Add LibreDB Studio as participant (#678)",
+      "date": "2026-10-13",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/678",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/1477ed5be5e54c5fbc06be5e8d06551f21cf2fab"
+    },
+    {
+      "sha": "c032355045",
+      "message": "Fix GitHub handle for Muhammad Awawdi (#691)",
+      "date": "2026-10-13",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/691",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c0323550457ce6ea79cbddc17e30ef82b51d0d13"
+    },
     {
       "sha": "10fa3e7377",
       "message": "Fix docs link rewriting corrupting code blocks (#687)",

@@ -2,9 +2,9 @@
   "title": "mo-amzn",
   "login": "mo-amzn",
   "avatar_url": "https://avatars.githubusercontent.com/u/183509145?v=4",
-  "score": 23,
+  "score": 24,
   "commit_count": 15,
-  "review_count": 8,
+  "review_count": 9,
   "repos": [
     "valkey-glide",
     "valkey-io.github.io"
@@ -132,6 +132,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c032355045",
+      "message": "Fix GitHub handle for Muhammad Awawdi (#691)",
+      "date": "2026-10-13",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/691",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c0323550457ce6ea79cbddc17e30ef82b51d0d13"
+    },
     {
       "sha": "700d52f801",
       "message": "Java: fix ReadFrom.AZ_AFFINITY_REPLICAS_AND_PRIMARY issue (#5084)",

@@ -2,8 +2,8 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 986,
-  "commit_count": 393,
+  "score": 987,
+  "commit_count": 394,
   "review_count": 593,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "2c1e7d25b3",
+      "message": "Only fast-fail on NACK reasons a new election epoch can fix (#4700)",
+      "date": "2026-10-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4700",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2c1e7d25b352fc18d5e858cfce45e3123dc10e12"
+    },
     {
       "sha": "05a9c29c62",
       "message": "Add cluster-replica-no-failover if-empty to block failover from empty replicas (#4425)",

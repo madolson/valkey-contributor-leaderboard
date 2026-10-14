@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 448,
+  "score": 449,
   "commit_count": 157,
-  "review_count": 291,
+  "review_count": 292,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1271,6 +1271,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5f9a378c4f",
+      "message": "ci: test against Valkey `9.2.0-rc1` (#585)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/585",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5f9a378c4f965cbe0ff27b47414c87244a8fb881"
+    },
     {
       "sha": "85e7a6af76",
       "message": "feat(rust): add `Cmd::with_arg` and simplify command builders (#7314)",

@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 263,
-  "commit_count": 78,
-  "review_count": 185,
+  "score": 267,
+  "commit_count": 79,
+  "review_count": 188,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "6a41d465e5",
+      "message": "fix(core): validate a cluster scope's first command against its acquisition slot (#7308)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7308",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6a41d465e508a1cbfe522ec2b5aba921645c2362"
+    },
     {
       "sha": "0a3bd5429d",
       "message": "fix(java,node): draw ordinary-client ids from the shared pool allocator (#7302)",
@@ -639,6 +647,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "413ffb630f",
+      "message": "test(utils): Tune server flags so test clusters form in ~6s instead of ~15s (#7337)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7337",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/413ffb630f33d809b92eadd0f776f6698d830de8"
+    },
+    {
+      "sha": "20adba4b7b",
+      "message": "Node: Allow opening an IsolatedScope on a (pool-borrowed) client via scopedConnection() (#6983)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6983",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/20adba4b7ba26b54908802e264b87651ca3b0121"
+    },
+    {
+      "sha": "dc8230a5f7",
+      "message": "ci: move external link checks to optional workflow (#338)",
+      "date": "2026-10-13",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/338",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/dc8230a5f737014dc1d812fddd1d4c4e6e7d7ae9"
+    },
     {
       "sha": "85e7a6af76",
       "message": "feat(rust): add `Cmd::with_arg` and simplify command builders (#7314)",

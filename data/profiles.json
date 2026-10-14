@@ -2678,5 +2678,17 @@
   "danielfrankcom": {
     "name": "Daniel Frankcom",
     "company": ""
+  },
+  "adityamukesh": {
+    "name": "Aditya Mukesh",
+    "company": ""
+  },
+  "MarkAtwood": {
+    "name": "Mark Atwood",
+    "company": "Review Commit LLC"
+  },
+  "rayjinghaolei": {
+    "name": "Jinghao Lei",
+    "company": "AWS"
   }
 }
