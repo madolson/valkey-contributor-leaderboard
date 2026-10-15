@@ -2,8 +2,8 @@
   "title": "melancholictheory",
   "login": "melancholictheory",
   "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
-  "score": 14,
-  "commit_count": 13,
+  "score": 15,
+  "commit_count": 14,
   "review_count": 1,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "8f67ab1368",
+      "message": "Include roles in ACL DIGEST (#4694)",
+      "date": "2026-10-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4694",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8f67ab13683d6d31cde5925948df68dab0835651"
+    },
     {
       "sha": "1eee90a967",
       "message": "fix: say in the status when a primary's roll is waiting for a synced replica (#483)",

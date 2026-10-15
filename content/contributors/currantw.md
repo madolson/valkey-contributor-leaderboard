@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 341,
-  "commit_count": 207,
-  "review_count": 134,
+  "score": 347,
+  "commit_count": 209,
+  "review_count": 138,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -15,6 +15,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "a9409ec0ff",
+      "message": "chore(deps): bump valkey-glide from `0a3bd54` to `7593203` (#597)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/597",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/a9409ec0ff78d9748f2ac4ac84740cb0860a422b"
+    },
+    {
+      "sha": "a209835b0c",
+      "message": "test(php): verify Valkey 9.2 INFO fields, config values and client flags (#354)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/354",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/a209835b0c73d97fb426e8315a824d4f869c4444"
+    },
     {
       "sha": "5f9a378c4f",
       "message": "ci: test against Valkey `9.2.0-rc1` (#585)",
@@ -1673,6 +1689,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7593203c17",
+      "message": "build(deps): Bump rustls to 0.23.46 to clear four RUSTSEC advisories (#7343)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7343",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7593203c17fe324421f5f9163eb11341632f9601"
+    },
+    {
+      "sha": "e410933bcd",
+      "message": "ci: automate submodule updates and correct action version comments (#354)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/354",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/e410933bcd5aa8c7464ae1eb090cfac5eb673106"
+    },
+    {
+      "sha": "76549b9d2d",
+      "message": "feat(ruby): add HGETDEL support (#348)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/348",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/76549b9d2d11c267382c2d72d3a732fc9f21943f"
+    },
+    {
+      "sha": "76549b9d2d",
+      "message": "feat(ruby): add HGETDEL support (#348)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/348",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/76549b9d2d11c267382c2d72d3a732fc9f21943f"
+    },
     {
       "sha": "0ee39a6e83",
       "message": "Bump the patch-updates group with 2 updates (#586)",

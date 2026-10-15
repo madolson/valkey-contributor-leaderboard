@@ -2,13 +2,21 @@
   "title": "bugant",
   "login": "bugant",
   "avatar_url": "https://avatars.githubusercontent.com/u/307121?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "e87c922292",
+      "message": "Parse module load error for server version >= 9.2",
+      "date": "2026-10-14",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/360",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/e87c922292a3d199ef6a2a1502a0607e14fe8b39"
+    },
     {
       "sha": "df5c44903d",
       "message": "Make skip_ifmodversion_lt skip not installed modules",

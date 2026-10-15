@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 410,
+  "score": 411,
   "commit_count": 110,
-  "review_count": 300,
+  "review_count": 301,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -907,6 +907,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4880",
       "commit_url": "https://github.com/valkey-io/valkey/commit/4319738e6a5aec3682c4fb397363c494d98ba6fe"
+    },
+    {
+      "sha": "236f943723",
+      "message": "Use `--fair-sched=try` when running valgrind tests (#4849)",
+      "date": "2026-10-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4849",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/236f94372302dfaf864de9138d64a504dedbb6ba"
     },
     {
       "sha": "7fe7ca45ff",

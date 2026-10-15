@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 345,
+  "score": 346,
   "commit_count": 83,
-  "review_count": 262,
+  "review_count": 263,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -686,6 +686,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7307",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/27a41b64f06f3f17c4c29e6f963f3a5de2434444"
+    },
+    {
+      "sha": "e410933bcd",
+      "message": "ci: automate submodule updates and correct action version comments (#354)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/354",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/e410933bcd5aa8c7464ae1eb090cfac5eb673106"
     },
     {
       "sha": "fd2541ea9b",

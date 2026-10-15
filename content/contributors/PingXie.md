@@ -2,8 +2,8 @@
   "title": "PingXie",
   "login": "PingXie",
   "avatar_url": "https://avatars.githubusercontent.com/u/11568491?v=4",
-  "score": 205,
-  "commit_count": 11,
+  "score": 239,
+  "commit_count": 45,
   "review_count": 194,
   "repos": [
     "valkey",
@@ -81,12 +81,36 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/cd6faaa726791447f7adc196b6c77cc20658112d"
     },
     {
+      "sha": "0b4352c98c",
+      "message": "Consolidate slot migration logs by grouping consecutive slot migrations into a single log entry (#2481)",
+      "date": "2025-08-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2481",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0b4352c98ccefac61e33c5da805357e909bf6d2f"
+    },
+    {
       "sha": "f68a678f7c",
       "message": "Ensure deterministic routing in _pickMulti and _pickMultiCache (#52)",
       "date": "2025-06-10",
       "repo": "valkey-go",
       "pr_url": "https://github.com/valkey-io/valkey-go/pull/52",
       "commit_url": "https://github.com/valkey-io/valkey-go/commit/f68a678f7c413b13e6579e3ec30e554bf2cb224b"
+    },
+    {
+      "sha": "94c81bc5c1",
+      "message": "Fix fragile test in lazyfree in external test (#2138)",
+      "date": "2025-05-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2138",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/94c81bc5c15587cda35cf317cfbcf35a0da39171"
+    },
+    {
+      "sha": "0b11d347a3",
+      "message": "Correct VM_Yield timing and deflake blockedclient.tcl (#2131)",
+      "date": "2025-05-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2131",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0b11d347a319e69e9d170c5f692e9c1b5412812d"
     },
     {
       "sha": "c3ff2696f9",
@@ -97,12 +121,260 @@
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c3ff2696f9ab7d48d4214583c0e98ddc86e87617"
     },
     {
+      "sha": "09def3cf03",
+      "message": "Improve code readability in dict.c (#943)",
+      "date": "2024-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/943",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/09def3cf03b93586bd49f689753b7d749e3bea55"
+    },
+    {
+      "sha": "3cc619f637",
+      "message": "Disable flaky empty shard slot migration tests (#1027)",
+      "date": "2024-09-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/1027",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3cc619f6378e46b005604e9e24c75f948a7322db"
+    },
+    {
+      "sha": "76a59788e6",
+      "message": "Re-enable empty-shard slot migration tests (#1024)",
+      "date": "2024-09-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/1024",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/76a59788e6b99deb33f3df7fa9946c063eb981f6"
+    },
+    {
+      "sha": "1c9edd0385",
+      "message": "Update cluster-spec with Valkey 8.0 cluster improvements (#167)",
+      "date": "2024-09-12",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/167",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/1c9edd038569751eb092adb4c703165040b15d8f"
+    },
+    {
+      "sha": "981f977abf",
+      "message": "Improve type safety and refactor dict entry handling (#749)",
+      "date": "2024-09-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/749",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/981f977abfdea7b00101a305b632e876b507bd89"
+    },
+    {
+      "sha": "ad0ede302c",
+      "message": "Exclude '.' and ':' from `isValidAuxChar`'s banned charset (#963)",
+      "date": "2024-08-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/963",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ad0ede302cc1363985e677d008f23ef2031536bc"
+    },
+    {
+      "sha": "2b71a78241",
+      "message": "Add comment explaining log file reopening for rotation support (#956)",
+      "date": "2024-08-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/956",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2b71a782410ea81b4ad8c86e3a57ef3884e7c7fb"
+    },
+    {
       "sha": "e86557fba2",
       "message": "Valkey 8.0 RC1 Blog (#105)",
       "date": "2024-08-02",
       "repo": "valkey-io.github.io",
       "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/105",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/e86557fba2ecf9d0899c69772f6f9a56b1cf92cb"
+    },
+    {
+      "sha": "66d0f7d9a1",
+      "message": "Ensure only primary sender drives slot ownership updates (#754)",
+      "date": "2024-07-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/754",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/66d0f7d9a116ee6c58da4c18532825130dcae773"
+    },
+    {
+      "sha": "9f4f6036b8",
+      "message": "Restore comments for client flags (#718)",
+      "date": "2024-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/718",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9f4f6036b80410e849664236a0b3994645106262"
+    },
+    {
+      "sha": "32ca6e5b38",
+      "message": " Improve `CLUSTER SETSLOT` replication handling to support older replica versions. (#686)",
+      "date": "2024-06-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/686",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/32ca6e5b38bfc4a15878c2b6ff3d2c71da1026e3"
+    },
+    {
+      "sha": "4135894a5d",
+      "message": "Update remaining `master` references to `primary` (#660)",
+      "date": "2024-06-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/660",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4135894a5d40f7270a2127d601fbf4f81ca4ab26"
+    },
+    {
+      "sha": "8a776c3509",
+      "message": "Fix potential infinite loop in `clusterNodeGetPrimary` (#651)",
+      "date": "2024-06-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/651",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8a776c35090c287a309ed49514cc3051d9f39707"
+    },
+    {
+      "sha": "5d9d41868d",
+      "message": "Replace `DEBUG RESTART` with `pause_server` and `resume_server` (#652)",
+      "date": "2024-06-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/652",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5d9d41868df1a1e21de73f69e8b36feadf271fe7"
+    },
+    {
+      "sha": "aad6769a80",
+      "message": "Replicate slot migration states via RDB aux fields (#586)",
+      "date": "2024-06-08",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/586",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/aad6769a805a0835ad7276d98ead379e77b54ec6"
+    },
+    {
+      "sha": "54c9747935",
+      "message": "Remove `master` and `slave` from source code (#591)",
+      "date": "2024-06-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/591",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/54c97479356ecf41b4b63733494a1be2ab919e17"
+    },
+    {
+      "sha": "30f277a86d",
+      "message": "Enable debug asserts for cluster and sentinel tests (#588)",
+      "date": "2024-06-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/588",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/30f277a86d35e3f70314f50ca7b59562838bd429"
+    },
+    {
+      "sha": "2b97aa6171",
+      "message": "Introduce `enable-debug-assert` to enable/disable debug asserts at runtime (#584)",
+      "date": "2024-06-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/584",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2b97aa61710f2b64245bf734abaa1984efe454e8"
+    },
+    {
+      "sha": "f927565d28",
+      "message": "Consolidate various BLOCKED_WAIT* states (#562)",
+      "date": "2024-05-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/562",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f927565d28229691b39f873f40d2d8b9cacc425d"
+    },
+    {
+      "sha": "84157890fd",
+      "message": "Set up clang-format github action (#538)",
+      "date": "2024-05-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/538",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/84157890fd710c6117032c20ba4602cbe19970d1"
+    },
+    {
+      "sha": "e4ead9442b",
+      "message": "Make CLUSTER SETSLOT with TIMEOUT 0 block indefinitely (#556)",
+      "date": "2024-05-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/556",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e4ead9442b8e970defc26d25c62580bedfd42a80"
+    },
+    {
+      "sha": "a0aebb6b67",
+      "message": "Reinitialize pointer 'p' after ziplistDeleteRange to fix head deletion bug (#537)",
+      "date": "2024-05-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/537",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a0aebb6b678a5124ce9a92c7cb39074ebc0d85f9"
+    },
+    {
+      "sha": "c41dd77a3e",
+      "message": "Add clang-format configs (#323)",
+      "date": "2024-05-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/323",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c41dd77a3e93e02be3c4bc75d8c76b7b4169a4ce"
+    },
+    {
+      "sha": "fd53f17a61",
+      "message": "Use pause_process to stop a node to make Valgrind happy, hopefully (#508)",
+      "date": "2024-05-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/508",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fd53f17a6196baccf6c4c279f0ae286dbcc8b11c"
+    },
+    {
+      "sha": "ac47ca2d47",
+      "message": "Suppress ASAN errors on tests that intentially crash the server via `crash-memcheck-enabled no` (#489)",
+      "date": "2024-05-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/489",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ac47ca2d47ef3a26b323571106a1438d1b812cd4"
+    },
+    {
+      "sha": "138a7d9846",
+      "message": " Handle role change error in `cluster setslot` when migrating the last slot away with allow-replica-migration enabled (#466)",
+      "date": "2024-05-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/466",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/138a7d9846c9c8216541a928c4494645731cb658"
+    },
+    {
+      "sha": "6e7af9471c",
+      "message": "Slot migration improvement (#445)",
+      "date": "2024-05-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/445",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6e7af9471c0576e9567b62821b23aa13edf4e866"
+    },
+    {
+      "sha": "2ec8f638b5",
+      "message": "Fixed url links in valkey.conf (#320)",
+      "date": "2024-04-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/320",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2ec8f638b520228e4c431e471acab5a5bd6fdefe"
+    },
+    {
+      "sha": "aaec321213",
+      "message": "Remove REDISMODULE_ prefixes and introduce compatibility header (#194)",
+      "date": "2024-04-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/194",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/aaec321213605e6315d85f2e617b4f33420b8df7"
+    },
+    {
+      "sha": "37cf1ee242",
+      "message": "Fix some more names in the doc (#4)",
+      "date": "2024-04-04",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/4",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/37cf1ee2428e87eb0ca2bf5b5f875476c72f07c6"
+    },
+    {
+      "sha": "bdd7314f41",
+      "message": "Fine-tune ASCII art (#103)",
+      "date": "2024-04-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/103",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bdd7314f419e07e5ad0b21b0d3e801aef280f902"
+    },
+    {
+      "sha": "1950acd1e2",
+      "message": "Fix remaining names in CONTRIBUTING.md (#70)",
+      "date": "2024-03-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/70",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1950acd1e2b8c2282d51e528377f6e564eb447cd"
     }
   ],
   "review_list": [

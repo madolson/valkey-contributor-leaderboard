@@ -2,8 +2,8 @@
   "title": "EvgeniyPatlan",
   "login": "EvgeniyPatlan",
   "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
-  "score": 12,
-  "commit_count": 8,
+  "score": 13,
+  "commit_count": 9,
   "review_count": 4,
   "repos": [
     "valkey-go",
@@ -12,6 +12,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "02f358553e",
+      "message": "Add Valkey 9.2 packaging (lz4, zstd) and refresh Fedora/Debian platforms (#73)",
+      "date": "2026-10-14",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/73",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/02f358553e65358c77a237c4a0a5dd38520a4ea3"
+    },
     {
       "sha": "cac33ed282",
       "message": "deb: rework the source patch set \u2014 drop 0001 and 0003, slim 0004 (#64)",

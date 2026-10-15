@@ -2,13 +2,21 @@
   "title": "akashkgit",
   "login": "akashkgit",
   "avatar_url": "https://avatars.githubusercontent.com/u/45854686?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "3e07c039e7",
+      "message": "CI: Run Valgrind tests on run-valgrind-tests label (#4816)",
+      "date": "2026-10-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4816",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3e07c039e70513d5117972a724a7ebc7df1e2411"
+    },
     {
       "sha": "f2fe917bb8",
       "message": "Revert \"IO-Threads redesign cleanup work (#3544)\" (#3756)",

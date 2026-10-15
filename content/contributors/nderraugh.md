@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 54,
-  "commit_count": 16,
-  "review_count": 38,
+  "score": 57,
+  "commit_count": 18,
+  "review_count": 39,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -20,6 +20,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7307",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/27a41b64f06f3f17c4c29e6f963f3a5de2434444"
+    },
+    {
+      "sha": "b2cb2bc512",
+      "message": "fix(core): Move scope acquire wait into glide-core, delete binding poll loops (#7320)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7320",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b2cb2bc5128cedd422f6b72fbd4be2101e48e559"
+    },
+    {
+      "sha": "7593203c17",
+      "message": "build(deps): Bump rustls to 0.23.46 to clear four RUSTSEC advisories (#7343)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7343",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7593203c17fe324421f5f9163eb11341632f9601"
     },
     {
       "sha": "413ffb630f",
@@ -143,6 +159,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a9409ec0ff",
+      "message": "chore(deps): bump valkey-glide from `0a3bd54` to `7593203` (#597)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/597",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/a9409ec0ff78d9748f2ac4ac84740cb0860a422b"
+    },
     {
       "sha": "6a41d465e5",
       "message": "fix(core): validate a cluster scope's first command against its acquisition slot (#7308)",

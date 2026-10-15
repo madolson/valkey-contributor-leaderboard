@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 987,
+  "score": 998,
   "commit_count": 394,
-  "review_count": 593,
+  "review_count": 604,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -5681,6 +5681,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/3ceae81fc4cf065dae00888ab92b7aa069fde111"
     },
     {
+      "sha": "94c81bc5c1",
+      "message": "Fix fragile test in lazyfree in external test (#2138)",
+      "date": "2025-05-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2138",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/94c81bc5c15587cda35cf317cfbcf35a0da39171"
+    },
+    {
       "sha": "d00fb8e713",
       "message": "Only mark the client reprocessing flag when unblocked on keys (#2109)",
       "date": "2025-05-25",
@@ -6937,6 +6945,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/9f8185f5c80bc98bdbc631b90ccf13929d6a0cbc"
     },
     {
+      "sha": "09def3cf03",
+      "message": "Improve code readability in dict.c (#943)",
+      "date": "2024-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/943",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/09def3cf03b93586bd49f689753b7d749e3bea55"
+    },
+    {
       "sha": "d090fbefde",
       "message": "Add the missing help output for new command: client capa redirect (#1025)",
       "date": "2024-09-13",
@@ -6945,12 +6961,28 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/d090fbefded1c1f67a4450100fe42d0dbdbad564"
     },
     {
+      "sha": "3cc619f637",
+      "message": "Disable flaky empty shard slot migration tests (#1027)",
+      "date": "2024-09-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/1027",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3cc619f6378e46b005604e9e24c75f948a7322db"
+    },
+    {
       "sha": "8cca11ac54",
       "message": "Fix wrong count for replica's tot-net-out (#1013)",
       "date": "2024-09-12",
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/1013",
       "commit_url": "https://github.com/valkey-io/valkey/commit/8cca11ac541012e6bfbe995fb0367e6a058719b6"
+    },
+    {
+      "sha": "76a59788e6",
+      "message": "Re-enable empty-shard slot migration tests (#1024)",
+      "date": "2024-09-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/1024",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/76a59788e6b99deb33f3df7fa9946c063eb981f6"
     },
     {
       "sha": "2b207ee1b3",
@@ -7065,6 +7097,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/4a9b4f667cdf4caf53e5ef3a032801819b2dc9a4"
     },
     {
+      "sha": "ad0ede302c",
+      "message": "Exclude '.' and ':' from `isValidAuxChar`'s banned charset (#963)",
+      "date": "2024-08-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/963",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ad0ede302cc1363985e677d008f23ef2031536bc"
+    },
+    {
       "sha": "25dd943087",
       "message": "Delete TLS.md and update README.md about tests (#960)",
       "date": "2024-08-28",
@@ -7087,6 +7127,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/846",
       "commit_url": "https://github.com/valkey-io/valkey/commit/744b13e302559fc6da30749df266810882b5df99"
+    },
+    {
+      "sha": "2b71a78241",
+      "message": "Add comment explaining log file reopening for rotation support (#956)",
+      "date": "2024-08-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/956",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2b71a782410ea81b4ad8c86e3a57ef3884e7c7fb"
     },
     {
       "sha": "54c0f743dd",
@@ -7369,6 +7417,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/3df9d4279414bf46a9d85d599d2e60055ddaea1d"
     },
     {
+      "sha": "32ca6e5b38",
+      "message": " Improve `CLUSTER SETSLOT` replication handling to support older replica versions. (#686)",
+      "date": "2024-06-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/686",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/32ca6e5b38bfc4a15878c2b6ff3d2c71da1026e3"
+    },
+    {
       "sha": "ce79539047",
       "message": "Fail tests immediately if the server is no longer running (#678)",
       "date": "2024-06-21",
@@ -7417,12 +7473,28 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/b33f932c5670749bea67933c10578336c67f16e6"
     },
     {
+      "sha": "4135894a5d",
+      "message": "Update remaining `master` references to `primary` (#660)",
+      "date": "2024-06-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/660",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4135894a5d40f7270a2127d601fbf4f81ca4ab26"
+    },
+    {
       "sha": "6faa48a358",
       "message": "Don't initialize the key buffer in getKeysResult (#631)",
       "date": "2024-06-14",
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/631",
       "commit_url": "https://github.com/valkey-io/valkey/commit/6faa48a358ead15ea4b86798aa832a4820dfbe4e"
+    },
+    {
+      "sha": "8a776c3509",
+      "message": "Fix potential infinite loop in `clusterNodeGetPrimary` (#651)",
+      "date": "2024-06-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/651",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8a776c35090c287a309ed49514cc3051d9f39707"
     },
     {
       "sha": "76fc041685",
@@ -7505,6 +7577,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/a5406a03771416e532daaca4f67dced9d83cafdd"
     },
     {
+      "sha": "2b97aa6171",
+      "message": "Introduce `enable-debug-assert` to enable/disable debug asserts at runtime (#584)",
+      "date": "2024-06-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/584",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2b97aa61710f2b64245bf734abaa1984efe454e8"
+    },
+    {
       "sha": "4e44f5aae9",
       "message": "Fix races in test for tot-net-in, tot-net-out, tot-cmds (#559)",
       "date": "2024-05-28",
@@ -7543,6 +7623,14 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/92",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/5f279b94de77e52e7f4d4ed3baa3cea80b7617a5"
+    },
+    {
+      "sha": "a0aebb6b67",
+      "message": "Reinitialize pointer 'p' after ziplistDeleteRange to fix head deletion bug (#537)",
+      "date": "2024-05-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/537",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a0aebb6b678a5124ce9a92c7cb39074ebc0d85f9"
     },
     {
       "sha": "acb74f8da1",

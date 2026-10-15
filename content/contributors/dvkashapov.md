@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 115,
+  "score": 116,
   "commit_count": 24,
-  "review_count": 91,
+  "review_count": 92,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -207,6 +207,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cf5efa7019",
+      "message": "make getMonotonicUs static in libvalkeylua (#4270)",
+      "date": "2026-10-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4270",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cf5efa70192faedacb6741ee2a8f800d0482862f"
+    },
     {
       "sha": "b3a1356376",
       "message": "Optimize infoCommand with SDS pre-allocation (#3413)",

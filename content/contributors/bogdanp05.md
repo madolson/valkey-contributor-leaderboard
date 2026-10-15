@@ -2,9 +2,9 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 64,
+  "score": 66,
   "commit_count": 10,
-  "review_count": 54,
+  "review_count": 56,
   "repos": [
     "libvalkey-py",
     "one-time-for-planet",
@@ -96,6 +96,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e87c922292",
+      "message": "Parse module load error for server version >= 9.2",
+      "date": "2026-10-14",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/360",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/e87c922292a3d199ef6a2a1502a0607e14fe8b39"
+    },
+    {
+      "sha": "e87c922292",
+      "message": "Parse module load error for server version >= 9.2",
+      "date": "2026-10-14",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/360",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/e87c922292a3d199ef6a2a1502a0607e14fe8b39"
+    },
     {
       "sha": "5dd1271b42",
       "message": "Merge pull request #90 from valkey-io/mkmkme/bump-version",

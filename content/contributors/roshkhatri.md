@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 446,
+  "score": 449,
   "commit_count": 163,
-  "review_count": 283,
+  "review_count": 286,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1326,6 +1326,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "236f943723",
+      "message": "Use `--fair-sched=try` when running valgrind tests (#4849)",
+      "date": "2026-10-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4849",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/236f94372302dfaf864de9138d64a504dedbb6ba"
+    },
+    {
+      "sha": "3e07c039e7",
+      "message": "CI: Run Valgrind tests on run-valgrind-tests label (#4816)",
+      "date": "2026-10-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4816",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3e07c039e70513d5117972a724a7ebc7df1e2411"
+    },
+    {
+      "sha": "02f358553e",
+      "message": "Add Valkey 9.2 packaging (lz4, zstd) and refresh Fedora/Debian platforms (#73)",
+      "date": "2026-10-14",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/73",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/02f358553e65358c77a237c4a0a5dd38520a4ea3"
+    },
     {
       "sha": "d5b6592e3c",
       "message": "Automated Updates for Valkey Bundle (#130)",

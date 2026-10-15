@@ -2,8 +2,8 @@
   "title": "xdk-amz",
   "login": "xdk-amz",
   "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
-  "score": 10,
-  "commit_count": 5,
+  "score": 11,
+  "commit_count": 6,
   "review_count": 5,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "e4d62b2a37",
+      "message": "Avoid propagating expired hash fields from HDEL, HGETDEL, HPERSIST, and HEXPIRE (#4772)",
+      "date": "2026-10-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4772",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e4d62b2a379203747473358b2c0a4b355c317580"
+    },
     {
       "sha": "5c24e5d20d",
       "message": "[Bug Fix] Echo the rejected request epoch in FAILOVER_AUTH_NACK (#4654)",

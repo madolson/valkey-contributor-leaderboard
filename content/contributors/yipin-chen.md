@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 859,
+  "score": 861,
   "commit_count": 45,
-  "review_count": 814,
+  "review_count": 816,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -384,6 +384,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7307",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/27a41b64f06f3f17c4c29e6f963f3a5de2434444"
+    },
+    {
+      "sha": "b2cb2bc512",
+      "message": "fix(core): Move scope acquire wait into glide-core, delete binding poll loops (#7320)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7320",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b2cb2bc5128cedd422f6b72fbd4be2101e48e559"
+    },
+    {
+      "sha": "76549b9d2d",
+      "message": "feat(ruby): add HGETDEL support (#348)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/348",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/76549b9d2d11c267382c2d72d3a732fc9f21943f"
     },
     {
       "sha": "413ffb630f",

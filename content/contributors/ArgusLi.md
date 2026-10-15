@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 134,
+  "score": 136,
   "commit_count": 75,
-  "review_count": 59,
+  "review_count": 61,
   "repos": [
     "valkey-admin"
   ],
@@ -611,6 +611,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0161e2a942",
+      "message": "Make the WebSocket origin allowlist exclusive in Web mode (#551)",
+      "date": "2026-10-14",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/551",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/0161e2a9429669ca633646dfd35ad99e38714cbc"
+    },
+    {
+      "sha": "92a6a59daf",
+      "message": "feat(send-command): display command execution duration (#408) (#553)",
+      "date": "2026-10-14",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/553",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/92a6a59dafb570fec1e7887f1b1a781b170f7fb6"
+    },
     {
       "sha": "692688b6f0",
       "message": "Purge legacy unencrypted passwords on hosts with no keystore (#555)",

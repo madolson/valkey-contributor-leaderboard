@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 310,
+  "score": 311,
   "commit_count": 66,
-  "review_count": 244,
+  "review_count": 245,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -2322,6 +2322,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/654",
       "commit_url": "https://github.com/valkey-io/valkey/commit/e745e9c240d1ecb511286c2f493df63e6e7c8d0f"
+    },
+    {
+      "sha": "66d0f7d9a1",
+      "message": "Ensure only primary sender drives slot ownership updates (#754)",
+      "date": "2024-07-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/754",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/66d0f7d9a116ee6c58da4c18532825130dcae773"
     },
     {
       "sha": "418901dec4",

@@ -2,9 +2,9 @@
   "title": "frostzt",
   "login": "frostzt",
   "avatar_url": "https://avatars.githubusercontent.com/u/25434993?v=4",
-  "score": 5,
+  "score": 6,
   "commit_count": 4,
-  "review_count": 1,
+  "review_count": 2,
   "repos": [
     "valkey"
   ],
@@ -43,6 +43,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e4d62b2a37",
+      "message": "Avoid propagating expired hash fields from HDEL, HGETDEL, HPERSIST, and HEXPIRE (#4772)",
+      "date": "2026-10-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4772",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e4d62b2a379203747473358b2c0a4b355c317580"
+    },
     {
       "sha": "1e90169efd",
       "message": "Track field TTLs in the volatile set when a HASH_2 load converts mid-listpack (#4669)",

@@ -2,8 +2,8 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 127,
-  "commit_count": 40,
+  "score": 128,
+  "commit_count": 41,
   "review_count": 87,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "6788bf8615",
+      "message": "ci: add Codecov workflow for unit and integration test coverage (#1319)",
+      "date": "2026-10-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1319",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6788bf86158a0c6f159352fafc4a2981e6785bf0"
+    },
     {
       "sha": "c24e745818",
       "message": "perf: Restore HNSW ingestion and search throughput to 1.2 levels (#1487)",

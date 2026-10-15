@@ -2,13 +2,21 @@
   "title": "JasonLi314",
   "login": "JasonLi314",
   "avatar_url": "https://avatars.githubusercontent.com/u/47095666?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "3df4bca496",
+      "message": "fix flaky index consistency test from unbounded index update count (#1481)",
+      "date": "2026-10-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1481",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/3df4bca4966874cb7df855ff51088272d7d113ee"
+    },
     {
       "sha": "b9fe506350",
       "message": "[Bug] Fix flaky test_rdb_load_error_cleanup: -LOADING is not a crash (#1553)",

@@ -2,9 +2,9 @@
   "title": "lilpoozie2005",
   "login": "lilpoozie2005",
   "avatar_url": "https://github.com/lilpoozie2005.png?size=64",
-  "score": 34,
+  "score": 36,
   "commit_count": 0,
-  "review_count": 34,
+  "review_count": 36,
   "repos": [
     "valkey"
   ],
@@ -123,6 +123,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/75b824052d72eec8611a5af5e92ef428877cec1e"
     },
     {
+      "sha": "ad0ede302c",
+      "message": "Exclude '.' and ':' from `isValidAuxChar`'s banned charset (#963)",
+      "date": "2024-08-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/963",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ad0ede302cc1363985e677d008f23ef2031536bc"
+    },
+    {
       "sha": "25dd943087",
       "message": "Delete TLS.md and update README.md about tests (#960)",
       "date": "2024-08-28",
@@ -177,6 +185,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/947",
       "commit_url": "https://github.com/valkey-io/valkey/commit/6a84e06b05dd08c61942cdb254997775ed9b5e00"
+    },
+    {
+      "sha": "2b71a78241",
+      "message": "Add comment explaining log file reopening for rotation support (#956)",
+      "date": "2024-08-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/956",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2b71a782410ea81b4ad8c86e3a57ef3884e7c7fb"
     },
     {
       "sha": "4f29ad4583",

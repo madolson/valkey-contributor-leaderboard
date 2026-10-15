@@ -2,14 +2,22 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 13,
-  "commit_count": 13,
+  "score": 14,
+  "commit_count": 14,
   "review_count": 0,
   "repos": [
     "valkey",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "236f943723",
+      "message": "Use `--fair-sched=try` when running valgrind tests (#4849)",
+      "date": "2026-10-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4849",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/236f94372302dfaf864de9138d64a504dedbb6ba"
+    },
     {
       "sha": "1db8edcbe1",
       "message": "geohash code cleanup (#4787)",

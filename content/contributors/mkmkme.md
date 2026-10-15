@@ -2,9 +2,9 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 129,
+  "score": 130,
   "commit_count": 34,
-  "review_count": 95,
+  "review_count": 96,
   "repos": [
     "libvalkey",
     "libvalkey-py",
@@ -286,6 +286,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4394e44213",
+      "message": "add async sentinel failover test",
+      "date": "2026-10-13",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/354",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/4394e442137af1a3c5dbe060919f5232763457e7"
+    },
     {
       "sha": "7c7468ddfe",
       "message": "Fix flaky test_bgsave",

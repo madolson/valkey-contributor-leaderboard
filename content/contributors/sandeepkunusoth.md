@@ -2,9 +2,9 @@
   "title": "sandeepkunusoth",
   "login": "sandeepkunusoth",
   "avatar_url": "https://avatars.githubusercontent.com/u/31273507?v=4",
-  "score": 66,
+  "score": 67,
   "commit_count": 28,
-  "review_count": 38,
+  "review_count": 39,
   "repos": [
     "valkey-operator"
   ],
@@ -235,6 +235,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "668c237132",
+      "message": "chore: update kubebuilder scaffold v4.15.0 -> v4.16.0 (#447)",
+      "date": "2026-10-14",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/447",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/668c23713298df1826ec6041d7ddbcaeed3b588d"
+    },
     {
       "sha": "c24c471e97",
       "message": "fix: validate serverName without the CEL format library so the CRDs apply on Kubernetes 1.31 (#473)",

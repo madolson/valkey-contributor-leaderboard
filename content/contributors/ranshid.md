@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 316,
+  "score": 317,
   "commit_count": 96,
-  "review_count": 220,
+  "review_count": 221,
   "repos": [
     "valkey",
     "valkey-container",
@@ -786,6 +786,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e4d62b2a37",
+      "message": "Avoid propagating expired hash fields from HDEL, HGETDEL, HPERSIST, and HEXPIRE (#4772)",
+      "date": "2026-10-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4772",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e4d62b2a379203747473358b2c0a4b355c317580"
+    },
     {
       "sha": "f213a6750d",
       "message": "Build: make the Make / CMake gtest build link on macOS (#4657)",

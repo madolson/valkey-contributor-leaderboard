@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 449,
+  "score": 451,
   "commit_count": 157,
-  "review_count": 292,
+  "review_count": 294,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1271,6 +1271,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a209835b0c",
+      "message": "test(php): verify Valkey 9.2 INFO fields, config values and client flags (#354)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/354",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/a209835b0c73d97fb426e8315a824d4f869c4444"
+    },
+    {
+      "sha": "76549b9d2d",
+      "message": "feat(ruby): add HGETDEL support (#348)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/348",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/76549b9d2d11c267382c2d72d3a732fc9f21943f"
+    },
     {
       "sha": "5f9a378c4f",
       "message": "ci: test against Valkey `9.2.0-rc1` (#585)",

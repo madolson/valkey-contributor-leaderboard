@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 286,
-  "commit_count": 134,
-  "review_count": 152,
+  "score": 288,
+  "commit_count": 135,
+  "review_count": 153,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "668c237132",
+      "message": "chore: update kubebuilder scaffold v4.15.0 -> v4.16.0 (#447)",
+      "date": "2026-10-14",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/447",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/668c23713298df1826ec6041d7ddbcaeed3b588d"
+    },
     {
       "sha": "c5ed4416b2",
       "message": "fix: Harden cluster redirect slot against out-of-bounds write (#363)",
@@ -2502,6 +2510,14 @@
       "repo": "libvalkey",
       "pr_url": "https://github.com/valkey-io/libvalkey/pull/24",
       "commit_url": "https://github.com/valkey-io/libvalkey/commit/e28f811f5a7ab39ac1e48acbabd46cfefdae0d28"
+    },
+    {
+      "sha": "84157890fd",
+      "message": "Set up clang-format github action (#538)",
+      "date": "2024-05-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/538",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/84157890fd710c6117032c20ba4602cbe19970d1"
     }
   ]
 }

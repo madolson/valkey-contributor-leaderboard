@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 267,
+  "score": 269,
   "commit_count": 79,
-  "review_count": 188,
+  "review_count": 190,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -647,6 +647,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b2cb2bc512",
+      "message": "fix(core): Move scope acquire wait into glide-core, delete binding poll loops (#7320)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7320",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b2cb2bc5128cedd422f6b72fbd4be2101e48e559"
+    },
+    {
+      "sha": "7593203c17",
+      "message": "build(deps): Bump rustls to 0.23.46 to clear four RUSTSEC advisories (#7343)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7343",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7593203c17fe324421f5f9163eb11341632f9601"
+    },
     {
       "sha": "413ffb630f",
       "message": "test(utils): Tune server flags so test clusters form in ~6s instead of ~15s (#7337)",

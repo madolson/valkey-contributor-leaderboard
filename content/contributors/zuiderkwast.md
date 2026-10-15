@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1275,
+  "score": 1286,
   "commit_count": 155,
-  "review_count": 1120,
+  "review_count": 1131,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1262,6 +1262,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8f67ab1368",
+      "message": "Include roles in ACL DIGEST (#4694)",
+      "date": "2026-10-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4694",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8f67ab13683d6d31cde5925948df68dab0835651"
+    },
     {
       "sha": "3db525ec40",
       "message": "Fix RDB and replication failures for certain listpack entry lengths (#4819)",
@@ -8535,6 +8543,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/8cca11ac541012e6bfbe995fb0367e6a058719b6"
     },
     {
+      "sha": "1c9edd0385",
+      "message": "Update cluster-spec with Valkey 8.0 cluster improvements (#167)",
+      "date": "2024-09-12",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/167",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/1c9edd038569751eb092adb4c703165040b15d8f"
+    },
+    {
       "sha": "fa348e2e59",
       "message": "Optimize the per slot dictionary by checking for cluster mode earlier (#995)",
       "date": "2024-09-11",
@@ -9007,6 +9023,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/4b96a01dcf494bb839953b18a2900aceccc6a851"
     },
     {
+      "sha": "66d0f7d9a1",
+      "message": "Ensure only primary sender drives slot ownership updates (#754)",
+      "date": "2024-07-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/754",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/66d0f7d9a116ee6c58da4c18532825130dcae773"
+    },
+    {
       "sha": "1a8bd045f3",
       "message": "Replace master-reboot-down-after-period with primary-reboot-down-after-period in sentinel.conf (#647)",
       "date": "2024-07-15",
@@ -9125,6 +9149,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/693",
       "commit_url": "https://github.com/valkey-io/valkey/commit/fa01a293659b25bbf6fd396299dd24f3f5deb6b8"
+    },
+    {
+      "sha": "9f4f6036b8",
+      "message": "Restore comments for client flags (#718)",
+      "date": "2024-07-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/718",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9f4f6036b80410e849664236a0b3994645106262"
     },
     {
       "sha": "7415a576a8",
@@ -9327,6 +9359,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/4c6bf30f58335baa4564415a0a75011d23aa1714"
     },
     {
+      "sha": "5d9d41868d",
+      "message": "Replace `DEBUG RESTART` with `pause_server` and `resume_server` (#652)",
+      "date": "2024-06-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/652",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5d9d41868df1a1e21de73f69e8b36feadf271fe7"
+    },
+    {
       "sha": "d309b9b235",
       "message": "Make configs dir/dbfilename/cluster-config-file reject empty string (#636)",
       "date": "2024-06-13",
@@ -9375,6 +9415,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/d16b4ec1b9a2309f17601abb1e238f06dfb736a9"
     },
     {
+      "sha": "f927565d28",
+      "message": "Consolidate various BLOCKED_WAIT* states (#562)",
+      "date": "2024-05-31",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/562",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f927565d28229691b39f873f40d2d8b9cacc425d"
+    },
+    {
       "sha": "0d2ba9b94d",
       "message": "Update redis legacy word when run TLS cert file (#572)",
       "date": "2024-05-30",
@@ -9391,12 +9439,36 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/fd58b73f0ae895bf9de3810d799da20bb75a2b4f"
     },
     {
+      "sha": "84157890fd",
+      "message": "Set up clang-format github action (#538)",
+      "date": "2024-05-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/538",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/84157890fd710c6117032c20ba4602cbe19970d1"
+    },
+    {
+      "sha": "e4ead9442b",
+      "message": "Make CLUSTER SETSLOT with TIMEOUT 0 block indefinitely (#556)",
+      "date": "2024-05-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/556",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e4ead9442b8e970defc26d25c62580bedfd42a80"
+    },
+    {
       "sha": "5d0f4bc9f0",
       "message": "Require C11 atomics (#490)",
       "date": "2024-05-26",
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/490",
       "commit_url": "https://github.com/valkey-io/valkey/commit/5d0f4bc9f0089f83cc54e1978f2dd549f7392c9f"
+    },
+    {
+      "sha": "c41dd77a3e",
+      "message": "Add clang-format configs (#323)",
+      "date": "2024-05-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/323",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c41dd77a3e93e02be3c4bc75d8c76b7b4169a4ce"
     },
     {
       "sha": "acb74f8da1",
@@ -9951,6 +10023,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/9c5e2bb226c797d1eb815cddc342d4ed19a05e1e"
     },
     {
+      "sha": "37cf1ee242",
+      "message": "Fix some more names in the doc (#4)",
+      "date": "2024-04-04",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/4",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/37cf1ee2428e87eb0ca2bf5b5f875476c72f07c6"
+    },
+    {
       "sha": "39d0f457a2",
       "message": "Update versioning fields for compatibility (#47)",
       "date": "2024-04-03",
@@ -10213,6 +10293,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/86",
       "commit_url": "https://github.com/valkey-io/valkey/commit/289eb47eb96d30f08543d721880fe99b623abd48"
+    },
+    {
+      "sha": "1950acd1e2",
+      "message": "Fix remaining names in CONTRIBUTING.md (#70)",
+      "date": "2024-03-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/70",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1950acd1e2b8c2282d51e528377f6e564eb447cd"
     },
     {
       "sha": "c120a45874",

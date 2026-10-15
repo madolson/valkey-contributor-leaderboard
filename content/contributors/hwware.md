@@ -2,9 +2,9 @@
   "title": "hwware",
   "login": "hwware",
   "avatar_url": "https://avatars.githubusercontent.com/u/51993843?v=4",
-  "score": 165,
+  "score": 168,
   "commit_count": 52,
-  "review_count": 113,
+  "review_count": 116,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -512,6 +512,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/861d0794b7bdf2237d98502a5b405faf19db24dc"
     },
     {
+      "sha": "0b4352c98c",
+      "message": "Consolidate slot migration logs by grouping consecutive slot migrations into a single log entry (#2481)",
+      "date": "2025-08-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2481",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0b4352c98ccefac61e33c5da805357e909bf6d2f"
+    },
+    {
       "sha": "57b176169d",
       "message": "Spelling 9 (#2245)",
       "date": "2025-07-04",
@@ -936,6 +944,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/f89ff3137d437e7c43d910e4d28ed8fbed44decc"
     },
     {
+      "sha": "09def3cf03",
+      "message": "Improve code readability in dict.c (#943)",
+      "date": "2024-09-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/943",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/09def3cf03b93586bd49f689753b7d749e3bea55"
+    },
+    {
       "sha": "14016d2df7",
       "message": "Migrate listpack.c unit tests to new framework  (#949)",
       "date": "2024-09-09",
@@ -1070,6 +1086,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/639",
       "commit_url": "https://github.com/valkey-io/valkey/commit/627d387ad85ead296c1fa42f9eb2365f67aa1fd8"
+    },
+    {
+      "sha": "54c9747935",
+      "message": "Remove `master` and `slave` from source code (#591)",
+      "date": "2024-06-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/591",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/54c97479356ecf41b4b63733494a1be2ab919e17"
     },
     {
       "sha": "b95e7c384f",

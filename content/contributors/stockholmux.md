@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 155,
-  "commit_count": 20,
-  "review_count": 135,
+  "score": 157,
+  "commit_count": 21,
+  "review_count": 136,
   "repos": [
     "valkey",
     "valkey-container",
@@ -14,6 +14,14 @@
     "valkey-proxy"
   ],
   "commit_list": [
+    {
+      "sha": "1aff22360b",
+      "message": "remove ValkeyConf banner (#698)",
+      "date": "2026-10-14",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/698",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/1aff22360b94222b819cbe9ccf1610582473107e"
+    },
     {
       "sha": "300372c93b",
       "message": "changes order of text",
@@ -176,6 +184,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "698351cd91",
+      "message": "Planet Announcement. (#682)",
+      "date": "2026-10-14",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/682",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/698351cd91d1222265ccf468944244f7ce8f47b8"
+    },
     {
       "sha": "1477ed5be5",
       "message": "Add LibreDB Studio as participant (#678)",

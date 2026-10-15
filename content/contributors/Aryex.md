@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 307,
-  "commit_count": 112,
+  "score": 309,
+  "commit_count": 114,
   "review_count": 195,
   "repos": [
     "spring-data-valkey",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "e410933bcd",
+      "message": "ci: automate submodule updates and correct action version comments (#354)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/354",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/e410933bcd5aa8c7464ae1eb090cfac5eb673106"
+    },
+    {
+      "sha": "76549b9d2d",
+      "message": "feat(ruby): add HGETDEL support (#348)",
+      "date": "2026-10-14",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/348",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/76549b9d2d11c267382c2d72d3a732fc9f21943f"
+    },
     {
       "sha": "dc8230a5f7",
       "message": "ci: move external link checks to optional workflow (#338)",

@@ -2,14 +2,22 @@
   "title": "ravjotbrar",
   "login": "ravjotbrar",
   "avatar_url": "https://avatars.githubusercontent.com/u/83892020?v=4",
-  "score": 214,
-  "commit_count": 131,
+  "score": 215,
+  "commit_count": 132,
   "review_count": 83,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "0161e2a942",
+      "message": "Make the WebSocket origin allowlist exclusive in Web mode (#551)",
+      "date": "2026-10-14",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/551",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/0161e2a9429669ca633646dfd35ad99e38714cbc"
+    },
     {
       "sha": "692688b6f0",
       "message": "Purge legacy unencrypted passwords on hosts with no keystore (#555)",

@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 140,
+  "score": 142,
   "commit_count": 42,
-  "review_count": 98,
+  "review_count": 100,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -350,6 +350,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6788bf8615",
+      "message": "ci: add Codecov workflow for unit and integration test coverage (#1319)",
+      "date": "2026-10-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1319",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6788bf86158a0c6f159352fafc4a2981e6785bf0"
+    },
+    {
+      "sha": "3df4bca496",
+      "message": "fix flaky index consistency test from unbounded index update count (#1481)",
+      "date": "2026-10-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1481",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/3df4bca4966874cb7df855ff51088272d7d113ee"
+    },
     {
       "sha": "c47ae7b734",
       "message": "Fix Gate non-UTF-8 TAG indexing behavior change behind search.emulate-release (#1536)",
