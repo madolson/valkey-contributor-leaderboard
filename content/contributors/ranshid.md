@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 317,
+  "score": 319,
   "commit_count": 96,
-  "review_count": 221,
+  "review_count": 223,
   "repos": [
     "valkey",
     "valkey-container",
@@ -13,6 +13,7 @@
     "valkey-hashes",
     "valkey-io.github.io",
     "valkey-perf-benchmark",
+    "valkey-review-bot",
     "valkey-try-me"
   ],
   "commit_list": [
@@ -786,6 +787,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b405ef898c",
+      "message": "Skip expired listpack hash fields in ValkeyModule_ScanKey (#4885)",
+      "date": "2026-10-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4885",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b405ef898cafdf45032b65d0a215d62b279ec1cc"
+    },
+    {
+      "sha": "e1ccdd64be",
+      "message": "Apply the open Dependabot bumps in one change (#28)",
+      "date": "2026-10-15",
+      "repo": "valkey-review-bot",
+      "pr_url": "https://github.com/valkey-io/valkey-review-bot/pull/28",
+      "commit_url": "https://github.com/valkey-io/valkey-review-bot/commit/e1ccdd64be4bbee8baf3484fbe3013c524c9197f"
+    },
     {
       "sha": "e4d62b2a37",
       "message": "Avoid propagating expired hash fields from HDEL, HGETDEL, HPERSIST, and HEXPIRE (#4772)",

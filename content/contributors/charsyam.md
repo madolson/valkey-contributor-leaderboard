@@ -2,13 +2,21 @@
   "title": "charsyam",
   "login": "charsyam",
   "avatar_url": "https://avatars.githubusercontent.com/u/439301?v=4",
-  "score": 10,
-  "commit_count": 10,
+  "score": 11,
+  "commit_count": 11,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "d379883ae8",
+      "message": "Optimize B+tree ZPOP by detaching edge items (#4852)",
+      "date": "2026-10-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4852",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d379883ae8d7573a7f2b364f7d787643c3414731"
+    },
     {
       "sha": "b3a1356376",
       "message": "Optimize infoCommand with SDS pre-allocation (#3413)",

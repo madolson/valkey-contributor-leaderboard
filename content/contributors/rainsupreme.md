@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 125,
-  "commit_count": 41,
-  "review_count": 84,
+  "score": 129,
+  "commit_count": 42,
+  "review_count": 87,
   "repos": [
     "valkey",
     "valkey-container",
@@ -14,6 +14,14 @@
     "valkey-skills"
   ],
   "commit_list": [
+    {
+      "sha": "ce5120736c",
+      "message": "deflake ccov: Use _exit() when a child is killed by SIGUSR1 (#4251)",
+      "date": "2026-10-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4251",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ce5120736c02c7e8e820aea5d3b2b16c5cad40bc"
+    },
     {
       "sha": "d6415e766b",
       "message": "Fix return types of three module API declarations to match definitions (#4676)",
@@ -344,6 +352,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "035b8d61d0",
+      "message": "Fix btree zset lex seek, NaN score bounds and a root prefix leak (#4644)",
+      "date": "2026-10-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4644",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/035b8d61d0e8fc3558e566ec76088c07562b080c"
+    },
+    {
+      "sha": "035b8d61d0",
+      "message": "Fix btree zset lex seek, NaN score bounds and a root prefix leak (#4644)",
+      "date": "2026-10-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4644",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/035b8d61d0e8fc3558e566ec76088c07562b080c"
+    },
+    {
+      "sha": "d379883ae8",
+      "message": "Optimize B+tree ZPOP by detaching edge items (#4852)",
+      "date": "2026-10-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4852",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d379883ae8d7573a7f2b364f7d787643c3414731"
+    },
     {
       "sha": "ff9481cfbe",
       "message": "Restore replica flow control with I/O threads enabled (#4765)",

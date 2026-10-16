@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 288,
+  "score": 289,
   "commit_count": 135,
-  "review_count": 153,
+  "review_count": 154,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1095,6 +1095,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6ca5d4780c",
+      "message": "feat: add a pool of long-lived Valkey clients (#470)",
+      "date": "2026-10-15",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/470",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6ca5d4780c0b27764fd62ca068065e6a76072cd4"
+    },
     {
       "sha": "cfc50a6da6",
       "message": "feat: dial ValkeyNode clients through ClientProvider.ForNode (#457)",

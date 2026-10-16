@@ -2,13 +2,21 @@
   "title": "danielfrankcom",
   "login": "danielfrankcom",
   "avatar_url": "https://avatars.githubusercontent.com/u/15225573?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "54c53c0dd2",
+      "message": "Fix broken links in blog posts (#697)",
+      "date": "2026-10-15",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/697",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/54c53c0dd2a1dbbe99eec8f6744733803613e583"
+    },
     {
       "sha": "c032355045",
       "message": "Fix GitHub handle for Muhammad Awawdi (#691)",

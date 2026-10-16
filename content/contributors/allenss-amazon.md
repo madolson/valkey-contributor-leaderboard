@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 335,
+  "score": 336,
   "commit_count": 86,
-  "review_count": 249,
+  "review_count": 250,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -703,6 +703,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "78eaedf84d",
+      "message": "fix native build on Amazon Linux 2 (#1574)",
+      "date": "2026-10-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1574",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/78eaedf84d30226f654571c5768f0984f11e0510"
+    },
     {
       "sha": "b7f6135a2d",
       "message": "fix: FT.HYBRID drops coordinator's local shard together when one arm fails (#1529)",

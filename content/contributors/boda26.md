@@ -2,13 +2,21 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 86,
-  "commit_count": 51,
+  "score": 87,
+  "commit_count": 52,
   "review_count": 35,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "78eaedf84d",
+      "message": "fix native build on Amazon Linux 2 (#1574)",
+      "date": "2026-10-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1574",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/78eaedf84d30226f654571c5768f0984f11e0510"
+    },
     {
       "sha": "c338559c06",
       "message": "Fix weight 0 is rejected (#1505)",

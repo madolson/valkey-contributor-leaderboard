@@ -2,9 +2,9 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 12,
+  "score": 13,
   "commit_count": 12,
-  "review_count": 0,
+  "review_count": 1,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -108,5 +108,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/41a4b31028aa7ed1d9a82323f940cdb742bc5c09"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "54c53c0dd2",
+      "message": "Fix broken links in blog posts (#697)",
+      "date": "2026-10-15",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/697",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/54c53c0dd2a1dbbe99eec8f6744733803613e583"
+    }
+  ]
 }

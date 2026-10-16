@@ -2,8 +2,8 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 164,
-  "commit_count": 55,
+  "score": 165,
+  "commit_count": 56,
   "review_count": 109,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "6ca5d4780c",
+      "message": "feat: add a pool of long-lived Valkey clients (#470)",
+      "date": "2026-10-15",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/470",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6ca5d4780c0b27764fd62ca068065e6a76072cd4"
+    },
     {
       "sha": "cfc50a6da6",
       "message": "feat: dial ValkeyNode clients through ClientProvider.ForNode (#457)",

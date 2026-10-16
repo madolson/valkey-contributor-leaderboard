@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 861,
+  "score": 867,
   "commit_count": 45,
-  "review_count": 816,
+  "review_count": 822,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cc50218115",
+      "message": "ci(node): test published x86 darwin package on Intel runner (#7358)",
+      "date": "2026-10-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7358",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cc50218115525ca5bb7d60a39b9dcf6e0df00143"
+    },
+    {
+      "sha": "d093023dbd",
+      "message": "ci(java): cap release-validation benchmark at 100 concurrent tasks (#7356)",
+      "date": "2026-10-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7356",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d093023dbd4ed4bda24e521e7f0eab5b48701451"
+    },
+    {
+      "sha": "2d4f6b165b",
+      "message": "ci(node): resolve CD runner into RUNNER to fix ARM64 runner routing (#7357)",
+      "date": "2026-10-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7357",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2d4f6b165b36a926c5899ec300b3d809dd10c0af"
+    },
+    {
+      "sha": "e1da7d73a8",
+      "message": "ci(python): raise PyPI macOS wheel build timeout to 240 minutes (#7355)",
+      "date": "2026-10-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7355",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e1da7d73a86bfc504b0dec0b868ce4fa80af7ab7"
+    },
+    {
+      "sha": "2eec363c10",
+      "message": "test: verify Valkey 9.2 INFO fields (#592)",
+      "date": "2026-10-15",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/592",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2eec363c108759ef4b7588a40c727a1cc602e528"
+    },
+    {
+      "sha": "754c9dae47",
+      "message": "test: verify Valkey 9.2 INFO fields (#357)",
+      "date": "2026-10-15",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/357",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/754c9dae472bcbf14144cbf0b7235000b66cff8a"
+    },
     {
       "sha": "27a41b64f0",
       "message": "ci(python): Run the Python Tests job under pytest-xdist (#7307)",

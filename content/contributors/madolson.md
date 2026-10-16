@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 976,
-  "commit_count": 218,
-  "review_count": 758,
+  "score": 981,
+  "commit_count": 219,
+  "review_count": 762,
   "repos": [
     ".github",
     "valkey",
@@ -21,6 +21,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "b405ef898c",
+      "message": "Skip expired listpack hash fields in ValkeyModule_ScanKey (#4885)",
+      "date": "2026-10-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4885",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b405ef898cafdf45032b65d0a215d62b279ec1cc"
+    },
     {
       "sha": "4319738e6a",
       "message": "Reject relative expires that overflow when the base time is added (#4880)",
@@ -1767,6 +1775,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4d5fdeb0cf",
+      "message": "Fix sds overflow assert on RESTORE payload with an overflowing string length (#4733)",
+      "date": "2026-10-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4733",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4d5fdeb0cfef799efb1687806e3f1a429b6d7b24"
+    },
+    {
+      "sha": "12c96e0781",
+      "message": "Document guidelines for adding INFO fields (#4758)",
+      "date": "2026-10-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4758",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/12c96e0781a78bcb18b333e6cca453f5ae568ec4"
+    },
+    {
+      "sha": "ce5120736c",
+      "message": "deflake ccov: Use _exit() when a child is killed by SIGUSR1 (#4251)",
+      "date": "2026-10-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4251",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ce5120736c02c7e8e820aea5d3b2b16c5cad40bc"
+    },
+    {
+      "sha": "54c53c0dd2",
+      "message": "Fix broken links in blog posts (#697)",
+      "date": "2026-10-15",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/697",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/54c53c0dd2a1dbbe99eec8f6744733803613e583"
+    },
     {
       "sha": "cf5efa7019",
       "message": "make getMonotonicUs static in libvalkeylua (#4270)",

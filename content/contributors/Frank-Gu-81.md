@@ -2,8 +2,8 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 49,
-  "commit_count": 26,
+  "score": 50,
+  "commit_count": 27,
   "review_count": 23,
   "repos": [
     "valkey-ci-agent",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "ccef4e34ac",
+      "message": "Add aarch64 1.2.0 module to RDB compatibility fixture (#1584)",
+      "date": "2026-10-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1584",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ccef4e34ac958d8ac32c35f2961294aeb2e9ea6c"
+    },
     {
       "sha": "1df065c072",
       "message": "chore: reviewer pool update (#1556)",

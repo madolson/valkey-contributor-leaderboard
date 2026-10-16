@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 157,
+  "score": 159,
   "commit_count": 21,
-  "review_count": 136,
+  "review_count": 138,
   "repos": [
     "valkey",
     "valkey-container",
@@ -184,6 +184,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "816363c94b",
+      "message": "Add ValkeyConf 2026 recap blog (#692)",
+      "date": "2026-10-15",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/692",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/816363c94b34bfaedb18091ccd26a3a4ae0b942c"
+    },
+    {
+      "sha": "816363c94b",
+      "message": "Add ValkeyConf 2026 recap blog (#692)",
+      "date": "2026-10-15",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/692",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/816363c94b34bfaedb18091ccd26a3a4ae0b942c"
+    },
     {
       "sha": "698351cd91",
       "message": "Planet Announcement. (#682)",

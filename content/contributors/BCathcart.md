@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 142,
+  "score": 143,
   "commit_count": 42,
-  "review_count": 100,
+  "review_count": 101,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -357,6 +357,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1319",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/6788bf86158a0c6f159352fafc4a2981e6785bf0"
+    },
+    {
+      "sha": "ccef4e34ac",
+      "message": "Add aarch64 1.2.0 module to RDB compatibility fixture (#1584)",
+      "date": "2026-10-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1584",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ccef4e34ac958d8ac32c35f2961294aeb2e9ea6c"
     },
     {
       "sha": "3df4bca496",

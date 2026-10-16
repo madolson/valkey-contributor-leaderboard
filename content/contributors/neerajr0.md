@@ -2,14 +2,30 @@
   "title": "neerajr0",
   "login": "neerajr0",
   "avatar_url": "https://avatars.githubusercontent.com/u/55604693?v=4",
-  "score": 23,
-  "commit_count": 9,
-  "review_count": 14,
+  "score": 26,
+  "commit_count": 11,
+  "review_count": 15,
   "repos": [
     "valkey-large-object",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "7288b44097",
+      "message": "add optional crc arg for BLOB.RDMA_SET (#131)",
+      "date": "2026-10-15",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/131",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/7288b440975e440a25ffc67c7eef28de0e13fbc1"
+    },
+    {
+      "sha": "cdcc8a5449",
+      "message": "Error message and command syntax updates (#115)",
+      "date": "2026-10-15",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/115",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/cdcc8a544928258237f4288cca9c2ac8508d7595"
+    },
     {
       "sha": "71d4d3e7c6",
       "message": "config updates (#118)",
@@ -84,6 +100,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d16ec07f73",
+      "message": "Flaky test fixes (#134)",
+      "date": "2026-10-15",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/134",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/d16ec07f7320ce85565cb5965375165404f580b5"
+    },
     {
       "sha": "eded434e79",
       "message": "Scaling Pt3 - Per Segment Pool Uring Engine and IoVecs Table (#105)",

@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 301,
+  "score": 306,
   "commit_count": 115,
-  "review_count": 186,
+  "review_count": 191,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -940,6 +940,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7288b44097",
+      "message": "add optional crc arg for BLOB.RDMA_SET (#131)",
+      "date": "2026-10-15",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/131",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/7288b440975e440a25ffc67c7eef28de0e13fbc1"
+    },
+    {
+      "sha": "cdcc8a5449",
+      "message": "Error message and command syntax updates (#115)",
+      "date": "2026-10-15",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/115",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/cdcc8a544928258237f4288cca9c2ac8508d7595"
+    },
+    {
+      "sha": "d16ec07f73",
+      "message": "Flaky test fixes (#134)",
+      "date": "2026-10-15",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/134",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/d16ec07f7320ce85565cb5965375165404f580b5"
+    },
+    {
+      "sha": "3e47b79cfe",
+      "message": "Replace read/write with readv/writev for older kernal version compatibility (#133)",
+      "date": "2026-10-15",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/133",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/3e47b79cfe18e65ff6a6c33bb0ce23665e7beda0"
+    },
+    {
+      "sha": "95ae02dc0d",
+      "message": "Add BlockedClient::measure_time_start and measure_time_end (#252)",
+      "date": "2026-10-15",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/252",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/95ae02dc0d419ed009ef0836617e143ba0007ccc"
+    },
     {
       "sha": "71d4d3e7c6",
       "message": "config updates (#118)",

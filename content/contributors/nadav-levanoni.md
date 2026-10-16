@@ -2,14 +2,23 @@
   "title": "nadav-levanoni",
   "login": "nadav-levanoni",
   "avatar_url": "https://avatars.githubusercontent.com/u/38641521?v=4",
-  "score": 6,
-  "commit_count": 3,
+  "score": 7,
+  "commit_count": 4,
   "review_count": 3,
   "repos": [
     "valkey",
-    "valkey-large-object"
+    "valkey-large-object",
+    "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "95ae02dc0d",
+      "message": "Add BlockedClient::measure_time_start and measure_time_end (#252)",
+      "date": "2026-10-15",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/252",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/95ae02dc0d419ed009ef0836617e143ba0007ccc"
+    },
     {
       "sha": "7f8760f171",
       "message": "Clean up NVMe object files on teardown and startup (#43)",

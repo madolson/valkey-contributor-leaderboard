@@ -2,13 +2,21 @@
   "title": "crystalphamLF",
   "login": "crystalphamLF",
   "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
-  "score": 9,
-  "commit_count": 8,
+  "score": 10,
+  "commit_count": 9,
   "review_count": 1,
   "repos": [
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "816363c94b",
+      "message": "Add ValkeyConf 2026 recap blog (#692)",
+      "date": "2026-10-15",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/692",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/816363c94b34bfaedb18091ccd26a3a4ae0b942c"
+    },
     {
       "sha": "c4a402fef5",
       "message": "Change blog post date to July 30, 2026 (#620)",

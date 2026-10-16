@@ -2,8 +2,8 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 84,
-  "commit_count": 50,
+  "score": 86,
+  "commit_count": 52,
   "review_count": 34,
   "repos": [
     "valkey",
@@ -17,6 +17,22 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "d16ec07f73",
+      "message": "Flaky test fixes (#134)",
+      "date": "2026-10-15",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/134",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/d16ec07f7320ce85565cb5965375165404f580b5"
+    },
+    {
+      "sha": "3e47b79cfe",
+      "message": "Replace read/write with readv/writev for older kernal version compatibility (#133)",
+      "date": "2026-10-15",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/133",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/3e47b79cfe18e65ff6a6c33bb0ce23665e7beda0"
+    },
     {
       "sha": "0320276c78",
       "message": "Remove the stored iovec table from SegmentPool (#119)",

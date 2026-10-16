@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 309,
+  "score": 311,
   "commit_count": 114,
-  "review_count": 195,
+  "review_count": 197,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -930,6 +930,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2eec363c10",
+      "message": "test: verify Valkey 9.2 INFO fields (#592)",
+      "date": "2026-10-15",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/592",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2eec363c108759ef4b7588a40c727a1cc602e528"
+    },
+    {
+      "sha": "754c9dae47",
+      "message": "test: verify Valkey 9.2 INFO fields (#357)",
+      "date": "2026-10-15",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/357",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/754c9dae472bcbf14144cbf0b7235000b66cff8a"
+    },
     {
       "sha": "5f9a378c4f",
       "message": "ci: test against Valkey `9.2.0-rc1` (#585)",

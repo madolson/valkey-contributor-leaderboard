@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 347,
-  "commit_count": 209,
+  "score": 349,
+  "commit_count": 211,
   "review_count": 138,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "2eec363c10",
+      "message": "test: verify Valkey 9.2 INFO fields (#592)",
+      "date": "2026-10-15",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/592",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2eec363c108759ef4b7588a40c727a1cc602e528"
+    },
+    {
+      "sha": "754c9dae47",
+      "message": "test: verify Valkey 9.2 INFO fields (#357)",
+      "date": "2026-10-15",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/357",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/754c9dae472bcbf14144cbf0b7235000b66cff8a"
+    },
     {
       "sha": "a9409ec0ff",
       "message": "chore(deps): bump valkey-glide from `0a3bd54` to `7593203` (#597)",

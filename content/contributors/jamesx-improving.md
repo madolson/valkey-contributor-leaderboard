@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 346,
+  "score": 350,
   "commit_count": 83,
-  "review_count": 263,
+  "review_count": 267,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -679,6 +679,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d093023dbd",
+      "message": "ci(java): cap release-validation benchmark at 100 concurrent tasks (#7356)",
+      "date": "2026-10-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7356",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d093023dbd4ed4bda24e521e7f0eab5b48701451"
+    },
+    {
+      "sha": "2d4f6b165b",
+      "message": "ci(node): resolve CD runner into RUNNER to fix ARM64 runner routing (#7357)",
+      "date": "2026-10-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7357",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2d4f6b165b36a926c5899ec300b3d809dd10c0af"
+    },
+    {
+      "sha": "e1da7d73a8",
+      "message": "ci(python): raise PyPI macOS wheel build timeout to 240 minutes (#7355)",
+      "date": "2026-10-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7355",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e1da7d73a86bfc504b0dec0b868ce4fa80af7ab7"
+    },
+    {
+      "sha": "d4144f6ff4",
+      "message": "ci(python): Pin cibuildwheel below 4.3 in pypi-cd (#7354)",
+      "date": "2026-10-15",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7354",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d4144f6ff4e41b019a785192be90ee0d0b0a18a0"
+    },
     {
       "sha": "27a41b64f0",
       "message": "ci(python): Run the Python Tests job under pytest-xdist (#7307)",

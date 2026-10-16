@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 449,
+  "score": 450,
   "commit_count": 163,
-  "review_count": 286,
+  "review_count": 287,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1326,6 +1326,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ce5120736c",
+      "message": "deflake ccov: Use _exit() when a child is killed by SIGUSR1 (#4251)",
+      "date": "2026-10-15",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4251",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ce5120736c02c7e8e820aea5d3b2b16c5cad40bc"
+    },
     {
       "sha": "236f943723",
       "message": "Use `--fair-sched=try` when running valgrind tests (#4849)",

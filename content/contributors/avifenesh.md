@@ -2,8 +2,8 @@
   "title": "avifenesh",
   "login": "avifenesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
-  "score": 263,
-  "commit_count": 97,
+  "score": 264,
+  "commit_count": 98,
   "review_count": 166,
   "repos": [
     "valkey",
@@ -11,9 +11,18 @@
     "valkey-glide",
     "valkey-glide-ruby",
     "valkey-io.github.io",
+    "valkey-review-bot",
     "valkey-skills"
   ],
   "commit_list": [
+    {
+      "sha": "e1ccdd64be",
+      "message": "Apply the open Dependabot bumps in one change (#28)",
+      "date": "2026-10-15",
+      "repo": "valkey-review-bot",
+      "pr_url": "https://github.com/valkey-io/valkey-review-bot/pull/28",
+      "commit_url": "https://github.com/valkey-io/valkey-review-bot/commit/e1ccdd64be4bbee8baf3484fbe3013c524c9197f"
+    },
     {
       "sha": "4669926ecf",
       "message": "Fix flaky EXEC command log tests (#4423)",
