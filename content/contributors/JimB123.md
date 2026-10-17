@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 80,
+  "score": 81,
   "commit_count": 25,
-  "review_count": 55,
+  "review_count": 56,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -212,6 +212,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b5028fa72f",
+      "message": "Skipping INCREX overflow tests on valgrind (#4914)",
+      "date": "2026-10-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4914",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b5028fa72f858eec4f2ab6b7df60e6d10a11cee4"
+    },
     {
       "sha": "01857eb359",
       "message": "Reclaim dead client IDs from the tracking table (#4143) (#4190)",

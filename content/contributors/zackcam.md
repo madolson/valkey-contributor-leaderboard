@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 86,
+  "score": 87,
   "commit_count": 52,
-  "review_count": 34,
+  "review_count": 35,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -435,6 +435,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5963a41bfb",
+      "message": "Add INFO fields for module monitoring (#110)",
+      "date": "2026-10-16",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/110",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/5963a41bfb15aca61e64676ba0a24e15225a9539"
+    },
     {
       "sha": "71d4d3e7c6",
       "message": "config updates (#118)",

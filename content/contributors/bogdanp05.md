@@ -2,9 +2,9 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 66,
+  "score": 67,
   "commit_count": 10,
-  "review_count": 56,
+  "review_count": 57,
   "repos": [
     "libvalkey-py",
     "one-time-for-planet",
@@ -96,6 +96,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5bf968a310",
+      "message": "fix: reject negative socket timeouts in Connection",
+      "date": "2026-10-16",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/346",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/5bf968a3106a5d063cdb14b8e1d32739b8b3d72d"
+    },
     {
       "sha": "e87c922292",
       "message": "Parse module load error for server version >= 9.2",

@@ -2,13 +2,21 @@
   "title": "charsyam",
   "login": "charsyam",
   "avatar_url": "https://avatars.githubusercontent.com/u/439301?v=4",
-  "score": 11,
-  "commit_count": 11,
+  "score": 12,
+  "commit_count": 12,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "0704408262",
+      "message": "aof: write directly to server.aof_buf in feedAppendOnlyFile (#3496)",
+      "date": "2026-10-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3496",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/070440826261994f8133a2914010f16f821e2e09"
+    },
     {
       "sha": "d379883ae8",
       "message": "Optimize B+tree ZPOP by detaching edge items (#4852)",

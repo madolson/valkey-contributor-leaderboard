@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 311,
-  "commit_count": 114,
-  "review_count": 197,
+  "score": 313,
+  "commit_count": 115,
+  "review_count": 198,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "e5f8a75bee",
+      "message": "ci: label submodule updates as glide-core (#363)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/363",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/e5f8a75beedf2affc015d8dd74bd53331f9b74f2"
+    },
     {
       "sha": "e410933bcd",
       "message": "ci: automate submodule updates and correct action version comments (#354)",
@@ -930,6 +938,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "eb954a09b6",
+      "message": "feat(java): add DELIFEQ command support (#7339)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7339",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/eb954a09b68a3a45634b6c26573e5dca19ea1130"
+    },
+    {
+      "sha": "1eaeba2993",
+      "message": "chore(deps): Bump valkey-glide from `046685f` to `aa6b693` (#364)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/364",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/1eaeba29933aa2bbf03c684526655ba5124d07a3"
+    },
+    {
+      "sha": "77bdeb73f2",
+      "message": "chore(deps): Bump the patch-updates group across 1 directory with 2 updates (#360)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/360",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/77bdeb73f267a65ef78373c31ed01f086ee9e321"
+    },
+    {
+      "sha": "162df46e71",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/semgrep.yml (#362)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/362",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/162df46e71bd95a03ba2e06ecb1823bfb00d702b"
+    },
+    {
+      "sha": "ea226a86cb",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/git-secrets-scan.yml (#361)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/361",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ea226a86cbfd1cda9113af6a23acc1d3421267b4"
+    },
     {
       "sha": "2eec363c10",
       "message": "test: verify Valkey 9.2 INFO fields (#592)",

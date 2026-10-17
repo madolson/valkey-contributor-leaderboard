@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 159,
+  "score": 160,
   "commit_count": 21,
-  "review_count": 138,
+  "review_count": 139,
   "repos": [
     "valkey",
     "valkey-container",
@@ -184,6 +184,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e875995325",
+      "message": "Add Planet Valkey to menu and footer. (#675)",
+      "date": "2026-10-16",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/675",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/e8759953258687a5c6e7e3c360f5e4cacaf14649"
+    },
     {
       "sha": "816363c94b",
       "message": "Add ValkeyConf 2026 recap blog (#692)",

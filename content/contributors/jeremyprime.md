@@ -2,17 +2,34 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 274,
-  "commit_count": 83,
-  "review_count": 191,
+  "score": 277,
+  "commit_count": 85,
+  "review_count": 192,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-docs",
-    "valkey-glide-php"
+    "valkey-glide-php",
+    "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "ce90cf9d29",
+      "message": "ci(node): tag napi prepublish platform packages so prerelease publish works (#7367)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7367",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ce90cf9d2941aa1304f4c4a194126a363aeb7410"
+    },
+    {
+      "sha": "85915bbc5b",
+      "message": "ci(node): move npm-cd matrix comment out of the jq string to fix shell parse (#7360)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7360",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/85915bbc5b52efd68a9be91bd55463487d60080c"
+    },
     {
       "sha": "cc50218115",
       "message": "ci(node): test published x86 darwin package on Intel runner (#7358)",
@@ -679,6 +696,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "77bdeb73f2",
+      "message": "chore(deps): Bump the patch-updates group across 1 directory with 2 updates (#360)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/360",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/77bdeb73f267a65ef78373c31ed01f086ee9e321"
+    },
+    {
+      "sha": "162df46e71",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/semgrep.yml (#362)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/362",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/162df46e71bd95a03ba2e06ecb1823bfb00d702b"
+    },
+    {
+      "sha": "ea226a86cb",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/git-secrets-scan.yml (#361)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/361",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ea226a86cbfd1cda9113af6a23acc1d3421267b4"
+    },
+    {
+      "sha": "e5f8a75bee",
+      "message": "ci: label submodule updates as glide-core (#363)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/363",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/e5f8a75beedf2affc015d8dd74bd53331f9b74f2"
+    },
     {
       "sha": "d4144f6ff4",
       "message": "ci(python): Pin cibuildwheel below 4.3 in pypi-cd (#7354)",

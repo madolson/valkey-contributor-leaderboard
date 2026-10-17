@@ -2,8 +2,8 @@
   "title": "nadav-levanoni",
   "login": "nadav-levanoni",
   "avatar_url": "https://avatars.githubusercontent.com/u/38641521?v=4",
-  "score": 7,
-  "commit_count": 4,
+  "score": 8,
+  "commit_count": 5,
   "review_count": 3,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "5963a41bfb",
+      "message": "Add INFO fields for module monitoring (#110)",
+      "date": "2026-10-16",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/110",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/5963a41bfb15aca61e64676ba0a24e15225a9539"
+    },
     {
       "sha": "95ae02dc0d",
       "message": "Add BlockedClient::measure_time_start and measure_time_end (#252)",

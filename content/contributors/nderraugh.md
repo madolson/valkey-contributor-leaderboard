@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 63,
+  "score": 64,
   "commit_count": 19,
-  "review_count": 44,
+  "review_count": 45,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -167,6 +167,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "79f1185da0",
+      "message": "test: replace `Assert.Equivalent` with value-semantic comparisons (#596)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/596",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/79f1185da0abe05feca5a06b488878d5f1932eec"
+    },
     {
       "sha": "cc50218115",
       "message": "ci(node): test published x86 darwin package on Intel runner (#7358)",

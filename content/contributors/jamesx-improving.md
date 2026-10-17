@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 350,
+  "score": 354,
   "commit_count": 83,
-  "review_count": 267,
+  "review_count": 271,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -679,6 +679,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "eb954a09b6",
+      "message": "feat(java): add DELIFEQ command support (#7339)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7339",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/eb954a09b68a3a45634b6c26573e5dca19ea1130"
+    },
+    {
+      "sha": "ce90cf9d29",
+      "message": "ci(node): tag napi prepublish platform packages so prerelease publish works (#7367)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7367",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ce90cf9d2941aa1304f4c4a194126a363aeb7410"
+    },
+    {
+      "sha": "85915bbc5b",
+      "message": "ci(node): move npm-cd matrix comment out of the jq string to fix shell parse (#7360)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7360",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/85915bbc5b52efd68a9be91bd55463487d60080c"
+    },
+    {
+      "sha": "79f1185da0",
+      "message": "test: replace `Assert.Equivalent` with value-semantic comparisons (#596)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/596",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/79f1185da0abe05feca5a06b488878d5f1932eec"
+    },
     {
       "sha": "d093023dbd",
       "message": "ci(java): cap release-validation benchmark at 100 concurrent tasks (#7356)",

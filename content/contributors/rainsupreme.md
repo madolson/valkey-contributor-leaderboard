@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 129,
+  "score": 132,
   "commit_count": 42,
-  "review_count": 87,
+  "review_count": 90,
   "repos": [
     "valkey",
     "valkey-container",
@@ -352,6 +352,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0704408262",
+      "message": "aof: write directly to server.aof_buf in feedAppendOnlyFile (#3496)",
+      "date": "2026-10-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3496",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/070440826261994f8133a2914010f16f821e2e09"
+    },
+    {
+      "sha": "0704408262",
+      "message": "aof: write directly to server.aof_buf in feedAppendOnlyFile (#3496)",
+      "date": "2026-10-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3496",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/070440826261994f8133a2914010f16f821e2e09"
+    },
+    {
+      "sha": "d87001320d",
+      "message": "Allow `vset` to track size pre-emptively (#4829)",
+      "date": "2026-10-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4829",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d87001320d7e53d633e823ebb614c091059d6167"
+    },
     {
       "sha": "035b8d61d0",
       "message": "Fix btree zset lex seek, NaN score bounds and a root prefix leak (#4644)",

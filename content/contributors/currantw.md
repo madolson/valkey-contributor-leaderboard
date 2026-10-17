@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 349,
-  "commit_count": 211,
-  "review_count": 138,
+  "score": 351,
+  "commit_count": 212,
+  "review_count": 139,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "79f1185da0",
+      "message": "test: replace `Assert.Equivalent` with value-semantic comparisons (#596)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/596",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/79f1185da0abe05feca5a06b488878d5f1932eec"
+    },
     {
       "sha": "2eec363c10",
       "message": "test: verify Valkey 9.2 INFO fields (#592)",
@@ -1705,6 +1713,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "eb954a09b6",
+      "message": "feat(java): add DELIFEQ command support (#7339)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7339",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/eb954a09b68a3a45634b6c26573e5dca19ea1130"
+    },
+    {
+      "sha": "1eaeba2993",
+      "message": "chore(deps): Bump valkey-glide from `046685f` to `aa6b693` (#364)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/364",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/1eaeba29933aa2bbf03c684526655ba5124d07a3"
+    },
     {
       "sha": "7593203c17",
       "message": "build(deps): Bump rustls to 0.23.46 to clear four RUSTSEC advisories (#7343)",

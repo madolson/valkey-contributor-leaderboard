@@ -1,15 +1,24 @@
 {
   "title": "leslie-bq",
   "login": "leslie-bq",
-  "avatar_url": "https://github.com/leslie-bq.png?size=64",
-  "score": 2,
-  "commit_count": 0,
+  "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
+  "score": 3,
+  "commit_count": 1,
   "review_count": 2,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp"
   ],
-  "commit_list": [],
+  "commit_list": [
+    {
+      "sha": "5185522687",
+      "message": "feat(hash): Implement HGETDEL command (#593)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/593",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5185522687c03b81982ebc85015412693d44f2c1"
+    }
+  ],
   "review_list": [
     {
       "sha": "a9409ec0ff",

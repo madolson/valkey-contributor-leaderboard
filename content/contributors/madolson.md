@@ -2,8 +2,8 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 981,
-  "commit_count": 219,
+  "score": 982,
+  "commit_count": 220,
   "review_count": 762,
   "repos": [
     ".github",
@@ -21,6 +21,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "e1b4ec8455",
+      "message": "Fail the RDB transcode on bytes after the source frame (#4890)",
+      "date": "2026-10-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4890",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e1b4ec84554a0eedb865487a0cc0be3443cfbc63"
+    },
     {
       "sha": "b405ef898c",
       "message": "Skip expired listpack hash fields in ValkeyModule_ScanKey (#4885)",

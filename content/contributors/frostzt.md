@@ -2,13 +2,21 @@
   "title": "frostzt",
   "login": "frostzt",
   "avatar_url": "https://avatars.githubusercontent.com/u/25434993?v=4",
-  "score": 6,
-  "commit_count": 4,
+  "score": 7,
+  "commit_count": 5,
   "review_count": 2,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "d87001320d",
+      "message": "Allow `vset` to track size pre-emptively (#4829)",
+      "date": "2026-10-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4829",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d87001320d7e53d633e823ebb614c091059d6167"
+    },
     {
       "sha": "7b87fee268",
       "message": "Preserve expired but unreaped fields across listpack-to-hashtable conversion (#4704)",

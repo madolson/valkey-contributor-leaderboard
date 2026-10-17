@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 451,
-  "commit_count": 157,
-  "review_count": 294,
+  "score": 453,
+  "commit_count": 158,
+  "review_count": 295,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "eb954a09b6",
+      "message": "feat(java): add DELIFEQ command support (#7339)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7339",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/eb954a09b68a3a45634b6c26573e5dca19ea1130"
+    },
     {
       "sha": "5d54f3744a",
       "message": "feat(php): add HGETDEL command support (#343)",
@@ -1271,6 +1279,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5185522687",
+      "message": "feat(hash): Implement HGETDEL command (#593)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/593",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5185522687c03b81982ebc85015412693d44f2c1"
+    },
     {
       "sha": "a209835b0c",
       "message": "test(php): verify Valkey 9.2 INFO fields, config values and client flags (#354)",

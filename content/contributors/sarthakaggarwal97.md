@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 411,
+  "score": 412,
   "commit_count": 110,
-  "review_count": 301,
+  "review_count": 302,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -900,6 +900,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e1b4ec8455",
+      "message": "Fail the RDB transcode on bytes after the source frame (#4890)",
+      "date": "2026-10-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4890",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e1b4ec84554a0eedb865487a0cc0be3443cfbc63"
+    },
     {
       "sha": "4319738e6a",
       "message": "Reject relative expires that overflow when the base time is added (#4880)",

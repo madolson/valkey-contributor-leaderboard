@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 295,
+  "score": 296,
   "commit_count": 101,
-  "review_count": 194,
+  "review_count": 195,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -823,6 +823,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ce90cf9d29",
+      "message": "ci(node): tag napi prepublish platform packages so prerelease publish works (#7367)",
+      "date": "2026-10-16",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7367",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ce90cf9d2941aa1304f4c4a194126a363aeb7410"
+    },
     {
       "sha": "52c592d7ff",
       "message": "fix(utils): avoid duplicate bind address when --host resolves to loopback (#7285)",
