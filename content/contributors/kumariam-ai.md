@@ -2,13 +2,21 @@
   "title": "kumariam-ai",
   "login": "kumariam-ai",
   "avatar_url": "https://avatars.githubusercontent.com/u/321359226?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey-go"
   ],
   "commit_list": [
+    {
+      "sha": "3ca7cfe221",
+      "message": "feat(valkeycompat): add Wait and WaitAOF command compatibility (#202)",
+      "date": "2026-10-18",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/202",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/3ca7cfe2213c30337fde4c9d4e83d6a6e702ba61"
+    },
     {
       "sha": "471343adf5",
       "message": "valkeycompat: add ReplicaOf command support to adapter, pipeline (#168)",

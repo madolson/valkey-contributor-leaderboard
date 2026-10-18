@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 68,
+  "score": 69,
   "commit_count": 9,
-  "review_count": 59,
+  "review_count": 60,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3ca7cfe221",
+      "message": "feat(valkeycompat): add Wait and WaitAOF command compatibility (#202)",
+      "date": "2026-10-18",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/202",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/3ca7cfe2213c30337fde4c9d4e83d6a6e702ba61"
+    },
     {
       "sha": "48112faa28",
       "message": "Feat/structured acl api (#187)",
