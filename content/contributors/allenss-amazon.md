@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 336,
+  "score": 337,
   "commit_count": 86,
-  "review_count": 250,
+  "review_count": 251,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -703,6 +703,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a57216ed88",
+      "message": "ci: pin OpenSSL 3 so gRPC builds on the new macOS runner image (#1590)",
+      "date": "2026-10-19",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1590",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a57216ed88a61cd85fcd6b38a03d1a86baf83e16"
+    },
     {
       "sha": "78eaedf84d",
       "message": "fix native build on Amazon Linux 2 (#1574)",

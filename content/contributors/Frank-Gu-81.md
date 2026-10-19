@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 50,
+  "score": 51,
   "commit_count": 27,
-  "review_count": 23,
+  "review_count": 24,
   "repos": [
     "valkey-ci-agent",
     "valkey-doc",
@@ -230,6 +230,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a57216ed88",
+      "message": "ci: pin OpenSSL 3 so gRPC builds on the new macOS runner image (#1590)",
+      "date": "2026-10-19",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1590",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a57216ed88a61cd85fcd6b38a03d1a86baf83e16"
+    },
     {
       "sha": "c47ae7b734",
       "message": "Fix Gate non-UTF-8 TAG indexing behavior change behind search.emulate-release (#1536)",

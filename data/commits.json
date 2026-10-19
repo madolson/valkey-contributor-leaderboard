@@ -200238,6 +200238,105 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-go/pull/202"
+    },
+    {
+      "sha": "437fdd9ecfd74dd2c8c0e731d9fb490559cadea6",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "Merge pull request #93 from valkey-io/mkmkme/asan",
+      "date": "2026-10-18T11:57:16Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-10-18T11:56:37Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/93"
+    },
+    {
+      "sha": "fadd4ef8e2ee3ed629a0e501c544db8ef1d00b80",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "reader: fix a memory leak in parsing set members",
+      "date": "2026-10-18T11:25:01Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-10-18T11:56:37Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/93"
+    },
+    {
+      "sha": "cefac6400b9ce49c80e841c011dc13cb27411975",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "Added asan check for local and CI execution",
+      "date": "2026-10-18T11:25:01Z",
+      "repo": "libvalkey-py",
+      "reviewed": [
+        {
+          "login": "bogdanp05",
+          "date": "2026-10-18T11:56:37Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/93"
+    },
+    {
+      "sha": "216ffad45c7937df39966b9e936a25fba0f73780",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Backport eligibility: stop false failures and suggest only when sure (#122)",
+      "date": "2026-10-19T00:13:40Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f00eae4a1f26745ed2578eebd47e93af446b3734",
+      "author_login": "faustbrian",
+      "author_id": 22145591,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22145591?v=4",
+      "message": "fix: stop pipe timers on closed pipes and order their construction (#206)",
+      "date": "2026-10-19T02:10:18Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-10-19T02:10:05Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/206"
+    },
+    {
+      "sha": "a57216ed88a61cd85fcd6b38a03d1a86baf83e16",
+      "author_login": "JasonLi314",
+      "author_id": 47095666,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47095666?v=4",
+      "message": "ci: pin OpenSSL 3 so gRPC builds on the new macOS runner image (#1590)",
+      "date": "2026-10-19T05:53:32Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-10-16T20:38:30Z"
+        },
+        {
+          "login": "chinguyen21",
+          "date": "2026-10-16T21:05:26Z"
+        },
+        {
+          "login": "allenss-amazon",
+          "date": "2026-10-17T07:05:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1590"
     }
   ]
 }

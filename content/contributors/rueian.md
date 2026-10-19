@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 69,
+  "score": 70,
   "commit_count": 9,
-  "review_count": 60,
+  "review_count": 61,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f00eae4a1f",
+      "message": "fix: stop pipe timers on closed pipes and order their construction (#206)",
+      "date": "2026-10-19",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/206",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/f00eae4a1f26745ed2578eebd47e93af446b3734"
+    },
     {
       "sha": "3ca7cfe221",
       "message": "feat(valkeycompat): add Wait and WaitAOF command compatibility (#202)",
