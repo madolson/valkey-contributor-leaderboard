@@ -2,8 +2,8 @@
   "title": "smkher",
   "login": "smkher",
   "avatar_url": "https://avatars.githubusercontent.com/u/3863574?v=4",
-  "score": 7,
-  "commit_count": 6,
+  "score": 8,
+  "commit_count": 7,
   "review_count": 1,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "1519066403",
+      "message": "Drop WRITE flag from pausetest timer commands to shorten test sleeps (#4817)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4817",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1519066403d3cc91095937396b1565bc6c6e2072"
+    },
     {
       "sha": "f4cbd1c5ef",
       "message": "fix: Reject module writes during client pause to prevent crash (#3645)",

@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 132,
+  "score": 136,
   "commit_count": 42,
-  "review_count": 90,
+  "review_count": 94,
   "repos": [
     "valkey",
     "valkey-container",
@@ -352,6 +352,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bce52d39fa",
+      "message": "Return empty result for a negative LIMIT offset in zset range commands (#4637)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4637",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bce52d39fadb0c94da4513c4a1b194f317409851"
+    },
+    {
+      "sha": "f2e5af9f17",
+      "message": "Restore hex float parsing for sorted set scores (#4875)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4875",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f2e5af9f175f92e3715db9b35106804a1f5f98ec"
+    },
+    {
+      "sha": "e8ddf8d0bc",
+      "message": "Fix module zset range steps re-returning the current element on btree keys (#4645)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4645",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e8ddf8d0bcee510e4cbbf6a06b383e6527972b66"
+    },
+    {
+      "sha": "e401d52d72",
+      "message": "Reject bare \"(\" and empty string in zset score ranges (#4054)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4054",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e401d52d7261cbde9cb47a0836d64b27364e062b"
+    },
     {
       "sha": "0704408262",
       "message": "aof: write directly to server.aof_buf in feedAppendOnlyFile (#3496)",

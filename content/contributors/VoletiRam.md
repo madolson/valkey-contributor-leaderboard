@@ -2,9 +2,9 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 61,
+  "score": 62,
   "commit_count": 25,
-  "review_count": 36,
+  "review_count": 37,
   "repos": [
     "valkey",
     "valkey-perf-benchmark",
@@ -214,6 +214,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "584d697f0e",
+      "message": "Drop index schemas in every database on FLUSHALL (#1404)",
+      "date": "2026-10-20",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1404",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/584d697f0e3bca7ce11c0453919f9c190b56bc81"
+    },
     {
       "sha": "3df4bca496",
       "message": "fix flaky index consistency test from unbounded index update count (#1481)",

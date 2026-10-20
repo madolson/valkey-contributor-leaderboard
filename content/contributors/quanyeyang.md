@@ -2,14 +2,22 @@
   "title": "quanyeyang",
   "login": "quanyeyang",
   "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
-  "score": 18,
-  "commit_count": 16,
+  "score": 19,
+  "commit_count": 17,
   "review_count": 2,
   "repos": [
     "libvalkey",
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "f2e5af9f17",
+      "message": "Restore hex float parsing for sorted set scores (#4875)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4875",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f2e5af9f175f92e3715db9b35106804a1f5f98ec"
+    },
     {
       "sha": "2fce936b3f",
       "message": "Skip raw TSC when the kernel clocksource is not tsc (#4707)",

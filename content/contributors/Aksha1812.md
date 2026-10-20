@@ -2,8 +2,8 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 111,
-  "commit_count": 68,
+  "score": 112,
+  "commit_count": 69,
   "review_count": 43,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "584d697f0e",
+      "message": "Drop index schemas in every database on FLUSHALL (#1404)",
+      "date": "2026-10-20",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1404",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/584d697f0e3bca7ce11c0453919f9c190b56bc81"
+    },
     {
       "sha": "20f414ee1e",
       "message": "Accept NOHL and SORTABLE UNF in FT.CREATE, and report sortable/unf in FT.INFO (#1395)",

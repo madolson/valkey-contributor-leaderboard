@@ -2,9 +2,9 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 132,
-  "commit_count": 35,
-  "review_count": 97,
+  "score": 134,
+  "commit_count": 36,
+  "review_count": 98,
   "repos": [
     "libvalkey",
     "libvalkey-py",
@@ -12,6 +12,14 @@
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "a184fd92ad",
+      "message": "Merge pull request #364 from valkey-io/mkmkme/astral",
+      "date": "2026-10-19",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/364",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/a184fd92ad5727ced9fd27c9f08f3d08c25c9463"
+    },
     {
       "sha": "437fdd9ecf",
       "message": "Merge pull request #93 from valkey-io/mkmkme/asan",
@@ -294,6 +302,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8057bf64ea",
+      "message": "fix: only send NOVALUES from hscan when no_values is true",
+      "date": "2026-10-19",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/363",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/8057bf64eacb517f00927385c25ff5daefceef15"
+    },
     {
       "sha": "d56d278481",
       "message": "feat(sentinel): add coordinated flag to failover",

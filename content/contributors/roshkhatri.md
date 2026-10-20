@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 450,
+  "score": 452,
   "commit_count": 163,
-  "review_count": 287,
+  "review_count": 289,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1326,6 +1326,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f870ab590c",
+      "message": "Skip INCREX long double edge-case tests under valgrind (#4955)",
+      "date": "2026-10-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4955",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f870ab590c3d403d145687e5bb9425e7137ef724"
+    },
+    {
+      "sha": "319db007f3",
+      "message": "CI: update FreeBSD daily test image (#4922)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4922",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/319db007f36cb2339f666aac8a4ca07cac128068"
+    },
     {
       "sha": "ce5120736c",
       "message": "deflake ccov: Use _exit() when a child is killed by SIGUSR1 (#4251)",

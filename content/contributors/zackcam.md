@@ -2,8 +2,8 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 87,
-  "commit_count": 52,
+  "score": 88,
+  "commit_count": 53,
   "review_count": 35,
   "repos": [
     "valkey",
@@ -17,6 +17,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "8b362e17c5",
+      "message": "Redacting when hide_user_data_from_log is set for after error reply (#4815)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4815",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8b362e17c508493efe6be7fa254160abf53c4a0f"
+    },
     {
       "sha": "d16ec07f73",
       "message": "Flaky test fixes (#134)",

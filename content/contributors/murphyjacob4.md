@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 149,
-  "commit_count": 47,
-  "review_count": 102,
+  "score": 151,
+  "commit_count": 48,
+  "review_count": 103,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "f870ab590c",
+      "message": "Skip INCREX long double edge-case tests under valgrind (#4955)",
+      "date": "2026-10-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4955",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f870ab590c3d403d145687e5bb9425e7137ef724"
+    },
     {
       "sha": "741b0159f5",
       "message": "Support LBOUND, UBOUND, SATURATE, ENX, and PERSIST options for INCREX (#4679)",
@@ -390,6 +398,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b9e22c2715",
+      "message": "Fix eviction replication and replica DB selection during atomic slot migration (#4920)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4920",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b9e22c27152dcb9e97ed6adc7aabb95434be4686"
+    },
     {
       "sha": "8a56026234",
       "message": "Add AI tooling policy to CONTRIBUTING.md (#4844)",

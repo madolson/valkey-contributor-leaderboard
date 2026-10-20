@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1287,
-  "commit_count": 155,
-  "review_count": 1132,
+  "score": 1295,
+  "commit_count": 156,
+  "review_count": 1139,
   "repos": [
     "libvalkey",
     "valkey",
@@ -20,6 +20,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "0272235263",
+      "message": "Update topics replication (compression, dual-channel, fix much outdated) + cluster-tutorial (#491)",
+      "date": "2026-10-19",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/491",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/027223526380003217c791afdf092838e98b28ac"
+    },
     {
       "sha": "70fbb33aed",
       "message": "Add Rain Valentine as a committer (#4836)",
@@ -1262,6 +1270,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e401d52d72",
+      "message": "Reject bare \"(\" and empty string in zset score ranges (#4054)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4054",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e401d52d7261cbde9cb47a0836d64b27364e062b"
+    },
+    {
+      "sha": "9fdda3152e",
+      "message": "Fix broken link in ValkeyModule_ReplyWithAttribute docs (#4845)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4845",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9fdda3152ec435beb3e96036160a2b3e4cea8932"
+    },
+    {
+      "sha": "1519066403",
+      "message": "Drop WRITE flag from pausetest timer commands to shorten test sleeps (#4817)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4817",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1519066403d3cc91095937396b1565bc6c6e2072"
+    },
+    {
+      "sha": "f8932ae789",
+      "message": "Fix broken Pub/Sub and data-types anchors in command docs (#504)",
+      "date": "2026-10-19",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/504",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/f8932ae78974dc92d27ac71c4359da8a2f812c95"
+    },
+    {
+      "sha": "62583878d7",
+      "message": "Fix broken links in lua-api, persistence, search and FCALL_RO docs (#503)",
+      "date": "2026-10-19",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/503",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/62583878d766f9ecd947dd2fa81014b9add78576"
+    },
+    {
+      "sha": "781545c52f",
+      "message": "Fix broken doc links (#502)",
+      "date": "2026-10-19",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/502",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/781545c52f6220e62fc528d9eab80c27a10b7e0c"
+    },
+    {
+      "sha": "1682c0ac53",
+      "message": "Fix relative topic links in docs pages (#689)",
+      "date": "2026-10-19",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/689",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/1682c0ac53b7700f00cc6b9d4b96eb5695a341a5"
+    },
     {
       "sha": "741b0159f5",
       "message": "Support LBOUND, UBOUND, SATURATE, ENX, and PERSIST options for INCREX (#4679)",

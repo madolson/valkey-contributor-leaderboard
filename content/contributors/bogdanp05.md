@@ -2,9 +2,9 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 68,
+  "score": 69,
   "commit_count": 10,
-  "review_count": 58,
+  "review_count": 59,
   "repos": [
     "libvalkey-py",
     "one-time-for-planet",
@@ -96,6 +96,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a184fd92ad",
+      "message": "Merge pull request #364 from valkey-io/mkmkme/astral",
+      "date": "2026-10-19",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/364",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/a184fd92ad5727ced9fd27c9f08f3d08c25c9463"
+    },
     {
       "sha": "437fdd9ecf",
       "message": "Merge pull request #93 from valkey-io/mkmkme/asan",

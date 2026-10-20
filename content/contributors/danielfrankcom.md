@@ -2,13 +2,39 @@
   "title": "danielfrankcom",
   "login": "danielfrankcom",
   "avatar_url": "https://avatars.githubusercontent.com/u/15225573?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 7,
+  "commit_count": 7,
   "review_count": 0,
   "repos": [
+    "valkey",
+    "valkey-doc",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "9fdda3152e",
+      "message": "Fix broken link in ValkeyModule_ReplyWithAttribute docs (#4845)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4845",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9fdda3152ec435beb3e96036160a2b3e4cea8932"
+    },
+    {
+      "sha": "781545c52f",
+      "message": "Fix broken doc links (#502)",
+      "date": "2026-10-19",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/502",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/781545c52f6220e62fc528d9eab80c27a10b7e0c"
+    },
+    {
+      "sha": "1682c0ac53",
+      "message": "Fix relative topic links in docs pages (#689)",
+      "date": "2026-10-19",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/689",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/1682c0ac53b7700f00cc6b9d4b96eb5695a341a5"
+    },
     {
       "sha": "54c53c0dd2",
       "message": "Fix broken links in blog posts (#697)",

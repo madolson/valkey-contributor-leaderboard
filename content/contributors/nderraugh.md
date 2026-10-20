@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 64,
+  "score": 65,
   "commit_count": 19,
-  "review_count": 45,
+  "review_count": 46,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -167,6 +167,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "13efe3b43f",
+      "message": "docs: client pool, isolated scopes, and abandon detection (#298)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/298",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/13efe3b43f980d80ee13283d31cf2343150289e8"
+    },
     {
       "sha": "79f1185da0",
       "message": "test: replace `Assert.Equivalent` with value-semantic comparisons (#596)",

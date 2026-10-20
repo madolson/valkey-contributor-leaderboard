@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 277,
+  "score": 278,
   "commit_count": 85,
-  "review_count": 192,
+  "review_count": 193,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -696,6 +696,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "68427c3c48",
+      "message": "docs: normalize MDX filenames (#349)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/349",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/68427c3c4864749ab9ab4a659f95846820c35647"
+    },
     {
       "sha": "77bdeb73f2",
       "message": "chore(deps): Bump the patch-updates group across 1 directory with 2 updates (#360)",

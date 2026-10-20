@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 354,
+  "score": 357,
   "commit_count": 83,
-  "review_count": 271,
+  "review_count": 274,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -679,6 +679,70 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "335c9a36b3",
+      "message": "feat(python): add `SISMEMBER` `XX` support (#7371)",
+      "date": "2026-10-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7371",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/335c9a36b33dfe035f25e9e5ee567120eda8a0b5"
+    },
+    {
+      "sha": "667d3da673",
+      "message": "docs: update supported command matrix (#340)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/340",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/667d3da6734b97c3e5c7160f751a9bc93ab79840"
+    },
+    {
+      "sha": "ebd238d0b8",
+      "message": "chore(deps): Bump valkey-glide from `aa6b693` to `0a3bd54` (#373)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/373",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ebd238d0b8fbcbf4c1206c661b95fb85a16a2a25"
+    },
+    {
+      "sha": "6e5a177494",
+      "message": "ci: run on submodule change (#378)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/378",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6e5a1774940661f0aeded189ac6eb4fa9ada6e20"
+    },
+    {
+      "sha": "3a7b1b61e3",
+      "message": "chore(deps): Bump dtolnay/rust-toolchain (#376)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/376",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/3a7b1b61e3a14da9e05923aa55e027a68f0052e2"
+    },
+    {
+      "sha": "13c844187b",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/semgrep.yml (#377)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/377",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/13c844187bc7a989d44329e13bd2b05b55eb0fa4"
+    },
+    {
+      "sha": "0ddb0566f8",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/git-secrets-scan.yml (#375)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/375",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/0ddb0566f805caf8bb479af50a6d187f9bc31e88"
+    },
+    {
+      "sha": "99175de100",
+      "message": "chore(deps): Bump ruby/setup-ruby (#374)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/374",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/99175de1005b52bde608ce06fb3cb05d6594d079"
+    },
     {
       "sha": "eb954a09b6",
       "message": "feat(java): add DELIFEQ command support (#7339)",

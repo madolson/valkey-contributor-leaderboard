@@ -2,14 +2,22 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 15,
-  "commit_count": 15,
-  "review_count": 0,
+  "score": 20,
+  "commit_count": 16,
+  "review_count": 4,
   "repos": [
     "valkey",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "2a23bcda07",
+      "message": "Derive the ZRANGEBYLEX LIMIT offset test value from arch_bits (#4948)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4948",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2a23bcda07f141235f0310d9b20c42f17db90b46"
+    },
     {
       "sha": "b5028fa72f",
       "message": "Skipping INCREX overflow tests on valgrind (#4914)",
@@ -131,5 +139,38 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/205fde3d3dab11eda18acdd42f3219af2ecb759c"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "f870ab590c",
+      "message": "Skip INCREX long double edge-case tests under valgrind (#4955)",
+      "date": "2026-10-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4955",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f870ab590c3d403d145687e5bb9425e7137ef724"
+    },
+    {
+      "sha": "8b362e17c5",
+      "message": "Redacting when hide_user_data_from_log is set for after error reply (#4815)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4815",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8b362e17c508493efe6be7fa254160abf53c4a0f"
+    },
+    {
+      "sha": "bce52d39fa",
+      "message": "Return empty result for a negative LIMIT offset in zset range commands (#4637)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4637",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bce52d39fadb0c94da4513c4a1b194f317409851"
+    },
+    {
+      "sha": "f2e5af9f17",
+      "message": "Restore hex float parsing for sorted set scores (#4875)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4875",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f2e5af9f175f92e3715db9b35106804a1f5f98ec"
+    }
+  ]
 }

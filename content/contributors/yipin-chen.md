@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 870,
+  "score": 872,
   "commit_count": 45,
-  "review_count": 825,
+  "review_count": 827,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "77675d8690",
+      "message": "chore(deps): bump the patch-updates group with 2 updates (#599)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/599",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/77675d86906e59bfcc93d4c87c0a23c001f195a0"
+    },
+    {
+      "sha": "19a0eb45de",
+      "message": "feat(hash): add single-field batch hash overloads and align `HGETDEL` with StackExchange.Redis (#598)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/598",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/19a0eb45def29615ebe7985815171cff681d28e8"
+    },
+    {
+      "sha": "2522a47f76",
+      "message": "chore(deps): bump valkey-glide from `7593203` to `b2cb2bc` (#602)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/602",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2522a47f7652af6efc76aaabe812db52cc4002c8"
+    },
+    {
+      "sha": "d7c5263998",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.2.0 to 10.3.0 in the minor-updates group (#601)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/601",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d7c52639987557d9ba42b9fa8029f2e1b87db1b9"
+    },
+    {
+      "sha": "2dd6ecfbc0",
+      "message": "chore(deps): bump the patch-updates group with 5 updates (#600)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/600",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2dd6ecfbc0ac199a6da350e2b3894f9df31a75ee"
+    },
+    {
+      "sha": "68427c3c48",
+      "message": "docs: normalize MDX filenames (#349)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/349",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/68427c3c4864749ab9ab4a659f95846820c35647"
+    },
     {
       "sha": "85915bbc5b",
       "message": "ci(node): move npm-cd matrix comment out of the jq string to fix shell parse (#7360)",

@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 320,
+  "score": 322,
   "commit_count": 96,
-  "review_count": 224,
+  "review_count": 226,
   "repos": [
     "valkey",
     "valkey-container",
@@ -787,6 +787,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fbb5ab63bb",
+      "message": "Copy expired-but-unreaped fields in hashTypeDup (#4939)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4939",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fbb5ab63bba3024bae8b435003acfae0df118fc8"
+    },
+    {
+      "sha": "7f72724dc2",
+      "message": "Fix untracked expired hash fields after listpack-to-hashtable conversion (#4894)",
+      "date": "2026-10-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4894",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7f72724dc2c9acabb7916e4909af0ad7afcee83a"
+    },
     {
       "sha": "741b0159f5",
       "message": "Support LBOUND, UBOUND, SATURATE, ENX, and PERSIST options for INCREX (#4679)",

@@ -2,9 +2,9 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 175,
+  "score": 176,
   "commit_count": 136,
-  "review_count": 39,
+  "review_count": 40,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -1103,6 +1103,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8b9bfad1a8",
+      "message": "Add typed LATENCY LATEST events (#405)",
+      "date": "2026-10-19",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/405",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/8b9bfad1a8ff22bab0065c31e4df4ac101525134"
+    },
     {
       "sha": "4091ed1c4b",
       "message": "Mark passwords as secret in config reader (#403)",

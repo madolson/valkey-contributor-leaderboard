@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 351,
-  "commit_count": 212,
-  "review_count": 139,
+  "score": 357,
+  "commit_count": 214,
+  "review_count": 143,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -15,6 +15,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "335c9a36b3",
+      "message": "feat(python): add `SISMEMBER` `XX` support (#7371)",
+      "date": "2026-10-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7371",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/335c9a36b33dfe035f25e9e5ee567120eda8a0b5"
+    },
+    {
+      "sha": "19a0eb45de",
+      "message": "feat(hash): add single-field batch hash overloads and align `HGETDEL` with StackExchange.Redis (#598)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/598",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/19a0eb45def29615ebe7985815171cff681d28e8"
+    },
     {
       "sha": "79f1185da0",
       "message": "test: replace `Assert.Equivalent` with value-semantic comparisons (#596)",
@@ -1713,6 +1729,70 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "77675d8690",
+      "message": "chore(deps): bump the patch-updates group with 2 updates (#599)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/599",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/77675d86906e59bfcc93d4c87c0a23c001f195a0"
+    },
+    {
+      "sha": "2522a47f76",
+      "message": "chore(deps): bump valkey-glide from `7593203` to `b2cb2bc` (#602)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/602",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2522a47f7652af6efc76aaabe812db52cc4002c8"
+    },
+    {
+      "sha": "d7c5263998",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.2.0 to 10.3.0 in the minor-updates group (#601)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/601",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d7c52639987557d9ba42b9fa8029f2e1b87db1b9"
+    },
+    {
+      "sha": "2dd6ecfbc0",
+      "message": "chore(deps): bump the patch-updates group with 5 updates (#600)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/600",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2dd6ecfbc0ac199a6da350e2b3894f9df31a75ee"
+    },
+    {
+      "sha": "667d3da673",
+      "message": "docs: update supported command matrix (#340)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/340",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/667d3da6734b97c3e5c7160f751a9bc93ab79840"
+    },
+    {
+      "sha": "68427c3c48",
+      "message": "docs: normalize MDX filenames (#349)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/349",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/68427c3c4864749ab9ab4a659f95846820c35647"
+    },
+    {
+      "sha": "6e5a177494",
+      "message": "ci: run on submodule change (#378)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/378",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6e5a1774940661f0aeded189ac6eb4fa9ada6e20"
+    },
+    {
+      "sha": "6e5a177494",
+      "message": "ci: run on submodule change (#378)",
+      "date": "2026-10-19",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/378",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6e5a1774940661f0aeded189ac6eb4fa9ada6e20"
+    },
     {
       "sha": "eb954a09b6",
       "message": "feat(java): add DELIFEQ command support (#7339)",
