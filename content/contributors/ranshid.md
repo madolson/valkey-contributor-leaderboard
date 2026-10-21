@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 322,
+  "score": 323,
   "commit_count": 96,
-  "review_count": 226,
+  "review_count": 227,
   "repos": [
     "valkey",
     "valkey-container",
@@ -787,6 +787,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1074b3cada",
+      "message": "PERF: remove redundant checks in HINCRBYFLOAT command (#4690)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4690",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1074b3cada6d5509daeaaa9db27a43308207250a"
+    },
     {
       "sha": "fbb5ab63bb",
       "message": "Copy expired-but-unreaped fields in hashTypeDup (#4939)",

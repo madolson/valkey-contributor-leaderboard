@@ -2,13 +2,21 @@
   "title": "kvcache",
   "login": "kvcache",
   "avatar_url": "https://avatars.githubusercontent.com/u/86278669?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-large-object"
   ],
   "commit_list": [
+    {
+      "sha": "a0c58a24d4",
+      "message": "update dma-libfabric for old rdma-core (#148)",
+      "date": "2026-10-20",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/148",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/a0c58a24d469ed68a1b53f547b1b799551aa12b9"
+    },
     {
       "sha": "d4765e12d0",
       "message": "note syntax resolution (#86)",

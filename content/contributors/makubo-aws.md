@@ -2,9 +2,9 @@
   "title": "makubo-aws",
   "login": "makubo-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/203714000?v=4",
-  "score": 10,
+  "score": 11,
   "commit_count": 4,
-  "review_count": 6,
+  "review_count": 7,
   "repos": [
     "valkey-doc",
     "valkey-io.github.io"
@@ -44,6 +44,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "66454a7e48",
+      "message": "Add blog post: KV caching on Valkey (#642)",
+      "date": "2026-10-20",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/642",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/66454a7e483c492acf12360719e041cfc533e399"
+    },
     {
       "sha": "c835e10d87",
       "message": "feat: Add Vultr as participant (#596)",

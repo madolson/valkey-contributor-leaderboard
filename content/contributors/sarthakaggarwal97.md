@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 417,
-  "commit_count": 111,
-  "review_count": 306,
+  "score": 421,
+  "commit_count": 113,
+  "review_count": 308,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -18,6 +18,22 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "7db2df1f79",
+      "message": "CI: avoid installing LTTng kernel modules in UST job (#4967)",
+      "date": "2026-10-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4967",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7db2df1f79f45e2fb0f0d4e16514f2010b8c15b9"
+    },
+    {
+      "sha": "81768911ca",
+      "message": "Make SBOM tests resilient to Public ECR limits (#170)",
+      "date": "2026-10-20",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/170",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/81768911ca238336bfe37fedf04dc9c8e000a385"
+    },
     {
       "sha": "319db007f3",
       "message": "CI: update FreeBSD daily test image (#4922)",
@@ -915,6 +931,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4955",
       "commit_url": "https://github.com/valkey-io/valkey/commit/f870ab590c3d403d145687e5bb9425e7137ef724"
+    },
+    {
+      "sha": "16d3c5d24f",
+      "message": "Fix Valgrind fork-child IO thread buffer report (#4915)",
+      "date": "2026-10-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4915",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/16d3c5d24f9cc0782225d02610c067486defb926"
+    },
+    {
+      "sha": "3268ffe1f1",
+      "message": "Publish release candidates under X.Y-rc instead of X.Y (#169)",
+      "date": "2026-10-20",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/169",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/3268ffe1f18916257c174d9b95dca00b5e81dcac"
     },
     {
       "sha": "2a23bcda07",

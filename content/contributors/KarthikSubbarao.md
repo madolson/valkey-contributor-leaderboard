@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 306,
-  "commit_count": 115,
-  "review_count": 191,
+  "score": 311,
+  "commit_count": 117,
+  "review_count": 194,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -18,6 +18,22 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "23b6e314a7",
+      "message": "Report RDMA-registered segments per pool in INFO (#141)",
+      "date": "2026-10-20",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/141",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/23b6e314a72625e1512e25fc59ff7465d7d68e18"
+    },
+    {
+      "sha": "76670cfe2a",
+      "message": "do not count module fds in client range (#127)",
+      "date": "2026-10-20",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/127",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/76670cfe2a0824e93a99599bbd183e0c0200729a"
+    },
     {
       "sha": "258c407eb0",
       "message": "Shrinking DRAM Mode + Reclaim List Global + Reclaim cron (#111)",
@@ -940,6 +956,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9493cfb780",
+      "message": "Remove unnecessary copy for TCP set on DRAM mode (#143)",
+      "date": "2026-10-20",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/143",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/9493cfb7804155234c18d112638298d6df220161"
+    },
+    {
+      "sha": "a0c58a24d4",
+      "message": "update dma-libfabric for old rdma-core (#148)",
+      "date": "2026-10-20",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/148",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/a0c58a24d469ed68a1b53f547b1b799551aa12b9"
+    },
+    {
+      "sha": "723149b56a",
+      "message": "Locking improvements, switch from mutex to RWLock (#126)",
+      "date": "2026-10-20",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/126",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/723149b56a3a244394f1ca79d322d4e9c9dd66f4"
+    },
     {
       "sha": "7288b44097",
       "message": "add optional crc arg for BLOB.RDMA_SET (#131)",

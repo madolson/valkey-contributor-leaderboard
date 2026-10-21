@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 65,
-  "commit_count": 19,
-  "review_count": 46,
+  "score": 67,
+  "commit_count": 20,
+  "review_count": 47,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "7eb87db289",
+      "message": "build(deps): Bump rustls-webpki and webpki-root-certs for emSign distrust (RUSTSEC-2026-0382/0383) (#7403)",
+      "date": "2026-10-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7403",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7eb87db2899f70dae53b0add67c7cd9d26921a16"
+    },
     {
       "sha": "d4144f6ff4",
       "message": "ci(python): Pin cibuildwheel below 4.3 in pypi-cd (#7354)",
@@ -167,6 +175,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4957a33091",
+      "message": "feat(rust): implement `ToSingleValkeyArg` and `ToValkeyArgs` consistently (#7387)",
+      "date": "2026-10-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7387",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4957a33091ef3098f7355770c9a9628bec040118"
+    },
     {
       "sha": "13efe3b43f",
       "message": "docs: client pool, isolated scopes, and abandon detection (#298)",

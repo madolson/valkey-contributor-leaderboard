@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 357,
-  "commit_count": 214,
-  "review_count": 143,
+  "score": 360,
+  "commit_count": 216,
+  "review_count": 144,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -22,6 +22,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7371",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/335c9a36b33dfe035f25e9e5ee567120eda8a0b5"
+    },
+    {
+      "sha": "4957a33091",
+      "message": "feat(rust): implement `ToSingleValkeyArg` and `ToValkeyArgs` consistently (#7387)",
+      "date": "2026-10-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7387",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4957a33091ef3098f7355770c9a9628bec040118"
+    },
+    {
+      "sha": "a8fcb987ba",
+      "message": "feat: add `cluster_info` INFO section and test Valkey 9.2 INFO fields (#7364)",
+      "date": "2026-10-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7364",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a8fcb987baf61f206e1954e6ec98f78632780c9a"
     },
     {
       "sha": "19a0eb45de",
@@ -1729,6 +1745,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7eb87db289",
+      "message": "build(deps): Bump rustls-webpki and webpki-root-certs for emSign distrust (RUSTSEC-2026-0382/0383) (#7403)",
+      "date": "2026-10-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7403",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7eb87db2899f70dae53b0add67c7cd9d26921a16"
+    },
     {
       "sha": "77675d8690",
       "message": "chore(deps): bump the patch-updates group with 2 updates (#599)",

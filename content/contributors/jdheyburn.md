@@ -2,8 +2,8 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 165,
-  "commit_count": 56,
+  "score": 167,
+  "commit_count": 58,
   "review_count": 109,
   "repos": [
     "valkey",
@@ -11,6 +11,22 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "ed0f12c39e",
+      "message": "feat: take Valkey clients from the pool (#469)",
+      "date": "2026-10-20",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/469",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/ed0f12c39ea96910fa5e9d1e26ee33bbf931d66f"
+    },
+    {
+      "sha": "85b431c63b",
+      "message": "ci: require the current year in new files' copyright header (#505)",
+      "date": "2026-10-20",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/505",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/85b431c63b4d65894100bdf2c90b28b2a90187ee"
+    },
     {
       "sha": "6ca5d4780c",
       "message": "feat: add a pool of long-lived Valkey clients (#470)",

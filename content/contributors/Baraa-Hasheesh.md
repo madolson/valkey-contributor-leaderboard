@@ -2,14 +2,23 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 20,
-  "commit_count": 16,
-  "review_count": 4,
+  "score": 23,
+  "commit_count": 17,
+  "review_count": 6,
   "repos": [
     "valkey",
+    "valkey-container",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "1074b3cada",
+      "message": "PERF: remove redundant checks in HINCRBYFLOAT command (#4690)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4690",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1074b3cada6d5509daeaaa9db27a43308207250a"
+    },
     {
       "sha": "2a23bcda07",
       "message": "Derive the ZRANGEBYLEX LIMIT offset test value from arch_bits (#4948)",
@@ -147,6 +156,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4955",
       "commit_url": "https://github.com/valkey-io/valkey/commit/f870ab590c3d403d145687e5bb9425e7137ef724"
+    },
+    {
+      "sha": "16d3c5d24f",
+      "message": "Fix Valgrind fork-child IO thread buffer report (#4915)",
+      "date": "2026-10-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4915",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/16d3c5d24f9cc0782225d02610c067486defb926"
+    },
+    {
+      "sha": "3268ffe1f1",
+      "message": "Publish release candidates under X.Y-rc instead of X.Y (#169)",
+      "date": "2026-10-20",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/169",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/3268ffe1f18916257c174d9b95dca00b5e81dcac"
     },
     {
       "sha": "8b362e17c5",

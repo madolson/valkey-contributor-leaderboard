@@ -2,9 +2,9 @@
   "title": "neerajr0",
   "login": "neerajr0",
   "avatar_url": "https://avatars.githubusercontent.com/u/55604693?v=4",
-  "score": 26,
+  "score": 27,
   "commit_count": 11,
-  "review_count": 15,
+  "review_count": 16,
   "repos": [
     "valkey-large-object",
     "valkey-search"
@@ -100,6 +100,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "76670cfe2a",
+      "message": "do not count module fds in client range (#127)",
+      "date": "2026-10-20",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/127",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/76670cfe2a0824e93a99599bbd183e0c0200729a"
+    },
     {
       "sha": "d16ec07f73",
       "message": "Flaky test fixes (#134)",

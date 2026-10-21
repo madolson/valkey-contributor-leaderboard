@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 357,
+  "score": 358,
   "commit_count": 83,
-  "review_count": 274,
+  "review_count": 275,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -686,6 +686,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7371",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/335c9a36b33dfe035f25e9e5ee567120eda8a0b5"
+    },
+    {
+      "sha": "a8fcb987ba",
+      "message": "feat: add `cluster_info` INFO section and test Valkey 9.2 INFO fields (#7364)",
+      "date": "2026-10-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7364",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a8fcb987baf61f206e1954e6ec98f78632780c9a"
     },
     {
       "sha": "667d3da673",

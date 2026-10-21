@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 982,
+  "score": 984,
   "commit_count": 220,
-  "review_count": 762,
+  "review_count": 764,
   "repos": [
     ".github",
     "valkey",
@@ -1783,6 +1783,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1074b3cada",
+      "message": "PERF: remove redundant checks in HINCRBYFLOAT command (#4690)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4690",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1074b3cada6d5509daeaaa9db27a43308207250a"
+    },
+    {
+      "sha": "a95bf25cac",
+      "message": "Add deletable to wordlist (#505)",
+      "date": "2026-10-21",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/505",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/a95bf25cac3c22ffcabb45baaa4bf2eb86040d26"
+    },
     {
       "sha": "4d5fdeb0cf",
       "message": "Fix sds overflow assert on RESTORE payload with an overflowing string length (#4733)",

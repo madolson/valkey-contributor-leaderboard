@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 70,
+  "score": 71,
   "commit_count": 9,
-  "review_count": 61,
+  "review_count": 62,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1567f73fd2",
+      "message": "Do not let distinct commands share one client-side cache entry (#210)",
+      "date": "2026-10-21",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/210",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/1567f73fd2545624f4b842df904aaeaa40b349d7"
+    },
     {
       "sha": "f00eae4a1f",
       "message": "fix: stop pipe timers on closed pipes and order their construction (#206)",

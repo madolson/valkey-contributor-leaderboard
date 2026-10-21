@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 136,
+  "score": 137,
   "commit_count": 42,
-  "review_count": 94,
+  "review_count": 95,
   "repos": [
     "valkey",
     "valkey-container",
@@ -352,6 +352,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7db2df1f79",
+      "message": "CI: avoid installing LTTng kernel modules in UST job (#4967)",
+      "date": "2026-10-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4967",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7db2df1f79f45e2fb0f0d4e16514f2010b8c15b9"
+    },
     {
       "sha": "bce52d39fa",
       "message": "Return empty result for a negative LIMIT offset in zset range commands (#4637)",

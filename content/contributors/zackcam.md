@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 88,
-  "commit_count": 53,
-  "review_count": 35,
+  "score": 91,
+  "commit_count": 55,
+  "review_count": 36,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -17,6 +17,22 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "9493cfb780",
+      "message": "Remove unnecessary copy for TCP set on DRAM mode (#143)",
+      "date": "2026-10-20",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/143",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/9493cfb7804155234c18d112638298d6df220161"
+    },
+    {
+      "sha": "723149b56a",
+      "message": "Locking improvements, switch from mutex to RWLock (#126)",
+      "date": "2026-10-20",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/126",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/723149b56a3a244394f1ca79d322d4e9c9dd66f4"
+    },
     {
       "sha": "8b362e17c5",
       "message": "Redacting when hide_user_data_from_log is set for after error reply (#4815)",
@@ -443,6 +459,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "23b6e314a7",
+      "message": "Report RDMA-registered segments per pool in INFO (#141)",
+      "date": "2026-10-20",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/141",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/23b6e314a72625e1512e25fc59ff7465d7d68e18"
+    },
     {
       "sha": "5963a41bfb",
       "message": "Add INFO fields for module monitoring (#110)",

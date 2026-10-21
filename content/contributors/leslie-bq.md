@@ -2,14 +2,23 @@
   "title": "leslie-bq",
   "login": "leslie-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
-  "score": 3,
-  "commit_count": 1,
+  "score": 4,
+  "commit_count": 2,
   "review_count": 2,
   "repos": [
     "valkey-glide",
-    "valkey-glide-csharp"
+    "valkey-glide-csharp",
+    "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "a6f2ab24be",
+      "message": "test(php): Improve stability of PubSub tests, add 5-time default retry for apt-get, pin Pluggy and Scancode version (#372)",
+      "date": "2026-10-20",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/372",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/a6f2ab24be706748c705e9296280d69ddf863b6f"
+    },
     {
       "sha": "5185522687",
       "message": "feat(hash): Implement HGETDEL command (#593)",

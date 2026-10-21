@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 872,
+  "score": 875,
   "commit_count": 45,
-  "review_count": 827,
+  "review_count": 830,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7eb87db289",
+      "message": "build(deps): Bump rustls-webpki and webpki-root-certs for emSign distrust (RUSTSEC-2026-0382/0383) (#7403)",
+      "date": "2026-10-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7403",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7eb87db2899f70dae53b0add67c7cd9d26921a16"
+    },
+    {
+      "sha": "a8fcb987ba",
+      "message": "feat: add `cluster_info` INFO section and test Valkey 9.2 INFO fields (#7364)",
+      "date": "2026-10-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7364",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a8fcb987baf61f206e1954e6ec98f78632780c9a"
+    },
+    {
+      "sha": "6f5dddd6e9",
+      "message": "docs(php): document node discovery and mTLS (#334)",
+      "date": "2026-10-20",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/334",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/6f5dddd6e9e8137e1d41af242c524f10b47424e6"
+    },
     {
       "sha": "77675d8690",
       "message": "chore(deps): bump the patch-updates group with 2 updates (#599)",

@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1295,
+  "score": 1296,
   "commit_count": 156,
-  "review_count": 1139,
+  "review_count": 1140,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1270,6 +1270,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bc5aae2479",
+      "message": "Cache earliest timer for O(1) usUntilEarliestTimer lookup (#4354)",
+      "date": "2026-10-20",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4354",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bc5aae2479fdb138dfc0e86b1bbdda02927f16c7"
+    },
     {
       "sha": "e401d52d72",
       "message": "Reject bare \"(\" and empty string in zset score ranges (#4054)",

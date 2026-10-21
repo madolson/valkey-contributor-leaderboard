@@ -2,8 +2,8 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 15,
-  "commit_count": 12,
+  "score": 16,
+  "commit_count": 13,
   "review_count": 3,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "a95bf25cac",
+      "message": "Add deletable to wordlist (#505)",
+      "date": "2026-10-21",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/505",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/a95bf25cac3c22ffcabb45baaa4bf2eb86040d26"
+    },
     {
       "sha": "7828d3fea5",
       "message": "Add blog post: Monitoring Valkey with Prometheus (#627)",

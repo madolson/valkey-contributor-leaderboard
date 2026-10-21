@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 278,
+  "score": 280,
   "commit_count": 85,
-  "review_count": 193,
+  "review_count": 195,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -696,6 +696,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4957a33091",
+      "message": "feat(rust): implement `ToSingleValkeyArg` and `ToValkeyArgs` consistently (#7387)",
+      "date": "2026-10-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7387",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4957a33091ef3098f7355770c9a9628bec040118"
+    },
+    {
+      "sha": "a6f2ab24be",
+      "message": "test(php): Improve stability of PubSub tests, add 5-time default retry for apt-get, pin Pluggy and Scancode version (#372)",
+      "date": "2026-10-20",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/372",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/a6f2ab24be706748c705e9296280d69ddf863b6f"
+    },
     {
       "sha": "68427c3c48",
       "message": "docs: normalize MDX filenames (#349)",

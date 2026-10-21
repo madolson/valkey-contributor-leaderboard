@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 319,
-  "commit_count": 119,
+  "score": 320,
+  "commit_count": 120,
   "review_count": 200,
   "repos": [
     "spring-data-valkey",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "6f5dddd6e9",
+      "message": "docs(php): document node discovery and mTLS (#334)",
+      "date": "2026-10-20",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/334",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/6f5dddd6e9e8137e1d41af242c524f10b47424e6"
+    },
     {
       "sha": "667d3da673",
       "message": "docs: update supported command matrix (#340)",
