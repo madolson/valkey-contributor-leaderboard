@@ -2,9 +2,9 @@
   "title": "charsyam",
   "login": "charsyam",
   "avatar_url": "https://avatars.githubusercontent.com/u/439301?v=4",
-  "score": 12,
+  "score": 13,
   "commit_count": 12,
-  "review_count": 0,
+  "review_count": 1,
   "repos": [
     "valkey"
   ],
@@ -106,5 +106,14 @@
       "commit_url": "https://github.com/valkey-io/valkey/commit/b5e012a1083cbfda3ab27c6df3fc8d82534d6a80"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "7c7436bfc9",
+      "message": "Deflake Dual-channel load converges after primary repl-compression test (#4966)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4966",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7c7436bfc909bd5cf2b3f52c8b4fb3e028265171"
+    }
+  ]
 }

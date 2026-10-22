@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 67,
-  "commit_count": 20,
-  "review_count": 47,
+  "score": 69,
+  "commit_count": 21,
+  "review_count": 48,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "1f833bf90e",
+      "message": "ci(python): Make the Rust build cache hit and pass --locked to cargo (#7341)",
+      "date": "2026-10-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7341",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1f833bf90e4516874ff82db3ffaecb3f81640f96"
+    },
     {
       "sha": "7eb87db289",
       "message": "build(deps): Bump rustls-webpki and webpki-root-certs for emSign distrust (RUSTSEC-2026-0382/0383) (#7403)",
@@ -175,6 +183,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "38f0093c64",
+      "message": "feat(rdma): add glide-rdma crate for later RDMA support (#7177)",
+      "date": "2026-10-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7177",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/38f0093c6484bfe14b06bf68f83d587633de542c"
+    },
     {
       "sha": "4957a33091",
       "message": "feat(rust): implement `ToSingleValkeyArg` and `ToValkeyArgs` consistently (#7387)",

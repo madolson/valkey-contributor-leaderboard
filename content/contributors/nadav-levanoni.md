@@ -2,15 +2,23 @@
   "title": "nadav-levanoni",
   "login": "nadav-levanoni",
   "avatar_url": "https://avatars.githubusercontent.com/u/38641521?v=4",
-  "score": 8,
-  "commit_count": 5,
-  "review_count": 3,
+  "score": 10,
+  "commit_count": 6,
+  "review_count": 4,
   "repos": [
     "valkey",
     "valkey-large-object",
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "28f53ae0cb",
+      "message": "Move disk fields into one largeobj_disk INFO section (#142)",
+      "date": "2026-10-21",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/142",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/28f53ae0cbc8a239d460e7c85a4b1b49542c9780"
+    },
     {
       "sha": "5963a41bfb",
       "message": "Add INFO fields for module monitoring (#110)",
@@ -53,6 +61,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0bc30140fc",
+      "message": "feat(eviction): evict by maxmemory-policy from LRU eviction candidates in both modes (#128)",
+      "date": "2026-10-21",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/128",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/0bc30140fc29a89b044287d6ff843f49cbc01efc"
+    },
     {
       "sha": "258c407eb0",
       "message": "Shrinking DRAM Mode + Reclaim List Global + Reclaim cron (#111)",

@@ -2,9 +2,9 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 87,
+  "score": 88,
   "commit_count": 52,
-  "review_count": 35,
+  "review_count": 36,
   "repos": [
     "valkey-search"
   ],
@@ -427,6 +427,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8360dc56ec",
+      "message": "Filtering/scoring caching and main thread locking improvements (#1472)",
+      "date": "2026-10-21",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1472",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8360dc56eceb0bd3ba5f49ff3199ec58466b1b02"
+    },
     {
       "sha": "53ed364990",
       "message": "Apply debug-mode before other module args (#1562)",

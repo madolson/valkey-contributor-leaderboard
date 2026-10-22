@@ -2,8 +2,8 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 280,
-  "commit_count": 85,
+  "score": 281,
+  "commit_count": 86,
   "review_count": 195,
   "repos": [
     "spring-data-valkey",
@@ -14,6 +14,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "25ea388b81",
+      "message": "docs(php): fix AGENTS.md build/test commands and stale template text (#370)",
+      "date": "2026-10-21",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/370",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/25ea388b81404554804cf4783ad10443ef3c579f"
+    },
     {
       "sha": "ce90cf9d29",
       "message": "ci(node): tag napi prepublish platform packages so prerelease publish works (#7367)",

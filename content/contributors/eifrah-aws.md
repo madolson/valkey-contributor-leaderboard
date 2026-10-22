@@ -2,9 +2,9 @@
   "title": "eifrah-aws",
   "login": "eifrah-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/170855270?v=4",
-  "score": 219,
+  "score": 220,
   "commit_count": 95,
-  "review_count": 124,
+  "review_count": 125,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -777,6 +777,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e283addef5",
+      "message": "Hold no descriptor on nodes.conf when rename() publishes it (#4489)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4489",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e283addef552ce5f2a80931c6aab588aeb7aa2bb"
+    },
     {
       "sha": "cf5efa7019",
       "message": "make getMonotonicUs static in libvalkeylua (#4270)",

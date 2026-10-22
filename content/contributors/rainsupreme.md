@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 137,
+  "score": 151,
   "commit_count": 42,
-  "review_count": 95,
+  "review_count": 109,
   "repos": [
     "valkey",
     "valkey-container",
@@ -352,6 +352,118 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a4e5b695ad",
+      "message": "chore: update stale skiplist comments to the ordered index(#4911)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4911",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a4e5b695adaafbe65a61697bb23e9848e92f74c1"
+    },
+    {
+      "sha": "e283addef5",
+      "message": "Hold no descriptor on nodes.conf when rename() publishes it (#4489)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4489",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e283addef552ce5f2a80931c6aab588aeb7aa2bb"
+    },
+    {
+      "sha": "5f38f9e897",
+      "message": "Spelling 4 (#2241)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2241",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5f38f9e89716933a0e5997582bc90989c82a8f81"
+    },
+    {
+      "sha": "5f38f9e897",
+      "message": "Spelling 4 (#2241)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2241",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5f38f9e89716933a0e5997582bc90989c82a8f81"
+    },
+    {
+      "sha": "9a029ba836",
+      "message": "Fix typos in comments and rename TimedOut/Sparkline functions and tests (#2252)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2252",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9a029ba836353fd38ce337f83c4383f7fefaf367"
+    },
+    {
+      "sha": "9a029ba836",
+      "message": "Fix typos in comments and rename TimedOut/Sparkline functions and tests (#2252)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2252",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9a029ba836353fd38ce337f83c4383f7fefaf367"
+    },
+    {
+      "sha": "6b8dfd83c6",
+      "message": "spelling: cannot (#2242)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2242",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6b8dfd83c6917399b619f5ff5362414ed25ca45a"
+    },
+    {
+      "sha": "8b73b97349",
+      "message": "Fix false sharing in per-thread memory usage counters (#4107)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4107",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8b73b9734965c6c6622cbf8c69f4859831e22a8a"
+    },
+    {
+      "sha": "8b73b97349",
+      "message": "Fix false sharing in per-thread memory usage counters (#4107)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4107",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8b73b9734965c6c6622cbf8c69f4859831e22a8a"
+    },
+    {
+      "sha": "9d21c19f69",
+      "message": "[Test] Add automatic per-test cleanup to the Tcl test framework (#4871)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4871",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9d21c19f69ce72752391138d601887874509e5c7"
+    },
+    {
+      "sha": "bc7ceb79a2",
+      "message": "Fix grammatical typo \"This functions\" in code comments (#3728)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3728",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bc7ceb79a28c4a5188069115164b42c48074e9a9"
+    },
+    {
+      "sha": "c1ed73bfc0",
+      "message": "Fix typos in comments and rename VALKEY_SANITAIZER_* CMake variables (#2250)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2250",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c1ed73bfc03f0788cb7fb3b2e32993d183289691"
+    },
+    {
+      "sha": "4a698691cf",
+      "message": "spelling: ; otherwise, (#2238)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2238",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4a698691cf574f9875362fb520c6cc70b238d1e1"
+    },
+    {
+      "sha": "45ec67c307",
+      "message": "Fix HSETEX and HGETEX when the key is named \"fields\" (#4945)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4945",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/45ec67c3074562de0d6d0be56b44e6ef1a72f819"
+    },
     {
       "sha": "7db2df1f79",
       "message": "CI: avoid installing LTTng kernel modules in UST job (#4967)",

@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1296,
+  "score": 1298,
   "commit_count": 156,
-  "review_count": 1140,
+  "review_count": 1142,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1270,6 +1270,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b936001714",
+      "message": "CLI hints: Fix unbalanced ']' in bitops (BITFIELD_RO) command (#3974)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3974",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b93600171448df9481e4a4a6aba7bdce3219d9f8"
+    },
+    {
+      "sha": "b6ecb9baa2",
+      "message": "Migrate zola 0.23 (#668)",
+      "date": "2026-10-21",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/668",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/b6ecb9baa23f0321df005696c607968d0f030950"
+    },
     {
       "sha": "bc5aae2479",
       "message": "Cache earliest timer for O(1) usUntilEarliestTimer lookup (#4354)",

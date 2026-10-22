@@ -2,8 +2,8 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 311,
-  "commit_count": 117,
+  "score": 312,
+  "commit_count": 118,
   "review_count": 194,
   "repos": [
     "valkey",
@@ -18,6 +18,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "0bc30140fc",
+      "message": "feat(eviction): evict by maxmemory-policy from LRU eviction candidates in both modes (#128)",
+      "date": "2026-10-21",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/128",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/0bc30140fc29a89b044287d6ff843f49cbc01efc"
+    },
     {
       "sha": "23b6e314a7",
       "message": "Report RDMA-registered segments per pool in INFO (#141)",

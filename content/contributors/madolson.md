@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 984,
+  "score": 985,
   "commit_count": 220,
-  "review_count": 764,
+  "review_count": 765,
   "repos": [
     ".github",
     "valkey",
@@ -1798,6 +1798,14 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/505",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/a95bf25cac3c22ffcabb45baaa4bf2eb86040d26"
+    },
+    {
+      "sha": "526d136a64",
+      "message": "Add author photo for Omer Rubinstein (#708)",
+      "date": "2026-10-21",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/708",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/526d136a64b96d6ae2cf8d4f52db38d9ed799c72"
     },
     {
       "sha": "4d5fdeb0cf",

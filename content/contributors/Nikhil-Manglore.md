@@ -2,9 +2,9 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 255,
+  "score": 257,
   "commit_count": 95,
-  "review_count": 160,
+  "review_count": 162,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -785,6 +785,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6b8dfd83c6",
+      "message": "spelling: cannot (#2242)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2242",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6b8dfd83c6917399b619f5ff5362414ed25ca45a"
+    },
+    {
+      "sha": "bc7ceb79a2",
+      "message": "Fix grammatical typo \"This functions\" in code comments (#3728)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3728",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bc7ceb79a28c4a5188069115164b42c48074e9a9"
+    },
     {
       "sha": "d5b6592e3c",
       "message": "Automated Updates for Valkey Bundle (#130)",

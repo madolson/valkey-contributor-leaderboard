@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 455,
+  "score": 456,
   "commit_count": 165,
-  "review_count": 290,
+  "review_count": 291,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1342,6 +1342,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b936001714",
+      "message": "CLI hints: Fix unbalanced ']' in bitops (BITFIELD_RO) command (#3974)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3974",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b93600171448df9481e4a4a6aba7bdce3219d9f8"
+    },
     {
       "sha": "f870ab590c",
       "message": "Skip INCREX long double edge-case tests under valgrind (#4955)",

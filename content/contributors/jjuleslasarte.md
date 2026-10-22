@@ -2,13 +2,21 @@
   "title": "jjuleslasarte",
   "login": "jjuleslasarte",
   "avatar_url": "https://avatars.githubusercontent.com/u/140852041?v=4",
-  "score": 8,
-  "commit_count": 6,
+  "score": 9,
+  "commit_count": 7,
   "review_count": 2,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "32e3e81faf",
+      "message": "Speed up HGETALL, HKEYS and HVALS with exact-length headers and fused bulk replies (#4417)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4417",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/32e3e81faff7985c44f96e3b441d476b543f5102"
+    },
     {
       "sha": "3db525ec40",
       "message": "Fix RDB and replication failures for certain listpack entry lengths (#4819)",

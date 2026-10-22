@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 421,
+  "score": 425,
   "commit_count": 113,
-  "review_count": 308,
+  "review_count": 312,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -924,6 +924,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7c7436bfc9",
+      "message": "Deflake Dual-channel load converges after primary repl-compression test (#4966)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4966",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7c7436bfc909bd5cf2b3f52c8b4fb3e028265171"
+    },
+    {
+      "sha": "7c7436bfc9",
+      "message": "Deflake Dual-channel load converges after primary repl-compression test (#4966)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4966",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7c7436bfc909bd5cf2b3f52c8b4fb3e028265171"
+    },
+    {
+      "sha": "32e3e81faf",
+      "message": "Speed up HGETALL, HKEYS and HVALS with exact-length headers and fused bulk replies (#4417)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4417",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/32e3e81faff7985c44f96e3b441d476b543f5102"
+    },
+    {
+      "sha": "32e3e81faf",
+      "message": "Speed up HGETALL, HKEYS and HVALS with exact-length headers and fused bulk replies (#4417)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4417",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/32e3e81faff7985c44f96e3b441d476b543f5102"
+    },
     {
       "sha": "f870ab590c",
       "message": "Skip INCREX long double edge-case tests under valgrind (#4955)",

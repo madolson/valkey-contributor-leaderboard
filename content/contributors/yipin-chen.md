@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 875,
+  "score": 877,
   "commit_count": 45,
-  "review_count": 830,
+  "review_count": 832,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ae02fdb787",
+      "message": "feat: add SISMEMBER XX support to Java, Node, Go, and Rust (#7404)",
+      "date": "2026-10-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7404",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ae02fdb78750dac4621633a10826c76fa5c9e647"
+    },
+    {
+      "sha": "1f833bf90e",
+      "message": "ci(python): Make the Rust build cache hit and pass --locked to cargo (#7341)",
+      "date": "2026-10-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7341",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1f833bf90e4516874ff82db3ffaecb3f81640f96"
+    },
     {
       "sha": "7eb87db289",
       "message": "build(deps): Bump rustls-webpki and webpki-root-certs for emSign distrust (RUSTSEC-2026-0382/0383) (#7403)",

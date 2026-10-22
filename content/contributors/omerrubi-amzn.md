@@ -2,13 +2,31 @@
   "title": "omerrubi-amzn",
   "login": "omerrubi-amzn",
   "avatar_url": "https://avatars.githubusercontent.com/u/169974275?v=4",
-  "score": 8,
-  "commit_count": 8,
+  "score": 10,
+  "commit_count": 10,
   "review_count": 0,
   "repos": [
-    "valkey-glide"
+    "valkey",
+    "valkey-glide",
+    "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "8b73b97349",
+      "message": "Fix false sharing in per-thread memory usage counters (#4107)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4107",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8b73b9734965c6c6622cbf8c69f4859831e22a8a"
+    },
+    {
+      "sha": "526d136a64",
+      "message": "Add author photo for Omer Rubinstein (#708)",
+      "date": "2026-10-21",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/708",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/526d136a64b96d6ae2cf8d4f52db38d9ed799c72"
+    },
     {
       "sha": "66798fb338",
       "message": "perf(core): zero-copy receive path for GET/MGET (#6559)",

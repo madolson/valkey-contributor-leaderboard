@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 51,
+  "score": 52,
   "commit_count": 27,
-  "review_count": 24,
+  "review_count": 25,
   "repos": [
     "valkey-ci-agent",
     "valkey-doc",
@@ -230,6 +230,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8360dc56ec",
+      "message": "Filtering/scoring caching and main thread locking improvements (#1472)",
+      "date": "2026-10-21",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1472",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8360dc56eceb0bd3ba5f49ff3199ec58466b1b02"
+    },
     {
       "sha": "a57216ed88",
       "message": "ci: pin OpenSSL 3 so gRPC builds on the new macOS runner image (#1590)",

@@ -2,8 +2,8 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 144,
-  "commit_count": 42,
+  "score": 145,
+  "commit_count": 43,
   "review_count": 102,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "8360dc56ec",
+      "message": "Filtering/scoring caching and main thread locking improvements (#1472)",
+      "date": "2026-10-21",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1472",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8360dc56eceb0bd3ba5f49ff3199ec58466b1b02"
+    },
     {
       "sha": "0e1bc33035",
       "message": "Various small scoring changes (#1400)",

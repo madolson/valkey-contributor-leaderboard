@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 291,
+  "score": 292,
   "commit_count": 135,
-  "review_count": 156,
+  "review_count": 157,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1095,6 +1095,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4d252ff9e5",
+      "message": "fix: bracket ipv6 pod addresses so clusters form on ipv6-only pods (#541)",
+      "date": "2026-10-21",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/541",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/4d252ff9e550fac1224657cd4e167a3a690003b0"
+    },
     {
       "sha": "ed0f12c39e",
       "message": "feat: take Valkey clients from the pool (#469)",

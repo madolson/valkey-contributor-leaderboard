@@ -2,9 +2,9 @@
   "title": "Fusl",
   "login": "Fusl",
   "avatar_url": "https://avatars.githubusercontent.com/u/2349496?v=4",
-  "score": 21,
+  "score": 23,
   "commit_count": 15,
-  "review_count": 6,
+  "review_count": 8,
   "repos": [
     "iovalkey",
     "valkey",
@@ -134,6 +134,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9a029ba836",
+      "message": "Fix typos in comments and rename TimedOut/Sparkline functions and tests (#2252)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2252",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9a029ba836353fd38ce337f83c4383f7fefaf367"
+    },
+    {
+      "sha": "c1ed73bfc0",
+      "message": "Fix typos in comments and rename VALKEY_SANITAIZER_* CMake variables (#2250)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2250",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c1ed73bfc03f0788cb7fb3b2e32993d183289691"
+    },
     {
       "sha": "cc45d0637a",
       "message": "Fix various typos around otherwise with a comma",

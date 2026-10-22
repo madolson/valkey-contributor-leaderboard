@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 320,
-  "commit_count": 120,
-  "review_count": 200,
+  "score": 325,
+  "commit_count": 122,
+  "review_count": 203,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "626fe57d33",
+      "message": "docs: migrate client language tabs (#344)",
+      "date": "2026-10-21",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/344",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/626fe57d33d70b980130d4fd8453dfa1e8dc4427"
+    },
+    {
+      "sha": "3c7f956843",
+      "message": "docs: add slot-based client tabs wrapper (#343)",
+      "date": "2026-10-21",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/343",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/3c7f9568430bfbbe370d0d191b53eef3f39971ee"
+    },
     {
       "sha": "6f5dddd6e9",
       "message": "docs(php): document node discovery and mTLS (#334)",
@@ -978,6 +994,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2102198db5",
+      "message": "feat(set): add `XX` option to `SISMEMBER` (#603)",
+      "date": "2026-10-22",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/603",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2102198db50ca2ffb19cb5c2df60fa789b149219"
+    },
+    {
+      "sha": "ae02fdb787",
+      "message": "feat: add SISMEMBER XX support to Java, Node, Go, and Rust (#7404)",
+      "date": "2026-10-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7404",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ae02fdb78750dac4621633a10826c76fa5c9e647"
+    },
+    {
+      "sha": "1f833bf90e",
+      "message": "ci(python): Make the Rust build cache hit and pass --locked to cargo (#7341)",
+      "date": "2026-10-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7341",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1f833bf90e4516874ff82db3ffaecb3f81640f96"
+    },
     {
       "sha": "335c9a36b3",
       "message": "feat(python): add `SISMEMBER` `XX` support (#7371)",

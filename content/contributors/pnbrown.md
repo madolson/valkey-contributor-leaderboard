@@ -2,13 +2,21 @@
   "title": "pnbrown",
   "login": "pnbrown",
   "avatar_url": "https://avatars.githubusercontent.com/u/10396286?v=4",
-  "score": 12,
-  "commit_count": 8,
+  "score": 13,
+  "commit_count": 9,
   "review_count": 4,
   "repos": [
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "b6ecb9baa2",
+      "message": "Migrate zola 0.23 (#668)",
+      "date": "2026-10-21",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/668",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/b6ecb9baa23f0321df005696c607968d0f030950"
+    },
     {
       "sha": "1daa08078a",
       "message": "Add ValkeyConf 2026 announcement blog post (#591)",

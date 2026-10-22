@@ -2,8 +2,8 @@
   "title": "cxljs",
   "login": "cxljs",
   "avatar_url": "https://avatars.githubusercontent.com/u/24987055?v=4",
-  "score": 9,
-  "commit_count": 9,
+  "score": 10,
+  "commit_count": 10,
   "review_count": 0,
   "repos": [
     "libvalkey",
@@ -12,6 +12,14 @@
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "a4e5b695ad",
+      "message": "chore: update stale skiplist comments to the ordered index(#4911)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4911",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a4e5b695adaafbe65a61697bb23e9848e92f74c1"
+    },
     {
       "sha": "d3cb655f43",
       "message": "Relax dependency version constraints for Python 3.10 compatibility",

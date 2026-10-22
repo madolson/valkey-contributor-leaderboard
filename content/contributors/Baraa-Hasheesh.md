@@ -2,9 +2,9 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 23,
-  "commit_count": 17,
-  "review_count": 6,
+  "score": 26,
+  "commit_count": 19,
+  "review_count": 7,
   "repos": [
     "valkey",
     "valkey-container",
@@ -18,6 +18,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4690",
       "commit_url": "https://github.com/valkey-io/valkey/commit/1074b3cada6d5509daeaaa9db27a43308207250a"
+    },
+    {
+      "sha": "7c7436bfc9",
+      "message": "Deflake Dual-channel load converges after primary repl-compression test (#4966)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4966",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7c7436bfc909bd5cf2b3f52c8b4fb3e028265171"
+    },
+    {
+      "sha": "9d21c19f69",
+      "message": "[Test] Add automatic per-test cleanup to the Tcl test framework (#4871)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4871",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9d21c19f69ce72752391138d601887874509e5c7"
     },
     {
       "sha": "2a23bcda07",
@@ -149,6 +165,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "45ec67c307",
+      "message": "Fix HSETEX and HGETEX when the key is named \"fields\" (#4945)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4945",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/45ec67c3074562de0d6d0be56b44e6ef1a72f819"
+    },
     {
       "sha": "f870ab590c",
       "message": "Skip INCREX long double edge-case tests under valgrind (#4955)",

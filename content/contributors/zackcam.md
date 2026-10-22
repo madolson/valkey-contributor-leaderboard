@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 91,
+  "score": 92,
   "commit_count": 55,
-  "review_count": 36,
+  "review_count": 37,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -459,6 +459,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "28f53ae0cb",
+      "message": "Move disk fields into one largeobj_disk INFO section (#142)",
+      "date": "2026-10-21",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/142",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/28f53ae0cbc8a239d460e7c85a4b1b49542c9780"
+    },
     {
       "sha": "23b6e314a7",
       "message": "Report RDMA-registered segments per pool in INFO (#141)",

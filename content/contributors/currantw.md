@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 360,
-  "commit_count": 216,
-  "review_count": 144,
+  "score": 365,
+  "commit_count": 218,
+  "review_count": 147,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -15,6 +15,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "2102198db5",
+      "message": "feat(set): add `XX` option to `SISMEMBER` (#603)",
+      "date": "2026-10-22",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/603",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2102198db50ca2ffb19cb5c2df60fa789b149219"
+    },
+    {
+      "sha": "ae02fdb787",
+      "message": "feat: add SISMEMBER XX support to Java, Node, Go, and Rust (#7404)",
+      "date": "2026-10-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7404",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ae02fdb78750dac4621633a10826c76fa5c9e647"
+    },
     {
       "sha": "335c9a36b3",
       "message": "feat(python): add `SISMEMBER` `XX` support (#7371)",
@@ -1745,6 +1761,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "38f0093c64",
+      "message": "feat(rdma): add glide-rdma crate for later RDMA support (#7177)",
+      "date": "2026-10-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7177",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/38f0093c6484bfe14b06bf68f83d587633de542c"
+    },
+    {
+      "sha": "626fe57d33",
+      "message": "docs: migrate client language tabs (#344)",
+      "date": "2026-10-21",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/344",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/626fe57d33d70b980130d4fd8453dfa1e8dc4427"
+    },
+    {
+      "sha": "3c7f956843",
+      "message": "docs: add slot-based client tabs wrapper (#343)",
+      "date": "2026-10-21",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/343",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/3c7f9568430bfbbe370d0d191b53eef3f39971ee"
+    },
     {
       "sha": "7eb87db289",
       "message": "build(deps): Bump rustls-webpki and webpki-root-certs for emSign distrust (RUSTSEC-2026-0382/0383) (#7403)",

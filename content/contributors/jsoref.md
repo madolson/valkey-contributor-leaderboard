@@ -2,8 +2,8 @@
   "title": "jsoref",
   "login": "jsoref",
   "avatar_url": "https://avatars.githubusercontent.com/u/2119212?v=4",
-  "score": 30,
-  "commit_count": 30,
+  "score": 35,
+  "commit_count": 35,
   "review_count": 0,
   "repos": [
     "iovalkey",
@@ -23,6 +23,46 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "5f38f9e897",
+      "message": "Spelling 4 (#2241)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2241",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5f38f9e89716933a0e5997582bc90989c82a8f81"
+    },
+    {
+      "sha": "9a029ba836",
+      "message": "Fix typos in comments and rename TimedOut/Sparkline functions and tests (#2252)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2252",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9a029ba836353fd38ce337f83c4383f7fefaf367"
+    },
+    {
+      "sha": "6b8dfd83c6",
+      "message": "spelling: cannot (#2242)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2242",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6b8dfd83c6917399b619f5ff5362414ed25ca45a"
+    },
+    {
+      "sha": "c1ed73bfc0",
+      "message": "Fix typos in comments and rename VALKEY_SANITAIZER_* CMake variables (#2250)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2250",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c1ed73bfc03f0788cb7fb3b2e32993d183289691"
+    },
+    {
+      "sha": "4a698691cf",
+      "message": "spelling: ; otherwise, (#2238)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2238",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4a698691cf574f9875362fb520c6cc70b238d1e1"
+    },
     {
       "sha": "7b374fcf7b",
       "message": "Grammar corrections in comments (#2239)",

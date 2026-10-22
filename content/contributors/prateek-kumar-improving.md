@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 454,
+  "score": 457,
   "commit_count": 158,
-  "review_count": 296,
+  "review_count": 299,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1279,6 +1279,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2102198db5",
+      "message": "feat(set): add `XX` option to `SISMEMBER` (#603)",
+      "date": "2026-10-22",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/603",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2102198db50ca2ffb19cb5c2df60fa789b149219"
+    },
+    {
+      "sha": "25ea388b81",
+      "message": "docs(php): fix AGENTS.md build/test commands and stale template text (#370)",
+      "date": "2026-10-21",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/370",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/25ea388b81404554804cf4783ad10443ef3c579f"
+    },
+    {
+      "sha": "9657eed670",
+      "message": "fix(php): release pub/sub registry per request, guard cluster re-construct, check NULL connection response, forbid clone, init varargs (#350)",
+      "date": "2026-10-21",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/350",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9657eed670867f4d0cebaab9197b591aead27d55"
+    },
     {
       "sha": "a6f2ab24be",
       "message": "test(php): Improve stability of PubSub tests, add 5-time default retry for apt-get, pin Pluggy and Scancode version (#372)",

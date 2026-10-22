@@ -2,9 +2,9 @@
   "title": "zhulipeng",
   "login": "zhulipeng",
   "avatar_url": "https://avatars.githubusercontent.com/u/698621?v=4",
-  "score": 28,
+  "score": 29,
   "commit_count": 22,
-  "review_count": 6,
+  "review_count": 7,
   "repos": [
     "valkey",
     "valkey-io.github.io"
@@ -188,6 +188,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8b73b97349",
+      "message": "Fix false sharing in per-thread memory usage counters (#4107)",
+      "date": "2026-10-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4107",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8b73b9734965c6c6622cbf8c69f4859831e22a8a"
+    },
     {
       "sha": "3b25c4d6b8",
       "message": "Optimize scan/sscan/hscan/zscan commands by replacing list with vector (#2160)",
