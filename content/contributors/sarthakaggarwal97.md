@@ -2,8 +2,8 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 425,
-  "commit_count": 113,
+  "score": 426,
+  "commit_count": 114,
   "review_count": 312,
   "repos": [
     "valkey",
@@ -18,6 +18,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "3927999290",
+      "message": "Let several releases publish on the same day without cancelling each other (#75)",
+      "date": "2026-10-22",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/75",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/39279992904bc75e14546dbcb50db9e07800fd83"
+    },
     {
       "sha": "7db2df1f79",
       "message": "CI: avoid installing LTTng kernel modules in UST job (#4967)",

@@ -2,9 +2,9 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 40,
+  "score": 42,
   "commit_count": 23,
-  "review_count": 17,
+  "review_count": 19,
   "repos": [
     "valkey-helm",
     "valkey-operator"
@@ -196,6 +196,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c41fb27b43",
+      "message": "fix: ignore the deprecated serviceAccount field when comparing pod templates (#546)",
+      "date": "2026-10-22",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/546",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c41fb27b4314cb9d21d0adfd9277df509bd3fc06"
+    },
+    {
+      "sha": "2642741016",
+      "message": "fix: probe a superseded pod at its current IP before replacing it (#538)",
+      "date": "2026-10-22",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/538",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2642741016eb3b99cabb2ebacb46785774fc06e8"
+    },
     {
       "sha": "0f06979cda",
       "message": "(feat) support Mutual TLS (mTLS) certificate-based ACL authentication (#242)",

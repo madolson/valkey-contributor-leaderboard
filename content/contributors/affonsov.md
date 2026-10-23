@@ -2,8 +2,8 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 296,
-  "commit_count": 101,
+  "score": 297,
+  "commit_count": 102,
   "review_count": 195,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "fd60e30377",
+      "message": "feat: add GlideCredentialProvider (custom IAM credentials) to Node.js, Python, Go + async support for Java (#7055)",
+      "date": "2026-10-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7055",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fd60e3037769716dd2e4278cc21fa00e91e07107"
+    },
     {
       "sha": "32a8b595f4",
       "message": "fix(node/cd): fix napi publish related issues on node deployment (#7179)",

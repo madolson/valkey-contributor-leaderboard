@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 92,
-  "commit_count": 55,
-  "review_count": 37,
+  "score": 97,
+  "commit_count": 59,
+  "review_count": 38,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -17,6 +17,38 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "5acc8f4d46",
+      "message": "Harden string parsing for tcp (#156)",
+      "date": "2026-10-22",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/156",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/5acc8f4d462156bb5f241d7eb0a581e51b5a1d53"
+    },
+    {
+      "sha": "a9444163b2",
+      "message": "Add a config for disabling large object commands (#149)",
+      "date": "2026-10-22",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/149",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/a9444163b2b2c3238a063eb391610def2d1554c7"
+    },
+    {
+      "sha": "4e7aea61c2",
+      "message": "Switch to github runners instead of self hosted (#153)",
+      "date": "2026-10-22",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/153",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/4e7aea61c24e7016a915d1f190f7c42f7b378508"
+    },
+    {
+      "sha": "9f53e63c7b",
+      "message": "Cap EFA-registered memory with max-rdma-registered-bytes (#155)",
+      "date": "2026-10-22",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/155",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/9f53e63c7bf23b0cc2e47679f8b8a9aeae3db843"
+    },
     {
       "sha": "9493cfb780",
       "message": "Remove unnecessary copy for TCP set on DRAM mode (#143)",
@@ -459,6 +491,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7510b9483d",
+      "message": "No-op persistence callbacks crash (#150)",
+      "date": "2026-10-22",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/150",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/7510b9483d9837bf63b475d4a8e8fa612c65063f"
+    },
     {
       "sha": "28f53ae0cb",
       "message": "Move disk fields into one largeobj_disk INFO section (#142)",

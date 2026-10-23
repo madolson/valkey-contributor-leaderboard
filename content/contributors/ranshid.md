@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 323,
+  "score": 324,
   "commit_count": 96,
-  "review_count": 227,
+  "review_count": 228,
   "repos": [
     "valkey",
     "valkey-container",
@@ -787,6 +787,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0dcfdd7a98",
+      "message": "Add featured image for KV caching on Valkey blog post (#709)",
+      "date": "2026-10-22",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/709",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/0dcfdd7a98138fbcd80316a8b4c33d71f978981d"
+    },
     {
       "sha": "1074b3cada",
       "message": "PERF: remove redundant checks in HINCRBYFLOAT command (#4690)",

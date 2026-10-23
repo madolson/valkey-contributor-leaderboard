@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 358,
+  "score": 362,
   "commit_count": 83,
-  "review_count": 275,
+  "review_count": 279,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -679,6 +679,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3344a4c856",
+      "message": "feat(core/python): connect to standalone servers over Unix domain sockets (#7311)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7311",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3344a4c8566fb75235df47bb565233342beea483"
+    },
+    {
+      "sha": "fd60e30377",
+      "message": "feat: add GlideCredentialProvider (custom IAM credentials) to Node.js, Python, Go + async support for Java (#7055)",
+      "date": "2026-10-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7055",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fd60e3037769716dd2e4278cc21fa00e91e07107"
+    },
+    {
+      "sha": "542594d475",
+      "message": "ci: pin ubuntu-latest to ubuntu-24.04 and repair the benchmark smoke checks (#7361)",
+      "date": "2026-10-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7361",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/542594d4750a0ae3057a6c48a2b1192c7b1b0fdc"
+    },
+    {
+      "sha": "a70477c92d",
+      "message": "feat(java): add key-level NX/XX condition support to HSETEX (#7340)",
+      "date": "2026-10-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7340",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a70477c92d259b0a0655fd980015f74724f55b6b"
+    },
     {
       "sha": "335c9a36b3",
       "message": "feat(python): add `SISMEMBER` `XX` support (#7371)",

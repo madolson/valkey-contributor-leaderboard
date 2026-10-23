@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 160,
+  "score": 164,
   "commit_count": 21,
-  "review_count": 139,
+  "review_count": 143,
   "repos": [
     "valkey",
     "valkey-container",
@@ -184,6 +184,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "edb81cc2dc",
+      "message": "Add blog post: Introducing the Valkey GLIDE Ruby Client (#672)",
+      "date": "2026-10-22",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/672",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/edb81cc2dc92f95b0f18be1d88d43510a3ee48bc"
+    },
+    {
+      "sha": "edb81cc2dc",
+      "message": "Add blog post: Introducing the Valkey GLIDE Ruby Client (#672)",
+      "date": "2026-10-22",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/672",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/edb81cc2dc92f95b0f18be1d88d43510a3ee48bc"
+    },
+    {
+      "sha": "edb81cc2dc",
+      "message": "Add blog post: Introducing the Valkey GLIDE Ruby Client (#672)",
+      "date": "2026-10-22",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/672",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/edb81cc2dc92f95b0f18be1d88d43510a3ee48bc"
+    },
+    {
+      "sha": "edb81cc2dc",
+      "message": "Add blog post: Introducing the Valkey GLIDE Ruby Client (#672)",
+      "date": "2026-10-22",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/672",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/edb81cc2dc92f95b0f18be1d88d43510a3ee48bc"
+    },
     {
       "sha": "e875995325",
       "message": "Add Planet Valkey to menu and footer. (#675)",

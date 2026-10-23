@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 312,
+  "score": 314,
   "commit_count": 118,
-  "review_count": 194,
+  "review_count": 196,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -964,6 +964,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a9444163b2",
+      "message": "Add a config for disabling large object commands (#149)",
+      "date": "2026-10-22",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/149",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/a9444163b2b2c3238a063eb391610def2d1554c7"
+    },
+    {
+      "sha": "9f53e63c7b",
+      "message": "Cap EFA-registered memory with max-rdma-registered-bytes (#155)",
+      "date": "2026-10-22",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/155",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/9f53e63c7bf23b0cc2e47679f8b8a9aeae3db843"
+    },
     {
       "sha": "9493cfb780",
       "message": "Remove unnecessary copy for TCP set on DRAM mode (#143)",

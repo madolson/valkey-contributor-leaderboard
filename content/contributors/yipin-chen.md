@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 877,
+  "score": 879,
   "commit_count": 45,
-  "review_count": 832,
+  "review_count": 834,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3344a4c856",
+      "message": "feat(core/python): connect to standalone servers over Unix domain sockets (#7311)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7311",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3344a4c8566fb75235df47bb565233342beea483"
+    },
+    {
+      "sha": "542594d475",
+      "message": "ci: pin ubuntu-latest to ubuntu-24.04 and repair the benchmark smoke checks (#7361)",
+      "date": "2026-10-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7361",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/542594d4750a0ae3057a6c48a2b1192c7b1b0fdc"
+    },
     {
       "sha": "ae02fdb787",
       "message": "feat: add SISMEMBER XX support to Java, Node, Go, and Rust (#7404)",

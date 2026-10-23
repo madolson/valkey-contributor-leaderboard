@@ -2,8 +2,8 @@
   "title": "melancholictheory",
   "login": "melancholictheory",
   "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
-  "score": 15,
-  "commit_count": 14,
+  "score": 17,
+  "commit_count": 16,
   "review_count": 1,
   "repos": [
     "valkey",
@@ -11,6 +11,22 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "2642741016",
+      "message": "fix: probe a superseded pod at its current IP before replacing it (#538)",
+      "date": "2026-10-22",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/538",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2642741016eb3b99cabb2ebacb46785774fc06e8"
+    },
+    {
+      "sha": "3461ac1a71",
+      "message": "fix: reject a ValkeyCluster name its StatefulSets cannot carry (#496)",
+      "date": "2026-10-22",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/496",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3461ac1a71072c31795c858cbe693e45e36c13b2"
+    },
     {
       "sha": "8f67ab1368",
       "message": "Include roles in ACL DIGEST (#4694)",

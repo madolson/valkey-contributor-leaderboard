@@ -2,9 +2,9 @@
   "title": "neerajr0",
   "login": "neerajr0",
   "avatar_url": "https://avatars.githubusercontent.com/u/55604693?v=4",
-  "score": 27,
+  "score": 29,
   "commit_count": 11,
-  "review_count": 16,
+  "review_count": 18,
   "repos": [
     "valkey-large-object",
     "valkey-search"
@@ -100,6 +100,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5acc8f4d46",
+      "message": "Harden string parsing for tcp (#156)",
+      "date": "2026-10-22",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/156",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/5acc8f4d462156bb5f241d7eb0a581e51b5a1d53"
+    },
+    {
+      "sha": "9f53e63c7b",
+      "message": "Cap EFA-registered memory with max-rdma-registered-bytes (#155)",
+      "date": "2026-10-22",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/155",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/9f53e63c7bf23b0cc2e47679f8b8a9aeae3db843"
+    },
     {
       "sha": "76670cfe2a",
       "message": "do not count module fds in client range (#127)",

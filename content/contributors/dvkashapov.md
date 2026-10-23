@@ -208,6 +208,14 @@
   ],
   "review_list": [
     {
+      "sha": "4e1ee4ed14",
+      "message": "Bump deps/luajit from `2a8e017` to `dd3b243` (#74)",
+      "date": "2026-10-22",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/74",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/4e1ee4ed145442e94943c66ff709248bd814fd4b"
+    },
+    {
       "sha": "cf5efa7019",
       "message": "make getMonotonicUs static in libvalkeylua (#4270)",
       "date": "2026-10-14",

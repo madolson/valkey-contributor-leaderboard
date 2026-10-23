@@ -2,8 +2,8 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 69,
-  "commit_count": 21,
+  "score": 70,
+  "commit_count": 22,
   "review_count": 48,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "542594d475",
+      "message": "ci: pin ubuntu-latest to ubuntu-24.04 and repair the benchmark smoke checks (#7361)",
+      "date": "2026-10-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7361",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/542594d4750a0ae3057a6c48a2b1192c7b1b0fdc"
+    },
     {
       "sha": "1f833bf90e",
       "message": "ci(python): Make the Rust build cache hit and pass --locked to cargo (#7341)",

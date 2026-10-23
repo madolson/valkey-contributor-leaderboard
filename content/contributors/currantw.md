@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 365,
+  "score": 366,
   "commit_count": 218,
-  "review_count": 147,
+  "review_count": 148,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -1761,6 +1761,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a70477c92d",
+      "message": "feat(java): add key-level NX/XX condition support to HSETEX (#7340)",
+      "date": "2026-10-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7340",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a70477c92d259b0a0655fd980015f74724f55b6b"
+    },
     {
       "sha": "38f0093c64",
       "message": "feat(rdma): add glide-rdma crate for later RDMA support (#7177)",

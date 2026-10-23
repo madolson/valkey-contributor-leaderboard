@@ -2,15 +2,23 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 167,
-  "commit_count": 58,
-  "review_count": 109,
+  "score": 173,
+  "commit_count": 59,
+  "review_count": 114,
   "repos": [
     "valkey",
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "c41fb27b43",
+      "message": "fix: ignore the deprecated serviceAccount field when comparing pod templates (#546)",
+      "date": "2026-10-22",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/546",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c41fb27b4314cb9d21d0adfd9277df509bd3fc06"
+    },
     {
       "sha": "ed0f12c39e",
       "message": "feat: take Valkey clients from the pool (#469)",
@@ -477,6 +485,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2642741016",
+      "message": "fix: probe a superseded pod at its current IP before replacing it (#538)",
+      "date": "2026-10-22",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/538",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2642741016eb3b99cabb2ebacb46785774fc06e8"
+    },
+    {
+      "sha": "0cf4be3e7b",
+      "message": "test: cover ValkeyClusterSpec persistence CEL rules in envtest (#475)",
+      "date": "2026-10-22",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/475",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0cf4be3e7b7c438c4d8eea676ce2ae17e1374cc1"
+    },
+    {
+      "sha": "9b4c746b5f",
+      "message": "feat: add spec.podMetadata for custom pod labels and annotations (#523)",
+      "date": "2026-10-22",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/523",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9b4c746b5f943177ffb4cff63d4f21922f865c68"
+    },
+    {
+      "sha": "3461ac1a71",
+      "message": "fix: reject a ValkeyCluster name its StatefulSets cannot carry (#496)",
+      "date": "2026-10-22",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/496",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3461ac1a71072c31795c858cbe693e45e36c13b2"
+    },
+    {
+      "sha": "497b389a4b",
+      "message": "test(e2e): add recovery tests for replica scale-down (#453)",
+      "date": "2026-10-22",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/453",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/497b389a4b5796ab88b4fc8217d2f3c19c52e72b"
+    },
     {
       "sha": "1eee90a967",
       "message": "fix: say in the status when a primary's roll is waiting for a synced replica (#483)",

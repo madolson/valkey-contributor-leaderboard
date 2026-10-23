@@ -2,8 +2,8 @@
   "title": "omerrubi-amzn",
   "login": "omerrubi-amzn",
   "avatar_url": "https://avatars.githubusercontent.com/u/169974275?v=4",
-  "score": 10,
-  "commit_count": 10,
+  "score": 11,
+  "commit_count": 11,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "0dcfdd7a98",
+      "message": "Add featured image for KV caching on Valkey blog post (#709)",
+      "date": "2026-10-22",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/709",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/0dcfdd7a98138fbcd80316a8b4c33d71f978981d"
+    },
     {
       "sha": "8b73b97349",
       "message": "Fix false sharing in per-thread memory usage counters (#4107)",

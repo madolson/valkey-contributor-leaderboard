@@ -2,14 +2,23 @@
   "title": "Sasidharan3094",
   "login": "Sasidharan3094",
   "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
-  "score": 44,
-  "commit_count": 31,
+  "score": 45,
+  "commit_count": 32,
   "review_count": 13,
   "repos": [
     "valkey-glide",
-    "valkey-glide-ruby"
+    "valkey-glide-ruby",
+    "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "edb81cc2dc",
+      "message": "Add blog post: Introducing the Valkey GLIDE Ruby Client (#672)",
+      "date": "2026-10-22",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/672",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/edb81cc2dc92f95b0f18be1d88d43510a3ee48bc"
+    },
     {
       "sha": "e25b5e093f",
       "message": "Otel improvements for shipping resource attributes (#325)",

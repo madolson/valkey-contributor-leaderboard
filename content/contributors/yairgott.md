@@ -2,9 +2,9 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 128,
+  "score": 129,
   "commit_count": 41,
-  "review_count": 87,
+  "review_count": 88,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -343,6 +343,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c672fd7a7e",
+      "message": "fix: hybrid tag => KNN queries return correct score (issue #1414) (#1490)",
+      "date": "2026-10-23",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1490",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c672fd7a7e9de1e655e2de35930fbdd66a8f0fc3"
+    },
     {
       "sha": "2c41b1e412",
       "message": "optimized pickle regen from 5 minutes to 15 seconds (#1486)",

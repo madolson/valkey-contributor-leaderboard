@@ -2,9 +2,9 @@
   "title": "leslie-bq",
   "login": "leslie-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
-  "score": 4,
+  "score": 5,
   "commit_count": 2,
-  "review_count": 2,
+  "review_count": 3,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -29,6 +29,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fcab2dfc3b",
+      "message": "fix(php): make the pub/sub push callback thread-safe (#364)",
+      "date": "2026-10-22",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/364",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/fcab2dfc3b750f8d871da0d972aabd40188f0b79"
+    },
     {
       "sha": "a9409ec0ff",
       "message": "chore(deps): bump valkey-glide from `0a3bd54` to `7593203` (#597)",

@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 457,
-  "commit_count": 158,
-  "review_count": 299,
+  "score": 459,
+  "commit_count": 159,
+  "review_count": 300,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "a70477c92d",
+      "message": "feat(java): add key-level NX/XX condition support to HSETEX (#7340)",
+      "date": "2026-10-22",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7340",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a70477c92d259b0a0655fd980015f74724f55b6b"
+    },
     {
       "sha": "eb954a09b6",
       "message": "feat(java): add DELIFEQ command support (#7339)",
@@ -1286,6 +1294,22 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/603",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2102198db50ca2ffb19cb5c2df60fa789b149219"
+    },
+    {
+      "sha": "fcab2dfc3b",
+      "message": "fix(php): make the pub/sub push callback thread-safe (#364)",
+      "date": "2026-10-22",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/364",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/fcab2dfc3b750f8d871da0d972aabd40188f0b79"
+    },
+    {
+      "sha": "4ac24f935e",
+      "message": "ci(deps): bump actions/upload-artifact from 7.0.1 to 7.0.2 (#373)",
+      "date": "2026-10-22",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/373",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/4ac24f935e69f6fdf3640d454a3cadcb4927bf9d"
     },
     {
       "sha": "25ea388b81",

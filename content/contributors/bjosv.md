@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 292,
-  "commit_count": 135,
-  "review_count": 157,
+  "score": 295,
+  "commit_count": 136,
+  "review_count": 159,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "497b389a4b",
+      "message": "test(e2e): add recovery tests for replica scale-down (#453)",
+      "date": "2026-10-22",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/453",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/497b389a4b5796ab88b4fc8217d2f3c19c52e72b"
+    },
     {
       "sha": "668c237132",
       "message": "chore: update kubebuilder scaffold v4.15.0 -> v4.16.0 (#447)",
@@ -1095,6 +1103,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c41fb27b43",
+      "message": "fix: ignore the deprecated serviceAccount field when comparing pod templates (#546)",
+      "date": "2026-10-22",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/546",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c41fb27b4314cb9d21d0adfd9277df509bd3fc06"
+    },
+    {
+      "sha": "0cf4be3e7b",
+      "message": "test: cover ValkeyClusterSpec persistence CEL rules in envtest (#475)",
+      "date": "2026-10-22",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/475",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/0cf4be3e7b7c438c4d8eea676ce2ae17e1374cc1"
+    },
     {
       "sha": "4d252ff9e5",
       "message": "fix: bracket ipv6 pod addresses so clusters form on ipv6-only pods (#541)",

@@ -202178,6 +202178,470 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1472"
+    },
+    {
+      "sha": "8b9019c955e6fc76778b69691a5e100b28a070b3",
+      "author_login": "taham0",
+      "author_id": 76549451,
+      "avatar_url": "https://avatars.githubusercontent.com/u/76549451?v=4",
+      "message": "Fix crash when a database's keyspace is replaced mid-stage during defrag (#4968)",
+      "date": "2026-10-22T20:53:04Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "JimB123",
+          "date": "2026-10-22T17:55:52Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4968"
+    },
+    {
+      "sha": "a9b91941422d4dce2503c70d21f8de35fd8a22b9",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Backport eligibility: comment on scheduled runs and judge each PR once (#127)",
+      "date": "2026-10-23T02:42:26Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3435cd435a09f733f1838a5277e051e0b106769b",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Open release PRs ready, blame the right commit, and watch each release PR for reviews (#126)",
+      "date": "2026-10-23T02:26:03Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3344a4c8566fb75235df47bb565233342beea483",
+      "author_login": "cody-cheng",
+      "author_id": 33611246,
+      "avatar_url": "https://avatars.githubusercontent.com/u/33611246?v=4",
+      "message": "feat(core/python): connect to standalone servers over Unix domain sockets (#7311)",
+      "date": "2026-10-23T03:26:16Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-10-10T07:54:23Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-10-19T16:50:09Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7311"
+    },
+    {
+      "sha": "fd60e3037769716dd2e4278cc21fa00e91e07107",
+      "author_login": "affonsov",
+      "author_id": 67347924,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
+      "message": "feat: add GlideCredentialProvider (custom IAM credentials) to Node.js, Python, Go + async support for Java (#7055)",
+      "date": "2026-10-22T22:35:54Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-10-15T19:38:48Z"
+        },
+        {
+          "login": "jeremyprime",
+          "date": "2026-10-19T20:27:49Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7055"
+    },
+    {
+      "sha": "542594d4750a0ae3057a6c48a2b1192c7b1b0fdc",
+      "author_login": "nderraugh",
+      "author_id": 970382,
+      "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
+      "message": "ci: pin ubuntu-latest to ubuntu-24.04 and repair the benchmark smoke checks (#7361)",
+      "date": "2026-10-22T16:48:53Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-10-21T21:13:33Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-10-22T15:56:51Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7361"
+    },
+    {
+      "sha": "a70477c92d259b0a0655fd980015f74724f55b6b",
+      "author_login": "prateek-kumar-improving",
+      "author_id": 178204713,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
+      "message": "feat(java): add key-level NX/XX condition support to HSETEX (#7340)",
+      "date": "2026-10-22T09:15:44Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-10-22T00:58:28Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-10-22T02:28:24Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7340"
+    },
+    {
+      "sha": "fcab2dfc3b750f8d871da0d972aabd40188f0b79",
+      "author_login": "uintaam",
+      "author_id": 295346,
+      "avatar_url": "https://avatars.githubusercontent.com/u/295346?v=4",
+      "message": "fix(php): make the pub/sub push callback thread-safe (#364)",
+      "date": "2026-10-22T20:31:06Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-10-21T08:39:15Z"
+        },
+        {
+          "login": "leslie-bq",
+          "date": "2026-10-21T19:39:33Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/364"
+    },
+    {
+      "sha": "4ac24f935e69f6fdf3640d454a3cadcb4927bf9d",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "ci(deps): bump actions/upload-artifact from 7.0.1 to 7.0.2 (#373)",
+      "date": "2026-10-22T17:02:46Z",
+      "repo": "valkey-glide-php",
+      "reviewed": [
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-10-20T16:05:53Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/373"
+    },
+    {
+      "sha": "edb81cc2dc92f95b0f18be1d88d43510a3ee48bc",
+      "author_login": "Sasidharan3094",
+      "author_id": 56465593,
+      "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
+      "message": "Add blog post: Introducing the Valkey GLIDE Ruby Client (#672)",
+      "date": "2026-10-22T14:00:20Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "stockholmux",
+          "date": "2026-10-15T18:47:21Z"
+        },
+        {
+          "login": "stockholmux",
+          "date": "2026-10-16T19:54:16Z"
+        },
+        {
+          "login": "stockholmux",
+          "date": "2026-10-21T14:30:43Z"
+        },
+        {
+          "login": "stockholmux",
+          "date": "2026-10-22T13:54:25Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/672"
+    },
+    {
+      "sha": "0dcfdd7a98138fbcd80316a8b4c33d71f978981d",
+      "author_login": "omerrubi-amzn",
+      "author_id": 169974275,
+      "avatar_url": "https://avatars.githubusercontent.com/u/169974275?v=4",
+      "message": "Add featured image for KV caching on Valkey blog post (#709)",
+      "date": "2026-10-22T08:13:13Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "ranshid",
+          "date": "2026-10-22T07:41:49Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/709"
+    },
+    {
+      "sha": "7510b9483d9837bf63b475d4a8e8fa612c65063f",
+      "author_login": "nadav-levanoni",
+      "author_id": 38641521,
+      "avatar_url": "https://avatars.githubusercontent.com/u/38641521?v=4",
+      "message": "No-op persistence callbacks crash (#150)",
+      "date": "2026-10-22T18:12:58Z",
+      "repo": "valkey-large-object",
+      "reviewed": [
+        {
+          "login": "zackcam",
+          "date": "2026-10-22T07:21:25Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/150"
+    },
+    {
+      "sha": "5acc8f4d462156bb5f241d7eb0a581e51b5a1d53",
+      "author_login": "zackcam",
+      "author_id": 181388575,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
+      "message": "Harden string parsing for tcp (#156)",
+      "date": "2026-10-22T18:11:56Z",
+      "repo": "valkey-large-object",
+      "reviewed": [
+        {
+          "login": "neerajr0",
+          "date": "2026-10-22T17:32:50Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/156"
+    },
+    {
+      "sha": "a9444163b2b2c3238a063eb391610def2d1554c7",
+      "author_login": "zackcam",
+      "author_id": 181388575,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
+      "message": "Add a config for disabling large object commands (#149)",
+      "date": "2026-10-22T07:31:51Z",
+      "repo": "valkey-large-object",
+      "reviewed": [
+        {
+          "login": "KarthikSubbarao",
+          "date": "2026-10-22T02:56:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/149"
+    },
+    {
+      "sha": "4e7aea61c24e7016a915d1f190f7c42f7b378508",
+      "author_login": "zackcam",
+      "author_id": 181388575,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
+      "message": "Switch to github runners instead of self hosted (#153)",
+      "date": "2026-10-22T07:31:11Z",
+      "repo": "valkey-large-object",
+      "reviewed": [
+        {
+          "login": "nadav-levanoni",
+          "date": "2026-10-22T07:27:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/153"
+    },
+    {
+      "sha": "9f53e63c7bf23b0cc2e47679f8b8a9aeae3db843",
+      "author_login": "zackcam",
+      "author_id": 181388575,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
+      "message": "Cap EFA-registered memory with max-rdma-registered-bytes (#155)",
+      "date": "2026-10-22T06:22:46Z",
+      "repo": "valkey-large-object",
+      "reviewed": [
+        {
+          "login": "neerajr0",
+          "date": "2026-10-21T23:29:34Z"
+        },
+        {
+          "login": "KarthikSubbarao",
+          "date": "2026-10-22T06:20:21Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/155"
+    },
+    {
+      "sha": "4e1ee4ed145442e94943c66ff709248bd814fd4b",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump deps/luajit from `2a8e017` to `dd3b243` (#74)",
+      "date": "2026-10-22T17:38:33Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-10-22T17:38:06Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/74"
+    },
+    {
+      "sha": "c41fb27b4314cb9d21d0adfd9277df509bd3fc06",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "fix: ignore the deprecated serviceAccount field when comparing pod templates (#546)",
+      "date": "2026-10-22T15:19:27Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-10-22T14:01:32Z"
+        },
+        {
+          "login": "daanvinken",
+          "date": "2026-10-22T14:04:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/546"
+    },
+    {
+      "sha": "2642741016eb3b99cabb2ebacb46785774fc06e8",
+      "author_login": "melancholictheory",
+      "author_id": 61789920,
+      "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
+      "message": "fix: probe a superseded pod at its current IP before replacing it (#538)",
+      "date": "2026-10-22T09:23:56Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "daanvinken",
+          "date": "2026-10-21T14:22:08Z"
+        },
+        {
+          "login": "jdheyburn",
+          "date": "2026-10-22T08:55:34Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/538"
+    },
+    {
+      "sha": "0cf4be3e7b7c438c4d8eea676ce2ae17e1374cc1",
+      "author_login": "highpon",
+      "author_id": 54130718,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54130718?v=4",
+      "message": "test: cover ValkeyClusterSpec persistence CEL rules in envtest (#475)",
+      "date": "2026-10-22T08:16:52Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-10-13T16:20:05Z"
+        },
+        {
+          "login": "jdheyburn",
+          "date": "2026-10-22T07:20:06Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/475"
+    },
+    {
+      "sha": "9b4c746b5f943177ffb4cff63d4f21922f865c68",
+      "author_login": "spron-in",
+      "author_id": 11819154,
+      "avatar_url": "https://avatars.githubusercontent.com/u/11819154?v=4",
+      "message": "feat: add spec.podMetadata for custom pod labels and annotations (#523)",
+      "date": "2026-10-22T07:38:04Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-10-22T06:11:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/523"
+    },
+    {
+      "sha": "3461ac1a71072c31795c858cbe693e45e36c13b2",
+      "author_login": "melancholictheory",
+      "author_id": 61789920,
+      "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
+      "message": "fix: reject a ValkeyCluster name its StatefulSets cannot carry (#496)",
+      "date": "2026-10-22T07:04:44Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-10-22T06:07:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/496"
+    },
+    {
+      "sha": "497b389a4b5796ab88b4fc8217d2f3c19c52e72b",
+      "author_login": "bjosv",
+      "author_id": 60651423,
+      "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
+      "message": "test(e2e): add recovery tests for replica scale-down (#453)",
+      "date": "2026-10-22T06:33:59Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-10-22T06:05:00Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/453"
+    },
+    {
+      "sha": "31f952655fe5e140e56080503080b8534d65bfb3",
+      "author_login": "lucasyonge",
+      "author_id": 198354786,
+      "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
+      "message": "Update function stats resp3 output (#15)",
+      "date": "2026-10-22T22:49:34Z",
+      "repo": "valkey-proxy",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "fde0bc18b8ce0dc1440731abb8b59acf7c5d20a2",
+      "author_login": "lucasyonge",
+      "author_id": 198354786,
+      "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
+      "message": "fix one bug for search test case (#14)",
+      "date": "2026-10-22T21:15:45Z",
+      "repo": "valkey-proxy",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "39279992904bc75e14546dbcb50db9e07800fd83",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Let several releases publish on the same day without cancelling each other (#75)",
+      "date": "2026-10-22T22:19:58Z",
+      "repo": "valkey-release-automation",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-10-22T22:19:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/75"
+    },
+    {
+      "sha": "c672fd7a7e9de1e655e2de35930fbdd66a8f0fc3",
+      "author_login": "boda26",
+      "author_id": 54991825,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
+      "message": "fix: hybrid tag => KNN queries return correct score (issue #1414) (#1490)",
+      "date": "2026-10-23T01:59:18Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "yairgott",
+          "date": "2026-10-22T23:21:15Z"
+        },
+        {
+          "login": "BCathcart",
+          "date": "2026-10-23T01:59:11Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1490"
     }
   ]
 }

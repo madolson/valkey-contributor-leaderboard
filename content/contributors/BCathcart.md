@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 145,
+  "score": 146,
   "commit_count": 43,
-  "review_count": 102,
+  "review_count": 103,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -358,6 +358,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c672fd7a7e",
+      "message": "fix: hybrid tag => KNN queries return correct score (issue #1414) (#1490)",
+      "date": "2026-10-23",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1490",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c672fd7a7e9de1e655e2de35930fbdd66a8f0fc3"
+    },
     {
       "sha": "584d697f0e",
       "message": "Drop index schemas in every database on FLUSHALL (#1404)",

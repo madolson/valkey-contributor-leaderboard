@@ -2,15 +2,23 @@
   "title": "nadav-levanoni",
   "login": "nadav-levanoni",
   "avatar_url": "https://avatars.githubusercontent.com/u/38641521?v=4",
-  "score": 10,
-  "commit_count": 6,
-  "review_count": 4,
+  "score": 12,
+  "commit_count": 7,
+  "review_count": 5,
   "repos": [
     "valkey",
     "valkey-large-object",
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "7510b9483d",
+      "message": "No-op persistence callbacks crash (#150)",
+      "date": "2026-10-22",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/150",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/7510b9483d9837bf63b475d4a8e8fa612c65063f"
+    },
     {
       "sha": "28f53ae0cb",
       "message": "Move disk fields into one largeobj_disk INFO section (#142)",
@@ -61,6 +69,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4e7aea61c2",
+      "message": "Switch to github runners instead of self hosted (#153)",
+      "date": "2026-10-22",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/153",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/4e7aea61c24e7016a915d1f190f7c42f7b378508"
+    },
     {
       "sha": "0bc30140fc",
       "message": "feat(eviction): evict by maxmemory-policy from LRU eviction candidates in both modes (#128)",

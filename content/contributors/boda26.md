@@ -2,13 +2,21 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 88,
-  "commit_count": 52,
+  "score": 89,
+  "commit_count": 53,
   "review_count": 36,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "c672fd7a7e",
+      "message": "fix: hybrid tag => KNN queries return correct score (issue #1414) (#1490)",
+      "date": "2026-10-23",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1490",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/c672fd7a7e9de1e655e2de35930fbdd66a8f0fc3"
+    },
     {
       "sha": "78eaedf84d",
       "message": "fix native build on Amazon Linux 2 (#1574)",
