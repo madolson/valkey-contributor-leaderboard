@@ -2,9 +2,9 @@
   "title": "somaz94",
   "login": "somaz94",
   "avatar_url": "https://avatars.githubusercontent.com/u/112675579?v=4",
-  "score": 4,
+  "score": 5,
   "commit_count": 4,
-  "review_count": 0,
+  "review_count": 1,
   "repos": [
     "valkey-helm"
   ],
@@ -42,5 +42,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-helm/commit/9b9d78b042aa715e266c83e9e9c1afb5996f6058"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "6a19e8bbca",
+      "message": "fix(valkey): authenticate the health probes and check the reply (#277)",
+      "date": "2026-10-23",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/277",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/6a19e8bbcaed99d76aac6b8965b22a33601ff6ad"
+    }
+  ]
 }

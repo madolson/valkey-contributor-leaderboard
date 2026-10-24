@@ -2,13 +2,21 @@
   "title": "uintaam",
   "login": "uintaam",
   "avatar_url": "https://avatars.githubusercontent.com/u/295346?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "6f66301535",
+      "message": "test(php): fix flaky testExists and testFailoverSucceeds (#376)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/376",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/6f66301535695b2e6eb3f6bc4950228cd12347d8"
+    },
     {
       "sha": "fcab2dfc3b",
       "message": "fix(php): make the pub/sub push callback thread-safe (#364)",

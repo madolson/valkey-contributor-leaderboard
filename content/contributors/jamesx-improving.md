@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 362,
-  "commit_count": 83,
-  "review_count": 279,
+  "score": 364,
+  "commit_count": 84,
+  "review_count": 280,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "3da1ccf78b",
+      "message": "fix(node): set `unix_socket_path` in `lazy_client` test `NodeAddress` (#7421)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7421",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3da1ccf78be31bbbb4351753746550a280fd501f"
+    },
     {
       "sha": "63fba48c64",
       "message": "Docs: Document Java AZ All Nodes and clarify read strategies (#332)",
@@ -686,6 +694,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7311",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3344a4c8566fb75235df47bb565233342beea483"
+    },
+    {
+      "sha": "59d52cc8f4",
+      "message": "docs: add supported client features reference (#339)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/339",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/59d52cc8f4e6308a3b1d5b3eb03f14ad024f9754"
     },
     {
       "sha": "fd60e30377",

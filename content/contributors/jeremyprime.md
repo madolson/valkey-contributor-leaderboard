@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 282,
-  "commit_count": 86,
-  "review_count": 196,
+  "score": 288,
+  "commit_count": 90,
+  "review_count": 198,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -14,6 +14,38 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "dbe8d4edb8",
+      "message": "docs: make build/lint/test docs self-sufficient across all clients (#7344)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7344",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dbe8d4edb88b0154037fc3157195e782344480fd"
+    },
+    {
+      "sha": "fb14e34ce9",
+      "message": "fix(core): reset pooled connection state conditionally and route DISCARD to all cluster nodes (#7398)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7398",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fb14e34ce9848c592875adc6392c84fa5bc5dd24"
+    },
+    {
+      "sha": "b360e69bcc",
+      "message": "fix(core): require TLS for IAM auth on ordinary and scoped connections (#7397)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7397",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b360e69bcc72a06b7bb933ba3fdbdf9708f5059f"
+    },
+    {
+      "sha": "416a0039b5",
+      "message": "ci: skip heavy workflows on doc-only pull requests (#7420)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7420",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/416a0039b5c7bdbe0fc1756b3e0c39533451ba60"
+    },
     {
       "sha": "25ea388b81",
       "message": "docs(php): fix AGENTS.md build/test commands and stale template text (#370)",
@@ -704,6 +736,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f6764ef840",
+      "message": "fix(security): update RustSec-vulnerable crates (#7424)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7424",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f6764ef840d8fdf09d6b0b3ba6000fe0178160ac"
+    },
+    {
+      "sha": "78d0a9461f",
+      "message": "chore(deps): bump valkey-glide for DELIFEQ (#381)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/381",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/78d0a9461fbcade92e2ed739e6a9af4182d1913e"
+    },
     {
       "sha": "fd60e30377",
       "message": "feat: add GlideCredentialProvider (custom IAM credentials) to Node.js, Python, Go + async support for Java (#7055)",

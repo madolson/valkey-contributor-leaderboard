@@ -2,8 +2,8 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 151,
-  "commit_count": 48,
+  "score": 152,
+  "commit_count": 49,
   "review_count": 103,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "6902fdc965",
+      "message": "Make quicklist read-only iteration non-mutating on compressed nodes (#4782)",
+      "date": "2026-10-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4782",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6902fdc9655abe0f519bcf700c8e469dc6cc38d8"
+    },
     {
       "sha": "f870ab590c",
       "message": "Skip INCREX long double edge-case tests under valgrind (#4955)",

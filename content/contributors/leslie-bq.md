@@ -2,9 +2,9 @@
   "title": "leslie-bq",
   "login": "leslie-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
-  "score": 5,
+  "score": 7,
   "commit_count": 2,
-  "review_count": 3,
+  "review_count": 5,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -29,6 +29,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2c294572f4",
+      "message": "feat(python): add SET IFNE support and fix GETSET and SET IFEQ compression (#7414)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7414",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2c294572f431c9511a8c487570927dc8082b70aa"
+    },
+    {
+      "sha": "6f66301535",
+      "message": "test(php): fix flaky testExists and testFailoverSucceeds (#376)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/376",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/6f66301535695b2e6eb3f6bc4950228cd12347d8"
+    },
     {
       "sha": "fcab2dfc3b",
       "message": "fix(php): make the pub/sub push callback thread-safe (#364)",

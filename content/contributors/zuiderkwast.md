@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1298,
+  "score": 1299,
   "commit_count": 156,
-  "review_count": 1142,
+  "review_count": 1143,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1270,6 +1270,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6902fdc965",
+      "message": "Make quicklist read-only iteration non-mutating on compressed nodes (#4782)",
+      "date": "2026-10-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4782",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6902fdc9655abe0f519bcf700c8e469dc6cc38d8"
+    },
     {
       "sha": "b936001714",
       "message": "CLI hints: Fix unbalanced ']' in bitops (BITFIELD_RO) command (#3974)",

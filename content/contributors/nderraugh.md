@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 70,
-  "commit_count": 22,
-  "review_count": 48,
+  "score": 75,
+  "commit_count": 24,
+  "review_count": 51,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "d83cec7ad2",
+      "message": "test(python): Poll for server state instead of sleeping (#7342)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7342",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d83cec7ad2cd9e541fed22559e76a5c1ab7ea6da"
+    },
+    {
+      "sha": "f6764ef840",
+      "message": "fix(security): update RustSec-vulnerable crates (#7424)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7424",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f6764ef840d8fdf09d6b0b3ba6000fe0178160ac"
+    },
     {
       "sha": "542594d475",
       "message": "ci: pin ubuntu-latest to ubuntu-24.04 and repair the benchmark smoke checks (#7361)",
@@ -191,6 +207,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dbe8d4edb8",
+      "message": "docs: make build/lint/test docs self-sufficient across all clients (#7344)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7344",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dbe8d4edb88b0154037fc3157195e782344480fd"
+    },
+    {
+      "sha": "fb14e34ce9",
+      "message": "fix(core): reset pooled connection state conditionally and route DISCARD to all cluster nodes (#7398)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7398",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fb14e34ce9848c592875adc6392c84fa5bc5dd24"
+    },
+    {
+      "sha": "3da1ccf78b",
+      "message": "fix(node): set `unix_socket_path` in `lazy_client` test `NodeAddress` (#7421)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7421",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3da1ccf78be31bbbb4351753746550a280fd501f"
+    },
     {
       "sha": "38f0093c64",
       "message": "feat(rdma): add glide-rdma crate for later RDMA support (#7177)",

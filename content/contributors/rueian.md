@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 72,
+  "score": 73,
   "commit_count": 9,
-  "review_count": 63,
+  "review_count": 64,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "57bab73f98",
+      "message": "fix: dial every cluster conn with READONLY when SendToReplicas is set (#205)",
+      "date": "2026-10-23",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/205",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/57bab73f98652c8368e47d0032ddadf02029835a"
+    },
     {
       "sha": "1567f73fd2",
       "message": "Do not let distinct commands share one client-side cache entry (#210)",

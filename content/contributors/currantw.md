@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 366,
-  "commit_count": 218,
-  "review_count": 148,
+  "score": 373,
+  "commit_count": 221,
+  "review_count": 152,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -15,6 +15,30 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "2c294572f4",
+      "message": "feat(python): add SET IFNE support and fix GETSET and SET IFEQ compression (#7414)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7414",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2c294572f431c9511a8c487570927dc8082b70aa"
+    },
+    {
+      "sha": "d09766e1fb",
+      "message": "feat(hash): add key-level `NX` / `XX` options to `HSETEX` (#606)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/606",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d09766e1fbe2d51b5ecfdfdea799a4da390c7134"
+    },
+    {
+      "sha": "3cbc6032b6",
+      "message": "feat(string): add `DELIFEQ` command (#605)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/605",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3cbc6032b6594a855d97cc617232c00f6da16a3a"
+    },
     {
       "sha": "2102198db5",
       "message": "feat(set): add `XX` option to `SISMEMBER` (#603)",
@@ -1761,6 +1785,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dbe8d4edb8",
+      "message": "docs: make build/lint/test docs self-sufficient across all clients (#7344)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7344",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dbe8d4edb88b0154037fc3157195e782344480fd"
+    },
+    {
+      "sha": "f6764ef840",
+      "message": "fix(security): update RustSec-vulnerable crates (#7424)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7424",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f6764ef840d8fdf09d6b0b3ba6000fe0178160ac"
+    },
+    {
+      "sha": "3da1ccf78b",
+      "message": "fix(node): set `unix_socket_path` in `lazy_client` test `NodeAddress` (#7421)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7421",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3da1ccf78be31bbbb4351753746550a280fd501f"
+    },
+    {
+      "sha": "78d0a9461f",
+      "message": "chore(deps): bump valkey-glide for DELIFEQ (#381)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/381",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/78d0a9461fbcade92e2ed739e6a9af4182d1913e"
+    },
     {
       "sha": "a70477c92d",
       "message": "feat(java): add key-level NX/XX condition support to HSETEX (#7340)",

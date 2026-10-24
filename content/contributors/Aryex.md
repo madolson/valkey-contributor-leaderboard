@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 325,
-  "commit_count": 122,
-  "review_count": 203,
+  "score": 333,
+  "commit_count": 125,
+  "review_count": 208,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,30 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "d3944c4dce",
+      "message": "docs: add remaining client feature manifests (#347)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/347",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/d3944c4dce4545c12f018b9f8dc90a4452123d63"
+    },
+    {
+      "sha": "59d52cc8f4",
+      "message": "docs: add supported client features reference (#339)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/339",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/59d52cc8f4e6308a3b1d5b3eb03f14ad024f9754"
+    },
+    {
+      "sha": "78d0a9461f",
+      "message": "chore(deps): bump valkey-glide for DELIFEQ (#381)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/381",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/78d0a9461fbcade92e2ed739e6a9af4182d1913e"
+    },
     {
       "sha": "626fe57d33",
       "message": "docs: migrate client language tabs (#344)",
@@ -994,6 +1018,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b360e69bcc",
+      "message": "fix(core): require TLS for IAM auth on ordinary and scoped connections (#7397)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7397",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b360e69bcc72a06b7bb933ba3fdbdf9708f5059f"
+    },
+    {
+      "sha": "2c294572f4",
+      "message": "feat(python): add SET IFNE support and fix GETSET and SET IFEQ compression (#7414)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7414",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2c294572f431c9511a8c487570927dc8082b70aa"
+    },
+    {
+      "sha": "d83cec7ad2",
+      "message": "test(python): Poll for server state instead of sleeping (#7342)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7342",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d83cec7ad2cd9e541fed22559e76a5c1ab7ea6da"
+    },
+    {
+      "sha": "d09766e1fb",
+      "message": "feat(hash): add key-level `NX` / `XX` options to `HSETEX` (#606)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/606",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d09766e1fbe2d51b5ecfdfdea799a4da390c7134"
+    },
+    {
+      "sha": "3cbc6032b6",
+      "message": "feat(string): add `DELIFEQ` command (#605)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/605",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/3cbc6032b6594a855d97cc617232c00f6da16a3a"
+    },
     {
       "sha": "2102198db5",
       "message": "feat(set): add `XX` option to `SISMEMBER` (#603)",

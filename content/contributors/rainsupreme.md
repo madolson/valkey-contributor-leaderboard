@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 151,
+  "score": 152,
   "commit_count": 42,
-  "review_count": 109,
+  "review_count": 110,
   "repos": [
     "valkey",
     "valkey-container",
@@ -352,6 +352,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5c6a0cdcf3",
+      "message": "Fix ZINTER/ZINTERSTORE score when a weighted term is 0*inf (#4997)",
+      "date": "2026-10-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4997",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5c6a0cdcf3209e7a14c376fe01ac278675c43423"
+    },
     {
       "sha": "a4e5b695ad",
       "message": "chore: update stale skiplist comments to the ordered index(#4911)",

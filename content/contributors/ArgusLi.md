@@ -2,13 +2,21 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 136,
-  "commit_count": 75,
+  "score": 137,
+  "commit_count": 76,
   "review_count": 61,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "07c20e8cb1",
+      "message": "Refactor  (#581)",
+      "date": "2026-10-23",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/581",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/07c20e8cb16aacba3dbfb933c5ab08a609f87e88"
+    },
     {
       "sha": "7a38108a0f",
       "message": "Add more detail for utilization and refresh rate in Cluster Topology documentation (#543)",

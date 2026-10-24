@@ -2,8 +2,8 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 173,
-  "commit_count": 59,
+  "score": 175,
+  "commit_count": 61,
   "review_count": 114,
   "repos": [
     "valkey",
@@ -11,6 +11,22 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "307534ad16",
+      "message": "Release valkey-resources 0.4.0 (#291)",
+      "date": "2026-10-23",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/291",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/307534ad168bc87117c218bab19e5074ef8521ad"
+    },
+    {
+      "sha": "dfa3aa92df",
+      "message": "Release valkey-operator 0.8.0 (#290)",
+      "date": "2026-10-23",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/290",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/dfa3aa92df0cc0f5f7a0d4319eb5778e765b0193"
+    },
     {
       "sha": "c41fb27b43",
       "message": "fix: ignore the deprecated serviceAccount field when comparing pod templates (#546)",

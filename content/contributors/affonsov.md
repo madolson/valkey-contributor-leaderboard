@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 297,
+  "score": 300,
   "commit_count": 102,
-  "review_count": 195,
+  "review_count": 198,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -831,6 +831,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fb14e34ce9",
+      "message": "fix(core): reset pooled connection state conditionally and route DISCARD to all cluster nodes (#7398)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7398",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/fb14e34ce9848c592875adc6392c84fa5bc5dd24"
+    },
+    {
+      "sha": "b360e69bcc",
+      "message": "fix(core): require TLS for IAM auth on ordinary and scoped connections (#7397)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7397",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b360e69bcc72a06b7bb933ba3fdbdf9708f5059f"
+    },
+    {
+      "sha": "416a0039b5",
+      "message": "ci: skip heavy workflows on doc-only pull requests (#7420)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7420",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/416a0039b5c7bdbe0fc1756b3e0c39533451ba60"
+    },
     {
       "sha": "ce90cf9d29",
       "message": "ci(node): tag napi prepublish platform packages so prerelease publish works (#7367)",

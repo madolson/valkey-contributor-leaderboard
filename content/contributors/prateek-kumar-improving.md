@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 459,
+  "score": 460,
   "commit_count": 159,
-  "review_count": 300,
+  "review_count": 301,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1287,6 +1287,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6f66301535",
+      "message": "test(php): fix flaky testExists and testFailoverSucceeds (#376)",
+      "date": "2026-10-23",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/376",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/6f66301535695b2e6eb3f6bc4950228cd12347d8"
+    },
     {
       "sha": "2102198db5",
       "message": "feat(set): add `XX` option to `SISMEMBER` (#603)",
