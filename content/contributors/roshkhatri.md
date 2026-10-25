@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 457,
+  "score": 458,
   "commit_count": 165,
-  "review_count": 292,
+  "review_count": 293,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1342,6 +1342,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "668d875ca4",
+      "message": "Link macOS modules with the compiler driver (#4927)",
+      "date": "2026-10-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4927",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/668d875ca40dce5c6aff52a33112e0ef26a253fd"
+    },
     {
       "sha": "3927999290",
       "message": "Let several releases publish on the same day without cancelling each other (#75)",

@@ -2,9 +2,9 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 129,
+  "score": 130,
   "commit_count": 41,
-  "review_count": 88,
+  "review_count": 89,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -343,6 +343,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e335d9ea36",
+      "message": "Remove dead duplicate Verify() from ft_search_parser (#1367)",
+      "date": "2026-10-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1367",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e335d9ea36e32c32a1f67074fd7c43cc2fa0870b"
+    },
     {
       "sha": "c672fd7a7e",
       "message": "fix: hybrid tag => KNN queries return correct score (issue #1414) (#1490)",

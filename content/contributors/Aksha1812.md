@@ -2,9 +2,9 @@
   "title": "Aksha1812",
   "login": "Aksha1812",
   "avatar_url": "https://avatars.githubusercontent.com/u/48383029?v=4",
-  "score": 112,
+  "score": 113,
   "commit_count": 69,
-  "review_count": 43,
+  "review_count": 44,
   "repos": [
     "valkey",
     "valkey-ci-agent",
@@ -565,6 +565,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e335d9ea36",
+      "message": "Remove dead duplicate Verify() from ft_search_parser (#1367)",
+      "date": "2026-10-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1367",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e335d9ea36e32c32a1f67074fd7c43cc2fa0870b"
+    },
     {
       "sha": "b9fe506350",
       "message": "[Bug] Fix flaky test_rdb_load_error_cleanup: -LOADING is not a crash (#1553)",

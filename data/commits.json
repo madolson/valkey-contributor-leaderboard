@@ -203095,6 +203095,92 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/667"
+    },
+    {
+      "sha": "3e6ddc3b95eefea46d57e54ebc86e6341b416ece",
+      "author_login": "jfg956",
+      "author_id": 8471576,
+      "avatar_url": "https://avatars.githubusercontent.com/u/8471576?v=4",
+      "message": "Misc improvements.",
+      "date": "2026-10-24T21:23:11Z",
+      "repo": "planet",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "f88492ceb2547fb5dcb403c0dc0c23745a3971c3",
+      "author_login": "jfg956",
+      "author_id": 8471576,
+      "avatar_url": "https://avatars.githubusercontent.com/u/8471576?v=4",
+      "message": "Update link to Font Awesome.",
+      "date": "2026-10-24T21:17:07Z",
+      "repo": "planet",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "668d875ca40dce5c6aff52a33112e0ef26a253fd",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Link macOS modules with the compiler driver (#4927)",
+      "date": "2026-10-24T17:20:31Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "daemyung-lablup",
+          "date": "2026-10-19T11:26:17Z"
+        },
+        {
+          "login": "roshkhatri",
+          "date": "2026-10-22T19:22:50Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-10-23T03:40:11Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4927"
+    },
+    {
+      "sha": "989889a9b2e68ea974fb47046e120c858dfa429c",
+      "author_login": "pirate329",
+      "author_id": 95901729,
+      "avatar_url": "https://avatars.githubusercontent.com/u/95901729?v=4",
+      "message": "Send SELECT at the end of the slot migration snapshot (#4952)",
+      "date": "2026-10-24T17:04:50Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "murphyjacob4",
+          "date": "2026-10-19T21:40:14Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4952"
+    },
+    {
+      "sha": "e335d9ea36e32c32a1f67074fd7c43cc2fa0870b",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Remove dead duplicate Verify() from ft_search_parser (#1367)",
+      "date": "2026-10-24T23:34:26Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-09-28T23:01:34Z"
+        },
+        {
+          "login": "Aksha1812",
+          "date": "2026-09-30T06:51:39Z"
+        },
+        {
+          "login": "yairgott",
+          "date": "2026-10-22T23:19:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1367"
     }
   ]
 }

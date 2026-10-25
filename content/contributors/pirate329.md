@@ -2,13 +2,21 @@
   "title": "pirate329",
   "login": "pirate329",
   "avatar_url": "https://avatars.githubusercontent.com/u/95901729?v=4",
-  "score": 1,
-  "commit_count": 1,
+  "score": 2,
+  "commit_count": 2,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "989889a9b2",
+      "message": "Send SELECT at the end of the slot migration snapshot (#4952)",
+      "date": "2026-10-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4952",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/989889a9b2e68ea974fb47046e120c858dfa429c"
+    },
     {
       "sha": "fbb5ab63bb",
       "message": "Copy expired-but-unreaped fields in hashTypeDup (#4939)",

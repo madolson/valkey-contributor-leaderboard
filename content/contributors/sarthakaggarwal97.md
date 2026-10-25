@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 427,
+  "score": 428,
   "commit_count": 114,
-  "review_count": 313,
+  "review_count": 314,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -932,6 +932,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "668d875ca4",
+      "message": "Link macOS modules with the compiler driver (#4927)",
+      "date": "2026-10-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4927",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/668d875ca40dce5c6aff52a33112e0ef26a253fd"
+    },
     {
       "sha": "6902fdc965",
       "message": "Make quicklist read-only iteration non-mutating on compressed nodes (#4782)",

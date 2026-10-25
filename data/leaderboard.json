@@ -2304,7 +2304,7 @@
       "name": "Roshan Khatri",
       "company": "",
       "commits": 165,
-      "reviews": 292,
+      "reviews": 293,
       "per_repo": {
         "valkey": {
           "2024-03": [
@@ -2413,7 +2413,7 @@
           ],
           "2026-10": [
             3,
-            4
+            5
           ]
         },
         "valkey-bundle": {
@@ -2875,7 +2875,7 @@
           ]
         }
       },
-      "score": 457,
+      "score": 458,
       "repos": [
         "valkey",
         "valkey-bundle",
@@ -2898,7 +2898,7 @@
       "name": "Sarthak Aggarwal",
       "company": "aws @valkey-io @opensearch-project",
       "commits": 114,
-      "reviews": 313,
+      "reviews": 314,
       "per_repo": {
         "valkey": {
           "2024-12": [
@@ -2991,7 +2991,7 @@
           ],
           "2026-10": [
             2,
-            12
+            13
           ]
         },
         "valkey-bundle": {
@@ -3193,7 +3193,7 @@
           ]
         }
       },
-      "score": 427,
+      "score": 428,
       "repos": [
         "valkey",
         "valkey-bundle",
@@ -3657,7 +3657,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
       "name": "Allen Samuels",
       "company": "Amazon Web Services",
-      "commits": 86,
+      "commits": 87,
       "reviews": 251,
       "per_repo": {
         "valkey": {
@@ -3774,12 +3774,12 @@
             17
           ],
           "2026-10": [
-            0,
+            1,
             5
           ]
         }
       },
-      "score": 337,
+      "score": 338,
       "repos": [
         "valkey",
         "valkey-doc",
@@ -5605,7 +5605,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
       "name": "Avi Fenesh",
       "company": "AWS",
-      "commits": 98,
+      "commits": 99,
       "reviews": 166,
       "per_repo": {
         "valkey": {
@@ -5614,6 +5614,10 @@
             0
           ],
           "2026-08": [
+            1,
+            0
+          ],
+          "2026-10": [
             1,
             0
           ]
@@ -5743,7 +5747,7 @@
           ]
         }
       },
-      "score": 264,
+      "score": 265,
       "repos": [
         "valkey",
         "valkey-doc",
@@ -8314,6 +8318,196 @@
       ]
     },
     {
+      "login": "murphyjacob4",
+      "id": 22739141,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
+      "name": "Jacob Murphy",
+      "company": "Google",
+      "commits": 49,
+      "reviews": 104,
+      "per_repo": {
+        "valkey": {
+          "2024-04": [
+            1,
+            0
+          ],
+          "2024-05": [
+            0,
+            1
+          ],
+          "2024-11": [
+            1,
+            0
+          ],
+          "2025-04": [
+            2,
+            0
+          ],
+          "2025-05": [
+            2,
+            0
+          ],
+          "2025-06": [
+            0,
+            1
+          ],
+          "2025-08": [
+            2,
+            4
+          ],
+          "2025-09": [
+            3,
+            3
+          ],
+          "2025-10": [
+            12,
+            2
+          ],
+          "2025-12": [
+            1,
+            2
+          ],
+          "2026-01": [
+            0,
+            6
+          ],
+          "2026-02": [
+            1,
+            4
+          ],
+          "2026-03": [
+            1,
+            3
+          ],
+          "2026-04": [
+            2,
+            13
+          ],
+          "2026-05": [
+            0,
+            2
+          ],
+          "2026-06": [
+            0,
+            6
+          ],
+          "2026-07": [
+            1,
+            10
+          ],
+          "2026-08": [
+            1,
+            6
+          ],
+          "2026-09": [
+            0,
+            8
+          ],
+          "2026-10": [
+            3,
+            3
+          ]
+        },
+        "valkey-doc": {
+          "2025-10": [
+            2,
+            2
+          ],
+          "2025-12": [
+            0,
+            1
+          ],
+          "2026-01": [
+            1,
+            0
+          ],
+          "2026-03": [
+            0,
+            1
+          ],
+          "2026-06": [
+            0,
+            1
+          ],
+          "2026-08": [
+            1,
+            1
+          ],
+          "2026-09": [
+            1,
+            0
+          ]
+        },
+        "valkey-io.github.io": {
+          "2025-10": [
+            1,
+            1
+          ],
+          "2026-05": [
+            0,
+            1
+          ],
+          "2026-09": [
+            0,
+            1
+          ]
+        },
+        "valkey-search": {
+          "2025-02": [
+            1,
+            0
+          ],
+          "2025-03": [
+            1,
+            3
+          ],
+          "2025-04": [
+            0,
+            4
+          ],
+          "2025-05": [
+            5,
+            6
+          ],
+          "2025-06": [
+            0,
+            1
+          ],
+          "2025-07": [
+            0,
+            1
+          ],
+          "2025-10": [
+            0,
+            1
+          ],
+          "2025-12": [
+            0,
+            1
+          ],
+          "2026-01": [
+            2,
+            3
+          ],
+          "2026-02": [
+            1,
+            0
+          ],
+          "2026-04": [
+            0,
+            1
+          ]
+        }
+      },
+      "score": 153,
+      "repos": [
+        "valkey",
+        "valkey-doc",
+        "valkey-io.github.io",
+        "valkey-search"
+      ]
+    },
+    {
       "login": "rainsupreme",
       "id": 20649182,
       "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
@@ -8483,196 +8677,6 @@
         "valkey-io.github.io",
         "valkey-perf-benchmark",
         "valkey-skills"
-      ]
-    },
-    {
-      "login": "murphyjacob4",
-      "id": 22739141,
-      "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-      "name": "Jacob Murphy",
-      "company": "Google",
-      "commits": 49,
-      "reviews": 103,
-      "per_repo": {
-        "valkey": {
-          "2024-04": [
-            1,
-            0
-          ],
-          "2024-05": [
-            0,
-            1
-          ],
-          "2024-11": [
-            1,
-            0
-          ],
-          "2025-04": [
-            2,
-            0
-          ],
-          "2025-05": [
-            2,
-            0
-          ],
-          "2025-06": [
-            0,
-            1
-          ],
-          "2025-08": [
-            2,
-            4
-          ],
-          "2025-09": [
-            3,
-            3
-          ],
-          "2025-10": [
-            12,
-            2
-          ],
-          "2025-12": [
-            1,
-            2
-          ],
-          "2026-01": [
-            0,
-            6
-          ],
-          "2026-02": [
-            1,
-            4
-          ],
-          "2026-03": [
-            1,
-            3
-          ],
-          "2026-04": [
-            2,
-            13
-          ],
-          "2026-05": [
-            0,
-            2
-          ],
-          "2026-06": [
-            0,
-            6
-          ],
-          "2026-07": [
-            1,
-            10
-          ],
-          "2026-08": [
-            1,
-            6
-          ],
-          "2026-09": [
-            0,
-            8
-          ],
-          "2026-10": [
-            3,
-            2
-          ]
-        },
-        "valkey-doc": {
-          "2025-10": [
-            2,
-            2
-          ],
-          "2025-12": [
-            0,
-            1
-          ],
-          "2026-01": [
-            1,
-            0
-          ],
-          "2026-03": [
-            0,
-            1
-          ],
-          "2026-06": [
-            0,
-            1
-          ],
-          "2026-08": [
-            1,
-            1
-          ],
-          "2026-09": [
-            1,
-            0
-          ]
-        },
-        "valkey-io.github.io": {
-          "2025-10": [
-            1,
-            1
-          ],
-          "2026-05": [
-            0,
-            1
-          ],
-          "2026-09": [
-            0,
-            1
-          ]
-        },
-        "valkey-search": {
-          "2025-02": [
-            1,
-            0
-          ],
-          "2025-03": [
-            1,
-            3
-          ],
-          "2025-04": [
-            0,
-            4
-          ],
-          "2025-05": [
-            5,
-            6
-          ],
-          "2025-06": [
-            0,
-            1
-          ],
-          "2025-07": [
-            0,
-            1
-          ],
-          "2025-10": [
-            0,
-            1
-          ],
-          "2025-12": [
-            0,
-            1
-          ],
-          "2026-01": [
-            2,
-            3
-          ],
-          "2026-02": [
-            1,
-            0
-          ],
-          "2026-04": [
-            0,
-            1
-          ]
-        }
-      },
-      "score": 152,
-      "repos": [
-        "valkey",
-        "valkey-doc",
-        "valkey-io.github.io",
-        "valkey-search"
       ]
     },
     {
@@ -9048,7 +9052,7 @@
       "name": "Yair Gottdenker",
       "company": "Google",
       "commits": 41,
-      "reviews": 88,
+      "reviews": 89,
       "per_repo": {
         "valkey": {
           "2025-04": [
@@ -9161,11 +9165,11 @@
           ],
           "2026-10": [
             2,
-            1
+            2
           ]
         }
       },
-      "score": 129,
+      "score": 130,
       "repos": [
         "valkey",
         "valkey-doc",
@@ -9374,7 +9378,7 @@
       "name": "AkshaThakkar1812",
       "company": "",
       "commits": 69,
-      "reviews": 43,
+      "reviews": 44,
       "per_repo": {
         "valkey": {
           "2026-09": [
@@ -9451,7 +9455,7 @@
           ],
           "2026-09": [
             7,
-            5
+            6
           ],
           "2026-10": [
             1,
@@ -9459,7 +9463,7 @@
           ]
         }
       },
-      "score": 112,
+      "score": 113,
       "repos": [
         "valkey",
         "valkey-ci-agent",
@@ -11265,7 +11269,7 @@
       "name": "Shaopeng Gu",
       "company": "",
       "commits": 27,
-      "reviews": 25,
+      "reviews": 26,
       "per_repo": {
         "valkey-ci-agent": {
           "2026-10": [
@@ -11308,7 +11312,7 @@
           ],
           "2026-09": [
             3,
-            13
+            14
           ],
           "2026-10": [
             14,
@@ -11316,7 +11320,7 @@
           ]
         }
       },
-      "score": 52,
+      "score": 53,
       "repos": [
         "valkey-ci-agent",
         "valkey-doc",
@@ -19954,6 +19958,27 @@
       ]
     },
     {
+      "login": "daemyung-lablup",
+      "id": 0,
+      "avatar_url": "https://github.com/daemyung-lablup.png?size=64",
+      "name": "DaeMyung Kang",
+      "company": "lablup",
+      "commits": 0,
+      "reviews": 3,
+      "per_repo": {
+        "valkey": {
+          "2026-10": [
+            0,
+            3
+          ]
+        }
+      },
+      "score": 3,
+      "repos": [
+        "valkey"
+      ]
+    },
+    {
       "login": "uintaam",
       "id": 295346,
       "avatar_url": "https://avatars.githubusercontent.com/u/295346?v=4",
@@ -22283,6 +22308,27 @@
       ]
     },
     {
+      "login": "pirate329",
+      "id": 95901729,
+      "avatar_url": "https://avatars.githubusercontent.com/u/95901729?v=4",
+      "name": "pirate329",
+      "company": "",
+      "commits": 2,
+      "reviews": 0,
+      "per_repo": {
+        "valkey": {
+          "2026-10": [
+            2,
+            0
+          ]
+        }
+      },
+      "score": 2,
+      "repos": [
+        "valkey"
+      ]
+    },
+    {
       "login": "SatvikMishra08",
       "id": 89024979,
       "avatar_url": "https://avatars.githubusercontent.com/u/89024979?v=4",
@@ -22301,27 +22347,6 @@
       "score": 2,
       "repos": [
         "valkey-doc"
-      ]
-    },
-    {
-      "login": "daemyung-lablup",
-      "id": 0,
-      "avatar_url": "https://github.com/daemyung-lablup.png?size=64",
-      "name": "DaeMyung Kang",
-      "company": "lablup",
-      "commits": 0,
-      "reviews": 2,
-      "per_repo": {
-        "valkey": {
-          "2026-10": [
-            0,
-            2
-          ]
-        }
-      },
-      "score": 2,
-      "repos": [
-        "valkey"
       ]
     },
     {
@@ -28755,27 +28780,6 @@
       "id": 190666548,
       "avatar_url": "https://avatars.githubusercontent.com/u/190666548?v=4",
       "name": "",
-      "company": "",
-      "commits": 1,
-      "reviews": 0,
-      "per_repo": {
-        "valkey": {
-          "2026-10": [
-            1,
-            0
-          ]
-        }
-      },
-      "score": 1,
-      "repos": [
-        "valkey"
-      ]
-    },
-    {
-      "login": "pirate329",
-      "id": 95901729,
-      "avatar_url": "https://avatars.githubusercontent.com/u/95901729?v=4",
-      "name": "pirate329",
       "company": "",
       "commits": 1,
       "reviews": 0,

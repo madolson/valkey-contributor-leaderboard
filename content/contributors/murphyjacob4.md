@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 152,
+  "score": 153,
   "commit_count": 49,
-  "review_count": 103,
+  "review_count": 104,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -406,6 +406,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "989889a9b2",
+      "message": "Send SELECT at the end of the slot migration snapshot (#4952)",
+      "date": "2026-10-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4952",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/989889a9b2e68ea974fb47046e120c858dfa429c"
+    },
     {
       "sha": "b9e22c2715",
       "message": "Fix eviction replication and replica DB selection during atomic slot migration (#4920)",

@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 52,
+  "score": 53,
   "commit_count": 27,
-  "review_count": 25,
+  "review_count": 26,
   "repos": [
     "valkey-ci-agent",
     "valkey-doc",
@@ -230,6 +230,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e335d9ea36",
+      "message": "Remove dead duplicate Verify() from ft_search_parser (#1367)",
+      "date": "2026-10-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1367",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e335d9ea36e32c32a1f67074fd7c43cc2fa0870b"
+    },
     {
       "sha": "8360dc56ec",
       "message": "Filtering/scoring caching and main thread locking improvements (#1472)",

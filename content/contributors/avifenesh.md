@@ -2,8 +2,8 @@
   "title": "avifenesh",
   "login": "avifenesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
-  "score": 264,
-  "commit_count": 98,
+  "score": 265,
+  "commit_count": 99,
   "review_count": 166,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkey-skills"
   ],
   "commit_list": [
+    {
+      "sha": "668d875ca4",
+      "message": "Link macOS modules with the compiler driver (#4927)",
+      "date": "2026-10-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4927",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/668d875ca40dce5c6aff52a33112e0ef26a253fd"
+    },
     {
       "sha": "e1ccdd64be",
       "message": "Apply the open Dependabot bumps in one change (#28)",

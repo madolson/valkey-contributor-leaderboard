@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 337,
-  "commit_count": 86,
+  "score": 338,
+  "commit_count": 87,
   "review_count": 251,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "e335d9ea36",
+      "message": "Remove dead duplicate Verify() from ft_search_parser (#1367)",
+      "date": "2026-10-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1367",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e335d9ea36e32c32a1f67074fd7c43cc2fa0870b"
+    },
     {
       "sha": "04e7934755",
       "message": "[BUG] Fix build-dependent FT.HYBRID cosine tests failing in debug builds (#1480)",
