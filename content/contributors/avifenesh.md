@@ -2,8 +2,8 @@
   "title": "avifenesh",
   "login": "avifenesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
-  "score": 265,
-  "commit_count": 99,
+  "score": 267,
+  "commit_count": 101,
   "review_count": 166,
   "repos": [
     "valkey",
@@ -30,6 +30,22 @@
       "repo": "valkey-review-bot",
       "pr_url": "https://github.com/valkey-io/valkey-review-bot/pull/28",
       "commit_url": "https://github.com/valkey-io/valkey-review-bot/commit/e1ccdd64be4bbee8baf3484fbe3013c524c9197f"
+    },
+    {
+      "sha": "b6ca18dcd3",
+      "message": "Install production dependencies with npm ci in the agent images",
+      "date": "2026-10-15",
+      "repo": "valkey-review-bot",
+      "pr_url": "https://github.com/valkey-io/valkey-review-bot/pull/31",
+      "commit_url": "https://github.com/valkey-io/valkey-review-bot/commit/b6ca18dcd3444c9de062b61d8410cbd91192772c"
+    },
+    {
+      "sha": "d61fc8913b",
+      "message": "Keep the Lambda packages on Node 24 types",
+      "date": "2026-10-15",
+      "repo": "valkey-review-bot",
+      "pr_url": "https://github.com/valkey-io/valkey-review-bot/pull/30",
+      "commit_url": "https://github.com/valkey-io/valkey-review-bot/commit/d61fc8913b0fdb277049326a976e66769b00e5a2"
     },
     {
       "sha": "4669926ecf",
@@ -809,6 +825,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1a2a4a3c48",
+      "message": "Supersede stale facts in the valkey-review skill for 9.1.2",
+      "date": "2026-10-22",
+      "repo": "valkey-review-bot",
+      "pr_url": "https://github.com/valkey-io/valkey-review-bot/pull/42",
+      "commit_url": "https://github.com/valkey-io/valkey-review-bot/commit/1a2a4a3c483932fa3af0b0eb699d4974c9960c29"
+    },
     {
       "sha": "8f6a9e7452",
       "message": "GO: Add migrate commands support for multiple keys (#6293)",

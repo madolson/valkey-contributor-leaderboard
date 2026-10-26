@@ -2,8 +2,8 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 428,
-  "commit_count": 114,
+  "score": 430,
+  "commit_count": 116,
   "review_count": 314,
   "repos": [
     "valkey",
@@ -18,6 +18,22 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "da039cf8ab",
+      "message": "Let versions.sh read the hashes README from a local file (#171)",
+      "date": "2026-10-26",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/171",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/da039cf8ab989fa36102a77fba46351c356437ec"
+    },
+    {
+      "sha": "025788d2fc",
+      "message": "Read the release hash from a checkout of valkey-hashes, not the CDN (#76)",
+      "date": "2026-10-26",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/025788d2fc5a9c029b713b930aa819b3630d120e"
+    },
     {
       "sha": "3927999290",
       "message": "Let several releases publish on the same day without cancelling each other (#75)",

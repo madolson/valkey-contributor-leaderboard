@@ -203181,6 +203181,119 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1367"
+    },
+    {
+      "sha": "da039cf8ab989fa36102a77fba46351c356437ec",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Let versions.sh read the hashes README from a local file (#171)",
+      "date": "2026-10-26T01:38:57Z",
+      "repo": "valkey-container",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-10-26T01:38:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/171"
+    },
+    {
+      "sha": "025788d2fc5a9c029b713b930aa819b3630d120e",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Read the release hash from a checkout of valkey-hashes, not the CDN (#76)",
+      "date": "2026-10-26T01:41:29Z",
+      "repo": "valkey-release-automation",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-10-26T01:41:20Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/76"
+    },
+    {
+      "sha": "9780d6bd26aed9e9366bbaedb2a79c529672a1ab",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Merge pull request #42 from valkey-io/skill-check/valkey-review/9.1.2",
+      "date": "2026-10-25T19:15:03Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "d936ba4c723f1123897c5e3d97d6ad21db976473",
+      "author_login": "ranshid",
+      "author_id": 88133677,
+      "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
+      "message": "Merge pull request #31 from valkey-io/fix/agent-image-npm-ci",
+      "date": "2026-10-25T07:09:44Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c96f79b47b141086f4c0844c8bb2f971ca22d7af",
+      "author_login": "ranshid",
+      "author_id": 88133677,
+      "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
+      "message": "Merge pull request #30 from valkey-io/deps/lambda-node24-types",
+      "date": "2026-10-25T07:09:10Z",
+      "repo": "valkey-review-bot",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "1a2a4a3c483932fa3af0b0eb699d4974c9960c29",
+      "author_login": "valkey-review-bot[bot]",
+      "author_id": 282604435,
+      "avatar_url": "https://avatars.githubusercontent.com/in/3633497?v=4",
+      "message": "Supersede stale facts in the valkey-review skill for 9.1.2",
+      "date": "2026-10-22T07:48:26Z",
+      "repo": "valkey-review-bot",
+      "reviewed": [
+        {
+          "login": "avifenesh",
+          "date": "2026-10-25T19:15:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-review-bot/pull/42"
+    },
+    {
+      "sha": "b6ca18dcd3444c9de062b61d8410cbd91192772c",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Install production dependencies with npm ci in the agent images",
+      "date": "2026-10-15T11:48:40Z",
+      "repo": "valkey-review-bot",
+      "reviewed": [
+        {
+          "login": "ranshid",
+          "date": "2026-10-25T07:09:38Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-review-bot/pull/31"
+    },
+    {
+      "sha": "d61fc8913b0fdb277049326a976e66769b00e5a2",
+      "author_login": "avifenesh",
+      "author_id": 55848801,
+      "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
+      "message": "Keep the Lambda packages on Node 24 types",
+      "date": "2026-10-15T11:24:44Z",
+      "repo": "valkey-review-bot",
+      "reviewed": [
+        {
+          "login": "ranshid",
+          "date": "2026-10-25T07:09:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-review-bot/pull/30"
     }
   ]
 }
