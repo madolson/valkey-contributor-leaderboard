@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 164,
+  "score": 165,
   "commit_count": 21,
-  "review_count": 143,
+  "review_count": 144,
   "repos": [
     "valkey",
     "valkey-container",
@@ -184,6 +184,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bb34a34c80",
+      "message": "Rebuild the clients page and add an Integrations page (#602)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/602",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/bb34a34c80753c95f493c1713ee2c83a99d3e3b5"
+    },
     {
       "sha": "edb81cc2dc",
       "message": "Add blog post: Introducing the Valkey GLIDE Ruby Client (#672)",

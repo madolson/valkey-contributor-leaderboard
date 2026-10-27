@@ -2,14 +2,22 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 83,
-  "commit_count": 25,
+  "score": 84,
+  "commit_count": 26,
   "review_count": 58,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "aaeee8d5b1",
+      "message": "bgiteration: remove from early-iterate on key-delete",
+      "date": "2026-10-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4996",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/aaeee8d5b17d490a9490a83407591d746d4d4051"
+    },
     {
       "sha": "77b00b2dda",
       "message": "bgiteration: fix barrier item count for swap/flush during termination (#4750)",

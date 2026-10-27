@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 97,
+  "score": 99,
   "commit_count": 59,
-  "review_count": 38,
+  "review_count": 40,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -491,6 +491,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6c4a09598e",
+      "message": "fall through to nvme uring when dram iovec table is reregistering (#160)",
+      "date": "2026-10-26",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/160",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/6c4a09598ea38fce3d2b5108d8a5e4eca86036ed"
+    },
+    {
+      "sha": "4a8292cf2e",
+      "message": "bench: add workload plugins (fuzz, tcp-connections) for endurance testing (#158)",
+      "date": "2026-10-26",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/158",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/4a8292cf2ebbe458f14929dbf7d78d3cf9f7a6ca"
+    },
     {
       "sha": "7510b9483d",
       "message": "No-op persistence callbacks crash (#150)",

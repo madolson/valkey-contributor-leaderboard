@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 75,
-  "commit_count": 24,
-  "review_count": 51,
+  "score": 82,
+  "commit_count": 27,
+  "review_count": 55,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,30 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "db45db54c7",
+      "message": "fix(core): Use the client's current password for scopes (#7419)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7419",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/db45db54c7620a059c60da92686451961efe2811"
+    },
+    {
+      "sha": "4fa2e056a3",
+      "message": "fix(security): update RustSec-vulnerable zstd crates (#7438)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7438",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4fa2e056a3055500bd6bdb04a9db7a9448bf9243"
+    },
+    {
+      "sha": "81a1edffcd",
+      "message": "ci: pin ubuntu-latest jobs to ubuntu-24.04 (#390)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/390",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/81a1edffcd1c99092f52eab54a293b5557fba741"
+    },
     {
       "sha": "d83cec7ad2",
       "message": "test(python): Poll for server state instead of sleeping (#7342)",
@@ -207,6 +231,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4a1185aef6",
+      "message": "fix(core): replace stale connection on circular MOVED (#7427)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7427",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4a1185aef6063a577d42b1141f2179802bd5b3fa"
+    },
+    {
+      "sha": "4a1185aef6",
+      "message": "fix(core): replace stale connection on circular MOVED (#7427)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7427",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4a1185aef6063a577d42b1141f2179802bd5b3fa"
+    },
+    {
+      "sha": "47d068a3a7",
+      "message": "fix(python): always rebuild `libglide_ffi` in `dev.py` build (#7431)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7431",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/47d068a3a79e02ea46f6f834b49d02ad5ae0885b"
+    },
+    {
+      "sha": "5922783592",
+      "message": "fix(core): reserve warmup slots up front to stop pool over-creation (#7413)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7413",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/59227835923f138d68d59abd1d247f73d807894a"
+    },
     {
       "sha": "dbe8d4edb8",
       "message": "docs: make build/lint/test docs self-sufficient across all clients (#7344)",

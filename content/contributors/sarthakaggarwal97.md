@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 430,
-  "commit_count": 116,
-  "review_count": 314,
+  "score": 436,
+  "commit_count": 118,
+  "review_count": 318,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -18,6 +18,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "e7d73f057f",
+      "message": "Allow valkey-doc tag pushes containing workflows (#78)",
+      "date": "2026-10-27",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/78",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/e7d73f057f70307577aa66b515ddb2fe6fd49718"
+    },
     {
       "sha": "da039cf8ab",
       "message": "Let versions.sh read the hashes README from a local file (#171)",
@@ -33,6 +41,14 @@
       "repo": "valkey-release-automation",
       "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/76",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/025788d2fc5a9c029b713b930aa819b3630d120e"
+    },
+    {
+      "sha": "ef601f071b",
+      "message": "Fix workflows after ubuntu-latest rollover (#77)",
+      "date": "2026-10-26",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/77",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/ef601f071b999e9353eeef3b5686ac7c71c61b15"
     },
     {
       "sha": "3927999290",
@@ -948,6 +964,78 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f90e8846dd",
+      "message": "Update website for version 9.0.7 (#724)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/724",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f90e8846dd493bd7f46ad1cb6123e47404000361"
+    },
+    {
+      "sha": "7c8f915ff0",
+      "message": "Fix release template packages front matter (#722)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/722",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/7c8f915ff0cde126f9c6afec71ca69aed0a29bc3"
+    },
+    {
+      "sha": "7c8f915ff0",
+      "message": "Fix release template packages front matter (#722)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/722",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/7c8f915ff0cde126f9c6afec71ca69aed0a29bc3"
+    },
+    {
+      "sha": "404c286ac9",
+      "message": "Update website for version 8.0.12 (#721)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/721",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/404c286ac926c6f40d9ae7e4757664ae1ef04186"
+    },
+    {
+      "sha": "f769ab730a",
+      "message": "Update website for version 8.1.11 (#720)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/720",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f769ab730aa9317a8f2e227f078293904745c41e"
+    },
+    {
+      "sha": "b32c66886d",
+      "message": "Update website for version 9.1.3 (#719)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/719",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/b32c66886de51c86c8d04d3827df57ab01540f3c"
+    },
+    {
+      "sha": "67f45a8a2b",
+      "message": "Update website for version 7.2.15 (#718)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/718",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/67f45a8a2b154bcb381dd57c982453aff9236aed"
+    },
+    {
+      "sha": "b4c125082a",
+      "message": "Fix cluster Pub/Sub length truncation (#5030)",
+      "date": "2026-10-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5030",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b4c125082ad285e10df7a87ef90528ed55802b89"
+    },
+    {
+      "sha": "7c950b1ed7",
+      "message": "Fix CI failures on clang-format due to OS changes on the runner Image (#5029)",
+      "date": "2026-10-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5029",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7c950b1ed7d1ce7e9b5c47bf9921250b8cee71a6"
+    },
     {
       "sha": "668d875ca4",
       "message": "Link macOS modules with the compiler driver (#4927)",

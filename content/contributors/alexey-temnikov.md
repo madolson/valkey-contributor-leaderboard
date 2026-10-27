@@ -2,16 +2,17 @@
   "title": "alexey-temnikov",
   "login": "alexey-temnikov",
   "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
-  "score": 33,
+  "score": 34,
   "commit_count": 15,
-  "review_count": 18,
+  "review_count": 19,
   "repos": [
     "valkey-admin",
     "valkey-developer-resources",
     "valkey-doc",
     "valkey-glide",
     "valkey-glide-csharp",
-    "valkey-glide-docs"
+    "valkey-glide-docs",
+    "valkey-io.github.io"
   ],
   "commit_list": [
     {
@@ -136,6 +137,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bb34a34c80",
+      "message": "Rebuild the clients page and add an Integrations page (#602)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/602",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/bb34a34c80753c95f493c1713ee2c83a99d3e3b5"
+    },
     {
       "sha": "d94d74ae3d",
       "message": "ci: let heavy cookbooks skip notebook execution (reconcile #99 with uv)",

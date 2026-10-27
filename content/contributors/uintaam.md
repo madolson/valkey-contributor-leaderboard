@@ -2,13 +2,29 @@
   "title": "uintaam",
   "login": "uintaam",
   "avatar_url": "https://avatars.githubusercontent.com/u/295346?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "2fab9eddab",
+      "message": "fix(php): do not close or use clients inherited through fork() (#351)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/351",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/2fab9eddab3d398168a8cd09e72da663edeb76cc"
+    },
+    {
+      "sha": "370c2f4934",
+      "message": "feat(php): cap the pub/sub subscriber queue at 10,000 messages / 64 MiB (#365)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/365",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/370c2f493405096d56d2c6443518fa1e30e640f4"
+    },
     {
       "sha": "6f66301535",
       "message": "test(php): fix flaky testExists and testFailoverSucceeds (#376)",

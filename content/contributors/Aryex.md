@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 333,
+  "score": 334,
   "commit_count": 125,
-  "review_count": 208,
+  "review_count": 209,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -1018,6 +1018,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "70006cc667",
+      "message": "feat(python): add DELIFEQ command support (#7386)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7386",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/70006cc667a527e731aba2971fa57f8308704c1b"
+    },
+    {
+      "sha": "be918d0ee0",
+      "message": "chore(deps): bump taiki-e/install-action from 2.87.28 to 2.87.29 in the patch-updates group (#609)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/609",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/be918d0ee06fa187d602c981c32c99f1cbb35151"
+    },
+    {
+      "sha": "6a8f0a2278",
+      "message": "chore(deps): bump the minor-updates group with 3 updates (#610)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/610",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/6a8f0a2278f91696f1ec465833e3f8f55d258b6b"
+    },
+    {
+      "sha": "a14497889f",
+      "message": "chore(deps): Bump ruby/setup-ruby (#394)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/394",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/a14497889f4d100419e4543da9f5a8cb96e731d9"
+    },
+    {
+      "sha": "3b037e07db",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/semgrep.yml from eb954a09b68a3a45634b6c26573e5dca19ea1130 to 70006cc667a527e731aba2971fa57f8308704c1b (#396)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/396",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/3b037e07db51b35060afe53e1077a9a042cfa7b5"
+    },
     {
       "sha": "b360e69bcc",
       "message": "fix(core): require TLS for IAM auth on ordinary and scoped connections (#7397)",

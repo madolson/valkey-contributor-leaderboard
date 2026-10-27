@@ -2,13 +2,21 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 19,
-  "commit_count": 7,
+  "score": 20,
+  "commit_count": 8,
   "review_count": 12,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "ad7f1d679e",
+      "message": "fix: compare metadata minimum version during reconciliation (#1447)",
+      "date": "2026-10-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1447",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ad7f1d679e96bee8a962d5854bf822de440ff0bd"
+    },
     {
       "sha": "1ce64680f9",
       "message": "Skip orphan multi/exec keys in SaveIndexExtension instead of aborting (#1361)",

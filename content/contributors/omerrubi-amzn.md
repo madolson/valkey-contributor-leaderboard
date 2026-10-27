@@ -2,8 +2,8 @@
   "title": "omerrubi-amzn",
   "login": "omerrubi-amzn",
   "avatar_url": "https://avatars.githubusercontent.com/u/169974275?v=4",
-  "score": 11,
-  "commit_count": 11,
+  "score": 12,
+  "commit_count": 12,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "2c11a10f49",
+      "message": "Fix false sharing in IO thread active-time and job-finished counters (#4976)",
+      "date": "2026-10-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4976",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2c11a10f4915adfb26a7260ab28c7ea56edacc55"
+    },
     {
       "sha": "0dcfdd7a98",
       "message": "Add featured image for KV caching on Valkey blog post (#709)",

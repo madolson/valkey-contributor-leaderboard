@@ -2,14 +2,22 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 42,
-  "commit_count": 23,
+  "score": 43,
+  "commit_count": 24,
   "review_count": 19,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "7886067ce4",
+      "message": "fix: refresh topology status while a node roll is stuck (#431)",
+      "date": "2026-10-26",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/431",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/7886067ce4fe49e3f7f5da26abc0388a1bc83bdf"
+    },
     {
       "sha": "92b1e89f3e",
       "message": "test(e2e): Hostname migrate keeps Ready pod UID (#383)",

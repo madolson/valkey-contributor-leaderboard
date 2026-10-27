@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 886,
+  "score": 887,
   "commit_count": 45,
-  "review_count": 841,
+  "review_count": 842,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4a1185aef6",
+      "message": "fix(core): replace stale connection on circular MOVED (#7427)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7427",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4a1185aef6063a577d42b1141f2179802bd5b3fa"
+    },
     {
       "sha": "3344a4c856",
       "message": "feat(core/python): connect to standalone servers over Unix domain sockets (#7311)",

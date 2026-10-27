@@ -2,9 +2,9 @@
   "title": "pnbrown",
   "login": "pnbrown",
   "avatar_url": "https://avatars.githubusercontent.com/u/10396286?v=4",
-  "score": 13,
+  "score": 15,
   "commit_count": 9,
-  "review_count": 4,
+  "review_count": 6,
   "repos": [
     "valkey-io.github.io"
   ],
@@ -83,6 +83,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f589f25f6a",
+      "message": "Rework the homepage and download pages around release versions (#662)",
+      "date": "2026-10-26",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/662",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f589f25f6af37e0e8150645bdcb2e39f2d549f74"
+    },
+    {
+      "sha": "f589f25f6a",
+      "message": "Rework the homepage and download pages around release versions (#662)",
+      "date": "2026-10-26",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/662",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f589f25f6af37e0e8150645bdcb2e39f2d549f74"
+    },
     {
       "sha": "dff139af69",
       "message": "Add a style guide to the blog contributing doc (#624)",

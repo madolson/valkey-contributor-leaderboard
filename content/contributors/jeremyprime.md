@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 288,
-  "commit_count": 90,
-  "review_count": 198,
+  "score": 294,
+  "commit_count": 92,
+  "review_count": 202,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -14,6 +14,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "5922783592",
+      "message": "fix(core): reserve warmup slots up front to stop pool over-creation (#7413)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7413",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/59227835923f138d68d59abd1d247f73d807894a"
+    },
+    {
+      "sha": "a16c9d9e17",
+      "message": "fix(security): require TLS for IAM auth (#611)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/611",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/a16c9d9e17f654aa5b7eb01be0d272938513e0c7"
+    },
     {
       "sha": "dbe8d4edb8",
       "message": "docs: make build/lint/test docs self-sufficient across all clients (#7344)",
@@ -736,6 +752,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4a1185aef6",
+      "message": "fix(core): replace stale connection on circular MOVED (#7427)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7427",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4a1185aef6063a577d42b1141f2179802bd5b3fa"
+    },
+    {
+      "sha": "4a1185aef6",
+      "message": "fix(core): replace stale connection on circular MOVED (#7427)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7427",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4a1185aef6063a577d42b1141f2179802bd5b3fa"
+    },
+    {
+      "sha": "db45db54c7",
+      "message": "fix(core): Use the client's current password for scopes (#7419)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7419",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/db45db54c7620a059c60da92686451961efe2811"
+    },
+    {
+      "sha": "4fa2e056a3",
+      "message": "fix(security): update RustSec-vulnerable zstd crates (#7438)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7438",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4fa2e056a3055500bd6bdb04a9db7a9448bf9243"
+    },
     {
       "sha": "f6764ef840",
       "message": "fix(security): update RustSec-vulnerable crates (#7424)",

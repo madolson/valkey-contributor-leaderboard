@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 146,
-  "commit_count": 43,
-  "review_count": 103,
+  "score": 149,
+  "commit_count": 44,
+  "review_count": 105,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "87d29cc4c7",
+      "message": "Wait for in-flight mutations before sync-path revalidation (#1602) (#1610)",
+      "date": "2026-10-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1610",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/87d29cc4c7f1df0db8ed62512a229c03e157d589"
+    },
     {
       "sha": "8360dc56ec",
       "message": "Filtering/scoring caching and main thread locking improvements (#1472)",
@@ -358,6 +366,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b0051e4963",
+      "message": "ci: limit mmap randomization so TSAN runs on ubuntu-26.04 (#1617)",
+      "date": "2026-10-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1617",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/b0051e4963d10b081f67a6acd5af588a8006218d"
+    },
+    {
+      "sha": "ad7f1d679e",
+      "message": "fix: compare metadata minimum version during reconciliation (#1447)",
+      "date": "2026-10-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1447",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ad7f1d679e96bee8a962d5854bf822de440ff0bd"
+    },
     {
       "sha": "c672fd7a7e",
       "message": "fix: hybrid tag => KNN queries return correct score (issue #1414) (#1490)",

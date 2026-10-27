@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 152,
+  "score": 158,
   "commit_count": 42,
-  "review_count": 110,
+  "review_count": 116,
   "repos": [
     "valkey",
     "valkey-container",
@@ -352,6 +352,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e50b62d0bb",
+      "message": "[correctness] Fix LSET modifying elements for out-of-range 64-bit indexes (#4823)",
+      "date": "2026-10-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4823",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e50b62d0bb33dedb0222f65ef36d9537f9e864ea"
+    },
+    {
+      "sha": "e23cab1355",
+      "message": "Optimize B+tree ZSCAN with item references and prefetch (#4856)",
+      "date": "2026-10-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4856",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e23cab13559a8950eadc19c6c88e7843e1136c51"
+    },
+    {
+      "sha": "7c950b1ed7",
+      "message": "Fix CI failures on clang-format due to OS changes on the runner Image (#5029)",
+      "date": "2026-10-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5029",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7c950b1ed7d1ce7e9b5c47bf9921250b8cee71a6"
+    },
+    {
+      "sha": "de4b2c198a",
+      "message": "Add static specifier to the internal functions of HLL (#2496)",
+      "date": "2026-10-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2496",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/de4b2c198a73b3bdeda3e1b1ac18cc09aaaee49c"
+    },
+    {
+      "sha": "2c11a10f49",
+      "message": "Fix false sharing in IO thread active-time and job-finished counters (#4976)",
+      "date": "2026-10-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4976",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2c11a10f4915adfb26a7260ab28c7ea56edacc55"
+    },
+    {
+      "sha": "aaeee8d5b1",
+      "message": "bgiteration: remove from early-iterate on key-delete",
+      "date": "2026-10-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4996",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/aaeee8d5b17d490a9490a83407591d746d4d4051"
+    },
     {
       "sha": "5c6a0cdcf3",
       "message": "Fix ZINTER/ZINTERSTORE score when a weighted term is 0*inf (#4997)",

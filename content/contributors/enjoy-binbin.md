@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 999,
+  "score": 1000,
   "commit_count": 395,
-  "review_count": 604,
+  "review_count": 605,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3176,6 +3176,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "938007fd98",
+      "message": "Only warn about a command line password when -a or -u set it (#4886)",
+      "date": "2026-10-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4886",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/938007fd98056a362f02fa4597b13b65ee5026e2"
+    },
     {
       "sha": "b3a1356376",
       "message": "Optimize infoCommand with SDS pre-allocation (#3413)",

@@ -2,14 +2,22 @@
   "title": "yzc-yzc",
   "login": "yzc-yzc",
   "avatar_url": "https://avatars.githubusercontent.com/u/96833212?v=4",
-  "score": 10,
-  "commit_count": 10,
+  "score": 11,
+  "commit_count": 11,
   "review_count": 0,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "de4b2c198a",
+      "message": "Add static specifier to the internal functions of HLL (#2496)",
+      "date": "2026-10-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/2496",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/de4b2c198a73b3bdeda3e1b1ac18cc09aaaee49c"
+    },
     {
       "sha": "8fdc9e6573",
       "message": "Fix valkey-benchmark hanging in single-thread duration mode (#3079)",

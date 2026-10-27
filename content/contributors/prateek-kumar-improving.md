@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 460,
-  "commit_count": 159,
-  "review_count": 301,
+  "score": 464,
+  "commit_count": 160,
+  "review_count": 304,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "70006cc667",
+      "message": "feat(python): add DELIFEQ command support (#7386)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7386",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/70006cc667a527e731aba2971fa57f8308704c1b"
+    },
     {
       "sha": "a70477c92d",
       "message": "feat(java): add key-level NX/XX condition support to HSETEX (#7340)",
@@ -1287,6 +1295,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "81a1edffcd",
+      "message": "ci: pin ubuntu-latest jobs to ubuntu-24.04 (#390)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/390",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/81a1edffcd1c99092f52eab54a293b5557fba741"
+    },
+    {
+      "sha": "2fab9eddab",
+      "message": "fix(php): do not close or use clients inherited through fork() (#351)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/351",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/2fab9eddab3d398168a8cd09e72da663edeb76cc"
+    },
+    {
+      "sha": "370c2f4934",
+      "message": "feat(php): cap the pub/sub subscriber queue at 10,000 messages / 64 MiB (#365)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/365",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/370c2f493405096d56d2c6443518fa1e30e640f4"
+    },
     {
       "sha": "6f66301535",
       "message": "test(php): fix flaky testExists and testFailoverSucceeds (#376)",

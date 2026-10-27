@@ -2,8 +2,8 @@
   "title": "nadav-levanoni",
   "login": "nadav-levanoni",
   "avatar_url": "https://avatars.githubusercontent.com/u/38641521?v=4",
-  "score": 12,
-  "commit_count": 7,
+  "score": 13,
+  "commit_count": 8,
   "review_count": 5,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "4a8292cf2e",
+      "message": "bench: add workload plugins (fuzz, tcp-connections) for endurance testing (#158)",
+      "date": "2026-10-26",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/158",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/4a8292cf2ebbe458f14929dbf7d78d3cf9f7a6ca"
+    },
     {
       "sha": "7510b9483d",
       "message": "No-op persistence callbacks crash (#150)",

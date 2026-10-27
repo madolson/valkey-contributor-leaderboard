@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 460,
-  "commit_count": 165,
-  "review_count": 295,
+  "score": 464,
+  "commit_count": 167,
+  "review_count": 297,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -20,6 +20,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "7c8f915ff0",
+      "message": "Fix release template packages front matter (#722)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/722",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/7c8f915ff0cde126f9c6afec71ca69aed0a29bc3"
+    },
+    {
+      "sha": "b4c125082a",
+      "message": "Fix cluster Pub/Sub length truncation (#5030)",
+      "date": "2026-10-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5030",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b4c125082ad285e10df7a87ef90528ed55802b89"
+    },
     {
       "sha": "16d3c5d24f",
       "message": "Fix Valgrind fork-child IO thread buffer report (#4915)",
@@ -1343,6 +1359,62 @@
   ],
   "review_list": [
     {
+      "sha": "587065c5d1",
+      "message": "Update versions.json and Dockerfiles for version 9.0.7 (#176)",
+      "date": "2026-10-27",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/176",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/587065c5d15d6d93c41fe8243e40dc87415e931c"
+    },
+    {
+      "sha": "f90e8846dd",
+      "message": "Update website for version 9.0.7 (#724)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/724",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f90e8846dd493bd7f46ad1cb6123e47404000361"
+    },
+    {
+      "sha": "404c286ac9",
+      "message": "Update website for version 8.0.12 (#721)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/721",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/404c286ac926c6f40d9ae7e4757664ae1ef04186"
+    },
+    {
+      "sha": "f769ab730a",
+      "message": "Update website for version 8.1.11 (#720)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/720",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f769ab730aa9317a8f2e227f078293904745c41e"
+    },
+    {
+      "sha": "b32c66886d",
+      "message": "Update website for version 9.1.3 (#719)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/719",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/b32c66886de51c86c8d04d3827df57ab01540f3c"
+    },
+    {
+      "sha": "67f45a8a2b",
+      "message": "Update website for version 7.2.15 (#718)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/718",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/67f45a8a2b154bcb381dd57c982453aff9236aed"
+    },
+    {
+      "sha": "e7d73f057f",
+      "message": "Allow valkey-doc tag pushes containing workflows (#78)",
+      "date": "2026-10-27",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/78",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/e7d73f057f70307577aa66b515ddb2fe6fd49718"
+    },
+    {
       "sha": "da039cf8ab",
       "message": "Let versions.sh read the hashes README from a local file (#171)",
       "date": "2026-10-26",
@@ -1357,6 +1429,46 @@
       "repo": "valkey-release-automation",
       "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/76",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/025788d2fc5a9c029b713b930aa819b3630d120e"
+    },
+    {
+      "sha": "b72e0e1409",
+      "message": "Update versions.json and Dockerfiles for version 8.1.11 (#174)",
+      "date": "2026-10-26",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/174",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/b72e0e140910230e863f5048add4b3362e82e106"
+    },
+    {
+      "sha": "c4d9c6bcf2",
+      "message": "Update versions.json and Dockerfiles for version 8.0.12 (#175)",
+      "date": "2026-10-26",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/175",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/c4d9c6bcf2afa9370fdf08fdccf4e7bf9f7eee08"
+    },
+    {
+      "sha": "d5ce8d3b6a",
+      "message": "Update versions.json and Dockerfiles for version 9.1.3 (#173)",
+      "date": "2026-10-26",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/173",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/d5ce8d3b6a6029b20c9594f575daf9c06bf46990"
+    },
+    {
+      "sha": "054db6a0de",
+      "message": "Update versions.json and Dockerfiles for version 7.2.15 (#172)",
+      "date": "2026-10-26",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/172",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/054db6a0decbb85b3786a4b60d4309dd6667c166"
+    },
+    {
+      "sha": "ef601f071b",
+      "message": "Fix workflows after ubuntu-latest rollover (#77)",
+      "date": "2026-10-26",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/77",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/ef601f071b999e9353eeef3b5686ac7c71c61b15"
     },
     {
       "sha": "668d875ca4",

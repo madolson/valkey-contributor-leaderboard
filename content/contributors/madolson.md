@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 986,
-  "commit_count": 220,
-  "review_count": 766,
+  "score": 991,
+  "commit_count": 222,
+  "review_count": 769,
   "repos": [
     ".github",
     "valkey",
@@ -21,6 +21,22 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "938007fd98",
+      "message": "Only warn about a command line password when -a or -u set it (#4886)",
+      "date": "2026-10-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4886",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/938007fd98056a362f02fa4597b13b65ee5026e2"
+    },
+    {
+      "sha": "f589f25f6a",
+      "message": "Rework the homepage and download pages around release versions (#662)",
+      "date": "2026-10-26",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/662",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f589f25f6af37e0e8150645bdcb2e39f2d549f74"
+    },
     {
       "sha": "e1b4ec8455",
       "message": "Fail the RDB transcode on bytes after the source frame (#4890)",
@@ -1783,6 +1799,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bb34a34c80",
+      "message": "Rebuild the clients page and add an Integrations page (#602)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/602",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/bb34a34c80753c95f493c1713ee2c83a99d3e3b5"
+    },
+    {
+      "sha": "b4c125082a",
+      "message": "Fix cluster Pub/Sub length truncation (#5030)",
+      "date": "2026-10-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5030",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b4c125082ad285e10df7a87ef90528ed55802b89"
+    },
+    {
+      "sha": "90fc7c166e",
+      "message": "Replace Osano cookie consent with Transcend (#717)",
+      "date": "2026-10-26",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/717",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/90fc7c166ebcb75b32b5f2a64afef53169710a1a"
+    },
     {
       "sha": "5900f066c3",
       "message": "Blog/testing without a server fakevalkey (#667)",

@@ -2,8 +2,8 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 16,
-  "commit_count": 13,
+  "score": 17,
+  "commit_count": 14,
   "review_count": 3,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "89768a18d2",
+      "message": "Fix Duplicate & Link Command References for Search (#509)",
+      "date": "2026-10-26",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/509",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/89768a18d22c0155b24a2c0a7eb7168aaa434298"
+    },
     {
       "sha": "a95bf25cac",
       "message": "Add deletable to wordlist (#505)",

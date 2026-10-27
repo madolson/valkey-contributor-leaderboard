@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 175,
+  "score": 176,
   "commit_count": 61,
-  "review_count": 114,
+  "review_count": 115,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -501,6 +501,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dffa9b5aff",
+      "message": "docs: document same-shard spread on a custom topology key (#509)",
+      "date": "2026-10-26",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/509",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/dffa9b5aff127f0e73efbf433bc6eae10fe477d0"
+    },
     {
       "sha": "2642741016",
       "message": "fix: probe a superseded pod at its current IP before replacing it (#538)",

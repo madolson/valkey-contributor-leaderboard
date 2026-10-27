@@ -2,13 +2,21 @@
   "title": "JasonLi314",
   "login": "JasonLi314",
   "avatar_url": "https://avatars.githubusercontent.com/u/47095666?v=4",
-  "score": 7,
-  "commit_count": 7,
+  "score": 8,
+  "commit_count": 8,
   "review_count": 0,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "b0051e4963",
+      "message": "ci: limit mmap randomization so TSAN runs on ubuntu-26.04 (#1617)",
+      "date": "2026-10-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1617",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/b0051e4963d10b081f67a6acd5af588a8006218d"
+    },
     {
       "sha": "a57216ed88",
       "message": "ci: pin OpenSSL 3 so gRPC builds on the new macOS runner image (#1590)",

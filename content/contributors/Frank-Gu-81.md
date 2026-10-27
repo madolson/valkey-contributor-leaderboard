@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 53,
+  "score": 54,
   "commit_count": 27,
-  "review_count": 26,
+  "review_count": 27,
   "repos": [
     "valkey-ci-agent",
     "valkey-doc",
@@ -230,6 +230,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "87d29cc4c7",
+      "message": "Wait for in-flight mutations before sync-path revalidation (#1602) (#1610)",
+      "date": "2026-10-26",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1610",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/87d29cc4c7f1df0db8ed62512a229c03e157d589"
+    },
     {
       "sha": "e335d9ea36",
       "message": "Remove dead duplicate Verify() from ft_search_parser (#1367)",

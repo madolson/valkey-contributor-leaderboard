@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 300,
+  "score": 302,
   "commit_count": 102,
-  "review_count": 198,
+  "review_count": 200,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -831,6 +831,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b7c92e92b4",
+      "message": "feat(python): valkey-search 1.3 support and RediSearch parity (#7335)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7335",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b7c92e92b4a2b29a7ed607e7e3f7c7c34b7044b1"
+    },
+    {
+      "sha": "5922783592",
+      "message": "fix(core): reserve warmup slots up front to stop pool over-creation (#7413)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7413",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/59227835923f138d68d59abd1d247f73d807894a"
+    },
     {
       "sha": "fb14e34ce9",
       "message": "fix(core): reset pooled connection state conditionally and route DISCARD to all cluster nodes (#7398)",

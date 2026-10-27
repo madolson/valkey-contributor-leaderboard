@@ -2,14 +2,22 @@
   "title": "neerajr0",
   "login": "neerajr0",
   "avatar_url": "https://avatars.githubusercontent.com/u/55604693?v=4",
-  "score": 29,
-  "commit_count": 11,
+  "score": 30,
+  "commit_count": 12,
   "review_count": 18,
   "repos": [
     "valkey-large-object",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "6c4a09598e",
+      "message": "fall through to nvme uring when dram iovec table is reregistering (#160)",
+      "date": "2026-10-26",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/160",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/6c4a09598ea38fce3d2b5108d8a5e4eca86036ed"
+    },
     {
       "sha": "7288b44097",
       "message": "add optional crc arg for BLOB.RDMA_SET (#131)",

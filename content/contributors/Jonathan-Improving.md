@@ -2,8 +2,8 @@
   "title": "Jonathan-Improving",
   "login": "Jonathan-Improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
-  "score": 18,
-  "commit_count": 7,
+  "score": 19,
+  "commit_count": 8,
   "review_count": 11,
   "repos": [
     "valkey-developer-resources",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "b7c92e92b4",
+      "message": "feat(python): valkey-search 1.3 support and RediSearch parity (#7335)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7335",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b7c92e92b4a2b29a7ed607e7e3f7c7c34b7044b1"
+    },
     {
       "sha": "1e61c7f7da",
       "message": "feat(ruby): structured Valkey Search (FT.*) builder API (#295)",

@@ -2,15 +2,24 @@
   "title": "secwall",
   "login": "secwall",
   "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
-  "score": 28,
-  "commit_count": 26,
+  "score": 29,
+  "commit_count": 27,
   "review_count": 2,
   "repos": [
     "valkey",
     "valkey-lua5.5",
-    "valkey-luajit"
+    "valkey-luajit",
+    "valkey-luau"
   ],
   "commit_list": [
+    {
+      "sha": "482dbd5198",
+      "message": "Skip less tests",
+      "date": "2026-10-26",
+      "repo": "valkey-luau",
+      "pr_url": "https://github.com/valkey-io/valkey-luau/pull/19",
+      "commit_url": "https://github.com/valkey-io/valkey-luau/commit/482dbd519833a417c5de170ff837a2ab84ecd8f9"
+    },
     {
       "sha": "3f59aae119",
       "message": "Sync clang-format with valkey-luajit (#18)",
@@ -221,6 +230,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a1061ca3de",
+      "message": "Bump github/codeql-action from 4.39.0 to 4.39.1",
+      "date": "2026-10-26",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/76",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/a1061ca3de830da5a244ea34cce2442ee0968fae"
+    },
+    {
+      "sha": "992c54a118",
+      "message": "Bump deps/luajit from `dd3b243` to `a4c0645`",
+      "date": "2026-10-26",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/75",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/992c54a1183e1a7179e12fb21023edab97757d6e"
+    },
     {
       "sha": "8540f49ebc",
       "message": "Bump github/codeql-action from 4.38.3 to 4.39.0",

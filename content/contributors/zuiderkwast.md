@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1299,
+  "score": 1300,
   "commit_count": 156,
-  "review_count": 1143,
+  "review_count": 1144,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1270,6 +1270,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "89768a18d2",
+      "message": "Fix Duplicate & Link Command References for Search (#509)",
+      "date": "2026-10-26",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/509",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/89768a18d22c0155b24a2c0a7eb7168aaa434298"
+    },
     {
       "sha": "6902fdc965",
       "message": "Make quicklist read-only iteration non-mutating on compressed nodes (#4782)",

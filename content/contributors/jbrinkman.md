@@ -2,16 +2,25 @@
   "title": "jbrinkman",
   "login": "jbrinkman",
   "avatar_url": "https://avatars.githubusercontent.com/u/862921?v=4",
-  "score": 220,
-  "commit_count": 52,
+  "score": 221,
+  "commit_count": 53,
   "review_count": 168,
   "repos": [
     "valkey-developer-resources",
     "valkey-glide",
     "valkey-glide-csharp",
-    "valkey-glide-php"
+    "valkey-glide-php",
+    "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "bb34a34c80",
+      "message": "Rebuild the clients page and add an Integrations page (#602)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/602",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/bb34a34c80753c95f493c1713ee2c83a99d3e3b5"
+    },
     {
       "sha": "6bace53681",
       "message": "Merge pull request #8 from valkey-io/migration/cookbooks",

@@ -2,15 +2,23 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 26,
-  "commit_count": 19,
-  "review_count": 7,
+  "score": 29,
+  "commit_count": 20,
+  "review_count": 9,
   "repos": [
     "valkey",
     "valkey-container",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "7c950b1ed7",
+      "message": "Fix CI failures on clang-format due to OS changes on the runner Image (#5029)",
+      "date": "2026-10-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5029",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7c950b1ed7d1ce7e9b5c47bf9921250b8cee71a6"
+    },
     {
       "sha": "1074b3cada",
       "message": "PERF: remove redundant checks in HINCRBYFLOAT command (#4690)",
@@ -165,6 +173,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "938007fd98",
+      "message": "Only warn about a command line password when -a or -u set it (#4886)",
+      "date": "2026-10-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4886",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/938007fd98056a362f02fa4597b13b65ee5026e2"
+    },
+    {
+      "sha": "e50b62d0bb",
+      "message": "[correctness] Fix LSET modifying elements for out-of-range 64-bit indexes (#4823)",
+      "date": "2026-10-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4823",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e50b62d0bb33dedb0222f65ef36d9537f9e864ea"
+    },
     {
       "sha": "45ec67c307",
       "message": "Fix HSETEX and HGETEX when the key is named \"fields\" (#4945)",

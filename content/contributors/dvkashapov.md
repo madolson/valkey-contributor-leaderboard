@@ -2,15 +2,16 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 116,
+  "score": 117,
   "commit_count": 24,
-  "review_count": 92,
+  "review_count": 93,
   "repos": [
     "valkey",
     "valkey-doc",
     "valkey-io.github.io",
     "valkey-lua5.5",
-    "valkey-luajit"
+    "valkey-luajit",
+    "valkey-luau"
   ],
   "commit_list": [
     {
@@ -207,6 +208,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "482dbd5198",
+      "message": "Skip less tests",
+      "date": "2026-10-26",
+      "repo": "valkey-luau",
+      "pr_url": "https://github.com/valkey-io/valkey-luau/pull/19",
+      "commit_url": "https://github.com/valkey-io/valkey-luau/commit/482dbd519833a417c5de170ff837a2ab84ecd8f9"
+    },
     {
       "sha": "4e1ee4ed14",
       "message": "Bump deps/luajit from `2a8e017` to `dd3b243` (#74)",

@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 364,
-  "commit_count": 84,
-  "review_count": 280,
+  "score": 370,
+  "commit_count": 85,
+  "review_count": 285,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "4a1185aef6",
+      "message": "fix(core): replace stale connection on circular MOVED (#7427)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7427",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4a1185aef6063a577d42b1141f2179802bd5b3fa"
+    },
     {
       "sha": "3da1ccf78b",
       "message": "fix(node): set `unix_socket_path` in `lazy_client` test `NodeAddress` (#7421)",
@@ -687,6 +695,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "47d068a3a7",
+      "message": "fix(python): always rebuild `libglide_ffi` in `dev.py` build (#7431)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7431",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/47d068a3a79e02ea46f6f834b49d02ad5ae0885b"
+    },
+    {
+      "sha": "db45db54c7",
+      "message": "fix(core): Use the client's current password for scopes (#7419)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7419",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/db45db54c7620a059c60da92686451961efe2811"
+    },
+    {
+      "sha": "4fa2e056a3",
+      "message": "fix(security): update RustSec-vulnerable zstd crates (#7438)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7438",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4fa2e056a3055500bd6bdb04a9db7a9448bf9243"
+    },
+    {
+      "sha": "b7c92e92b4",
+      "message": "feat(python): valkey-search 1.3 support and RediSearch parity (#7335)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7335",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b7c92e92b4a2b29a7ed607e7e3f7c7c34b7044b1"
+    },
+    {
+      "sha": "a16c9d9e17",
+      "message": "fix(security): require TLS for IAM auth (#611)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/611",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/a16c9d9e17f654aa5b7eb01be0d272938513e0c7"
+    },
     {
       "sha": "3344a4c856",
       "message": "feat(core/python): connect to standalone servers over Unix domain sockets (#7311)",

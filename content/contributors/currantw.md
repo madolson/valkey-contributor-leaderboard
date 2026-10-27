@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 373,
-  "commit_count": 221,
-  "review_count": 152,
+  "score": 378,
+  "commit_count": 222,
+  "review_count": 156,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "47d068a3a7",
+      "message": "fix(python): always rebuild `libglide_ffi` in `dev.py` build (#7431)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7431",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/47d068a3a79e02ea46f6f834b49d02ad5ae0885b"
+    },
     {
       "sha": "2c294572f4",
       "message": "feat(python): add SET IFNE support and fix GETSET and SET IFEQ compression (#7414)",
@@ -1785,6 +1793,70 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4fa2e056a3",
+      "message": "fix(security): update RustSec-vulnerable zstd crates (#7438)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7438",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4fa2e056a3055500bd6bdb04a9db7a9448bf9243"
+    },
+    {
+      "sha": "70006cc667",
+      "message": "feat(python): add DELIFEQ command support (#7386)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7386",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/70006cc667a527e731aba2971fa57f8308704c1b"
+    },
+    {
+      "sha": "a16c9d9e17",
+      "message": "fix(security): require TLS for IAM auth (#611)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/611",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/a16c9d9e17f654aa5b7eb01be0d272938513e0c7"
+    },
+    {
+      "sha": "be918d0ee0",
+      "message": "chore(deps): bump taiki-e/install-action from 2.87.28 to 2.87.29 in the patch-updates group (#609)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/609",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/be918d0ee06fa187d602c981c32c99f1cbb35151"
+    },
+    {
+      "sha": "6a8f0a2278",
+      "message": "chore(deps): bump the minor-updates group with 3 updates (#610)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/610",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/6a8f0a2278f91696f1ec465833e3f8f55d258b6b"
+    },
+    {
+      "sha": "81a1edffcd",
+      "message": "ci: pin ubuntu-latest jobs to ubuntu-24.04 (#390)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/390",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/81a1edffcd1c99092f52eab54a293b5557fba741"
+    },
+    {
+      "sha": "a14497889f",
+      "message": "chore(deps): Bump ruby/setup-ruby (#394)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/394",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/a14497889f4d100419e4543da9f5a8cb96e731d9"
+    },
+    {
+      "sha": "3b037e07db",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/semgrep.yml from eb954a09b68a3a45634b6c26573e5dca19ea1130 to 70006cc667a527e731aba2971fa57f8308704c1b (#396)",
+      "date": "2026-10-26",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/396",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/3b037e07db51b35060afe53e1077a9a042cfa7b5"
+    },
     {
       "sha": "dbe8d4edb8",
       "message": "docs: make build/lint/test docs self-sufficient across all clients (#7344)",

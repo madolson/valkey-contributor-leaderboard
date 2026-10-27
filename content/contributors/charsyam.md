@@ -2,13 +2,29 @@
   "title": "charsyam",
   "login": "charsyam",
   "avatar_url": "https://avatars.githubusercontent.com/u/439301?v=4",
-  "score": 13,
-  "commit_count": 12,
+  "score": 15,
+  "commit_count": 14,
   "review_count": 1,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "e50b62d0bb",
+      "message": "[correctness] Fix LSET modifying elements for out-of-range 64-bit indexes (#4823)",
+      "date": "2026-10-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4823",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e50b62d0bb33dedb0222f65ef36d9537f9e864ea"
+    },
+    {
+      "sha": "e23cab1355",
+      "message": "Optimize B+tree ZSCAN with item references and prefetch (#4856)",
+      "date": "2026-10-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4856",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e23cab13559a8950eadc19c6c88e7843e1136c51"
+    },
     {
       "sha": "0704408262",
       "message": "aof: write directly to server.aof_buf in feedAppendOnlyFile (#3496)",
