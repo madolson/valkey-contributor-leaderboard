@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 149,
+  "score": 154,
   "commit_count": 44,
-  "review_count": 105,
+  "review_count": 110,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -366,6 +366,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4bb501a45d",
+      "message": "Scoring compatibility tests (#1436)",
+      "date": "2026-10-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1436",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/4bb501a45de05e2ad168e59042df3dbef6966689"
+    },
+    {
+      "sha": "771657ae86",
+      "message": "Bracket IPv6 hosts in FT.HYBRID fanout targets (#1621)",
+      "date": "2026-10-27",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1621",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/771657ae869feeba762e6d98efe7030c07913a94"
+    },
+    {
+      "sha": "42e85f582c",
+      "message": "fix: Tag revalidation scoring doesn't reliably use latest text field value (#1439) (#1491)",
+      "date": "2026-10-27",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1491",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/42e85f582c3a4fe1bec51e2f1a174dd309711d3b"
+    },
+    {
+      "sha": "42e85f582c",
+      "message": "fix: Tag revalidation scoring doesn't reliably use latest text field value (#1439) (#1491)",
+      "date": "2026-10-27",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1491",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/42e85f582c3a4fe1bec51e2f1a174dd309711d3b"
+    },
+    {
+      "sha": "4d50a150be",
+      "message": "fix FT.AGGREGATE reports BM25 relevance instead of the KNN distance for hybrid text=>[KNN] queries (#1410) (#1494)",
+      "date": "2026-10-27",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1494",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/4d50a150be66db0860fbabfd2c564ee76c8418f4"
+    },
     {
       "sha": "b0051e4963",
       "message": "ci: limit mmap randomization so TSAN runs on ubuntu-26.04 (#1617)",

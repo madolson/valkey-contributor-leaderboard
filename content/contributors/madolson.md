@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 991,
-  "commit_count": 222,
-  "review_count": 769,
+  "score": 997,
+  "commit_count": 224,
+  "review_count": 773,
   "repos": [
     ".github",
     "valkey",
@@ -18,7 +18,8 @@
     "valkey-json",
     "valkey-perf-benchmark",
     "valkey-release-automation",
-    "valkey-rfc"
+    "valkey-rfc",
+    "valkey-search"
   ],
   "commit_list": [
     {
@@ -28,6 +29,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4886",
       "commit_url": "https://github.com/valkey-io/valkey/commit/938007fd98056a362f02fa4597b13b65ee5026e2"
+    },
+    {
+      "sha": "6d37abeb8a",
+      "message": "Document the RESP3 attribute type in the protocol spec (#510)",
+      "date": "2026-10-27",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/510",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/6d37abeb8af47d11122b7a115378bac7533efead"
+    },
+    {
+      "sha": "771657ae86",
+      "message": "Bracket IPv6 hosts in FT.HYBRID fanout targets (#1621)",
+      "date": "2026-10-27",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1621",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/771657ae869feeba762e6d98efe7030c07913a94"
     },
     {
       "sha": "f589f25f6a",
@@ -1800,12 +1817,44 @@
   ],
   "review_list": [
     {
+      "sha": "faec379ecd",
+      "message": "Fix GEOSEARCH repeated BYPOLYGON memory leak (#4995)",
+      "date": "2026-10-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4995",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/faec379ecd35a9f9d333b2bf42667f5b4fa408c7"
+    },
+    {
       "sha": "bb34a34c80",
       "message": "Rebuild the clients page and add an Integrations page (#602)",
       "date": "2026-10-27",
       "repo": "valkey-io.github.io",
       "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/602",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/bb34a34c80753c95f493c1713ee2c83a99d3e3b5"
+    },
+    {
+      "sha": "a54cd140ce",
+      "message": "Update security.md guidance and reporting (#515)",
+      "date": "2026-10-27",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/515",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/a54cd140ce1368ba25a63aa7b315bb5c39a7fc2f"
+    },
+    {
+      "sha": "4fb0b013fe",
+      "message": "Add security mailing list address to wordlist (#516)",
+      "date": "2026-10-27",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/516",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/4fb0b013fe3ed42cb98fd70d4c3f0763a548da14"
+    },
+    {
+      "sha": "888c79deae",
+      "message": "Adds a deprecation notice to command list (#308)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/308",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/888c79deae0a4d31daa8bd51902187e2c6c45886"
     },
     {
       "sha": "b4c125082a",

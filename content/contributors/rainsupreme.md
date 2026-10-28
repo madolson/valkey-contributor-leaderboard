@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 158,
+  "score": 161,
   "commit_count": 42,
-  "review_count": 116,
+  "review_count": 119,
   "repos": [
     "valkey",
     "valkey-container",
@@ -352,6 +352,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "255018c000",
+      "message": "Fix module blocking of RESP3 Pub/Sub clients (#4863)",
+      "date": "2026-10-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4863",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/255018c000bebdfbaf033a6c7031977ae20e9e5b"
+    },
+    {
+      "sha": "692e57e6f7",
+      "message": "strengthen forkless PEXPIRE test (#5049)",
+      "date": "2026-10-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5049",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/692e57e6f70989ab750a04bbc33520f62d96e667"
+    },
+    {
+      "sha": "25d3b7d9e7",
+      "message": "Match listpack for lex range commands on mixed-score btree zsets (#4954)",
+      "date": "2026-10-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4954",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/25d3b7d9e79f17d291c8f9b4b26383404b4bdce6"
+    },
     {
       "sha": "e50b62d0bb",
       "message": "[correctness] Fix LSET modifying elements for out-of-range 64-bit indexes (#4823)",

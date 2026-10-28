@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1300,
+  "score": 1302,
   "commit_count": 156,
-  "review_count": 1144,
+  "review_count": 1146,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1270,6 +1270,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ee247dbd4b",
+      "message": "[Bug Fix] Fix fast-fail double-counting a NACK voter that later fails (#4655)",
+      "date": "2026-10-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4655",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ee247dbd4b4d8fe1247c9176e959270dae8c6f61"
+    },
+    {
+      "sha": "6d37abeb8a",
+      "message": "Document the RESP3 attribute type in the protocol spec (#510)",
+      "date": "2026-10-27",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/510",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/6d37abeb8af47d11122b7a115378bac7533efead"
+    },
     {
       "sha": "89768a18d2",
       "message": "Fix Duplicate & Link Command References for Search (#509)",

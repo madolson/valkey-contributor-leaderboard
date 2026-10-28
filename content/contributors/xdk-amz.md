@@ -2,8 +2,8 @@
   "title": "xdk-amz",
   "login": "xdk-amz",
   "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
-  "score": 11,
-  "commit_count": 6,
+  "score": 12,
+  "commit_count": 7,
   "review_count": 5,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "ee247dbd4b",
+      "message": "[Bug Fix] Fix fast-fail double-counting a NACK voter that later fails (#4655)",
+      "date": "2026-10-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4655",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ee247dbd4b4d8fe1247c9176e959270dae8c6f61"
+    },
     {
       "sha": "e4d62b2a37",
       "message": "Avoid propagating expired hash fields from HDEL, HGETDEL, HPERSIST, and HEXPIRE (#4772)",

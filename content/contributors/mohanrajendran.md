@@ -2,13 +2,22 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 20,
-  "commit_count": 8,
+  "score": 21,
+  "commit_count": 9,
   "review_count": 12,
   "repos": [
+    "valkey-json",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "aeaa68237e",
+      "message": "Fix JSONPath filters over object children (#123)",
+      "date": "2026-10-27",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/123",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/aeaa68237eb862069061d2797de8c0e790c57c11"
+    },
     {
       "sha": "ad7f1d679e",
       "message": "fix: compare metadata minimum version during reconciliation (#1447)",

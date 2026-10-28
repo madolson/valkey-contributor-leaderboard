@@ -2,14 +2,22 @@
   "title": "neerajr0",
   "login": "neerajr0",
   "avatar_url": "https://avatars.githubusercontent.com/u/55604693?v=4",
-  "score": 30,
-  "commit_count": 12,
-  "review_count": 18,
+  "score": 33,
+  "commit_count": 13,
+  "review_count": 20,
   "repos": [
     "valkey-large-object",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "28f6dfe392",
+      "message": "Read coalescing for requests serving from DRAM (#113)",
+      "date": "2026-10-27",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/113",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/28f6dfe392b9d274a85799ac81db5e3ac46970eb"
+    },
     {
       "sha": "6c4a09598e",
       "message": "fall through to nvme uring when dram iovec table is reregistering (#160)",
@@ -108,6 +116,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7fb1508179",
+      "message": "Report disk staging utilization in INFO (#159)",
+      "date": "2026-10-27",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/159",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/7fb1508179d53f04f1d5f9a872faf258c8c1fcfd"
+    },
+    {
+      "sha": "217f1bbafe",
+      "message": "Reducing unnecessary unsafe code (#152)",
+      "date": "2026-10-27",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/152",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/217f1bbafe7dba19bc64e70ecc325fbeda083841"
+    },
     {
       "sha": "5acc8f4d46",
       "message": "Harden string parsing for tcp (#156)",

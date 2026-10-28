@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 464,
+  "score": 467,
   "commit_count": 167,
-  "review_count": 297,
+  "review_count": 300,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1413,6 +1413,38 @@
       "repo": "valkey-release-automation",
       "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/78",
       "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/e7d73f057f70307577aa66b515ddb2fe6fd49718"
+    },
+    {
+      "sha": "255018c000",
+      "message": "Fix module blocking of RESP3 Pub/Sub clients (#4863)",
+      "date": "2026-10-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4863",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/255018c000bebdfbaf033a6c7031977ae20e9e5b"
+    },
+    {
+      "sha": "255018c000",
+      "message": "Fix module blocking of RESP3 Pub/Sub clients (#4863)",
+      "date": "2026-10-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4863",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/255018c000bebdfbaf033a6c7031977ae20e9e5b"
+    },
+    {
+      "sha": "20585a6049",
+      "message": "Automated Updates for Valkey Bundle (#132)",
+      "date": "2026-10-27",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/132",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/20585a6049a57eb8a3c08f9c7f8c784d901aa995"
+    },
+    {
+      "sha": "aeaa68237e",
+      "message": "Fix JSONPath filters over object children (#123)",
+      "date": "2026-10-27",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/123",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/aeaa68237eb862069061d2797de8c0e790c57c11"
     },
     {
       "sha": "da039cf8ab",

@@ -2,14 +2,22 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 84,
-  "commit_count": 26,
+  "score": 85,
+  "commit_count": 27,
   "review_count": 58,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "692e57e6f7",
+      "message": "strengthen forkless PEXPIRE test (#5049)",
+      "date": "2026-10-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5049",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/692e57e6f70989ab750a04bbc33520f62d96e667"
+    },
     {
       "sha": "aaeee8d5b1",
       "message": "bgiteration: remove from early-iterate on key-delete",

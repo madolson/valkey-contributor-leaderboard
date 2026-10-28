@@ -2,8 +2,8 @@
   "title": "alexey-temnikov",
   "login": "alexey-temnikov",
   "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
-  "score": 34,
-  "commit_count": 15,
+  "score": 35,
+  "commit_count": 16,
   "review_count": 19,
   "repos": [
     "valkey-admin",
@@ -12,9 +12,18 @@
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-docs",
-    "valkey-io.github.io"
+    "valkey-io.github.io",
+    "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "859e328468",
+      "message": "test(cursor): Fix race in DestructionObeysBackgroundCleanupSetting (#1511)",
+      "date": "2026-10-27",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1511",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/859e328468b3253e33457de39575ca1c35d5a10a"
+    },
     {
       "sha": "2fa55eb84a",
       "message": "Merge pull request #102 from valkey-io/readme-naming-update",

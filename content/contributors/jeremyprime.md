@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 294,
-  "commit_count": 92,
-  "review_count": 202,
+  "score": 296,
+  "commit_count": 93,
+  "review_count": 203,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -14,6 +14,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "450d72135e",
+      "message": "docs(core): fix IAM refresh interval default and credentials_provider tuple (#7423)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7423",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/450d72135e3442b1beba939d17676364513512f8"
+    },
     {
       "sha": "5922783592",
       "message": "fix(core): reserve warmup slots up front to stop pool over-creation (#7413)",
@@ -752,6 +760,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d9b1069f71",
+      "message": "chore(lint): remove redundant `.editorconfig` files and fix violations (#612)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/612",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d9b1069f7162b8b1b4f9fe896786546a6d840bee"
+    },
     {
       "sha": "4a1185aef6",
       "message": "fix(core): replace stale connection on circular MOVED (#7427)",

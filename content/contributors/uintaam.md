@@ -2,13 +2,29 @@
   "title": "uintaam",
   "login": "uintaam",
   "avatar_url": "https://avatars.githubusercontent.com/u/295346?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 7,
+  "commit_count": 7,
   "review_count": 0,
   "repos": [
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "b4e464caa3",
+      "message": "feat(php): reuse persistent clients across requests (persistent_id / $persistent) (#352)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/352",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b4e464caa389d50d33107b69229b7e5bce354f65"
+    },
+    {
+      "sha": "e252c18cd0",
+      "message": "test(php): wait for BGSAVE on replicas before CANCEL in cluster tests (#389)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/389",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/e252c18cd0411f50bacd995914bbd8e1789239c2"
+    },
     {
       "sha": "2fab9eddab",
       "message": "fix(php): do not close or use clients inherited through fork() (#351)",

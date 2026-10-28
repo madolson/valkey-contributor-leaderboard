@@ -2,14 +2,22 @@
   "title": "quanyeyang",
   "login": "quanyeyang",
   "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
-  "score": 19,
-  "commit_count": 17,
+  "score": 20,
+  "commit_count": 18,
   "review_count": 2,
   "repos": [
     "libvalkey",
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "255018c000",
+      "message": "Fix module blocking of RESP3 Pub/Sub clients (#4863)",
+      "date": "2026-10-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4863",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/255018c000bebdfbaf033a6c7031977ae20e9e5b"
+    },
     {
       "sha": "f2e5af9f17",
       "message": "Restore hex float parsing for sorted set scores (#4875)",

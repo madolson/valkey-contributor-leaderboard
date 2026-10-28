@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 338,
+  "score": 339,
   "commit_count": 87,
-  "review_count": 251,
+  "review_count": 252,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -711,6 +711,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "859e328468",
+      "message": "test(cursor): Fix race in DestructionObeysBackgroundCleanupSetting (#1511)",
+      "date": "2026-10-27",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1511",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/859e328468b3253e33457de39575ca1c35d5a10a"
+    },
     {
       "sha": "a57216ed88",
       "message": "ci: pin OpenSSL 3 so gRPC builds on the new macOS runner image (#1590)",

@@ -2,8 +2,8 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 99,
-  "commit_count": 59,
+  "score": 100,
+  "commit_count": 60,
   "review_count": 40,
   "repos": [
     "valkey",
@@ -17,6 +17,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "217f1bbafe",
+      "message": "Reducing unnecessary unsafe code (#152)",
+      "date": "2026-10-27",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/152",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/217f1bbafe7dba19bc64e70ecc325fbeda083841"
+    },
     {
       "sha": "5acc8f4d46",
       "message": "Harden string parsing for tcp (#156)",

@@ -2,14 +2,22 @@
   "title": "mnunberg1",
   "login": "mnunberg1",
   "avatar_url": "https://github.com/mnunberg1.png?size=64",
-  "score": 4,
+  "score": 5,
   "commit_count": 0,
-  "review_count": 4,
+  "review_count": 5,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [],
   "review_list": [
+    {
+      "sha": "859e328468",
+      "message": "test(cursor): Fix race in DestructionObeysBackgroundCleanupSetting (#1511)",
+      "date": "2026-10-27",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1511",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/859e328468b3253e33457de39575ca1c35d5a10a"
+    },
     {
       "sha": "1ce64680f9",
       "message": "Skip orphan multi/exec keys in SaveIndexExtension instead of aborting (#1361)",

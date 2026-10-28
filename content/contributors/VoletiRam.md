@@ -2,9 +2,9 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 62,
+  "score": 63,
   "commit_count": 25,
-  "review_count": 37,
+  "review_count": 38,
   "repos": [
     "valkey",
     "valkey-perf-benchmark",
@@ -214,6 +214,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4bb501a45d",
+      "message": "Scoring compatibility tests (#1436)",
+      "date": "2026-10-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1436",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/4bb501a45de05e2ad168e59042df3dbef6966689"
+    },
     {
       "sha": "584d697f0e",
       "message": "Drop index schemas in every database on FLUSHALL (#1404)",

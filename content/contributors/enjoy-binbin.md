@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 1000,
-  "commit_count": 395,
-  "review_count": 605,
+  "score": 1002,
+  "commit_count": 396,
+  "review_count": 606,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "3192cf6945",
+      "message": "Block DEBUG RELOAD and DEBUG LOADAOF in loading and async-loading (#4877)",
+      "date": "2026-10-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4877",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3192cf694506d8996f81e62a7895f47592dab321"
+    },
     {
       "sha": "4d5fdeb0cf",
       "message": "Fix sds overflow assert on RESTORE payload with an overflowing string length (#4733)",
@@ -3183,6 +3191,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4886",
       "commit_url": "https://github.com/valkey-io/valkey/commit/938007fd98056a362f02fa4597b13b65ee5026e2"
+    },
+    {
+      "sha": "ee247dbd4b",
+      "message": "[Bug Fix] Fix fast-fail double-counting a NACK voter that later fails (#4655)",
+      "date": "2026-10-27",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4655",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ee247dbd4b4d8fe1247c9176e959270dae8c6f61"
     },
     {
       "sha": "b3a1356376",

@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 54,
+  "score": 55,
   "commit_count": 27,
-  "review_count": 27,
+  "review_count": 28,
   "repos": [
     "valkey-ci-agent",
     "valkey-doc",
@@ -230,6 +230,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "20585a6049",
+      "message": "Automated Updates for Valkey Bundle (#132)",
+      "date": "2026-10-27",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/132",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/20585a6049a57eb8a3c08f9c7f8c784d901aa995"
+    },
+    {
+      "sha": "4d50a150be",
+      "message": "fix FT.AGGREGATE reports BM25 relevance instead of the KNN distance for hybrid text=>[KNN] queries (#1410) (#1494)",
+      "date": "2026-10-27",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1494",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/4d50a150be66db0860fbabfd2c564ee76c8418f4"
+    },
     {
       "sha": "87d29cc4c7",
       "message": "Wait for in-flight mutations before sync-path revalidation (#1602) (#1610)",

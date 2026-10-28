@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 887,
+  "score": 890,
   "commit_count": 45,
-  "review_count": 842,
+  "review_count": 845,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "161c67b89f",
+      "message": "docs: simplify server version annotations in comments (#7444)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7444",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/161c67b89ffdc14c63659fcf6ae96f38d9f96e3b"
+    },
+    {
+      "sha": "5afde2d45c",
+      "message": "docs: add list ordering guidelines and apply them (#607)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/607",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5afde2d45ccde457b3d7a718e9610247975573f5"
+    },
+    {
+      "sha": "dd3e4f4d4f",
+      "message": "feat(string): add `IFNE` condition to `SET` (#608)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/608",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/dd3e4f4d4fd085fcd71ed09219e6963ed1652482"
+    },
     {
       "sha": "4a1185aef6",
       "message": "fix(core): replace stale connection on circular MOVED (#7427)",

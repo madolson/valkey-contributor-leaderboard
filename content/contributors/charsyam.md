@@ -2,13 +2,21 @@
   "title": "charsyam",
   "login": "charsyam",
   "avatar_url": "https://avatars.githubusercontent.com/u/439301?v=4",
-  "score": 15,
-  "commit_count": 14,
+  "score": 16,
+  "commit_count": 15,
   "review_count": 1,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "faec379ecd",
+      "message": "Fix GEOSEARCH repeated BYPOLYGON memory leak (#4995)",
+      "date": "2026-10-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4995",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/faec379ecd35a9f9d333b2bf42667f5b4fa408c7"
+    },
     {
       "sha": "e50b62d0bb",
       "message": "[correctness] Fix LSET modifying elements for out-of-range 64-bit indexes (#4823)",

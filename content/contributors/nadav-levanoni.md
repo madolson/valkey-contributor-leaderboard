@@ -2,15 +2,23 @@
   "title": "nadav-levanoni",
   "login": "nadav-levanoni",
   "avatar_url": "https://avatars.githubusercontent.com/u/38641521?v=4",
-  "score": 13,
-  "commit_count": 8,
-  "review_count": 5,
+  "score": 15,
+  "commit_count": 9,
+  "review_count": 6,
   "repos": [
     "valkey",
     "valkey-large-object",
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "7fb1508179",
+      "message": "Report disk staging utilization in INFO (#159)",
+      "date": "2026-10-27",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/159",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/7fb1508179d53f04f1d5f9a872faf258c8c1fcfd"
+    },
     {
       "sha": "4a8292cf2e",
       "message": "bench: add workload plugins (fuzz, tcp-connections) for endurance testing (#158)",
@@ -77,6 +85,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "28f6dfe392",
+      "message": "Read coalescing for requests serving from DRAM (#113)",
+      "date": "2026-10-27",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/113",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/28f6dfe392b9d274a85799ac81db5e3ac46970eb"
+    },
     {
       "sha": "4e7aea61c2",
       "message": "Switch to github runners instead of self hosted (#153)",

@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 370,
+  "score": 371,
   "commit_count": 85,
-  "review_count": 285,
+  "review_count": 286,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -695,6 +695,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b4e464caa3",
+      "message": "feat(php): reuse persistent clients across requests (persistent_id / $persistent) (#352)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/352",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b4e464caa389d50d33107b69229b7e5bce354f65"
+    },
     {
       "sha": "47d068a3a7",
       "message": "fix(python): always rebuild `libglide_ffi` in `dev.py` build (#7431)",

@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 82,
+  "score": 83,
   "commit_count": 27,
-  "review_count": 55,
+  "review_count": 56,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -231,6 +231,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d9b1069f71",
+      "message": "chore(lint): remove redundant `.editorconfig` files and fix violations (#612)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/612",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d9b1069f7162b8b1b4f9fe896786546a6d840bee"
+    },
     {
       "sha": "4a1185aef6",
       "message": "fix(core): replace stale connection on circular MOVED (#7427)",

@@ -2,9 +2,9 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 130,
+  "score": 131,
   "commit_count": 41,
-  "review_count": 89,
+  "review_count": 90,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -343,6 +343,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4d50a150be",
+      "message": "fix FT.AGGREGATE reports BM25 relevance instead of the KNN distance for hybrid text=>[KNN] queries (#1410) (#1494)",
+      "date": "2026-10-27",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1494",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/4d50a150be66db0860fbabfd2c564ee76c8418f4"
+    },
     {
       "sha": "e335d9ea36",
       "message": "Remove dead duplicate Verify() from ft_search_parser (#1367)",

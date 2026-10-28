@@ -2,9 +2,9 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 29,
+  "score": 31,
   "commit_count": 20,
-  "review_count": 9,
+  "review_count": 11,
   "repos": [
     "valkey",
     "valkey-container",
@@ -173,6 +173,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3192cf6945",
+      "message": "Block DEBUG RELOAD and DEBUG LOADAOF in loading and async-loading (#4877)",
+      "date": "2026-10-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4877",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3192cf694506d8996f81e62a7895f47592dab321"
+    },
+    {
+      "sha": "faec379ecd",
+      "message": "Fix GEOSEARCH repeated BYPOLYGON memory leak (#4995)",
+      "date": "2026-10-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4995",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/faec379ecd35a9f9d333b2bf42667f5b4fa408c7"
+    },
     {
       "sha": "938007fd98",
       "message": "Only warn about a command line password when -a or -u set it (#4886)",

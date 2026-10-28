@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 302,
+  "score": 303,
   "commit_count": 102,
-  "review_count": 200,
+  "review_count": 201,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -831,6 +831,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "450d72135e",
+      "message": "docs(core): fix IAM refresh interval default and credentials_provider tuple (#7423)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7423",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/450d72135e3442b1beba939d17676364513512f8"
+    },
     {
       "sha": "b7c92e92b4",
       "message": "feat(python): valkey-search 1.3 support and RediSearch parity (#7335)",

@@ -2,8 +2,8 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 17,
-  "commit_count": 14,
+  "score": 19,
+  "commit_count": 16,
   "review_count": 3,
   "repos": [
     "valkey",
@@ -11,6 +11,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "a54cd140ce",
+      "message": "Update security.md guidance and reporting (#515)",
+      "date": "2026-10-27",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/515",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/a54cd140ce1368ba25a63aa7b315bb5c39a7fc2f"
+    },
+    {
+      "sha": "4fb0b013fe",
+      "message": "Add security mailing list address to wordlist (#516)",
+      "date": "2026-10-27",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/516",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/4fb0b013fe3ed42cb98fd70d4c3f0763a548da14"
+    },
     {
       "sha": "89768a18d2",
       "message": "Fix Duplicate & Link Command References for Search (#509)",

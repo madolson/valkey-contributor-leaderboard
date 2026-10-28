@@ -2,8 +2,8 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 165,
-  "commit_count": 21,
+  "score": 166,
+  "commit_count": 22,
   "review_count": 144,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-proxy"
   ],
   "commit_list": [
+    {
+      "sha": "888c79deae",
+      "message": "Adds a deprecation notice to command list (#308)",
+      "date": "2026-10-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/308",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/888c79deae0a4d31daa8bd51902187e2c6c45886"
+    },
     {
       "sha": "1aff22360b",
       "message": "remove ValkeyConf banner (#698)",

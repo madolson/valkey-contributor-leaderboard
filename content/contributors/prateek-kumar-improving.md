@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 464,
+  "score": 465,
   "commit_count": 160,
-  "review_count": 304,
+  "review_count": 305,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1295,6 +1295,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b4e464caa3",
+      "message": "feat(php): reuse persistent clients across requests (persistent_id / $persistent) (#352)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/352",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b4e464caa389d50d33107b69229b7e5bce354f65"
+    },
     {
       "sha": "81a1edffcd",
       "message": "ci: pin ubuntu-latest jobs to ubuntu-24.04 (#390)",

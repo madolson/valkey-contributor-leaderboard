@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 378,
-  "commit_count": 222,
+  "score": 382,
+  "commit_count": 226,
   "review_count": 156,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,38 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "161c67b89f",
+      "message": "docs: simplify server version annotations in comments (#7444)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7444",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/161c67b89ffdc14c63659fcf6ae96f38d9f96e3b"
+    },
+    {
+      "sha": "5afde2d45c",
+      "message": "docs: add list ordering guidelines and apply them (#607)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/607",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5afde2d45ccde457b3d7a718e9610247975573f5"
+    },
+    {
+      "sha": "dd3e4f4d4f",
+      "message": "feat(string): add `IFNE` condition to `SET` (#608)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/608",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/dd3e4f4d4fd085fcd71ed09219e6963ed1652482"
+    },
+    {
+      "sha": "d9b1069f71",
+      "message": "chore(lint): remove redundant `.editorconfig` files and fix violations (#612)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/612",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/d9b1069f7162b8b1b4f9fe896786546a6d840bee"
+    },
     {
       "sha": "47d068a3a7",
       "message": "fix(python): always rebuild `libglide_ffi` in `dev.py` build (#7431)",
@@ -1793,6 +1825,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2a837fec7d",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/git-secrets-scan.yml (#395)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/395",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/2a837fec7d544e7efc8b8b5694ae9fa962dbb1a2"
+    },
     {
       "sha": "4fa2e056a3",
       "message": "fix(security): update RustSec-vulnerable zstd crates (#7438)",

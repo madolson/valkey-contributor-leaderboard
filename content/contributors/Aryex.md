@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 334,
+  "score": 337,
   "commit_count": 125,
-  "review_count": 209,
+  "review_count": 212,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -1018,6 +1018,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "161c67b89f",
+      "message": "docs: simplify server version annotations in comments (#7444)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7444",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/161c67b89ffdc14c63659fcf6ae96f38d9f96e3b"
+    },
+    {
+      "sha": "450d72135e",
+      "message": "docs(core): fix IAM refresh interval default and credentials_provider tuple (#7423)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7423",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/450d72135e3442b1beba939d17676364513512f8"
+    },
+    {
+      "sha": "450d72135e",
+      "message": "docs(core): fix IAM refresh interval default and credentials_provider tuple (#7423)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7423",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/450d72135e3442b1beba939d17676364513512f8"
+    },
+    {
+      "sha": "2a837fec7d",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/git-secrets-scan.yml (#395)",
+      "date": "2026-10-27",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/395",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/2a837fec7d544e7efc8b8b5694ae9fa962dbb1a2"
+    },
     {
       "sha": "70006cc667",
       "message": "feat(python): add DELIFEQ command support (#7386)",
