@@ -2,9 +2,9 @@
   "title": "charsyam",
   "login": "charsyam",
   "avatar_url": "https://avatars.githubusercontent.com/u/439301?v=4",
-  "score": 16,
+  "score": 17,
   "commit_count": 15,
-  "review_count": 1,
+  "review_count": 2,
   "repos": [
     "valkey"
   ],
@@ -131,6 +131,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f2ca837edc",
+      "message": "Fix memory leak in GetCommandKeysWithFlags (#5046)",
+      "date": "2026-10-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5046",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f2ca837edc75e2238f880d89ade60babb6e6ed9e"
+    },
     {
       "sha": "7c7436bfc9",
       "message": "Deflake Dual-channel load converges after primary repl-compression test (#4966)",

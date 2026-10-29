@@ -2,9 +2,9 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 19,
+  "score": 20,
   "commit_count": 16,
-  "review_count": 3,
+  "review_count": 4,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -141,6 +141,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b9a02c9de9",
+      "message": "Document ACL roles (#497)",
+      "date": "2026-10-28",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/497",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/b9a02c9de910dcf06ba9292ce9a973d1c65dd305"
+    },
     {
       "sha": "781545c52f",
       "message": "Fix broken doc links (#502)",

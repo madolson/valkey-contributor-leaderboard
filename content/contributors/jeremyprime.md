@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 296,
-  "commit_count": 93,
-  "review_count": 203,
+  "score": 301,
+  "commit_count": 97,
+  "review_count": 204,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -14,6 +14,38 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "22e51da9d9",
+      "message": "fix(python): stop async client hang after pool borrow/release (#7454)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7454",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/22e51da9d98d8661bc15e6b26bc62d3e623ed4e1"
+    },
+    {
+      "sha": "75dc51510d",
+      "message": "docs: update Node.js glibc requirement to 2.28 (#363)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/363",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/75dc51510d9bfc02f3a05dc483432772adedafa3"
+    },
+    {
+      "sha": "7382e5720f",
+      "message": "fix(php): require TLS for IAM auth (#391)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/391",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/7382e5720fe76be53bebcd367d994b4f37cd3a37"
+    },
+    {
+      "sha": "410b42fdd9",
+      "message": "fix(ruby): require TLS for IAM auth (#397)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/397",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/410b42fdd93a28bebe7b303cbaab50aa8e555c4a"
+    },
     {
       "sha": "450d72135e",
       "message": "docs(core): fix IAM refresh interval default and credentials_provider tuple (#7423)",
@@ -760,6 +792,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ddac8c3a19",
+      "message": "feat(core): integrate glide-rdma into glide-core (#7412)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7412",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ddac8c3a19e1a7badd832a951784a8e536462b28"
+    },
     {
       "sha": "d9b1069f71",
       "message": "chore(lint): remove redundant `.editorconfig` files and fix violations (#612)",

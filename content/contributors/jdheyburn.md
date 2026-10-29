@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 176,
+  "score": 177,
   "commit_count": 61,
-  "review_count": 115,
+  "review_count": 116,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -501,6 +501,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ca88b3f3d1",
+      "message": "fix(controller): stop rewriting ValkeyNode conditions on message-only changes (#474)",
+      "date": "2026-10-28",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/474",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/ca88b3f3d12ec4e9f7d4509d3a0a759040013115"
+    },
     {
       "sha": "dffa9b5aff",
       "message": "docs: document same-shard spread on a custom topology key (#509)",

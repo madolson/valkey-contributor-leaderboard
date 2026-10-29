@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 138,
+  "score": 140,
   "commit_count": 76,
-  "review_count": 62,
+  "review_count": 64,
   "repos": [
     "valkey-admin"
   ],
@@ -619,6 +619,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0caa751125",
+      "message": "Run LFU cluster, default cluster and standalone Valkey from one script (#584)",
+      "date": "2026-10-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/584",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/0caa75112566b7d8fbf9a1e35817981333c60bb3"
+    },
+    {
+      "sha": "914da5efa3",
+      "message": "Show Cluster Slot Stats setup commands in the MONITOR dialog (#583)",
+      "date": "2026-10-28",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/583",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/914da5efa3209fedac9359245511238a5c2f1def"
+    },
     {
       "sha": "7e72be453f",
       "message": "fix issues found during bug bash (#582)",

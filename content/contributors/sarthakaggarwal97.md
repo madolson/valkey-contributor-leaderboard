@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 437,
-  "commit_count": 118,
-  "review_count": 319,
+  "score": 439,
+  "commit_count": 119,
+  "review_count": 320,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -18,6 +18,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "b7ae45c741",
+      "message": "CI: run reclaim-cache test on disk-backed runner storage (#5037)",
+      "date": "2026-10-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5037",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b7ae45c74150f1d10135e779d911e7dfe03ee212"
+    },
     {
       "sha": "e7d73f057f",
       "message": "Allow valkey-doc tag pushes containing workflows (#78)",
@@ -964,6 +972,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ffbd8481a9",
+      "message": "Pin clang-format to 18.1.8 in the format CI job (#5086)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5086",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ffbd8481a90ca0786d1d1b63c55df695be6d08e0"
+    },
     {
       "sha": "3192cf6945",
       "message": "Block DEBUG RELOAD and DEBUG LOADAOF in loading and async-loading (#4877)",

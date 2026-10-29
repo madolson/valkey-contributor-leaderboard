@@ -2,9 +2,9 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 63,
+  "score": 64,
   "commit_count": 25,
-  "review_count": 38,
+  "review_count": 39,
   "repos": [
     "valkey",
     "valkey-perf-benchmark",
@@ -221,6 +221,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1436",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/4bb501a45de05e2ad168e59042df3dbef6966689"
+    },
+    {
+      "sha": "6d1eb2667d",
+      "message": "Remove stale local copy of the benchmark configs (#1446)",
+      "date": "2026-10-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1446",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6d1eb2667d214c4841a8c5c59b249b02bbbdd7b8"
     },
     {
       "sha": "584d697f0e",

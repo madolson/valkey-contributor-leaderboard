@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 890,
+  "score": 898,
   "commit_count": 45,
-  "review_count": 845,
+  "review_count": 853,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,70 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "22e51da9d9",
+      "message": "fix(python): stop async client hang after pool borrow/release (#7454)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7454",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/22e51da9d98d8661bc15e6b26bc62d3e623ed4e1"
+    },
+    {
+      "sha": "8a9519bd5d",
+      "message": "feat(node): add DELIFEQ command support (#7384)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7384",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8a9519bd5d832f9338a6a376c1523a23572fb06a"
+    },
+    {
+      "sha": "876916f2b3",
+      "message": "feat: add SET IFNE support to Java, Node, Go, and Rust (#7453)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7453",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/876916f2b3c277141f736317e52b26511dadaf13"
+    },
+    {
+      "sha": "3f4aefefee",
+      "message": "feat(go): add DELIFEQ command support (#7383)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7383",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3f4aefefee337d0ef36fc3da40bf16d31fe416ff"
+    },
+    {
+      "sha": "75dc51510d",
+      "message": "docs: update Node.js glibc requirement to 2.28 (#363)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/363",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/75dc51510d9bfc02f3a05dc483432772adedafa3"
+    },
+    {
+      "sha": "7382e5720f",
+      "message": "fix(php): require TLS for IAM auth (#391)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/391",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/7382e5720fe76be53bebcd367d994b4f37cd3a37"
+    },
+    {
+      "sha": "410b42fdd9",
+      "message": "fix(ruby): require TLS for IAM auth (#397)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/397",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/410b42fdd93a28bebe7b303cbaab50aa8e555c4a"
+    },
+    {
+      "sha": "d61a46f7ab",
+      "message": "feat(ruby): add DELIFEQ command support (#382)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/382",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d61a46f7ab813a79019cd61a2322129aa1cc5d71"
+    },
     {
       "sha": "161c67b89f",
       "message": "docs: simplify server version annotations in comments (#7444)",

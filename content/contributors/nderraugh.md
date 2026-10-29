@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 83,
+  "score": 86,
   "commit_count": 27,
-  "review_count": 56,
+  "review_count": 59,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -231,6 +231,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "22e51da9d9",
+      "message": "fix(python): stop async client hang after pool borrow/release (#7454)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7454",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/22e51da9d98d8661bc15e6b26bc62d3e623ed4e1"
+    },
+    {
+      "sha": "59dc53f131",
+      "message": "chore(rdma): apply lint-rust to glide-libfabric-sys and remove unused wrappers (#7433)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7433",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/59dc53f1310aa3cd2e34b88b88084fcba0fc477b"
+    },
+    {
+      "sha": "ddac8c3a19",
+      "message": "feat(core): integrate glide-rdma into glide-core (#7412)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7412",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ddac8c3a19e1a7badd832a951784a8e536462b28"
+    },
     {
       "sha": "d9b1069f71",
       "message": "chore(lint): remove redundant `.editorconfig` files and fix violations (#612)",

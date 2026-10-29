@@ -2,8 +2,8 @@
   "title": "nadav-levanoni",
   "login": "nadav-levanoni",
   "avatar_url": "https://avatars.githubusercontent.com/u/38641521?v=4",
-  "score": 15,
-  "commit_count": 9,
+  "score": 16,
+  "commit_count": 10,
   "review_count": 6,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "738a9a97b2",
+      "message": "Retry a transient unlink or stat once, then abort; remove the orphaned-files list (#145)",
+      "date": "2026-10-28",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/145",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/738a9a97b27e920532caec76adce469ba1b21e88"
+    },
     {
       "sha": "7fb1508179",
       "message": "Report disk staging utilization in INFO (#159)",

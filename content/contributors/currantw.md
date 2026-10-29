@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 382,
-  "commit_count": 226,
-  "review_count": 156,
+  "score": 387,
+  "commit_count": 227,
+  "review_count": 160,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "876916f2b3",
+      "message": "feat: add SET IFNE support to Java, Node, Go, and Rust (#7453)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7453",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/876916f2b3c277141f736317e52b26511dadaf13"
+    },
     {
       "sha": "161c67b89f",
       "message": "docs: simplify server version annotations in comments (#7444)",
@@ -1825,6 +1833,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "59dc53f131",
+      "message": "chore(rdma): apply lint-rust to glide-libfabric-sys and remove unused wrappers (#7433)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7433",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/59dc53f1310aa3cd2e34b88b88084fcba0fc477b"
+    },
+    {
+      "sha": "8a9519bd5d",
+      "message": "feat(node): add DELIFEQ command support (#7384)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7384",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8a9519bd5d832f9338a6a376c1523a23572fb06a"
+    },
+    {
+      "sha": "3f4aefefee",
+      "message": "feat(go): add DELIFEQ command support (#7383)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7383",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3f4aefefee337d0ef36fc3da40bf16d31fe416ff"
+    },
+    {
+      "sha": "d61a46f7ab",
+      "message": "feat(ruby): add DELIFEQ command support (#382)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/382",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d61a46f7ab813a79019cd61a2322129aa1cc5d71"
+    },
     {
       "sha": "2a837fec7d",
       "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/git-secrets-scan.yml (#395)",

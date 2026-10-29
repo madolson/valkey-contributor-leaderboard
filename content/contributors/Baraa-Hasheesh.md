@@ -2,15 +2,23 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 31,
-  "commit_count": 20,
-  "review_count": 11,
+  "score": 34,
+  "commit_count": 21,
+  "review_count": 13,
   "repos": [
     "valkey",
     "valkey-container",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "b55889b376",
+      "message": "Deflake the slot-migration failover tests (#4795)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4795",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b55889b376a3433f223a3e919e5272776fb2fc35"
+    },
     {
       "sha": "7c950b1ed7",
       "message": "Fix CI failures on clang-format due to OS changes on the runner Image (#5029)",
@@ -188,6 +196,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4995",
       "commit_url": "https://github.com/valkey-io/valkey/commit/faec379ecd35a9f9d333b2bf42667f5b4fa408c7"
+    },
+    {
+      "sha": "f2ca837edc",
+      "message": "Fix memory leak in GetCommandKeysWithFlags (#5046)",
+      "date": "2026-10-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5046",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f2ca837edc75e2238f880d89ade60babb6e6ed9e"
+    },
+    {
+      "sha": "b7ae45c741",
+      "message": "CI: run reclaim-cache test on disk-backed runner storage (#5037)",
+      "date": "2026-10-28",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5037",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b7ae45c74150f1d10135e779d911e7dfe03ee212"
     },
     {
       "sha": "938007fd98",

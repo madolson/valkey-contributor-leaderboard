@@ -2,8 +2,8 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 55,
-  "commit_count": 27,
+  "score": 58,
+  "commit_count": 30,
   "review_count": 28,
   "repos": [
     "valkey-ci-agent",
@@ -12,6 +12,30 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "6d1eb2667d",
+      "message": "Remove stale local copy of the benchmark configs (#1446)",
+      "date": "2026-10-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1446",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6d1eb2667d214c4841a8c5c59b249b02bbbdd7b8"
+    },
+    {
+      "sha": "56e290df02",
+      "message": "updated BACKPORTING.md to include on demand backport sweep instruction (#1616)",
+      "date": "2026-10-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1616",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/56e290df0243c7fdfb474ee7bdcf1a1b9ceaebd4"
+    },
+    {
+      "sha": "2dcbf630f7",
+      "message": "Enable slash commands to work for benchmarking runs (#1470)",
+      "date": "2026-10-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1470",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2dcbf630f7981f59501349928c3c01de70417363"
+    },
     {
       "sha": "ccef4e34ac",
       "message": "Add aarch64 1.2.0 module to RDB compatibility fixture (#1584)",

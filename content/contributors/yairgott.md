@@ -2,9 +2,9 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 131,
+  "score": 132,
   "commit_count": 41,
-  "review_count": 90,
+  "review_count": 91,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -343,6 +343,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2dcbf630f7",
+      "message": "Enable slash commands to work for benchmarking runs (#1470)",
+      "date": "2026-10-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1470",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2dcbf630f7981f59501349928c3c01de70417363"
+    },
     {
       "sha": "4d50a150be",
       "message": "fix FT.AGGREGATE reports BM25 relevance instead of the KNN distance for hybrid text=>[KNN] queries (#1410) (#1494)",

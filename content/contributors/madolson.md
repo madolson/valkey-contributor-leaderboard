@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 997,
-  "commit_count": 224,
-  "review_count": 773,
+  "score": 1000,
+  "commit_count": 225,
+  "review_count": 775,
   "repos": [
     ".github",
     "valkey",
@@ -22,6 +22,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "ffbd8481a9",
+      "message": "Pin clang-format to 18.1.8 in the format CI job (#5086)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5086",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ffbd8481a90ca0786d1d1b63c55df695be6d08e0"
+    },
     {
       "sha": "938007fd98",
       "message": "Only warn about a command line password when -a or -u set it (#4886)",
@@ -1817,12 +1825,28 @@
   ],
   "review_list": [
     {
+      "sha": "b55889b376",
+      "message": "Deflake the slot-migration failover tests (#4795)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4795",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b55889b376a3433f223a3e919e5272776fb2fc35"
+    },
+    {
       "sha": "faec379ecd",
       "message": "Fix GEOSEARCH repeated BYPOLYGON memory leak (#4995)",
       "date": "2026-10-28",
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4995",
       "commit_url": "https://github.com/valkey-io/valkey/commit/faec379ecd35a9f9d333b2bf42667f5b4fa408c7"
+    },
+    {
+      "sha": "b9a02c9de9",
+      "message": "Document ACL roles (#497)",
+      "date": "2026-10-28",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/497",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/b9a02c9de910dcf06ba9292ce9a973d1c65dd305"
     },
     {
       "sha": "bb34a34c80",

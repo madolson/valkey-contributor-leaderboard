@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 337,
-  "commit_count": 125,
-  "review_count": 212,
+  "score": 342,
+  "commit_count": 126,
+  "review_count": 216,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "d61a46f7ab",
+      "message": "feat(ruby): add DELIFEQ command support (#382)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/382",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d61a46f7ab813a79019cd61a2322129aa1cc5d71"
+    },
     {
       "sha": "d3944c4dce",
       "message": "docs: add remaining client feature manifests (#347)",
@@ -1018,6 +1026,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "22e51da9d9",
+      "message": "fix(python): stop async client hang after pool borrow/release (#7454)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7454",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/22e51da9d98d8661bc15e6b26bc62d3e623ed4e1"
+    },
+    {
+      "sha": "59dc53f131",
+      "message": "chore(rdma): apply lint-rust to glide-libfabric-sys and remove unused wrappers (#7433)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7433",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/59dc53f1310aa3cd2e34b88b88084fcba0fc477b"
+    },
+    {
+      "sha": "75dc51510d",
+      "message": "docs: update Node.js glibc requirement to 2.28 (#363)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/363",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/75dc51510d9bfc02f3a05dc483432772adedafa3"
+    },
+    {
+      "sha": "410b42fdd9",
+      "message": "fix(ruby): require TLS for IAM auth (#397)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/397",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/410b42fdd93a28bebe7b303cbaab50aa8e555c4a"
+    },
     {
       "sha": "161c67b89f",
       "message": "docs: simplify server version annotations in comments (#7444)",

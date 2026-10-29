@@ -2,9 +2,9 @@
   "title": "leslie-bq",
   "login": "leslie-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
-  "score": 10,
+  "score": 11,
   "commit_count": 2,
-  "review_count": 8,
+  "review_count": 9,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -29,6 +29,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3f53bd9a14",
+      "message": "fix(php): only run the PHP address resolver on the PHP thread (#357)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/357",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/3f53bd9a1451f4d8156d8675d6468fbbdcb9c4df"
+    },
     {
       "sha": "5afde2d45c",
       "message": "docs: add list ordering guidelines and apply them (#607)",

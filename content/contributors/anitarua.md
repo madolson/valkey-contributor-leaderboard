@@ -2,14 +2,30 @@
   "title": "anitarua",
   "login": "anitarua",
   "avatar_url": "https://avatars.githubusercontent.com/u/138700973?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey-glide",
     "valkey-large-object"
   ],
   "commit_list": [
+    {
+      "sha": "59dc53f131",
+      "message": "chore(rdma): apply lint-rust to glide-libfabric-sys and remove unused wrappers (#7433)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7433",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/59dc53f1310aa3cd2e34b88b88084fcba0fc477b"
+    },
+    {
+      "sha": "ddac8c3a19",
+      "message": "feat(core): integrate glide-rdma into glide-core (#7412)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7412",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ddac8c3a19e1a7badd832a951784a8e536462b28"
+    },
     {
       "sha": "38f0093c64",
       "message": "feat(rdma): add glide-rdma crate for later RDMA support (#7177)",

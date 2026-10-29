@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 465,
-  "commit_count": 160,
-  "review_count": 305,
+  "score": 476,
+  "commit_count": 162,
+  "review_count": 314,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "8a9519bd5d",
+      "message": "feat(node): add DELIFEQ command support (#7384)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7384",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8a9519bd5d832f9338a6a376c1523a23572fb06a"
+    },
+    {
+      "sha": "3f4aefefee",
+      "message": "feat(go): add DELIFEQ command support (#7383)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7383",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3f4aefefee337d0ef36fc3da40bf16d31fe416ff"
+    },
     {
       "sha": "70006cc667",
       "message": "feat(python): add DELIFEQ command support (#7386)",
@@ -1295,6 +1311,86 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "876916f2b3",
+      "message": "feat: add SET IFNE support to Java, Node, Go, and Rust (#7453)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7453",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/876916f2b3c277141f736317e52b26511dadaf13"
+    },
+    {
+      "sha": "39169e707c",
+      "message": "fix(php): stop sending a 0-second periodic check interval for cluster clients (#355)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/355",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/39169e707c21e01a2a7e98e901f7a2e16b8aa715"
+    },
+    {
+      "sha": "e4522161a5",
+      "message": "fix(php): apply an integer timeout passed to connect() (#356)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/356",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/e4522161a5728b097790f068e728d0445aef1c4c"
+    },
+    {
+      "sha": "7382e5720f",
+      "message": "fix(php): require TLS for IAM auth (#391)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/391",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/7382e5720fe76be53bebcd367d994b4f37cd3a37"
+    },
+    {
+      "sha": "6627577604",
+      "message": "feat(php): add PHPRedis-compatible OPT_PREFIX and _prefix() key prefixing (#348)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/348",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/66275776044e3eef661b70478870720eb5aa2c70"
+    },
+    {
+      "sha": "680c0980d6",
+      "message": "ci(deps): bump actions/setup-java from 6.0.1 to 6.1.0 (#385)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/385",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/680c0980d6a8d4ab1dd801657565baa919bd7b71"
+    },
+    {
+      "sha": "9df2f6be22",
+      "message": "test(php): give test clients a 2 s connection timeout (#396)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/396",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9df2f6be2207974cb1a633c6056ad9222841d596"
+    },
+    {
+      "sha": "8c20d37ad8",
+      "message": "fix(php): send empty-string keys, values and members to the server (#393)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/393",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/8c20d37ad882da388170847cd68a9b969c66d71a"
+    },
+    {
+      "sha": "50c4b907cb",
+      "message": "feat(php): add ValkeyGlide::pconnect() (#353)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/353",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/50c4b907cbf0cc7b54c4fae48159dd03f9330411"
+    },
+    {
+      "sha": "4fc2aad0b3",
+      "message": "fix(php): queue EVAL and FUNCTION LOAD in batches, fix empty EXEC and FUNCTION LOAD REPLACE (#347)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/347",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/4fc2aad0b3d406a22dec209ade86f6d5e50cb563"
+    },
     {
       "sha": "b4e464caa3",
       "message": "feat(php): reuse persistent clients across requests (persistent_id / $persistent) (#352)",

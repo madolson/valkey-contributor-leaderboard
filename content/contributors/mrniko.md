@@ -2,13 +2,22 @@
   "title": "mrniko",
   "login": "mrniko",
   "avatar_url": "https://avatars.githubusercontent.com/u/1104661?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
-    "valkey-doc"
+    "valkey-doc",
+    "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "4941408cf1",
+      "message": "Redisson description update. AZ_based_read_from_replica support (#728)",
+      "date": "2026-10-28",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/728",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/4941408cf1f6eafe3ac393833426dd577c45444d"
+    },
     {
       "sha": "a77986fbc9",
       "message": "Redisson description and version updated (#480)",

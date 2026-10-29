@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 100,
+  "score": 101,
   "commit_count": 60,
-  "review_count": 40,
+  "review_count": 41,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -499,6 +499,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "738a9a97b2",
+      "message": "Retry a transient unlink or stat once, then abort; remove the orphaned-files list (#145)",
+      "date": "2026-10-28",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/145",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/738a9a97b27e920532caec76adce469ba1b21e88"
+    },
     {
       "sha": "6c4a09598e",
       "message": "fall through to nvme uring when dram iovec table is reregistering (#160)",

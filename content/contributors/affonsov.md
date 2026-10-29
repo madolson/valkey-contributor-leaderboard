@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 303,
+  "score": 304,
   "commit_count": 102,
-  "review_count": 201,
+  "review_count": 202,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -831,6 +831,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "75dc51510d",
+      "message": "docs: update Node.js glibc requirement to 2.28 (#363)",
+      "date": "2026-10-28",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/363",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/75dc51510d9bfc02f3a05dc483432772adedafa3"
+    },
     {
       "sha": "450d72135e",
       "message": "docs(core): fix IAM refresh interval default and credentials_provider tuple (#7423)",

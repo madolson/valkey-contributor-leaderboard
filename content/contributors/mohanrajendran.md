@@ -2,9 +2,9 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 21,
+  "score": 22,
   "commit_count": 9,
-  "review_count": 12,
+  "review_count": 13,
   "repos": [
     "valkey-json",
     "valkey-search"
@@ -84,6 +84,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2dcbf630f7",
+      "message": "Enable slash commands to work for benchmarking runs (#1470)",
+      "date": "2026-10-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1470",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2dcbf630f7981f59501349928c3c01de70417363"
+    },
     {
       "sha": "cad3560558",
       "message": "Add WITHCURSOR to FT.AGGREGATE and FT.SEARCH, and the FT.CURSOR command (#1394)",

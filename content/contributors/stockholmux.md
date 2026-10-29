@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 166,
+  "score": 167,
   "commit_count": 22,
-  "review_count": 144,
+  "review_count": 145,
   "repos": [
     "valkey",
     "valkey-container",
@@ -192,6 +192,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4941408cf1",
+      "message": "Redisson description update. AZ_based_read_from_replica support (#728)",
+      "date": "2026-10-28",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/728",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/4941408cf1f6eafe3ac393833426dd577c45444d"
+    },
     {
       "sha": "bb34a34c80",
       "message": "Rebuild the clients page and add an Integrations page (#602)",

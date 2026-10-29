@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 154,
+  "score": 156,
   "commit_count": 44,
-  "review_count": 110,
+  "review_count": 112,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -373,6 +373,22 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1436",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/4bb501a45de05e2ad168e59042df3dbef6966689"
+    },
+    {
+      "sha": "6d1eb2667d",
+      "message": "Remove stale local copy of the benchmark configs (#1446)",
+      "date": "2026-10-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1446",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6d1eb2667d214c4841a8c5c59b249b02bbbdd7b8"
+    },
+    {
+      "sha": "56e290df02",
+      "message": "updated BACKPORTING.md to include on demand backport sweep instruction (#1616)",
+      "date": "2026-10-28",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1616",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/56e290df0243c7fdfb474ee7bdcf1a1b9ceaebd4"
     },
     {
       "sha": "771657ae86",
