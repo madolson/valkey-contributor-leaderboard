@@ -2,13 +2,21 @@
   "title": "uintaam",
   "login": "uintaam",
   "avatar_url": "https://avatars.githubusercontent.com/u/295346?v=4",
-  "score": 15,
-  "commit_count": 15,
+  "score": 16,
+  "commit_count": 16,
   "review_count": 0,
   "repos": [
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "0787ddeb42",
+      "message": "fix(php): use the PHPRedis value 8 for OPT_REPLY_LITERAL (#358)",
+      "date": "2026-10-29",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/358",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/0787ddeb4268edacbc8975621aa1ac7d2f9f7c71"
+    },
     {
       "sha": "39169e707c",
       "message": "fix(php): stop sending a 0-second periodic check interval for cluster clients (#355)",

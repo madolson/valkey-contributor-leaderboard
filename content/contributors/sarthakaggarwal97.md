@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 439,
+  "score": 449,
   "commit_count": 119,
-  "review_count": 320,
+  "review_count": 330,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -973,12 +973,92 @@
   ],
   "review_list": [
     {
+      "sha": "30a4df7b2e",
+      "message": "Keep the TLS connection postponed while an IO thread is writing (#5156)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5156",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/30a4df7b2ed9550c7025aae9547b06fcfd191a83"
+    },
+    {
+      "sha": "41578166d4",
+      "message": "Bound the bytes clusterReadHandler() reads per event (#5161)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5161",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/41578166d4890d098a37f541cf3606a8b51cd7b1"
+    },
+    {
+      "sha": "d30102951d",
+      "message": "Reply to CLUSTER SLOT-STATS ORDERBY with the slots it collected (#5131)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5131",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d30102951d774c49732e5c90ad1e079f4c96390d"
+    },
+    {
+      "sha": "2e878e3e9c",
+      "message": "Ignore ping extension values that nodes.conf cannot load (#5137)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5137",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2e878e3e9c2961d0e42ce69fca86c9c4212ab336"
+    },
+    {
+      "sha": "3e04271dd4",
+      "message": "Fix writevToClient stack overflow for empty bulk strings with copy avoidance (#5151)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5151",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3e04271dd487f41c8a12bed7f785ab4c4c8599c1"
+    },
+    {
+      "sha": "932ee1e454",
+      "message": "Fix integer overflow in _quicklistNodeAllowMerge size check (#5163)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5163",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/932ee1e45440cee8304592c95a674d9de71a3b4b"
+    },
+    {
+      "sha": "a7201627e8",
+      "message": "Keep a lone quote in the last CSV dataset field literally (#5168)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5168",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a7201627e8683217aefbd5601b4d14b9d8caddd8"
+    },
+    {
+      "sha": "e7205778fa",
+      "message": "Hash HyperLogLog elements with a size_t length (#5132)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5132",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e7205778fa3c5e3323e8199f5e63e369f82e9d2e"
+    },
+    {
+      "sha": "d6aff35377",
+      "message": "Print usage when valkey-check-rdb --output has no file name (#5135)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5135",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d6aff353778fff95fc480786a3b799dfa9c64fc7"
+    },
+    {
       "sha": "ffbd8481a9",
       "message": "Pin clang-format to 18.1.8 in the format CI job (#5086)",
       "date": "2026-10-29",
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/5086",
       "commit_url": "https://github.com/valkey-io/valkey/commit/ffbd8481a90ca0786d1d1b63c55df695be6d08e0"
+    },
+    {
+      "sha": "88089c54e4",
+      "message": "Fix clang-format in the VM_CallArgv doc comment (#5111)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5111",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/88089c54e453f0d8e99a90968e953bba2a11a41b"
     },
     {
       "sha": "3192cf6945",

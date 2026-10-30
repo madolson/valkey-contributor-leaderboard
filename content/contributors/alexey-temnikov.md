@@ -2,9 +2,9 @@
   "title": "alexey-temnikov",
   "login": "alexey-temnikov",
   "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
-  "score": 35,
+  "score": 36,
   "commit_count": 16,
-  "review_count": 19,
+  "review_count": 20,
   "repos": [
     "valkey-admin",
     "valkey-developer-resources",
@@ -146,6 +146,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6a996d570d",
+      "message": "Add automated check to catch broken internal links (#694)",
+      "date": "2026-10-30",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/694",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/6a996d570d72fc8b1d0922471d0df0973e3690b1"
+    },
     {
       "sha": "bb34a34c80",
       "message": "Rebuild the clients page and add an Integrations page (#602)",

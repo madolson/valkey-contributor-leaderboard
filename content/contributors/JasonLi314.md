@@ -2,13 +2,21 @@
   "title": "JasonLi314",
   "login": "JasonLi314",
   "avatar_url": "https://avatars.githubusercontent.com/u/47095666?v=4",
-  "score": 8,
-  "commit_count": 8,
+  "score": 9,
+  "commit_count": 9,
   "review_count": 0,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "d11b591026",
+      "message": "[BUG fix] Fix FT.AGGREGATE ignoring VERBATIM, INORDER and SLOP (#1606)",
+      "date": "2026-10-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1606",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d11b591026281dcc56beb5e3a8e3422607fca340"
+    },
     {
       "sha": "b0051e4963",
       "message": "ci: limit mmap randomization so TSAN runs on ubuntu-26.04 (#1617)",

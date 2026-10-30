@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 378,
+  "score": 382,
   "commit_count": 85,
-  "review_count": 293,
+  "review_count": 297,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -695,6 +695,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3ea2878283",
+      "message": "feat(ffi): integrate rdma into ffi (#7458)",
+      "date": "2026-10-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7458",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3ea2878283e99550090abd94dd9d15bbb1142f43"
+    },
+    {
+      "sha": "1c01b1cf16",
+      "message": "fix(core): keep waiting for SpecificNode route connection across superseding refresh (#7435)",
+      "date": "2026-10-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7435",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/1c01b1cf16245201eb54b8b66201560ebbe9bda7"
+    },
+    {
+      "sha": "97b3c0c961",
+      "message": "refactor(ffi): return pool metrics by value with a status (#7457)",
+      "date": "2026-10-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7457",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97b3c0c961fcbcfdd3ec848c74470ba656131d23"
+    },
+    {
+      "sha": "0787ddeb42",
+      "message": "fix(php): use the PHPRedis value 8 for OPT_REPLY_LITERAL (#358)",
+      "date": "2026-10-29",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/358",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/0787ddeb4268edacbc8975621aa1ac7d2f9f7c71"
+    },
     {
       "sha": "ddac8c3a19",
       "message": "feat(core): integrate glide-rdma into glide-core (#7412)",

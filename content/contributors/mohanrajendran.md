@@ -2,9 +2,9 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 22,
+  "score": 23,
   "commit_count": 9,
-  "review_count": 13,
+  "review_count": 14,
   "repos": [
     "valkey-json",
     "valkey-search"
@@ -84,6 +84,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d11b591026",
+      "message": "[BUG fix] Fix FT.AGGREGATE ignoring VERBATIM, INORDER and SLOP (#1606)",
+      "date": "2026-10-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1606",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d11b591026281dcc56beb5e3a8e3422607fca340"
+    },
     {
       "sha": "2dcbf630f7",
       "message": "Enable slash commands to work for benchmarking runs (#1470)",

@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 339,
-  "commit_count": 87,
+  "score": 341,
+  "commit_count": 89,
   "review_count": 252,
   "repos": [
     "valkey",
@@ -13,6 +13,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "fb5cfc828a",
+      "message": "Make SimSIMD dynamic dispatch thread-safe to fix a NULL-call race (#1396)",
+      "date": "2026-10-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1396",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/fb5cfc828aa98644d83bcc1e4815990730541d2b"
+    },
+    {
+      "sha": "af257c5f3a",
+      "message": "LOAD * plus autoloaded Aggregation fields generates incompatible JSON result. (#1381)",
+      "date": "2026-10-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1381",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/af257c5f3a52e03280fc31b4b9c7a570f951a26f"
+    },
     {
       "sha": "e335d9ea36",
       "message": "Remove dead duplicate Verify() from ft_search_parser (#1367)",

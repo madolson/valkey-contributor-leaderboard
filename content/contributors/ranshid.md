@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 326,
+  "score": 328,
   "commit_count": 96,
-  "review_count": 230,
+  "review_count": 232,
   "repos": [
     "valkey",
     "valkey-container",
@@ -787,6 +787,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3aa4cbce47",
+      "message": "Count expired but unreaped hash fields in objectComputeSize (#5092)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5092",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3aa4cbce47f4a2939917fb89f36cfdd92b1f5b4b"
+    },
+    {
+      "sha": "3aa4cbce47",
+      "message": "Count expired but unreaped hash fields in objectComputeSize (#5092)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5092",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3aa4cbce47f4a2939917fb89f36cfdd92b1f5b4b"
+    },
     {
       "sha": "0dcfdd7a98",
       "message": "Add featured image for KV caching on Valkey blog post (#709)",

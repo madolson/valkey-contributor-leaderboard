@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 161,
+  "score": 162,
   "commit_count": 42,
-  "review_count": 119,
+  "review_count": 120,
   "repos": [
     "valkey",
     "valkey-container",
@@ -352,6 +352,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3350565b36",
+      "message": "Allow user to pass testing option via make file & use that to dump logs in coverage job (#5148)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5148",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3350565b366d0c38d8ce2054b045a0ec964a9474"
+    },
     {
       "sha": "255018c000",
       "message": "Fix module blocking of RESP3 Pub/Sub clients (#4863)",

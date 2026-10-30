@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 1004,
-  "commit_count": 396,
-  "review_count": 608,
+  "score": 1025,
+  "commit_count": 397,
+  "review_count": 628,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "45cd914592",
+      "message": "Skip QoS event draining when AE_FILE_EVENTS is not set (#5098)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5098",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/45cd91459288fda89b37c9dc4c98db4717c846a9"
+    },
     {
       "sha": "3192cf6945",
       "message": "Block DEBUG RELOAD and DEBUG LOADAOF in loading and async-loading (#4877)",
@@ -3184,6 +3192,166 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3664d77c59",
+      "message": "Do not let forked script debug sessions postpone automatic saves (#5153)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5153",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3664d77c5952d08eae84c9d6b83786d58eb1ecff"
+    },
+    {
+      "sha": "84d6c236b2",
+      "message": "Don't pause rehashing when iterating a hashtable with no table (#5166)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5166",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/84d6c236b22eed0166c208e78b7b13b9c59f2c38"
+    },
+    {
+      "sha": "22033385bc",
+      "message": "Check argc before DEBUG SLOTMIGRATION reads its arguments (#5147)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5147",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/22033385bc43aa52ff1410cd6bab137a63fb6989"
+    },
+    {
+      "sha": "fb8e732596",
+      "message": "Reject RESET on slot migration clients (#5140)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5140",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fb8e7325960dc78a5277809894cca6b98ea73b28"
+    },
+    {
+      "sha": "b64ba79eb1",
+      "message": "Ignore new nodes gossiped by a sender still in handshake (#5145)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5145",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b64ba79eb1dc676aaa6d48702e7ff149c3c0eb6a"
+    },
+    {
+      "sha": "d201938198",
+      "message": "Allow server.log() during FUNCTION LOAD (#5114)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5114",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d201938198cdd943923eed80ab41535c8c431f73"
+    },
+    {
+      "sha": "cdacae6cec",
+      "message": "Reject a +CONTINUE reply to PSYNC when there is no cached primary (#5126)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5126",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cdacae6cec02a331cd7a3dd8a2d749d5e6ca444c"
+    },
+    {
+      "sha": "4c25c23b9a",
+      "message": "Redact HELLO, AUTH and MIGRATE credentials before validating arguments (#5180)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5180",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4c25c23b9ad3449ea0346e80f05817c93770de6a"
+    },
+    {
+      "sha": "7a0927136b",
+      "message": "Check XADD element size before creating the stream (#5178)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5178",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7a0927136b6fa5e77dec50ea44e1f62ef6b72baf"
+    },
+    {
+      "sha": "90f3534dc8",
+      "message": "Fix GEOSEARCH BYPOLYGON when the vertex centroid is outside geohash range (#5174)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5174",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/90f3534dc88a6208d83f251d39470cea8fa83e4d"
+    },
+    {
+      "sha": "c0826654b6",
+      "message": "Exempt slot import SYNCSLOTS FINISH from the write pause assertion (#5182)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5182",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c0826654b6ab89191c595f06b826c3f70ff9ad7b"
+    },
+    {
+      "sha": "cd4b2c6911",
+      "message": "Size valkey-check-rdb stats for every selected DB (#5177)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5177",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/cd4b2c69113bccddb898ab77c39c18d6aeab454b"
+    },
+    {
+      "sha": "b8dff68cb2",
+      "message": "Quote the replicaof host when rewriting the config file (#5176)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5176",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b8dff68cb2a7167b3f54bcc9fd155a6bc9bd8523"
+    },
+    {
+      "sha": "679b404d3a",
+      "message": "Replace line breaks in server.log() messages with spaces (#5185)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5185",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/679b404d3af24712676a181540a8d8fcbc38a8af"
+    },
+    {
+      "sha": "a4ffea9387",
+      "message": "Skip RESP3 attributes when reading replies in valkey-cli (#5186)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5186",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a4ffea9387a35b391208908071f300d4022b0549"
+    },
+    {
+      "sha": "663fff858f",
+      "message": "Stop valkey-benchmark function script generation when the buffer is full (#5175)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5175",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/663fff858f2c5e9d51ffb957c97fddfb6aad3f50"
+    },
+    {
+      "sha": "9c4c8739da",
+      "message": "Apply the library load timeout to FUNCTION RESTORE (#5181)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5181",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9c4c8739da2e4f9aa634fd31bcde4765c536a3da"
+    },
+    {
+      "sha": "b14acea0ab",
+      "message": "Reject a non-positive --hotkeys-count in valkey-cli (#5173)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5173",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b14acea0abf61071efcb54d407b02b35017abb06"
+    },
+    {
+      "sha": "eef69cb6da",
+      "message": "Defer freeing the client that runs a replication role change (#5187)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5187",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/eef69cb6dae0c6dba1269c38b93165a355033efc"
+    },
+    {
+      "sha": "5a70cde9e7",
+      "message": "Fix VM_Call crash on script-mode validation errors (#5091)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5091",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5a70cde9e7ad3524c7c460dea2e5653aaa2efdad"
+    },
     {
       "sha": "f2ca837edc",
       "message": "Fix memory leak in GetCommandKeysWithFlags (#5046)",

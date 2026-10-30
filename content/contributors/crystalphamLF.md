@@ -2,13 +2,21 @@
   "title": "crystalphamLF",
   "login": "crystalphamLF",
   "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
-  "score": 10,
-  "commit_count": 9,
+  "score": 11,
+  "commit_count": 10,
   "review_count": 1,
   "repos": [
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "8566895abc",
+      "message": "Add ValkeyConf closing keynote blog (#711)",
+      "date": "2026-10-29",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/711",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/8566895abc42599d81808fbaa102fc6e56e35315"
+    },
     {
       "sha": "816363c94b",
       "message": "Add ValkeyConf 2026 recap blog (#692)",

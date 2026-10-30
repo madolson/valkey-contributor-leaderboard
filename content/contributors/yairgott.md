@@ -2,9 +2,9 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 132,
+  "score": 134,
   "commit_count": 41,
-  "review_count": 91,
+  "review_count": 93,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -343,6 +343,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d11b591026",
+      "message": "[BUG fix] Fix FT.AGGREGATE ignoring VERBATIM, INORDER and SLOP (#1606)",
+      "date": "2026-10-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1606",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d11b591026281dcc56beb5e3a8e3422607fca340"
+    },
+    {
+      "sha": "fb5cfc828a",
+      "message": "Make SimSIMD dynamic dispatch thread-safe to fix a NULL-call race (#1396)",
+      "date": "2026-10-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1396",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/fb5cfc828aa98644d83bcc1e4815990730541d2b"
+    },
     {
       "sha": "2dcbf630f7",
       "message": "Enable slash commands to work for benchmarking runs (#1470)",

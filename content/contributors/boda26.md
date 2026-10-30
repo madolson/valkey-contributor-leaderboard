@@ -2,13 +2,21 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 92,
-  "commit_count": 56,
+  "score": 93,
+  "commit_count": 57,
   "review_count": 36,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "ec01f05a1e",
+      "message": "Scoring compatibility tests CME (#1483)",
+      "date": "2026-10-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1483",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ec01f05a1ef46a6db55c732da57f5516ce440bac"
+    },
     {
       "sha": "4bb501a45d",
       "message": "Scoring compatibility tests (#1436)",

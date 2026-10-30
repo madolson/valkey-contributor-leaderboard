@@ -2,9 +2,9 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 160,
+  "score": 163,
   "commit_count": 120,
-  "review_count": 40,
+  "review_count": 43,
   "repos": [
     "valkey-admin"
   ],
@@ -971,6 +971,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f0114a4177",
+      "message": "Update version to 1.3.0 and add documentation. (#588)",
+      "date": "2026-10-29",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/588",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/f0114a41778ee8ed8771fd0f743f691aadac370e"
+    },
+    {
+      "sha": "6d9b749c5e",
+      "message": "Fix cluster-init for the integration stack after the node rename (#587)",
+      "date": "2026-10-29",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/587",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/6d9b749c5ea140cc34336b7a4f774cb6f3ad2d3c"
+    },
+    {
+      "sha": "eb6af1910e",
+      "message": "Scope server state per Valkey user and deployment, and close the Web-mode IAM and DNS-rebinding gaps (#585)",
+      "date": "2026-10-29",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/585",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/eb6af1910ea02377fab2d59317f407d26acb3d10"
+    },
     {
       "sha": "07c20e8cb1",
       "message": "Refactor  (#581)",

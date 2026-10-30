@@ -2,14 +2,22 @@
   "title": "anitarua",
   "login": "anitarua",
   "avatar_url": "https://avatars.githubusercontent.com/u/138700973?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey-glide",
     "valkey-large-object"
   ],
   "commit_list": [
+    {
+      "sha": "3ea2878283",
+      "message": "feat(ffi): integrate rdma into ffi (#7458)",
+      "date": "2026-10-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7458",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3ea2878283e99550090abd94dd9d15bbb1142f43"
+    },
     {
       "sha": "59dc53f131",
       "message": "chore(rdma): apply lint-rust to glide-libfabric-sys and remove unused wrappers (#7433)",

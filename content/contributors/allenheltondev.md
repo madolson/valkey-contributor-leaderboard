@@ -2,14 +2,22 @@
   "title": "allenheltondev",
   "login": "allenheltondev",
   "avatar_url": "https://avatars.githubusercontent.com/u/53385551?v=4",
-  "score": 6,
-  "commit_count": 6,
+  "score": 7,
+  "commit_count": 7,
   "review_count": 0,
   "repos": [
     "valkey-admin",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "d46724e582",
+      "message": "Add blog for large object caching (#633)",
+      "date": "2026-10-30",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/633",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/d46724e582b171db4619d7519bd12dc983c63091"
+    },
     {
       "sha": "d02632addd",
       "message": "Adding blog post for architecting for 1b rps (#533)",

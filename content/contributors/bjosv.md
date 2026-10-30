@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 298,
+  "score": 303,
   "commit_count": 136,
-  "review_count": 162,
+  "review_count": 167,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1103,6 +1103,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "eefcaf6214",
+      "message": "feat(valkey-resources): optional NetworkPolicy for cluster, operator and client traffic (#298)",
+      "date": "2026-10-29",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/298",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/eefcaf621454763ad6c789fe7ab607663023fece"
+    },
+    {
+      "sha": "080edaa749",
+      "message": "feat(valkey-resources): optional ServiceAccount wired into the ValkeyCluster (#297)",
+      "date": "2026-10-29",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/297",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/080edaa749b155d2f92f4d633440bdce6e899c51"
+    },
+    {
+      "sha": "080edaa749",
+      "message": "feat(valkey-resources): optional ServiceAccount wired into the ValkeyCluster (#297)",
+      "date": "2026-10-29",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/297",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/080edaa749b155d2f92f4d633440bdce6e899c51"
+    },
+    {
+      "sha": "b0163b79fb",
+      "message": "feat(valkey-resources): optionally render the operator users Secret (#296)",
+      "date": "2026-10-29",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/296",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/b0163b79fbdf1568cb0c948e17a5db78e0c25dbc"
+    },
+    {
+      "sha": "e21b823949",
+      "message": "feat(valkey-resources): add extraObjects map rendered through tpl (#295)",
+      "date": "2026-10-29",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/295",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/e21b8239495c873e7772a82d6d679d4810e4bf0e"
+    },
     {
       "sha": "7886067ce4",
       "message": "fix: refresh topology status while a node roll is stuck (#431)",

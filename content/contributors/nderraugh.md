@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 86,
-  "commit_count": 27,
-  "review_count": 59,
+  "score": 88,
+  "commit_count": 28,
+  "review_count": 60,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "97b3c0c961",
+      "message": "refactor(ffi): return pool metrics by value with a status (#7457)",
+      "date": "2026-10-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7457",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97b3c0c961fcbcfdd3ec848c74470ba656131d23"
+    },
     {
       "sha": "db45db54c7",
       "message": "fix(core): Use the client's current password for scopes (#7419)",
@@ -231,6 +239,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3ea2878283",
+      "message": "feat(ffi): integrate rdma into ffi (#7458)",
+      "date": "2026-10-29",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7458",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3ea2878283e99550090abd94dd9d15bbb1142f43"
+    },
     {
       "sha": "22e51da9d9",
       "message": "fix(python): stop async client hang after pool borrow/release (#7454)",

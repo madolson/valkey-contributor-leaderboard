@@ -2,8 +2,8 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 134,
-  "commit_count": 36,
+  "score": 135,
+  "commit_count": 37,
   "review_count": 98,
   "repos": [
     "libvalkey",
@@ -12,6 +12,14 @@
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "ef83d30058",
+      "message": "test: parallelize standalone integration tests",
+      "date": "2026-10-28",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/376",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/ef83d30058877dcff43d30edbad4dc27887d3af0"
+    },
     {
       "sha": "a184fd92ad",
       "message": "Merge pull request #364 from valkey-io/mkmkme/astral",

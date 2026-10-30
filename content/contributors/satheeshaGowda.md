@@ -2,9 +2,9 @@
   "title": "satheeshaGowda",
   "login": "satheeshaGowda",
   "avatar_url": "https://avatars.githubusercontent.com/u/7914152?v=4",
-  "score": 8,
+  "score": 9,
   "commit_count": 7,
-  "review_count": 1,
+  "review_count": 2,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -68,6 +68,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "45cd914592",
+      "message": "Skip QoS event draining when AE_FILE_EVENTS is not set (#5098)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5098",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/45cd91459288fda89b37c9dc4c98db4717c846a9"
+    },
     {
       "sha": "e130edbb78",
       "message": "Support arbitrary commands and mixed loads in the on-demand benchmark (#4537)",

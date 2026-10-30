@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 476,
+  "score": 479,
   "commit_count": 162,
-  "review_count": 314,
+  "review_count": 317,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1311,6 +1311,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "59c4123042",
+      "message": "test: improve test stability and cluster test isolation (#340)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/340",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/59c4123042c4f95558af01e850c6f8ffe781d831"
+    },
+    {
+      "sha": "64ace13b3f",
+      "message": "docs: update docs for Valkey 9.x commands and compression (#365)",
+      "date": "2026-10-29",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/365",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/64ace13b3fccf28ba1ca99b0ff03e7a677924b47"
+    },
+    {
+      "sha": "0787ddeb42",
+      "message": "fix(php): use the PHPRedis value 8 for OPT_REPLY_LITERAL (#358)",
+      "date": "2026-10-29",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/358",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/0787ddeb4268edacbc8975621aa1ac7d2f9f7c71"
+    },
     {
       "sha": "876916f2b3",
       "message": "feat: add SET IFNE support to Java, Node, Go, and Rust (#7453)",

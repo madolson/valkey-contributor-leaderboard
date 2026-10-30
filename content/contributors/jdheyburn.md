@@ -2,8 +2,8 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 177,
-  "commit_count": 61,
+  "score": 182,
+  "commit_count": 66,
   "review_count": 116,
   "repos": [
     "valkey",
@@ -11,6 +11,46 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "cfd36d6074",
+      "message": "feat(valkey-resources)!: name the ValkeyCluster after the release (#299)",
+      "date": "2026-10-29",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/299",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/cfd36d6074327b42333ba7fd29394fb9e61d9b17"
+    },
+    {
+      "sha": "eefcaf6214",
+      "message": "feat(valkey-resources): optional NetworkPolicy for cluster, operator and client traffic (#298)",
+      "date": "2026-10-29",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/298",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/eefcaf621454763ad6c789fe7ab607663023fece"
+    },
+    {
+      "sha": "080edaa749",
+      "message": "feat(valkey-resources): optional ServiceAccount wired into the ValkeyCluster (#297)",
+      "date": "2026-10-29",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/297",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/080edaa749b155d2f92f4d633440bdce6e899c51"
+    },
+    {
+      "sha": "b0163b79fb",
+      "message": "feat(valkey-resources): optionally render the operator users Secret (#296)",
+      "date": "2026-10-29",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/296",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/b0163b79fbdf1568cb0c948e17a5db78e0c25dbc"
+    },
+    {
+      "sha": "e21b823949",
+      "message": "feat(valkey-resources): add extraObjects map rendered through tpl (#295)",
+      "date": "2026-10-29",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/295",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/e21b8239495c873e7772a82d6d679d4810e4bf0e"
+    },
     {
       "sha": "307534ad16",
       "message": "Release valkey-resources 0.4.0 (#291)",

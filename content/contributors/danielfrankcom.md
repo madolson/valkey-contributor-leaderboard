@@ -2,8 +2,8 @@
   "title": "danielfrankcom",
   "login": "danielfrankcom",
   "avatar_url": "https://avatars.githubusercontent.com/u/15225573?v=4",
-  "score": 7,
-  "commit_count": 7,
+  "score": 8,
+  "commit_count": 8,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "6a996d570d",
+      "message": "Add automated check to catch broken internal links (#694)",
+      "date": "2026-10-30",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/694",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/6a996d570d72fc8b1d0922471d0df0973e3690b1"
+    },
     {
       "sha": "9fdda3152e",
       "message": "Fix broken link in ValkeyModule_ReplyWithAttribute docs (#4845)",

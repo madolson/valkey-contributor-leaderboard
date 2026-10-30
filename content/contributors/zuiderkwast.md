@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1302,
+  "score": 1307,
   "commit_count": 156,
-  "review_count": 1146,
+  "review_count": 1151,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1270,6 +1270,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "134e5bad81",
+      "message": "Fix TLS tests with newer tcltls (#4943)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4943",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/134e5bad81ebfba2549b14601106654cedf36c6b"
+    },
+    {
+      "sha": "13d7ed2aa3",
+      "message": "Free Lua function name and description with ValkeyModule_FreeString (#5109)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5109",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/13d7ed2aa3979520d14b3f8ae5c476ecba9974e4"
+    },
+    {
+      "sha": "20f6409302",
+      "message": "Make VM_CallArgv() API public (#3911)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3911",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/20f6409302fa974d7225fb788f5dc64e622bcbe8"
+    },
+    {
+      "sha": "5a70cde9e7",
+      "message": "Fix VM_Call crash on script-mode validation errors (#5091)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5091",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5a70cde9e7ad3524c7c460dea2e5653aaa2efdad"
+    },
+    {
+      "sha": "3aa4cbce47",
+      "message": "Count expired but unreaped hash fields in objectComputeSize (#5092)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5092",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3aa4cbce47f4a2939917fb89f36cfdd92b1f5b4b"
+    },
     {
       "sha": "ee247dbd4b",
       "message": "[Bug Fix] Fix fast-fail double-counting a NACK voter that later fails (#4655)",

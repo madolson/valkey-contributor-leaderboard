@@ -2,8 +2,8 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 117,
-  "commit_count": 24,
+  "score": 119,
+  "commit_count": 26,
   "review_count": 93,
   "repos": [
     "valkey",
@@ -14,6 +14,22 @@
     "valkey-luau"
   ],
   "commit_list": [
+    {
+      "sha": "20f6409302",
+      "message": "Make VM_CallArgv() API public (#3911)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3911",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/20f6409302fa974d7225fb788f5dc64e622bcbe8"
+    },
+    {
+      "sha": "5a70cde9e7",
+      "message": "Fix VM_Call crash on script-mode validation errors (#5091)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5091",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5a70cde9e7ad3524c7c460dea2e5653aaa2efdad"
+    },
     {
       "sha": "fe8f96a298",
       "message": "Omit alldbs rule and drop mentions of sanitize-payload user flags (#448)",

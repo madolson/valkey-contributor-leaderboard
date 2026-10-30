@@ -2,9 +2,9 @@
   "title": "rlunar",
   "login": "rlunar",
   "avatar_url": "https://avatars.githubusercontent.com/u/2453805?v=4",
-  "score": 23,
+  "score": 24,
   "commit_count": 12,
-  "review_count": 11,
+  "review_count": 12,
   "repos": [
     "valkey-bundle",
     "valkey-doc",
@@ -110,6 +110,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8566895abc",
+      "message": "Add ValkeyConf closing keynote blog (#711)",
+      "date": "2026-10-29",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/711",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/8566895abc42599d81808fbaa102fc6e56e35315"
+    },
     {
       "sha": "32983094d9",
       "message": "Valkey search rc-1 doc sync + cleanup (#501)",

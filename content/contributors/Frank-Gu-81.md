@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 58,
+  "score": 59,
   "commit_count": 30,
-  "review_count": 28,
+  "review_count": 29,
   "repos": [
     "valkey-ci-agent",
     "valkey-doc",
@@ -254,6 +254,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "af257c5f3a",
+      "message": "LOAD * plus autoloaded Aggregation fields generates incompatible JSON result. (#1381)",
+      "date": "2026-10-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1381",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/af257c5f3a52e03280fc31b4b9c7a570f951a26f"
+    },
     {
       "sha": "20585a6049",
       "message": "Automated Updates for Valkey Bundle (#132)",

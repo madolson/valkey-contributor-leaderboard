@@ -2,9 +2,9 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 69,
+  "score": 70,
   "commit_count": 10,
-  "review_count": 59,
+  "review_count": 60,
   "repos": [
     "libvalkey-py",
     "one-time-for-planet",
@@ -96,6 +96,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ef83d30058",
+      "message": "test: parallelize standalone integration tests",
+      "date": "2026-10-28",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/376",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/ef83d30058877dcff43d30edbad4dc27887d3af0"
+    },
     {
       "sha": "a184fd92ad",
       "message": "Merge pull request #364 from valkey-io/mkmkme/astral",

@@ -2,9 +2,9 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 34,
-  "commit_count": 21,
-  "review_count": 13,
+  "score": 40,
+  "commit_count": 24,
+  "review_count": 16,
   "repos": [
     "valkey",
     "valkey-container",
@@ -18,6 +18,30 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4795",
       "commit_url": "https://github.com/valkey-io/valkey/commit/b55889b376a3433f223a3e919e5272776fb2fc35"
+    },
+    {
+      "sha": "3350565b36",
+      "message": "Allow user to pass testing option via make file & use that to dump logs in coverage job (#5148)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5148",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3350565b366d0c38d8ce2054b045a0ec964a9474"
+    },
+    {
+      "sha": "f86d57e162",
+      "message": "Deflake diskless slow replicas drop during rdb pipe test (#4855)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4855",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f86d57e162419b1b7bbc7305820acde3427aae0d"
+    },
+    {
+      "sha": "f8c537c49c",
+      "message": "Deflake replica-priority tests (#4870)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4870",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f8c537c49c471247d364f94a1b1291dc8f3cc8c1"
     },
     {
       "sha": "7c950b1ed7",
@@ -181,6 +205,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "45cd914592",
+      "message": "Skip QoS event draining when AE_FILE_EVENTS is not set (#5098)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5098",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/45cd91459288fda89b37c9dc4c98db4717c846a9"
+    },
+    {
+      "sha": "134e5bad81",
+      "message": "Fix TLS tests with newer tcltls (#4943)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4943",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/134e5bad81ebfba2549b14601106654cedf36c6b"
+    },
+    {
+      "sha": "2b051c7e76",
+      "message": "Deflake deleting keys during forkless bgsave (#4960)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4960",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2b051c7e76977a42cf74840b1f81330c26fad4ab"
+    },
     {
       "sha": "3192cf6945",
       "message": "Block DEBUG RELOAD and DEBUG LOADAOF in loading and async-loading (#4877)",

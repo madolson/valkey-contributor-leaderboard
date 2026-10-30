@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 156,
+  "score": 158,
   "commit_count": 44,
-  "review_count": 112,
+  "review_count": 114,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -366,6 +366,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ec01f05a1e",
+      "message": "Scoring compatibility tests CME (#1483)",
+      "date": "2026-10-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1483",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ec01f05a1ef46a6db55c732da57f5516ce440bac"
+    },
+    {
+      "sha": "fb5cfc828a",
+      "message": "Make SimSIMD dynamic dispatch thread-safe to fix a NULL-call race (#1396)",
+      "date": "2026-10-29",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1396",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/fb5cfc828aa98644d83bcc1e4815990730541d2b"
+    },
     {
       "sha": "4bb501a45d",
       "message": "Scoring compatibility tests (#1436)",

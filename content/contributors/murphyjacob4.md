@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 153,
+  "score": 154,
   "commit_count": 49,
-  "review_count": 104,
+  "review_count": 105,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -406,6 +406,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6e3eddf497",
+      "message": "Don't block CLUSTER SETSLOT on replica acks when the client cannot block (#5141)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5141",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6e3eddf4976d0d02c1ecf6dbf19fdd3eb0f2e84b"
+    },
     {
       "sha": "989889a9b2",
       "message": "Send SELECT at the end of the slot migration snapshot (#4952)",

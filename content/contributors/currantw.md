@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 387,
-  "commit_count": 227,
+  "score": 388,
+  "commit_count": 228,
   "review_count": 160,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "64ace13b3f",
+      "message": "docs: update docs for Valkey 9.x commands and compression (#365)",
+      "date": "2026-10-29",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/365",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/64ace13b3fccf28ba1ca99b0ff03e7a677924b47"
+    },
     {
       "sha": "876916f2b3",
       "message": "feat: add SET IFNE support to Java, Node, Go, and Rust (#7453)",

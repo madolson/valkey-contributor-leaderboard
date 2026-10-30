@@ -2,13 +2,21 @@
   "title": "pkhartsk",
   "login": "pkhartsk",
   "avatar_url": "https://avatars.githubusercontent.com/u/225215338?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "134e5bad81",
+      "message": "Fix TLS tests with newer tcltls (#4943)",
+      "date": "2026-10-29",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4943",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/134e5bad81ebfba2549b14601106654cedf36c6b"
+    },
     {
       "sha": "d265ca949b",
       "message": "Fixes to dual certs (#4663)",
