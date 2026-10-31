@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 304,
-  "commit_count": 97,
-  "review_count": 207,
+  "score": 310,
+  "commit_count": 98,
+  "review_count": 212,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -14,6 +14,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "3601186645",
+      "message": "fix(core): close scope sockets abandoned under a blocking command (#7462)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7462",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3601186645fa1d36f6e049cc2dd6a0e664cee375"
+    },
     {
       "sha": "22e51da9d9",
       "message": "fix(python): stop async client hang after pool borrow/release (#7454)",
@@ -792,6 +800,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0393387a79",
+      "message": "fix(ffi): wait for the pool lock in glide_pool_metrics instead of reporting zeros (#7130)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7130",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0393387a798810d2dd5edb2f85c79fb66cf94e93"
+    },
+    {
+      "sha": "729c67ccdd",
+      "message": "feat(rust): add InfoSection enum matching other GLIDE clients (#7465)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7465",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/729c67ccdd1a91bd5c6cfcc92fee89ce7ff88351"
+    },
+    {
+      "sha": "5c87a28273",
+      "message": "test(python): fix xdist pool-state leaks and cluster bootstrap race (#7440)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7440",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5c87a282731d0be92708f480d085c9dde0754639"
+    },
+    {
+      "sha": "b79c865924",
+      "message": "chore(ci): add glide-rdma crates to dependabot (#7466)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7466",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b79c8659246c2f7a05a80028dab2a9842cb04fba"
+    },
+    {
+      "sha": "c573da89c9",
+      "message": "feat(python): add RDMA get/set to the glide-sync client (#7464)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7464",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c573da89c9d62cae49102b59c8767c240a2cdc73"
+    },
     {
       "sha": "3ea2878283",
       "message": "feat(ffi): integrate rdma into ffi (#7458)",

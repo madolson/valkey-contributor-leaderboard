@@ -2,14 +2,22 @@
   "title": "anitarua",
   "login": "anitarua",
   "avatar_url": "https://avatars.githubusercontent.com/u/138700973?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "valkey-glide",
     "valkey-large-object"
   ],
   "commit_list": [
+    {
+      "sha": "c573da89c9",
+      "message": "feat(python): add RDMA get/set to the glide-sync client (#7464)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7464",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c573da89c9d62cae49102b59c8767c240a2cdc73"
+    },
     {
       "sha": "3ea2878283",
       "message": "feat(ffi): integrate rdma into ffi (#7458)",

@@ -2,13 +2,29 @@
   "title": "uintaam",
   "login": "uintaam",
   "avatar_url": "https://avatars.githubusercontent.com/u/295346?v=4",
-  "score": 16,
-  "commit_count": 16,
+  "score": 18,
+  "commit_count": 18,
   "review_count": 0,
   "repos": [
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "82dd81ea0a",
+      "message": "feat(php): support PHPRedis OPT_SLAVE_FAILOVER on ValkeyGlideCluster (#359)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/359",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/82dd81ea0a9ac4ad3e99a592aaf9b75ce8d58391"
+    },
+    {
+      "sha": "3b7dd1d17f",
+      "message": "ci: install PHP from packages.sury.org and move pinned jobs to ubuntu-26.04 (#386)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/386",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/3b7dd1d17f2bbb64e0f5ac1d8d156a988792fb0e"
+    },
     {
       "sha": "0787ddeb42",
       "message": "fix(php): use the PHPRedis value 8 for OPT_REPLY_LITERAL (#358)",

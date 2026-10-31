@@ -2,14 +2,22 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 85,
-  "commit_count": 27,
-  "review_count": 58,
+  "score": 88,
+  "commit_count": 28,
+  "review_count": 60,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "3ef5fef19f",
+      "message": "bgiteration: avoid missing key check for multi/exec commands (#5205)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5205",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3ef5fef19fe4ca9da1841282205239705edc23e4"
+    },
     {
       "sha": "692e57e6f7",
       "message": "strengthen forkless PEXPIRE test (#5049)",
@@ -228,6 +236,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "329ccfe1da",
+      "message": "[Forkless] Allow primary client to be blocked with BLOCKED_INUSE (#5206)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5206",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/329ccfe1da8f1f4f1092a9c3b4a356c47e1b33a9"
+    },
+    {
+      "sha": "a230da1a3d",
+      "message": "Replica: Tear down background iterators when swapping in a primary's RDB (#5082)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5082",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a230da1a3da00747b423f5d9be3de3b0192692c3"
+    },
     {
       "sha": "8b9019c955",
       "message": "Fix crash when a database's keyspace is replaced mid-stage during defrag (#4968)",

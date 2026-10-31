@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 382,
+  "score": 388,
   "commit_count": 85,
-  "review_count": 297,
+  "review_count": 303,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -695,6 +695,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3601186645",
+      "message": "fix(core): close scope sockets abandoned under a blocking command (#7462)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7462",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3601186645fa1d36f6e049cc2dd6a0e664cee375"
+    },
+    {
+      "sha": "c0ad3db970",
+      "message": "fix(python): release async clients dropped without close() (#7160)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7160",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c0ad3db970e42e53381c3d61a4cc6043d7053db6"
+    },
+    {
+      "sha": "82dd81ea0a",
+      "message": "feat(php): support PHPRedis OPT_SLAVE_FAILOVER on ValkeyGlideCluster (#359)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/359",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/82dd81ea0a9ac4ad3e99a592aaf9b75ce8d58391"
+    },
+    {
+      "sha": "ebf95d5ecf",
+      "message": "docs(ruby): adopt Keep a Changelog format (#393)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/393",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ebf95d5ecf05d7d1feebaf3a5c27ec1ed0be3de2"
+    },
+    {
+      "sha": "ebf95d5ecf",
+      "message": "docs(ruby): adopt Keep a Changelog format (#393)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/393",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ebf95d5ecf05d7d1feebaf3a5c27ec1ed0be3de2"
+    },
+    {
+      "sha": "41a99556c5",
+      "message": "fix(ruby): align FT search builder options with other GLIDE clients (#398)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/398",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/41a99556c51f65b7c5e7ee62648b72ffadfa1978"
+    },
     {
       "sha": "3ea2878283",
       "message": "feat(ffi): integrate rdma into ffi (#7458)",

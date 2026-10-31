@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 898,
+  "score": 905,
   "commit_count": 45,
-  "review_count": 853,
+  "review_count": 860,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3601186645",
+      "message": "fix(core): close scope sockets abandoned under a blocking command (#7462)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7462",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3601186645fa1d36f6e049cc2dd6a0e664cee375"
+    },
+    {
+      "sha": "729c67ccdd",
+      "message": "feat(rust): add InfoSection enum matching other GLIDE clients (#7465)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7465",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/729c67ccdd1a91bd5c6cfcc92fee89ce7ff88351"
+    },
+    {
+      "sha": "5c87a28273",
+      "message": "test(python): fix xdist pool-state leaks and cluster bootstrap race (#7440)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7440",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5c87a282731d0be92708f480d085c9dde0754639"
+    },
+    {
+      "sha": "b79c865924",
+      "message": "chore(ci): add glide-rdma crates to dependabot (#7466)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7466",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b79c8659246c2f7a05a80028dab2a9842cb04fba"
+    },
+    {
+      "sha": "ebf95d5ecf",
+      "message": "docs(ruby): adopt Keep a Changelog format (#393)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/393",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ebf95d5ecf05d7d1feebaf3a5c27ec1ed0be3de2"
+    },
+    {
+      "sha": "41a99556c5",
+      "message": "fix(ruby): align FT search builder options with other GLIDE clients (#398)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/398",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/41a99556c51f65b7c5e7ee62648b72ffadfa1978"
+    },
+    {
+      "sha": "d787317ae9",
+      "message": "feat(ruby): add SISMEMBER XX support (#383)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/383",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d787317ae90cffdecbc887dc98ea86fd290c2dec"
+    },
     {
       "sha": "22e51da9d9",
       "message": "fix(python): stop async client hang after pool borrow/release (#7454)",

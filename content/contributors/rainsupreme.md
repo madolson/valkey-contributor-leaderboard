@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 162,
+  "score": 165,
   "commit_count": 42,
-  "review_count": 120,
+  "review_count": 123,
   "repos": [
     "valkey",
     "valkey-container",
@@ -352,6 +352,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e581052a60",
+      "message": "Bound PHDELPREFIX temporary path copies in bytes (#5179)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5179",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e581052a6007a0e12cdd8808391b5c745c915037"
+    },
+    {
+      "sha": "eaafdf0c7c",
+      "message": "Don't queue a blocked primary when a timed-out script ends (#5150)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5150",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/eaafdf0c7cb03c2aafe0a03c35a002ccaaa39458"
+    },
+    {
+      "sha": "eb29e25643",
+      "message": "Keep sds lengths in size_t when comparing and caching keys (#5133)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5133",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/eb29e2564332734ce118241aa1180237755e065e"
+    },
     {
       "sha": "3350565b36",
       "message": "Allow user to pass testing option via make file & use that to dump logs in coverage job (#5148)",

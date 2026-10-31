@@ -2,8 +2,8 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 494,
-  "commit_count": 140,
+  "score": 495,
+  "commit_count": 141,
   "review_count": 354,
   "repos": [
     ".github",
@@ -15,6 +15,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "0393387a79",
+      "message": "fix(ffi): wait for the pool lock in glide_pool_metrics instead of reporting zeros (#7130)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7130",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0393387a798810d2dd5edb2f85c79fb66cf94e93"
+    },
     {
       "sha": "20adba4b7b",
       "message": "Node: Allow opening an IsolatedScope on a (pool-borrowed) client via scopedConnection() (#6983)",

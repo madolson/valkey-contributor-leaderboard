@@ -2,9 +2,9 @@
   "title": "nadav-levanoni",
   "login": "nadav-levanoni",
   "avatar_url": "https://avatars.githubusercontent.com/u/38641521?v=4",
-  "score": 16,
+  "score": 17,
   "commit_count": 10,
-  "review_count": 6,
+  "review_count": 7,
   "repos": [
     "valkey",
     "valkey-large-object",
@@ -93,6 +93,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4fa9a67f85",
+      "message": "Fall back to non-fixed io_uring ops when the iovec index is stale (#167)",
+      "date": "2026-10-30",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/167",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/4fa9a67f859a842094b87f001250ccfa50eb6c86"
+    },
     {
       "sha": "28f6dfe392",
       "message": "Read coalescing for requests serving from DRAM (#113)",

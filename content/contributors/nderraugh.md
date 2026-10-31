@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 88,
-  "commit_count": 28,
-  "review_count": 60,
+  "score": 94,
+  "commit_count": 29,
+  "review_count": 65,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "5c87a28273",
+      "message": "test(python): fix xdist pool-state leaks and cluster bootstrap race (#7440)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7440",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5c87a282731d0be92708f480d085c9dde0754639"
+    },
     {
       "sha": "97b3c0c961",
       "message": "refactor(ffi): return pool metrics by value with a status (#7457)",
@@ -239,6 +247,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3601186645",
+      "message": "fix(core): close scope sockets abandoned under a blocking command (#7462)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7462",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3601186645fa1d36f6e049cc2dd6a0e664cee375"
+    },
+    {
+      "sha": "0393387a79",
+      "message": "fix(ffi): wait for the pool lock in glide_pool_metrics instead of reporting zeros (#7130)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7130",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0393387a798810d2dd5edb2f85c79fb66cf94e93"
+    },
+    {
+      "sha": "c573da89c9",
+      "message": "feat(python): add RDMA get/set to the glide-sync client (#7464)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7464",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c573da89c9d62cae49102b59c8767c240a2cdc73"
+    },
+    {
+      "sha": "c0ad3db970",
+      "message": "fix(python): release async clients dropped without close() (#7160)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7160",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c0ad3db970e42e53381c3d61a4cc6043d7053db6"
+    },
+    {
+      "sha": "c0ad3db970",
+      "message": "fix(python): release async clients dropped without close() (#7160)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7160",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c0ad3db970e42e53381c3d61a4cc6043d7053db6"
+    },
     {
       "sha": "3ea2878283",
       "message": "feat(ffi): integrate rdma into ffi (#7458)",

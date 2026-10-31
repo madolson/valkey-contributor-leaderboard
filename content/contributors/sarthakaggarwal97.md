@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 449,
+  "score": 450,
   "commit_count": 119,
-  "review_count": 330,
+  "review_count": 331,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1043,6 +1043,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/5135",
       "commit_url": "https://github.com/valkey-io/valkey/commit/d6aff353778fff95fc480786a3b799dfa9c64fc7"
+    },
+    {
+      "sha": "3ef5fef19f",
+      "message": "bgiteration: avoid missing key check for multi/exec commands (#5205)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5205",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3ef5fef19fe4ca9da1841282205239705edc23e4"
     },
     {
       "sha": "ffbd8481a9",

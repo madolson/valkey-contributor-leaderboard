@@ -2,9 +2,9 @@
   "title": "neerajr0",
   "login": "neerajr0",
   "avatar_url": "https://avatars.githubusercontent.com/u/55604693?v=4",
-  "score": 33,
+  "score": 34,
   "commit_count": 13,
-  "review_count": 20,
+  "review_count": 21,
   "repos": [
     "valkey-large-object",
     "valkey-search"
@@ -116,6 +116,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bdf848fdff",
+      "message": "Adding null byte protection test (#168)",
+      "date": "2026-10-30",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/168",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/bdf848fdff3f1302031495980ce8425e182aa1f3"
+    },
     {
       "sha": "7fb1508179",
       "message": "Report disk staging utilization in INFO (#159)",

@@ -2,13 +2,21 @@
   "title": "harrylin98",
   "login": "harrylin98",
   "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
-  "score": 19,
-  "commit_count": 17,
+  "score": 20,
+  "commit_count": 18,
   "review_count": 2,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "329ccfe1da",
+      "message": "[Forkless] Allow primary client to be blocked with BLOCKED_INUSE (#5206)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5206",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/329ccfe1da8f1f4f1092a9c3b4a356c47e1b33a9"
+    },
     {
       "sha": "dca022fa11",
       "message": "Fix throttle-repl test deadlock on throttled writer socket (#4778)",

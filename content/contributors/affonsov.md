@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 304,
+  "score": 305,
   "commit_count": 102,
-  "review_count": 202,
+  "review_count": 203,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -831,6 +831,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3b7dd1d17f",
+      "message": "ci: install PHP from packages.sury.org and move pinned jobs to ubuntu-26.04 (#386)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/386",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/3b7dd1d17f2bbb64e0f5ac1d8d156a988792fb0e"
+    },
     {
       "sha": "75dc51510d",
       "message": "docs: update Node.js glibc requirement to 2.28 (#363)",

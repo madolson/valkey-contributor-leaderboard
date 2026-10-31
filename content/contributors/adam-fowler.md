@@ -2,9 +2,9 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 176,
+  "score": 177,
   "commit_count": 136,
-  "review_count": 40,
+  "review_count": 41,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -1103,6 +1103,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8b4330e094",
+      "message": "Default to `Logger.current` in public API (#408)",
+      "date": "2026-10-30",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/408",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/8b4330e0942b0ce65d4858689ca185609d35aba0"
+    },
     {
       "sha": "8b9bfad1a8",
       "message": "Add typed LATENCY LATEST events (#405)",

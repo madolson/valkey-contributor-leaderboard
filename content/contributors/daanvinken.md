@@ -2,9 +2,9 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 43,
+  "score": 45,
   "commit_count": 24,
-  "review_count": 19,
+  "review_count": 21,
   "repos": [
     "valkey-helm",
     "valkey-operator"
@@ -204,6 +204,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cc32a012be",
+      "message": "feat: let a ValkeyNode trust client CAs through a trust bundle (#508)",
+      "date": "2026-10-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/508",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/cc32a012be5d88a88edeb5bbd09dc0776cba59ad"
+    },
+    {
+      "sha": "cc32a012be",
+      "message": "feat: let a ValkeyNode trust client CAs through a trust bundle (#508)",
+      "date": "2026-10-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/508",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/cc32a012be5d88a88edeb5bbd09dc0776cba59ad"
+    },
     {
       "sha": "c41fb27b43",
       "message": "fix: ignore the deprecated serviceAccount field when comparing pod templates (#546)",

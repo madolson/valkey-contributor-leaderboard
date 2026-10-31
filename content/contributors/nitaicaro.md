@@ -2,13 +2,21 @@
   "title": "nitaicaro",
   "login": "nitaicaro",
   "avatar_url": "https://avatars.githubusercontent.com/u/42576749?v=4",
-  "score": 12,
-  "commit_count": 9,
-  "review_count": 3,
+  "score": 14,
+  "commit_count": 10,
+  "review_count": 4,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "a230da1a3d",
+      "message": "Replica: Tear down background iterators when swapping in a primary's RDB (#5082)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5082",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a230da1a3da00747b423f5d9be3de3b0192692c3"
+    },
     {
       "sha": "e082696cf1",
       "message": "Document VALKEYMODULE_OPTIONS_HANDLE_FORKLESS (#4716)",
@@ -83,6 +91,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3ef5fef19f",
+      "message": "bgiteration: avoid missing key check for multi/exec commands (#5205)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5205",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3ef5fef19fe4ca9da1841282205239705edc23e4"
+    },
     {
       "sha": "ea4d4e7d56",
       "message": "Deflake modify new keys during forkless bgsave (#4789)",

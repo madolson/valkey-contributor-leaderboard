@@ -2,8 +2,8 @@
   "title": "melancholictheory",
   "login": "melancholictheory",
   "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
-  "score": 17,
-  "commit_count": 16,
+  "score": 18,
+  "commit_count": 17,
   "review_count": 1,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "c0a5b1fa14",
+      "message": "fix: rebalance slots onto a shard whose primary was drained but kept its replica (#550)",
+      "date": "2026-10-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/550",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c0a5b1fa14dcff216baf7facbbb6a4d29bf53638"
+    },
     {
       "sha": "2642741016",
       "message": "fix: probe a superseded pod at its current IP before replacing it (#538)",

@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 59,
+  "score": 61,
   "commit_count": 30,
-  "review_count": 29,
+  "review_count": 31,
   "repos": [
     "valkey-ci-agent",
     "valkey-doc",
@@ -254,6 +254,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "92b779bdd8",
+      "message": "Type-sensitive expression compiler, matching Redis 8 (#1528)",
+      "date": "2026-10-31",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1528",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/92b779bdd89d3f5ab15349f4ecfe24533d06df86"
+    },
+    {
+      "sha": "92b779bdd8",
+      "message": "Type-sensitive expression compiler, matching Redis 8 (#1528)",
+      "date": "2026-10-31",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1528",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/92b779bdd89d3f5ab15349f4ecfe24533d06df86"
+    },
     {
       "sha": "af257c5f3a",
       "message": "LOAD * plus autoloaded Aggregation fields generates incompatible JSON result. (#1381)",

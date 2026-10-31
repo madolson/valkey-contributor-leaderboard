@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 479,
+  "score": 481,
   "commit_count": 162,
-  "review_count": 317,
+  "review_count": 319,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1318,6 +1318,22 @@
       "repo": "valkey-glide-php",
       "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/340",
       "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/59c4123042c4f95558af01e850c6f8ffe781d831"
+    },
+    {
+      "sha": "82dd81ea0a",
+      "message": "feat(php): support PHPRedis OPT_SLAVE_FAILOVER on ValkeyGlideCluster (#359)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/359",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/82dd81ea0a9ac4ad3e99a592aaf9b75ce8d58391"
+    },
+    {
+      "sha": "3b7dd1d17f",
+      "message": "ci: install PHP from packages.sury.org and move pinned jobs to ubuntu-26.04 (#386)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/386",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/3b7dd1d17f2bbb64e0f5ac1d8d156a988792fb0e"
     },
     {
       "sha": "64ace13b3f",

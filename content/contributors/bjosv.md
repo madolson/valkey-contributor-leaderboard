@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 303,
-  "commit_count": 136,
-  "review_count": 167,
+  "score": 306,
+  "commit_count": 137,
+  "review_count": 169,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "f8cd664f67",
+      "message": "fix: promote every orphaned shard, not just the first (#477)",
+      "date": "2026-10-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/477",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/f8cd664f676c1484c24f674db27b61359c9cba8e"
+    },
     {
       "sha": "497b389a4b",
       "message": "test(e2e): add recovery tests for replica scale-down (#453)",
@@ -1103,6 +1111,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0beba949b5",
+      "message": "Release valkey-resources 0.5.0 (#306)",
+      "date": "2026-10-30",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/306",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/0beba949b5e6c74dbcd4e59b36922568866cf028"
+    },
+    {
+      "sha": "eb2b61abe9",
+      "message": "feat: add a no-op init container to Valkey pods (#527)",
+      "date": "2026-10-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/527",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/eb2b61abe99d8aaf13d4660122845de945e61a71"
+    },
     {
       "sha": "eefcaf6214",
       "message": "feat(valkey-resources): optional NetworkPolicy for cluster, operator and client traffic (#298)",

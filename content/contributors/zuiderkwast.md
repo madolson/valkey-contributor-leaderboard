@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1307,
+  "score": 1308,
   "commit_count": 156,
-  "review_count": 1151,
+  "review_count": 1152,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1270,6 +1270,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4dc7b008b2",
+      "message": "Clear stale cross-slot flag before computing a command's slot (#5191)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5191",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4dc7b008b2e8546585ef95a6c58c18928186b227"
+    },
     {
       "sha": "134e5bad81",
       "message": "Fix TLS tests with newer tcltls (#4943)",

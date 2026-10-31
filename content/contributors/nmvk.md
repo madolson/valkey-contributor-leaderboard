@@ -2,12 +2,13 @@
   "title": "nmvk",
   "login": "nmvk",
   "avatar_url": "https://avatars.githubusercontent.com/u/1668438?v=4",
-  "score": 16,
+  "score": 17,
   "commit_count": 8,
-  "review_count": 8,
+  "review_count": 9,
   "repos": [
     "valkey",
-    "valkey-doc"
+    "valkey-doc",
+    "valkey-large-object"
   ],
   "commit_list": [
     {
@@ -76,6 +77,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bdf848fdff",
+      "message": "Adding null byte protection test (#168)",
+      "date": "2026-10-30",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/168",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/bdf848fdff3f1302031495980ce8425e182aa1f3"
+    },
     {
       "sha": "12e5e384d2",
       "message": "Fix TLS infinite busy loop when write/read handlers are removed (#3510)",

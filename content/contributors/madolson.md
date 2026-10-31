@@ -2,8 +2,8 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 1039,
-  "commit_count": 256,
+  "score": 1043,
+  "commit_count": 260,
   "review_count": 783,
   "repos": [
     ".github",
@@ -245,6 +245,38 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/5187",
       "commit_url": "https://github.com/valkey-io/valkey/commit/eef69cb6dae0c6dba1269c38b93165a355033efc"
+    },
+    {
+      "sha": "4dc7b008b2",
+      "message": "Clear stale cross-slot flag before computing a command's slot (#5191)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5191",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4dc7b008b2e8546585ef95a6c58c18928186b227"
+    },
+    {
+      "sha": "e581052a60",
+      "message": "Bound PHDELPREFIX temporary path copies in bytes (#5179)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5179",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e581052a6007a0e12cdd8808391b5c745c915037"
+    },
+    {
+      "sha": "eaafdf0c7c",
+      "message": "Don't queue a blocked primary when a timed-out script ends (#5150)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5150",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/eaafdf0c7cb03c2aafe0a03c35a002ccaaa39458"
+    },
+    {
+      "sha": "eb29e25643",
+      "message": "Keep sds lengths in size_t when comparing and caching keys (#5133)",
+      "date": "2026-10-30",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5133",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/eb29e2564332734ce118241aa1180237755e065e"
     },
     {
       "sha": "ffbd8481a9",

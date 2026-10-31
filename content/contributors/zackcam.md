@@ -2,8 +2,8 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 101,
-  "commit_count": 60,
+  "score": 103,
+  "commit_count": 62,
   "review_count": 41,
   "repos": [
     "valkey",
@@ -17,6 +17,22 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "bdf848fdff",
+      "message": "Adding null byte protection test (#168)",
+      "date": "2026-10-30",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/168",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/bdf848fdff3f1302031495980ce8425e182aa1f3"
+    },
+    {
+      "sha": "4fa9a67f85",
+      "message": "Fall back to non-fixed io_uring ops when the iovec index is stale (#167)",
+      "date": "2026-10-30",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/167",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/4fa9a67f859a842094b87f001250ccfa50eb6c86"
+    },
     {
       "sha": "217f1bbafe",
       "message": "Reducing unnecessary unsafe code (#152)",

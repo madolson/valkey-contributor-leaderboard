@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 388,
-  "commit_count": 228,
-  "review_count": 160,
+  "score": 393,
+  "commit_count": 230,
+  "review_count": 163,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -15,6 +15,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "729c67ccdd",
+      "message": "feat(rust): add InfoSection enum matching other GLIDE clients (#7465)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7465",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/729c67ccdd1a91bd5c6cfcc92fee89ce7ff88351"
+    },
+    {
+      "sha": "b79c865924",
+      "message": "chore(ci): add glide-rdma crates to dependabot (#7466)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7466",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b79c8659246c2f7a05a80028dab2a9842cb04fba"
+    },
     {
       "sha": "64ace13b3f",
       "message": "docs: update docs for Valkey 9.x commands and compression (#365)",
@@ -1841,6 +1857,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ebf95d5ecf",
+      "message": "docs(ruby): adopt Keep a Changelog format (#393)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/393",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ebf95d5ecf05d7d1feebaf3a5c27ec1ed0be3de2"
+    },
+    {
+      "sha": "ebf95d5ecf",
+      "message": "docs(ruby): adopt Keep a Changelog format (#393)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/393",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ebf95d5ecf05d7d1feebaf3a5c27ec1ed0be3de2"
+    },
+    {
+      "sha": "d787317ae9",
+      "message": "feat(ruby): add SISMEMBER XX support (#383)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/383",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d787317ae90cffdecbc887dc98ea86fd290c2dec"
+    },
     {
       "sha": "59dc53f131",
       "message": "chore(rdma): apply lint-rust to glide-libfabric-sys and remove unused wrappers (#7433)",

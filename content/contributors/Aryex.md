@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 342,
-  "commit_count": 126,
+  "score": 345,
+  "commit_count": 129,
   "review_count": 216,
   "repos": [
     "spring-data-valkey",
@@ -16,6 +16,30 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "ebf95d5ecf",
+      "message": "docs(ruby): adopt Keep a Changelog format (#393)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/393",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/ebf95d5ecf05d7d1feebaf3a5c27ec1ed0be3de2"
+    },
+    {
+      "sha": "41a99556c5",
+      "message": "fix(ruby): align FT search builder options with other GLIDE clients (#398)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/398",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/41a99556c51f65b7c5e7ee62648b72ffadfa1978"
+    },
+    {
+      "sha": "d787317ae9",
+      "message": "feat(ruby): add SISMEMBER XX support (#383)",
+      "date": "2026-10-30",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/383",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d787317ae90cffdecbc887dc98ea86fd290c2dec"
+    },
     {
       "sha": "d61a46f7ab",
       "message": "feat(ruby): add DELIFEQ command support (#382)",

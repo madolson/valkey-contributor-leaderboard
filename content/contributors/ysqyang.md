@@ -2,13 +2,21 @@
   "title": "ysqyang",
   "login": "ysqyang",
   "avatar_url": "https://avatars.githubusercontent.com/u/24786534?v=4",
-  "score": 9,
-  "commit_count": 9,
+  "score": 10,
+  "commit_count": 10,
   "review_count": 0,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "6e2e02d0c2",
+      "message": "fix: default managed containers to disallow privilege escalation (#548)",
+      "date": "2026-10-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/548",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6e2e02d0c28a43860fd378a30518da016a14d576"
+    },
     {
       "sha": "2042a47274",
       "message": "fix race condition between forget and failover (#105)",

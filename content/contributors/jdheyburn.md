@@ -2,15 +2,31 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 182,
-  "commit_count": 66,
-  "review_count": 116,
+  "score": 189,
+  "commit_count": 68,
+  "review_count": 121,
   "repos": [
     "valkey",
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "0beba949b5",
+      "message": "Release valkey-resources 0.5.0 (#306)",
+      "date": "2026-10-30",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/306",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/0beba949b5e6c74dbcd4e59b36922568866cf028"
+    },
+    {
+      "sha": "eb2b61abe9",
+      "message": "feat: add a no-op init container to Valkey pods (#527)",
+      "date": "2026-10-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/527",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/eb2b61abe99d8aaf13d4660122845de945e61a71"
+    },
     {
       "sha": "cfd36d6074",
       "message": "feat(valkey-resources)!: name the ValkeyCluster after the release (#299)",
@@ -541,6 +557,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cc32a012be",
+      "message": "feat: let a ValkeyNode trust client CAs through a trust bundle (#508)",
+      "date": "2026-10-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/508",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/cc32a012be5d88a88edeb5bbd09dc0776cba59ad"
+    },
+    {
+      "sha": "4522bfd043",
+      "message": "fix: keep slot-owning primaries when spec.shards drops mid scale-out (#493)",
+      "date": "2026-10-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/493",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/4522bfd0432c0749e4fdeb287ddedf4db442e2bc"
+    },
+    {
+      "sha": "f8cd664f67",
+      "message": "fix: promote every orphaned shard, not just the first (#477)",
+      "date": "2026-10-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/477",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/f8cd664f676c1484c24f674db27b61359c9cba8e"
+    },
+    {
+      "sha": "c0a5b1fa14",
+      "message": "fix: rebalance slots onto a shard whose primary was drained but kept its replica (#550)",
+      "date": "2026-10-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/550",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c0a5b1fa14dcff216baf7facbbb6a4d29bf53638"
+    },
+    {
+      "sha": "6e2e02d0c2",
+      "message": "fix: default managed containers to disallow privilege escalation (#548)",
+      "date": "2026-10-30",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/548",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6e2e02d0c28a43860fd378a30518da016a14d576"
+    },
     {
       "sha": "ca88b3f3d1",
       "message": "fix(controller): stop rewriting ValkeyNode conditions on message-only changes (#474)",
