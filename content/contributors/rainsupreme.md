@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 165,
+  "score": 169,
   "commit_count": 42,
-  "review_count": 123,
+  "review_count": 127,
   "repos": [
     "valkey",
     "valkey-container",
@@ -352,6 +352,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7dfa61e043",
+      "message": "Script debugger: reset *argc on partial-read exit to fix server crash in SYNC mode (#5127)",
+      "date": "2026-11-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5127",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7dfa61e04390990da64b9e982c3b0fc0da8c7c82"
+    },
+    {
+      "sha": "41fb27b2f4",
+      "message": "Propagate PFADD elements applied before an INVALIDOBJ error (#5128)",
+      "date": "2026-11-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5128",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/41fb27b2f47d09bf03f4cafbc4d706ef46f9fdd9"
+    },
+    {
+      "sha": "1f88b16b20",
+      "message": "Mark sorted-set increments and weights as doubles (#5210)",
+      "date": "2026-11-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5210",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1f88b16b2063b98323512a5cd62b902ae5c96c86"
+    },
+    {
+      "sha": "8e0b719252",
+      "message": "Keep module global defrag resume state valid across MODULE UNLOAD (#5154)",
+      "date": "2026-11-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5154",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8e0b7192523998b24f1d4f529a13a953967803cb"
+    },
     {
       "sha": "e581052a60",
       "message": "Bound PHDELPREFIX temporary path copies in bytes (#5179)",

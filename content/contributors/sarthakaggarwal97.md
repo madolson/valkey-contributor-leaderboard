@@ -2,8 +2,8 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 450,
-  "commit_count": 119,
+  "score": 451,
+  "commit_count": 120,
   "review_count": 331,
   "repos": [
     "valkey",
@@ -18,6 +18,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "1f88b16b20",
+      "message": "Mark sorted-set increments and weights as doubles (#5210)",
+      "date": "2026-11-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5210",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1f88b16b2063b98323512a5cd62b902ae5c96c86"
+    },
     {
       "sha": "b7ae45c741",
       "message": "CI: run reclaim-cache test on disk-backed runner storage (#5037)",

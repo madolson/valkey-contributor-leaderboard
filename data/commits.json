@@ -207432,6 +207432,110 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-swift/pull/408"
+    },
+    {
+      "sha": "7dfa61e04390990da64b9e982c3b0fc0da8c7c82",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Script debugger: reset *argc on partial-read exit to fix server crash in SYNC mode (#5127)",
+      "date": "2026-11-01T03:10:00Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-11-01T03:04:12Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5127"
+    },
+    {
+      "sha": "41fb27b2f47d09bf03f4cafbc4d706ef46f9fdd9",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Propagate PFADD elements applied before an INVALIDOBJ error (#5128)",
+      "date": "2026-11-01T03:04:44Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-11-01T03:04:19Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5128"
+    },
+    {
+      "sha": "1f88b16b2063b98323512a5cd62b902ae5c96c86",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Mark sorted-set increments and weights as doubles (#5210)",
+      "date": "2026-11-01T03:04:41Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "Baraa-Hasheesh",
+          "date": "2026-10-30T21:48:57Z"
+        },
+        {
+          "login": "rainsupreme",
+          "date": "2026-11-01T03:04:14Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5210"
+    },
+    {
+      "sha": "8e0b7192523998b24f1d4f529a13a953967803cb",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Keep module global defrag resume state valid across MODULE UNLOAD (#5154)",
+      "date": "2026-11-01T03:04:39Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-11-01T03:04:16Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5154"
+    },
+    {
+      "sha": "a23e13016ef029df8f7c092bf7e3202dfd5b0192",
+      "author_login": "gunreddyg-debug",
+      "author_id": 308844601,
+      "avatar_url": "https://avatars.githubusercontent.com/u/308844601?v=4",
+      "message": "ci: compare benchmarks on every PR and chart main on gh-pages (#190)",
+      "date": "2026-11-01T02:17:01Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "omanges",
+          "date": "2026-09-30T04:02:56Z"
+        },
+        {
+          "login": "rueian",
+          "date": "2026-11-01T02:16:09Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/190"
+    },
+    {
+      "sha": "9e20d6f07cf643bc94c25ebf7c39df0184e55f95",
+      "author_login": "PerryLink",
+      "author_id": 255665900,
+      "avatar_url": "https://avatars.githubusercontent.com/u/255665900?v=4",
+      "message": "fix: send MIGRATE and CLIENT PAUSE timeouts in milliseconds (#214)",
+      "date": "2026-10-31T07:14:53Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-10-31T06:52:05Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/214"
     }
   ]
 }

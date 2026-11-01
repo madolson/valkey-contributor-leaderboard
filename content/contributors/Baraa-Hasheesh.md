@@ -2,9 +2,9 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 40,
+  "score": 41,
   "commit_count": 24,
-  "review_count": 16,
+  "review_count": 17,
   "repos": [
     "valkey",
     "valkey-container",
@@ -205,6 +205,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1f88b16b20",
+      "message": "Mark sorted-set increments and weights as doubles (#5210)",
+      "date": "2026-11-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5210",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1f88b16b2063b98323512a5cd62b902ae5c96c86"
+    },
     {
       "sha": "45cd914592",
       "message": "Skip QoS event draining when AE_FILE_EVENTS is not set (#5098)",

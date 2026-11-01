@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 73,
+  "score": 75,
   "commit_count": 9,
-  "review_count": 64,
+  "review_count": 66,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a23e13016e",
+      "message": "ci: compare benchmarks on every PR and chart main on gh-pages (#190)",
+      "date": "2026-11-01",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/190",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/a23e13016ef029df8f7c092bf7e3202dfd5b0192"
+    },
+    {
+      "sha": "9e20d6f07c",
+      "message": "fix: send MIGRATE and CLIENT PAUSE timeouts in milliseconds (#214)",
+      "date": "2026-10-31",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/214",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/9e20d6f07cf643bc94c25ebf7c39df0184e55f95"
+    },
     {
       "sha": "57bab73f98",
       "message": "fix: dial every cluster conn with READONLY when SendToReplicas is set (#205)",

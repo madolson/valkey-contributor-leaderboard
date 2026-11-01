@@ -2,8 +2,8 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 1043,
-  "commit_count": 260,
+  "score": 1046,
+  "commit_count": 263,
   "review_count": 783,
   "repos": [
     ".github",
@@ -22,6 +22,30 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "7dfa61e043",
+      "message": "Script debugger: reset *argc on partial-read exit to fix server crash in SYNC mode (#5127)",
+      "date": "2026-11-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5127",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7dfa61e04390990da64b9e982c3b0fc0da8c7c82"
+    },
+    {
+      "sha": "41fb27b2f4",
+      "message": "Propagate PFADD elements applied before an INVALIDOBJ error (#5128)",
+      "date": "2026-11-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5128",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/41fb27b2f47d09bf03f4cafbc4d706ef46f9fdd9"
+    },
+    {
+      "sha": "8e0b719252",
+      "message": "Keep module global defrag resume state valid across MODULE UNLOAD (#5154)",
+      "date": "2026-11-01",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5154",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8e0b7192523998b24f1d4f529a13a953967803cb"
+    },
     {
       "sha": "30a4df7b2e",
       "message": "Keep the TLS connection postponed while an IO thread is writing (#5156)",

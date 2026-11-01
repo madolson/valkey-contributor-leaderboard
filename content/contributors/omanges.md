@@ -2,9 +2,9 @@
   "title": "omanges",
   "login": "omanges",
   "avatar_url": "https://avatars.githubusercontent.com/u/30625612?v=4",
-  "score": 9,
+  "score": 10,
   "commit_count": 2,
-  "review_count": 7,
+  "review_count": 8,
   "repos": [
     "valkey",
     "valkey-glide",
@@ -29,6 +29,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a23e13016e",
+      "message": "ci: compare benchmarks on every PR and chart main on gh-pages (#190)",
+      "date": "2026-11-01",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/190",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/a23e13016ef029df8f7c092bf7e3202dfd5b0192"
+    },
     {
       "sha": "48112faa28",
       "message": "Feat/structured acl api (#187)",
