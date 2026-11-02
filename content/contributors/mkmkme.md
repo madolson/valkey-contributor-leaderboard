@@ -311,6 +311,14 @@
   ],
   "review_list": [
     {
+      "sha": "3ed4ef2377",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.3.0 to 10.3.3",
+      "date": "2026-11-01",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/380",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/3ed4ef2377c0649a71f6aac04e21f3c669255b6d"
+    },
+    {
       "sha": "8057bf64ea",
       "message": "fix: only send NOVALUES from hscan when no_values is true",
       "date": "2026-10-19",

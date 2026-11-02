@@ -207536,6 +207536,44 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-go/pull/214"
+    },
+    {
+      "sha": "5e75495e5f088e3210997145a9afa874514f4784",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Fix CI-fix isolation handoff, refusal, and cleanup (#139)",
+      "date": "2026-11-02T04:27:17Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e8d58fccc902b2bca4a7c72c2ee34ff544a0e70d",
+      "author_login": "mkmkme",
+      "author_id": 4062234,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
+      "message": "Merge pull request #380 from valkey-io/dependabot/github_actions/astral-sh/setup-uv-10.3.3",
+      "date": "2026-11-01T14:48:39Z",
+      "repo": "valkey-py",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "3ed4ef2377c0649a71f6aac04e21f3c669255b6d",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.3.0 to 10.3.3",
+      "date": "2026-11-01T11:12:07Z",
+      "repo": "valkey-py",
+      "reviewed": [
+        {
+          "login": "mkmkme",
+          "date": "2026-11-01T14:48:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/380"
     }
   ]
 }
