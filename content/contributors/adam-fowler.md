@@ -2,8 +2,8 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 177,
-  "commit_count": 136,
+  "score": 178,
+  "commit_count": 137,
   "review_count": 41,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-swift"
   ],
   "commit_list": [
+    {
+      "sha": "05db2e39a3",
+      "message": "Group XACKDEL, XDELEX ids array in command JSON files (#5237)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5237",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/05db2e39a37ad1dd3da6f3920b1769ce26a0dde5"
+    },
     {
       "sha": "b8cbb96422",
       "message": "Add support for setting the number of streams per connection. (#394)",

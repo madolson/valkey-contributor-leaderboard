@@ -2,9 +2,9 @@
   "title": "leslie-bq",
   "login": "leslie-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
-  "score": 11,
+  "score": 12,
   "commit_count": 2,
-  "review_count": 9,
+  "review_count": 10,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -29,6 +29,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bdcfd138ad",
+      "message": "refactor: enforce member ordering and one class per file with StyleCop (#615)",
+      "date": "2026-11-03",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/615",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/bdcfd138ad932dd606e188de85b43ad4ae2dadd3"
+    },
     {
       "sha": "3f53bd9a14",
       "message": "fix(php): only run the PHP address resolver on the PHP thread (#357)",

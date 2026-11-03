@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 1046,
-  "commit_count": 263,
-  "review_count": 783,
+  "score": 1056,
+  "commit_count": 267,
+  "review_count": 789,
   "repos": [
     ".github",
     "valkey",
@@ -22,6 +22,38 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "8519d0c27f",
+      "message": "Fill unmatched postponed reply lengths left by a module (#5159)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5159",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8519d0c27f7bb348809075205ce0d64a05f48574"
+    },
+    {
+      "sha": "19c3a82f2f",
+      "message": "Let FLUSHALL and SHUTDOWN cancel a forkless save that is closing its file (#5121)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5121",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/19c3a82f2fd7422e10f61626dd91468c9d46a517"
+    },
+    {
+      "sha": "c30596075c",
+      "message": "Notify forkless iteration of SWAPDB from the swap itself (#5116)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5116",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c30596075ce09532daf81161d62a1fc6fe9b678f"
+    },
+    {
+      "sha": "0bfc99f586",
+      "message": "Read Lua error table fields without invoking metamethods (#5118)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5118",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0bfc99f5869d95936ba2f56bfc8ed80717e34513"
+    },
     {
       "sha": "7dfa61e043",
       "message": "Script debugger: reset *argc on partial-read exit to fix server crash in SYNC mode (#5127)",
@@ -2128,6 +2160,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b3b5ab983f",
+      "message": "Feature pathhash prefixes (#5070)",
+      "date": "2026-11-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5070",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b3b5ab983fec5511b1248fed39c566ae65b3ef0d"
+    },
+    {
+      "sha": "14f16537d4",
+      "message": "Feature pathhash scan (#5066)",
+      "date": "2026-11-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5066",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/14f16537d4f87a763a9b024d10d2254a21cac020"
+    },
+    {
+      "sha": "679d3f5ae9",
+      "message": "Add a structured menu for the documentation (nav.yml) (#513)",
+      "date": "2026-11-03",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/513",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/679d3f5ae9efa0512254f5c829ffd7ff561d9f53"
+    },
+    {
+      "sha": "b336a1a2ea",
+      "message": "Nested menu in the docs sidebar replaces alphabetical lists (#707)",
+      "date": "2026-11-03",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/707",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/b336a1a2eae6b885aa4fd298b92f1893ff8bedee"
+    },
+    {
+      "sha": "f986f56b51",
+      "message": "Rename PHEXISTS to PHPATHEXISTS (#5069)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5069",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f986f56b51d231a5b1252601f8c9690b247a3e9a"
+    },
+    {
+      "sha": "d301175f8f",
+      "message": "Move replies from resp{2,3}_replies.json into the markdown files (#518)",
+      "date": "2026-11-02",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/518",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/d301175f8f6f45bb6d9247bf7de540d58d5bfdc7"
+    },
     {
       "sha": "45cd914592",
       "message": "Skip QoS event draining when AE_FILE_EVENTS is not set (#5098)",

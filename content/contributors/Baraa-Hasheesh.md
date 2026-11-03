@@ -2,9 +2,9 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 41,
+  "score": 48,
   "commit_count": 24,
-  "review_count": 17,
+  "review_count": 24,
   "repos": [
     "valkey",
     "valkey-container",
@@ -205,6 +205,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b3b5ab983f",
+      "message": "Feature pathhash prefixes (#5070)",
+      "date": "2026-11-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5070",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b3b5ab983fec5511b1248fed39c566ae65b3ef0d"
+    },
+    {
+      "sha": "14f16537d4",
+      "message": "Feature pathhash scan (#5066)",
+      "date": "2026-11-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5066",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/14f16537d4f87a763a9b024d10d2254a21cac020"
+    },
+    {
+      "sha": "f986f56b51",
+      "message": "Rename PHEXISTS to PHPATHEXISTS (#5069)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5069",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f986f56b51d231a5b1252601f8c9690b247a3e9a"
+    },
+    {
+      "sha": "d800336542",
+      "message": "Fix SENTINEL SIMULATE-FAILURE argument metadata (#5208)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5208",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d800336542f8fa9fc8f125efb1c50f94a3e03b3a"
+    },
+    {
+      "sha": "0d089ef9b9",
+      "message": "Mark RESTORE IDLETIME and FREQ as mutually exclusive (#5212)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5212",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0d089ef9b9c4c1b5e0bae751c595c714f79a6ac2"
+    },
+    {
+      "sha": "40fb246f5a",
+      "message": "Represent valid expiry condition combinations in command metadata (#5213)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5213",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/40fb246f5abbefae4e9fc1b15fe810176840ea4a"
+    },
+    {
+      "sha": "f8a102d57e",
+      "message": "Remove key specs from hash NUMFIELDS arguments (#5211)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5211",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f8a102d57e13f8940bce73bf381ff2a27ed5727d"
+    },
     {
       "sha": "1f88b16b20",
       "message": "Mark sorted-set increments and weights as doubles (#5210)",

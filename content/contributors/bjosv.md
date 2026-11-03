@@ -2,8 +2,8 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 306,
-  "commit_count": 137,
+  "score": 307,
+  "commit_count": 138,
   "review_count": 169,
   "repos": [
     "libvalkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "86cbd5cc8e",
+      "message": "ci(e2e): run tests in parallel with a label matrix (#373)",
+      "date": "2026-11-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/373",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/86cbd5cc8ef9722754e58cddabc9518db73250cb"
+    },
     {
       "sha": "f8cd664f67",
       "message": "fix: promote every orphaned shard, not just the first (#477)",

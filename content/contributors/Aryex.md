@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 345,
-  "commit_count": 129,
+  "score": 348,
+  "commit_count": 132,
   "review_count": 216,
   "repos": [
     "spring-data-valkey",
@@ -16,6 +16,30 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "908930094a",
+      "message": "chore(deps): track latest valkey-glide main (#404)",
+      "date": "2026-11-02",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/404",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/908930094a4f9d27c9b9d293197a8cf980d55e1f"
+    },
+    {
+      "sha": "030184cb44",
+      "message": "refactor(ruby): organize Pub/Sub files and public types (#390)",
+      "date": "2026-11-02",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/390",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/030184cb448e3cdfe641a7e2ab9e6162da08e5d0"
+    },
+    {
+      "sha": "b0119d0fd7",
+      "message": "refactor(ruby): make PubSubState a getter-only class (#399)",
+      "date": "2026-11-02",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/399",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/b0119d0fd7a8f83dc6997596a8ba8dbdfbe00a24"
+    },
     {
       "sha": "ebf95d5ecf",
       "message": "docs(ruby): adopt Keep a Changelog format (#393)",
@@ -1050,6 +1074,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b21c4eb343",
+      "message": "chore(deps): bump valkey-glide from `db45db5` to `3ea2878` (#618)",
+      "date": "2026-11-03",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/618",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/b21c4eb3430ac1b4374ae8a12836f7b11271bdba"
+    },
+    {
+      "sha": "f6a2cd2197",
+      "message": "chore(deps): bump actions/setup-python from 7.0.0 to 7.1.0 in the minor-updates group (#617)",
+      "date": "2026-11-02",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/617",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/f6a2cd21973cee4667fbd6b6269f133003aba6c6"
+    },
+    {
+      "sha": "a96e590f2c",
+      "message": "chore(deps): bump the patch-updates group with 4 updates (#616)",
+      "date": "2026-11-02",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/616",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/a96e590f2c952c912aa6369b96523b7a3bbbd4b6"
+    },
+    {
+      "sha": "4644493701",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/git-secrets-scan.yml (#403)",
+      "date": "2026-11-02",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/403",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/46444937019f94e9e436b2512d90dc5dd9f5fa20"
+    },
+    {
+      "sha": "d8d430e24c",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/semgrep.yml (#402)",
+      "date": "2026-11-02",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/402",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d8d430e24c84c858d4d5c263b96d1c994a38cfb5"
+    },
+    {
+      "sha": "0a9a6cbc92",
+      "message": "chore(deps): Bump valkey-glide from `b360e69` to `70006cc` (#400)",
+      "date": "2026-11-02",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/400",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/0a9a6cbc924d77c264b8a259ab91be33a082a6a6"
+    },
+    {
+      "sha": "2113e91599",
+      "message": "chore(deps): Bump the minor-updates group with 2 updates (#401)",
+      "date": "2026-11-02",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/401",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/2113e91599b15e2fd396fafd402466ee1043d41b"
+    },
     {
       "sha": "22e51da9d9",
       "message": "fix(python): stop async client hang after pool borrow/release (#7454)",

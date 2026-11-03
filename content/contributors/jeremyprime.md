@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 310,
+  "score": 311,
   "commit_count": 98,
-  "review_count": 212,
+  "review_count": 213,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -800,6 +800,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bdcfd138ad",
+      "message": "refactor: enforce member ordering and one class per file with StyleCop (#615)",
+      "date": "2026-11-03",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/615",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/bdcfd138ad932dd606e188de85b43ad4ae2dadd3"
+    },
     {
       "sha": "0393387a79",
       "message": "fix(ffi): wait for the pool lock in glide_pool_metrics instead of reporting zeros (#7130)",

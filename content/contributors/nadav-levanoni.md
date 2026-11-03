@@ -2,15 +2,23 @@
   "title": "nadav-levanoni",
   "login": "nadav-levanoni",
   "avatar_url": "https://avatars.githubusercontent.com/u/38641521?v=4",
-  "score": 17,
-  "commit_count": 10,
-  "review_count": 7,
+  "score": 20,
+  "commit_count": 11,
+  "review_count": 9,
   "repos": [
     "valkey",
     "valkey-large-object",
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "58fcaae64b",
+      "message": "Rename blob-decay-time config to lfu-decay-minutes (#173)",
+      "date": "2026-11-03",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/173",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/58fcaae64b47a246d4faf6b41de7a924306a332d"
+    },
     {
       "sha": "738a9a97b2",
       "message": "Retry a transient unlink or stat once, then abort; remove the orphaned-files list (#145)",
@@ -93,6 +101,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6f17bbbf6f",
+      "message": "Commit async SETs on the selected db; reject BLOB GET/SET in MULTI and scripts (#175)",
+      "date": "2026-11-03",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/175",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/6f17bbbf6fb29bdcfd49c59d64e7dcddb80b4c19"
+    },
+    {
+      "sha": "17d5fe59cd",
+      "message": "Register string configs as ValkeyGILGuard<ValkeyString> (#151)",
+      "date": "2026-11-02",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/151",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/17d5fe59cda703de382e2c54ea8b80e5376849c3"
+    },
     {
       "sha": "4fa9a67f85",
       "message": "Fall back to non-fixed io_uring ops when the iovec index is stale (#167)",

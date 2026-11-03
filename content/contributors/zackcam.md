@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 103,
+  "score": 104,
   "commit_count": 62,
-  "review_count": 41,
+  "review_count": 42,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -515,6 +515,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "17d5fe59cd",
+      "message": "Register string configs as ValkeyGILGuard<ValkeyString> (#151)",
+      "date": "2026-11-02",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/151",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/17d5fe59cda703de382e2c54ea8b80e5376849c3"
+    },
     {
       "sha": "738a9a97b2",
       "message": "Retry a transient unlink or stat once, then abort; remove the orphaned-files list (#145)",

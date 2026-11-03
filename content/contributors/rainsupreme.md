@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 169,
+  "score": 176,
   "commit_count": 42,
-  "review_count": 127,
+  "review_count": 134,
   "repos": [
     "valkey",
     "valkey-container",
@@ -352,6 +352,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d800336542",
+      "message": "Fix SENTINEL SIMULATE-FAILURE argument metadata (#5208)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5208",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d800336542f8fa9fc8f125efb1c50f94a3e03b3a"
+    },
+    {
+      "sha": "0d089ef9b9",
+      "message": "Mark RESTORE IDLETIME and FREQ as mutually exclusive (#5212)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5212",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0d089ef9b9c4c1b5e0bae751c595c714f79a6ac2"
+    },
+    {
+      "sha": "8519d0c27f",
+      "message": "Fill unmatched postponed reply lengths left by a module (#5159)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5159",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8519d0c27f7bb348809075205ce0d64a05f48574"
+    },
+    {
+      "sha": "19c3a82f2f",
+      "message": "Let FLUSHALL and SHUTDOWN cancel a forkless save that is closing its file (#5121)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5121",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/19c3a82f2fd7422e10f61626dd91468c9d46a517"
+    },
+    {
+      "sha": "c30596075c",
+      "message": "Notify forkless iteration of SWAPDB from the swap itself (#5116)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5116",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c30596075ce09532daf81161d62a1fc6fe9b678f"
+    },
+    {
+      "sha": "0bfc99f586",
+      "message": "Read Lua error table fields without invoking metamethods (#5118)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5118",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0bfc99f5869d95936ba2f56bfc8ed80717e34513"
+    },
+    {
+      "sha": "40fb246f5a",
+      "message": "Represent valid expiry condition combinations in command metadata (#5213)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5213",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/40fb246f5abbefae4e9fc1b15fe810176840ea4a"
+    },
     {
       "sha": "7dfa61e043",
       "message": "Script debugger: reset *argc on partial-read exit to fix server crash in SYNC mode (#5127)",

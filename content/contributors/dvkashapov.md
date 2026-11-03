@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 119,
+  "score": 122,
   "commit_count": 26,
-  "review_count": 93,
+  "review_count": 96,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -224,6 +224,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "929fcd4542",
+      "message": "Use new style argv call (#28)",
+      "date": "2026-11-02",
+      "repo": "valkey-lua5.5",
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/28",
+      "commit_url": "https://github.com/valkey-io/valkey-lua5.5/commit/929fcd45428f46aae55a18b605964f40e3d3a087"
+    },
+    {
+      "sha": "a5e985fcb8",
+      "message": "Use new style argv call (#77)",
+      "date": "2026-11-02",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/77",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/a5e985fcb83e4f8449a746db65a96a88f5ade2ea"
+    },
+    {
+      "sha": "5aad63434a",
+      "message": "Use new style argv call",
+      "date": "2026-11-02",
+      "repo": "valkey-luau",
+      "pr_url": "https://github.com/valkey-io/valkey-luau/pull/21",
+      "commit_url": "https://github.com/valkey-io/valkey-luau/commit/5aad63434a42a177657dd3accebae266b1ba29a5"
+    },
     {
       "sha": "482dbd5198",
       "message": "Skip less tests",

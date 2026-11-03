@@ -2,8 +2,8 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 451,
-  "commit_count": 120,
+  "score": 455,
+  "commit_count": 124,
   "review_count": 331,
   "repos": [
     "valkey",
@@ -18,6 +18,38 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "d800336542",
+      "message": "Fix SENTINEL SIMULATE-FAILURE argument metadata (#5208)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5208",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d800336542f8fa9fc8f125efb1c50f94a3e03b3a"
+    },
+    {
+      "sha": "0d089ef9b9",
+      "message": "Mark RESTORE IDLETIME and FREQ as mutually exclusive (#5212)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5212",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0d089ef9b9c4c1b5e0bae751c595c714f79a6ac2"
+    },
+    {
+      "sha": "40fb246f5a",
+      "message": "Represent valid expiry condition combinations in command metadata (#5213)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5213",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/40fb246f5abbefae4e9fc1b15fe810176840ea4a"
+    },
+    {
+      "sha": "f8a102d57e",
+      "message": "Remove key specs from hash NUMFIELDS arguments (#5211)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5211",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f8a102d57e13f8940bce73bf381ff2a27ed5727d"
+    },
     {
       "sha": "1f88b16b20",
       "message": "Mark sorted-set increments and weights as doubles (#5210)",

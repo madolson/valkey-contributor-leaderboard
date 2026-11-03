@@ -2,9 +2,9 @@
   "title": "KIvanow",
   "login": "KIvanow",
   "avatar_url": "https://avatars.githubusercontent.com/u/541999?v=4",
-  "score": 15,
+  "score": 16,
   "commit_count": 13,
-  "review_count": 2,
+  "review_count": 3,
   "repos": [
     "planet",
     "valkey",
@@ -119,6 +119,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f986f56b51",
+      "message": "Rename PHEXISTS to PHPATHEXISTS (#5069)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5069",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f986f56b51d231a5b1252601f8c9690b247a3e9a"
+    },
     {
       "sha": "e78ca77c83",
       "message": "Fix module loading tests after async loading guard change (#4168)",

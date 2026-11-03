@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 328,
+  "score": 330,
   "commit_count": 96,
-  "review_count": 232,
+  "review_count": 234,
   "repos": [
     "valkey",
     "valkey-container",
@@ -787,6 +787,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3dc7c35ce2",
+      "message": "Document HOTKEYS hot key detection (#460)",
+      "date": "2026-11-02",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/460",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/3dc7c35ce2629c384e2e11e7d643a120d924eb25"
+    },
+    {
+      "sha": "3dc7c35ce2",
+      "message": "Document HOTKEYS hot key detection (#460)",
+      "date": "2026-11-02",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/460",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/3dc7c35ce2629c384e2e11e7d643a120d924eb25"
+    },
     {
       "sha": "3aa4cbce47",
       "message": "Count expired but unreaped hash fields in objectComputeSize (#5092)",

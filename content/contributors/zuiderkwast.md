@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1308,
-  "commit_count": 156,
-  "review_count": 1152,
+  "score": 1314,
+  "commit_count": 159,
+  "review_count": 1155,
   "repos": [
     "libvalkey",
     "valkey",
@@ -20,6 +20,30 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "679d3f5ae9",
+      "message": "Add a structured menu for the documentation (nav.yml) (#513)",
+      "date": "2026-11-03",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/513",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/679d3f5ae9efa0512254f5c829ffd7ff561d9f53"
+    },
+    {
+      "sha": "b336a1a2ea",
+      "message": "Nested menu in the docs sidebar replaces alphabetical lists (#707)",
+      "date": "2026-11-03",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/707",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/b336a1a2eae6b885aa4fd298b92f1893ff8bedee"
+    },
+    {
+      "sha": "d301175f8f",
+      "message": "Move replies from resp{2,3}_replies.json into the markdown files (#518)",
+      "date": "2026-11-02",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/518",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/d301175f8f6f45bb6d9247bf7de540d58d5bfdc7"
+    },
     {
       "sha": "0272235263",
       "message": "Update topics replication (compression, dual-channel, fix much outdated) + cluster-tutorial (#491)",
@@ -1270,6 +1294,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "05db2e39a3",
+      "message": "Group XACKDEL, XDELEX ids array in command JSON files (#5237)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5237",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/05db2e39a37ad1dd3da6f3920b1769ce26a0dde5"
+    },
+    {
+      "sha": "89f3b16673",
+      "message": "Add documentation for JSON.MERGE (#456)",
+      "date": "2026-11-02",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/456",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/89f3b1667306aaa2d5448366300c36a3b9ae81db"
+    },
+    {
+      "sha": "d07db8a206",
+      "message": "Document XACKDEL and XDELEX commands (#488)",
+      "date": "2026-11-02",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/488",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/d07db8a206d991f63946a2a7baa4c8ddbce062ff"
+    },
     {
       "sha": "4dc7b008b2",
       "message": "Clear stale cross-slot flag before computing a command's slot (#5191)",

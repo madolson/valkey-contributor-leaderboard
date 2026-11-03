@@ -2,8 +2,8 @@
   "title": "secwall",
   "login": "secwall",
   "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
-  "score": 29,
-  "commit_count": 27,
+  "score": 32,
+  "commit_count": 30,
   "review_count": 2,
   "repos": [
     "valkey",
@@ -12,6 +12,30 @@
     "valkey-luau"
   ],
   "commit_list": [
+    {
+      "sha": "929fcd4542",
+      "message": "Use new style argv call (#28)",
+      "date": "2026-11-02",
+      "repo": "valkey-lua5.5",
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/28",
+      "commit_url": "https://github.com/valkey-io/valkey-lua5.5/commit/929fcd45428f46aae55a18b605964f40e3d3a087"
+    },
+    {
+      "sha": "a5e985fcb8",
+      "message": "Use new style argv call (#77)",
+      "date": "2026-11-02",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/77",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/a5e985fcb83e4f8449a746db65a96a88f5ade2ea"
+    },
+    {
+      "sha": "5aad63434a",
+      "message": "Use new style argv call",
+      "date": "2026-11-02",
+      "repo": "valkey-luau",
+      "pr_url": "https://github.com/valkey-io/valkey-luau/pull/21",
+      "commit_url": "https://github.com/valkey-io/valkey-luau/commit/5aad63434a42a177657dd3accebae266b1ba29a5"
+    },
     {
       "sha": "482dbd5198",
       "message": "Skip less tests",
@@ -230,6 +254,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2b6cc958dd",
+      "message": "Bump deps/luajit from `a4c0645` to `8ca7629`",
+      "date": "2026-11-02",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/78",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/2b6cc958ddc1bb810d7e703aee2c537d54f94ef4"
+    },
     {
       "sha": "a1061ca3de",
       "message": "Bump github/codeql-action from 4.39.0 to 4.39.1",

@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 905,
+  "score": 910,
   "commit_count": 45,
-  "review_count": 860,
+  "review_count": 865,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "49e9a77797",
+      "message": "feat(python,node,go): add key-level NX/XX condition support to HSETEX (#7428)",
+      "date": "2026-11-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7428",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/49e9a77797da1613f3d1b5ebc74416dde8e45458"
+    },
+    {
+      "sha": "52bdfb17c5",
+      "message": "feat(php): add DELIFEQ command support (#377)",
+      "date": "2026-11-02",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/377",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/52bdfb17c572aba3714f0048c05983db07f65d56"
+    },
+    {
+      "sha": "908930094a",
+      "message": "chore(deps): track latest valkey-glide main (#404)",
+      "date": "2026-11-02",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/404",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/908930094a4f9d27c9b9d293197a8cf980d55e1f"
+    },
+    {
+      "sha": "030184cb44",
+      "message": "refactor(ruby): organize Pub/Sub files and public types (#390)",
+      "date": "2026-11-02",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/390",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/030184cb448e3cdfe641a7e2ab9e6162da08e5d0"
+    },
+    {
+      "sha": "b0119d0fd7",
+      "message": "refactor(ruby): make PubSubState a getter-only class (#399)",
+      "date": "2026-11-02",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/399",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/b0119d0fd7a8f83dc6997596a8ba8dbdfbe00a24"
+    },
     {
       "sha": "3601186645",
       "message": "fix(core): close scope sockets abandoned under a blocking command (#7462)",

@@ -2,8 +2,8 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 481,
-  "commit_count": 162,
+  "score": 483,
+  "commit_count": 164,
   "review_count": 319,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "49e9a77797",
+      "message": "feat(python,node,go): add key-level NX/XX condition support to HSETEX (#7428)",
+      "date": "2026-11-02",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7428",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/49e9a77797da1613f3d1b5ebc74416dde8e45458"
+    },
+    {
+      "sha": "52bdfb17c5",
+      "message": "feat(php): add DELIFEQ command support (#377)",
+      "date": "2026-11-02",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/377",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/52bdfb17c572aba3714f0048c05983db07f65d56"
+    },
     {
       "sha": "8a9519bd5d",
       "message": "feat(node): add DELIFEQ command support (#7384)",
@@ -1311,6 +1327,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "782ce5b152",
+      "message": "ci(deps): bump Swatinem/rust-cache (#405)",
+      "date": "2026-11-02",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/405",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/782ce5b152501ad92b12d92650ce5a33feef72b5"
+    },
     {
       "sha": "59c4123042",
       "message": "test: improve test stability and cluster test isolation (#340)",

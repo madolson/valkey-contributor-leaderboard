@@ -2,9 +2,9 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 70,
+  "score": 72,
   "commit_count": 10,
-  "review_count": 60,
+  "review_count": 62,
   "repos": [
     "libvalkey-py",
     "one-time-for-planet",
@@ -97,6 +97,22 @@
   ],
   "review_list": [
     {
+      "sha": "7f0ba208d9",
+      "message": "build(deps): bump pypa/cibuildwheel from 4.3.1 to 4.3.5 (#94)",
+      "date": "2026-11-02",
+      "repo": "libvalkey-py",
+      "pr_url": "https://github.com/valkey-io/libvalkey-py/pull/94",
+      "commit_url": "https://github.com/valkey-io/libvalkey-py/commit/7f0ba208d9653e592ccc5e0627c2628d335aa1cf"
+    },
+    {
+      "sha": "713309211b",
+      "message": "Merge pull request #379 from valkey-io/mkmkme/fix-pubsub-test-flakiness",
+      "date": "2026-11-02",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/379",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/713309211bef491dde665ce025554ec4c9fcc58f"
+    },
+    {
       "sha": "ef83d30058",
       "message": "test: parallelize standalone integration tests",
       "date": "2026-10-28",
@@ -127,6 +143,14 @@
       "repo": "valkey-py",
       "pr_url": "https://github.com/valkey-io/valkey-py/pull/346",
       "commit_url": "https://github.com/valkey-io/valkey-py/commit/5bf968a3106a5d063cdb14b8e1d32739b8b3d72d"
+    },
+    {
+      "sha": "ebcf3541eb",
+      "message": "Fix async pipeline error messages embedding the args tuple",
+      "date": "2026-10-16",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/361",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/ebcf3541eb1e163a2266c35a3d9895b21897d200"
     },
     {
       "sha": "e87c922292",

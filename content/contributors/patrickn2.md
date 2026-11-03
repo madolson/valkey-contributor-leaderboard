@@ -2,13 +2,22 @@
   "title": "patrickn2",
   "login": "patrickn2",
   "avatar_url": "https://avatars.githubusercontent.com/u/119355744?v=4",
-  "score": 1,
-  "commit_count": 1,
+  "score": 2,
+  "commit_count": 2,
   "review_count": 0,
   "repos": [
+    "valkey-doc",
     "valkey-json"
   ],
   "commit_list": [
+    {
+      "sha": "89f3b16673",
+      "message": "Add documentation for JSON.MERGE (#456)",
+      "date": "2026-11-02",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/456",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/89f3b1667306aaa2d5448366300c36a3b9ae81db"
+    },
     {
       "sha": "dcaa82c2e1",
       "message": "feat: JSON.MERGE plus unit and integration tests (#95)",

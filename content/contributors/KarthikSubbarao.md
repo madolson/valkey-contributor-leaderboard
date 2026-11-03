@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 314,
-  "commit_count": 118,
-  "review_count": 196,
+  "score": 317,
+  "commit_count": 120,
+  "review_count": 197,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -18,6 +18,22 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "6f17bbbf6f",
+      "message": "Commit async SETs on the selected db; reject BLOB GET/SET in MULTI and scripts (#175)",
+      "date": "2026-11-03",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/175",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/6f17bbbf6fb29bdcfd49c59d64e7dcddb80b4c19"
+    },
+    {
+      "sha": "17d5fe59cd",
+      "message": "Register string configs as ValkeyGILGuard<ValkeyString> (#151)",
+      "date": "2026-11-02",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/151",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/17d5fe59cda703de382e2c54ea8b80e5376849c3"
+    },
     {
       "sha": "0bc30140fc",
       "message": "feat(eviction): evict by maxmemory-policy from LRU eviction candidates in both modes (#128)",
@@ -964,6 +980,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "58fcaae64b",
+      "message": "Rename blob-decay-time config to lfu-decay-minutes (#173)",
+      "date": "2026-11-03",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/173",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/58fcaae64b47a246d4faf6b41de7a924306a332d"
+    },
     {
       "sha": "a9444163b2",
       "message": "Add a config for disabling large object commands (#149)",

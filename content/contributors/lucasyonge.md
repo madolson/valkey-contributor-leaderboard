@@ -2,9 +2,9 @@
   "title": "lucasyonge",
   "login": "lucasyonge",
   "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
-  "score": 17,
+  "score": 19,
   "commit_count": 4,
-  "review_count": 13,
+  "review_count": 15,
   "repos": [
     "valkey",
     "valkey-container",
@@ -47,6 +47,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f986f56b51",
+      "message": "Rename PHEXISTS to PHPATHEXISTS (#5069)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5069",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f986f56b51d231a5b1252601f8c9690b247a3e9a"
+    },
+    {
+      "sha": "f8a102d57e",
+      "message": "Remove key specs from hash NUMFIELDS arguments (#5211)",
+      "date": "2026-11-02",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5211",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f8a102d57e13f8940bce73bf381ff2a27ed5727d"
+    },
     {
       "sha": "300372c93b",
       "message": "changes order of text",

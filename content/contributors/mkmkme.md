@@ -2,8 +2,8 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 135,
-  "commit_count": 37,
+  "score": 136,
+  "commit_count": 38,
   "review_count": 98,
   "repos": [
     "libvalkey",
@@ -12,6 +12,14 @@
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "713309211b",
+      "message": "Merge pull request #379 from valkey-io/mkmkme/fix-pubsub-test-flakiness",
+      "date": "2026-11-02",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/379",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/713309211bef491dde665ce025554ec4c9fcc58f"
+    },
     {
       "sha": "ef83d30058",
       "message": "test: parallelize standalone integration tests",
@@ -317,6 +325,14 @@
       "repo": "valkey-py",
       "pr_url": "https://github.com/valkey-io/valkey-py/pull/380",
       "commit_url": "https://github.com/valkey-io/valkey-py/commit/3ed4ef2377c0649a71f6aac04e21f3c669255b6d"
+    },
+    {
+      "sha": "81b57f74f9",
+      "message": "build(deps): bump rojopolis/spellcheck-github-actions",
+      "date": "2026-11-01",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/381",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/81b57f74f92bbefab9949b89af4d8a91a3810bc1"
     },
     {
       "sha": "8057bf64ea",

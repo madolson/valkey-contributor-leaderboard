@@ -2,15 +2,23 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 20,
-  "commit_count": 16,
-  "review_count": 4,
+  "score": 24,
+  "commit_count": 17,
+  "review_count": 7,
   "repos": [
     "valkey",
     "valkey-doc",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "d07db8a206",
+      "message": "Document XACKDEL and XDELEX commands (#488)",
+      "date": "2026-11-02",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/488",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/d07db8a206d991f63946a2a7baa4c8ddbce062ff"
+    },
     {
       "sha": "a54cd140ce",
       "message": "Update security.md guidance and reporting (#515)",
@@ -141,6 +149,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "679d3f5ae9",
+      "message": "Add a structured menu for the documentation (nav.yml) (#513)",
+      "date": "2026-11-03",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/513",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/679d3f5ae9efa0512254f5c829ffd7ff561d9f53"
+    },
+    {
+      "sha": "b336a1a2ea",
+      "message": "Nested menu in the docs sidebar replaces alphabetical lists (#707)",
+      "date": "2026-11-03",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/707",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/b336a1a2eae6b885aa4fd298b92f1893ff8bedee"
+    },
+    {
+      "sha": "3dc7c35ce2",
+      "message": "Document HOTKEYS hot key detection (#460)",
+      "date": "2026-11-02",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/460",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/3dc7c35ce2629c384e2e11e7d643a120d924eb25"
+    },
     {
       "sha": "b9a02c9de9",
       "message": "Document ACL roles (#497)",

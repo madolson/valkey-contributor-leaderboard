@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 189,
+  "score": 191,
   "commit_count": 68,
-  "review_count": 121,
+  "review_count": 123,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -557,6 +557,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "86cbd5cc8e",
+      "message": "ci(e2e): run tests in parallel with a label matrix (#373)",
+      "date": "2026-11-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/373",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/86cbd5cc8ef9722754e58cddabc9518db73250cb"
+    },
+    {
+      "sha": "f2b914b355",
+      "message": "feat: parse and merge trust roots from PEM and SPIFFE bundles (#565)",
+      "date": "2026-11-02",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/565",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/f2b914b35568762da14e4694a1c42770e713e22b"
+    },
     {
       "sha": "cc32a012be",
       "message": "feat: let a ValkeyNode trust client CAs through a trust bundle (#508)",
