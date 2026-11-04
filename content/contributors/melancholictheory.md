@@ -2,8 +2,8 @@
   "title": "melancholictheory",
   "login": "melancholictheory",
   "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
-  "score": 18,
-  "commit_count": 17,
+  "score": 19,
+  "commit_count": 18,
   "review_count": 1,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "430e109347",
+      "message": "docs: example NetworkPolicy for a ValkeyCluster and the flows it needs (#454)",
+      "date": "2026-11-03",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/454",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/430e109347e950dd78eedcb347db2b6531da5965"
+    },
     {
       "sha": "c0a5b1fa14",
       "message": "fix: rebalance slots onto a shard whose primary was drained but kept its replica (#550)",

@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 399,
+  "score": 400,
   "commit_count": 231,
-  "review_count": 168,
+  "review_count": 169,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -1872,6 +1872,14 @@
       "repo": "valkey-glide-csharp",
       "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/618",
       "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/b21c4eb3430ac1b4374ae8a12836f7b11271bdba"
+    },
+    {
+      "sha": "fdd2532fa8",
+      "message": "docs(ruby): enforce YARD documentation format (#391)",
+      "date": "2026-11-03",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/391",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/fdd2532fa83f617906750edc8a6679d7309f406b"
     },
     {
       "sha": "49e9a77797",

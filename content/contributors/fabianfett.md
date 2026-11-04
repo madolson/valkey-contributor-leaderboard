@@ -2,9 +2,9 @@
   "title": "fabianfett",
   "login": "fabianfett",
   "avatar_url": "https://avatars.githubusercontent.com/u/6780861?v=4",
-  "score": 30,
+  "score": 31,
   "commit_count": 4,
-  "review_count": 26,
+  "review_count": 27,
   "repos": [
     "valkey-swift"
   ],
@@ -43,6 +43,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "578b5ea844",
+      "message": "Integrate swift-metrics (#392)",
+      "date": "2026-11-03",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/392",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/578b5ea844a5ac193a1d6ddd5476d6ace1d74f76"
+    },
     {
       "sha": "4fed577129",
       "message": "Connection Pool changes from PostgresNIO (#285)",

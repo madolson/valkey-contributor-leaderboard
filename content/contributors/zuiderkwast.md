@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1314,
-  "commit_count": 159,
-  "review_count": 1155,
+  "score": 1319,
+  "commit_count": 160,
+  "review_count": 1159,
   "repos": [
     "libvalkey",
     "valkey",
@@ -35,6 +35,14 @@
       "repo": "valkey-io.github.io",
       "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/707",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/b336a1a2eae6b885aa4fd298b92f1893ff8bedee"
+    },
+    {
+      "sha": "da8b7f034f",
+      "message": "Remove the review banners and publication holds from topic pages (#735)",
+      "date": "2026-11-03",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/735",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/da8b7f034f9598db142833ef56e7b274496db899"
     },
     {
       "sha": "d301175f8f",
@@ -1294,6 +1302,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6c4f6fb856",
+      "message": "Rename bgsave-default-method to forkless-policy (#5261)",
+      "date": "2026-11-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5261",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6c4f6fb856544665361d58a46134592f233d7b99"
+    },
+    {
+      "sha": "15cf661f67",
+      "message": "Fix the HELLO role value in the protocol spec (#511)",
+      "date": "2026-11-03",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/511",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/15cf661f67a5b34ad1d144a77a23b2179af1645c"
+    },
+    {
+      "sha": "01e60d3e82",
+      "message": "Update Benchmark topic with latest valkey-benchmark.c changes (#441)",
+      "date": "2026-11-03",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/441",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/01e60d3e827c7d7148dd53281e3f1af8d2b14132"
+    },
+    {
+      "sha": "b15e5283b9",
+      "message": "Update latency monitoring doc (#489)",
+      "date": "2026-11-03",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/489",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/b15e5283b9c6f19b9134c1e6ef0d27ad41d6efa3"
+    },
     {
       "sha": "05db2e39a3",
       "message": "Group XACKDEL, XDELEX ids array in command JSON files (#5237)",

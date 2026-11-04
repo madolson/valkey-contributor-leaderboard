@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 88,
+  "score": 90,
   "commit_count": 28,
-  "review_count": 60,
+  "review_count": 62,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -236,6 +236,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6454bcc628",
+      "message": "Forkless Full-Sync (#4797)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4797",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6454bcc6285555d2994957ebb5a57f67f55e9025"
+    },
+    {
+      "sha": "9ff39f353c",
+      "message": "Rebuild the Lua module when its sources change (#5242)",
+      "date": "2026-11-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5242",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9ff39f353cac273a3df8e10070ac9b9dc9ed310b"
+    },
     {
       "sha": "329ccfe1da",
       "message": "[Forkless] Allow primary client to be blocked with BLOCKED_INUSE (#5206)",

@@ -2,9 +2,9 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 178,
+  "score": 180,
   "commit_count": 137,
-  "review_count": 41,
+  "review_count": 43,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -1111,6 +1111,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "578b5ea844",
+      "message": "Integrate swift-metrics (#392)",
+      "date": "2026-11-03",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/392",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/578b5ea844a5ac193a1d6ddd5476d6ace1d74f76"
+    },
+    {
+      "sha": "578b5ea844",
+      "message": "Integrate swift-metrics (#392)",
+      "date": "2026-11-03",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/392",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/578b5ea844a5ac193a1d6ddd5476d6ace1d74f76"
+    },
     {
       "sha": "8b4330e094",
       "message": "Default to `Logger.current` in public API (#408)",

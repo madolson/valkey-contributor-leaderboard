@@ -2,11 +2,12 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 64,
+  "score": 65,
   "commit_count": 25,
-  "review_count": 39,
+  "review_count": 40,
   "repos": [
     "valkey",
+    "valkey-doc",
     "valkey-perf-benchmark",
     "valkey-search",
     "valkeymodule-rs"
@@ -214,6 +215,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "01e60d3e82",
+      "message": "Update Benchmark topic with latest valkey-benchmark.c changes (#441)",
+      "date": "2026-11-03",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/441",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/01e60d3e827c7d7148dd53281e3f1af8d2b14132"
+    },
     {
       "sha": "4bb501a45d",
       "message": "Scoring compatibility tests (#1436)",

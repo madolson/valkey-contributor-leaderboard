@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 388,
+  "score": 389,
   "commit_count": 85,
-  "review_count": 303,
+  "review_count": 304,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -695,6 +695,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "90ef541ea7",
+      "message": "fix(php): free an address resolver when its client is closed, not at request shutdown (#397)",
+      "date": "2026-11-03",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/397",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/90ef541ea79d536e5af1f903d9fbae353532f3a8"
+    },
     {
       "sha": "3601186645",
       "message": "fix(core): close scope sockets abandoned under a blocking command (#7462)",

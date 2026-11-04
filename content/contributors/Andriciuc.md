@@ -2,15 +2,31 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 24,
-  "commit_count": 17,
-  "review_count": 7,
+  "score": 28,
+  "commit_count": 19,
+  "review_count": 9,
   "repos": [
     "valkey",
     "valkey-doc",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "01e60d3e82",
+      "message": "Update Benchmark topic with latest valkey-benchmark.c changes (#441)",
+      "date": "2026-11-03",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/441",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/01e60d3e827c7d7148dd53281e3f1af8d2b14132"
+    },
+    {
+      "sha": "b15e5283b9",
+      "message": "Update latency monitoring doc (#489)",
+      "date": "2026-11-03",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/489",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/b15e5283b9c6f19b9134c1e6ef0d27ad41d6efa3"
+    },
     {
       "sha": "d07db8a206",
       "message": "Document XACKDEL and XDELEX commands (#488)",
@@ -164,6 +180,22 @@
       "repo": "valkey-io.github.io",
       "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/707",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/b336a1a2eae6b885aa4fd298b92f1893ff8bedee"
+    },
+    {
+      "sha": "15cf661f67",
+      "message": "Fix the HELLO role value in the protocol spec (#511)",
+      "date": "2026-11-03",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/511",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/15cf661f67a5b34ad1d144a77a23b2179af1645c"
+    },
+    {
+      "sha": "da8b7f034f",
+      "message": "Remove the review banners and publication holds from topic pages (#735)",
+      "date": "2026-11-03",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/735",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/da8b7f034f9598db142833ef56e7b274496db899"
     },
     {
       "sha": "3dc7c35ce2",

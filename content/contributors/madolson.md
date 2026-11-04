@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 1056,
-  "commit_count": 267,
-  "review_count": 789,
+  "score": 1063,
+  "commit_count": 271,
+  "review_count": 792,
   "repos": [
     ".github",
     "valkey",
@@ -22,6 +22,38 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "f9262571d7",
+      "message": "Free repeated register_function named arguments (#5120)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5120",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f9262571d74f3f796584ee38d74e9c2d835cf55f"
+    },
+    {
+      "sha": "9ff39f353c",
+      "message": "Rebuild the Lua module when its sources change (#5242)",
+      "date": "2026-11-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5242",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9ff39f353cac273a3df8e10070ac9b9dc9ed310b"
+    },
+    {
+      "sha": "6c4f6fb856",
+      "message": "Rename bgsave-default-method to forkless-policy (#5261)",
+      "date": "2026-11-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5261",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6c4f6fb856544665361d58a46134592f233d7b99"
+    },
+    {
+      "sha": "15cf661f67",
+      "message": "Fix the HELLO role value in the protocol spec (#511)",
+      "date": "2026-11-03",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/511",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/15cf661f67a5b34ad1d144a77a23b2179af1645c"
+    },
     {
       "sha": "8519d0c27f",
       "message": "Fill unmatched postponed reply lengths left by a module (#5159)",
@@ -2191,6 +2223,30 @@
       "repo": "valkey-io.github.io",
       "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/707",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/b336a1a2eae6b885aa4fd298b92f1893ff8bedee"
+    },
+    {
+      "sha": "7220c38f90",
+      "message": "Feature pathhash pathdel (#5067)",
+      "date": "2026-11-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5067",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7220c38f908dd63c87dffdcb1f75f8f2c23af2fc"
+    },
+    {
+      "sha": "15b45dd9f3",
+      "message": "Delete empty Path Hash keys using the Hash lifecycle (#5068)",
+      "date": "2026-11-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5068",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/15b45dd9f3cf4d8e5b2a7d02e126d0444c83441e"
+    },
+    {
+      "sha": "1b84c13657",
+      "message": "Replace PHCARD with prefix-aware PHPATHCOUNT (#5071)",
+      "date": "2026-11-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5071",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1b84c13657d2cdc89dbca4e54111c265b8eeaa9b"
     },
     {
       "sha": "f986f56b51",

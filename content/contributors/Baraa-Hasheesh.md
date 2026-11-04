@@ -2,9 +2,9 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 48,
+  "score": 52,
   "commit_count": 24,
-  "review_count": 24,
+  "review_count": 28,
   "repos": [
     "valkey",
     "valkey-container",
@@ -220,6 +220,38 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/5066",
       "commit_url": "https://github.com/valkey-io/valkey/commit/14f16537d4f87a763a9b024d10d2254a21cac020"
+    },
+    {
+      "sha": "9ff39f353c",
+      "message": "Rebuild the Lua module when its sources change (#5242)",
+      "date": "2026-11-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5242",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9ff39f353cac273a3df8e10070ac9b9dc9ed310b"
+    },
+    {
+      "sha": "7220c38f90",
+      "message": "Feature pathhash pathdel (#5067)",
+      "date": "2026-11-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5067",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7220c38f908dd63c87dffdcb1f75f8f2c23af2fc"
+    },
+    {
+      "sha": "15b45dd9f3",
+      "message": "Delete empty Path Hash keys using the Hash lifecycle (#5068)",
+      "date": "2026-11-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5068",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/15b45dd9f3cf4d8e5b2a7d02e126d0444c83441e"
+    },
+    {
+      "sha": "1b84c13657",
+      "message": "Replace PHCARD with prefix-aware PHPATHCOUNT (#5071)",
+      "date": "2026-11-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5071",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1b84c13657d2cdc89dbca4e54111c265b8eeaa9b"
     },
     {
       "sha": "f986f56b51",

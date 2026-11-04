@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 191,
+  "score": 193,
   "commit_count": 68,
-  "review_count": 123,
+  "review_count": 125,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -557,6 +557,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4d4740a77a",
+      "message": "feat: add clientAuth.ca to ValkeyCluster (#573)",
+      "date": "2026-11-03",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/573",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/4d4740a77ae9dc1ae4186102cedda0b6f35e5d7e"
+    },
+    {
+      "sha": "430e109347",
+      "message": "docs: example NetworkPolicy for a ValkeyCluster and the flows it needs (#454)",
+      "date": "2026-11-03",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/454",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/430e109347e950dd78eedcb347db2b6531da5965"
+    },
     {
       "sha": "86cbd5cc8e",
       "message": "ci(e2e): run tests in parallel with a label matrix (#373)",

@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 1025,
+  "score": 1026,
   "commit_count": 397,
-  "review_count": 628,
+  "review_count": 629,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3192,6 +3192,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f9262571d7",
+      "message": "Free repeated register_function named arguments (#5120)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5120",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f9262571d74f3f796584ee38d74e9c2d835cf55f"
+    },
     {
       "sha": "3664d77c59",
       "message": "Do not let forked script debug sessions postpone automatic saves (#5153)",

@@ -2,14 +2,22 @@
   "title": "nilanshu-sharma",
   "login": "nilanshu-sharma",
   "avatar_url": "https://avatars.githubusercontent.com/u/220134298?v=4",
-  "score": 122,
-  "commit_count": 14,
+  "score": 123,
+  "commit_count": 15,
   "review_count": 108,
   "repos": [
     "valkey",
     "valkey-swift"
   ],
   "commit_list": [
+    {
+      "sha": "578b5ea844",
+      "message": "Integrate swift-metrics (#392)",
+      "date": "2026-11-03",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/392",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/578b5ea844a5ac193a1d6ddd5476d6ace1d74f76"
+    },
     {
       "sha": "f0e679332e",
       "message": "Cluster-wide Multi-key MSET (#378)",

@@ -2,8 +2,8 @@
   "title": "nadav-levanoni",
   "login": "nadav-levanoni",
   "avatar_url": "https://avatars.githubusercontent.com/u/38641521?v=4",
-  "score": 20,
-  "commit_count": 11,
+  "score": 21,
+  "commit_count": 12,
   "review_count": 9,
   "repos": [
     "valkey",
@@ -18,6 +18,14 @@
       "repo": "valkey-large-object",
       "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/173",
       "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/58fcaae64b47a246d4faf6b41de7a924306a332d"
+    },
+    {
+      "sha": "7d3f7427c5",
+      "message": "Retune reaper defaults to keep reclaim up inside a 2ms stall (#177)",
+      "date": "2026-11-03",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/177",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/7d3f7427c5e75b3e5d77177720385c6e90ed91d4"
     },
     {
       "sha": "738a9a97b2",

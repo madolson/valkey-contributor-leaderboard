@@ -2,9 +2,9 @@
   "title": "neerajr0",
   "login": "neerajr0",
   "avatar_url": "https://avatars.githubusercontent.com/u/55604693?v=4",
-  "score": 34,
+  "score": 35,
   "commit_count": 13,
-  "review_count": 21,
+  "review_count": 22,
   "repos": [
     "valkey-large-object",
     "valkey-search"
@@ -116,6 +116,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e266648d7f",
+      "message": "use dma-libfabric crates.io release (#162)",
+      "date": "2026-11-03",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/162",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/e266648d7fc25299b8918c93e564d82cd0d8ff6a"
+    },
     {
       "sha": "bdf848fdff",
       "message": "Adding null byte protection test (#168)",

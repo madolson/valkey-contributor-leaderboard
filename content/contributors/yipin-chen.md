@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 910,
+  "score": 912,
   "commit_count": 45,
-  "review_count": 865,
+  "review_count": 867,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fdd2532fa8",
+      "message": "docs(ruby): enforce YARD documentation format (#391)",
+      "date": "2026-11-03",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/391",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/fdd2532fa83f617906750edc8a6679d7309f406b"
+    },
+    {
+      "sha": "fdd2532fa8",
+      "message": "docs(ruby): enforce YARD documentation format (#391)",
+      "date": "2026-11-03",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/391",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/fdd2532fa83f617906750edc8a6679d7309f406b"
+    },
     {
       "sha": "49e9a77797",
       "message": "feat(python,node,go): add key-level NX/XX condition support to HSETEX (#7428)",

@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 158,
+  "score": 160,
   "commit_count": 44,
-  "review_count": 114,
+  "review_count": 116,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -366,6 +366,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "eda3508f7f",
+      "message": "Stability wedge detection and NaN fix for vectors (#1542)",
+      "date": "2026-11-03",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1542",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/eda3508f7f5315e4b071ccfd51bb363e399d411d"
+    },
+    {
+      "sha": "7e7adf25ef",
+      "message": "FT.HYBRID: rescore mutated documents in a match-all SEARCH arm (#1634)",
+      "date": "2026-11-03",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1634",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7e7adf25ef79b7603047680b08bbbf20e1a29487"
+    },
     {
       "sha": "ec01f05a1e",
       "message": "Scoring compatibility tests CME (#1483)",

@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 348,
-  "commit_count": 132,
+  "score": 349,
+  "commit_count": 133,
   "review_count": 216,
   "repos": [
     "spring-data-valkey",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "fdd2532fa8",
+      "message": "docs(ruby): enforce YARD documentation format (#391)",
+      "date": "2026-11-03",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/391",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/fdd2532fa83f617906750edc8a6679d7309f406b"
+    },
     {
       "sha": "908930094a",
       "message": "chore(deps): track latest valkey-glide main (#404)",

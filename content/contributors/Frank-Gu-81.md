@@ -2,8 +2,8 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 61,
-  "commit_count": 30,
+  "score": 62,
+  "commit_count": 31,
   "review_count": 31,
   "repos": [
     "valkey-ci-agent",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "76e3291136",
+      "message": "onboard valkey-search to backport-eligibility daily runs (#142)",
+      "date": "2026-11-04",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/142",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/76e32911368f576695c2e62f589cac1c2a521a29"
+    },
     {
       "sha": "6d1eb2667d",
       "message": "Remove stale local copy of the benchmark configs (#1446)",

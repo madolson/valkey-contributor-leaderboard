@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 483,
+  "score": 484,
   "commit_count": 164,
-  "review_count": 319,
+  "review_count": 320,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1327,6 +1327,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "90ef541ea7",
+      "message": "fix(php): free an address resolver when its client is closed, not at request shutdown (#397)",
+      "date": "2026-11-03",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/397",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/90ef541ea79d536e5af1f903d9fbae353532f3a8"
+    },
     {
       "sha": "782ce5b152",
       "message": "ci(deps): bump Swatinem/rust-cache (#405)",

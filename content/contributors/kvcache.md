@@ -2,13 +2,21 @@
   "title": "kvcache",
   "login": "kvcache",
   "avatar_url": "https://avatars.githubusercontent.com/u/86278669?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey-large-object"
   ],
   "commit_list": [
+    {
+      "sha": "e266648d7f",
+      "message": "use dma-libfabric crates.io release (#162)",
+      "date": "2026-11-03",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/162",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/e266648d7fc25299b8918c93e564d82cd0d8ff6a"
+    },
     {
       "sha": "a0c58a24d4",
       "message": "update dma-libfabric for old rdma-core (#148)",

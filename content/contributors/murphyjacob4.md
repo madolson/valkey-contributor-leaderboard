@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 154,
+  "score": 155,
   "commit_count": 49,
-  "review_count": 105,
+  "review_count": 106,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -406,6 +406,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6454bcc628",
+      "message": "Forkless Full-Sync (#4797)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4797",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6454bcc6285555d2994957ebb5a57f67f55e9025"
+    },
     {
       "sha": "6e3eddf497",
       "message": "Don't block CLUSTER SETSLOT on replica acks when the client cannot block (#5141)",

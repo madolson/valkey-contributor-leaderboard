@@ -2,9 +2,9 @@
   "title": "lucasyonge",
   "login": "lucasyonge",
   "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
-  "score": 19,
+  "score": 20,
   "commit_count": 4,
-  "review_count": 15,
+  "review_count": 16,
   "repos": [
     "valkey",
     "valkey-container",
@@ -47,6 +47,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "15b45dd9f3",
+      "message": "Delete empty Path Hash keys using the Hash lifecycle (#5068)",
+      "date": "2026-11-03",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5068",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/15b45dd9f3cf4d8e5b2a7d02e126d0444c83441e"
+    },
     {
       "sha": "f986f56b51",
       "message": "Rename PHEXISTS to PHPATHEXISTS (#5069)",

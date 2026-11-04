@@ -2,13 +2,21 @@
   "title": "nitaicaro",
   "login": "nitaicaro",
   "avatar_url": "https://avatars.githubusercontent.com/u/42576749?v=4",
-  "score": 14,
-  "commit_count": 10,
+  "score": 15,
+  "commit_count": 11,
   "review_count": 4,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "6454bcc628",
+      "message": "Forkless Full-Sync (#4797)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4797",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6454bcc6285555d2994957ebb5a57f67f55e9025"
+    },
     {
       "sha": "a230da1a3d",
       "message": "Replica: Tear down background iterators when swapping in a primary's RDB (#5082)",

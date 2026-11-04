@@ -2,13 +2,21 @@
   "title": "uintaam",
   "login": "uintaam",
   "avatar_url": "https://avatars.githubusercontent.com/u/295346?v=4",
-  "score": 18,
-  "commit_count": 18,
+  "score": 19,
+  "commit_count": 19,
   "review_count": 0,
   "repos": [
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "90ef541ea7",
+      "message": "fix(php): free an address resolver when its client is closed, not at request shutdown (#397)",
+      "date": "2026-11-03",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/397",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/90ef541ea79d536e5af1f903d9fbae353532f3a8"
+    },
     {
       "sha": "82dd81ea0a",
       "message": "feat(php): support PHPRedis OPT_SLAVE_FAILOVER on ValkeyGlideCluster (#359)",
