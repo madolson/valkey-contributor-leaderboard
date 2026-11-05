@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 467,
+  "score": 468,
   "commit_count": 167,
-  "review_count": 300,
+  "review_count": 301,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1358,6 +1358,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9b4dcf617d",
+      "message": "Cap the length of inbound cluster bus packets (#5065)",
+      "date": "2026-11-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5065",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9b4dcf617dfd0dc5f267624973f25877a44c66a6"
+    },
+    {
+      "sha": "e3be9b56fb",
+      "message": "Update versions.json and Dockerfiles for version 9.2.0-rc2 (#177)",
+      "date": "2026-11-04",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/177",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/e3be9b56fb26039e4aaf5788cf419740fbdaca54"
+    },
     {
       "sha": "587065c5d1",
       "message": "Update versions.json and Dockerfiles for version 9.0.7 (#176)",

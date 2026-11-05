@@ -2,14 +2,22 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 45,
-  "commit_count": 24,
+  "score": 46,
+  "commit_count": 25,
   "review_count": 21,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "2f41d8eb4b",
+      "message": "feat: add opt-in ClusterIP Service per node (#367) (#490)",
+      "date": "2026-11-04",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/490",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2f41d8eb4be9179745358fe53a783bc88c80fe4e"
+    },
     {
       "sha": "7886067ce4",
       "message": "fix: refresh topology status while a node roll is stuck (#431)",

@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 193,
+  "score": 194,
   "commit_count": 68,
-  "review_count": 125,
+  "review_count": 126,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -557,6 +557,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2f41d8eb4b",
+      "message": "feat: add opt-in ClusterIP Service per node (#367) (#490)",
+      "date": "2026-11-04",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/490",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2f41d8eb4be9179745358fe53a783bc88c80fe4e"
+    },
     {
       "sha": "4d4740a77a",
       "message": "feat: add clientAuth.ca to ValkeyCluster (#573)",

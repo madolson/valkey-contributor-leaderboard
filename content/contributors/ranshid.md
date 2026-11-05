@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 330,
+  "score": 331,
   "commit_count": 96,
-  "review_count": 234,
+  "review_count": 235,
   "repos": [
     "valkey",
     "valkey-container",
@@ -787,6 +787,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d2466b90a2",
+      "message": "Fix UAF in streams when XADD creates a new node (#4711)",
+      "date": "2026-11-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4711",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d2466b90a281344b61256221616d5963a0b3ff52"
+    },
     {
       "sha": "3dc7c35ce2",
       "message": "Document HOTKEYS hot key detection (#460)",

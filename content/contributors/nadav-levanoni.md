@@ -2,9 +2,9 @@
   "title": "nadav-levanoni",
   "login": "nadav-levanoni",
   "avatar_url": "https://avatars.githubusercontent.com/u/38641521?v=4",
-  "score": 21,
+  "score": 24,
   "commit_count": 12,
-  "review_count": 9,
+  "review_count": 12,
   "repos": [
     "valkey",
     "valkey-large-object",
@@ -109,6 +109,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3700e1aa9d",
+      "message": "Use Valkey contributors license and valkey-io repository URL (#181)",
+      "date": "2026-11-04",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/181",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/3700e1aa9da272484ed65ea6a4cb1d1433055540"
+    },
+    {
+      "sha": "7023c05f2c",
+      "message": "Updating chunksize default and max (#180)",
+      "date": "2026-11-04",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/180",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/7023c05f2c4bde20dd171049d2dab7088854971a"
+    },
+    {
+      "sha": "b84a4d8748",
+      "message": "fix TCP GET chunk order on disk reads (#178)",
+      "date": "2026-11-04",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/178",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/b84a4d874829c5d22f7a2918d4dded526dd58657"
+    },
     {
       "sha": "6f17bbbf6f",
       "message": "Commit async SETs on the selected db; reject BLOB GET/SET in MULTI and scripts (#175)",

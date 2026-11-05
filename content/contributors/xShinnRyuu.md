@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 495,
-  "commit_count": 141,
-  "review_count": 354,
+  "score": 497,
+  "commit_count": 142,
+  "review_count": 355,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "b93a39ca7a",
+      "message": "ci(python): add test-filter dispatch input and fix HTML report upload paths (#7539)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7539",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b93a39ca7a3dbdad03c9f54a83e018ef8940ab3a"
+    },
     {
       "sha": "0393387a79",
       "message": "fix(ffi): wait for the pool lock in glide_pool_metrics instead of reporting zeros (#7130)",
@@ -1145,6 +1153,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "575a6e42fd",
+      "message": "Updated attribution files for commit 49e9a77797da1613f3d1b5ebc74416dde8e45458 (#6822)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6822",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/575a6e42fdc6443f5b081d43b93c8803c976a598"
+    },
+    {
+      "sha": "6814e768b3",
+      "message": "fix(ruby): add project license files (#411)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/411",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6814e768b3561c945106255e56fd99985d4ce7da"
+    },
     {
       "sha": "aa6b693e3b",
       "message": "fix(core): resolve cluster redirect addresses (#6788)",

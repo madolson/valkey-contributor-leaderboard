@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 104,
+  "score": 106,
   "commit_count": 62,
-  "review_count": 42,
+  "review_count": 44,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -515,6 +515,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0c1bcf36d7",
+      "message": "Making TCP commands async and client blocking (#182)",
+      "date": "2026-11-05",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/182",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/0c1bcf36d7add2f53343817ee8950e6193999194"
+    },
+    {
+      "sha": "b84a4d8748",
+      "message": "fix TCP GET chunk order on disk reads (#178)",
+      "date": "2026-11-04",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/178",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/b84a4d874829c5d22f7a2918d4dded526dd58657"
+    },
     {
       "sha": "17d5fe59cd",
       "message": "Register string configs as ValkeyGILGuard<ValkeyString> (#151)",

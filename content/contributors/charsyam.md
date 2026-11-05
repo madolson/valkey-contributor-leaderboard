@@ -2,9 +2,9 @@
   "title": "charsyam",
   "login": "charsyam",
   "avatar_url": "https://avatars.githubusercontent.com/u/439301?v=4",
-  "score": 17,
+  "score": 19,
   "commit_count": 15,
-  "review_count": 2,
+  "review_count": 4,
   "repos": [
     "valkey"
   ],
@@ -131,6 +131,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0a9fe22aff",
+      "message": "Guard NULL replica_primary_host in Sentinel INFO handling (#4929)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4929",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0a9fe22affefa7d36c63bb4c13db896682133782"
+    },
+    {
+      "sha": "0a9fe22aff",
+      "message": "Guard NULL replica_primary_host in Sentinel INFO handling (#4929)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4929",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0a9fe22affefa7d36c63bb4c13db896682133782"
+    },
     {
       "sha": "f2ca837edc",
       "message": "Fix memory leak in GetCommandKeysWithFlags (#5046)",

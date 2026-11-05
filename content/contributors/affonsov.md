@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 305,
+  "score": 306,
   "commit_count": 102,
-  "review_count": 203,
+  "review_count": 204,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -831,6 +831,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6ee2447867",
+      "message": "ci(python): add Windows AMD64 and ARM64 wheel builds (#6826)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6826",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6ee2447867e2604f3cae6111f311af5358f44dd4"
+    },
+    {
+      "sha": "575a6e42fd",
+      "message": "Updated attribution files for commit 49e9a77797da1613f3d1b5ebc74416dde8e45458 (#6822)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6822",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/575a6e42fdc6443f5b081d43b93c8803c976a598"
+    },
     {
       "sha": "3b7dd1d17f",
       "message": "ci: install PHP from packages.sury.org and move pinned jobs to ubuntu-26.04 (#386)",

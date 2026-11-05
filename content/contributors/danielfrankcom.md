@@ -2,15 +2,33 @@
   "title": "danielfrankcom",
   "login": "danielfrankcom",
   "avatar_url": "https://avatars.githubusercontent.com/u/15225573?v=4",
-  "score": 8,
-  "commit_count": 8,
+  "score": 10,
+  "commit_count": 10,
   "review_count": 0,
   "repos": [
     "valkey",
+    "valkey-admin",
     "valkey-doc",
+    "valkey-glide-docs",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "9efb398076",
+      "message": "Federate docs search with other Valkey sites (#586)",
+      "date": "2026-11-04",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/586",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/9efb39807633726ee19810e124a67168a2cf9ddc"
+    },
+    {
+      "sha": "0140c4c34b",
+      "message": "feat: federate docs search with other Valkey sites (#366)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/366",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/0140c4c34b18c282c0ea56cb8151710a622124ee"
+    },
     {
       "sha": "6a996d570d",
       "message": "Add automated check to catch broken internal links (#694)",

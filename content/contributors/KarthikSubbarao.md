@@ -2,8 +2,8 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 319,
-  "commit_count": 120,
+  "score": 325,
+  "commit_count": 126,
   "review_count": 199,
   "repos": [
     "valkey",
@@ -18,6 +18,54 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "0c1bcf36d7",
+      "message": "Making TCP commands async and client blocking (#182)",
+      "date": "2026-11-05",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/182",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/0c1bcf36d7add2f53343817ee8950e6193999194"
+    },
+    {
+      "sha": "267d3d60fb",
+      "message": "Default libfabric FI_HMEM to host memory only (#179)",
+      "date": "2026-11-04",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/179",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/267d3d60fbd95034d7b85f6af4fd07fe9cb91fc4"
+    },
+    {
+      "sha": "3700e1aa9d",
+      "message": "Use Valkey contributors license and valkey-io repository URL (#181)",
+      "date": "2026-11-04",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/181",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/3700e1aa9da272484ed65ea6a4cb1d1433055540"
+    },
+    {
+      "sha": "7023c05f2c",
+      "message": "Updating chunksize default and max (#180)",
+      "date": "2026-11-04",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/180",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/7023c05f2c4bde20dd171049d2dab7088854971a"
+    },
+    {
+      "sha": "b84a4d8748",
+      "message": "fix TCP GET chunk order on disk reads (#178)",
+      "date": "2026-11-04",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/178",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/b84a4d874829c5d22f7a2918d4dded526dd58657"
+    },
+    {
+      "sha": "3a68261e4d",
+      "message": "Grow the DRAM pool off the main thread; SETs wait for the grow (#172)",
+      "date": "2026-11-04",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/172",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/3a68261e4d06e0847f345ae34a8c1a1197f15567"
+    },
     {
       "sha": "6f17bbbf6f",
       "message": "Commit async SETs on the selected db; reject BLOB GET/SET in MULTI and scripts (#175)",

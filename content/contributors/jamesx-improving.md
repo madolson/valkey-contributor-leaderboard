@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 389,
+  "score": 393,
   "commit_count": 85,
-  "review_count": 304,
+  "review_count": 308,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -695,6 +695,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6ee2447867",
+      "message": "ci(python): add Windows AMD64 and ARM64 wheel builds (#6826)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6826",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6ee2447867e2604f3cae6111f311af5358f44dd4"
+    },
+    {
+      "sha": "6ee2447867",
+      "message": "ci(python): add Windows AMD64 and ARM64 wheel builds (#6826)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6826",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6ee2447867e2604f3cae6111f311af5358f44dd4"
+    },
+    {
+      "sha": "6ee2447867",
+      "message": "ci(python): add Windows AMD64 and ARM64 wheel builds (#6826)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6826",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6ee2447867e2604f3cae6111f311af5358f44dd4"
+    },
+    {
+      "sha": "6ee2447867",
+      "message": "ci(python): add Windows AMD64 and ARM64 wheel builds (#6826)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6826",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6ee2447867e2604f3cae6111f311af5358f44dd4"
+    },
     {
       "sha": "90ef541ea7",
       "message": "fix(php): free an address resolver when its client is closed, not at request shutdown (#397)",

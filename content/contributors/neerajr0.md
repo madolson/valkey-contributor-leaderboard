@@ -2,9 +2,9 @@
   "title": "neerajr0",
   "login": "neerajr0",
   "avatar_url": "https://avatars.githubusercontent.com/u/55604693?v=4",
-  "score": 35,
+  "score": 37,
   "commit_count": 13,
-  "review_count": 22,
+  "review_count": 24,
   "repos": [
     "valkey-large-object",
     "valkey-search"
@@ -116,6 +116,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "267d3d60fb",
+      "message": "Default libfabric FI_HMEM to host memory only (#179)",
+      "date": "2026-11-04",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/179",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/267d3d60fbd95034d7b85f6af4fd07fe9cb91fc4"
+    },
+    {
+      "sha": "3a68261e4d",
+      "message": "Grow the DRAM pool off the main thread; SETs wait for the grow (#172)",
+      "date": "2026-11-04",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/172",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/3a68261e4d06e0847f345ae34a8c1a1197f15567"
+    },
     {
       "sha": "e266648d7f",
       "message": "use dma-libfabric crates.io release (#162)",

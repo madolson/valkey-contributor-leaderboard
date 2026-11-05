@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 456,
-  "commit_count": 124,
-  "review_count": 332,
+  "score": 466,
+  "commit_count": 127,
+  "review_count": 339,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -18,6 +18,30 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "c86f6ee511",
+      "message": "Free valkey-cli test hint before exiting (#5274)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5274",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c86f6ee511e1a36488feb3b8e62093e69195d332"
+    },
+    {
+      "sha": "4d60ee06fa",
+      "message": "Make Sentinel down-conditions quorum self-contained (#5275)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5275",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4d60ee06fa8d185326b679e0812ba2ca558e1da6"
+    },
+    {
+      "sha": "450c3fffd6",
+      "message": "Make path hash tests compatible with Tcl 8.5 (#5276)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5276",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/450c3fffd6201086c96c7132f666b9d35ac64381"
+    },
     {
       "sha": "d800336542",
       "message": "Fix SENTINEL SIMULATE-FAILURE argument metadata (#5208)",
@@ -1013,12 +1037,76 @@
   ],
   "review_list": [
     {
+      "sha": "5601e9ca68",
+      "message": "Automated Updates for Valkey Bundle (#133)",
+      "date": "2026-11-05",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/133",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/5601e9ca68e5c450987d1b696873cf91ca26b706"
+    },
+    {
       "sha": "76e3291136",
       "message": "onboard valkey-search to backport-eligibility daily runs (#142)",
       "date": "2026-11-04",
       "repo": "valkey-ci-agent",
       "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/142",
       "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/76e32911368f576695c2e62f589cac1c2a521a29"
+    },
+    {
+      "sha": "745775127a",
+      "message": "bgiteration: remove RO list commands as format changing (#5283)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5283",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/745775127af60903ae749ae4c03c8f81786fbf50"
+    },
+    {
+      "sha": "0a9fe22aff",
+      "message": "Guard NULL replica_primary_host in Sentinel INFO handling (#4929)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4929",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0a9fe22affefa7d36c63bb4c13db896682133782"
+    },
+    {
+      "sha": "094dcd660a",
+      "message": "Hash HRANDFIELD and SRANDMEMBER temporary tables case-sensitively (#5167)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5167",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/094dcd660a6c554121f21fb8cd845a16422604b4"
+    },
+    {
+      "sha": "557777cf7c",
+      "message": "Clear the script debugger input buffer when it hits the size limit (#5129)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5129",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/557777cf7c628c663602ad2ff8b137e575f9bd5c"
+    },
+    {
+      "sha": "67e84ec778",
+      "message": "Mark mutually exclusive ZADD and LCS options (#5244)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5244",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/67e84ec77854836cb11a9f8b5dd07da4ebfedcfd"
+    },
+    {
+      "sha": "e6c24adda7",
+      "message": "Mark HEXPIREAT and HPEXPIREAT timestamps as unix-time (#5245)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5245",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e6c24adda762597eb70bff3241dc1c7817e2ac0e"
+    },
+    {
+      "sha": "425e9f2fb1",
+      "message": "Cover HEXPIRE in the hash field count introspection test (#5243)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5243",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/425e9f2fb1aef6060e9bfa4c9d74395aa3bee75c"
     },
     {
       "sha": "30a4df7b2e",

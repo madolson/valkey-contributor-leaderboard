@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 1026,
+  "score": 1028,
   "commit_count": 397,
-  "review_count": 629,
+  "review_count": 631,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3193,12 +3193,28 @@
   ],
   "review_list": [
     {
+      "sha": "9b4dcf617d",
+      "message": "Cap the length of inbound cluster bus packets (#5065)",
+      "date": "2026-11-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5065",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9b4dcf617dfd0dc5f267624973f25877a44c66a6"
+    },
+    {
       "sha": "f9262571d7",
       "message": "Free repeated register_function named arguments (#5120)",
       "date": "2026-11-04",
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/5120",
       "commit_url": "https://github.com/valkey-io/valkey/commit/f9262571d74f3f796584ee38d74e9c2d835cf55f"
+    },
+    {
+      "sha": "94c716abb5",
+      "message": "Fail CONFIG REWRITE when the old config file reads short (#5158)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5158",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/94c716abb583e472ac390b5056c266808dfa47f4"
     },
     {
       "sha": "3664d77c59",

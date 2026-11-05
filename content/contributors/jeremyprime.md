@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 311,
-  "commit_count": 98,
-  "review_count": 213,
+  "score": 314,
+  "commit_count": 99,
+  "review_count": 215,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -14,6 +14,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "db7687766e",
+      "message": "ci: revert doc-only gate on semgrep (#7537)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7537",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/db7687766ec9736b849343818a64f2da191b9b9f"
+    },
     {
       "sha": "3601186645",
       "message": "fix(core): close scope sockets abandoned under a blocking command (#7462)",
@@ -800,6 +808,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b93a39ca7a",
+      "message": "ci(python): add test-filter dispatch input and fix HTML report upload paths (#7539)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7539",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b93a39ca7a3dbdad03c9f54a83e018ef8940ab3a"
+    },
+    {
+      "sha": "0140c4c34b",
+      "message": "feat: federate docs search with other Valkey sites (#366)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/366",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/0140c4c34b18c282c0ea56cb8151710a622124ee"
+    },
     {
       "sha": "bdcfd138ad",
       "message": "refactor: enforce member ordering and one class per file with StyleCop (#615)",

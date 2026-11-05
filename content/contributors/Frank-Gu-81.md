@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 62,
+  "score": 64,
   "commit_count": 31,
-  "review_count": 31,
+  "review_count": 33,
   "repos": [
     "valkey-ci-agent",
     "valkey-doc",
@@ -262,6 +262,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dd28a12467",
+      "message": "fix: copy FT.AGGREGATE/FT.HYBRID params into owned storage (#1650)",
+      "date": "2026-11-04",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1650",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/dd28a1246728937fdc00a15672cc01e16f419c37"
+    },
+    {
+      "sha": "dd28a12467",
+      "message": "fix: copy FT.AGGREGATE/FT.HYBRID params into owned storage (#1650)",
+      "date": "2026-11-04",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1650",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/dd28a1246728937fdc00a15672cc01e16f419c37"
+    },
     {
       "sha": "92b779bdd8",
       "message": "Type-sensitive expression compiler, matching Redis 8 (#1528)",

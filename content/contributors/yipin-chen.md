@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 912,
+  "score": 916,
   "commit_count": 45,
-  "review_count": 867,
+  "review_count": 871,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b93a39ca7a",
+      "message": "ci(python): add test-filter dispatch input and fix HTML report upload paths (#7539)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7539",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b93a39ca7a3dbdad03c9f54a83e018ef8940ab3a"
+    },
+    {
+      "sha": "db7687766e",
+      "message": "ci: revert doc-only gate on semgrep (#7537)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7537",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/db7687766ec9736b849343818a64f2da191b9b9f"
+    },
+    {
+      "sha": "6814e768b3",
+      "message": "fix(ruby): add project license files (#411)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/411",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6814e768b3561c945106255e56fd99985d4ce7da"
+    },
+    {
+      "sha": "6814e768b3",
+      "message": "fix(ruby): add project license files (#411)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/411",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6814e768b3561c945106255e56fd99985d4ce7da"
+    },
     {
       "sha": "fdd2532fa8",
       "message": "docs(ruby): enforce YARD documentation format (#391)",

@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 349,
-  "commit_count": 133,
-  "review_count": 216,
+  "score": 352,
+  "commit_count": 134,
+  "review_count": 218,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "6814e768b3",
+      "message": "fix(ruby): add project license files (#411)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/411",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/6814e768b3561c945106255e56fd99985d4ce7da"
+    },
     {
       "sha": "fdd2532fa8",
       "message": "docs(ruby): enforce YARD documentation format (#391)",
@@ -1082,6 +1090,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "db7687766e",
+      "message": "ci: revert doc-only gate on semgrep (#7537)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7537",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/db7687766ec9736b849343818a64f2da191b9b9f"
+    },
+    {
+      "sha": "0140c4c34b",
+      "message": "feat: federate docs search with other Valkey sites (#366)",
+      "date": "2026-11-04",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/366",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/0140c4c34b18c282c0ea56cb8151710a622124ee"
+    },
     {
       "sha": "b21c4eb343",
       "message": "chore(deps): bump valkey-glide from `db45db5` to `3ea2878` (#618)",

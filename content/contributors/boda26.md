@@ -2,9 +2,9 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 94,
+  "score": 95,
   "commit_count": 58,
-  "review_count": 36,
+  "review_count": 37,
   "repos": [
     "valkey-search"
   ],
@@ -475,6 +475,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7750ee8faf",
+      "message": "Add Record whether SEPARATOR was given for TAG fields (#1576)",
+      "date": "2026-11-04",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1576",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7750ee8faf672b095a282e73bf5d340d3cb9a518"
+    },
     {
       "sha": "8360dc56ec",
       "message": "Filtering/scoring caching and main thread locking improvements (#1472)",

@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 176,
-  "commit_count": 42,
-  "review_count": 134,
+  "score": 201,
+  "commit_count": 45,
+  "review_count": 156,
   "repos": [
     "valkey",
     "valkey-container",
@@ -14,6 +14,30 @@
     "valkey-skills"
   ],
   "commit_list": [
+    {
+      "sha": "67e84ec778",
+      "message": "Mark mutually exclusive ZADD and LCS options (#5244)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5244",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/67e84ec77854836cb11a9f8b5dd07da4ebfedcfd"
+    },
+    {
+      "sha": "e6c24adda7",
+      "message": "Mark HEXPIREAT and HPEXPIREAT timestamps as unix-time (#5245)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5245",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e6c24adda762597eb70bff3241dc1c7817e2ac0e"
+    },
+    {
+      "sha": "425e9f2fb1",
+      "message": "Cover HEXPIRE in the hash field count introspection test (#5243)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5243",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/425e9f2fb1aef6060e9bfa4c9d74395aa3bee75c"
+    },
     {
       "sha": "ce5120736c",
       "message": "deflake ccov: Use _exit() when a child is killed by SIGUSR1 (#4251)",
@@ -352,6 +376,182 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c86f6ee511",
+      "message": "Free valkey-cli test hint before exiting (#5274)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5274",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c86f6ee511e1a36488feb3b8e62093e69195d332"
+    },
+    {
+      "sha": "4d60ee06fa",
+      "message": "Make Sentinel down-conditions quorum self-contained (#5275)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5275",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4d60ee06fa8d185326b679e0812ba2ca558e1da6"
+    },
+    {
+      "sha": "450c3fffd6",
+      "message": "Make path hash tests compatible with Tcl 8.5 (#5276)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5276",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/450c3fffd6201086c96c7132f666b9d35ac64381"
+    },
+    {
+      "sha": "71a43e9dd1",
+      "message": "Return an empty string from lm_asprintf() when vsnprintf() fails (#5122)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5122",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/71a43e9dd13afe376eea748fb501058c48901265"
+    },
+    {
+      "sha": "9f05a35a6b",
+      "message": "Rehash in proportion to scan work when sampling a shrinking hashtable (#5170)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5170",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9f05a35a6b71aa765553cc64fcea689d5111d40e"
+    },
+    {
+      "sha": "4500d5824f",
+      "message": "Fix hllSparseSet aborting on SDS_TYPE_5 strings when deltalen is zero (#5138)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5138",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4500d5824f70955e729945a1cf8d29a11294b9e9"
+    },
+    {
+      "sha": "99f5a75f49",
+      "message": "Reject sparse HLLs that end in a truncated XZERO opcode (#5124)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5124",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/99f5a75f49d3742e05889057af2f352df052f2f0"
+    },
+    {
+      "sha": "99f5a75f49",
+      "message": "Reject sparse HLLs that end in a truncated XZERO opcode (#5124)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5124",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/99f5a75f49d3742e05889057af2f352df052f2f0"
+    },
+    {
+      "sha": "d0f45c1104",
+      "message": "Free functions ctx synchronously when its engine state is not handed over (#5105)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5105",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d0f45c1104f3e4ff368593397b72d9806e0ab98d"
+    },
+    {
+      "sha": "d142467e92",
+      "message": "Only resume a hash defrag scan from the hash scanner's own cursor (#5164)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5164",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d142467e9231b3148c308334c31e5d76869254f9"
+    },
+    {
+      "sha": "e59ba66ec8",
+      "message": "Treat a replica with no known primary as owning no slots (#5184)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5184",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e59ba66ec82e8edec1de3d143a3bf134a94b4a08"
+    },
+    {
+      "sha": "3cdf86c0bb",
+      "message": "functions: key per-engine stats by registered name, not shebang text (#5115)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5115",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3cdf86c0bbf2c6374b4ba2d80b4d319466df37d2"
+    },
+    {
+      "sha": "ff117b00af",
+      "message": "Dirty every client WATCHing a key that was expired at WATCH time (#5169)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5169",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ff117b00afd6d068f20e8d4e51f8b0624bda0533"
+    },
+    {
+      "sha": "c921c0a3d0",
+      "message": "Free the ACL log object when the ACL log is disabled (#5162)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5162",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c921c0a3d0c1dc5e11960dbebdbdedb1bd01a041"
+    },
+    {
+      "sha": "94c716abb5",
+      "message": "Fail CONFIG REWRITE when the old config file reads short (#5158)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5158",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/94c716abb583e472ac390b5056c266808dfa47f4"
+    },
+    {
+      "sha": "439d297a67",
+      "message": "Reject ValkeyModule_Calloc requests whose nmemb * size overflows (#5155)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5155",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/439d297a67f55e9d2929cac10239dd35b0643bbe"
+    },
+    {
+      "sha": "88c77ea816",
+      "message": "Check for an attribute reply in RM_CallReplyAttributeElement (#5157)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5157",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/88c77ea816af68d16917b6072580c246c7b38146"
+    },
+    {
+      "sha": "2b1fc8c1f7",
+      "message": "Skip throttled clients in processPendingCommandAndInputBuffer (#5160)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5160",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2b1fc8c1f7ad4b490d3259b87347791d379ee99e"
+    },
+    {
+      "sha": "fb22585dc7",
+      "message": "Fix integer overflow in SORT BY/GET pattern key substitution (#5146)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5146",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/fb22585dc7f42102e7c9e8a9574b60faacd8e093"
+    },
+    {
+      "sha": "7035f412c0",
+      "message": "Drop repeated EX/PX/EXAT when propagating HSETEX and MSETEX (#5088)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5088",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7035f412c0242774113b8a66e66f653ea68d9399"
+    },
+    {
+      "sha": "67bf7c3d86",
+      "message": "Share the Lua hook between coroutines so SCRIPT KILL reaches them all (#5108)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5108",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/67bf7c3d86d908bda24a389e11e7317e0ba4cff8"
+    },
+    {
+      "sha": "b47c9632ec",
+      "message": "Treat key specs that start past the last argument as matching no keys (#5087)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5087",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b47c9632ecd01d605ec276a8e84979f1edac0c2a"
+    },
     {
       "sha": "d800336542",
       "message": "Fix SENTINEL SIMULATE-FAILURE argument metadata (#5208)",

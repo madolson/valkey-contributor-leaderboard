@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 143,
+  "score": 144,
   "commit_count": 79,
-  "review_count": 64,
+  "review_count": 65,
   "repos": [
     "valkey-admin"
   ],
@@ -643,6 +643,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9efb398076",
+      "message": "Federate docs search with other Valkey sites (#586)",
+      "date": "2026-11-04",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/586",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/9efb39807633726ee19810e124a67168a2cf9ddc"
+    },
     {
       "sha": "0caa751125",
       "message": "Run LFU cluster, default cluster and standalone Valkey from one script (#584)",

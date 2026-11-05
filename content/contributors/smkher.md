@@ -2,8 +2,8 @@
   "title": "smkher",
   "login": "smkher",
   "avatar_url": "https://avatars.githubusercontent.com/u/3863574?v=4",
-  "score": 8,
-  "commit_count": 7,
+  "score": 9,
+  "commit_count": 8,
   "review_count": 1,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "0a9fe22aff",
+      "message": "Guard NULL replica_primary_host in Sentinel INFO handling (#4929)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4929",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0a9fe22affefa7d36c63bb4c13db896682133782"
+    },
     {
       "sha": "1519066403",
       "message": "Drop WRITE flag from pausetest timer commands to shorten test sleeps (#4817)",

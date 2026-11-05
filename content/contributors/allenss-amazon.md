@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 342,
+  "score": 344,
   "commit_count": 90,
-  "review_count": 252,
+  "review_count": 254,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -735,6 +735,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dd28a12467",
+      "message": "fix: copy FT.AGGREGATE/FT.HYBRID params into owned storage (#1650)",
+      "date": "2026-11-04",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1650",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/dd28a1246728937fdc00a15672cc01e16f419c37"
+    },
+    {
+      "sha": "7750ee8faf",
+      "message": "Add Record whether SEPARATOR was given for TAG fields (#1576)",
+      "date": "2026-11-04",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1576",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/7750ee8faf672b095a282e73bf5d340d3cb9a518"
+    },
     {
       "sha": "859e328468",
       "message": "test(cursor): Fix race in DestructionObeysBackgroundCleanupSetting (#1511)",

@@ -2,15 +2,23 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 52,
-  "commit_count": 24,
-  "review_count": 28,
+  "score": 59,
+  "commit_count": 25,
+  "review_count": 34,
   "repos": [
     "valkey",
     "valkey-container",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "d2466b90a2",
+      "message": "Fix UAF in streams when XADD creates a new node (#4711)",
+      "date": "2026-11-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4711",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d2466b90a281344b61256221616d5963a0b3ff52"
+    },
     {
       "sha": "b55889b376",
       "message": "Deflake the slot-migration failover tests (#4795)",
@@ -205,6 +213,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c86f6ee511",
+      "message": "Free valkey-cli test hint before exiting (#5274)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5274",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c86f6ee511e1a36488feb3b8e62093e69195d332"
+    },
+    {
+      "sha": "4d60ee06fa",
+      "message": "Make Sentinel down-conditions quorum self-contained (#5275)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5275",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4d60ee06fa8d185326b679e0812ba2ca558e1da6"
+    },
+    {
+      "sha": "450c3fffd6",
+      "message": "Make path hash tests compatible with Tcl 8.5 (#5276)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5276",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/450c3fffd6201086c96c7132f666b9d35ac64381"
+    },
+    {
+      "sha": "67e84ec778",
+      "message": "Mark mutually exclusive ZADD and LCS options (#5244)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5244",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/67e84ec77854836cb11a9f8b5dd07da4ebfedcfd"
+    },
+    {
+      "sha": "e6c24adda7",
+      "message": "Mark HEXPIREAT and HPEXPIREAT timestamps as unix-time (#5245)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5245",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e6c24adda762597eb70bff3241dc1c7817e2ac0e"
+    },
+    {
+      "sha": "425e9f2fb1",
+      "message": "Cover HEXPIRE in the hash field count introspection test (#5243)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5243",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/425e9f2fb1aef6060e9bfa4c9d74395aa3bee75c"
+    },
     {
       "sha": "b3b5ab983f",
       "message": "Feature pathhash prefixes (#5070)",

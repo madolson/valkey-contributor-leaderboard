@@ -2,14 +2,22 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 90,
-  "commit_count": 28,
-  "review_count": 62,
+  "score": 92,
+  "commit_count": 29,
+  "review_count": 63,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "745775127a",
+      "message": "bgiteration: remove RO list commands as format changing (#5283)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5283",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/745775127af60903ae749ae4c03c8f81786fbf50"
+    },
     {
       "sha": "3ef5fef19f",
       "message": "bgiteration: avoid missing key check for multi/exec commands (#5205)",
@@ -243,6 +251,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4797",
       "commit_url": "https://github.com/valkey-io/valkey/commit/6454bcc6285555d2994957ebb5a57f67f55e9025"
+    },
+    {
+      "sha": "130b36084a",
+      "message": "Stop zset ops from rewriting keyspace set members during lookups (#5110)",
+      "date": "2026-11-04",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5110",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/130b36084a27e0ba97fbb6a0a2a52a66428fc9b1"
     },
     {
       "sha": "9ff39f353c",

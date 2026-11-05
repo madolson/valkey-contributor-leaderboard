@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 307,
+  "score": 308,
   "commit_count": 138,
-  "review_count": 169,
+  "review_count": 170,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1119,6 +1119,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "58a693de6f",
+      "message": "fix: drop redundant initialDelaySeconds from liveness and readiness probe (#534)",
+      "date": "2026-11-04",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/534",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/58a693de6f422a9de19538b8f4540e74f1fc6375"
+    },
+    {
+      "sha": "c827422632",
+      "message": "chore(deps): bump actions/download-artifact from 8.0.1 to 8.0.2 (#568)",
+      "date": "2026-11-04",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/568",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c827422632168cab19709924c8c046171ce72dc1"
+    },
+    {
+      "sha": "79b1ff1890",
+      "message": "chore(deps): bump docker/login-action from 4.6.0 to 4.7.0 (#569)",
+      "date": "2026-11-04",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/569",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/79b1ff18904f11cb0ffa8c5a3478a9a88af96134"
+    },
+    {
+      "sha": "501fea1e56",
+      "message": "chore(deps): bump actions/upload-artifact from 7.0.1 to 7.0.2 (#570)",
+      "date": "2026-11-04",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/570",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/501fea1e566eb4f86872edd29755d29fbb1b5f0b"
+    },
     {
       "sha": "0beba949b5",
       "message": "Release valkey-resources 0.5.0 (#306)",
