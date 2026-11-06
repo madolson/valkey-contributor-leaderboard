@@ -2,9 +2,9 @@
   "title": "somaz94",
   "login": "somaz94",
   "avatar_url": "https://avatars.githubusercontent.com/u/112675579?v=4",
-  "score": 5,
+  "score": 6,
   "commit_count": 4,
-  "review_count": 1,
+  "review_count": 2,
   "repos": [
     "valkey-helm"
   ],
@@ -43,6 +43,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b18ca5b2b2",
+      "message": "feat(valkey): enable the readiness probe by default (#293)",
+      "date": "2026-11-05",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/293",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/b18ca5b2b2e5ac26eb81b9b4a60a21aa58b20434"
+    },
     {
       "sha": "6a19e8bbca",
       "message": "fix(valkey): authenticate the health probes and check the reply (#277)",

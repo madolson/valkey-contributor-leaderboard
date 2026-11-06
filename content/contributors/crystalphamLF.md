@@ -2,13 +2,22 @@
   "title": "crystalphamLF",
   "login": "crystalphamLF",
   "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
-  "score": 11,
-  "commit_count": 10,
+  "score": 12,
+  "commit_count": 11,
   "review_count": 1,
   "repos": [
+    "assets",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "0479b9ef7f",
+      "message": "Replace corrupted PDF with verified brand guidelines",
+      "date": "2026-11-05",
+      "repo": "assets",
+      "pr_url": "https://github.com/valkey-io/assets/pull/1",
+      "commit_url": "https://github.com/valkey-io/assets/commit/0479b9ef7f3c7a57599199cb0376c209a1f03234"
+    },
     {
       "sha": "8566895abc",
       "message": "Add ValkeyConf closing keynote blog (#711)",

@@ -2,10 +2,11 @@
   "title": "danielfrankcom",
   "login": "danielfrankcom",
   "avatar_url": "https://avatars.githubusercontent.com/u/15225573?v=4",
-  "score": 10,
-  "commit_count": 10,
+  "score": 11,
+  "commit_count": 11,
   "review_count": 0,
   "repos": [
+    "spring-data-valkey",
     "valkey",
     "valkey-admin",
     "valkey-doc",
@@ -13,6 +14,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "68cd5e32aa",
+      "message": "Federate docs search with other Valkey sites (#118)",
+      "date": "2026-11-05",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/118",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/68cd5e32aa393c2bad2fc626b5e357b0aa6981b1"
+    },
     {
       "sha": "9efb398076",
       "message": "Federate docs search with other Valkey sites (#586)",

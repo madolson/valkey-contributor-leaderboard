@@ -210001,6 +210001,474 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1576"
+    },
+    {
+      "sha": "e42e526f8b24312b43e19bc42c55a08d20e06ffb",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Merge pull request #1 from crystalphamLF/fix/logo-alignment",
+      "date": "2026-11-05T22:24:24Z",
+      "repo": "assets",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "0479b9ef7f3c7a57599199cb0376c209a1f03234",
+      "author_login": "crystalphamLF",
+      "author_id": 211876879,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
+      "message": "Replace corrupted PDF with verified brand guidelines",
+      "date": "2026-11-05T21:27:03Z",
+      "repo": "assets",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-11-05T22:24:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/assets/pull/1"
+    },
+    {
+      "sha": "50fd6b63d64406ea5fe61c3da3525f5e70c2a028",
+      "author_login": "crystalphamLF",
+      "author_id": 211876879,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
+      "message": "Restore updated brand guidelines PDF",
+      "date": "2026-11-05T21:27:03Z",
+      "repo": "assets",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-11-05T22:24:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/assets/pull/1"
+    },
+    {
+      "sha": "2b1e01d9e974386970db541d6d00567d7807b486",
+      "author_login": "crystalphamLF",
+      "author_id": 211876879,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
+      "message": "Replace brand guidelines with updated PDF",
+      "date": "2026-11-05T21:26:59Z",
+      "repo": "assets",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-11-05T22:24:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/assets/pull/1"
+    },
+    {
+      "sha": "db93a806ba3fbdad36dc881c1835188d9054c256",
+      "author_login": "crystalphamLF",
+      "author_id": 211876879,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
+      "message": "Update brand guidelines with aligned logos and Open Sans",
+      "date": "2026-11-05T21:26:57Z",
+      "repo": "assets",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-11-05T22:24:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/assets/pull/1"
+    },
+    {
+      "sha": "74fc212bc17d7d54a01daf20cdaca68157eb61ba",
+      "author_login": "crystalphamLF",
+      "author_id": 211876879,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
+      "message": "Fix alignment in Valkey logo SVGs",
+      "date": "2026-11-05T21:26:13Z",
+      "repo": "assets",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-11-05T22:24:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/assets/pull/1"
+    },
+    {
+      "sha": "68cd5e32aa393c2bad2fc626b5e357b0aa6981b1",
+      "author_login": "danielfrankcom",
+      "author_id": 15225573,
+      "avatar_url": "https://avatars.githubusercontent.com/u/15225573?v=4",
+      "message": "Federate docs search with other Valkey sites (#118)",
+      "date": "2026-11-05T15:57:56Z",
+      "repo": "spring-data-valkey",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-11-03T18:17:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/118"
+    },
+    {
+      "sha": "c96bdec601529c26fee831a1fca7b9e1eea14a8f",
+      "author_login": "nitaicaro",
+      "author_id": 42576749,
+      "avatar_url": "https://avatars.githubusercontent.com/u/42576749?v=4",
+      "message": "Stabilize forkless replication tests (#5307)",
+      "date": "2026-11-06T03:14:46Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "JimB123",
+          "date": "2026-11-06T03:12:58Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5307"
+    },
+    {
+      "sha": "11555f12218fcac53a385edb2c4282357d580b34",
+      "author_login": "Baraa-Hasheesh",
+      "author_id": 202973079,
+      "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
+      "message": "[TEST] Speed up \"client evicted due to client tracking prefixes\" test (#4854)",
+      "date": "2026-11-06T02:19:54Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-11-06T02:19:27Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4854"
+    },
+    {
+      "sha": "6fc33cfa8b5c773997171a72b85dd52a0dafe73f",
+      "author_login": "Baraa-Hasheesh",
+      "author_id": 202973079,
+      "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
+      "message": "Isolate \"GEOSEARCH BYPOLYGON standard operations\" test (#5293)",
+      "date": "2026-11-05T23:46:38Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-11-05T23:46:26Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5293"
+    },
+    {
+      "sha": "85b827c39c2b0087dca8a5629fe4215287e80033",
+      "author_login": "taham0",
+      "author_id": 76549451,
+      "avatar_url": "https://avatars.githubusercontent.com/u/76549451?v=4",
+      "message": "Size the bgiteration queue on items left over from the last feed (#5298)",
+      "date": "2026-11-05T23:33:38Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "JimB123",
+          "date": "2026-11-05T23:32:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5298"
+    },
+    {
+      "sha": "7836c5afe155c46d9093790b2e7f281d118b968c",
+      "author_login": "Sasidharan3094",
+      "author_id": 56465593,
+      "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
+      "message": "Fix for XINFO GROUPS reports too-high lag after XTRIM removes unread \u2026 (#4983)",
+      "date": "2026-11-05T17:59:51Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "lucasyonge",
+          "date": "2026-10-22T17:51:00Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4983"
+    },
+    {
+      "sha": "686abfe751a7cb0fb21e29d6999119ec80e2bb8f",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Skip copy-avoidance test during reply schema validation (#5287)",
+      "date": "2026-11-05T07:53:41Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-11-05T06:52:04Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5287"
+    },
+    {
+      "sha": "4f3dba63fb4f2745c46857dc529d5f75d5989992",
+      "author_login": "pirate329",
+      "author_id": 95901729,
+      "avatar_url": "https://avatars.githubusercontent.com/u/95901729?v=4",
+      "message": "Keep the 'n' keyspace event flag when 'A' is set (#5199)",
+      "date": "2026-11-05T06:51:14Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-11-05T06:50:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5199"
+    },
+    {
+      "sha": "61df4880e81b3a6842135b49b9cd6ea7e35bd16a",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Let the CI fix repair a job that broke in its build (#145)",
+      "date": "2026-11-05T21:33:59Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b6a2619fa45272be9a2e236b0aeea52a5bd64d5a",
+      "author_login": "yanamolo",
+      "author_id": 59420437,
+      "avatar_url": "https://avatars.githubusercontent.com/u/59420437?v=4",
+      "message": "Document CLIENT CAPA redirect for keyless commands on cluster replicas (#534)",
+      "date": "2026-11-05T14:44:29Z",
+      "repo": "valkey-doc",
+      "reviewed": [
+        {
+          "login": "ranshid",
+          "date": "2026-11-05T14:02:15Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/534"
+    },
+    {
+      "sha": "d3f0b3fb63c4cdfae2dafe63c020a925294dba02",
+      "author_login": "nderraugh",
+      "author_id": 970382,
+      "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
+      "message": "perf(java): cut integTest fixed waits from 14 min to 8.5 min (#7506)",
+      "date": "2026-11-06T02:14:23Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-11-04T00:51:14Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-11-04T21:16:42Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-11-05T05:42:50Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-11-05T15:16:38Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7506"
+    },
+    {
+      "sha": "f63dba5605d992263bd299de522cbad14727a6e0",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "build(deps): remove pin-utils (RUSTSEC-2026-0441) (#7572)",
+      "date": "2026-11-05T21:45:27Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-11-05T20:33:55Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-11-05T20:37:44Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-11-05T20:38:00Z"
+        },
+        {
+          "login": "jeremyprime",
+          "date": "2026-11-05T20:41:12Z"
+        },
+        {
+          "login": "nderraugh",
+          "date": "2026-11-05T20:49:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7572"
+    },
+    {
+      "sha": "b973be0d6601434bdc9411e053276cf9db08d472",
+      "author_login": "Jonathan-Improving",
+      "author_id": 235582407,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
+      "message": "feat(go): valkey-search 1.3 stable surface (#7380)",
+      "date": "2026-11-05T19:49:55Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "affonsov",
+          "date": "2026-11-04T21:51:43Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-11-05T00:10:35Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7380"
+    },
+    {
+      "sha": "d0c70a5635750e99f72716f3b83308b3a88972b4",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "docs: update pool, isolated scope, and recovery queue (#368)",
+      "date": "2026-11-05T22:31:04Z",
+      "repo": "valkey-glide-docs",
+      "reviewed": [
+        {
+          "login": "jeremyprime",
+          "date": "2026-11-05T19:29:13Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/368"
+    },
+    {
+      "sha": "185c9d412693265900851281fa5fb7b651865fcd",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "chore(ruby): prepare 1.1.0 release (#410)",
+      "date": "2026-11-05T16:39:20Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-11-03T15:53:36Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-11-05T16:00:49Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-11-05T16:10:58Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/410"
+    },
+    {
+      "sha": "b18ca5b2b2e5ac26eb81b9b4a60a21aa58b20434",
+      "author_login": "martin-mat",
+      "author_id": 9771301,
+      "avatar_url": "https://avatars.githubusercontent.com/u/9771301?v=4",
+      "message": "feat(valkey): enable the readiness probe by default (#293)",
+      "date": "2026-11-05T14:26:25Z",
+      "repo": "valkey-helm",
+      "reviewed": [
+        {
+          "login": "somaz94",
+          "date": "2026-10-26T01:32:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/293"
+    },
+    {
+      "sha": "6934449486e6fa0c3a873c7204e1aa767c5aea1c",
+      "author_login": "zuiderkwast",
+      "author_id": 273886,
+      "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
+      "message": "Add space above h2 headings in the docs content (#736)",
+      "date": "2026-11-05T23:27:28Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-11-05T19:08:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/736"
+    },
+    {
+      "sha": "5d6ae08cfd125df7686316624416038e600dc238",
+      "author_login": "khrisrichardson",
+      "author_id": 3643677,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3643677?v=4",
+      "message": "refactor: name the trust bundle Secret valkey-<cluster>-tls-trust (#594)",
+      "date": "2026-11-05T07:31:35Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-11-05T07:31:06Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/594"
+    },
+    {
+      "sha": "dca21c9f43b09c25d93164a316590572d13aec44",
+      "author_login": "lucasyonge",
+      "author_id": 198354786,
+      "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
+      "message": "Improve some performace (#26)",
+      "date": "2026-11-05T22:16:37Z",
+      "repo": "valkey-proxy",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b498f08012d59d8f4b15a0e6f4fff7a257240f4a",
+      "author_login": "KIvanow",
+      "author_id": 541999,
+      "avatar_url": "https://avatars.githubusercontent.com/u/541999?v=4",
+      "message": "Answer CLIENT LIST with the proxy's own clients (#22)",
+      "date": "2026-11-05T21:54:57Z",
+      "repo": "valkey-proxy",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "617e9255c36c76f8b3d029cb788371fae0e5ab77",
+      "author_login": "cxljs",
+      "author_id": 24987055,
+      "avatar_url": "https://avatars.githubusercontent.com/u/24987055?v=4",
+      "message": "Reuse worker_sync_topology() for worker startup topology seeding (#24)",
+      "date": "2026-11-05T21:34:11Z",
+      "repo": "valkey-proxy",
+      "reviewed": [
+        {
+          "login": "lucasyonge",
+          "date": "2026-11-05T21:34:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-proxy/pull/24"
+    },
+    {
+      "sha": "6d642b62d8dd9cf4e470d24716e2550aeb41ba6f",
+      "author_login": "BastiaanMeijer2002",
+      "author_id": 112699904,
+      "avatar_url": "https://avatars.githubusercontent.com/u/112699904?v=4",
+      "message": "Support DNS hostnames for cluster seed connections (#25)",
+      "date": "2026-11-05T20:40:21Z",
+      "repo": "valkey-proxy",
+      "reviewed": [
+        {
+          "login": "lucasyonge",
+          "date": "2026-11-05T20:40:08Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-proxy/pull/25"
     }
   ]
 }

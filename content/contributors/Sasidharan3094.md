@@ -2,15 +2,24 @@
   "title": "Sasidharan3094",
   "login": "Sasidharan3094",
   "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
-  "score": 45,
-  "commit_count": 32,
+  "score": 46,
+  "commit_count": 33,
   "review_count": 13,
   "repos": [
+    "valkey",
     "valkey-glide",
     "valkey-glide-ruby",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "7836c5afe1",
+      "message": "Fix for XINFO GROUPS reports too-high lag after XTRIM removes unread \u2026 (#4983)",
+      "date": "2026-11-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4983",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7836c5afe155c46d9093790b2e7f281d118b968c"
+    },
     {
       "sha": "edb81cc2dc",
       "message": "Add blog post: Introducing the Valkey GLIDE Ruby Client (#672)",

@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 331,
+  "score": 332,
   "commit_count": 96,
-  "review_count": 235,
+  "review_count": 236,
   "repos": [
     "valkey",
     "valkey-container",
@@ -794,6 +794,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4711",
       "commit_url": "https://github.com/valkey-io/valkey/commit/d2466b90a281344b61256221616d5963a0b3ff52"
+    },
+    {
+      "sha": "b6a2619fa4",
+      "message": "Document CLIENT CAPA redirect for keyless commands on cluster replicas (#534)",
+      "date": "2026-11-05",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/534",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/b6a2619fa45272be9a2e236b0aeea52a5bd64d5a"
     },
     {
       "sha": "3dc7c35ce2",

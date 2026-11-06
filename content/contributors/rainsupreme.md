@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 201,
+  "score": 203,
   "commit_count": 45,
-  "review_count": 156,
+  "review_count": 158,
   "repos": [
     "valkey",
     "valkey-container",
@@ -376,6 +376,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "11555f1221",
+      "message": "[TEST] Speed up \"client evicted due to client tracking prefixes\" test (#4854)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4854",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/11555f12218fcac53a385edb2c4282357d580b34"
+    },
+    {
+      "sha": "6fc33cfa8b",
+      "message": "Isolate \"GEOSEARCH BYPOLYGON standard operations\" test (#5293)",
+      "date": "2026-11-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5293",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6fc33cfa8b5c773997171a72b85dd52a0dafe73f"
+    },
     {
       "sha": "c86f6ee511",
       "message": "Free valkey-cli test hint before exiting (#5274)",

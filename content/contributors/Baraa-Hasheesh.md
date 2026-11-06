@@ -2,8 +2,8 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 59,
-  "commit_count": 25,
+  "score": 61,
+  "commit_count": 27,
   "review_count": 34,
   "repos": [
     "valkey",
@@ -12,12 +12,28 @@
   ],
   "commit_list": [
     {
+      "sha": "11555f1221",
+      "message": "[TEST] Speed up \"client evicted due to client tracking prefixes\" test (#4854)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4854",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/11555f12218fcac53a385edb2c4282357d580b34"
+    },
+    {
       "sha": "d2466b90a2",
       "message": "Fix UAF in streams when XADD creates a new node (#4711)",
       "date": "2026-11-05",
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4711",
       "commit_url": "https://github.com/valkey-io/valkey/commit/d2466b90a281344b61256221616d5963a0b3ff52"
+    },
+    {
+      "sha": "6fc33cfa8b",
+      "message": "Isolate \"GEOSEARCH BYPOLYGON standard operations\" test (#5293)",
+      "date": "2026-11-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5293",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6fc33cfa8b5c773997171a72b85dd52a0dafe73f"
     },
     {
       "sha": "b55889b376",

@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 1028,
+  "score": 1030,
   "commit_count": 397,
-  "review_count": 631,
+  "review_count": 633,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3199,6 +3199,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/5065",
       "commit_url": "https://github.com/valkey-io/valkey/commit/9b4dcf617dfd0dc5f267624973f25877a44c66a6"
+    },
+    {
+      "sha": "686abfe751",
+      "message": "Skip copy-avoidance test during reply schema validation (#5287)",
+      "date": "2026-11-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5287",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/686abfe751a7cb0fb21e29d6999119ec80e2bb8f"
+    },
+    {
+      "sha": "4f3dba63fb",
+      "message": "Keep the 'n' keyspace event flag when 'A' is set (#5199)",
+      "date": "2026-11-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5199",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/4f3dba63fb4f2745c46857dc529d5f75d5989992"
     },
     {
       "sha": "f9262571d7",

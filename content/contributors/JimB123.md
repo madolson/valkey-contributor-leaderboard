@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 92,
+  "score": 94,
   "commit_count": 29,
-  "review_count": 63,
+  "review_count": 65,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -244,6 +244,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c96bdec601",
+      "message": "Stabilize forkless replication tests (#5307)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5307",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c96bdec601529c26fee831a1fca7b9e1eea14a8f"
+    },
+    {
+      "sha": "85b827c39c",
+      "message": "Size the bgiteration queue on items left over from the last feed (#5298)",
+      "date": "2026-11-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5298",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/85b827c39c2b0087dca8a5629fe4215287e80033"
+    },
     {
       "sha": "6454bcc628",
       "message": "Forkless Full-Sync (#4797)",

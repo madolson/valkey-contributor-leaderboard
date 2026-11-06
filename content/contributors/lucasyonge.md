@@ -2,9 +2,9 @@
   "title": "lucasyonge",
   "login": "lucasyonge",
   "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
-  "score": 20,
+  "score": 23,
   "commit_count": 4,
-  "review_count": 16,
+  "review_count": 19,
   "repos": [
     "valkey",
     "valkey-container",
@@ -47,6 +47,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7836c5afe1",
+      "message": "Fix for XINFO GROUPS reports too-high lag after XTRIM removes unread \u2026 (#4983)",
+      "date": "2026-11-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4983",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7836c5afe155c46d9093790b2e7f281d118b968c"
+    },
+    {
+      "sha": "617e9255c3",
+      "message": "Reuse worker_sync_topology() for worker startup topology seeding (#24)",
+      "date": "2026-11-05",
+      "repo": "valkey-proxy",
+      "pr_url": "https://github.com/valkey-io/valkey-proxy/pull/24",
+      "commit_url": "https://github.com/valkey-io/valkey-proxy/commit/617e9255c36c76f8b3d029cb788371fae0e5ab77"
+    },
+    {
+      "sha": "6d642b62d8",
+      "message": "Support DNS hostnames for cluster seed connections (#25)",
+      "date": "2026-11-05",
+      "repo": "valkey-proxy",
+      "pr_url": "https://github.com/valkey-io/valkey-proxy/pull/25",
+      "commit_url": "https://github.com/valkey-io/valkey-proxy/commit/6d642b62d8dd9cf4e470d24716e2550aeb41ba6f"
+    },
     {
       "sha": "15b45dd9f3",
       "message": "Delete empty Path Hash keys using the Hash lifecycle (#5068)",

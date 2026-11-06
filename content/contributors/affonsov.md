@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 306,
+  "score": 308,
   "commit_count": 102,
-  "review_count": 204,
+  "review_count": 206,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -831,6 +831,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f63dba5605",
+      "message": "build(deps): remove pin-utils (RUSTSEC-2026-0441) (#7572)",
+      "date": "2026-11-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7572",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f63dba5605d992263bd299de522cbad14727a6e0"
+    },
+    {
+      "sha": "b973be0d66",
+      "message": "feat(go): valkey-search 1.3 stable surface (#7380)",
+      "date": "2026-11-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7380",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b973be0d6601434bdc9411e053276cf9db08d472"
+    },
     {
       "sha": "6ee2447867",
       "message": "ci(python): add Windows AMD64 and ARM64 wheel builds (#6826)",

@@ -2,14 +2,23 @@
   "title": "yanamolo",
   "login": "yanamolo",
   "avatar_url": "https://avatars.githubusercontent.com/u/59420437?v=4",
-  "score": 15,
-  "commit_count": 15,
+  "score": 16,
+  "commit_count": 16,
   "review_count": 0,
   "repos": [
     "valkey",
+    "valkey-doc",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "b6a2619fa4",
+      "message": "Document CLIENT CAPA redirect for keyless commands on cluster replicas (#534)",
+      "date": "2026-11-05",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/534",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/b6a2619fa45272be9a2e236b0aeea52a5bd64d5a"
+    },
     {
       "sha": "69bd02b2e4",
       "message": "Extend CAPA REDIRECT to cover keyless commands on cluster replicas (#3505)",

@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 497,
-  "commit_count": 142,
-  "review_count": 355,
+  "score": 500,
+  "commit_count": 143,
+  "review_count": 357,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "f63dba5605",
+      "message": "build(deps): remove pin-utils (RUSTSEC-2026-0441) (#7572)",
+      "date": "2026-11-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7572",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f63dba5605d992263bd299de522cbad14727a6e0"
+    },
     {
       "sha": "b93a39ca7a",
       "message": "ci(python): add test-filter dispatch input and fix HTML report upload paths (#7539)",
@@ -1153,6 +1161,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d3f0b3fb63",
+      "message": "perf(java): cut integTest fixed waits from 14 min to 8.5 min (#7506)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7506",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d3f0b3fb63c4cdfae2dafe63c020a925294dba02"
+    },
+    {
+      "sha": "d3f0b3fb63",
+      "message": "perf(java): cut integTest fixed waits from 14 min to 8.5 min (#7506)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7506",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d3f0b3fb63c4cdfae2dafe63c020a925294dba02"
+    },
     {
       "sha": "575a6e42fd",
       "message": "Updated attribution files for commit 49e9a77797da1613f3d1b5ebc74416dde8e45458 (#6822)",

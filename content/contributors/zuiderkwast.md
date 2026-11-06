@@ -2,8 +2,8 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1319,
-  "commit_count": 160,
+  "score": 1320,
+  "commit_count": 161,
   "review_count": 1159,
   "repos": [
     "libvalkey",
@@ -20,6 +20,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "6934449486",
+      "message": "Add space above h2 headings in the docs content (#736)",
+      "date": "2026-11-05",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/736",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/6934449486e6fa0c3a873c7204e1aa767c5aea1c"
+    },
     {
       "sha": "679d3f5ae9",
       "message": "Add a structured menu for the documentation (nav.yml) (#513)",

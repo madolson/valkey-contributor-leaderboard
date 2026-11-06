@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 916,
+  "score": 920,
   "commit_count": 45,
-  "review_count": 871,
+  "review_count": 875,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d3f0b3fb63",
+      "message": "perf(java): cut integTest fixed waits from 14 min to 8.5 min (#7506)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7506",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d3f0b3fb63c4cdfae2dafe63c020a925294dba02"
+    },
+    {
+      "sha": "f63dba5605",
+      "message": "build(deps): remove pin-utils (RUSTSEC-2026-0441) (#7572)",
+      "date": "2026-11-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7572",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f63dba5605d992263bd299de522cbad14727a6e0"
+    },
+    {
+      "sha": "185c9d4126",
+      "message": "chore(ruby): prepare 1.1.0 release (#410)",
+      "date": "2026-11-05",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/410",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/185c9d412693265900851281fa5fb7b651865fcd"
+    },
+    {
+      "sha": "185c9d4126",
+      "message": "chore(ruby): prepare 1.1.0 release (#410)",
+      "date": "2026-11-05",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/410",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/185c9d412693265900851281fa5fb7b651865fcd"
+    },
     {
       "sha": "b93a39ca7a",
       "message": "ci(python): add test-filter dispatch input and fix HTML report upload paths (#7539)",

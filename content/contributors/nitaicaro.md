@@ -2,13 +2,21 @@
   "title": "nitaicaro",
   "login": "nitaicaro",
   "avatar_url": "https://avatars.githubusercontent.com/u/42576749?v=4",
-  "score": 15,
-  "commit_count": 11,
+  "score": 16,
+  "commit_count": 12,
   "review_count": 4,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "c96bdec601",
+      "message": "Stabilize forkless replication tests (#5307)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5307",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c96bdec601529c26fee831a1fca7b9e1eea14a8f"
+    },
     {
       "sha": "6454bcc628",
       "message": "Forkless Full-Sync (#4797)",

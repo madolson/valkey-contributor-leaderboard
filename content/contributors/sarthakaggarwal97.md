@@ -2,8 +2,8 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 466,
-  "commit_count": 127,
+  "score": 467,
+  "commit_count": 128,
   "review_count": 339,
   "repos": [
     "valkey",
@@ -18,6 +18,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "686abfe751",
+      "message": "Skip copy-avoidance test during reply schema validation (#5287)",
+      "date": "2026-11-05",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5287",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/686abfe751a7cb0fb21e29d6999119ec80e2bb8f"
+    },
     {
       "sha": "c86f6ee511",
       "message": "Free valkey-cli test hint before exiting (#5274)",

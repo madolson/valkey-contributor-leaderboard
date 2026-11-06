@@ -2,16 +2,25 @@
   "title": "cxljs",
   "login": "cxljs",
   "avatar_url": "https://avatars.githubusercontent.com/u/24987055?v=4",
-  "score": 10,
-  "commit_count": 10,
+  "score": 11,
+  "commit_count": 11,
   "review_count": 0,
   "repos": [
     "libvalkey",
     "valkey",
     "valkey-bloom",
+    "valkey-proxy",
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "617e9255c3",
+      "message": "Reuse worker_sync_topology() for worker startup topology seeding (#24)",
+      "date": "2026-11-05",
+      "repo": "valkey-proxy",
+      "pr_url": "https://github.com/valkey-io/valkey-proxy/pull/24",
+      "commit_url": "https://github.com/valkey-io/valkey-proxy/commit/617e9255c36c76f8b3d029cb788371fae0e5ab77"
+    },
     {
       "sha": "a4e5b695ad",
       "message": "chore: update stale skiplist comments to the ordered index(#4911)",

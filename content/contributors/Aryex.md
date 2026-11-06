@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 352,
-  "commit_count": 134,
-  "review_count": 218,
+  "score": 355,
+  "commit_count": 136,
+  "review_count": 219,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "d0c70a5635",
+      "message": "docs: update pool, isolated scope, and recovery queue (#368)",
+      "date": "2026-11-05",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/368",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/d0c70a5635750e99f72716f3b83308b3a88972b4"
+    },
+    {
+      "sha": "185c9d4126",
+      "message": "chore(ruby): prepare 1.1.0 release (#410)",
+      "date": "2026-11-05",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/410",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/185c9d412693265900851281fa5fb7b651865fcd"
+    },
     {
       "sha": "6814e768b3",
       "message": "fix(ruby): add project license files (#411)",
@@ -1090,6 +1106,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d3f0b3fb63",
+      "message": "perf(java): cut integTest fixed waits from 14 min to 8.5 min (#7506)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7506",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d3f0b3fb63c4cdfae2dafe63c020a925294dba02"
+    },
     {
       "sha": "db7687766e",
       "message": "ci: revert doc-only gate on semgrep (#7537)",

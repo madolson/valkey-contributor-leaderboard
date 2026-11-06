@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 393,
+  "score": 396,
   "commit_count": 85,
-  "review_count": 308,
+  "review_count": 311,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -695,6 +695,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f63dba5605",
+      "message": "build(deps): remove pin-utils (RUSTSEC-2026-0441) (#7572)",
+      "date": "2026-11-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7572",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f63dba5605d992263bd299de522cbad14727a6e0"
+    },
+    {
+      "sha": "b973be0d66",
+      "message": "feat(go): valkey-search 1.3 stable surface (#7380)",
+      "date": "2026-11-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7380",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b973be0d6601434bdc9411e053276cf9db08d472"
+    },
+    {
+      "sha": "185c9d4126",
+      "message": "chore(ruby): prepare 1.1.0 release (#410)",
+      "date": "2026-11-05",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/410",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/185c9d412693265900851281fa5fb7b651865fcd"
+    },
     {
       "sha": "6ee2447867",
       "message": "ci(python): add Windows AMD64 and ARM64 wheel builds (#6826)",

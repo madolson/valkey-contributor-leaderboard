@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 194,
+  "score": 195,
   "commit_count": 68,
-  "review_count": 126,
+  "review_count": 127,
   "repos": [
     "valkey",
     "valkey-helm",
@@ -557,6 +557,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5d6ae08cfd",
+      "message": "refactor: name the trust bundle Secret valkey-<cluster>-tls-trust (#594)",
+      "date": "2026-11-05",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/594",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/5d6ae08cfd125df7686316624416038e600dc238"
+    },
     {
       "sha": "2f41d8eb4b",
       "message": "feat: add opt-in ClusterIP Service per node (#367) (#490)",

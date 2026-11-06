@@ -2,11 +2,12 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 1085,
+  "score": 1087,
   "commit_count": 293,
-  "review_count": 792,
+  "review_count": 794,
   "repos": [
     ".github",
+    "assets",
     "valkey",
     "valkey-admin",
     "valkey-bloom",
@@ -2368,6 +2369,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0479b9ef7f",
+      "message": "Replace corrupted PDF with verified brand guidelines",
+      "date": "2026-11-05",
+      "repo": "assets",
+      "pr_url": "https://github.com/valkey-io/assets/pull/1",
+      "commit_url": "https://github.com/valkey-io/assets/commit/0479b9ef7f3c7a57599199cb0376c209a1f03234"
+    },
+    {
+      "sha": "6934449486",
+      "message": "Add space above h2 headings in the docs content (#736)",
+      "date": "2026-11-05",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/736",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/6934449486e6fa0c3a873c7204e1aa767c5aea1c"
+    },
     {
       "sha": "b3b5ab983f",
       "message": "Feature pathhash prefixes (#5070)",

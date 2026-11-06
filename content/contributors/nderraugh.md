@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 94,
-  "commit_count": 29,
-  "review_count": 65,
+  "score": 96,
+  "commit_count": 30,
+  "review_count": 66,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "d3f0b3fb63",
+      "message": "perf(java): cut integTest fixed waits from 14 min to 8.5 min (#7506)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7506",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d3f0b3fb63c4cdfae2dafe63c020a925294dba02"
+    },
     {
       "sha": "5c87a28273",
       "message": "test(python): fix xdist pool-state leaks and cluster bootstrap race (#7440)",
@@ -247,6 +255,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f63dba5605",
+      "message": "build(deps): remove pin-utils (RUSTSEC-2026-0441) (#7572)",
+      "date": "2026-11-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7572",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f63dba5605d992263bd299de522cbad14727a6e0"
+    },
     {
       "sha": "3601186645",
       "message": "fix(core): close scope sockets abandoned under a blocking command (#7462)",

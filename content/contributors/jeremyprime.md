@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 314,
+  "score": 317,
   "commit_count": 99,
-  "review_count": 215,
+  "review_count": 218,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -808,6 +808,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "68cd5e32aa",
+      "message": "Federate docs search with other Valkey sites (#118)",
+      "date": "2026-11-05",
+      "repo": "spring-data-valkey",
+      "pr_url": "https://github.com/valkey-io/spring-data-valkey/pull/118",
+      "commit_url": "https://github.com/valkey-io/spring-data-valkey/commit/68cd5e32aa393c2bad2fc626b5e357b0aa6981b1"
+    },
+    {
+      "sha": "f63dba5605",
+      "message": "build(deps): remove pin-utils (RUSTSEC-2026-0441) (#7572)",
+      "date": "2026-11-05",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7572",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/f63dba5605d992263bd299de522cbad14727a6e0"
+    },
+    {
+      "sha": "d0c70a5635",
+      "message": "docs: update pool, isolated scope, and recovery queue (#368)",
+      "date": "2026-11-05",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/368",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/d0c70a5635750e99f72716f3b83308b3a88972b4"
+    },
     {
       "sha": "b93a39ca7a",
       "message": "ci(python): add test-filter dispatch input and fix HTML report upload paths (#7539)",
