@@ -2,14 +2,23 @@
   "title": "anitarua",
   "login": "anitarua",
   "avatar_url": "https://avatars.githubusercontent.com/u/138700973?v=4",
-  "score": 6,
-  "commit_count": 6,
+  "score": 7,
+  "commit_count": 7,
   "review_count": 0,
   "repos": [
     "valkey-glide",
+    "valkey-glide-docs",
     "valkey-large-object"
   ],
   "commit_list": [
+    {
+      "sha": "82887975aa",
+      "message": "docs: add RDMA transfers pages for the synchronous Python client (#367)",
+      "date": "2026-11-07",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/367",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/82887975aad50fb5192efbc9a7e37110df83b879"
+    },
     {
       "sha": "c573da89c9",
       "message": "feat(python): add RDMA get/set to the glide-sync client (#7464)",

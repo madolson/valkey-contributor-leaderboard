@@ -2,14 +2,22 @@
   "title": "crystalphamLF",
   "login": "crystalphamLF",
   "avatar_url": "https://avatars.githubusercontent.com/u/211876879?v=4",
-  "score": 12,
-  "commit_count": 11,
+  "score": 13,
+  "commit_count": 12,
   "review_count": 1,
   "repos": [
     "assets",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "70713984c8",
+      "message": "Add ValkeyConf session recap - Valkey Operator blog (#713)",
+      "date": "2026-11-06",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/713",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/70713984c80f68241a7adc20c98058cdf822012a"
+    },
     {
       "sha": "0479b9ef7f",
       "message": "Replace corrupted PDF with verified brand guidelines",

@@ -2,15 +2,23 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 28,
-  "commit_count": 19,
-  "review_count": 9,
+  "score": 30,
+  "commit_count": 20,
+  "review_count": 10,
   "repos": [
     "valkey",
     "valkey-doc",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "c9190f4422",
+      "message": "Remove references to old Redis versions + various edits (#462)",
+      "date": "2026-11-06",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/462",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/c9190f442292f46b7e389ff62e384a0de4a40449"
+    },
     {
       "sha": "01e60d3e82",
       "message": "Update Benchmark topic with latest valkey-benchmark.c changes (#441)",
@@ -165,6 +173,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c6921f8444",
+      "message": "Document MOVE REPLACE option (#533)",
+      "date": "2026-11-06",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/533",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/c6921f844422c11603163d8e44aa7c764204a7cc"
+    },
     {
       "sha": "679d3f5ae9",
       "message": "Add a structured menu for the documentation (nav.yml) (#513)",

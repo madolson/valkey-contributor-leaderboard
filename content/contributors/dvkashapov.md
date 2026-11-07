@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 122,
+  "score": 126,
   "commit_count": 26,
-  "review_count": 96,
+  "review_count": 100,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -224,6 +224,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c77a4e8da1",
+      "message": "Document missing key types and notification flags in module API (#5289)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5289",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c77a4e8da1d0c311d8c0c4b4295fcc7021f108ed"
+    },
+    {
+      "sha": "dcf5b15e53",
+      "message": "Fix coroutines load",
+      "date": "2026-11-06",
+      "repo": "valkey-lua5.5",
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/30",
+      "commit_url": "https://github.com/valkey-io/valkey-lua5.5/commit/dcf5b15e53459ef7110b860e1af3ee1cbe0816ee"
+    },
+    {
+      "sha": "586ac28352",
+      "message": "Fix coroutines timeout (#81)",
+      "date": "2026-11-06",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/81",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/586ac2835207f74699ccad9c5f3dc79ef4e5cefe"
+    },
+    {
+      "sha": "88a56b1f35",
+      "message": "Fix coroutines timeout",
+      "date": "2026-11-06",
+      "repo": "valkey-luau",
+      "pr_url": "https://github.com/valkey-io/valkey-luau/pull/26",
+      "commit_url": "https://github.com/valkey-io/valkey-luau/commit/88a56b1f35384c7324e927c5b050c3bae6c8f288"
+    },
     {
       "sha": "929fcd4542",
       "message": "Use new style argv call (#28)",

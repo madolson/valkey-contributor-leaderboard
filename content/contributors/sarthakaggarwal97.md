@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 467,
-  "commit_count": 128,
-  "review_count": 339,
+  "score": 469,
+  "commit_count": 129,
+  "review_count": 340,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -18,6 +18,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "58a6ddc9dd",
+      "message": "CI: use supported macOS 15 runner (#5315)",
+      "date": "2026-11-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5315",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/58a6ddc9dd45a3309ae2e8ab15c97475569b90cc"
+    },
     {
       "sha": "686abfe751",
       "message": "Skip copy-avoidance test during reply schema validation (#5287)",
@@ -1044,6 +1052,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "aa7545348b",
+      "message": "Validate slot import ranges in valkey-check-rdb when checking slot RDB (#4470)",
+      "date": "2026-11-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4470",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/aa7545348b688b469d073a01ce4836ed637577f9"
+    },
     {
       "sha": "5601e9ca68",
       "message": "Automated Updates for Valkey Bundle (#133)",

@@ -2,8 +2,8 @@
   "title": "secwall",
   "login": "secwall",
   "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
-  "score": 32,
-  "commit_count": 30,
+  "score": 35,
+  "commit_count": 33,
   "review_count": 2,
   "repos": [
     "valkey",
@@ -12,6 +12,30 @@
     "valkey-luau"
   ],
   "commit_list": [
+    {
+      "sha": "dcf5b15e53",
+      "message": "Fix coroutines load",
+      "date": "2026-11-06",
+      "repo": "valkey-lua5.5",
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/30",
+      "commit_url": "https://github.com/valkey-io/valkey-lua5.5/commit/dcf5b15e53459ef7110b860e1af3ee1cbe0816ee"
+    },
+    {
+      "sha": "586ac28352",
+      "message": "Fix coroutines timeout (#81)",
+      "date": "2026-11-06",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/81",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/586ac2835207f74699ccad9c5f3dc79ef4e5cefe"
+    },
+    {
+      "sha": "88a56b1f35",
+      "message": "Fix coroutines timeout",
+      "date": "2026-11-06",
+      "repo": "valkey-luau",
+      "pr_url": "https://github.com/valkey-io/valkey-luau/pull/26",
+      "commit_url": "https://github.com/valkey-io/valkey-luau/commit/88a56b1f35384c7324e927c5b050c3bae6c8f288"
+    },
     {
       "sha": "929fcd4542",
       "message": "Use new style argv call (#28)",
@@ -254,6 +278,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8175b4710b",
+      "message": "Bump github/codeql-action from 4.39.1 to 4.39.2",
+      "date": "2026-11-06",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/80",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/8175b4710b2c761af38ebe9f6e5318d5085428ca"
+    },
     {
       "sha": "20fdcc7b87",
       "message": "Bump deps/luajit from `8ca7629` to `ea9eb7e`",

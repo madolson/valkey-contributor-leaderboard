@@ -2,8 +2,8 @@
   "title": "melancholictheory",
   "login": "melancholictheory",
   "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
-  "score": 19,
-  "commit_count": 18,
+  "score": 20,
+  "commit_count": 19,
   "review_count": 1,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "0d9dd1ab69",
+      "message": "Document that ACL DIGEST covers roles (#535)",
+      "date": "2026-11-06",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/535",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/0d9dd1ab697df05125d46eee949f705965244cc6"
+    },
     {
       "sha": "430e109347",
       "message": "docs: example NetworkPolicy for a ValkeyCluster and the flows it needs (#454)",

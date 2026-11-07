@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 317,
-  "commit_count": 99,
-  "review_count": 218,
+  "score": 324,
+  "commit_count": 101,
+  "review_count": 223,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -14,6 +14,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "061bd443a6",
+      "message": "fix(core): Discard pooled connections that fail release reset (#7554) (#7592)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7592",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/061bd443a67eb3532a477e78bd2983486fa7d838"
+    },
+    {
+      "sha": "598fe8a224",
+      "message": "ci(node): install jq in musl CD test container (#7516) (#7591)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7591",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/598fe8a224463d1cf91134d6d4347a0ab645b9a8"
+    },
     {
       "sha": "db7687766e",
       "message": "ci: revert doc-only gate on semgrep (#7537)",
@@ -808,6 +824,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "82887975aa",
+      "message": "docs: add RDMA transfers pages for the synchronous Python client (#367)",
+      "date": "2026-11-07",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/367",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/82887975aad50fb5192efbc9a7e37110df83b879"
+    },
+    {
+      "sha": "8d5d1355df",
+      "message": "fix(utils): probe the cluster bus port in next_free_port (#7596)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7596",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8d5d1355dfd433edb6058e477fa5d15840712ad8"
+    },
+    {
+      "sha": "b208c2c4a6",
+      "message": "test(python): raise sync large-value test timeouts to 30 s for macOS runners (#7577)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7577",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b208c2c4a6f973f7fa7478bb3b9df0010ea6ef1a"
+    },
+    {
+      "sha": "8e21b2c3cd",
+      "message": "ci: fix macOS and musl engine builds and reusable-workflow input plumbing (#7562)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7562",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8e21b2c3cd359ac36821200f119b080d4063041f"
+    },
+    {
+      "sha": "74eadb0de5",
+      "message": "refactor(core): hold ClientPool behind std::sync::Mutex (#7515)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7515",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/74eadb0de541d5fef3f354dd4c977bf4bc96bb05"
+    },
     {
       "sha": "68cd5e32aa",
       "message": "Federate docs search with other Valkey sites (#118)",

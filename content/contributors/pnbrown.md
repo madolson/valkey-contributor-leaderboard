@@ -2,9 +2,9 @@
   "title": "pnbrown",
   "login": "pnbrown",
   "avatar_url": "https://avatars.githubusercontent.com/u/10396286?v=4",
-  "score": 15,
+  "score": 16,
   "commit_count": 9,
-  "review_count": 6,
+  "review_count": 7,
   "repos": [
     "valkey-io.github.io"
   ],
@@ -83,6 +83,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "70713984c8",
+      "message": "Add ValkeyConf session recap - Valkey Operator blog (#713)",
+      "date": "2026-11-06",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/713",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/70713984c80f68241a7adc20c98058cdf822012a"
+    },
     {
       "sha": "f589f25f6a",
       "message": "Rework the homepage and download pages around release versions (#662)",

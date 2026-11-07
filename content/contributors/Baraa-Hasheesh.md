@@ -2,9 +2,9 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 61,
-  "commit_count": 27,
-  "review_count": 34,
+  "score": 67,
+  "commit_count": 30,
+  "review_count": 37,
   "repos": [
     "valkey",
     "valkey-container",
@@ -18,6 +18,30 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4854",
       "commit_url": "https://github.com/valkey-io/valkey/commit/11555f12218fcac53a385edb2c4282357d580b34"
+    },
+    {
+      "sha": "f1505f867a",
+      "message": "[Coverage] geo - adding coverage for error branches (#4793)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4793",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f1505f867a9276d8654b12182d8a84fd6f220fbf"
+    },
+    {
+      "sha": "aa8d09d6ef",
+      "message": "Make unit tests independent of the order they run in (#5258)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5258",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/aa8d09d6efb6ae2a78b293c9e95b086fbd631249"
+    },
+    {
+      "sha": "1a9a793c43",
+      "message": "Fix flaky \"Failover is not possible without majority agreement\" sentinel test (#5235)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5235",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1a9a793c4336e6b11cc70820dab9f165329a9dd1"
     },
     {
       "sha": "d2466b90a2",
@@ -229,6 +253,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b8d08dfe29",
+      "message": "Fix uninitialized variable use in clusterManagerMigrateKeysInSlot (#5311)",
+      "date": "2026-11-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5311",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b8d08dfe29f938a66ced908567fdb54b0031301e"
+    },
+    {
+      "sha": "58a6ddc9dd",
+      "message": "CI: use supported macOS 15 runner (#5315)",
+      "date": "2026-11-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5315",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/58a6ddc9dd45a3309ae2e8ab15c97475569b90cc"
+    },
+    {
+      "sha": "a77ca2249f",
+      "message": "Correct the `since` version on SISMEMBER XX to 9.2.0 (#5310)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5310",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a77ca2249f2cbf56737dec2aca7a223b1ded2a83"
+    },
     {
       "sha": "c86f6ee511",
       "message": "Free valkey-cli test hint before exiting (#5274)",

@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 94,
+  "score": 96,
   "commit_count": 29,
-  "review_count": 65,
+  "review_count": 67,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -251,6 +251,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/5307",
       "commit_url": "https://github.com/valkey-io/valkey/commit/c96bdec601529c26fee831a1fca7b9e1eea14a8f"
+    },
+    {
+      "sha": "5b7984e900",
+      "message": "Revert \"Make unit tests independent of the order they run in\" (#5320)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5320",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5b7984e9005b4deea3467b0b5cfe7a4adc2fa7ff"
+    },
+    {
+      "sha": "79aff7c07f",
+      "message": "Close bgIteration MULTI when no replication work is pending (#5316)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5316",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/79aff7c07f331bd4a6dea484ed0027d2c7010c59"
     },
     {
       "sha": "85b827c39c",

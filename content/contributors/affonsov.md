@@ -2,17 +2,26 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 308,
-  "commit_count": 102,
-  "review_count": 206,
+  "score": 310,
+  "commit_count": 103,
+  "review_count": 207,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-docs",
     "valkey-glide-php",
-    "valkey-glide-ruby"
+    "valkey-glide-ruby",
+    "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "6e403afa19",
+      "message": "feat(vector-range): add epsilon-aware HNSW range traversal (#1546)",
+      "date": "2026-11-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1546",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6e403afa19bd5e3835a1da6c88f78b21f80ecdee"
+    },
     {
       "sha": "fd60e30377",
       "message": "feat: add GlideCredentialProvider (custom IAM credentials) to Node.js, Python, Go + async support for Java (#7055)",
@@ -831,6 +840,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "74eadb0de5",
+      "message": "refactor(core): hold ClientPool behind std::sync::Mutex (#7515)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7515",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/74eadb0de541d5fef3f354dd4c977bf4bc96bb05"
+    },
     {
       "sha": "f63dba5605",
       "message": "build(deps): remove pin-utils (RUSTSEC-2026-0441) (#7572)",

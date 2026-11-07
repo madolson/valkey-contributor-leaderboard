@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 500,
-  "commit_count": 143,
-  "review_count": 357,
+  "score": 504,
+  "commit_count": 145,
+  "review_count": 359,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "b208c2c4a6",
+      "message": "test(python): raise sync large-value test timeouts to 30 s for macOS runners (#7577)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7577",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b208c2c4a6f973f7fa7478bb3b9df0010ea6ef1a"
+    },
+    {
+      "sha": "8e21b2c3cd",
+      "message": "ci: fix macOS and musl engine builds and reusable-workflow input plumbing (#7562)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7562",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8e21b2c3cd359ac36821200f119b080d4063041f"
+    },
     {
       "sha": "f63dba5605",
       "message": "build(deps): remove pin-utils (RUSTSEC-2026-0441) (#7572)",
@@ -1176,6 +1192,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7506",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d3f0b3fb63c4cdfae2dafe63c020a925294dba02"
+    },
+    {
+      "sha": "061bd443a6",
+      "message": "fix(core): Discard pooled connections that fail release reset (#7554) (#7592)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7592",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/061bd443a67eb3532a477e78bd2983486fa7d838"
+    },
+    {
+      "sha": "598fe8a224",
+      "message": "ci(node): install jq in musl CD test container (#7516) (#7591)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7591",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/598fe8a224463d1cf91134d6d4347a0ab645b9a8"
     },
     {
       "sha": "575a6e42fd",

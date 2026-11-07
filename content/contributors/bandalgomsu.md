@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 30,
-  "commit_count": 30,
+  "score": 32,
+  "commit_count": 32,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "c77a4e8da1",
+      "message": "Document missing key types and notification flags in module API (#5289)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5289",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c77a4e8da1d0c311d8c0c4b4295fcc7021f108ed"
+    },
+    {
+      "sha": "c6921f8444",
+      "message": "Document MOVE REPLACE option (#533)",
+      "date": "2026-11-06",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/533",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/c6921f844422c11603163d8e44aa7c764204a7cc"
+    },
     {
       "sha": "7750ee8faf",
       "message": "Add Record whether SEPARATOR was given for TAG fields (#1576)",

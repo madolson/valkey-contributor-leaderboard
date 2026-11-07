@@ -2,9 +2,9 @@
   "title": "alexey-temnikov",
   "login": "alexey-temnikov",
   "avatar_url": "https://avatars.githubusercontent.com/u/7035336?v=4",
-  "score": 36,
+  "score": 37,
   "commit_count": 16,
-  "review_count": 20,
+  "review_count": 21,
   "repos": [
     "valkey-admin",
     "valkey-developer-resources",
@@ -146,6 +146,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6e403afa19",
+      "message": "feat(vector-range): add epsilon-aware HNSW range traversal (#1546)",
+      "date": "2026-11-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1546",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6e403afa19bd5e3835a1da6c88f78b21f80ecdee"
+    },
     {
       "sha": "6a996d570d",
       "message": "Add automated check to catch broken internal links (#694)",

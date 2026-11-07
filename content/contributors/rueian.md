@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 75,
+  "score": 76,
   "commit_count": 9,
-  "review_count": 66,
+  "review_count": 67,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f5c6d2b9b7",
+      "message": "feat(valkeygcp): add IAM authentication for Memorystore for Valkey (#215)",
+      "date": "2026-11-07",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/215",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/f5c6d2b9b7b455df510149a5d3e1a2f75bbc85a2"
+    },
     {
       "sha": "a23e13016e",
       "message": "ci: compare benchmarks on every PR and chart main on gh-pages (#190)",

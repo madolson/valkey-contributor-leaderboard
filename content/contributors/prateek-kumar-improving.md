@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 484,
-  "commit_count": 164,
-  "review_count": 320,
+  "score": 486,
+  "commit_count": 165,
+  "review_count": 321,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "0a00d4414a",
+      "message": "fix(php): fix memory-safety bugs in SORT, FCALL, list push, HRANDFIELD (#425)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/425",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/0a00d4414aaaa73199aad7a3af9aaee38b2ce3b5"
+    },
     {
       "sha": "49e9a77797",
       "message": "feat(python,node,go): add key-level NX/XX condition support to HSETEX (#7428)",
@@ -1327,6 +1335,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f5825b5fd4",
+      "message": "feat(php): add sharded pub/sub (SSUBSCRIBE, SUNSUBSCRIBE, SPUBLISH) to cluster client (#341)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/341",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/f5825b5fd43a9428a72b585508b935728fe35bc8"
+    },
     {
       "sha": "90ef541ea7",
       "message": "fix(php): free an address resolver when its client is closed, not at request shutdown (#397)",

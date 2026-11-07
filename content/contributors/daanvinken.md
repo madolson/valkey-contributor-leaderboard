@@ -2,9 +2,9 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 46,
+  "score": 47,
   "commit_count": 25,
-  "review_count": 21,
+  "review_count": 22,
   "repos": [
     "valkey-helm",
     "valkey-operator"
@@ -212,6 +212,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "95a6649686",
+      "message": "feat: move spec.users to spec.acl.users (#558)",
+      "date": "2026-11-06",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/558",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/95a6649686ba9195df1d8b22b85b518640bae4cf"
+    },
     {
       "sha": "cc32a012be",
       "message": "feat: let a ValkeyNode trust client CAs through a trust bundle (#508)",

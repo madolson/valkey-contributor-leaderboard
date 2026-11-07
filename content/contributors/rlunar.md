@@ -2,16 +2,25 @@
   "title": "rlunar",
   "login": "rlunar",
   "avatar_url": "https://avatars.githubusercontent.com/u/2453805?v=4",
-  "score": 24,
-  "commit_count": 12,
+  "score": 25,
+  "commit_count": 13,
   "review_count": 12,
   "repos": [
     "valkey-bundle",
     "valkey-doc",
+    "valkey-glide-php",
     "valkey-io.github.io",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "f5825b5fd4",
+      "message": "feat(php): add sharded pub/sub (SSUBSCRIBE, SUNSUBSCRIBE, SPUBLISH) to cluster client (#341)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/341",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/f5825b5fd43a9428a72b585508b935728fe35bc8"
+    },
     {
       "sha": "205240b147",
       "message": "Update Solanica participant information (#629)",

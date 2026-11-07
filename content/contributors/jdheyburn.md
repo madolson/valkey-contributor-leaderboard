@@ -2,15 +2,32 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 195,
-  "commit_count": 68,
+  "score": 197,
+  "commit_count": 70,
   "review_count": 127,
   "repos": [
     "valkey",
+    "valkey-doc",
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "27ab2bdb92",
+      "message": "Document the VALKEYCLI_USER environment variable (#539)",
+      "date": "2026-11-06",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/539",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/27ab2bdb92531bc594ee71ca9ea1d2447e9a0f73"
+    },
+    {
+      "sha": "95a6649686",
+      "message": "feat: move spec.users to spec.acl.users (#558)",
+      "date": "2026-11-06",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/558",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/95a6649686ba9195df1d8b22b85b518640bae4cf"
+    },
     {
       "sha": "0beba949b5",
       "message": "Release valkey-resources 0.5.0 (#306)",

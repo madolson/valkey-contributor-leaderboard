@@ -2,9 +2,9 @@
   "title": "leslie-bq",
   "login": "leslie-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
-  "score": 12,
+  "score": 14,
   "commit_count": 2,
-  "review_count": 10,
+  "review_count": 12,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -29,6 +29,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0a00d4414a",
+      "message": "fix(php): fix memory-safety bugs in SORT, FCALL, list push, HRANDFIELD (#425)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/425",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/0a00d4414aaaa73199aad7a3af9aaee38b2ce3b5"
+    },
+    {
+      "sha": "f5825b5fd4",
+      "message": "feat(php): add sharded pub/sub (SSUBSCRIBE, SUNSUBSCRIBE, SPUBLISH) to cluster client (#341)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/341",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/f5825b5fd43a9428a72b585508b935728fe35bc8"
+    },
     {
       "sha": "bdcfd138ad",
       "message": "refactor: enforce member ordering and one class per file with StyleCop (#615)",

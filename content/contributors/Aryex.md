@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 355,
+  "score": 358,
   "commit_count": 136,
-  "review_count": 219,
+  "review_count": 222,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -1107,12 +1107,36 @@
   ],
   "review_list": [
     {
+      "sha": "82887975aa",
+      "message": "docs: add RDMA transfers pages for the synchronous Python client (#367)",
+      "date": "2026-11-07",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/367",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/82887975aad50fb5192efbc9a7e37110df83b879"
+    },
+    {
       "sha": "d3f0b3fb63",
       "message": "perf(java): cut integTest fixed waits from 14 min to 8.5 min (#7506)",
       "date": "2026-11-06",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7506",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d3f0b3fb63c4cdfae2dafe63c020a925294dba02"
+    },
+    {
+      "sha": "2ff28f54f3",
+      "message": "docs: update C# command and feature support for 1.2.0 (#373)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/373",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/2ff28f54f3b0c29282583655bbe8e21927a09139"
+    },
+    {
+      "sha": "0a00d4414a",
+      "message": "fix(php): fix memory-safety bugs in SORT, FCALL, list push, HRANDFIELD (#425)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/425",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/0a00d4414aaaa73199aad7a3af9aaee38b2ce3b5"
     },
     {
       "sha": "db7687766e",

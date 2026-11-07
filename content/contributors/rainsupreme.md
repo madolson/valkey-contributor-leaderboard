@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 203,
-  "commit_count": 45,
-  "review_count": 158,
+  "score": 207,
+  "commit_count": 46,
+  "review_count": 161,
   "repos": [
     "valkey",
     "valkey-container",
@@ -14,6 +14,14 @@
     "valkey-skills"
   ],
   "commit_list": [
+    {
+      "sha": "5b7984e900",
+      "message": "Revert \"Make unit tests independent of the order they run in\" (#5320)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5320",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5b7984e9005b4deea3467b0b5cfe7a4adc2fa7ff"
+    },
     {
       "sha": "67e84ec778",
       "message": "Mark mutually exclusive ZADD and LCS options (#5244)",
@@ -383,6 +391,30 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4854",
       "commit_url": "https://github.com/valkey-io/valkey/commit/11555f12218fcac53a385edb2c4282357d580b34"
+    },
+    {
+      "sha": "f1505f867a",
+      "message": "[Coverage] geo - adding coverage for error branches (#4793)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4793",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f1505f867a9276d8654b12182d8a84fd6f220fbf"
+    },
+    {
+      "sha": "aa8d09d6ef",
+      "message": "Make unit tests independent of the order they run in (#5258)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5258",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/aa8d09d6efb6ae2a78b293c9e95b086fbd631249"
+    },
+    {
+      "sha": "1a9a793c43",
+      "message": "Fix flaky \"Failover is not possible without majority agreement\" sentinel test (#5235)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5235",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1a9a793c4336e6b11cc70820dab9f165329a9dd1"
     },
     {
       "sha": "6fc33cfa8b",

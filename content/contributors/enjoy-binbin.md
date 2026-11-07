@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 1030,
-  "commit_count": 397,
-  "review_count": 633,
+  "score": 1034,
+  "commit_count": 398,
+  "review_count": 636,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "aa7545348b",
+      "message": "Validate slot import ranges in valkey-check-rdb when checking slot RDB (#4470)",
+      "date": "2026-11-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4470",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/aa7545348b688b469d073a01ce4836ed637577f9"
+    },
     {
       "sha": "45cd914592",
       "message": "Skip QoS event draining when AE_FILE_EVENTS is not set (#5098)",
@@ -3192,6 +3200,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b8d08dfe29",
+      "message": "Fix uninitialized variable use in clusterManagerMigrateKeysInSlot (#5311)",
+      "date": "2026-11-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5311",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b8d08dfe29f938a66ced908567fdb54b0031301e"
+    },
+    {
+      "sha": "c77a4e8da1",
+      "message": "Document missing key types and notification flags in module API (#5289)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5289",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c77a4e8da1d0c311d8c0c4b4295fcc7021f108ed"
+    },
+    {
+      "sha": "eda518abf4",
+      "message": "Fix CLUSTER GETSLOTMIGRATIONS reply schema (#5251)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5251",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/eda518abf470fd33915d2f15e68385b514c16317"
+    },
     {
       "sha": "9b4dcf617d",
       "message": "Cap the length of inbound cluster bus packets (#5065)",

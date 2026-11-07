@@ -2,9 +2,9 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 134,
+  "score": 135,
   "commit_count": 41,
-  "review_count": 93,
+  "review_count": 94,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -343,6 +343,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6e403afa19",
+      "message": "feat(vector-range): add epsilon-aware HNSW range traversal (#1546)",
+      "date": "2026-11-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1546",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6e403afa19bd5e3835a1da6c88f78b21f80ecdee"
+    },
     {
       "sha": "d11b591026",
       "message": "[BUG fix] Fix FT.AGGREGATE ignoring VERBATIM, INORDER and SLOP (#1606)",

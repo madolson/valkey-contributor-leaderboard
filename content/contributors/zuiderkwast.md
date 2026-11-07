@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1320,
+  "score": 1326,
   "commit_count": 161,
-  "review_count": 1159,
+  "review_count": 1165,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1310,6 +1310,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "58a6ddc9dd",
+      "message": "CI: use supported macOS 15 runner (#5315)",
+      "date": "2026-11-07",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5315",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/58a6ddc9dd45a3309ae2e8ab15c97475569b90cc"
+    },
+    {
+      "sha": "a77ca2249f",
+      "message": "Correct the `since` version on SISMEMBER XX to 9.2.0 (#5310)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5310",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/a77ca2249f2cbf56737dec2aca7a223b1ded2a83"
+    },
+    {
+      "sha": "c6921f8444",
+      "message": "Document MOVE REPLACE option (#533)",
+      "date": "2026-11-06",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/533",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/c6921f844422c11603163d8e44aa7c764204a7cc"
+    },
+    {
+      "sha": "0d9dd1ab69",
+      "message": "Document that ACL DIGEST covers roles (#535)",
+      "date": "2026-11-06",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/535",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/0d9dd1ab697df05125d46eee949f705965244cc6"
+    },
+    {
+      "sha": "27ab2bdb92",
+      "message": "Document the VALKEYCLI_USER environment variable (#539)",
+      "date": "2026-11-06",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/539",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/27ab2bdb92531bc594ee71ca9ea1d2447e9a0f73"
+    },
+    {
+      "sha": "c9190f4422",
+      "message": "Remove references to old Redis versions + various edits (#462)",
+      "date": "2026-11-06",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/462",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/c9190f442292f46b7e389ff62e384a0de4a40449"
+    },
     {
       "sha": "6c4f6fb856",
       "message": "Rename bgsave-default-method to forkless-policy (#5261)",

@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 96,
-  "commit_count": 30,
-  "review_count": 66,
+  "score": 100,
+  "commit_count": 32,
+  "review_count": 68,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -20,6 +20,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7506",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d3f0b3fb63c4cdfae2dafe63c020a925294dba02"
+    },
+    {
+      "sha": "8d5d1355df",
+      "message": "fix(utils): probe the cluster bus port in next_free_port (#7596)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7596",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8d5d1355dfd433edb6058e477fa5d15840712ad8"
+    },
+    {
+      "sha": "74eadb0de5",
+      "message": "refactor(core): hold ClientPool behind std::sync::Mutex (#7515)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7515",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/74eadb0de541d5fef3f354dd4c977bf4bc96bb05"
     },
     {
       "sha": "5c87a28273",
@@ -255,6 +271,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "82887975aa",
+      "message": "docs: add RDMA transfers pages for the synchronous Python client (#367)",
+      "date": "2026-11-07",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/367",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/82887975aad50fb5192efbc9a7e37110df83b879"
+    },
+    {
+      "sha": "b208c2c4a6",
+      "message": "test(python): raise sync large-value test timeouts to 30 s for macOS runners (#7577)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7577",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b208c2c4a6f973f7fa7478bb3b9df0010ea6ef1a"
+    },
     {
       "sha": "f63dba5605",
       "message": "build(deps): remove pin-utils (RUSTSEC-2026-0441) (#7572)",

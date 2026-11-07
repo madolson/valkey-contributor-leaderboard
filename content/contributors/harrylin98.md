@@ -2,13 +2,21 @@
   "title": "harrylin98",
   "login": "harrylin98",
   "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
-  "score": 20,
-  "commit_count": 18,
+  "score": 21,
+  "commit_count": 19,
   "review_count": 2,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "79aff7c07f",
+      "message": "Close bgIteration MULTI when no replication work is pending (#5316)",
+      "date": "2026-11-06",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5316",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/79aff7c07f331bd4a6dea484ed0027d2c7010c59"
+    },
     {
       "sha": "329ccfe1da",
       "message": "[Forkless] Allow primary client to be blocked with BLOCKED_INUSE (#5206)",

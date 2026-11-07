@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 400,
-  "commit_count": 231,
+  "score": 401,
+  "commit_count": 232,
   "review_count": 169,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "2ff28f54f3",
+      "message": "docs: update C# command and feature support for 1.2.0 (#373)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/373",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/2ff28f54f3b0c29282583655bbe8e21927a09139"
+    },
     {
       "sha": "bdcfd138ad",
       "message": "refactor: enforce member ordering and one class per file with StyleCop (#615)",

@@ -2,15 +2,16 @@
   "title": "jbrinkman",
   "login": "jbrinkman",
   "avatar_url": "https://avatars.githubusercontent.com/u/862921?v=4",
-  "score": 221,
+  "score": 223,
   "commit_count": 53,
-  "review_count": 168,
+  "review_count": 170,
   "repos": [
     "valkey-developer-resources",
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-php",
-    "valkey-io.github.io"
+    "valkey-io.github.io",
+    "valkey-search"
   ],
   "commit_list": [
     {
@@ -439,6 +440,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6e403afa19",
+      "message": "feat(vector-range): add epsilon-aware HNSW range traversal (#1546)",
+      "date": "2026-11-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1546",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6e403afa19bd5e3835a1da6c88f78b21f80ecdee"
+    },
+    {
+      "sha": "6e403afa19",
+      "message": "feat(vector-range): add epsilon-aware HNSW range traversal (#1546)",
+      "date": "2026-11-06",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1546",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6e403afa19bd5e3835a1da6c88f78b21f80ecdee"
+    },
     {
       "sha": "2fa55eb84a",
       "message": "Merge pull request #102 from valkey-io/readme-naming-update",

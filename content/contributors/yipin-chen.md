@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 920,
+  "score": 926,
   "commit_count": 45,
-  "review_count": 875,
+  "review_count": 881,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -384,6 +384,54 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7506",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/d3f0b3fb63c4cdfae2dafe63c020a925294dba02"
+    },
+    {
+      "sha": "8d5d1355df",
+      "message": "fix(utils): probe the cluster bus port in next_free_port (#7596)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7596",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8d5d1355dfd433edb6058e477fa5d15840712ad8"
+    },
+    {
+      "sha": "b208c2c4a6",
+      "message": "test(python): raise sync large-value test timeouts to 30 s for macOS runners (#7577)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7577",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b208c2c4a6f973f7fa7478bb3b9df0010ea6ef1a"
+    },
+    {
+      "sha": "061bd443a6",
+      "message": "fix(core): Discard pooled connections that fail release reset (#7554) (#7592)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7592",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/061bd443a67eb3532a477e78bd2983486fa7d838"
+    },
+    {
+      "sha": "8e21b2c3cd",
+      "message": "ci: fix macOS and musl engine builds and reusable-workflow input plumbing (#7562)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7562",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8e21b2c3cd359ac36821200f119b080d4063041f"
+    },
+    {
+      "sha": "598fe8a224",
+      "message": "ci(node): install jq in musl CD test container (#7516) (#7591)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7591",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/598fe8a224463d1cf91134d6d4347a0ab645b9a8"
+    },
+    {
+      "sha": "2ff28f54f3",
+      "message": "docs: update C# command and feature support for 1.2.0 (#373)",
+      "date": "2026-11-06",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/373",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/2ff28f54f3b0c29282583655bbe8e21927a09139"
     },
     {
       "sha": "f63dba5605",
