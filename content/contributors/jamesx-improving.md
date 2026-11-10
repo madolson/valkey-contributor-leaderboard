@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 396,
+  "score": 397,
   "commit_count": 85,
-  "review_count": 311,
+  "review_count": 312,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -695,6 +695,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dfc9fe5461",
+      "message": "ci: lint GitHub Actions workflows with actionlint (#7594)",
+      "date": "2026-11-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7594",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dfc9fe546195b42710af0b1598a1ec84a2a1bdf1"
+    },
     {
       "sha": "f63dba5605",
       "message": "build(deps): remove pin-utils (RUSTSEC-2026-0441) (#7572)",

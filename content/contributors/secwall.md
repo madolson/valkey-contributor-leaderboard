@@ -279,6 +279,22 @@
   ],
   "review_list": [
     {
+      "sha": "d2e23dcb2b",
+      "message": "Bump github/codeql-action from 4.39.2 to 4.39.3",
+      "date": "2026-11-09",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/83",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/d2e23dcb2b6eef6357816fdb90a3083ccb4c1e8e"
+    },
+    {
+      "sha": "5567292ce1",
+      "message": "Bump softprops/action-gh-release from 3.0.3 to 3.0.4",
+      "date": "2026-11-09",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/82",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/5567292ce16204b729d7c4348e255018ce124e5d"
+    },
+    {
       "sha": "8175b4710b",
       "message": "Bump github/codeql-action from 4.39.1 to 4.39.2",
       "date": "2026-11-06",

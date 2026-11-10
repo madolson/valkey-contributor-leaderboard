@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 469,
+  "score": 470,
   "commit_count": 129,
-  "review_count": 340,
+  "review_count": 341,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1052,6 +1052,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "838999bd52",
+      "message": "Document the design doc process and restructure patch submission (#5062)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5062",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/838999bd5258c84a8c4ec4f290afa66a9013cff1"
+    },
     {
       "sha": "aa7545348b",
       "message": "Validate slot import ranges in valkey-check-rdb when checking slot RDB (#4470)",

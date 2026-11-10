@@ -2,9 +2,9 @@
   "title": "murphyjacob4",
   "login": "murphyjacob4",
   "avatar_url": "https://avatars.githubusercontent.com/u/22739141?v=4",
-  "score": 155,
-  "commit_count": 49,
-  "review_count": 106,
+  "score": 157,
+  "commit_count": 50,
+  "review_count": 107,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "702a107516",
+      "message": "Fix full sync loop after PSYNC to SYNC fallback (#5280)",
+      "date": "2026-11-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5280",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/702a107516d78354a9473dd1b43a12835d8a2c61"
+    },
     {
       "sha": "6902fdc965",
       "message": "Make quicklist read-only iteration non-mutating on compressed nodes (#4782)",
@@ -406,6 +414,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "838999bd52",
+      "message": "Document the design doc process and restructure patch submission (#5062)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5062",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/838999bd5258c84a8c4ec4f290afa66a9013cff1"
+    },
     {
       "sha": "6454bcc628",
       "message": "Forkless Full-Sync (#4797)",

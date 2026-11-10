@@ -2,15 +2,23 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 30,
-  "commit_count": 20,
-  "review_count": 10,
+  "score": 32,
+  "commit_count": 21,
+  "review_count": 11,
   "repos": [
     "valkey",
     "valkey-doc",
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "5e6ab07802",
+      "message": "Update Atomic Slot Migration topic with ACL requirements (#486)",
+      "date": "2026-11-09",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/486",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/5e6ab07802d0754e60dab951a73c2f51340fcaf9"
+    },
     {
       "sha": "c9190f4422",
       "message": "Remove references to old Redis versions + various edits (#462)",
@@ -173,6 +181,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4f8d101df2",
+      "message": "Update jheyburn.md (#755)",
+      "date": "2026-11-09",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/755",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/4f8d101df2ceef53c6ea68cf231be2eff56235b4"
+    },
     {
       "sha": "c6921f8444",
       "message": "Document MOVE REPLACE option (#533)",

@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 1034,
+  "score": 1035,
   "commit_count": 398,
-  "review_count": 636,
+  "review_count": 637,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3200,6 +3200,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "838999bd52",
+      "message": "Document the design doc process and restructure patch submission (#5062)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5062",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/838999bd5258c84a8c4ec4f290afa66a9013cff1"
+    },
     {
       "sha": "b8d08dfe29",
       "message": "Fix uninitialized variable use in clusterManagerMigrateKeysInSlot (#5311)",

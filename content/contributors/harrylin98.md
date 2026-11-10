@@ -2,9 +2,9 @@
   "title": "harrylin98",
   "login": "harrylin98",
   "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
-  "score": 21,
+  "score": 22,
   "commit_count": 19,
-  "review_count": 2,
+  "review_count": 3,
   "repos": [
     "valkey"
   ],
@@ -163,6 +163,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dfdea17995",
+      "message": "bgiteration: process ITER_CLOSED after items queued behind it (#5326)",
+      "date": "2026-11-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5326",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/dfdea17995729a50fd6ee2a5629d84e616500b11"
+    },
     {
       "sha": "1c847e8868",
       "message": "Deflake throttle-repl tests (#4730)",

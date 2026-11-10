@@ -2,9 +2,9 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 135,
+  "score": 136,
   "commit_count": 41,
-  "review_count": 94,
+  "review_count": 95,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -343,6 +343,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5ca6f4950a",
+      "message": "Reject every NaN spelling in numeric parsing and sort NaN last in SORTBY (#1554)",
+      "date": "2026-11-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1554",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5ca6f4950a1f560921f374f28b2074cdab009b5e"
+    },
     {
       "sha": "6e403afa19",
       "message": "feat(vector-range): add epsilon-aware HNSW range traversal (#1546)",

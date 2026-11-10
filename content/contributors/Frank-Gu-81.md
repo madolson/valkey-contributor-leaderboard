@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 64,
-  "commit_count": 31,
-  "review_count": 33,
+  "score": 66,
+  "commit_count": 32,
+  "review_count": 34,
   "repos": [
     "valkey-ci-agent",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "9d1d60af54",
+      "message": "align documentations ahead of 1.3 GA (#1656)",
+      "date": "2026-11-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1656",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/9d1d60af542abe6264bc67e9149cd5e993fcb460"
+    },
     {
       "sha": "76e3291136",
       "message": "onboard valkey-search to backport-eligibility daily runs (#142)",
@@ -262,6 +270,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d08f29e1e3",
+      "message": "refactor(text): remove dead RadixTree template and its test (#1432)",
+      "date": "2026-11-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1432",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d08f29e1e36d3eca830344acc0641890bc2dcfac"
+    },
     {
       "sha": "dd28a12467",
       "message": "fix: copy FT.AGGREGATE/FT.HYBRID params into owned storage (#1650)",

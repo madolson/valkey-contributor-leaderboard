@@ -2,9 +2,9 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 95,
+  "score": 96,
   "commit_count": 58,
-  "review_count": 37,
+  "review_count": 38,
   "repos": [
     "valkey-search"
   ],
@@ -475,6 +475,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d08f29e1e3",
+      "message": "refactor(text): remove dead RadixTree template and its test (#1432)",
+      "date": "2026-11-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1432",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d08f29e1e36d3eca830344acc0641890bc2dcfac"
+    },
     {
       "sha": "7750ee8faf",
       "message": "Add Record whether SEPARATOR was given for TAG fields (#1576)",

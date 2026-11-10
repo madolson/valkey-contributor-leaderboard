@@ -2,16 +2,25 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 197,
-  "commit_count": 70,
+  "score": 198,
+  "commit_count": 71,
   "review_count": 127,
   "repos": [
     "valkey",
     "valkey-doc",
     "valkey-helm",
+    "valkey-io.github.io",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "4f8d101df2",
+      "message": "Update jheyburn.md (#755)",
+      "date": "2026-11-09",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/755",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/4f8d101df2ceef53c6ea68cf231be2eff56235b4"
+    },
     {
       "sha": "27ab2bdb92",
       "message": "Document the VALKEYCLI_USER environment variable (#539)",

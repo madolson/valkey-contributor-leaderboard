@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 401,
-  "commit_count": 232,
+  "score": 402,
+  "commit_count": 233,
   "review_count": 169,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "dfc9fe5461",
+      "message": "ci: lint GitHub Actions workflows with actionlint (#7594)",
+      "date": "2026-11-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7594",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dfc9fe546195b42710af0b1598a1ec84a2a1bdf1"
+    },
     {
       "sha": "2ff28f54f3",
       "message": "docs: update C# command and feature support for 1.2.0 (#373)",

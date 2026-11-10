@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 344,
+  "score": 345,
   "commit_count": 90,
-  "review_count": 254,
+  "review_count": 255,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -735,6 +735,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9d1d60af54",
+      "message": "align documentations ahead of 1.3 GA (#1656)",
+      "date": "2026-11-10",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1656",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/9d1d60af542abe6264bc67e9149cd5e993fcb460"
+    },
     {
       "sha": "dd28a12467",
       "message": "fix: copy FT.AGGREGATE/FT.HYBRID params into owned storage (#1650)",

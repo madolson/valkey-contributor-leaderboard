@@ -2,9 +2,9 @@
   "title": "soloestoy",
   "login": "soloestoy",
   "avatar_url": "https://avatars.githubusercontent.com/u/24804835?v=4",
-  "score": 60,
+  "score": 61,
   "commit_count": 21,
-  "review_count": 39,
+  "review_count": 40,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -181,6 +181,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7c053b3030",
+      "message": "Strip every repeated LIMIT when rewriting XADD/XTRIM for propagation (#4893)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4893",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7c053b3030299312ebaa90ff66ac2ac0b8f33d37"
+    },
     {
       "sha": "b3b5ab983f",
       "message": "Feature pathhash prefixes (#5070)",

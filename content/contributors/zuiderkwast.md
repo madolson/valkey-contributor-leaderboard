@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1326,
+  "score": 1329,
   "commit_count": 161,
-  "review_count": 1165,
+  "review_count": 1168,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1310,6 +1310,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "838999bd52",
+      "message": "Document the design doc process and restructure patch submission (#5062)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5062",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/838999bd5258c84a8c4ec4f290afa66a9013cff1"
+    },
+    {
+      "sha": "5ed2d25647",
+      "message": "Loop over forkless-policy values directly in rdb tests (#5263)",
+      "date": "2026-11-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5263",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5ed2d256472818f960406fcc83f0a4dbe3242331"
+    },
+    {
+      "sha": "c081eab63a",
+      "message": "Remove the title banner from docs pages (#743)",
+      "date": "2026-11-09",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/743",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c081eab63a2a71d5b0b58dafa36e5e576b168580"
+    },
     {
       "sha": "58a6ddc9dd",
       "message": "CI: use supported macOS 15 runner (#5315)",

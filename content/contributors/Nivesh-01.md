@@ -2,13 +2,21 @@
   "title": "Nivesh-01",
   "login": "Nivesh-01",
   "avatar_url": "https://avatars.githubusercontent.com/u/110855046?v=4",
-  "score": 23,
-  "commit_count": 20,
+  "score": 24,
+  "commit_count": 21,
   "review_count": 3,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "5ca6f4950a",
+      "message": "Reject every NaN spelling in numeric parsing and sort NaN last in SORTBY (#1554)",
+      "date": "2026-11-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1554",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5ca6f4950a1f560921f374f28b2074cdab009b5e"
+    },
     {
       "sha": "eda3508f7f",
       "message": "Stability wedge detection and NaN fix for vectors (#1542)",

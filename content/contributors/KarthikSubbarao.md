@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 325,
-  "commit_count": 126,
-  "review_count": 199,
+  "score": 333,
+  "commit_count": 133,
+  "review_count": 200,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -18,6 +18,62 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "736d919862",
+      "message": "Charge disk usage in the filesystem's allocation unit (#190)",
+      "date": "2026-11-10",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/190",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/736d9198623df3f249f1f318ec60443d26e75dbc"
+    },
+    {
+      "sha": "60f47f74bb",
+      "message": "Move the object file header into an xattr (#191)",
+      "date": "2026-11-10",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/191",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/60f47f74bb7a0ef6347c1fcaada726b2a6e5365e"
+    },
+    {
+      "sha": "e24d33e917",
+      "message": "Build against dma-libfabric 0.1.1 (#193)",
+      "date": "2026-11-10",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/193",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/e24d33e9170155f77b19b1fe4ae68f8391e1fc44"
+    },
+    {
+      "sha": "a6c3f0f4b9",
+      "message": "Drain in-progress promotions before the DRAM ring rebuild (#185)",
+      "date": "2026-11-09",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/185",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/a6c3f0f4b9ee070ee067091ce0e35639855d730e"
+    },
+    {
+      "sha": "9199a888e6",
+      "message": "Shard disk-dir into subdirectories by OID (disk-dir-shards, default 1024) (#187)",
+      "date": "2026-11-09",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/187",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/9199a888e6a17d9aabe037e2d8b526c751745fd3"
+    },
+    {
+      "sha": "02127314ac",
+      "message": "Keep the evicted-key reaper up with eviction; default 2 CRC threads (#189)",
+      "date": "2026-11-09",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/189",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/02127314ac1f7e62dc69599608164981c102db97"
+    },
+    {
+      "sha": "0bd55836cf",
+      "message": "Preallocate Tiered SET object files with fallocate (#183)",
+      "date": "2026-11-09",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/183",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/0bd55836cf37a377e8084179d1f64d66188e31e1"
+    },
     {
       "sha": "0c1bcf36d7",
       "message": "Making TCP commands async and client blocking (#182)",
@@ -1028,6 +1084,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "08bef56c4f",
+      "message": "Module side HELLO sockaddr check (#184)",
+      "date": "2026-11-10",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/184",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/08bef56c4fb6db46363ac9a15699baffb031c797"
+    },
     {
       "sha": "58fcaae64b",
       "message": "Rename blob-decay-time config to lfu-decay-minutes (#173)",

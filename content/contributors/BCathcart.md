@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 160,
+  "score": 161,
   "commit_count": 44,
-  "review_count": 116,
+  "review_count": 117,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -366,6 +366,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5ca6f4950a",
+      "message": "Reject every NaN spelling in numeric parsing and sort NaN last in SORTBY (#1554)",
+      "date": "2026-11-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1554",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5ca6f4950a1f560921f374f28b2074cdab009b5e"
+    },
     {
       "sha": "eda3508f7f",
       "message": "Stability wedge detection and NaN fix for vectors (#1542)",

@@ -2,9 +2,9 @@
   "title": "leslie-bq",
   "login": "leslie-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
-  "score": 14,
+  "score": 16,
   "commit_count": 2,
-  "review_count": 12,
+  "review_count": 14,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -29,6 +29,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7285ee5c51",
+      "message": "fix(php): return false from dbSize() and pExpireTime() when the command fails (#409)",
+      "date": "2026-11-09",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/409",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/7285ee5c512421282efd171432203fd692449331"
+    },
+    {
+      "sha": "103ee042b4",
+      "message": "ci: fix the nightly full matrix (startup failure, ARM64 runners, LOLWUT test) (#408)",
+      "date": "2026-11-09",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/408",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/103ee042b42b5a508f817f4cc5cecbea2d1d42b2"
+    },
     {
       "sha": "0a00d4414a",
       "message": "fix(php): fix memory-safety bugs in SORT, FCALL, list push, HRANDFIELD (#425)",

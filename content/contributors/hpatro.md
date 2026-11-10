@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 311,
+  "score": 312,
   "commit_count": 66,
-  "review_count": 245,
+  "review_count": 246,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -547,6 +547,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "838999bd52",
+      "message": "Document the design doc process and restructure patch submission (#5062)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5062",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/838999bd5258c84a8c4ec4f290afa66a9013cff1"
+    },
     {
       "sha": "b3a1356376",
       "message": "Optimize infoCommand with SDS pre-allocation (#3413)",

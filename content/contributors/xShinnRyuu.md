@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 504,
-  "commit_count": 145,
-  "review_count": 359,
+  "score": 507,
+  "commit_count": 147,
+  "review_count": 360,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "0c94d95d78",
+      "message": "test: fix flaky memoryStats allocator-fragmentation assertion in all clients (#7619)",
+      "date": "2026-11-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7619",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0c94d95d782071a2501c1e0550f9c188d0cd0940"
+    },
+    {
+      "sha": "10f330b260",
+      "message": "test(java): stabilize testAbandonMonitorDoesNotReclaimBlockingClient active-count race (#7214)",
+      "date": "2026-11-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7214",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/10f330b260733fc22fe4c7a74b177fec82892ff7"
+    },
     {
       "sha": "b208c2c4a6",
       "message": "test(python): raise sync large-value test timeouts to 30 s for macOS runners (#7577)",
@@ -1177,6 +1193,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e6a3d638c9",
+      "message": "test(node): Cut pubsub test wall time by 77% by replacing fixed sleeps with polling (#7617)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7617",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e6a3d638c9ff9600584c56dd72b8e5d1a1d6806d"
+    },
     {
       "sha": "d3f0b3fb63",
       "message": "perf(java): cut integTest fixed waits from 14 min to 8.5 min (#7506)",

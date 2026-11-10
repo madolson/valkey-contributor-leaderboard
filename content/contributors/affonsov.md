@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 310,
+  "score": 311,
   "commit_count": 103,
-  "review_count": 207,
+  "review_count": 208,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -840,6 +840,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f1b01a6b54",
+      "message": "docs: catch up recently added client features (#369)",
+      "date": "2026-11-09",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/369",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/f1b01a6b5401f80b7673a61af7df1018d492fcd1"
+    },
     {
       "sha": "74eadb0de5",
       "message": "refactor(core): hold ClientPool behind std::sync::Mutex (#7515)",

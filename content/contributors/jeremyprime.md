@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 324,
+  "score": 330,
   "commit_count": 101,
-  "review_count": 223,
+  "review_count": 229,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -824,6 +824,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e6a3d638c9",
+      "message": "test(node): Cut pubsub test wall time by 77% by replacing fixed sleeps with polling (#7617)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7617",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e6a3d638c9ff9600584c56dd72b8e5d1a1d6806d"
+    },
+    {
+      "sha": "0c94d95d78",
+      "message": "test: fix flaky memoryStats allocator-fragmentation assertion in all clients (#7619)",
+      "date": "2026-11-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7619",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0c94d95d782071a2501c1e0550f9c188d0cd0940"
+    },
+    {
+      "sha": "10f330b260",
+      "message": "test(java): stabilize testAbandonMonitorDoesNotReclaimBlockingClient active-count race (#7214)",
+      "date": "2026-11-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7214",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/10f330b260733fc22fe4c7a74b177fec82892ff7"
+    },
+    {
+      "sha": "dfc9fe5461",
+      "message": "ci: lint GitHub Actions workflows with actionlint (#7594)",
+      "date": "2026-11-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7594",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dfc9fe546195b42710af0b1598a1ec84a2a1bdf1"
+    },
+    {
+      "sha": "f1b01a6b54",
+      "message": "docs: catch up recently added client features (#369)",
+      "date": "2026-11-09",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/369",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/f1b01a6b5401f80b7673a61af7df1018d492fcd1"
+    },
+    {
+      "sha": "f7e684698c",
+      "message": "docs: correct client examples and guidance (#370)",
+      "date": "2026-11-09",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/370",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/f7e684698ca0306187bb0aed1d27b968d5c1e070"
+    },
     {
       "sha": "82887975aa",
       "message": "docs: add RDMA transfers pages for the synchronous Python client (#367)",

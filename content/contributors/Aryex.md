@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 358,
-  "commit_count": 136,
+  "score": 360,
+  "commit_count": 138,
   "review_count": 222,
   "repos": [
     "spring-data-valkey",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "f1b01a6b54",
+      "message": "docs: catch up recently added client features (#369)",
+      "date": "2026-11-09",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/369",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/f1b01a6b5401f80b7673a61af7df1018d492fcd1"
+    },
+    {
+      "sha": "f7e684698c",
+      "message": "docs: correct client examples and guidance (#370)",
+      "date": "2026-11-09",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/370",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/f7e684698ca0306187bb0aed1d27b968d5c1e070"
+    },
     {
       "sha": "d0c70a5635",
       "message": "docs: update pool, isolated scope, and recovery queue (#368)",

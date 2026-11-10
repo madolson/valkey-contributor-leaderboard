@@ -2,9 +2,9 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 67,
+  "score": 68,
   "commit_count": 30,
-  "review_count": 37,
+  "review_count": 38,
   "repos": [
     "valkey",
     "valkey-container",
@@ -253,6 +253,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7c053b3030",
+      "message": "Strip every repeated LIMIT when rewriting XADD/XTRIM for propagation (#4893)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4893",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7c053b3030299312ebaa90ff66ac2ac0b8f33d37"
+    },
     {
       "sha": "b8d08dfe29",
       "message": "Fix uninitialized variable use in clusterManagerMigrateKeysInSlot (#5311)",

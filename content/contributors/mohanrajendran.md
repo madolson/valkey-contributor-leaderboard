@@ -2,14 +2,22 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 24,
-  "commit_count": 9,
-  "review_count": 15,
+  "score": 26,
+  "commit_count": 10,
+  "review_count": 16,
   "repos": [
     "valkey-json",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "d08f29e1e3",
+      "message": "refactor(text): remove dead RadixTree template and its test (#1432)",
+      "date": "2026-11-09",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1432",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d08f29e1e36d3eca830344acc0641890bc2dcfac"
+    },
     {
       "sha": "aeaa68237e",
       "message": "Fix JSONPath filters over object children (#123)",
@@ -84,6 +92,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1d9062ada7",
+      "message": "Fix CI on ubuntu-26.04 runners (#128)",
+      "date": "2026-11-09",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/128",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/1d9062ada728d809e0aeee4b4f9ecb1ac4420acd"
+    },
     {
       "sha": "7e7adf25ef",
       "message": "FT.HYBRID: rescore mutated documents in a match-all SEARCH arm (#1634)",

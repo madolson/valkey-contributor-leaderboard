@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 1087,
-  "commit_count": 293,
-  "review_count": 794,
+  "score": 1096,
+  "commit_count": 300,
+  "review_count": 796,
   "repos": [
     ".github",
     "assets",
@@ -23,6 +23,62 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "838999bd52",
+      "message": "Document the design doc process and restructure patch submission (#5062)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5062",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/838999bd5258c84a8c4ec4f290afa66a9013cff1"
+    },
+    {
+      "sha": "7c053b3030",
+      "message": "Strip every repeated LIMIT when rewriting XADD/XTRIM for propagation (#4893)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4893",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7c053b3030299312ebaa90ff66ac2ac0b8f33d37"
+    },
+    {
+      "sha": "116e7f9534",
+      "message": "Do not adopt the MYSELF flag from a gossip entry (#5134)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5134",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/116e7f9534440b7b8d4370a6d3038eb760acbcee"
+    },
+    {
+      "sha": "d5b4fda740",
+      "message": "Allow the Lua debugger to start on an empty script (#5117)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5117",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d5b4fda740a4d71eb138ff3722442a9f5f546056"
+    },
+    {
+      "sha": "5ed2d25647",
+      "message": "Loop over forkless-policy values directly in rdb tests (#5263)",
+      "date": "2026-11-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5263",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5ed2d256472818f960406fcc83f0a4dbe3242331"
+    },
+    {
+      "sha": "2c780fc3d1",
+      "message": "Pin six release pages to their own container tags (#715)",
+      "date": "2026-11-09",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/715",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/2c780fc3d1f6441140f1b5c9faac0f0afd9ea09d"
+    },
+    {
+      "sha": "c081eab63a",
+      "message": "Remove the title banner from docs pages (#743)",
+      "date": "2026-11-09",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/743",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/c081eab63a2a71d5b0b58dafa36e5e576b168580"
+    },
     {
       "sha": "9b4dcf617d",
       "message": "Cap the length of inbound cluster bus packets (#5065)",
@@ -2369,6 +2425,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "35373fa80b",
+      "message": "Compact sparse B+tree leaves inline on the sorted set delete path (#4526)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4526",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/35373fa80b3f3429f5fe311123a7758632747dca"
+    },
+    {
+      "sha": "2d84f93bbf",
+      "message": "fbtree: count leaves exactly and validate the leaf chain (#5045)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5045",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2d84f93bbf1dcb3fdc656e671c191867cb318e14"
+    },
     {
       "sha": "0479b9ef7f",
       "message": "Replace corrupted PDF with verified brand guidelines",

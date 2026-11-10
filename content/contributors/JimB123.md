@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 96,
+  "score": 98,
   "commit_count": 29,
-  "review_count": 67,
+  "review_count": 69,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -244,6 +244,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dfdea17995",
+      "message": "bgiteration: process ITER_CLOSED after items queued behind it (#5326)",
+      "date": "2026-11-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5326",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/dfdea17995729a50fd6ee2a5629d84e616500b11"
+    },
+    {
+      "sha": "702a107516",
+      "message": "Fix full sync loop after PSYNC to SYNC fallback (#5280)",
+      "date": "2026-11-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5280",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/702a107516d78354a9473dd1b43a12835d8a2c61"
+    },
     {
       "sha": "c96bdec601",
       "message": "Stabilize forkless replication tests (#5307)",

@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 100,
-  "commit_count": 32,
-  "review_count": 68,
+  "score": 102,
+  "commit_count": 33,
+  "review_count": 69,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "e6a3d638c9",
+      "message": "test(node): Cut pubsub test wall time by 77% by replacing fixed sleeps with polling (#7617)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7617",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e6a3d638c9ff9600584c56dd72b8e5d1a1d6806d"
+    },
     {
       "sha": "d3f0b3fb63",
       "message": "perf(java): cut integTest fixed waits from 14 min to 8.5 min (#7506)",
@@ -271,6 +279,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "10f330b260",
+      "message": "test(java): stabilize testAbandonMonitorDoesNotReclaimBlockingClient active-count race (#7214)",
+      "date": "2026-11-09",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7214",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/10f330b260733fc22fe4c7a74b177fec82892ff7"
+    },
     {
       "sha": "82887975aa",
       "message": "docs: add RDMA transfers pages for the synchronous Python client (#367)",

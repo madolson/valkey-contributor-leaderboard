@@ -2,9 +2,9 @@
   "title": "nitaicaro",
   "login": "nitaicaro",
   "avatar_url": "https://avatars.githubusercontent.com/u/42576749?v=4",
-  "score": 16,
+  "score": 17,
   "commit_count": 12,
-  "review_count": 4,
+  "review_count": 5,
   "repos": [
     "valkey"
   ],
@@ -107,6 +107,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "702a107516",
+      "message": "Fix full sync loop after PSYNC to SYNC fallback (#5280)",
+      "date": "2026-11-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5280",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/702a107516d78354a9473dd1b43a12835d8a2c61"
+    },
     {
       "sha": "3ef5fef19f",
       "message": "bgiteration: avoid missing key check for multi/exec commands (#5205)",

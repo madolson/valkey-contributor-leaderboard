@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 468,
-  "commit_count": 167,
-  "review_count": 301,
+  "score": 470,
+  "commit_count": 168,
+  "review_count": 302,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -20,6 +20,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "1d9062ada7",
+      "message": "Fix CI on ubuntu-26.04 runners (#128)",
+      "date": "2026-11-09",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/128",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/1d9062ada728d809e0aeee4b4f9ecb1ac4420acd"
+    },
     {
       "sha": "7c8f915ff0",
       "message": "Fix release template packages front matter (#722)",
@@ -1358,6 +1366,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2c780fc3d1",
+      "message": "Pin six release pages to their own container tags (#715)",
+      "date": "2026-11-09",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/715",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/2c780fc3d1f6441140f1b5c9faac0f0afd9ea09d"
+    },
     {
       "sha": "9b4dcf617d",
       "message": "Cap the length of inbound cluster bus packets (#5065)",

@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 207,
-  "commit_count": 46,
-  "review_count": 161,
+  "score": 213,
+  "commit_count": 48,
+  "review_count": 165,
   "repos": [
     "valkey",
     "valkey-container",
@@ -14,6 +14,22 @@
     "valkey-skills"
   ],
   "commit_list": [
+    {
+      "sha": "35373fa80b",
+      "message": "Compact sparse B+tree leaves inline on the sorted set delete path (#4526)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4526",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/35373fa80b3f3429f5fe311123a7758632747dca"
+    },
+    {
+      "sha": "2d84f93bbf",
+      "message": "fbtree: count leaves exactly and validate the leaf chain (#5045)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5045",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2d84f93bbf1dcb3fdc656e671c191867cb318e14"
+    },
     {
       "sha": "5b7984e900",
       "message": "Revert \"Make unit tests independent of the order they run in\" (#5320)",
@@ -384,6 +400,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "838999bd52",
+      "message": "Document the design doc process and restructure patch submission (#5062)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5062",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/838999bd5258c84a8c4ec4f290afa66a9013cff1"
+    },
+    {
+      "sha": "116e7f9534",
+      "message": "Do not adopt the MYSELF flag from a gossip entry (#5134)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5134",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/116e7f9534440b7b8d4370a6d3038eb760acbcee"
+    },
+    {
+      "sha": "d5b4fda740",
+      "message": "Allow the Lua debugger to start on an empty script (#5117)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5117",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d5b4fda740a4d71eb138ff3722442a9f5f546056"
+    },
+    {
+      "sha": "caf5f2bfc2",
+      "message": "Deflake COPY Preserves TTLs test under libc malloc (#4785)",
+      "date": "2026-11-09",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4785",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/caf5f2bfc20dd5371d87202ee338b348593e2a1b"
+    },
     {
       "sha": "11555f1221",
       "message": "[TEST] Speed up \"client evicted due to client tracking prefixes\" test (#4854)",

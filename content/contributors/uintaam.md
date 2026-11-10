@@ -2,13 +2,29 @@
   "title": "uintaam",
   "login": "uintaam",
   "avatar_url": "https://avatars.githubusercontent.com/u/295346?v=4",
-  "score": 19,
-  "commit_count": 19,
+  "score": 21,
+  "commit_count": 21,
   "review_count": 0,
   "repos": [
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "7285ee5c51",
+      "message": "fix(php): return false from dbSize() and pExpireTime() when the command fails (#409)",
+      "date": "2026-11-09",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/409",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/7285ee5c512421282efd171432203fd692449331"
+    },
+    {
+      "sha": "103ee042b4",
+      "message": "ci: fix the nightly full matrix (startup failure, ARM64 runners, LOLWUT test) (#408)",
+      "date": "2026-11-09",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/408",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/103ee042b42b5a508f817f4cc5cecbea2d1d42b2"
+    },
     {
       "sha": "90ef541ea7",
       "message": "fix(php): free an address resolver when its client is closed, not at request shutdown (#397)",
