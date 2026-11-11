@@ -2,8 +2,8 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 102,
-  "commit_count": 33,
+  "score": 106,
+  "commit_count": 37,
   "review_count": 69,
   "repos": [
     "valkey-glide",
@@ -20,6 +20,38 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7617",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e6a3d638c9ff9600584c56dd72b8e5d1a1d6806d"
+    },
+    {
+      "sha": "90ace98865",
+      "message": "refactor(core): hold ScopePool behind std::sync::Mutex",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7607",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/90ace988650641554b72c08abdb04e5ce86f142a"
+    },
+    {
+      "sha": "2ec4aabbbd",
+      "message": "ci(core): save only the registry crates in the glide-core cargo target cache (#7598)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7598",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2ec4aabbbd9ae7ed1aec2c50fda0a7887bd87924"
+    },
+    {
+      "sha": "ad74905048",
+      "message": "ci(java,core): key the cargo target caches on their Cargo.lock (#7595)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7595",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ad74905048686d6f87791f3ac776ff3ac34cd665"
+    },
+    {
+      "sha": "c8475baa45",
+      "message": "ci: Pass --locked to cargo and maturin builds (#7002)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7002",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c8475baa452c0921d5470e50a5df45f5b4763b63"
     },
     {
       "sha": "d3f0b3fb63",

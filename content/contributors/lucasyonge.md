@@ -2,9 +2,9 @@
   "title": "lucasyonge",
   "login": "lucasyonge",
   "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
-  "score": 23,
+  "score": 24,
   "commit_count": 4,
-  "review_count": 19,
+  "review_count": 20,
   "repos": [
     "valkey",
     "valkey-container",
@@ -47,6 +47,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bd96d32062",
+      "message": "Try the last good topology source first in refresh cycles (#29)",
+      "date": "2026-11-10",
+      "repo": "valkey-proxy",
+      "pr_url": "https://github.com/valkey-io/valkey-proxy/pull/29",
+      "commit_url": "https://github.com/valkey-io/valkey-proxy/commit/bd96d320624964c2c9242296d20ffd65bae59b0f"
+    },
     {
       "sha": "7836c5afe1",
       "message": "Fix for XINFO GROUPS reports too-high lag after XTRIM removes unread \u2026 (#4983)",

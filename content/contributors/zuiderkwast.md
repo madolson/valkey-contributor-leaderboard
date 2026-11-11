@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1329,
+  "score": 1331,
   "commit_count": 161,
-  "review_count": 1168,
+  "review_count": 1170,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1317,6 +1317,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/5062",
       "commit_url": "https://github.com/valkey-io/valkey/commit/838999bd5258c84a8c4ec4f290afa66a9013cff1"
+    },
+    {
+      "sha": "7ec927fd1f",
+      "message": "Disconnect default user subscribers to revoked channels on ACL LOAD (#5085)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5085",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7ec927fd1fa9a22b7d90b9c46123716103783bad"
+    },
+    {
+      "sha": "39f27052bf",
+      "message": "Respect NOFAILOVER during shutdown failover (#5033)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5033",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/39f27052bf9ee985c9d52a0aa908749f12633eb4"
     },
     {
       "sha": "5ed2d25647",

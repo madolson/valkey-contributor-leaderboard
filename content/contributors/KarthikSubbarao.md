@@ -2,8 +2,8 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 333,
-  "commit_count": 133,
+  "score": 335,
+  "commit_count": 135,
   "review_count": 200,
   "repos": [
     "valkey",
@@ -18,6 +18,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "6a5781c115",
+      "message": "Delete evicted keys by name from a key hint in the file header (#194)",
+      "date": "2026-11-11",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/194",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/6a5781c115bfa5c34fbe6762982f2a0b4552a26f"
+    },
     {
       "sha": "736d919862",
       "message": "Charge disk usage in the filesystem's allocation unit (#190)",
@@ -41,6 +49,14 @@
       "repo": "valkey-large-object",
       "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/193",
       "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/e24d33e9170155f77b19b1fe4ae68f8391e1fc44"
+    },
+    {
+      "sha": "e2392d78af",
+      "message": "Raise fabric-max-in-flight, worker-threads and reaper-poll-ms defaults (#195)",
+      "date": "2026-11-10",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/195",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/e2392d78af448f1c81c9e80bc65cc7a5c9efbab3"
     },
     {
       "sha": "a6c3f0f4b9",

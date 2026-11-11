@@ -2,9 +2,9 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 68,
+  "score": 70,
   "commit_count": 30,
-  "review_count": 38,
+  "review_count": 40,
   "repos": [
     "valkey",
     "valkey-container",
@@ -260,6 +260,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/4893",
       "commit_url": "https://github.com/valkey-io/valkey/commit/7c053b3030299312ebaa90ff66ac2ac0b8f33d37"
+    },
+    {
+      "sha": "7ec927fd1f",
+      "message": "Disconnect default user subscribers to revoked channels on ACL LOAD (#5085)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5085",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7ec927fd1fa9a22b7d90b9c46123716103783bad"
+    },
+    {
+      "sha": "734bca3977",
+      "message": "Retry creating the nodes.conf folder in cluster misc tests (#5026)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5026",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/734bca3977ef191bc5a4117aa999a7e528edf9ee"
     },
     {
       "sha": "b8d08dfe29",

@@ -2,13 +2,29 @@
   "title": "khrisrichardson",
   "login": "khrisrichardson",
   "avatar_url": "https://avatars.githubusercontent.com/u/3643677?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "edc030241f",
+      "message": "test: check that a trusted certificate naming no ACL user gets NOAUTH (#626)",
+      "date": "2026-11-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/626",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/edc030241fb73b8d79da75f5931660de8610a3c2"
+    },
+    {
+      "sha": "9c2b51da47",
+      "message": "feat: disable the default user unless acl.users declares it (#620)",
+      "date": "2026-11-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/620",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9c2b51da47313928c502c7e88932091e0078717c"
+    },
     {
       "sha": "5d6ae08cfd",
       "message": "refactor: name the trust bundle Secret valkey-<cluster>-tls-trust (#594)",

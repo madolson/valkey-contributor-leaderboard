@@ -2,15 +2,23 @@
   "title": "leslie-bq",
   "login": "leslie-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
-  "score": 16,
-  "commit_count": 2,
-  "review_count": 14,
+  "score": 19,
+  "commit_count": 3,
+  "review_count": 16,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "41c9e0a839",
+      "message": "feat(php): add SISMEMBER XX support via sIsMemberIfExists (#402)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/402",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/41c9e0a8390fc2cd84172116786e6dd3a9103bdb"
+    },
     {
       "sha": "a6f2ab24be",
       "message": "test(php): Improve stability of PubSub tests, add 5-time default retry for apt-get, pin Pluggy and Scancode version (#372)",
@@ -29,6 +37,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "22630821ce",
+      "message": "fix(php): keep hGetEx() arguments alive until exec() in a batch (#412)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/412",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/22630821cee8bf48db8974c97216e75fbf6934cc"
+    },
+    {
+      "sha": "30f80103a4",
+      "message": "fix(php): record rawcommand() errors for getLastError() (#410)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/410",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/30f80103a437c1763c37876f93290338c07b59fa"
+    },
     {
       "sha": "7285ee5c51",
       "message": "fix(php): return false from dbSize() and pExpireTime() when the command fails (#409)",

@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 930,
+  "score": 936,
   "commit_count": 45,
-  "review_count": 885,
+  "review_count": 891,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -384,6 +384,54 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7617",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e6a3d638c9ff9600584c56dd72b8e5d1a1d6806d"
+    },
+    {
+      "sha": "90ace98865",
+      "message": "refactor(core): hold ScopePool behind std::sync::Mutex",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7607",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/90ace988650641554b72c08abdb04e5ce86f142a"
+    },
+    {
+      "sha": "2ec4aabbbd",
+      "message": "ci(core): save only the registry crates in the glide-core cargo target cache (#7598)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7598",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2ec4aabbbd9ae7ed1aec2c50fda0a7887bd87924"
+    },
+    {
+      "sha": "ad74905048",
+      "message": "ci(java,core): key the cargo target caches on their Cargo.lock (#7595)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7595",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ad74905048686d6f87791f3ac776ff3ac34cd665"
+    },
+    {
+      "sha": "ffcd48d71a",
+      "message": "ci(go): fix RC-version runs of the Go workflow (#7635)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7635",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ffcd48d71ae52c40648d45da205fe21b8fd739bc"
+    },
+    {
+      "sha": "9a90a59610",
+      "message": "fix(core): reinit the global timeout watchdog in forked children (#7569)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7569",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9a90a596106b65a32466b5f790c8f776153a86d1"
+    },
+    {
+      "sha": "93a1fa6738",
+      "message": "docs: update client capabilities from audit (#375)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/375",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/93a1fa67386d07fb9b49e1049fc86d39da944338"
     },
     {
       "sha": "0c94d95d78",

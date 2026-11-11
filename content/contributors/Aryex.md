@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 360,
-  "commit_count": 138,
+  "score": 362,
+  "commit_count": 140,
   "review_count": 222,
   "repos": [
     "spring-data-valkey",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "93a1fa6738",
+      "message": "docs: update client capabilities from audit (#375)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/375",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/93a1fa67386d07fb9b49e1049fc86d39da944338"
+    },
+    {
+      "sha": "ad2b432a11",
+      "message": "docs: update platform requirements for GLIDE 2.6 (#372)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/372",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/ad2b432a11953f72fb41787dd90f5dc8c0f60d0d"
+    },
     {
       "sha": "f1b01a6b54",
       "message": "docs: catch up recently added client features (#369)",

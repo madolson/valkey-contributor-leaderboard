@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 507,
-  "commit_count": 147,
-  "review_count": 360,
+  "score": 510,
+  "commit_count": 149,
+  "review_count": 361,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "ffcd48d71a",
+      "message": "ci(go): fix RC-version runs of the Go workflow (#7635)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7635",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ffcd48d71ae52c40648d45da205fe21b8fd739bc"
+    },
+    {
+      "sha": "9a90a59610",
+      "message": "fix(core): reinit the global timeout watchdog in forked children (#7569)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7569",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9a90a596106b65a32466b5f790c8f776153a86d1"
+    },
     {
       "sha": "0c94d95d78",
       "message": "test: fix flaky memoryStats allocator-fragmentation assertion in all clients (#7619)",
@@ -1200,6 +1216,30 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7617",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e6a3d638c9ff9600584c56dd72b8e5d1a1d6806d"
+    },
+    {
+      "sha": "2ec4aabbbd",
+      "message": "ci(core): save only the registry crates in the glide-core cargo target cache (#7598)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7598",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2ec4aabbbd9ae7ed1aec2c50fda0a7887bd87924"
+    },
+    {
+      "sha": "ac54d8ac04",
+      "message": "build(deps): bump tokio-util from 0.7.19 to 0.7.20 in /node/rust-client in the patch-updates group across 1 directory (#7615)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7615",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ac54d8ac04782d9acdfe3aa1b5ace8719d8f4693"
+    },
+    {
+      "sha": "25b51587a7",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 2 updates (#7614)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7614",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/25b51587a7d268ee0214d68a52f1703982fd3e72"
     },
     {
       "sha": "d3f0b3fb63",

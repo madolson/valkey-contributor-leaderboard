@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 98,
+  "score": 99,
   "commit_count": 29,
-  "review_count": 69,
+  "review_count": 70,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -244,6 +244,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9abbfd2557",
+      "message": "Use the effective replica output buffer limit for the steady-state throttle target (#5338)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5338",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9abbfd2557a492e325a164a93122f9626abc0b1d"
+    },
     {
       "sha": "dfdea17995",
       "message": "bgiteration: process ITER_CLOSED after items queued behind it (#5326)",

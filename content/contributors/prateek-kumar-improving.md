@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 486,
+  "score": 487,
   "commit_count": 165,
-  "review_count": 321,
+  "review_count": 322,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1335,6 +1335,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "41c9e0a839",
+      "message": "feat(php): add SISMEMBER XX support via sIsMemberIfExists (#402)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/402",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/41c9e0a8390fc2cd84172116786e6dd3a9103bdb"
+    },
     {
       "sha": "f5825b5fd4",
       "message": "feat(php): add sharded pub/sub (SSUBSCRIBE, SUNSUBSCRIBE, SPUBLISH) to cluster client (#341)",

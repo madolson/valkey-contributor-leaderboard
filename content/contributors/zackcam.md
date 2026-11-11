@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 114,
+  "score": 116,
   "commit_count": 63,
-  "review_count": 51,
+  "review_count": 53,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -524,6 +524,14 @@
   ],
   "review_list": [
     {
+      "sha": "6a5781c115",
+      "message": "Delete evicted keys by name from a key hint in the file header (#194)",
+      "date": "2026-11-11",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/194",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/6a5781c115bfa5c34fbe6762982f2a0b4552a26f"
+    },
+    {
       "sha": "736d919862",
       "message": "Charge disk usage in the filesystem's allocation unit (#190)",
       "date": "2026-11-10",
@@ -546,6 +554,14 @@
       "repo": "valkey-large-object",
       "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/193",
       "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/e24d33e9170155f77b19b1fe4ae68f8391e1fc44"
+    },
+    {
+      "sha": "e2392d78af",
+      "message": "Raise fabric-max-in-flight, worker-threads and reaper-poll-ms defaults (#195)",
+      "date": "2026-11-10",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/195",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/e2392d78af448f1c81c9e80bc65cc7a5c9efbab3"
     },
     {
       "sha": "a6c3f0f4b9",

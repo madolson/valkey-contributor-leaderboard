@@ -2,14 +2,22 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 47,
-  "commit_count": 25,
+  "score": 48,
+  "commit_count": 26,
   "review_count": 22,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "01d6e6d0c5",
+      "message": "feat: add spec.replicasPerShard and deprecate spec.replicas (#559) (#590)",
+      "date": "2026-11-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/590",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/01d6e6d0c5ccd5acaf2e733e18ea57bf3affbd7d"
+    },
     {
       "sha": "2f41d8eb4b",
       "message": "feat: add opt-in ClusterIP Service per node (#367) (#490)",

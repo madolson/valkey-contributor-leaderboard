@@ -2,13 +2,29 @@
   "title": "uintaam",
   "login": "uintaam",
   "avatar_url": "https://avatars.githubusercontent.com/u/295346?v=4",
-  "score": 21,
-  "commit_count": 21,
+  "score": 23,
+  "commit_count": 23,
   "review_count": 0,
   "repos": [
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "22630821ce",
+      "message": "fix(php): keep hGetEx() arguments alive until exec() in a batch (#412)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/412",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/22630821cee8bf48db8974c97216e75fbf6934cc"
+    },
+    {
+      "sha": "30f80103a4",
+      "message": "fix(php): record rawcommand() errors for getLastError() (#410)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/410",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/30f80103a437c1763c37876f93290338c07b59fa"
+    },
     {
       "sha": "7285ee5c51",
       "message": "fix(php): return false from dbSize() and pExpireTime() when the command fails (#409)",

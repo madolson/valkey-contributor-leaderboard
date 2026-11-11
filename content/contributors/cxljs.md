@@ -2,8 +2,8 @@
   "title": "cxljs",
   "login": "cxljs",
   "avatar_url": "https://avatars.githubusercontent.com/u/24987055?v=4",
-  "score": 11,
-  "commit_count": 11,
+  "score": 12,
+  "commit_count": 12,
   "review_count": 0,
   "repos": [
     "libvalkey",
@@ -13,6 +13,14 @@
     "valkey-py"
   ],
   "commit_list": [
+    {
+      "sha": "bd96d32062",
+      "message": "Try the last good topology source first in refresh cycles (#29)",
+      "date": "2026-11-10",
+      "repo": "valkey-proxy",
+      "pr_url": "https://github.com/valkey-io/valkey-proxy/pull/29",
+      "commit_url": "https://github.com/valkey-io/valkey-proxy/commit/bd96d320624964c2c9242296d20ffd65bae59b0f"
+    },
     {
       "sha": "617e9255c3",
       "message": "Reuse worker_sync_topology() for worker startup topology seeding (#24)",

@@ -2,8 +2,8 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 1096,
-  "commit_count": 300,
+  "score": 1098,
+  "commit_count": 302,
   "review_count": 796,
   "repos": [
     ".github",
@@ -54,6 +54,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/5117",
       "commit_url": "https://github.com/valkey-io/valkey/commit/d5b4fda740a4d71eb138ff3722442a9f5f546056"
+    },
+    {
+      "sha": "7ec927fd1f",
+      "message": "Disconnect default user subscribers to revoked channels on ACL LOAD (#5085)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5085",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/7ec927fd1fa9a22b7d90b9c46123716103783bad"
+    },
+    {
+      "sha": "6187f98a6b",
+      "message": "Make BCAST tracking cost proportional to the prefixes a key matches (#5183)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5183",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6187f98a6b999f46f2c22962022f7369c9655687"
     },
     {
       "sha": "5ed2d25647",

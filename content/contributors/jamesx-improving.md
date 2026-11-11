@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 397,
+  "score": 401,
   "commit_count": 85,
-  "review_count": 312,
+  "review_count": 316,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -695,6 +695,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2ec4aabbbd",
+      "message": "ci(core): save only the registry crates in the glide-core cargo target cache (#7598)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7598",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2ec4aabbbd9ae7ed1aec2c50fda0a7887bd87924"
+    },
+    {
+      "sha": "c8475baa45",
+      "message": "ci: Pass --locked to cargo and maturin builds (#7002)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7002",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c8475baa452c0921d5470e50a5df45f5b4763b63"
+    },
+    {
+      "sha": "ffcd48d71a",
+      "message": "ci(go): fix RC-version runs of the Go workflow (#7635)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7635",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ffcd48d71ae52c40648d45da205fe21b8fd739bc"
+    },
+    {
+      "sha": "ad2b432a11",
+      "message": "docs: update platform requirements for GLIDE 2.6 (#372)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/372",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/ad2b432a11953f72fb41787dd90f5dc8c0f60d0d"
+    },
     {
       "sha": "dfc9fe5461",
       "message": "ci: lint GitHub Actions workflows with actionlint (#7594)",

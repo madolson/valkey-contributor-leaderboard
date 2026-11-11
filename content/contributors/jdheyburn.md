@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 198,
-  "commit_count": 71,
-  "review_count": 127,
+  "score": 203,
+  "commit_count": 72,
+  "review_count": 131,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "f050bd7042",
+      "message": "feat: connect to Valkey as the operator user only (#542)",
+      "date": "2026-11-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/542",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/f050bd7042f4053e764e4b737a639db0ff112561"
+    },
     {
       "sha": "4f8d101df2",
       "message": "Update jheyburn.md (#755)",
@@ -583,6 +591,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "01d6e6d0c5",
+      "message": "feat: add spec.replicasPerShard and deprecate spec.replicas (#559) (#590)",
+      "date": "2026-11-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/590",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/01d6e6d0c5ccd5acaf2e733e18ea57bf3affbd7d"
+    },
+    {
+      "sha": "edc030241f",
+      "message": "test: check that a trusted certificate naming no ACL user gets NOAUTH (#626)",
+      "date": "2026-11-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/626",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/edc030241fb73b8d79da75f5931660de8610a3c2"
+    },
+    {
+      "sha": "7104744553",
+      "message": "fix(api): set fieldPath and reason on the CEL validation rules (#619)",
+      "date": "2026-11-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/619",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/7104744553c663328efc30eb52fb72277fbacc05"
+    },
+    {
+      "sha": "9c2b51da47",
+      "message": "feat: disable the default user unless acl.users declares it (#620)",
+      "date": "2026-11-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/620",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9c2b51da47313928c502c7e88932091e0078717c"
+    },
     {
       "sha": "5d6ae08cfd",
       "message": "refactor: name the trust bundle Secret valkey-<cluster>-tls-trust (#594)",

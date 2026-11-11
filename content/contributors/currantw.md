@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 402,
+  "score": 404,
   "commit_count": 233,
-  "review_count": 169,
+  "review_count": 171,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -1881,6 +1881,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ac54d8ac04",
+      "message": "build(deps): bump tokio-util from 0.7.19 to 0.7.20 in /node/rust-client in the patch-updates group across 1 directory (#7615)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7615",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ac54d8ac04782d9acdfe3aa1b5ace8719d8f4693"
+    },
+    {
+      "sha": "25b51587a7",
+      "message": "build(deps): bump the patch-updates group across 1 directory with 2 updates (#7614)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7614",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/25b51587a7d268ee0214d68a52f1703982fd3e72"
+    },
+    {
+      "sha": "c8475baa45",
+      "message": "ci: Pass --locked to cargo and maturin builds (#7002)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7002",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c8475baa452c0921d5470e50a5df45f5b4763b63"
+    },
+    {
+      "sha": "41c9e0a839",
+      "message": "feat(php): add SISMEMBER XX support via sIsMemberIfExists (#402)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/402",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/41c9e0a8390fc2cd84172116786e6dd3a9103bdb"
+    },
     {
       "sha": "b21c4eb343",
       "message": "chore(deps): bump valkey-glide from `db45db5` to `3ea2878` (#618)",

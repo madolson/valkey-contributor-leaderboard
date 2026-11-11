@@ -2,9 +2,9 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 26,
+  "score": 27,
   "commit_count": 10,
-  "review_count": 16,
+  "review_count": 17,
   "repos": [
     "valkey-json",
     "valkey-search"
@@ -92,6 +92,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0ef7c8adb1",
+      "message": "Fix overflow in JSONPath slice iteration (#124)",
+      "date": "2026-11-10",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/124",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/0ef7c8adb135796352171369491e2d16b7fd227e"
+    },
     {
       "sha": "1d9062ada7",
       "message": "Fix CI on ubuntu-26.04 runners (#128)",

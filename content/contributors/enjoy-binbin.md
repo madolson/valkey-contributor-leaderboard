@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 1035,
-  "commit_count": 398,
-  "review_count": 637,
+  "score": 1039,
+  "commit_count": 399,
+  "review_count": 640,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "9abbfd2557",
+      "message": "Use the effective replica output buffer limit for the steady-state throttle target (#5338)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5338",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9abbfd2557a492e325a164a93122f9626abc0b1d"
+    },
     {
       "sha": "aa7545348b",
       "message": "Validate slot import ranges in valkey-check-rdb when checking slot RDB (#4470)",
@@ -3207,6 +3215,30 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/5062",
       "commit_url": "https://github.com/valkey-io/valkey/commit/838999bd5258c84a8c4ec4f290afa66a9013cff1"
+    },
+    {
+      "sha": "39f27052bf",
+      "message": "Respect NOFAILOVER during shutdown failover (#5033)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5033",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/39f27052bf9ee985c9d52a0aa908749f12633eb4"
+    },
+    {
+      "sha": "6187f98a6b",
+      "message": "Make BCAST tracking cost proportional to the prefixes a key matches (#5183)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5183",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6187f98a6b999f46f2c22962022f7369c9655687"
+    },
+    {
+      "sha": "734bca3977",
+      "message": "Retry creating the nodes.conf folder in cluster misc tests (#5026)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5026",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/734bca3977ef191bc5a4117aa999a7e528edf9ee"
     },
     {
       "sha": "b8d08dfe29",

@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 330,
+  "score": 335,
   "commit_count": 101,
-  "review_count": 229,
+  "review_count": 234,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -831,6 +831,46 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7617",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e6a3d638c9ff9600584c56dd72b8e5d1a1d6806d"
+    },
+    {
+      "sha": "90ace98865",
+      "message": "refactor(core): hold ScopePool behind std::sync::Mutex",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7607",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/90ace988650641554b72c08abdb04e5ce86f142a"
+    },
+    {
+      "sha": "ad74905048",
+      "message": "ci(java,core): key the cargo target caches on their Cargo.lock (#7595)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7595",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ad74905048686d6f87791f3ac776ff3ac34cd665"
+    },
+    {
+      "sha": "9a90a59610",
+      "message": "fix(core): reinit the global timeout watchdog in forked children (#7569)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7569",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9a90a596106b65a32466b5f790c8f776153a86d1"
+    },
+    {
+      "sha": "93a1fa6738",
+      "message": "docs: update client capabilities from audit (#375)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/375",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/93a1fa67386d07fb9b49e1049fc86d39da944338"
+    },
+    {
+      "sha": "ad2b432a11",
+      "message": "docs: update platform requirements for GLIDE 2.6 (#372)",
+      "date": "2026-11-10",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/372",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/ad2b432a11953f72fb41787dd90f5dc8c0f60d0d"
     },
     {
       "sha": "0c94d95d78",

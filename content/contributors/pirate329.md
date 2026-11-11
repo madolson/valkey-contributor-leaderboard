@@ -2,13 +2,21 @@
   "title": "pirate329",
   "login": "pirate329",
   "avatar_url": "https://avatars.githubusercontent.com/u/95901729?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "734bca3977",
+      "message": "Retry creating the nodes.conf folder in cluster misc tests (#5026)",
+      "date": "2026-11-10",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5026",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/734bca3977ef191bc5a4117aa999a7e528edf9ee"
+    },
     {
       "sha": "4f3dba63fb",
       "message": "Keep the 'n' keyspace event flag when 'A' is set (#5199)",

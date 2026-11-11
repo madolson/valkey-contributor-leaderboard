@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 309,
-  "commit_count": 138,
-  "review_count": 171,
+  "score": 311,
+  "commit_count": 139,
+  "review_count": 172,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "7104744553",
+      "message": "fix(api): set fieldPath and reason on the CEL validation rules (#619)",
+      "date": "2026-11-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/619",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/7104744553c663328efc30eb52fb72277fbacc05"
+    },
     {
       "sha": "86cbd5cc8e",
       "message": "ci(e2e): run tests in parallel with a label matrix (#373)",
@@ -1119,6 +1127,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f050bd7042",
+      "message": "feat: connect to Valkey as the operator user only (#542)",
+      "date": "2026-11-10",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/542",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/f050bd7042f4053e764e4b737a639db0ff112561"
+    },
     {
       "sha": "95a6649686",
       "message": "feat: move spec.users to spec.acl.users (#558)",
