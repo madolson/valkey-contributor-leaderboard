@@ -2,8 +2,8 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 470,
-  "commit_count": 129,
+  "score": 471,
+  "commit_count": 130,
   "review_count": 341,
   "repos": [
     "valkey",
@@ -18,6 +18,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "5a4ed2e084",
+      "message": "Allow null in GEOHASH and OBJECT reply schemas (#5209)",
+      "date": "2026-11-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5209",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5a4ed2e08464c2b9d7f8fcd0e17918a0597154de"
+    },
     {
       "sha": "58a6ddc9dd",
       "message": "CI: use supported macOS 15 runner (#5315)",

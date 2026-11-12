@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 106,
+  "score": 108,
   "commit_count": 37,
-  "review_count": 69,
+  "review_count": 71,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -311,6 +311,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "47a89ffac3",
+      "message": "ci(go): give each integration test pass its own report and harden the TLS pass (#7640)",
+      "date": "2026-11-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7640",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/47a89ffac3d30ab064c2c9685e571d6a5b779534"
+    },
+    {
+      "sha": "15a485f7e7",
+      "message": "fix(ffi): create clients on a runtime worker so the connect does not use the caller's stack (#7644)",
+      "date": "2026-11-11",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7644",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/15a485f7e7ab483684c0b684e37a79b082094d34"
+    },
     {
       "sha": "10f330b260",
       "message": "test(java): stabilize testAbandonMonitorDoesNotReclaimBlockingClient active-count race (#7214)",

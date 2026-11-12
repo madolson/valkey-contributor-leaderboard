@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 213,
-  "commit_count": 48,
-  "review_count": 165,
+  "score": 219,
+  "commit_count": 50,
+  "review_count": 169,
   "repos": [
     "valkey",
     "valkey-container",
@@ -14,6 +14,22 @@
     "valkey-skills"
   ],
   "commit_list": [
+    {
+      "sha": "ae7060ae93",
+      "message": "Allow null in SENTINEL GET-PRIMARY-ADDR-BY-NAME reply schema (#5246)",
+      "date": "2026-11-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5246",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ae7060ae939a7a960e675cc0492ae36270ed9845"
+    },
+    {
+      "sha": "6dad976b85",
+      "message": "Use leaf counts in the zset leaf compaction pause test (#5351)",
+      "date": "2026-11-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5351",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6dad976b853ec8fb60ef607df1628a5a819c00a4"
+    },
     {
       "sha": "35373fa80b",
       "message": "Compact sparse B+tree leaves inline on the sorted set delete path (#4526)",
@@ -400,6 +416,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6f6ec61c23",
+      "message": "Hold replica load open in dual-channel compression tests (#5076)",
+      "date": "2026-11-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5076",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6f6ec61c235a25d07f89d47cf452456f1f069bcf"
+    },
+    {
+      "sha": "81e194d12d",
+      "message": "Deflake EXEC keyless redirect test: wait for roles to converge (#4726)",
+      "date": "2026-11-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4726",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/81e194d12d349e1152b21fe3d2970a2db3f2750a"
+    },
+    {
+      "sha": "1b03cf5e3c",
+      "message": "Deflake diskless timeout replica count assertion (#4313)",
+      "date": "2026-11-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4313",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1b03cf5e3c77ff1891ec759fef75947daa1db9fd"
+    },
+    {
+      "sha": "5a4ed2e084",
+      "message": "Allow null in GEOHASH and OBJECT reply schemas (#5209)",
+      "date": "2026-11-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5209",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5a4ed2e08464c2b9d7f8fcd0e17918a0597154de"
+    },
     {
       "sha": "838999bd52",
       "message": "Document the design doc process and restructure patch submission (#5062)",

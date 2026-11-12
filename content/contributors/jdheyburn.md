@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 203,
+  "score": 208,
   "commit_count": 72,
-  "review_count": 131,
+  "review_count": 136,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -591,6 +591,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ae6f3cd1ed",
+      "message": "fix(api): reject ValkeyCluster names containing a dot (#631)",
+      "date": "2026-11-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/631",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/ae6f3cd1ed391d3d4a6d0c299a25d78357b47f3b"
+    },
+    {
+      "sha": "9decfd20f8",
+      "message": "feat: close default's connections when a load turns it off (#627)",
+      "date": "2026-11-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/627",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9decfd20f8a9fac50c992aa49bc7dc92601667e4"
+    },
+    {
+      "sha": "909160898b",
+      "message": "Require default image flags (#551)",
+      "date": "2026-11-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/551",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/909160898b13f16d64151782c48a843c35d68f9d"
+    },
+    {
+      "sha": "3efc4f0016",
+      "message": "fix: start a crashed primary over as a new node when it has a replica (#537)",
+      "date": "2026-11-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/537",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3efc4f00168a129df43cddabf1adb4d811554724"
+    },
+    {
+      "sha": "dfe3824a9e",
+      "message": "fix: keep reconciling the cluster when a user password Secret cannot be read (#502)",
+      "date": "2026-11-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/502",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/dfe3824a9ecb33b59942cd0e53be0c8187fb3778"
+    },
     {
       "sha": "01d6e6d0c5",
       "message": "feat: add spec.replicasPerShard and deprecate spec.replicas (#559) (#590)",

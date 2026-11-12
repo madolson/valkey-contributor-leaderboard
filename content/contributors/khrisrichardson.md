@@ -2,13 +2,21 @@
   "title": "khrisrichardson",
   "login": "khrisrichardson",
   "avatar_url": "https://avatars.githubusercontent.com/u/3643677?v=4",
-  "score": 6,
-  "commit_count": 6,
+  "score": 7,
+  "commit_count": 7,
   "review_count": 0,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "9decfd20f8",
+      "message": "feat: close default's connections when a load turns it off (#627)",
+      "date": "2026-11-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/627",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9decfd20f8a9fac50c992aa49bc7dc92601667e4"
+    },
     {
       "sha": "edc030241f",
       "message": "test: check that a trusted certificate naming no ACL user gets NOAUTH (#626)",

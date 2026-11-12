@@ -2,8 +2,8 @@
   "title": "melancholictheory",
   "login": "melancholictheory",
   "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
-  "score": 20,
-  "commit_count": 19,
+  "score": 23,
+  "commit_count": 22,
   "review_count": 1,
   "repos": [
     "valkey",
@@ -11,6 +11,30 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "909160898b",
+      "message": "Require default image flags (#551)",
+      "date": "2026-11-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/551",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/909160898b13f16d64151782c48a843c35d68f9d"
+    },
+    {
+      "sha": "3efc4f0016",
+      "message": "fix: start a crashed primary over as a new node when it has a replica (#537)",
+      "date": "2026-11-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/537",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/3efc4f00168a129df43cddabf1adb4d811554724"
+    },
+    {
+      "sha": "dfe3824a9e",
+      "message": "fix: keep reconciling the cluster when a user password Secret cannot be read (#502)",
+      "date": "2026-11-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/502",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/dfe3824a9ecb33b59942cd0e53be0c8187fb3778"
+    },
     {
       "sha": "0d9dd1ab69",
       "message": "Document that ACL DIGEST covers roles (#535)",

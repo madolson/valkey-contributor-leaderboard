@@ -2,14 +2,22 @@
   "title": "deepakpunjabi",
   "login": "deepakpunjabi",
   "avatar_url": "https://avatars.githubusercontent.com/u/17640076?v=4",
-  "score": 6,
-  "commit_count": 5,
+  "score": 7,
+  "commit_count": 6,
   "review_count": 1,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "ae6f3cd1ed",
+      "message": "fix(api): reject ValkeyCluster names containing a dot (#631)",
+      "date": "2026-11-11",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/631",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/ae6f3cd1ed391d3d4a6d0c299a25d78357b47f3b"
+    },
     {
       "sha": "2b546fb6d6",
       "message": "feat: make cluster-node-timeout user configurable (#450)",

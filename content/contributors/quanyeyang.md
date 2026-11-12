@@ -2,9 +2,9 @@
   "title": "quanyeyang",
   "login": "quanyeyang",
   "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
-  "score": 20,
+  "score": 22,
   "commit_count": 18,
-  "review_count": 2,
+  "review_count": 4,
   "repos": [
     "libvalkey",
     "valkey"
@@ -156,6 +156,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2552339180",
+      "message": "Expire stale Sentinel primary-down reports before quorum checks (#4913)",
+      "date": "2026-11-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4913",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2552339180c60d22b5255fdb38a6b8166c9fed04"
+    },
+    {
+      "sha": "2552339180",
+      "message": "Expire stale Sentinel primary-down reports before quorum checks (#4913)",
+      "date": "2026-11-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4913",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2552339180c60d22b5255fdb38a6b8166c9fed04"
+    },
     {
       "sha": "382a134959",
       "message": "Rewrite ready-key UAF fix with rotation-based iteration (#4472)",

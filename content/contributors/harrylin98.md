@@ -2,13 +2,22 @@
   "title": "harrylin98",
   "login": "harrylin98",
   "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
-  "score": 23,
-  "commit_count": 19,
+  "score": 24,
+  "commit_count": 20,
   "review_count": 4,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "1efadbddb3",
+      "message": "Document replication throttling (#549)",
+      "date": "2026-11-11",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/549",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/1efadbddb321cc0306b2d2f16ad6065c23e1f10f"
+    },
     {
       "sha": "79aff7c07f",
       "message": "Close bgIteration MULTI when no replication work is pending (#5316)",

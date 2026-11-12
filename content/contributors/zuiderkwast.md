@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1331,
+  "score": 1332,
   "commit_count": 161,
-  "review_count": 1170,
+  "review_count": 1171,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1310,6 +1310,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d5bf376a3e",
+      "message": "Treat a torn annotation at the end of an AOF file as a short read (#5349)",
+      "date": "2026-11-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5349",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d5bf376a3e594672473886a37b0921fc7dbec931"
+    },
     {
       "sha": "838999bd52",
       "message": "Document the design doc process and restructure patch submission (#5062)",

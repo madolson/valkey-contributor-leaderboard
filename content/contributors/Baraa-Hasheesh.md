@@ -2,9 +2,9 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 70,
+  "score": 73,
   "commit_count": 30,
-  "review_count": 40,
+  "review_count": 43,
   "repos": [
     "valkey",
     "valkey-container",
@@ -253,6 +253,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6f6ec61c23",
+      "message": "Hold replica load open in dual-channel compression tests (#5076)",
+      "date": "2026-11-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5076",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6f6ec61c235a25d07f89d47cf452456f1f069bcf"
+    },
+    {
+      "sha": "ae7060ae93",
+      "message": "Allow null in SENTINEL GET-PRIMARY-ADDR-BY-NAME reply schema (#5246)",
+      "date": "2026-11-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5246",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ae7060ae939a7a960e675cc0492ae36270ed9845"
+    },
+    {
+      "sha": "5a4ed2e084",
+      "message": "Allow null in GEOHASH and OBJECT reply schemas (#5209)",
+      "date": "2026-11-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5209",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5a4ed2e08464c2b9d7f8fcd0e17918a0597154de"
+    },
     {
       "sha": "7c053b3030",
       "message": "Strip every repeated LIMIT when rewriting XADD/XTRIM for propagation (#4893)",

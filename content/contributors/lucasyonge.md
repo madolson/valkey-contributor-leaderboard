@@ -2,9 +2,9 @@
   "title": "lucasyonge",
   "login": "lucasyonge",
   "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
-  "score": 24,
+  "score": 26,
   "commit_count": 4,
-  "review_count": 20,
+  "review_count": 22,
   "repos": [
     "valkey",
     "valkey-container",
@@ -47,6 +47,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2552339180",
+      "message": "Expire stale Sentinel primary-down reports before quorum checks (#4913)",
+      "date": "2026-11-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4913",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/2552339180c60d22b5255fdb38a6b8166c9fed04"
+    },
+    {
+      "sha": "ae7060ae93",
+      "message": "Allow null in SENTINEL GET-PRIMARY-ADDR-BY-NAME reply schema (#5246)",
+      "date": "2026-11-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5246",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ae7060ae939a7a960e675cc0492ae36270ed9845"
+    },
     {
       "sha": "bd96d32062",
       "message": "Try the last good topology source first in refresh cycles (#29)",

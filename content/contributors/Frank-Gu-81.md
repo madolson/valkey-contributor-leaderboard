@@ -2,8 +2,8 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 66,
-  "commit_count": 32,
+  "score": 67,
+  "commit_count": 33,
   "review_count": 34,
   "repos": [
     "valkey-ci-agent",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "612423eeec",
+      "message": " Fix RDB load abort when a tracked vector key is missing from the keyspace (#1589)",
+      "date": "2026-11-11",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1589",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/612423eeec2ff1faba5fc86ac56ecc6ccbed2c9d"
+    },
     {
       "sha": "9d1d60af54",
       "message": "align documentations ahead of 1.3 GA (#1656)",

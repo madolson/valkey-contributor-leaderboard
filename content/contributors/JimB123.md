@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 99,
+  "score": 101,
   "commit_count": 29,
-  "review_count": 70,
+  "review_count": 72,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -244,6 +244,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6dad976b85",
+      "message": "Use leaf counts in the zset leaf compaction pause test (#5351)",
+      "date": "2026-11-11",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5351",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6dad976b853ec8fb60ef607df1628a5a819c00a4"
+    },
+    {
+      "sha": "1efadbddb3",
+      "message": "Document replication throttling (#549)",
+      "date": "2026-11-11",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/549",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/1efadbddb321cc0306b2d2f16ad6065c23e1f10f"
+    },
     {
       "sha": "9abbfd2557",
       "message": "Use the effective replica output buffer limit for the steady-state throttle target (#5338)",

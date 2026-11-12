@@ -212482,6 +212482,498 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-proxy/pull/29"
+    },
+    {
+      "sha": "6f6ec61c235a25d07f89d47cf452456f1f069bcf",
+      "author_login": "PoisonGodv",
+      "author_id": 85426738,
+      "avatar_url": "https://avatars.githubusercontent.com/u/85426738?v=4",
+      "message": "Hold replica load open in dual-channel compression tests (#5076)",
+      "date": "2026-11-11T22:17:33Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "Baraa-Hasheesh",
+          "date": "2026-10-29T07:25:38Z"
+        },
+        {
+          "login": "rainsupreme",
+          "date": "2026-11-11T22:14:11Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5076"
+    },
+    {
+      "sha": "81e194d12d349e1152b21fe3d2970a2db3f2750a",
+      "author_login": "kakiuwang-ui",
+      "author_id": 229876677,
+      "avatar_url": "https://avatars.githubusercontent.com/u/229876677?v=4",
+      "message": "Deflake EXEC keyless redirect test: wait for roles to converge (#4726)",
+      "date": "2026-11-11T22:10:21Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-11-11T17:30:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4726"
+    },
+    {
+      "sha": "2552339180c60d22b5255fdb38a6b8166c9fed04",
+      "author_login": "akasakariko",
+      "author_id": 148060537,
+      "avatar_url": "https://avatars.githubusercontent.com/u/148060537?v=4",
+      "message": "Expire stale Sentinel primary-down reports before quorum checks (#4913)",
+      "date": "2026-11-11T20:54:37Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "quanyeyang",
+          "date": "2026-10-17T02:14:34Z"
+        },
+        {
+          "login": "quanyeyang",
+          "date": "2026-10-18T05:20:58Z"
+        },
+        {
+          "login": "lucasyonge",
+          "date": "2026-11-11T20:36:15Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4913"
+    },
+    {
+      "sha": "ae7060ae939a7a960e675cc0492ae36270ed9845",
+      "author_login": "rainsupreme",
+      "author_id": 20649182,
+      "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
+      "message": "Allow null in SENTINEL GET-PRIMARY-ADDR-BY-NAME reply schema (#5246)",
+      "date": "2026-11-11T20:31:38Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "Baraa-Hasheesh",
+          "date": "2026-11-04T07:41:19Z"
+        },
+        {
+          "login": "lucasyonge",
+          "date": "2026-11-11T20:31:14Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5246"
+    },
+    {
+      "sha": "1b03cf5e3c77ff1891ec759fef75947daa1db9fd",
+      "author_login": "Taeknology",
+      "author_id": 20297177,
+      "avatar_url": "https://avatars.githubusercontent.com/u/20297177?v=4",
+      "message": "Deflake diskless timeout replica count assertion (#4313)",
+      "date": "2026-11-11T17:13:53Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-11-11T17:06:06Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4313"
+    },
+    {
+      "sha": "6dad976b853ec8fb60ef607df1628a5a819c00a4",
+      "author_login": "rainsupreme",
+      "author_id": 20649182,
+      "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
+      "message": "Use leaf counts in the zset leaf compaction pause test (#5351)",
+      "date": "2026-11-11T17:02:41Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "JimB123",
+          "date": "2026-11-11T16:48:56Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5351"
+    },
+    {
+      "sha": "5a4ed2e08464c2b9d7f8fcd0e17918a0597154de",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Allow null in GEOHASH and OBJECT reply schemas (#5209)",
+      "date": "2026-11-11T16:03:31Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "Baraa-Hasheesh",
+          "date": "2026-10-31T13:10:44Z"
+        },
+        {
+          "login": "rainsupreme",
+          "date": "2026-11-02T17:29:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5209"
+    },
+    {
+      "sha": "d5bf376a3e594672473886a37b0921fc7dbec931",
+      "author_login": "sumitk163",
+      "author_id": 13454692,
+      "avatar_url": "https://avatars.githubusercontent.com/u/13454692?v=4",
+      "message": "Treat a torn annotation at the end of an AOF file as a short read (#5349)",
+      "date": "2026-11-11T10:41:29Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "zuiderkwast",
+          "date": "2026-11-11T10:40:36Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5349"
+    },
+    {
+      "sha": "f74a30d1db4565e333e39733997d2379b635493b",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Backport eligibility: judge test and CI fixes, never comment on them (#160)",
+      "date": "2026-11-12T05:47:27Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "0ffc51ff0894eb8707abea3fd2f235202b4c4fc9",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "CI fix: hold fixes to the test rules reviewers keep repeating (#158)",
+      "date": "2026-11-12T02:56:33Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "29d086c8f3daa00baf077e6a96b4c4cb2925dbb3",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Hand the agent and the reviewer the repository's own guidelines (#157)",
+      "date": "2026-11-11T23:40:29Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "6fdf197dc08e6ffacb6743aaba59f4ec7a074cd1",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Show a backport fix what the other release branches changed in the same files (#156)",
+      "date": "2026-11-11T23:07:37Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "96e20fa31a05c228ea2959f112630c90a8d6c19f",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Do not fail the follow-up when the weekly run cannot be read (#155)",
+      "date": "2026-11-11T22:03:15Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b1b87c6fcfc8f1535d01b2cef6a3c375e6113e10",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Backport CI follow-up: fix a release branch's weekly failures on its sweep PR (#154)",
+      "date": "2026-11-11T20:46:07Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "7648b99b8dbcbbfdefa72ea01691d24fb0c5041e",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "CI fix: fix tests on backport branches, never push an unrun patch, and rerun a session that died on an API error (#153)",
+      "date": "2026-11-11T18:23:46Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b368621879b211600cdb2921d145dcd94f64d124",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Do not count a follow-up attempt whose fix job failed before the engine started (#152)",
+      "date": "2026-11-11T16:33:34Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "21238c60301e9c7bda31519624391e3a53b53e79",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "CI fix: find and adapt upstream fixes on backport branches, and tell a product bug from a test bug (#151)",
+      "date": "2026-11-11T16:20:56Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "e4340d000c6e5340962553f0dab1db10f4dd12fa",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Give the fix agent the whole log, and refuse only when no change can be justified (#150)",
+      "date": "2026-11-11T08:20:28Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "b52e0e31d5880046f0c6dc1eb560960e4248f248",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "CI fix: port upstream fixes on backport branches and verify fixes in stages (#149)",
+      "date": "2026-11-11T07:39:30Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "1efadbddb321cc0306b2d2f16ad6065c23e1f10f",
+      "author_login": "harrylin98",
+      "author_id": 49881386,
+      "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
+      "message": "Document replication throttling (#549)",
+      "date": "2026-11-11T18:16:57Z",
+      "repo": "valkey-doc",
+      "reviewed": [
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-11-11T07:04:34Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-11-11T18:15:22Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/549"
+    },
+    {
+      "sha": "47a89ffac3d30ab064c2c9685e571d6a5b779534",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "ci(go): give each integration test pass its own report and harden the TLS pass (#7640)",
+      "date": "2026-11-11T23:08:23Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-11-11T18:49:54Z"
+        },
+        {
+          "login": "nderraugh",
+          "date": "2026-11-11T23:06:53Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7640"
+    },
+    {
+      "sha": "15a485f7e7ab483684c0b684e37a79b082094d34",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "fix(ffi): create clients on a runtime worker so the connect does not use the caller's stack (#7644)",
+      "date": "2026-11-11T23:08:01Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-11-11T18:49:07Z"
+        },
+        {
+          "login": "nderraugh",
+          "date": "2026-11-11T23:07:01Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7644"
+    },
+    {
+      "sha": "1c03d49eb21acc069acd6c528ee75f13fd0db231",
+      "author_login": "KarthikSubbarao",
+      "author_id": 104098378,
+      "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
+      "message": "Pick eviction candidates afresh when concurrent writes take them (#201)",
+      "date": "2026-11-11T22:06:24Z",
+      "repo": "valkey-large-object",
+      "reviewed": [
+        {
+          "login": "nadav-levanoni",
+          "date": "2026-11-11T21:35:02Z"
+        },
+        {
+          "login": "nadav-levanoni",
+          "date": "2026-11-11T22:04:55Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/201"
+    },
+    {
+      "sha": "3d8261a4e27a01edfb05d5fe59603ee4b143106d",
+      "author_login": "KarthikSubbarao",
+      "author_id": 104098378,
+      "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
+      "message": "Track each evicted key's state; scan only for keys left to the scan (#199)",
+      "date": "2026-11-11T20:08:44Z",
+      "repo": "valkey-large-object",
+      "reviewed": [
+        {
+          "login": "zackcam",
+          "date": "2026-11-11T20:05:20Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/199"
+    },
+    {
+      "sha": "2fddd44b418898b159423e892863bf541610c4ee",
+      "author_login": "KarthikSubbarao",
+      "author_id": 104098378,
+      "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
+      "message": "Charge each object file its inode and metadata blocks (#196)",
+      "date": "2026-11-11T18:33:56Z",
+      "repo": "valkey-large-object",
+      "reviewed": [
+        {
+          "login": "zackcam",
+          "date": "2026-11-11T18:07:25Z"
+        },
+        {
+          "login": "nadav-levanoni",
+          "date": "2026-11-11T18:33:25Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/196"
+    },
+    {
+      "sha": "35c383594ae3729eed913cb0d5d003587aa14319",
+      "author_login": "dependabot[bot]",
+      "author_id": 49699333,
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "message": "Bump deps/luau from `91acc8d` to `12a6ba7`",
+      "date": "2026-11-11T11:16:08Z",
+      "repo": "valkey-luau",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "ae6f3cd1ed391d3d4a6d0c299a25d78357b47f3b",
+      "author_login": "deepakpunjabi",
+      "author_id": 17640076,
+      "avatar_url": "https://avatars.githubusercontent.com/u/17640076?v=4",
+      "message": "fix(api): reject ValkeyCluster names containing a dot (#631)",
+      "date": "2026-11-11T16:59:36Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-11-11T16:59:27Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/631"
+    },
+    {
+      "sha": "9decfd20f8a9fac50c992aa49bc7dc92601667e4",
+      "author_login": "khrisrichardson",
+      "author_id": 3643677,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3643677?v=4",
+      "message": "feat: close default's connections when a load turns it off (#627)",
+      "date": "2026-11-11T14:11:02Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-11-11T14:04:53Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/627"
+    },
+    {
+      "sha": "909160898b13f16d64151782c48a843c35d68f9d",
+      "author_login": "melancholictheory",
+      "author_id": 61789920,
+      "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
+      "message": "Require default image flags (#551)",
+      "date": "2026-11-11T10:47:19Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-11-11T10:09:03Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/551"
+    },
+    {
+      "sha": "3efc4f00168a129df43cddabf1adb4d811554724",
+      "author_login": "melancholictheory",
+      "author_id": 61789920,
+      "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
+      "message": "fix: start a crashed primary over as a new node when it has a replica (#537)",
+      "date": "2026-11-11T10:30:34Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-11-11T10:14:06Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/537"
+    },
+    {
+      "sha": "dfe3824a9ecb33b59942cd0e53be0c8187fb3778",
+      "author_login": "melancholictheory",
+      "author_id": 61789920,
+      "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
+      "message": "fix: keep reconciling the cluster when a user password Secret cannot be read (#502)",
+      "date": "2026-11-11T10:13:25Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-11-11T10:13:15Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/502"
+    },
+    {
+      "sha": "612423eeec2ff1faba5fc86ac56ecc6ccbed2c9d",
+      "author_login": "Frank-Gu-81",
+      "author_id": 93494304,
+      "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
+      "message": " Fix RDB load abort when a tracked vector key is missing from the keyspace (#1589)",
+      "date": "2026-11-11T22:23:23Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-11-11T18:12:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1589"
     }
   ]
 }

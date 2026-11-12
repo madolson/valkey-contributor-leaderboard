@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 1039,
+  "score": 1040,
   "commit_count": 399,
-  "review_count": 640,
+  "review_count": 641,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3208,6 +3208,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1efadbddb3",
+      "message": "Document replication throttling (#549)",
+      "date": "2026-11-11",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/549",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/1efadbddb321cc0306b2d2f16ad6065c23e1f10f"
+    },
     {
       "sha": "838999bd52",
       "message": "Document the design doc process and restructure patch submission (#5062)",

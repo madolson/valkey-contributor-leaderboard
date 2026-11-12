@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 345,
+  "score": 346,
   "commit_count": 90,
-  "review_count": 255,
+  "review_count": 256,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -735,6 +735,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "612423eeec",
+      "message": " Fix RDB load abort when a tracked vector key is missing from the keyspace (#1589)",
+      "date": "2026-11-11",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1589",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/612423eeec2ff1faba5fc86ac56ecc6ccbed2c9d"
+    },
     {
       "sha": "9d1d60af54",
       "message": "align documentations ahead of 1.3 GA (#1656)",

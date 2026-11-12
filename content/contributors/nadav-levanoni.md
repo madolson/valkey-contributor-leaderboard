@@ -2,9 +2,9 @@
   "title": "nadav-levanoni",
   "login": "nadav-levanoni",
   "avatar_url": "https://avatars.githubusercontent.com/u/38641521?v=4",
-  "score": 25,
+  "score": 28,
   "commit_count": 12,
-  "review_count": 13,
+  "review_count": 16,
   "repos": [
     "valkey",
     "valkey-large-object",
@@ -116,6 +116,30 @@
       "repo": "valkey-large-object",
       "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/194",
       "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/6a5781c115bfa5c34fbe6762982f2a0b4552a26f"
+    },
+    {
+      "sha": "1c03d49eb2",
+      "message": "Pick eviction candidates afresh when concurrent writes take them (#201)",
+      "date": "2026-11-11",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/201",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/1c03d49eb21acc069acd6c528ee75f13fd0db231"
+    },
+    {
+      "sha": "1c03d49eb2",
+      "message": "Pick eviction candidates afresh when concurrent writes take them (#201)",
+      "date": "2026-11-11",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/201",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/1c03d49eb21acc069acd6c528ee75f13fd0db231"
+    },
+    {
+      "sha": "2fddd44b41",
+      "message": "Charge each object file its inode and metadata blocks (#196)",
+      "date": "2026-11-11",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/196",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/2fddd44b418898b159423e892863bf541610c4ee"
     },
     {
       "sha": "3700e1aa9d",
