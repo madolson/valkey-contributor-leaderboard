@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 167,
+  "score": 168,
   "commit_count": 22,
-  "review_count": 145,
+  "review_count": 146,
   "repos": [
     "valkey",
     "valkey-container",
@@ -192,6 +192,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a8e233e1c9",
+      "message": "Add blog post: Valkey Helm chart 1.0.0 generally available (#752)",
+      "date": "2026-11-13",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/752",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/a8e233e1c91acf7a3a367e3ec76567d692bbafef"
+    },
     {
       "sha": "4941408cf1",
       "message": "Redisson description update. AZ_based_read_from_replica support (#728)",

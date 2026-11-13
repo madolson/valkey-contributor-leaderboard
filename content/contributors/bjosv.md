@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 311,
+  "score": 313,
   "commit_count": 139,
-  "review_count": 172,
+  "review_count": 174,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1127,6 +1127,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "734f10a710",
+      "message": "Release valkey-operator 0.9.0 (#324)",
+      "date": "2026-11-12",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/324",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/734f10a71013f51cb914bb4c4dc00dfa80792fda"
+    },
+    {
+      "sha": "e2e03ea999",
+      "message": "Release valkey-resources 0.6.0 (#325)",
+      "date": "2026-11-12",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/325",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/e2e03ea999fb284d55b1edb751fdd02578ec8350"
+    },
     {
       "sha": "f050bd7042",
       "message": "feat: connect to Valkey as the operator user only (#542)",

@@ -2,8 +2,8 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 1098,
-  "commit_count": 302,
+  "score": 1099,
+  "commit_count": 303,
   "review_count": 796,
   "repos": [
     ".github",
@@ -23,6 +23,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "b4a6e7d698",
+      "message": "Join server.log() arguments in linear time (#5104)",
+      "date": "2026-11-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5104",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b4a6e7d6980f2f44655aa153649a760f72761031"
+    },
     {
       "sha": "838999bd52",
       "message": "Document the design doc process and restructure patch submission (#5062)",

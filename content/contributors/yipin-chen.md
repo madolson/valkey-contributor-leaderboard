@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 938,
+  "score": 939,
   "commit_count": 45,
-  "review_count": 893,
+  "review_count": 894,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6d8c3979a5",
+      "message": "ci: run Java, Node and Go CI when the shared Rust crates change (#7668)",
+      "date": "2026-11-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7668",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6d8c3979a5a930e0e834ba7a08182084804b40df"
+    },
+    {
+      "sha": "d20899fff1",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/semgrep.yml (#417)",
+      "date": "2026-11-12",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/417",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d20899fff193b0ee0ff2153a90d8c9a6ea7d60b8"
+    },
+    {
+      "sha": "07f656ab47",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/git-secrets-scan.yml (#416)",
+      "date": "2026-11-12",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/416",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/07f656ab4784257fd6d78478439fb4dea16eea99"
+    },
+    {
+      "sha": "5bb13aa09b",
+      "message": "chore(deps): Bump ruby/setup-ruby (#415)",
+      "date": "2026-11-12",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/415",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/5bb13aa09b2e2057ca03af7fb028e66ca476285f"
+    },
     {
       "sha": "47a89ffac3",
       "message": "ci(go): give each integration test pass its own report and harden the TLS pass (#7640)",

@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 346,
-  "commit_count": 90,
-  "review_count": 256,
+  "score": 349,
+  "commit_count": 91,
+  "review_count": 258,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "8e341d7bb0",
+      "message": "Incrementally rehashing huge-page hash maps to remove ingestion stalls (#1622)",
+      "date": "2026-11-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1622",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8e341d7bb03a9bea989237905f5f665e3bf1cd04"
+    },
     {
       "sha": "92b779bdd8",
       "message": "Type-sensitive expression compiler, matching Redis 8 (#1528)",
@@ -735,6 +743,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "743fdab3d4",
+      "message": "[BUG fix] Fix SORTBY on an aliased attribute for FT.SEARCH (#1579)",
+      "date": "2026-11-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1579",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/743fdab3d449d0b0ff9625f70dfc46c5cee7c02a"
+    },
+    {
+      "sha": "da73185d9d",
+      "message": "fix(vector-registry): guard ValkeyModule_HashHasStringRef against missing hash fields (#1675)",
+      "date": "2026-11-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1675",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/da73185d9d537d8ae85ca6926f4e5586c7c85093"
+    },
     {
       "sha": "612423eeec",
       "message": " Fix RDB load abort when a tracked vector key is missing from the keyspace (#1589)",

@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 404,
+  "score": 406,
   "commit_count": 233,
-  "review_count": 171,
+  "review_count": 173,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -1881,6 +1881,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "903fa3474a",
+      "message": "docs: complete All Nodes read strategy guidance (#376)",
+      "date": "2026-11-12",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/376",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/903fa3474a8b2cb5a04e1c5e2cb44fc86dd6dc57"
+    },
+    {
+      "sha": "53e577c401",
+      "message": "cleanup: Issue templates ask for PHP version only instead of other languages that don't apply (#434)",
+      "date": "2026-11-12",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/434",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/53e577c401f6ac7f64a2a829b427f8dfbd03a5a8"
+    },
     {
       "sha": "ac54d8ac04",
       "message": "build(deps): bump tokio-util from 0.7.19 to 0.7.20 in /node/rust-client in the patch-updates group across 1 directory (#7615)",

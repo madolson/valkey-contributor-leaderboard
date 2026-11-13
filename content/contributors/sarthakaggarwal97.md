@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 471,
+  "score": 472,
   "commit_count": 130,
-  "review_count": 341,
+  "review_count": 342,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1060,6 +1060,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "89353577e6",
+      "message": "Skip the crash memory test under Valgrind and bound its region list (#5379)",
+      "date": "2026-11-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5379",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/89353577e6e30f1724d1a47db66aa58d65f4b53c"
+    },
     {
       "sha": "838999bd52",
       "message": "Document the design doc process and restructure patch submission (#5062)",

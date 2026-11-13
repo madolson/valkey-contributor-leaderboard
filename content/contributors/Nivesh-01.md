@@ -2,13 +2,29 @@
   "title": "Nivesh-01",
   "login": "Nivesh-01",
   "avatar_url": "https://avatars.githubusercontent.com/u/110855046?v=4",
-  "score": 24,
-  "commit_count": 21,
+  "score": 26,
+  "commit_count": 23,
   "review_count": 3,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "094d246455",
+      "message": "Bump valkey-py to 6.2.0 for the integration tests (#1695)",
+      "date": "2026-11-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1695",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/094d24645544628a1020f0f3e33064b72174a572"
+    },
+    {
+      "sha": "77f1d8c6aa",
+      "message": "Build only libsearch when running integration tests (#1691)",
+      "date": "2026-11-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1691",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/77f1d8c6aa523d716747bb8371a728c835ac10da"
+    },
     {
       "sha": "5ca6f4950a",
       "message": "Reject every NaN spelling in numeric parsing and sort NaN last in SORTBY (#1554)",

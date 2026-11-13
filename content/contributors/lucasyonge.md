@@ -2,9 +2,9 @@
   "title": "lucasyonge",
   "login": "lucasyonge",
   "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
-  "score": 26,
+  "score": 27,
   "commit_count": 4,
-  "review_count": 22,
+  "review_count": 23,
   "repos": [
     "valkey",
     "valkey-container",
@@ -47,6 +47,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d5763ea44e",
+      "message": "Check Sentinel config dir is writable at startup (#5376)",
+      "date": "2026-11-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5376",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d5763ea44e86cfb978cc98387782a89b6da53bd3"
+    },
     {
       "sha": "2552339180",
       "message": "Expire stale Sentinel primary-down reports before quorum checks (#4913)",

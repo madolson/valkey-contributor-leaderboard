@@ -2,13 +2,21 @@
   "title": "JasonLi314",
   "login": "JasonLi314",
   "avatar_url": "https://avatars.githubusercontent.com/u/47095666?v=4",
-  "score": 9,
-  "commit_count": 9,
+  "score": 10,
+  "commit_count": 10,
   "review_count": 0,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "743fdab3d4",
+      "message": "[BUG fix] Fix SORTBY on an aliased attribute for FT.SEARCH (#1579)",
+      "date": "2026-11-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1579",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/743fdab3d449d0b0ff9625f70dfc46c5cee7c02a"
+    },
     {
       "sha": "d11b591026",
       "message": "[BUG fix] Fix FT.AGGREGATE ignoring VERBATIM, INORDER and SLOP (#1606)",

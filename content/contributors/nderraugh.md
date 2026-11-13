@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 108,
-  "commit_count": 37,
-  "review_count": 71,
+  "score": 111,
+  "commit_count": 39,
+  "review_count": 72,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "99436ddde4",
+      "message": "ci(benchmark): skip the benchmark smoke check on pull requests (#7643)",
+      "date": "2026-11-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7643",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/99436ddde4a6185bf0fd4e09322db08adbd26b44"
+    },
+    {
+      "sha": "dc09911997",
+      "message": "test(core): outlast the poll bound in the pending-count watchdog test (#7667)",
+      "date": "2026-11-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7667",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dc09911997d5881a550f2e5009f1c45c61ee38cd"
+    },
     {
       "sha": "e6a3d638c9",
       "message": "test(node): Cut pubsub test wall time by 77% by replacing fixed sleeps with polling (#7617)",
@@ -311,6 +327,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6d8c3979a5",
+      "message": "ci: run Java, Node and Go CI when the shared Rust crates change (#7668)",
+      "date": "2026-11-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7668",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6d8c3979a5a930e0e834ba7a08182084804b40df"
+    },
     {
       "sha": "47a89ffac3",
       "message": "ci(go): give each integration test pass its own report and harden the TLS pass (#7640)",

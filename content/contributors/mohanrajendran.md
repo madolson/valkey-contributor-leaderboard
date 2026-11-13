@@ -2,14 +2,30 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 27,
-  "commit_count": 10,
-  "review_count": 17,
+  "score": 30,
+  "commit_count": 12,
+  "review_count": 18,
   "repos": [
     "valkey-json",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "4bfcfdec9e",
+      "message": "fix(ft.create): keep LANGUAGE when another option follows it (#1697) (#1702)",
+      "date": "2026-11-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1702",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/4bfcfdec9e95009bb6cbe4caa587013cbd5b3607"
+    },
+    {
+      "sha": "ebcf78c302",
+      "message": "fix(expr): stop lower()/upper() aborting on invalid UTF-8 (#1696) (#1699)",
+      "date": "2026-11-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1699",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ebcf78c3022ac73be613b8344dd3c7284613299d"
+    },
     {
       "sha": "d08f29e1e3",
       "message": "refactor(text): remove dead RadixTree template and its test (#1432)",
@@ -92,6 +108,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "743fdab3d4",
+      "message": "[BUG fix] Fix SORTBY on an aliased attribute for FT.SEARCH (#1579)",
+      "date": "2026-11-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1579",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/743fdab3d449d0b0ff9625f70dfc46c5cee7c02a"
+    },
     {
       "sha": "0ef7c8adb1",
       "message": "Fix overflow in JSONPath slice iteration (#124)",

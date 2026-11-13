@@ -2,14 +2,22 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 101,
-  "commit_count": 29,
+  "score": 102,
+  "commit_count": 30,
   "review_count": 72,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "89353577e6",
+      "message": "Skip the crash memory test under Valgrind and bound its region list (#5379)",
+      "date": "2026-11-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5379",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/89353577e6e30f1724d1a47db66aa58d65f4b53c"
+    },
     {
       "sha": "745775127a",
       "message": "bgiteration: remove RO list commands as format changing (#5283)",

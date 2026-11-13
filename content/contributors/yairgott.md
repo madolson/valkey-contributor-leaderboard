@@ -2,8 +2,8 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 136,
-  "commit_count": 41,
+  "score": 137,
+  "commit_count": 42,
   "review_count": 95,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "da73185d9d",
+      "message": "fix(vector-registry): guard ValkeyModule_HashHasStringRef against missing hash fields (#1675)",
+      "date": "2026-11-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1675",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/da73185d9d537d8ae85ca6926f4e5586c7c85093"
+    },
     {
       "sha": "6788bf8615",
       "message": "ci: add Codecov workflow for unit and integration test coverage (#1319)",

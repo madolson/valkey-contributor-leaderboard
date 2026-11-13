@@ -2,8 +2,8 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 118,
-  "commit_count": 63,
+  "score": 120,
+  "commit_count": 65,
   "review_count": 55,
   "repos": [
     "valkey",
@@ -17,6 +17,22 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "0db7fae31d",
+      "message": "Reject any BLOB.RDMA_HELLO that has more than one arg (#210)",
+      "date": "2026-11-13",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/210",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/0db7fae31dfc17f62513d724f81ac849a1bfea1a"
+    },
+    {
+      "sha": "42024a7e89",
+      "message": "Changing needed hits to be 1 for promotion (#208)",
+      "date": "2026-11-12",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/208",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/42024a7e89e06b2cb5838791eb8d424f28844118"
+    },
     {
       "sha": "08bef56c4f",
       "message": "Module side HELLO sockaddr check (#184)",

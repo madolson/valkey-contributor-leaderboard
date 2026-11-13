@@ -2,9 +2,9 @@
   "title": "nadav-levanoni",
   "login": "nadav-levanoni",
   "avatar_url": "https://avatars.githubusercontent.com/u/38641521?v=4",
-  "score": 28,
+  "score": 30,
   "commit_count": 12,
-  "review_count": 16,
+  "review_count": 18,
   "repos": [
     "valkey",
     "valkey-large-object",
@@ -109,6 +109,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4197c14bc7",
+      "message": "Count object files that spill out of their inode in INFO disk (#209)",
+      "date": "2026-11-12",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/209",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/4197c14bc74817d77139fd4fc8850773b1e5a812"
+    },
+    {
+      "sha": "5b8bb1a9f1",
+      "message": "Give each evicting SET its own victims, claimed by size in one hold (#202)",
+      "date": "2026-11-12",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/202",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/5b8bb1a9f19abed6dc8a0bf97a922f351ffc8cb8"
+    },
     {
       "sha": "6a5781c115",
       "message": "Delete evicted keys by name from a key hint in the file header (#194)",

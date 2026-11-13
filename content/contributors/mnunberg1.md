@@ -2,14 +2,22 @@
   "title": "mnunberg1",
   "login": "mnunberg1",
   "avatar_url": "https://github.com/mnunberg1.png?size=64",
-  "score": 5,
+  "score": 6,
   "commit_count": 0,
-  "review_count": 5,
+  "review_count": 6,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [],
   "review_list": [
+    {
+      "sha": "743fdab3d4",
+      "message": "[BUG fix] Fix SORTBY on an aliased attribute for FT.SEARCH (#1579)",
+      "date": "2026-11-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1579",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/743fdab3d449d0b0ff9625f70dfc46c5cee7c02a"
+    },
     {
       "sha": "859e328468",
       "message": "test(cursor): Fix race in DestructionObeysBackgroundCleanupSetting (#1511)",

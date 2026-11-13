@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 208,
-  "commit_count": 72,
-  "review_count": 136,
+  "score": 212,
+  "commit_count": 74,
+  "review_count": 138,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,22 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "734f10a710",
+      "message": "Release valkey-operator 0.9.0 (#324)",
+      "date": "2026-11-12",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/324",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/734f10a71013f51cb914bb4c4dc00dfa80792fda"
+    },
+    {
+      "sha": "e2e03ea999",
+      "message": "Release valkey-resources 0.6.0 (#325)",
+      "date": "2026-11-12",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/325",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/e2e03ea999fb284d55b1edb751fdd02578ec8350"
+    },
     {
       "sha": "f050bd7042",
       "message": "feat: connect to Valkey as the operator user only (#542)",
@@ -591,6 +607,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9b1dd57d9f",
+      "message": "fix: track default's open sessions in a DefaultUserSessionsOpen condition (#633)",
+      "date": "2026-11-12",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/633",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9b1dd57d9f0ab4583c6fedd3475c982d556c62ed"
+    },
+    {
+      "sha": "f3f27bc4e2",
+      "message": "fix: patch ValkeyNode status with an optimistic lock (#636)",
+      "date": "2026-11-12",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/636",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/f3f27bc4e20f53232d4e948e4501ce435f081a0e"
+    },
     {
       "sha": "ae6f3cd1ed",
       "message": "fix(api): reject ValkeyCluster names containing a dot (#631)",

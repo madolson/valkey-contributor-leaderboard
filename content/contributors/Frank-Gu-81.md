@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 67,
+  "score": 74,
   "commit_count": 33,
-  "review_count": 34,
+  "review_count": 41,
   "repos": [
     "valkey-ci-agent",
     "valkey-doc",
@@ -278,6 +278,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4bfcfdec9e",
+      "message": "fix(ft.create): keep LANGUAGE when another option follows it (#1697) (#1702)",
+      "date": "2026-11-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1702",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/4bfcfdec9e95009bb6cbe4caa587013cbd5b3607"
+    },
+    {
+      "sha": "4bfcfdec9e",
+      "message": "fix(ft.create): keep LANGUAGE when another option follows it (#1697) (#1702)",
+      "date": "2026-11-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1702",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/4bfcfdec9e95009bb6cbe4caa587013cbd5b3607"
+    },
+    {
+      "sha": "8e341d7bb0",
+      "message": "Incrementally rehashing huge-page hash maps to remove ingestion stalls (#1622)",
+      "date": "2026-11-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1622",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8e341d7bb03a9bea989237905f5f665e3bf1cd04"
+    },
+    {
+      "sha": "094d246455",
+      "message": "Bump valkey-py to 6.2.0 for the integration tests (#1695)",
+      "date": "2026-11-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1695",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/094d24645544628a1020f0f3e33064b72174a572"
+    },
+    {
+      "sha": "ebcf78c302",
+      "message": "fix(expr): stop lower()/upper() aborting on invalid UTF-8 (#1696) (#1699)",
+      "date": "2026-11-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1699",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ebcf78c3022ac73be613b8344dd3c7284613299d"
+    },
+    {
+      "sha": "6871d11cf1",
+      "message": "Evaluate AND-ed text predicates in the HNSW inline filter (#1680)",
+      "date": "2026-11-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1680",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6871d11cf1db058ad2482722055692d8c63811d9"
+    },
+    {
+      "sha": "6871d11cf1",
+      "message": "Evaluate AND-ed text predicates in the HNSW inline filter (#1680)",
+      "date": "2026-11-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1680",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6871d11cf1db058ad2482722055692d8c63811d9"
+    },
     {
       "sha": "d08f29e1e3",
       "message": "refactor(text): remove dead RadixTree template and its test (#1432)",

@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 362,
-  "commit_count": 140,
-  "review_count": 222,
+  "score": 365,
+  "commit_count": 141,
+  "review_count": 224,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "903fa3474a",
+      "message": "docs: complete All Nodes read strategy guidance (#376)",
+      "date": "2026-11-12",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/376",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/903fa3474a8b2cb5a04e1c5e2cb44fc86dd6dc57"
+    },
     {
       "sha": "93a1fa6738",
       "message": "docs: update client capabilities from audit (#375)",
@@ -1138,6 +1146,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "99436ddde4",
+      "message": "ci(benchmark): skip the benchmark smoke check on pull requests (#7643)",
+      "date": "2026-11-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7643",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/99436ddde4a6185bf0fd4e09322db08adbd26b44"
+    },
+    {
+      "sha": "dc09911997",
+      "message": "test(core): outlast the poll bound in the pending-count watchdog test (#7667)",
+      "date": "2026-11-12",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7667",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dc09911997d5881a550f2e5009f1c45c61ee38cd"
+    },
+    {
+      "sha": "d20899fff1",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/semgrep.yml (#417)",
+      "date": "2026-11-12",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/417",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d20899fff193b0ee0ff2153a90d8c9a6ea7d60b8"
+    },
+    {
+      "sha": "07f656ab47",
+      "message": "chore(deps): Bump valkey-io/valkey-glide/.github/workflows/git-secrets-scan.yml (#416)",
+      "date": "2026-11-12",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/416",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/07f656ab4784257fd6d78478439fb4dea16eea99"
+    },
+    {
+      "sha": "5bb13aa09b",
+      "message": "chore(deps): Bump ruby/setup-ruby (#415)",
+      "date": "2026-11-12",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/415",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/5bb13aa09b2e2057ca03af7fb028e66ca476285f"
+    },
     {
       "sha": "82887975aa",
       "message": "docs: add RDMA transfers pages for the synchronous Python client (#367)",

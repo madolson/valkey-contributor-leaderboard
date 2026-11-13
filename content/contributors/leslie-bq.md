@@ -2,8 +2,8 @@
   "title": "leslie-bq",
   "login": "leslie-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
-  "score": 19,
-  "commit_count": 3,
+  "score": 20,
+  "commit_count": 4,
   "review_count": 16,
   "repos": [
     "valkey-glide",
@@ -11,6 +11,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "53e577c401",
+      "message": "cleanup: Issue templates ask for PHP version only instead of other languages that don't apply (#434)",
+      "date": "2026-11-12",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/434",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/53e577c401f6ac7f64a2a829b427f8dfbd03a5a8"
+    },
     {
       "sha": "41c9e0a839",
       "message": "feat(php): add SISMEMBER XX support via sIsMemberIfExists (#402)",

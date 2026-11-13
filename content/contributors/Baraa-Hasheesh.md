@@ -2,9 +2,9 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 73,
+  "score": 76,
   "commit_count": 30,
-  "review_count": 43,
+  "review_count": 46,
   "repos": [
     "valkey",
     "valkey-container",
@@ -253,6 +253,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0608ff7472",
+      "message": "Fix flaky temp file check in cluster-config-save-behavior test (#5254)",
+      "date": "2026-11-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5254",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0608ff74721228fb5ab585acac6a4e827dd990a1"
+    },
+    {
+      "sha": "b4a6e7d698",
+      "message": "Join server.log() arguments in linear time (#5104)",
+      "date": "2026-11-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5104",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b4a6e7d6980f2f44655aa153649a760f72761031"
+    },
+    {
+      "sha": "bcc6a3ff5a",
+      "message": "Fix race and codec hex bug in corrupt dual-channel stream test (#5295)",
+      "date": "2026-11-12",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5295",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bcc6a3ff5ac235270e1f8d3d36fd075ab815e358"
+    },
     {
       "sha": "6f6ec61c23",
       "message": "Hold replica load open in dual-channel compression tests (#5076)",

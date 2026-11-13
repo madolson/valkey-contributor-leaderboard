@@ -2,8 +2,8 @@
   "title": "eifrah-aws",
   "login": "eifrah-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/170855270?v=4",
-  "score": 220,
-  "commit_count": 95,
+  "score": 221,
+  "commit_count": 96,
   "review_count": 125,
   "repos": [
     "valkey",
@@ -15,6 +15,14 @@
     "valkey-test-framework"
   ],
   "commit_list": [
+    {
+      "sha": "0608ff7472",
+      "message": "Fix flaky temp file check in cluster-config-save-behavior test (#5254)",
+      "date": "2026-11-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5254",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0608ff74721228fb5ab585acac6a4e827dd990a1"
+    },
     {
       "sha": "f213a6750d",
       "message": "Build: make the Make / CMake gtest build link on macOS (#4657)",

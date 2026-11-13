@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 338,
-  "commit_count": 138,
-  "review_count": 200,
+  "score": 344,
+  "commit_count": 141,
+  "review_count": 203,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -18,6 +18,30 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "b881c95a3e",
+      "message": "Cap the streaming window for DRAM-cache GETs and Dram-mode SETs (#211)",
+      "date": "2026-11-13",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/211",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/b881c95a3e9a3e9e06cca51ca1dfddb91c9fe0b0"
+    },
+    {
+      "sha": "4197c14bc7",
+      "message": "Count object files that spill out of their inode in INFO disk (#209)",
+      "date": "2026-11-12",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/209",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/4197c14bc74817d77139fd4fc8850773b1e5a812"
+    },
+    {
+      "sha": "5b8bb1a9f1",
+      "message": "Give each evicting SET its own victims, claimed by size in one hold (#202)",
+      "date": "2026-11-12",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/202",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/5b8bb1a9f19abed6dc8a0bf97a922f351ffc8cb8"
+    },
     {
       "sha": "6a5781c115",
       "message": "Delete evicted keys by name from a key hint in the file header (#194)",
@@ -1124,6 +1148,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0db7fae31d",
+      "message": "Reject any BLOB.RDMA_HELLO that has more than one arg (#210)",
+      "date": "2026-11-13",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/210",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/0db7fae31dfc17f62513d724f81ac849a1bfea1a"
+    },
+    {
+      "sha": "42024a7e89",
+      "message": "Changing needed hits to be 1 for promotion (#208)",
+      "date": "2026-11-12",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/208",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/42024a7e89e06b2cb5838791eb8d424f28844118"
+    },
+    {
+      "sha": "40463abdcc",
+      "message": "Take the server lock for the Dram expand check; require segment-size >= 2 * chunk-size (#204)",
+      "date": "2026-11-12",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/204",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/40463abdcc6506c605a7475b12d314fbd8acba9e"
+    },
     {
       "sha": "08bef56c4f",
       "message": "Module side HELLO sockaddr check (#184)",

@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 161,
-  "commit_count": 44,
-  "review_count": 117,
+  "score": 165,
+  "commit_count": 45,
+  "review_count": 120,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "6871d11cf1",
+      "message": "Evaluate AND-ed text predicates in the HNSW inline filter (#1680)",
+      "date": "2026-11-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1680",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6871d11cf1db058ad2482722055692d8c63811d9"
+    },
     {
       "sha": "87d29cc4c7",
       "message": "Wait for in-flight mutations before sync-path revalidation (#1602) (#1610)",
@@ -366,6 +374,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4bfcfdec9e",
+      "message": "fix(ft.create): keep LANGUAGE when another option follows it (#1697) (#1702)",
+      "date": "2026-11-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1702",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/4bfcfdec9e95009bb6cbe4caa587013cbd5b3607"
+    },
+    {
+      "sha": "ebcf78c302",
+      "message": "fix(expr): stop lower()/upper() aborting on invalid UTF-8 (#1696) (#1699)",
+      "date": "2026-11-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1699",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ebcf78c3022ac73be613b8344dd3c7284613299d"
+    },
+    {
+      "sha": "77f1d8c6aa",
+      "message": "Build only libsearch when running integration tests (#1691)",
+      "date": "2026-11-12",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1691",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/77f1d8c6aa523d716747bb8371a728c835ac10da"
+    },
     {
       "sha": "5ca6f4950a",
       "message": "Reject every NaN spelling in numeric parsing and sort NaN last in SORTBY (#1554)",

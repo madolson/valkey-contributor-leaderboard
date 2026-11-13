@@ -2,14 +2,22 @@
   "title": "edithturn",
   "login": "edithturn",
   "avatar_url": "https://avatars.githubusercontent.com/u/58795858?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "valkey-io.github.io",
     "valkey-swift"
   ],
   "commit_list": [
+    {
+      "sha": "a8e233e1c9",
+      "message": "Add blog post: Valkey Helm chart 1.0.0 generally available (#752)",
+      "date": "2026-11-13",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/752",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/a8e233e1c91acf7a3a367e3ec76567d692bbafef"
+    },
     {
       "sha": "edd43e67cf",
       "message": "Update call to action in Valkey Prometheus exporters blog post (#684)",

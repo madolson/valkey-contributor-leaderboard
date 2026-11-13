@@ -2,13 +2,29 @@
   "title": "khrisrichardson",
   "login": "khrisrichardson",
   "avatar_url": "https://avatars.githubusercontent.com/u/3643677?v=4",
-  "score": 7,
-  "commit_count": 7,
+  "score": 9,
+  "commit_count": 9,
   "review_count": 0,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "9b1dd57d9f",
+      "message": "fix: track default's open sessions in a DefaultUserSessionsOpen condition (#633)",
+      "date": "2026-11-12",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/633",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9b1dd57d9f0ab4583c6fedd3475c982d556c62ed"
+    },
+    {
+      "sha": "f3f27bc4e2",
+      "message": "fix: patch ValkeyNode status with an optimistic lock (#636)",
+      "date": "2026-11-12",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/636",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/f3f27bc4e20f53232d4e948e4501ce435f081a0e"
+    },
     {
       "sha": "9decfd20f8",
       "message": "feat: close default's connections when a load turns it off (#627)",
