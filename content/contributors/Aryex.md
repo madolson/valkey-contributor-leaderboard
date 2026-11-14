@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 365,
-  "commit_count": 141,
+  "score": 366,
+  "commit_count": 142,
   "review_count": 224,
   "repos": [
     "spring-data-valkey",
@@ -16,6 +16,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "4a87e2930f",
+      "message": "fix(java): restore JedisPool's configured database before lending a connection (#7628)",
+      "date": "2026-11-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7700",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4a87e2930f36177862c6eeeb24b3683002ffc118"
+    },
     {
       "sha": "903fa3474a",
       "message": "docs: complete All Nodes read strategy guidance (#376)",

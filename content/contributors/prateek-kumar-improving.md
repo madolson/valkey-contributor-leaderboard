@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 487,
-  "commit_count": 165,
-  "review_count": 322,
+  "score": 489,
+  "commit_count": 166,
+  "review_count": 323,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "e0f68de5c4",
+      "message": "fix(python): send sync memoryview args with their byte length (#7561)",
+      "date": "2026-11-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7700",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e0f68de5c45885ef0ec98b2f8eafa5b98790fe1a"
+    },
     {
       "sha": "0a00d4414a",
       "message": "fix(php): fix memory-safety bugs in SORT, FCALL, list push, HRANDFIELD (#425)",
@@ -1335,6 +1343,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "601d3dcbb8",
+      "message": "fix(php): size zset argument buffers and stop double frees in zAdd() (#411)",
+      "date": "2026-11-13",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/411",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/601d3dcbb8bb46623fee7dde8a053f49010f1829"
+    },
     {
       "sha": "41c9e0a839",
       "message": "feat(php): add SISMEMBER XX support via sIsMemberIfExists (#402)",

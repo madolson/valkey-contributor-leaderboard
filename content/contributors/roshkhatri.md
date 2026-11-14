@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 471,
-  "commit_count": 169,
-  "review_count": 302,
+  "score": 474,
+  "commit_count": 170,
+  "review_count": 304,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -20,6 +20,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "b0b6b63ece",
+      "message": "Use the Valkeyrie bot app token to trigger the valkey-bundle update (#130)",
+      "date": "2026-11-13",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/130",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/b0b6b63ececb8b8a32726241d0a563382838b435"
+    },
     {
       "sha": "0ef7c8adb1",
       "message": "Fix overflow in JSONPath slice iteration (#124)",
@@ -1374,6 +1382,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e952287eed",
+      "message": "Automated Updates for Valkey Bundle (#134)",
+      "date": "2026-11-14",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/134",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/e952287eed897d3476b02cda525294313123f1f1"
+    },
+    {
+      "sha": "bb496c7d58",
+      "message": "Run Daily on pull requests into agent/ branches (#5385)",
+      "date": "2026-11-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5385",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bb496c7d58b7c0c93497bc78219002047adff1f0"
+    },
+    {
+      "sha": "aa89a711d1",
+      "message": "fix(jsonpath): apply wildcard and filter segments sequentially (#126)",
+      "date": "2026-11-13",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/126",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/aa89a711d1c70caf63d9403250d99dc7f211ec4f"
+    },
     {
       "sha": "2c780fc3d1",
       "message": "Pin six release pages to their own container tags (#715)",

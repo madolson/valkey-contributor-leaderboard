@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 939,
+  "score": 945,
   "commit_count": 45,
-  "review_count": 894,
+  "review_count": 900,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b00000a9f2",
+      "message": "Port release-2.6 fixes to main (20 PRs) (#7700)",
+      "date": "2026-11-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7700",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b00000a9f2a478585f9243e1dd4a91e56d7e8a69"
+    },
+    {
+      "sha": "ed1e08c0b0",
+      "message": "chore(rust): prepare valkey-glide 0.10.0 release (#7682)",
+      "date": "2026-11-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7700",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ed1e08c0b08e94b7a40baa9b24e20a634c5a932b"
+    },
+    {
+      "sha": "4a87e2930f",
+      "message": "fix(java): restore JedisPool's configured database before lending a connection (#7628)",
+      "date": "2026-11-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7700",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4a87e2930f36177862c6eeeb24b3683002ffc118"
+    },
+    {
+      "sha": "e851fa37c7",
+      "message": "build(rdma): put the tcp provider behind a tcp-dev feature (#7567)",
+      "date": "2026-11-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7700",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e851fa37c7a13b206d90d9eb5f262a807ea00e78"
+    },
+    {
+      "sha": "e0f68de5c4",
+      "message": "fix(python): send sync memoryview args with their byte length (#7561)",
+      "date": "2026-11-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7700",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/e0f68de5c45885ef0ec98b2f8eafa5b98790fe1a"
+    },
+    {
+      "sha": "4068d9a255",
+      "message": "fix(python): forward legal numeric 0 in option and argument builders (#7526)",
+      "date": "2026-11-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7700",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4068d9a2553114ba59449252438e5437b322094b"
+    },
     {
       "sha": "6d8c3979a5",
       "message": "ci: run Java, Node and Go CI when the shared Rust crates change (#7668)",

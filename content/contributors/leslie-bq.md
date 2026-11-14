@@ -2,15 +2,23 @@
   "title": "leslie-bq",
   "login": "leslie-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
-  "score": 20,
-  "commit_count": 4,
-  "review_count": 16,
+  "score": 22,
+  "commit_count": 5,
+  "review_count": 17,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "4068d9a255",
+      "message": "fix(python): forward legal numeric 0 in option and argument builders (#7526)",
+      "date": "2026-11-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7700",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4068d9a2553114ba59449252438e5437b322094b"
+    },
     {
       "sha": "53e577c401",
       "message": "cleanup: Issue templates ask for PHP version only instead of other languages that don't apply (#434)",
@@ -45,6 +53,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "601d3dcbb8",
+      "message": "fix(php): size zset argument buffers and stop double frees in zAdd() (#411)",
+      "date": "2026-11-13",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/411",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/601d3dcbb8bb46623fee7dde8a053f49010f1829"
+    },
     {
       "sha": "22630821ce",
       "message": "fix(php): keep hGetEx() arguments alive until exec() in a batch (#412)",

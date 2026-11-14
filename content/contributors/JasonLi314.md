@@ -2,13 +2,21 @@
   "title": "JasonLi314",
   "login": "JasonLi314",
   "avatar_url": "https://avatars.githubusercontent.com/u/47095666?v=4",
-  "score": 10,
-  "commit_count": 10,
+  "score": 11,
+  "commit_count": 11,
   "review_count": 0,
   "repos": [
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "068a0a8458",
+      "message": "test: cover FT.HYBRID LOAD projection on JSON indexes (#1700)",
+      "date": "2026-11-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1700",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/068a0a845815040761c1f50b9178a5aa83868934"
+    },
     {
       "sha": "743fdab3d4",
       "message": "[BUG fix] Fix SORTBY on an aliased attribute for FT.SEARCH (#1579)",

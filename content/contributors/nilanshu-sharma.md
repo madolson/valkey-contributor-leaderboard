@@ -2,9 +2,9 @@
   "title": "nilanshu-sharma",
   "login": "nilanshu-sharma",
   "avatar_url": "https://avatars.githubusercontent.com/u/220134298?v=4",
-  "score": 123,
+  "score": 124,
   "commit_count": 15,
-  "review_count": 108,
+  "review_count": 109,
   "repos": [
     "valkey",
     "valkey-swift"
@@ -132,6 +132,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "01c6beacb7",
+      "message": "Add parameter pack pipeline `ValkeyClientProtocol.execute` (#406)",
+      "date": "2026-11-13",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/406",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/01c6beacb7c95a0176512792bb73f2a3336fc8d6"
+    },
     {
       "sha": "b8cbb96422",
       "message": "Add support for setting the number of streams per connection. (#394)",

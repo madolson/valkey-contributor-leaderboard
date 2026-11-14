@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 165,
-  "commit_count": 45,
-  "review_count": 120,
+  "score": 167,
+  "commit_count": 46,
+  "review_count": 121,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "730e7162a0",
+      "message": "Own RecordsMap keys in content fetch and projection (#1690)",
+      "date": "2026-11-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1690",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/730e7162a064f7b78846714a6ec4365fb2657400"
+    },
     {
       "sha": "6871d11cf1",
       "message": "Evaluate AND-ed text predicates in the HNSW inline filter (#1680)",
@@ -374,6 +382,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5f80ef3d64",
+      "message": "Allocate vector index memory in transparent huge pages (#1647)",
+      "date": "2026-11-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1647",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5f80ef3d64acd0d32bf405375c0615188935bea9"
+    },
     {
       "sha": "4bfcfdec9e",
       "message": "fix(ft.create): keep LANGUAGE when another option follows it (#1697) (#1702)",

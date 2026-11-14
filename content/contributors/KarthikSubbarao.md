@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 344,
+  "score": 345,
   "commit_count": 141,
-  "review_count": 203,
+  "review_count": 204,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -1155,6 +1155,14 @@
       "repo": "valkey-large-object",
       "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/210",
       "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/0db7fae31dfc17f62513d724f81ac849a1bfea1a"
+    },
+    {
+      "sha": "88064eccf5",
+      "message": "Read disk-dir from a OnceLock instead of locking and copying it (#205)",
+      "date": "2026-11-13",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/205",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/88064eccf5193e28839397634e969e12ad63eb2d"
     },
     {
       "sha": "42024a7e89",

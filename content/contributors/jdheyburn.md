@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 212,
+  "score": 214,
   "commit_count": 74,
-  "review_count": 138,
+  "review_count": 140,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -607,6 +607,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "13c5441aac",
+      "message": "feat: pause reconciliation with the valkey.io/pause-reconciliation annotation (#564)",
+      "date": "2026-11-13",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/564",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/13c5441aac0a04f585ce0bb3f5840ea4b72a1c19"
+    },
+    {
+      "sha": "da641c200d",
+      "message": "fix: add validation for rejecting operator owned keys (#399)",
+      "date": "2026-11-13",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/399",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/da641c200d03c06807c4c5e078b8d3efc60ca9c4"
+    },
     {
       "sha": "9b1dd57d9f",
       "message": "fix: track default's open sessions in a DefaultUserSessionsOpen condition (#633)",

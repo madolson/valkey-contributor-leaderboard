@@ -2,9 +2,9 @@
   "title": "nitaicaro",
   "login": "nitaicaro",
   "avatar_url": "https://avatars.githubusercontent.com/u/42576749?v=4",
-  "score": 17,
+  "score": 18,
   "commit_count": 12,
-  "review_count": 5,
+  "review_count": 6,
   "repos": [
     "valkey"
   ],
@@ -107,6 +107,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5c3ec8d347",
+      "message": "Make the forkless write-window replication tests deterministic (#5333)",
+      "date": "2026-11-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5333",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5c3ec8d347d2caa8e85fe054567ab45240e170d5"
+    },
     {
       "sha": "702a107516",
       "message": "Fix full sync loop after PSYNC to SYNC fallback (#5280)",

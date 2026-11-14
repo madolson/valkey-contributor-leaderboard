@@ -2,8 +2,8 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 76,
-  "commit_count": 30,
+  "score": 77,
+  "commit_count": 31,
   "review_count": 46,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "5c3ec8d347",
+      "message": "Make the forkless write-window replication tests deterministic (#5333)",
+      "date": "2026-11-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5333",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5c3ec8d347d2caa8e85fe054567ab45240e170d5"
+    },
     {
       "sha": "11555f1221",
       "message": "[TEST] Speed up \"client evicted due to client tracking prefixes\" test (#4854)",

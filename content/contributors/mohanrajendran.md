@@ -2,8 +2,8 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 30,
-  "commit_count": 12,
+  "score": 32,
+  "commit_count": 14,
   "review_count": 18,
   "repos": [
     "valkey-json",
@@ -17,6 +17,22 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1702",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/4bfcfdec9e95009bb6cbe4caa587013cbd5b3607"
+    },
+    {
+      "sha": "aa89a711d1",
+      "message": "fix(jsonpath): apply wildcard and filter segments sequentially (#126)",
+      "date": "2026-11-13",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/126",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/aa89a711d1c70caf63d9403250d99dc7f211ec4f"
+    },
+    {
+      "sha": "77c11dcad9",
+      "message": "test(vector-registry): wait for backfill in hdel/rename expiry test (#1705)",
+      "date": "2026-11-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1705",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/77c11dcad99ba2954ca4aa65517faa1da9a358e8"
     },
     {
       "sha": "ebcf78c302",

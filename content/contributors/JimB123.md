@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 102,
+  "score": 106,
   "commit_count": 30,
-  "review_count": 72,
+  "review_count": 76,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -252,6 +252,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c98c0e2e6c",
+      "message": "bgiteration: don't queue a FLUSHDB item for a completed iterator (#5365)",
+      "date": "2026-11-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5365",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c98c0e2e6c271a24c829d17b2ed94d64c576c33f"
+    },
+    {
+      "sha": "74b0831392",
+      "message": "Don't queue a throttled primary when a timed-out script ends (#5389)",
+      "date": "2026-11-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5389",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/74b083139289aa8777c5d3be9520eb8ed9bf17d7"
+    },
+    {
+      "sha": "bb496c7d58",
+      "message": "Run Daily on pull requests into agent/ branches (#5385)",
+      "date": "2026-11-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5385",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bb496c7d58b7c0c93497bc78219002047adff1f0"
+    },
+    {
+      "sha": "5c3ec8d347",
+      "message": "Make the forkless write-window replication tests deterministic (#5333)",
+      "date": "2026-11-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5333",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5c3ec8d347d2caa8e85fe054567ab45240e170d5"
+    },
     {
       "sha": "6dad976b85",
       "message": "Use leaf counts in the zset leaf compaction pause test (#5351)",

@@ -2,14 +2,22 @@
   "title": "deepakpunjabi",
   "login": "deepakpunjabi",
   "avatar_url": "https://avatars.githubusercontent.com/u/17640076?v=4",
-  "score": 7,
-  "commit_count": 6,
+  "score": 8,
+  "commit_count": 7,
   "review_count": 1,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "da641c200d",
+      "message": "fix: add validation for rejecting operator owned keys (#399)",
+      "date": "2026-11-13",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/399",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/da641c200d03c06807c4c5e078b8d3efc60ca9c4"
+    },
     {
       "sha": "ae6f3cd1ed",
       "message": "fix(api): reject ValkeyCluster names containing a dot (#631)",

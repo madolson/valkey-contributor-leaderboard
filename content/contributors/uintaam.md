@@ -2,13 +2,21 @@
   "title": "uintaam",
   "login": "uintaam",
   "avatar_url": "https://avatars.githubusercontent.com/u/295346?v=4",
-  "score": 23,
-  "commit_count": 23,
+  "score": 24,
+  "commit_count": 24,
   "review_count": 0,
   "repos": [
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "601d3dcbb8",
+      "message": "fix(php): size zset argument buffers and stop double frees in zAdd() (#411)",
+      "date": "2026-11-13",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/411",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/601d3dcbb8bb46623fee7dde8a053f49010f1829"
+    },
     {
       "sha": "22630821ce",
       "message": "fix(php): keep hGetEx() arguments alive until exec() in a batch (#412)",

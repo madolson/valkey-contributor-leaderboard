@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 74,
+  "score": 80,
   "commit_count": 33,
-  "review_count": 41,
+  "review_count": 47,
   "repos": [
     "valkey-ci-agent",
     "valkey-doc",
@@ -279,6 +279,30 @@
   ],
   "review_list": [
     {
+      "sha": "068a0a8458",
+      "message": "test: cover FT.HYBRID LOAD projection on JSON indexes (#1700)",
+      "date": "2026-11-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1700",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/068a0a845815040761c1f50b9178a5aa83868934"
+    },
+    {
+      "sha": "92b44712de",
+      "message": "Fix intermittent test_StringPoolStats failure (#1713)",
+      "date": "2026-11-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1713",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/92b44712de13155b54b6486009521fad98653372"
+    },
+    {
+      "sha": "3affff4b01",
+      "message": "Fix flaky test_dropindex_synchronize_consistency_check_first (#1711)",
+      "date": "2026-11-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1711",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/3affff4b0195f82470241ccbbcdedafa5d76a23d"
+    },
+    {
       "sha": "4bfcfdec9e",
       "message": "fix(ft.create): keep LANGUAGE when another option follows it (#1697) (#1702)",
       "date": "2026-11-13",
@@ -301,6 +325,30 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1622",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/8e341d7bb03a9bea989237905f5f665e3bf1cd04"
+    },
+    {
+      "sha": "77c11dcad9",
+      "message": "test(vector-registry): wait for backfill in hdel/rename expiry test (#1705)",
+      "date": "2026-11-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1705",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/77c11dcad99ba2954ca4aa65517faa1da9a358e8"
+    },
+    {
+      "sha": "76d8315d17",
+      "message": "Disable unit test code coverage job in CI (#1710)",
+      "date": "2026-11-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1710",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/76d8315d17068f1b6578cf774709362502a79fb7"
+    },
+    {
+      "sha": "e869751c21",
+      "message": "Lower vector range MIN_RECALL to 0.94 to fix an intermittent test failure (#1709)",
+      "date": "2026-11-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1709",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e869751c21e44543153e6ffc5ff31dc655a420e7"
     },
     {
       "sha": "094d246455",

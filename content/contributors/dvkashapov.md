@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 126,
+  "score": 132,
   "commit_count": 26,
-  "review_count": 100,
+  "review_count": 106,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -224,6 +224,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2a37519fd4",
+      "message": "Join server.log() arguments in linear time (#34)",
+      "date": "2026-11-13",
+      "repo": "valkey-lua5.5",
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/34",
+      "commit_url": "https://github.com/valkey-io/valkey-lua5.5/commit/2a37519fd4808fb46c302e47dc634fd8d0beefb9"
+    },
+    {
+      "sha": "70f534c07f",
+      "message": "Ignore more server.log tests due to <lua> vs <lua55> in logging",
+      "date": "2026-11-13",
+      "repo": "valkey-lua5.5",
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/33",
+      "commit_url": "https://github.com/valkey-io/valkey-lua5.5/commit/70f534c07f5c9f5e04554baa227b05eed94820b3"
+    },
+    {
+      "sha": "1f35dc4bb0",
+      "message": "Join server.log() arguments in linear time (#86)",
+      "date": "2026-11-13",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/86",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/1f35dc4bb074326121d1a572489c962f8052d14f"
+    },
+    {
+      "sha": "708c4b939c",
+      "message": "Ignore more server.log tests due to <lua> vs <luajit> in logging",
+      "date": "2026-11-13",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/85",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/708c4b939cad1e03e86cc4423a5f38d6b2a049f0"
+    },
+    {
+      "sha": "8748be1e5a",
+      "message": "Join server.log() arguments in linear time",
+      "date": "2026-11-13",
+      "repo": "valkey-luau",
+      "pr_url": "https://github.com/valkey-io/valkey-luau/pull/32",
+      "commit_url": "https://github.com/valkey-io/valkey-luau/commit/8748be1e5acfe9af286269f4a20016aba409af21"
+    },
+    {
+      "sha": "0964e89b23",
+      "message": "Ignore more server.log tests due to <lua> vs <luau> in logging",
+      "date": "2026-11-13",
+      "repo": "valkey-luau",
+      "pr_url": "https://github.com/valkey-io/valkey-luau/pull/31",
+      "commit_url": "https://github.com/valkey-io/valkey-luau/commit/0964e89b23067e7c4641f1d31aa4d0b572f45d86"
+    },
     {
       "sha": "c77a4e8da1",
       "message": "Document missing key types and notification flags in module API (#5289)",

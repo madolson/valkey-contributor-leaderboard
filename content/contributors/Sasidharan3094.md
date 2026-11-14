@@ -2,14 +2,15 @@
   "title": "Sasidharan3094",
   "login": "Sasidharan3094",
   "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
-  "score": 46,
+  "score": 47,
   "commit_count": 33,
-  "review_count": 13,
+  "review_count": 14,
   "repos": [
     "valkey",
     "valkey-glide",
     "valkey-glide-ruby",
-    "valkey-io.github.io"
+    "valkey-io.github.io",
+    "valkey-namespace"
   ],
   "commit_list": [
     {
@@ -278,6 +279,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c2e3acc096",
+      "message": "Modify glide base version",
+      "date": "2026-11-13",
+      "repo": "valkey-namespace",
+      "pr_url": "https://github.com/valkey-io/valkey-namespace/pull/1",
+      "commit_url": "https://github.com/valkey-io/valkey-namespace/commit/c2e3acc096ca7eeb1b0fa19f9025f275b6087337"
+    },
     {
       "sha": "6aabe92f48",
       "message": "Modify Repo to use submodule + Add CD pipeline (#95)",

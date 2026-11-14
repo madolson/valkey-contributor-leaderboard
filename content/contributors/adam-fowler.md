@@ -2,8 +2,8 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 180,
-  "commit_count": 137,
+  "score": 181,
+  "commit_count": 138,
   "review_count": 43,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-swift"
   ],
   "commit_list": [
+    {
+      "sha": "01c6beacb7",
+      "message": "Add parameter pack pipeline `ValkeyClientProtocol.execute` (#406)",
+      "date": "2026-11-13",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/406",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/01c6beacb7c95a0176512792bb73f2a3336fc8d6"
+    },
     {
       "sha": "05db2e39a3",
       "message": "Group XACKDEL, XDELEX ids array in command JSON files (#5237)",

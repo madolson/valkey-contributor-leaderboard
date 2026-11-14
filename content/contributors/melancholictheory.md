@@ -2,8 +2,8 @@
   "title": "melancholictheory",
   "login": "melancholictheory",
   "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
-  "score": 23,
-  "commit_count": 22,
+  "score": 24,
+  "commit_count": 23,
   "review_count": 1,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "13c5441aac",
+      "message": "feat: pause reconciliation with the valkey.io/pause-reconciliation annotation (#564)",
+      "date": "2026-11-13",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/564",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/13c5441aac0a04f585ce0bb3f5840ea4b72a1c19"
+    },
     {
       "sha": "909160898b",
       "message": "Require default image flags (#551)",

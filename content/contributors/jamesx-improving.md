@@ -2,8 +2,8 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 401,
-  "commit_count": 85,
+  "score": 402,
+  "commit_count": 86,
   "review_count": 316,
   "repos": [
     "valkey-glide",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "b00000a9f2",
+      "message": "Port release-2.6 fixes to main (20 PRs) (#7700)",
+      "date": "2026-11-13",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7700",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b00000a9f2a478585f9243e1dd4a91e56d7e8a69"
+    },
     {
       "sha": "4a1185aef6",
       "message": "fix(core): replace stale connection on circular MOVED (#7427)",

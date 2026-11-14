@@ -2,13 +2,21 @@
   "title": "ibrahimnd2000",
   "login": "ibrahimnd2000",
   "avatar_url": "https://avatars.githubusercontent.com/u/55791790?v=4",
-  "score": 1,
-  "commit_count": 1,
+  "score": 2,
+  "commit_count": 2,
   "review_count": 0,
   "repos": [
     "valkey-large-object"
   ],
   "commit_list": [
+    {
+      "sha": "88064eccf5",
+      "message": "Read disk-dir from a OnceLock instead of locking and copying it (#205)",
+      "date": "2026-11-13",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/205",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/88064eccf5193e28839397634e969e12ad63eb2d"
+    },
     {
       "sha": "40463abdcc",
       "message": "Take the server lock for the Dram expand check; require segment-size >= 2 * chunk-size (#204)",

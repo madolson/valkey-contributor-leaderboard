@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 349,
-  "commit_count": 91,
-  "review_count": 258,
+  "score": 357,
+  "commit_count": 96,
+  "review_count": 261,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -14,12 +14,52 @@
   ],
   "commit_list": [
     {
+      "sha": "92b44712de",
+      "message": "Fix intermittent test_StringPoolStats failure (#1713)",
+      "date": "2026-11-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1713",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/92b44712de13155b54b6486009521fad98653372"
+    },
+    {
+      "sha": "3affff4b01",
+      "message": "Fix flaky test_dropindex_synchronize_consistency_check_first (#1711)",
+      "date": "2026-11-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1711",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/3affff4b0195f82470241ccbbcdedafa5d76a23d"
+    },
+    {
+      "sha": "5f80ef3d64",
+      "message": "Allocate vector index memory in transparent huge pages (#1647)",
+      "date": "2026-11-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1647",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/5f80ef3d64acd0d32bf405375c0615188935bea9"
+    },
+    {
       "sha": "8e341d7bb0",
       "message": "Incrementally rehashing huge-page hash maps to remove ingestion stalls (#1622)",
       "date": "2026-11-13",
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1622",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/8e341d7bb03a9bea989237905f5f665e3bf1cd04"
+    },
+    {
+      "sha": "76d8315d17",
+      "message": "Disable unit test code coverage job in CI (#1710)",
+      "date": "2026-11-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1710",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/76d8315d17068f1b6578cf774709362502a79fb7"
+    },
+    {
+      "sha": "e869751c21",
+      "message": "Lower vector range MIN_RECALL to 0.94 to fix an intermittent test failure (#1709)",
+      "date": "2026-11-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1709",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/e869751c21e44543153e6ffc5ff31dc655a420e7"
     },
     {
       "sha": "92b779bdd8",
@@ -744,12 +784,36 @@
   ],
   "review_list": [
     {
+      "sha": "fdce3b53b2",
+      "message": "Apply queued MULTI/EXEC mutations before forking for a snapshot (#1659)",
+      "date": "2026-11-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1659",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/fdce3b53b25167aa705e289aafa31f468ca055aa"
+    },
+    {
+      "sha": "068a0a8458",
+      "message": "test: cover FT.HYBRID LOAD projection on JSON indexes (#1700)",
+      "date": "2026-11-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1700",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/068a0a845815040761c1f50b9178a5aa83868934"
+    },
+    {
       "sha": "743fdab3d4",
       "message": "[BUG fix] Fix SORTBY on an aliased attribute for FT.SEARCH (#1579)",
       "date": "2026-11-13",
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1579",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/743fdab3d449d0b0ff9625f70dfc46c5cee7c02a"
+    },
+    {
+      "sha": "730e7162a0",
+      "message": "Own RecordsMap keys in content fetch and projection (#1690)",
+      "date": "2026-11-13",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1690",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/730e7162a064f7b78846714a6ec4365fb2657400"
     },
     {
       "sha": "da73185d9d",

@@ -2,14 +2,22 @@
   "title": "asagege",
   "login": "asagege",
   "avatar_url": "https://avatars.githubusercontent.com/u/124027677?v=4",
-  "score": 10,
-  "commit_count": 9,
+  "score": 11,
+  "commit_count": 10,
   "review_count": 1,
   "repos": [
     "valkey",
     "valkey-ci-agent"
   ],
   "commit_list": [
+    {
+      "sha": "74b0831392",
+      "message": "Don't queue a throttled primary when a timed-out script ends (#5389)",
+      "date": "2026-11-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5389",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/74b083139289aa8777c5d3be9520eb8ed9bf17d7"
+    },
     {
       "sha": "f7a64c5509",
       "message": "Fix EntryTest.entryUpdate failure on macOS due to allocator differences (#3398)",

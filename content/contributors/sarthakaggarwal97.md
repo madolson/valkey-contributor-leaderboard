@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 472,
-  "commit_count": 130,
-  "review_count": 342,
+  "score": 475,
+  "commit_count": 132,
+  "review_count": 343,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -18,6 +18,22 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "c98c0e2e6c",
+      "message": "bgiteration: don't queue a FLUSHDB item for a completed iterator (#5365)",
+      "date": "2026-11-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5365",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c98c0e2e6c271a24c829d17b2ed94d64c576c33f"
+    },
+    {
+      "sha": "bb496c7d58",
+      "message": "Run Daily on pull requests into agent/ branches (#5385)",
+      "date": "2026-11-13",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5385",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bb496c7d58b7c0c93497bc78219002047adff1f0"
+    },
     {
       "sha": "5a4ed2e084",
       "message": "Allow null in GEOHASH and OBJECT reply schemas (#5209)",
@@ -1061,12 +1077,28 @@
   ],
   "review_list": [
     {
+      "sha": "e952287eed",
+      "message": "Automated Updates for Valkey Bundle (#134)",
+      "date": "2026-11-14",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/134",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/e952287eed897d3476b02cda525294313123f1f1"
+    },
+    {
       "sha": "89353577e6",
       "message": "Skip the crash memory test under Valgrind and bound its region list (#5379)",
       "date": "2026-11-13",
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/5379",
       "commit_url": "https://github.com/valkey-io/valkey/commit/89353577e6e30f1724d1a47db66aa58d65f4b53c"
+    },
+    {
+      "sha": "b0b6b63ece",
+      "message": "Use the Valkeyrie bot app token to trigger the valkey-bundle update (#130)",
+      "date": "2026-11-13",
+      "repo": "valkey-json",
+      "pr_url": "https://github.com/valkey-io/valkey-json/pull/130",
+      "commit_url": "https://github.com/valkey-io/valkey-json/commit/b0b6b63ececb8b8a32726241d0a563382838b435"
     },
     {
       "sha": "838999bd52",
