@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 357,
-  "commit_count": 96,
-  "review_count": 261,
+  "score": 360,
+  "commit_count": 97,
+  "review_count": 263,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -36,6 +36,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1647",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/5f80ef3d64acd0d32bf405375c0615188935bea9"
+    },
+    {
+      "sha": "bfb689c8fb",
+      "message": "Add COUNT_DISTINCTISH reducer with HyperLogLog (supersedes #948) (#1719)",
+      "date": "2026-11-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1719",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/bfb689c8fb3ee3854e577d8fff524abf9d78894b"
     },
     {
       "sha": "8e341d7bb0",
@@ -798,6 +806,22 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1700",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/068a0a845815040761c1f50b9178a5aa83868934"
+    },
+    {
+      "sha": "57ae2bcfff",
+      "message": "Implement metric to CPU consumption for remote query (#923)",
+      "date": "2026-11-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/923",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/57ae2bcfffe6425e86a52801353adceabff912c6"
+    },
+    {
+      "sha": "41407640c9",
+      "message": "test(vector-registry): poll for KNN hits in different-dimensions drop test (#1715)",
+      "date": "2026-11-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1715",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/41407640c9666664ad873ff97977393219d9bdd5"
     },
     {
       "sha": "743fdab3d4",

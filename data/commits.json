@@ -214700,6 +214700,89 @@
       "repo": "valkey-swift",
       "reviewed": false,
       "pr_url": ""
+    },
+    {
+      "sha": "9e58c3bea205875758b15fe3b712a0bcd4f97f17",
+      "author_login": "Baraa-Hasheesh",
+      "author_id": 202973079,
+      "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
+      "message": "Fix flaky FLUSHDB forkless sync test with a to-disk primary save (#5314)",
+      "date": "2026-11-14T16:35:07Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-11-09T23:49:00Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-11-14T16:33:53Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5314"
+    },
+    {
+      "sha": "c68a3d1781d1f0dd9183c70b3f4b3bc4773a7690",
+      "author_login": "Andriciuc",
+      "author_id": 9531841,
+      "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
+      "message": "Add blog: From Skiplists to B+ Trees: Making Valkey Sorted Sets More Memory Efficient (#665)",
+      "date": "2026-11-14T06:58:11Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "bfb689c8fb3ee3854e577d8fff524abf9d78894b",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Add COUNT_DISTINCTISH reducer with HyperLogLog (supersedes #948) (#1719)",
+      "date": "2026-11-14T21:41:04Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-14T20:47:16Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1719"
+    },
+    {
+      "sha": "57ae2bcfffe6425e86a52801353adceabff912c6",
+      "author_login": "bandalgomsu",
+      "author_id": 121839239,
+      "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
+      "message": "Implement metric to CPU consumption for remote query (#923)",
+      "date": "2026-11-14T19:08:14Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "mohanrajendran",
+          "date": "2026-08-16T05:17:36Z"
+        },
+        {
+          "login": "allenss-amazon",
+          "date": "2026-11-14T18:06:53Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/923"
+    },
+    {
+      "sha": "41407640c9666664ad873ff97977393219d9bdd5",
+      "author_login": "Frank-Gu-81",
+      "author_id": 93494304,
+      "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
+      "message": "test(vector-registry): poll for KNN hits in different-dimensions drop test (#1715)",
+      "date": "2026-11-14T16:38:58Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-11-14T00:25:37Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1715"
     }
   ]
 }

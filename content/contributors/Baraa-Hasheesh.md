@@ -2,8 +2,8 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 77,
-  "commit_count": 31,
+  "score": 78,
+  "commit_count": 32,
   "review_count": 46,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "9e58c3bea2",
+      "message": "Fix flaky FLUSHDB forkless sync test with a to-disk primary save (#5314)",
+      "date": "2026-11-14",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5314",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9e58c3bea205875758b15fe3b712a0bcd4f97f17"
+    },
     {
       "sha": "5c3ec8d347",
       "message": "Make the forkless write-window replication tests deterministic (#5333)",

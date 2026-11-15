@@ -4058,8 +4058,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
       "name": "Allen Samuels",
       "company": "Amazon Web Services",
-      "commits": 96,
-      "reviews": 261,
+      "commits": 97,
+      "reviews": 263,
       "per_repo": {
         "valkey": {
           "2025-08": [
@@ -4179,12 +4179,12 @@
             6
           ],
           "2026-11": [
-            6,
-            9
+            7,
+            11
           ]
         }
       },
-      "score": 357,
+      "score": 360,
       "repos": [
         "valkey",
         "valkey-doc",
@@ -6818,7 +6818,7 @@
       "name": "Rain Valentine",
       "company": "AWS",
       "commits": 50,
-      "reviews": 173,
+      "reviews": 174,
       "per_repo": {
         "valkey": {
           "2024-05": [
@@ -6911,7 +6911,7 @@
           ],
           "2026-11": [
             8,
-            50
+            51
           ]
         },
         "valkey-container": {
@@ -6977,7 +6977,7 @@
           ]
         }
       },
-      "score": 223,
+      "score": 224,
       "repos": [
         "valkey",
         "valkey-container",
@@ -10108,7 +10108,7 @@
       "name": "Jim Brunner",
       "company": "Amazon AWS ElastiCache",
       "commits": 30,
-      "reviews": 76,
+      "reviews": 77,
       "per_repo": {
         "valkey": {
           "2024-11": [
@@ -10181,7 +10181,7 @@
           ],
           "2026-11": [
             2,
-            15
+            16
           ]
         },
         "valkey-doc": {
@@ -10195,7 +10195,7 @@
           ]
         }
       },
-      "score": 106,
+      "score": 107,
       "repos": [
         "valkey",
         "valkey-doc"
@@ -10533,8 +10533,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
       "name": "Shaopeng Gu",
       "company": "",
-      "commits": 33,
-      "reviews": 47,
+      "commits": 34,
+      "reviews": 48,
       "per_repo": {
         "valkey-ci-agent": {
           "2026-10": [
@@ -10588,12 +10588,12 @@
             14
           ],
           "2026-11": [
-            2,
-            15
+            3,
+            16
           ]
         }
       },
-      "score": 80,
+      "score": 82,
       "repos": [
         "valkey-ci-agent",
         "valkey-doc",
@@ -10607,7 +10607,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
       "name": "Bara' Hasheesh",
       "company": "Amazon Web Services",
-      "commits": 31,
+      "commits": 32,
       "reviews": 46,
       "per_repo": {
         "valkey": {
@@ -10620,7 +10620,7 @@
             30
           ],
           "2026-11": [
-            7,
+            8,
             14
           ]
         },
@@ -10637,7 +10637,7 @@
           ]
         }
       },
-      "score": 77,
+      "score": 78,
       "repos": [
         "valkey",
         "valkey-container",
@@ -13279,7 +13279,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
       "name": "",
       "company": "Nexon",
-      "commits": 32,
+      "commits": 33,
       "reviews": 0,
       "per_repo": {
         "valkey": {
@@ -13348,15 +13348,59 @@
             0
           ],
           "2026-11": [
-            1,
+            2,
             0
           ]
         }
       },
-      "score": 32,
+      "score": 33,
       "repos": [
         "valkey",
         "valkey-doc",
+        "valkey-search"
+      ]
+    },
+    {
+      "login": "mohanrajendran",
+      "id": 4929558,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
+      "name": "Mohan Rajendran",
+      "company": "Amazon",
+      "commits": 14,
+      "reviews": 19,
+      "per_repo": {
+        "valkey-json": {
+          "2026-10": [
+            1,
+            0
+          ],
+          "2026-11": [
+            1,
+            2
+          ]
+        },
+        "valkey-search": {
+          "2026-08": [
+            0,
+            8
+          ],
+          "2026-09": [
+            3,
+            5
+          ],
+          "2026-10": [
+            5,
+            4
+          ],
+          "2026-11": [
+            4,
+            0
+          ]
+        }
+      },
+      "score": 33,
+      "repos": [
+        "valkey-json",
         "valkey-search"
       ]
     },
@@ -13429,50 +13473,6 @@
         "valkey",
         "valkey-doc",
         "valkey-io.github.io"
-      ]
-    },
-    {
-      "login": "mohanrajendran",
-      "id": 4929558,
-      "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-      "name": "Mohan Rajendran",
-      "company": "Amazon",
-      "commits": 14,
-      "reviews": 18,
-      "per_repo": {
-        "valkey-json": {
-          "2026-10": [
-            1,
-            0
-          ],
-          "2026-11": [
-            1,
-            2
-          ]
-        },
-        "valkey-search": {
-          "2026-08": [
-            0,
-            7
-          ],
-          "2026-09": [
-            3,
-            5
-          ],
-          "2026-10": [
-            5,
-            4
-          ],
-          "2026-11": [
-            4,
-            0
-          ]
-        }
-      },
-      "score": 32,
-      "repos": [
-        "valkey-json",
-        "valkey-search"
       ]
     },
     {

@@ -2,9 +2,9 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 32,
+  "score": 33,
   "commit_count": 14,
-  "review_count": 18,
+  "review_count": 19,
   "repos": [
     "valkey-json",
     "valkey-search"
@@ -124,6 +124,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "57ae2bcfff",
+      "message": "Implement metric to CPU consumption for remote query (#923)",
+      "date": "2026-11-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/923",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/57ae2bcfffe6425e86a52801353adceabff912c6"
+    },
     {
       "sha": "743fdab3d4",
       "message": "[BUG fix] Fix SORTBY on an aliased attribute for FT.SEARCH (#1579)",

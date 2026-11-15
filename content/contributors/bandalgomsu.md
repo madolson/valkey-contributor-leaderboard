@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 32,
-  "commit_count": 32,
+  "score": 33,
+  "commit_count": 33,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "57ae2bcfff",
+      "message": "Implement metric to CPU consumption for remote query (#923)",
+      "date": "2026-11-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/923",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/57ae2bcfffe6425e86a52801353adceabff912c6"
+    },
     {
       "sha": "c77a4e8da1",
       "message": "Document missing key types and notification flags in module API (#5289)",

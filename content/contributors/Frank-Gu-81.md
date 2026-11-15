@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 80,
-  "commit_count": 33,
-  "review_count": 47,
+  "score": 82,
+  "commit_count": 34,
+  "review_count": 48,
   "repos": [
     "valkey-ci-agent",
     "valkey-doc",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "41407640c9",
+      "message": "test(vector-registry): poll for KNN hits in different-dimensions drop test (#1715)",
+      "date": "2026-11-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1715",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/41407640c9666664ad873ff97977393219d9bdd5"
+    },
     {
       "sha": "612423eeec",
       "message": " Fix RDB load abort when a tracked vector key is missing from the keyspace (#1589)",
@@ -301,6 +309,14 @@
       "repo": "valkey-search",
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1711",
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/3affff4b0195f82470241ccbbcdedafa5d76a23d"
+    },
+    {
+      "sha": "bfb689c8fb",
+      "message": "Add COUNT_DISTINCTISH reducer with HyperLogLog (supersedes #948) (#1719)",
+      "date": "2026-11-14",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1719",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/bfb689c8fb3ee3854e577d8fff524abf9d78894b"
     },
     {
       "sha": "4bfcfdec9e",
