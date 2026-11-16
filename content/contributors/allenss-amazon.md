@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 360,
-  "commit_count": 97,
+  "score": 362,
+  "commit_count": 99,
   "review_count": 263,
   "repos": [
     "valkey",
@@ -13,6 +13,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "6e378bd78d",
+      "message": "Fix stem root distinct_docs undercount on concurrent deletes (#1722) (#1723)",
+      "date": "2026-11-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1723",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6e378bd78db69ce9d2f2b23318370e3d5e7c4cce"
+    },
+    {
+      "sha": "3a41580a24",
+      "message": "feat: add Quantile reducer to FT.Aggregate groupby stage (supersedes #947) (#1721)",
+      "date": "2026-11-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1721",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/3a41580a247e4c55e5b6e2a6d5491f6b22bc6529"
+    },
     {
       "sha": "92b44712de",
       "message": "Fix intermittent test_StringPoolStats failure (#1713)",

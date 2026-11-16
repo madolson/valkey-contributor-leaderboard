@@ -2,14 +2,22 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 33,
-  "commit_count": 14,
+  "score": 34,
+  "commit_count": 15,
   "review_count": 19,
   "repos": [
     "valkey-json",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "ab8e70a222",
+      "message": "docs: add a scoring topic page (#1506)",
+      "date": "2026-11-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1506",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ab8e70a22275bea81709286876ad94e4b8b28d47"
+    },
     {
       "sha": "4bfcfdec9e",
       "message": "fix(ft.create): keep LANGUAGE when another option follows it (#1697) (#1702)",

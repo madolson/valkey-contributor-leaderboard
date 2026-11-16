@@ -2,9 +2,9 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 32,
+  "score": 33,
   "commit_count": 21,
-  "review_count": 11,
+  "review_count": 12,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -181,6 +181,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0804ed65f4",
+      "message": "Document maxmemory-scripts and SCRIPT LOAD DENYOOM (#546)",
+      "date": "2026-11-16",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/546",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/0804ed65f4fbf142e46c65af896f450e8c28aca2"
+    },
     {
       "sha": "4f8d101df2",
       "message": "Update jheyburn.md (#755)",

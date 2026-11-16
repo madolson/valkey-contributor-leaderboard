@@ -2,9 +2,9 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 78,
+  "score": 79,
   "commit_count": 32,
-  "review_count": 46,
+  "review_count": 47,
   "repos": [
     "valkey",
     "valkey-container",
@@ -269,6 +269,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ec905ca512",
+      "message": "Ignore SYNCSLOTS FINISH for an already finished import job (#5367)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5367",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ec905ca5128f77e4d2827482ab0a8fb00ed35419"
+    },
     {
       "sha": "0608ff7472",
       "message": "Fix flaky temp file check in cluster-config-save-behavior test (#5254)",

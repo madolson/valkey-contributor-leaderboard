@@ -214783,6 +214783,181 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1715"
+    },
+    {
+      "sha": "ec905ca5128f77e4d2827482ab0a8fb00ed35419",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Ignore SYNCSLOTS FINISH for an already finished import job (#5367)",
+      "date": "2026-11-16T03:51:35Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "Baraa-Hasheesh",
+          "date": "2026-11-14T12:52:05Z"
+        },
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-11-16T03:32:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5367"
+    },
+    {
+      "sha": "0804ed65f4fbf142e46c65af896f450e8c28aca2",
+      "author_login": "enjoy-binbin",
+      "author_id": 22811481,
+      "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
+      "message": "Document maxmemory-scripts and SCRIPT LOAD DENYOOM (#546)",
+      "date": "2026-11-16T03:35:28Z",
+      "repo": "valkey-doc",
+      "reviewed": [
+        {
+          "login": "Andriciuc",
+          "date": "2026-11-11T09:45:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/546"
+    },
+    {
+      "sha": "19fae29707e490610ee6485c7fa2cf2ddcfda027",
+      "author_login": "rueian",
+      "author_id": 2727535,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
+      "message": "feat: upgrade to go 1.26 (#1062)",
+      "date": "2026-11-15T17:51:20Z",
+      "repo": "valkey-go",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "075f7d3ef3414233046a7f03689e19ebf347e056",
+      "author_login": "youdie006",
+      "author_id": 169331997,
+      "avatar_url": "https://avatars.githubusercontent.com/u/169331997?v=4",
+      "message": "fix(valkeycompat): read the RESP2 replies of TopKInfo and ClusterShards (#1056)",
+      "date": "2026-11-15T17:47:17Z",
+      "repo": "valkey-go",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "c7e29331bcc73d3f6200f8225f06625127826174",
+      "author_login": "pcbeingused333",
+      "author_id": 82875882,
+      "avatar_url": "https://avatars.githubusercontent.com/u/82875882?v=4",
+      "message": "fix(url): treat ParseURL addr without port as host with default port (#1057)",
+      "date": "2026-11-15T17:47:16Z",
+      "repo": "valkey-go",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "be65363dcf22c9b5fba00b8c46b82502b6078651",
+      "author_login": "yamamoto7",
+      "author_id": 37437497,
+      "avatar_url": "https://avatars.githubusercontent.com/u/37437497?v=4",
+      "message": "fix(valkeycompat): send TS.MREVRANGE from TSMRevRange (#1053)",
+      "date": "2026-11-15T17:47:14Z",
+      "repo": "valkey-go",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "2f5b5c02945ba256be688ff061f66656567d6e3a",
+      "author_login": "g4lb",
+      "author_id": 16121666,
+      "avatar_url": "https://avatars.githubusercontent.com/u/16121666?v=4",
+      "message": "perf: remove per-element allocations in CacheMarshal and CacheSize (#1055)",
+      "date": "2026-11-15T17:47:13Z",
+      "repo": "valkey-go",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "6e378bd78db69ce9d2f2b23318370e3d5e7c4cce",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "Fix stem root distinct_docs undercount on concurrent deletes (#1722) (#1723)",
+      "date": "2026-11-15T21:52:48Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-15T16:55:54Z"
+        },
+        {
+          "login": "BCathcart",
+          "date": "2026-11-15T21:48:55Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1723"
+    },
+    {
+      "sha": "ab8e70a22275bea81709286876ad94e4b8b28d47",
+      "author_login": "mohanrajendran",
+      "author_id": 4929558,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
+      "message": "docs: add a scoring topic page (#1506)",
+      "date": "2026-11-15T17:03:25Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "boda26",
+          "date": "2026-10-05T21:46:25Z"
+        },
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-10-06T21:42:36Z"
+        },
+        {
+          "login": "yairgott",
+          "date": "2026-10-22T23:13:44Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1506"
+    },
+    {
+      "sha": "cb9e6042fbdbf3cd5a589ef75f6fe8b1bf6784a7",
+      "author_login": "bandalgomsu",
+      "author_id": 121839239,
+      "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
+      "message": "Add case function in aggregation expressions (#1433)",
+      "date": "2026-11-15T16:36:22Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-09-22T17:59:36Z"
+        },
+        {
+          "login": "yairgott",
+          "date": "2026-10-22T23:09:16Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1433"
+    },
+    {
+      "sha": "3a41580a247e4c55e5b6e2a6d5491f6b22bc6529",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "feat: add Quantile reducer to FT.Aggregate groupby stage (supersedes #947) (#1721)",
+      "date": "2026-11-15T07:03:47Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-15T01:41:11Z"
+        },
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-15T02:00:56Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1721"
     }
   ]
 }

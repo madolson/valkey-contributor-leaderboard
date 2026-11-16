@@ -2,9 +2,9 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 96,
+  "score": 97,
   "commit_count": 58,
-  "review_count": 38,
+  "review_count": 39,
   "repos": [
     "valkey-search"
   ],
@@ -475,6 +475,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ab8e70a222",
+      "message": "docs: add a scoring topic page (#1506)",
+      "date": "2026-11-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1506",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ab8e70a22275bea81709286876ad94e4b8b28d47"
+    },
     {
       "sha": "d08f29e1e3",
       "message": "refactor(text): remove dead RadixTree template and its test (#1432)",

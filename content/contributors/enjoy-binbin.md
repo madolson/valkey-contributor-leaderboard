@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 1040,
-  "commit_count": 399,
-  "review_count": 641,
+  "score": 1042,
+  "commit_count": 400,
+  "review_count": 642,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -14,6 +14,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "0804ed65f4",
+      "message": "Document maxmemory-scripts and SCRIPT LOAD DENYOOM (#546)",
+      "date": "2026-11-16",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/546",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/0804ed65f4fbf142e46c65af896f450e8c28aca2"
+    },
     {
       "sha": "9abbfd2557",
       "message": "Use the effective replica output buffer limit for the steady-state throttle target (#5338)",
@@ -3208,6 +3216,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ec905ca512",
+      "message": "Ignore SYNCSLOTS FINISH for an already finished import job (#5367)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5367",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ec905ca5128f77e4d2827482ab0a8fb00ed35419"
+    },
     {
       "sha": "1efadbddb3",
       "message": "Document replication throttling (#549)",

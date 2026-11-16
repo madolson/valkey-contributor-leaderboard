@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 33,
-  "commit_count": 33,
+  "score": 34,
+  "commit_count": 34,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "cb9e6042fb",
+      "message": "Add case function in aggregation expressions (#1433)",
+      "date": "2026-11-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1433",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/cb9e6042fbdbf3cd5a589ef75f6fe8b1bf6784a7"
+    },
     {
       "sha": "57ae2bcfff",
       "message": "Implement metric to CPU consumption for remote query (#923)",

@@ -2,8 +2,8 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 475,
-  "commit_count": 132,
+  "score": 476,
+  "commit_count": 133,
   "review_count": 343,
   "repos": [
     "valkey",
@@ -18,6 +18,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "ec905ca512",
+      "message": "Ignore SYNCSLOTS FINISH for an already finished import job (#5367)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5367",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ec905ca5128f77e4d2827482ab0a8fb00ed35419"
+    },
     {
       "sha": "c98c0e2e6c",
       "message": "bgiteration: don't queue a FLUSHDB item for a completed iterator (#5365)",

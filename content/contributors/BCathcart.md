@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 167,
+  "score": 168,
   "commit_count": 46,
-  "review_count": 121,
+  "review_count": 122,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -382,6 +382,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6e378bd78d",
+      "message": "Fix stem root distinct_docs undercount on concurrent deletes (#1722) (#1723)",
+      "date": "2026-11-15",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1723",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/6e378bd78db69ce9d2f2b23318370e3d5e7c4cce"
+    },
     {
       "sha": "5f80ef3d64",
       "message": "Allocate vector index memory in transparent huge pages (#1647)",
