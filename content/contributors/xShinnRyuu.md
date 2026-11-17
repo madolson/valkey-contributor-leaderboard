@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 515,
-  "commit_count": 152,
-  "review_count": 363,
+  "score": 523,
+  "commit_count": 155,
+  "review_count": 368,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,30 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "00762b4b2a",
+      "message": "test(go): run the pool and scope integration tests in CI (#7642)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7642",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/00762b4b2a01ec3c92c289c73b1a8a2c78fa8d9f"
+    },
+    {
+      "sha": "cf814b8da5",
+      "message": "fix(ruby): allow fresh clients after fork (#420)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/420",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/cf814b8da5d42daef264b488635c71f90898bd74"
+    },
+    {
+      "sha": "23dce0c8b7",
+      "message": "fix: never echo ssl_params values in errors and accept PEM text (#428)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/428",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/23dce0c8b79c636c93ae8a6e2eacbdb95b5c50a5"
+    },
     {
       "sha": "6d8c3979a5",
       "message": "ci: run Java, Node and Go CI when the shared Rust crates change (#7668)",
@@ -1233,6 +1257,78 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7c0bc6552c",
+      "message": "Merge pull request #7739 from valkey-io/go/jamesx-fix-7648-strip-lto-bitcode",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7739",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7c0bc6552c5f57034ac4b5cc7eeb8914bbeb00d4"
+    },
+    {
+      "sha": "4efdacf73e",
+      "message": "Bump the patch-updates group with 2 updates (#645)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/645",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4efdacf73e7d4f859c2c775938a8f35640084f20"
+    },
+    {
+      "sha": "eebcb0fb18",
+      "message": "chore(deps): bump the minor-updates group across 1 directory with 3 updates (#644)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/644",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/eebcb0fb18df0859d28676e6dcf20baa164c8f56"
+    },
+    {
+      "sha": "5f9f0b7541",
+      "message": "Bump the minor-updates group with 2 updates (#646)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/646",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5f9f0b75415646d2e6cdf811b7debfc03c1e04fc"
+    },
+    {
+      "sha": "dc0fb20867",
+      "message": "chore(deps): bump the patch-updates group across 1 directory with 4 updates (#643)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/643",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/dc0fb2086753256863d5c6a4b4fda5e7f7092e52"
+    },
+    {
+      "sha": "2fa983413c",
+      "message": "chore(ci): check for shellcheck and pyflakes in actionlint (#625)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/625",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2fa983413c40ef3c3cd0335d89e86155cd32e854"
+    },
+    {
+      "sha": "12991c3f1a",
+      "message": "fix(ruby): swap PubSub.publish args position (#432)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/432",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/12991c3f1a8ff304e5882986e35ca364ee2accee"
+    },
+    {
+      "sha": "12991c3f1a",
+      "message": "fix(ruby): swap PubSub.publish args position (#432)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/432",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/12991c3f1a8ff304e5882986e35ca364ee2accee"
+    },
+    {
+      "sha": "d71d28ecda",
+      "message": "ci(ruby): replace retired macos-14 GitHub runner with macos-15 (#423)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/423",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d71d28ecda525b2d3eef613a812dca8754248981"
+    },
     {
       "sha": "99436ddde4",
       "message": "ci(benchmark): skip the benchmark smoke check on pull requests (#7643)",

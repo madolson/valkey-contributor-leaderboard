@@ -2,8 +2,8 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 181,
-  "commit_count": 138,
+  "score": 182,
+  "commit_count": 139,
   "review_count": 43,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-swift"
   ],
   "commit_list": [
+    {
+      "sha": "3ba6e68937",
+      "message": "Add command changes for valkey-json 1.1 (#418)",
+      "date": "2026-11-16",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/418",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/3ba6e68937eff40c1d0cb9c27cd0a4519c13339d"
+    },
     {
       "sha": "01c6beacb7",
       "message": "Add parameter pack pipeline `ValkeyClientProtocol.execute` (#406)",

@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 945,
+  "score": 950,
   "commit_count": 45,
-  "review_count": 900,
+  "review_count": 905,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7c0bc6552c",
+      "message": "Merge pull request #7739 from valkey-io/go/jamesx-fix-7648-strip-lto-bitcode",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7739",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7c0bc6552c5f57034ac4b5cc7eeb8914bbeb00d4"
+    },
+    {
+      "sha": "2fa983413c",
+      "message": "chore(ci): check for shellcheck and pyflakes in actionlint (#625)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/625",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2fa983413c40ef3c3cd0335d89e86155cd32e854"
+    },
+    {
+      "sha": "53ed216c3f",
+      "message": "fix(php): fix issues from the rc2 bug bash (#442)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/442",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/53ed216c3f36077ed4f25a46613a7e27f12ba456"
+    },
+    {
+      "sha": "d71d28ecda",
+      "message": "ci(ruby): replace retired macos-14 GitHub runner with macos-15 (#423)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/423",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d71d28ecda525b2d3eef613a812dca8754248981"
+    },
+    {
+      "sha": "cf814b8da5",
+      "message": "fix(ruby): allow fresh clients after fork (#420)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/420",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/cf814b8da5d42daef264b488635c71f90898bd74"
+    },
     {
       "sha": "b00000a9f2",
       "message": "Port release-2.6 fixes to main (20 PRs) (#7700)",

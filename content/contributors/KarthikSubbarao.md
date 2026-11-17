@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 345,
-  "commit_count": 141,
-  "review_count": 204,
+  "score": 351,
+  "commit_count": 143,
+  "review_count": 208,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -18,6 +18,22 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "53c3b77867",
+      "message": "Add a retry hint to the disk staging exhaustion error (#212)",
+      "date": "2026-11-16",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/212",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/53c3b77867c178ff787eee7deacfcbe50c5cad60"
+    },
+    {
+      "sha": "92e5b46b6d",
+      "message": "Shard the per-object maps so a rehash never stalls the server (#206)",
+      "date": "2026-11-16",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/206",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/92e5b46b6d1d2d87bd8867c9531155c511db11ed"
+    },
     {
       "sha": "b881c95a3e",
       "message": "Cap the streaming window for DRAM-cache GETs and Dram-mode SETs (#211)",
@@ -1148,6 +1164,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5f10fa111d",
+      "message": "docs: use the retry hint and drop stale enum case notes (#219)",
+      "date": "2026-11-16",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/219",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/5f10fa111dd6f891ebdbe945acb5569f57515176"
+    },
+    {
+      "sha": "c4c6bf5012",
+      "message": "docs: add getting started and command reference (#197)",
+      "date": "2026-11-16",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/197",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/c4c6bf5012be90f80e0b89dcb10f1f6b3defbf9d"
+    },
+    {
+      "sha": "417d328137",
+      "message": "Adding path hash keytype and future proofing for future (#258)",
+      "date": "2026-11-16",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/258",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/417d32813717d40fb5c900c0b93b0455d57ae262"
+    },
+    {
+      "sha": "417d328137",
+      "message": "Adding path hash keytype and future proofing for future (#258)",
+      "date": "2026-11-16",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/258",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/417d32813717d40fb5c900c0b93b0455d57ae262"
+    },
     {
       "sha": "0db7fae31d",
       "message": "Reject any BLOB.RDMA_HELLO that has more than one arg (#210)",

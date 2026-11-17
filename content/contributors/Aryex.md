@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 366,
-  "commit_count": 142,
-  "review_count": 224,
+  "score": 371,
+  "commit_count": 144,
+  "review_count": 227,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "12991c3f1a",
+      "message": "fix(ruby): swap PubSub.publish args position (#432)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/432",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/12991c3f1a8ff304e5882986e35ca364ee2accee"
+    },
+    {
+      "sha": "d71d28ecda",
+      "message": "ci(ruby): replace retired macos-14 GitHub runner with macos-15 (#423)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/423",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d71d28ecda525b2d3eef613a812dca8754248981"
+    },
     {
       "sha": "4a87e2930f",
       "message": "fix(java): restore JedisPool's configured database before lending a connection (#7628)",
@@ -1154,6 +1170,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "00762b4b2a",
+      "message": "test(go): run the pool and scope integration tests in CI (#7642)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7642",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/00762b4b2a01ec3c92c289c73b1a8a2c78fa8d9f"
+    },
+    {
+      "sha": "cf814b8da5",
+      "message": "fix(ruby): allow fresh clients after fork (#420)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/420",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/cf814b8da5d42daef264b488635c71f90898bd74"
+    },
+    {
+      "sha": "23dce0c8b7",
+      "message": "fix: never echo ssl_params values in errors and accept PEM text (#428)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/428",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/23dce0c8b79c636c93ae8a6e2eacbdb95b5c50a5"
+    },
     {
       "sha": "99436ddde4",
       "message": "ci(benchmark): skip the benchmark smoke check on pull requests (#7643)",

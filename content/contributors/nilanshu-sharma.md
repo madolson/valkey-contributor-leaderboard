@@ -2,9 +2,9 @@
   "title": "nilanshu-sharma",
   "login": "nilanshu-sharma",
   "avatar_url": "https://avatars.githubusercontent.com/u/220134298?v=4",
-  "score": 124,
+  "score": 125,
   "commit_count": 15,
-  "review_count": 109,
+  "review_count": 110,
   "repos": [
     "valkey",
     "valkey-swift"
@@ -132,6 +132,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3ba6e68937",
+      "message": "Add command changes for valkey-json 1.1 (#418)",
+      "date": "2026-11-16",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/418",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/3ba6e68937eff40c1d0cb9c27cd0a4519c13339d"
+    },
     {
       "sha": "01c6beacb7",
       "message": "Add parameter pack pipeline `ValkeyClientProtocol.execute` (#406)",

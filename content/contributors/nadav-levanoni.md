@@ -2,9 +2,9 @@
   "title": "nadav-levanoni",
   "login": "nadav-levanoni",
   "avatar_url": "https://avatars.githubusercontent.com/u/38641521?v=4",
-  "score": 30,
+  "score": 31,
   "commit_count": 12,
-  "review_count": 18,
+  "review_count": 19,
   "repos": [
     "valkey",
     "valkey-large-object",
@@ -109,6 +109,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "92e5b46b6d",
+      "message": "Shard the per-object maps so a rehash never stalls the server (#206)",
+      "date": "2026-11-16",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/206",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/92e5b46b6d1d2d87bd8867c9531155c511db11ed"
+    },
     {
       "sha": "4197c14bc7",
       "message": "Count object files that spill out of their inode in INFO disk (#209)",

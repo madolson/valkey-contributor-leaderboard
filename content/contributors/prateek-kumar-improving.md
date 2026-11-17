@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 489,
-  "commit_count": 166,
-  "review_count": 323,
+  "score": 495,
+  "commit_count": 167,
+  "review_count": 328,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "53ed216c3f",
+      "message": "fix(php): fix issues from the rc2 bug bash (#442)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/442",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/53ed216c3f36077ed4f25a46613a7e27f12ba456"
+    },
     {
       "sha": "e0f68de5c4",
       "message": "fix(python): send sync memoryview args with their byte length (#7561)",
@@ -1343,6 +1351,78 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "39be0556ad",
+      "message": "ci(deps): bump peter-evans/create-pull-request from 8.1.1 to 8.1.2 (#437)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/437",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/39be0556ad728f080ce26903bd3b4587669d0598"
+    },
+    {
+      "sha": "bdefaaa800",
+      "message": "ci(deps): bump Swatinem/rust-cache (#439)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/439",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/bdefaaa8002bdb011cf3bd6f6b51f50cc2c1e411"
+    },
+    {
+      "sha": "bdefaaa800",
+      "message": "ci(deps): bump Swatinem/rust-cache (#439)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/439",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/bdefaaa8002bdb011cf3bd6f6b51f50cc2c1e411"
+    },
+    {
+      "sha": "a51776b5db",
+      "message": "ci(deps): bump softprops/action-gh-release from 3.0.3 to 3.0.4 (#438)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/438",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/a51776b5db93ab43c45eedbcafc8404970861701"
+    },
+    {
+      "sha": "30f1adc510",
+      "message": "fix(logger): logger creation returns false instead of crashing when logfile unwritable (#445)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/445",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/30f1adc51085fde5fdf1a53c4fd1ee01b6b0a861"
+    },
+    {
+      "sha": "8d775d6d09",
+      "message": "fix(php): return false for missing fields from hGetEx() (#417)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/417",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/8d775d6d09d460c90cca917c12a4e5f9b2c43219"
+    },
+    {
+      "sha": "323058de4a",
+      "message": "fix(php): send float arguments without rounding them to six digits (#418)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/418",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/323058de4a47a15ed5d77f48bf29cc2362d62174"
+    },
+    {
+      "sha": "eb6fdff246",
+      "message": "fix(php): queue rawcommand() in multi() and pipeline() (#419)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/419",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/eb6fdff246f569f8e5639c5bc98144f331aa8c7c"
+    },
+    {
+      "sha": "235465e3e6",
+      "message": "fix(php): handle hRandField() options and replies as PHPRedis does (#422)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/422",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/235465e3e6d7f7e56090c9c91d4fc9e19457de25"
+    },
     {
       "sha": "601d3dcbb8",
       "message": "fix(php): size zset argument buffers and stop double frees in zAdd() (#411)",

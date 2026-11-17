@@ -2,9 +2,9 @@
   "title": "dmitrypol",
   "login": "dmitrypol",
   "avatar_url": "https://avatars.githubusercontent.com/u/210308?v=4",
-  "score": 13,
+  "score": 14,
   "commit_count": 12,
-  "review_count": 1,
+  "review_count": 2,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -112,6 +112,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "417d328137",
+      "message": "Adding path hash keytype and future proofing for future (#258)",
+      "date": "2026-11-16",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/258",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/417d32813717d40fb5c900c0b93b0455d57ae262"
+    },
     {
       "sha": "920be5b283",
       "message": "added client change server event (#182)",

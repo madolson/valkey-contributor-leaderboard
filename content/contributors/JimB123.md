@@ -2,9 +2,9 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 107,
+  "score": 112,
   "commit_count": 30,
-  "review_count": 77,
+  "review_count": 82,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -252,6 +252,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1a5d47e92d",
+      "message": "Report forkless progress INFO fields during diskless full sync (#5436)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5436",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1a5d47e92d97c66dd7500a7ed946495f8e655bc7"
+    },
+    {
+      "sha": "9d8f3c003c",
+      "message": "Reset slot migration snapshot pipes when the snapshot fork fails (#5359)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5359",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9d8f3c003ca8f741c74a4688048a08b4ac9dfaa2"
+    },
+    {
+      "sha": "d77fbf91f3",
+      "message": "Fix dynamic priority-subnets demotion of replicas/slot migration links and counter drift (#4674) (#4681)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4681",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d77fbf91f3c647e5541be8819e7e52e088479bf8"
+    },
+    {
+      "sha": "eb47ae3132",
+      "message": "Fix flaky CLIENT KILL during forkless bgsave test: wait budget shorter than the key delay (#5428)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5428",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/eb47ae3132cdb110a20b120373082c15f104c9d7"
+    },
+    {
+      "sha": "f0464f05e1",
+      "message": "Allow a module thread holding the GIL to replicate during a forkless save (#5432)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5432",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f0464f05e1e55f7795a6313d40d8e6084821af69"
+    },
     {
       "sha": "c98c0e2e6c",
       "message": "bgiteration: don't queue a FLUSHDB item for a completed iterator (#5365)",

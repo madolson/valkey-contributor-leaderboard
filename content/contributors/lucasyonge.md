@@ -2,8 +2,8 @@
   "title": "lucasyonge",
   "login": "lucasyonge",
   "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
-  "score": 27,
-  "commit_count": 4,
+  "score": 28,
+  "commit_count": 5,
   "review_count": 23,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-proxy"
   ],
   "commit_list": [
+    {
+      "sha": "e575e686dd",
+      "message": "Add p99.9 latency in valkey-benchmark result (#5377)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5377",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e575e686dde4b64ef0b89c0c48b7c33259b3943b"
+    },
     {
       "sha": "37ee528931",
       "message": "Update Lucas bio file (#532)",

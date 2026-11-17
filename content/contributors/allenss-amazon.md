@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 362,
-  "commit_count": 99,
+  "score": 363,
+  "commit_count": 100,
   "review_count": 263,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "67e82c198c",
+      "message": "Report compatibility-fix usage in a single INFO field (#1729)",
+      "date": "2026-11-16",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1729",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/67e82c198c38655472a23de12ec0274e3fc5ba83"
+    },
     {
       "sha": "6e378bd78d",
       "message": "Fix stem root distinct_docs undercount on concurrent deletes (#1722) (#1723)",

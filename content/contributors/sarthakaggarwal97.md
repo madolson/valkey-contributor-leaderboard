@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 476,
-  "commit_count": 133,
-  "review_count": 343,
+  "score": 479,
+  "commit_count": 135,
+  "review_count": 344,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -18,6 +18,22 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "704168b56e",
+      "message": "Link the website release-page PR for release candidates (#169)",
+      "date": "2026-11-17",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/169",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/704168b56e0bd5b1b0a4ccae525c0ee75e83599c"
+    },
+    {
+      "sha": "7f952949f5",
+      "message": "Open website release-page PRs for release candidates (#79)",
+      "date": "2026-11-17",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/79",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/7f952949f54c9c509f35fb09c6239556e45b0af6"
+    },
     {
       "sha": "ec905ca512",
       "message": "Ignore SYNCSLOTS FINISH for an already finished import job (#5367)",
@@ -1084,6 +1100,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9d8f3c003c",
+      "message": "Reset slot migration snapshot pipes when the snapshot fork fails (#5359)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5359",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9d8f3c003ca8f741c74a4688048a08b4ac9dfaa2"
+    },
     {
       "sha": "e952287eed",
       "message": "Automated Updates for Valkey Bundle (#134)",

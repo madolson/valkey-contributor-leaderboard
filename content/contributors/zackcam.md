@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 120,
-  "commit_count": 65,
-  "review_count": 55,
+  "score": 123,
+  "commit_count": 66,
+  "review_count": 57,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -17,6 +17,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "417d328137",
+      "message": "Adding path hash keytype and future proofing for future (#258)",
+      "date": "2026-11-16",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/258",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/417d32813717d40fb5c900c0b93b0455d57ae262"
+    },
     {
       "sha": "0db7fae31d",
       "message": "Reject any BLOB.RDMA_HELLO that has more than one arg (#210)",
@@ -539,6 +547,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "53c3b77867",
+      "message": "Add a retry hint to the disk staging exhaustion error (#212)",
+      "date": "2026-11-16",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/212",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/53c3b77867c178ff787eee7deacfcbe50c5cad60"
+    },
+    {
+      "sha": "92e5b46b6d",
+      "message": "Shard the per-object maps so a rehash never stalls the server (#206)",
+      "date": "2026-11-16",
+      "repo": "valkey-large-object",
+      "pr_url": "https://github.com/valkey-io/valkey-large-object/pull/206",
+      "commit_url": "https://github.com/valkey-io/valkey-large-object/commit/92e5b46b6d1d2d87bd8867c9531155c511db11ed"
+    },
     {
       "sha": "6a5781c115",
       "message": "Delete evicted keys by name from a key hint in the file header (#194)",

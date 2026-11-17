@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 1042,
+  "score": 1043,
   "commit_count": 400,
-  "review_count": 642,
+  "review_count": 643,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3223,6 +3223,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/5367",
       "commit_url": "https://github.com/valkey-io/valkey/commit/ec905ca5128f77e4d2827482ab0a8fb00ed35419"
+    },
+    {
+      "sha": "180283c3f2",
+      "message": "[deflake] Wait for valkey-server to accept connections in external server tests (#5055)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5055",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/180283c3f21795794d25682dbb4e22ff2b3bd096"
     },
     {
       "sha": "1efadbddb3",

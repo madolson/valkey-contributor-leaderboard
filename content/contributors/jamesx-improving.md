@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 402,
-  "commit_count": 86,
-  "review_count": 316,
+  "score": 407,
+  "commit_count": 87,
+  "review_count": 320,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "7c0bc6552c",
+      "message": "Merge pull request #7739 from valkey-io/go/jamesx-fix-7648-strip-lto-bitcode",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7739",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7c0bc6552c5f57034ac4b5cc7eeb8914bbeb00d4"
+    },
     {
       "sha": "b00000a9f2",
       "message": "Port release-2.6 fixes to main (20 PRs) (#7700)",
@@ -703,6 +711,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "00762b4b2a",
+      "message": "test(go): run the pool and scope integration tests in CI (#7642)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7642",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/00762b4b2a01ec3c92c289c73b1a8a2c78fa8d9f"
+    },
+    {
+      "sha": "12991c3f1a",
+      "message": "fix(ruby): swap PubSub.publish args position (#432)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/432",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/12991c3f1a8ff304e5882986e35ca364ee2accee"
+    },
+    {
+      "sha": "cf814b8da5",
+      "message": "fix(ruby): allow fresh clients after fork (#420)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/420",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/cf814b8da5d42daef264b488635c71f90898bd74"
+    },
+    {
+      "sha": "23dce0c8b7",
+      "message": "fix: never echo ssl_params values in errors and accept PEM text (#428)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/428",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/23dce0c8b79c636c93ae8a6e2eacbdb95b5c50a5"
+    },
     {
       "sha": "2ec4aabbbd",
       "message": "ci(core): save only the registry crates in the glide-core cargo target cache (#7598)",

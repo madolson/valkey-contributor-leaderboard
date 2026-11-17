@@ -2,8 +2,8 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 332,
-  "commit_count": 96,
+  "score": 333,
+  "commit_count": 97,
   "review_count": 236,
   "repos": [
     "valkey",
@@ -17,6 +17,14 @@
     "valkey-try-me"
   ],
   "commit_list": [
+    {
+      "sha": "0dbc5344ff",
+      "message": "Remove the INFO hotkeys section (#5340)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5340",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0dbc5344ffbf8c829a31720794e24537efae26a1"
+    },
     {
       "sha": "637f716b4b",
       "message": "Add missing UPDATE key spec for HGETEX command (#4576)",

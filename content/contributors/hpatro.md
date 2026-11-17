@@ -2,8 +2,8 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 312,
-  "commit_count": 66,
+  "score": 313,
+  "commit_count": 67,
   "review_count": 246,
   "repos": [
     "valkey",
@@ -17,6 +17,14 @@
     "valkey-rfc"
   ],
   "commit_list": [
+    {
+      "sha": "85b2827043",
+      "message": "Document cluster_io_* fields in CLUSTER INFO (#550)",
+      "date": "2026-11-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/550",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/85b2827043010b0ed95093262c811dd1ed1f1c49"
+    },
     {
       "sha": "2f3bcead22",
       "message": "Cluster Bus IO offload (#3438)",

@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 474,
+  "score": 477,
   "commit_count": 170,
-  "review_count": 304,
+  "review_count": 307,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -1382,6 +1382,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "704168b56e",
+      "message": "Link the website release-page PR for release candidates (#169)",
+      "date": "2026-11-17",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/169",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/704168b56e0bd5b1b0a4ccae525c0ee75e83599c"
+    },
+    {
+      "sha": "543d5097b7",
+      "message": "[Bug fix] Pick the latest release by version, not date, on /download/ (#741)",
+      "date": "2026-11-17",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/741",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/543d5097b7c8d338ae27e693350dbc8ab71a708f"
+    },
+    {
+      "sha": "7f952949f5",
+      "message": "Open website release-page PRs for release candidates (#79)",
+      "date": "2026-11-17",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/79",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/7f952949f54c9c509f35fb09c6239556e45b0af6"
+    },
     {
       "sha": "e952287eed",
       "message": "Automated Updates for Valkey Bundle (#134)",

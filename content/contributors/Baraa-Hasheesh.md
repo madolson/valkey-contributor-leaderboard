@@ -2,15 +2,39 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 79,
-  "commit_count": 32,
-  "review_count": 47,
+  "score": 84,
+  "commit_count": 35,
+  "review_count": 49,
   "repos": [
     "valkey",
     "valkey-container",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "9d8f3c003c",
+      "message": "Reset slot migration snapshot pipes when the snapshot fork fails (#5359)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5359",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/9d8f3c003ca8f741c74a4688048a08b4ac9dfaa2"
+    },
+    {
+      "sha": "eb47ae3132",
+      "message": "Fix flaky CLIENT KILL during forkless bgsave test: wait budget shorter than the key delay (#5428)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5428",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/eb47ae3132cdb110a20b120373082c15f104c9d7"
+    },
+    {
+      "sha": "f0464f05e1",
+      "message": "Allow a module thread holding the GIL to replicate during a forkless save (#5432)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5432",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/f0464f05e1e55f7795a6313d40d8e6084821af69"
+    },
     {
       "sha": "9e58c3bea2",
       "message": "Fix flaky FLUSHDB forkless sync test with a to-disk primary save (#5314)",
@@ -276,6 +300,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/5367",
       "commit_url": "https://github.com/valkey-io/valkey/commit/ec905ca5128f77e4d2827482ab0a8fb00ed35419"
+    },
+    {
+      "sha": "180283c3f2",
+      "message": "[deflake] Wait for valkey-server to accept connections in external server tests (#5055)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5055",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/180283c3f21795794d25682dbb4e22ff2b3bd096"
+    },
+    {
+      "sha": "e575e686dd",
+      "message": "Add p99.9 latency in valkey-benchmark result (#5377)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5377",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e575e686dde4b64ef0b89c0c48b7c33259b3943b"
     },
     {
       "sha": "0608ff7472",

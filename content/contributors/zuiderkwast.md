@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1332,
+  "score": 1333,
   "commit_count": 161,
-  "review_count": 1171,
+  "review_count": 1172,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1310,6 +1310,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e575e686dd",
+      "message": "Add p99.9 latency in valkey-benchmark result (#5377)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5377",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/e575e686dde4b64ef0b89c0c48b7c33259b3943b"
+    },
     {
       "sha": "d5bf376a3e",
       "message": "Treat a torn annotation at the end of an AOF file as a short read (#5349)",

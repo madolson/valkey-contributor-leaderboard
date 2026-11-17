@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 412,
-  "commit_count": 234,
+  "score": 413,
+  "commit_count": 235,
   "review_count": 178,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "2fa983413c",
+      "message": "chore(ci): check for shellcheck and pyflakes in actionlint (#625)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/625",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/2fa983413c40ef3c3cd0335d89e86155cd32e854"
+    },
     {
       "sha": "ed1e08c0b0",
       "message": "chore(rust): prepare valkey-glide 0.10.0 release (#7682)",
@@ -1889,6 +1897,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4efdacf73e",
+      "message": "Bump the patch-updates group with 2 updates (#645)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/645",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/4efdacf73e7d4f859c2c775938a8f35640084f20"
+    },
+    {
+      "sha": "eebcb0fb18",
+      "message": "chore(deps): bump the minor-updates group across 1 directory with 3 updates (#644)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/644",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/eebcb0fb18df0859d28676e6dcf20baa164c8f56"
+    },
+    {
+      "sha": "5f9f0b7541",
+      "message": "Bump the minor-updates group with 2 updates (#646)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/646",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/5f9f0b75415646d2e6cdf811b7debfc03c1e04fc"
+    },
+    {
+      "sha": "dc0fb20867",
+      "message": "chore(deps): bump the patch-updates group across 1 directory with 4 updates (#643)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/643",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/dc0fb2086753256863d5c6a4b4fda5e7f7092e52"
+    },
     {
       "sha": "b00000a9f2",
       "message": "Port release-2.6 fixes to main (20 PRs) (#7700)",

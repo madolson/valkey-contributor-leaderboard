@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 335,
+  "score": 336,
   "commit_count": 101,
-  "review_count": 234,
+  "review_count": 235,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -824,6 +824,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7c0bc6552c",
+      "message": "Merge pull request #7739 from valkey-io/go/jamesx-fix-7648-strip-lto-bitcode",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7739",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7c0bc6552c5f57034ac4b5cc7eeb8914bbeb00d4"
+    },
     {
       "sha": "e6a3d638c9",
       "message": "test(node): Cut pubsub test wall time by 77% by replacing fixed sleeps with polling (#7617)",

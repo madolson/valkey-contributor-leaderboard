@@ -2,8 +2,8 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 224,
-  "commit_count": 50,
+  "score": 225,
+  "commit_count": 51,
   "review_count": 174,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-skills"
   ],
   "commit_list": [
+    {
+      "sha": "180283c3f2",
+      "message": "[deflake] Wait for valkey-server to accept connections in external server tests (#5055)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5055",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/180283c3f21795794d25682dbb4e22ff2b3bd096"
+    },
     {
       "sha": "ae7060ae93",
       "message": "Allow null in SENTINEL GET-PRIMARY-ADDR-BY-NAME reply schema (#5246)",

@@ -2,13 +2,53 @@
   "title": "uintaam",
   "login": "uintaam",
   "avatar_url": "https://avatars.githubusercontent.com/u/295346?v=4",
-  "score": 24,
-  "commit_count": 24,
+  "score": 29,
+  "commit_count": 29,
   "review_count": 0,
   "repos": [
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "8d775d6d09",
+      "message": "fix(php): return false for missing fields from hGetEx() (#417)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/417",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/8d775d6d09d460c90cca917c12a4e5f9b2c43219"
+    },
+    {
+      "sha": "323058de4a",
+      "message": "fix(php): send float arguments without rounding them to six digits (#418)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/418",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/323058de4a47a15ed5d77f48bf29cc2362d62174"
+    },
+    {
+      "sha": "eb6fdff246",
+      "message": "fix(php): queue rawcommand() in multi() and pipeline() (#419)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/419",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/eb6fdff246f569f8e5639c5bc98144f331aa8c7c"
+    },
+    {
+      "sha": "b4b03a51b8",
+      "message": "fix(php): free queued result state when a batch is not executed (#416)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/416",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b4b03a51b8962cebe85b0b9900bcc86abfc40c9a"
+    },
+    {
+      "sha": "235465e3e6",
+      "message": "fix(php): handle hRandField() options and replies as PHPRedis does (#422)",
+      "date": "2026-11-16",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/422",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/235465e3e6d7f7e56090c9c91d4fc9e19457de25"
+    },
     {
       "sha": "601d3dcbb8",
       "message": "fix(php): size zset argument buffers and stop double frees in zAdd() (#411)",

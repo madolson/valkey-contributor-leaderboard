@@ -2,14 +2,22 @@
   "title": "satheeshaGowda",
   "login": "satheeshaGowda",
   "avatar_url": "https://avatars.githubusercontent.com/u/7914152?v=4",
-  "score": 9,
-  "commit_count": 7,
+  "score": 10,
+  "commit_count": 8,
   "review_count": 2,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "d77fbf91f3",
+      "message": "Fix dynamic priority-subnets demotion of replicas/slot migration links and counter drift (#4674) (#4681)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4681",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d77fbf91f3c647e5541be8819e7e52e088479bf8"
+    },
     {
       "sha": "f42c9ab3d8",
       "message": "Reserve connection slots for priority sources (#4005)",

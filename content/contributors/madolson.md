@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 1099,
-  "commit_count": 303,
-  "review_count": 796,
+  "score": 1106,
+  "commit_count": 304,
+  "review_count": 802,
   "repos": [
     ".github",
     "assets",
@@ -23,6 +23,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "543d5097b7",
+      "message": "[Bug fix] Pick the latest release by version, not date, on /download/ (#741)",
+      "date": "2026-11-17",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/741",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/543d5097b7c8d338ae27e693350dbc8ab71a708f"
+    },
     {
       "sha": "b4a6e7d698",
       "message": "Join server.log() arguments in linear time (#5104)",
@@ -2449,6 +2457,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "88a8630f7a",
+      "message": "Document AUTH option for CLUSTER MIGRATESLOTS (#540)",
+      "date": "2026-11-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/540",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/88a8630f7ac315f6c43bfb14dceafba4f461825e"
+    },
+    {
+      "sha": "85b2827043",
+      "message": "Document cluster_io_* fields in CLUSTER INFO (#550)",
+      "date": "2026-11-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/550",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/85b2827043010b0ed95093262c811dd1ed1f1c49"
+    },
+    {
+      "sha": "0dbc5344ff",
+      "message": "Remove the INFO hotkeys section (#5340)",
+      "date": "2026-11-16",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5340",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0dbc5344ffbf8c829a31720794e24537efae26a1"
+    },
+    {
+      "sha": "4be599ab9c",
+      "message": "Place the Large object menu section after Search (#553)",
+      "date": "2026-11-16",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/553",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/4be599ab9c10f116465e97ceee4dd320d11513da"
+    },
+    {
+      "sha": "2c536f054f",
+      "message": "Document the valkey-large-object module (#552)",
+      "date": "2026-11-16",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/552",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/2c536f054fbbedb335ebd639d06d3b3a099dff69"
+    },
+    {
+      "sha": "8aa45345db",
+      "message": "Add valkey-large-object command support (#764)",
+      "date": "2026-11-16",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/764",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/8aa45345dbc9557e0cecd93baa8315488df5296a"
+    },
     {
       "sha": "35373fa80b",
       "message": "Compact sparse B+tree leaves inline on the sorted set delete path (#4526)",
