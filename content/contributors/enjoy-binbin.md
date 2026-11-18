@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 1043,
+  "score": 1046,
   "commit_count": 400,
-  "review_count": 643,
+  "review_count": 646,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3216,6 +3216,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3fc96b1f5f",
+      "message": "Fix flaky \"Yielding EVAL caller is not evicted mid-script\" test on slow runners (#5456)",
+      "date": "2026-11-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5456",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3fc96b1f5f361901607a3d65d851b61fd4f5754f"
+    },
+    {
+      "sha": "40e00fcaf1",
+      "message": "Fix cluster CLI exit status on slot migration failure (#4853)",
+      "date": "2026-11-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4853",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/40e00fcaf1b9a99a03b6f476239751b32c87866d"
+    },
+    {
+      "sha": "8008cad20f",
+      "message": "Don't write the LFU counter back when saving a key (#5445)",
+      "date": "2026-11-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5445",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8008cad20f7d2411d4cc091c6a40b21c25712339"
+    },
     {
       "sha": "ec905ca512",
       "message": "Ignore SYNCSLOTS FINISH for an already finished import job (#5367)",

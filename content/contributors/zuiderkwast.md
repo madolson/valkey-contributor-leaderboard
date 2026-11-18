@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1333,
+  "score": 1334,
   "commit_count": 161,
-  "review_count": 1172,
+  "review_count": 1173,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1310,6 +1310,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "df7de891b0",
+      "message": "Document EXEC IFEQ, IFNE, NX and XX conditions (#532)",
+      "date": "2026-11-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/532",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/df7de891b0f60dcea5167e1615168407f4d45c9b"
+    },
     {
       "sha": "e575e686dd",
       "message": "Add p99.9 latency in valkey-benchmark result (#5377)",

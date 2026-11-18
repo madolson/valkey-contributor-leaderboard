@@ -2,9 +2,9 @@
   "title": "quanyeyang",
   "login": "quanyeyang",
   "avatar_url": "https://avatars.githubusercontent.com/u/155656201?v=4",
-  "score": 22,
+  "score": 24,
   "commit_count": 18,
-  "review_count": 4,
+  "review_count": 6,
   "repos": [
     "libvalkey",
     "valkey"
@@ -156,6 +156,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0be4771957",
+      "message": "Skip unblocked clients in processPendingCommandAndInputBuffer (#5438)",
+      "date": "2026-11-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5438",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0be4771957c2ead967bc05657893d2beae5d92a8"
+    },
+    {
+      "sha": "339d8610e1",
+      "message": "Don't free the client that is executing a command when a blocked client's re-executed command evicts clients (#5435)",
+      "date": "2026-11-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5435",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/339d8610e1192ab1c02be1b1af7d6c57916d9747"
+    },
     {
       "sha": "2552339180",
       "message": "Expire stale Sentinel primary-down reports before quorum checks (#4913)",

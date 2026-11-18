@@ -2,13 +2,46 @@
   "title": "nitaicaro",
   "login": "nitaicaro",
   "avatar_url": "https://avatars.githubusercontent.com/u/42576749?v=4",
-  "score": 19,
-  "commit_count": 13,
+  "score": 23,
+  "commit_count": 17,
   "review_count": 6,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "1fae4b43dc",
+      "message": "Remove the old RDB version forkless fallback (#5461)",
+      "date": "2026-11-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5461",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1fae4b43dc2da7a9369b5f69189c61fff9c6876b"
+    },
+    {
+      "sha": "a421273769",
+      "message": "Remove forkless_fallbacks_old_rdb_version from forkless docs (#563)",
+      "date": "2026-11-18",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/563",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/a421273769b01f6a7e680e22fb42773c891d259f"
+    },
+    {
+      "sha": "97ff16e9ed",
+      "message": "Move forkless fallback counters to INFO debug (#5442)",
+      "date": "2026-11-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5442",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/97ff16e9ed90cfd87dbf223f147e8fa394da383e"
+    },
+    {
+      "sha": "566206a9c4",
+      "message": "Add documentation for forkless operations (#454)",
+      "date": "2026-11-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/454",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/566206a9c4dfc9975f4054f4e80d7ceda5ff397b"
+    },
     {
       "sha": "1a5d47e92d",
       "message": "Report forkless progress INFO fields during diskless full sync (#5436)",

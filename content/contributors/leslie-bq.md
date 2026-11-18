@@ -2,8 +2,8 @@
   "title": "leslie-bq",
   "login": "leslie-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
-  "score": 29,
-  "commit_count": 6,
+  "score": 32,
+  "commit_count": 9,
   "review_count": 23,
   "repos": [
     "valkey-glide",
@@ -11,6 +11,30 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "1a3503abbf",
+      "message": "ci(php): stabilize PHP setup in build-php-wrapper on Ubuntu (#452)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/452",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/1a3503abbf62536a6ad9bab1613456c0ae53e337"
+    },
+    {
+      "sha": "0494a328d2",
+      "message": "test(php): use a non-shared integer in the OBJECT refcount test (#449)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/449",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/0494a328d221a2af53d537276d4198fff3cbbda1"
+    },
+    {
+      "sha": "cbc534e3d3",
+      "message": "test(php): skip cluster SORT GET patterns test on Valkey < 8.0 (#447)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/447",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/cbc534e3d3c61eb9d0edc1be78c56c16fd8aa3b9"
+    },
     {
       "sha": "30f1adc510",
       "message": "fix(logger): logger creation returns false instead of crashing when logfile unwritable (#445)",

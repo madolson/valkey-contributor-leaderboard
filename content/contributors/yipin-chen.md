@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 950,
+  "score": 955,
   "commit_count": 45,
-  "review_count": 905,
+  "review_count": 910,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -378,12 +378,52 @@
   ],
   "review_list": [
     {
+      "sha": "9afb6f6f21",
+      "message": "chore: add TODOs and cleanup for issues from the Rust 0.10.0 bug bash (#7708)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7708",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9afb6f6f218c8beede6a47a1dda9a4b688d0bfdf"
+    },
+    {
       "sha": "7c0bc6552c",
       "message": "Merge pull request #7739 from valkey-io/go/jamesx-fix-7648-strip-lto-bitcode",
       "date": "2026-11-17",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7739",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7c0bc6552c5f57034ac4b5cc7eeb8914bbeb00d4"
+    },
+    {
+      "sha": "7b58bab99b",
+      "message": "fix(core): return the server's NOSCRIPT text in every client (#7528)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7528",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7b58bab99ba88ced38440f69ce0e74fa5fce5632"
+    },
+    {
+      "sha": "7b58bab99b",
+      "message": "fix(core): return the server's NOSCRIPT text in every client (#7528)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7528",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7b58bab99ba88ced38440f69ce0e74fa5fce5632"
+    },
+    {
+      "sha": "4fde6ae1cd",
+      "message": "ci(rdma): Regenerate glide-libfabric-sys bindings on Linux (#7687)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7687",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4fde6ae1cd3446b0463f692fb93e9731d5f3daf8"
+    },
+    {
+      "sha": "5b6325a687",
+      "message": "test(python): raise async large-value batch test timeout to 30 s (#7695)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7695",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5b6325a687219610c9956543d15cfe654c407938"
     },
     {
       "sha": "2fa983413c",

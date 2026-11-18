@@ -2,13 +2,22 @@
   "title": "GavinDmello",
   "login": "GavinDmello",
   "avatar_url": "https://avatars.githubusercontent.com/u/5352100?v=4",
-  "score": 2,
-  "commit_count": 1,
+  "score": 3,
+  "commit_count": 2,
   "review_count": 1,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "3bc9b0e09b",
+      "message": "Adding docs for INCREX (#536)",
+      "date": "2026-11-18",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/536",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/3bc9b0e09bc47c55e62182b16cd4a3d878ec20d7"
+    },
     {
       "sha": "6ae7eb4889",
       "message": "Introduce INCREX command (#3253)",

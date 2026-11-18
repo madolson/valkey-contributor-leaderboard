@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 523,
-  "commit_count": 155,
-  "review_count": 368,
+  "score": 529,
+  "commit_count": 156,
+  "review_count": 373,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -22,6 +22,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7642",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/00762b4b2a01ec3c92c289c73b1a8a2c78fa8d9f"
+    },
+    {
+      "sha": "5b6325a687",
+      "message": "test(python): raise async large-value batch test timeout to 30 s (#7695)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7695",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5b6325a687219610c9956543d15cfe654c407938"
     },
     {
       "sha": "cf814b8da5",
@@ -1264,6 +1272,46 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7739",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7c0bc6552c5f57034ac4b5cc7eeb8914bbeb00d4"
+    },
+    {
+      "sha": "7b58bab99b",
+      "message": "fix(core): return the server's NOSCRIPT text in every client (#7528)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7528",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7b58bab99ba88ced38440f69ce0e74fa5fce5632"
+    },
+    {
+      "sha": "7b58bab99b",
+      "message": "fix(core): return the server's NOSCRIPT text in every client (#7528)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7528",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7b58bab99ba88ced38440f69ce0e74fa5fce5632"
+    },
+    {
+      "sha": "57bf601dfa",
+      "message": "fix(core): Stop discarding usable pooled clients on release (#7599)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7599",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/57bf601dfa22c00f087fbf11e66dc0135ed74746"
+    },
+    {
+      "sha": "97542a8310",
+      "message": "fix(rust): backport #7750 (RUSTSEC-2026-0543) (#7764)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7764",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97542a8310516314b475462a3bd5ea34d8627af5"
+    },
+    {
+      "sha": "4fde6ae1cd",
+      "message": "ci(rdma): Regenerate glide-libfabric-sys bindings on Linux (#7687)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7687",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4fde6ae1cd3446b0463f692fb93e9731d5f3daf8"
     },
     {
       "sha": "4efdacf73e",

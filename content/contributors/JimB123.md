@@ -2,14 +2,30 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 112,
-  "commit_count": 30,
-  "review_count": 82,
+  "score": 121,
+  "commit_count": 32,
+  "review_count": 89,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "355aeb4710",
+      "message": "bgiteration: fix for flush/swap/termination interaction (#5462)",
+      "date": "2026-11-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5462",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/355aeb471075d1cec9a48527d319ce63c0ea54e9"
+    },
+    {
+      "sha": "8c82072a62",
+      "message": "Internal API for objectGetLFUFrequencyReadOnly (#5448)",
+      "date": "2026-11-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5448",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8c82072a62679690717b130c6674a782157e1465"
+    },
     {
       "sha": "89353577e6",
       "message": "Skip the crash memory test under Valgrind and bound its region list (#5379)",
@@ -252,6 +268,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3fc96b1f5f",
+      "message": "Fix flaky \"Yielding EVAL caller is not evicted mid-script\" test on slow runners (#5456)",
+      "date": "2026-11-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5456",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3fc96b1f5f361901607a3d65d851b61fd4f5754f"
+    },
+    {
+      "sha": "1fae4b43dc",
+      "message": "Remove the old RDB version forkless fallback (#5461)",
+      "date": "2026-11-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5461",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1fae4b43dc2da7a9369b5f69189c61fff9c6876b"
+    },
+    {
+      "sha": "a421273769",
+      "message": "Remove forkless_fallbacks_old_rdb_version from forkless docs (#563)",
+      "date": "2026-11-18",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/563",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/a421273769b01f6a7e680e22fb42773c891d259f"
+    },
+    {
+      "sha": "0be4771957",
+      "message": "Skip unblocked clients in processPendingCommandAndInputBuffer (#5438)",
+      "date": "2026-11-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5438",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0be4771957c2ead967bc05657893d2beae5d92a8"
+    },
+    {
+      "sha": "339d8610e1",
+      "message": "Don't free the client that is executing a command when a blocked client's re-executed command evicts clients (#5435)",
+      "date": "2026-11-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5435",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/339d8610e1192ab1c02be1b1af7d6c57916d9747"
+    },
+    {
+      "sha": "97ff16e9ed",
+      "message": "Move forkless fallback counters to INFO debug (#5442)",
+      "date": "2026-11-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5442",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/97ff16e9ed90cfd87dbf223f147e8fa394da383e"
+    },
+    {
+      "sha": "566206a9c4",
+      "message": "Add documentation for forkless operations (#454)",
+      "date": "2026-11-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/454",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/566206a9c4dfc9975f4054f4e80d7ceda5ff397b"
+    },
     {
       "sha": "1a5d47e92d",
       "message": "Report forkless progress INFO fields during diskless full sync (#5436)",

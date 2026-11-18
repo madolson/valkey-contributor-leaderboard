@@ -2,13 +2,21 @@
   "title": "sdg3iv",
   "login": "sdg3iv",
   "avatar_url": "https://avatars.githubusercontent.com/u/73583751?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-glide"
   ],
   "commit_list": [
+    {
+      "sha": "7b58bab99b",
+      "message": "fix(core): return the server's NOSCRIPT text in every client (#7528)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7528",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7b58bab99ba88ced38440f69ce0e74fa5fce5632"
+    },
     {
       "sha": "546af0b3ee",
       "message": "Go: Add MEMORY DOCTOR / MEMORY MALLOC-STATS / MEMORY PURGE / MEMORY STATS commands (#5986)",

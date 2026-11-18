@@ -2,13 +2,21 @@
   "title": "imasahiro",
   "login": "imasahiro",
   "avatar_url": "https://avatars.githubusercontent.com/u/73532?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "40e00fcaf1",
+      "message": "Fix cluster CLI exit status on slot migration failure (#4853)",
+      "date": "2026-11-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4853",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/40e00fcaf1b9a99a03b6f476239751b32c87866d"
+    },
     {
       "sha": "91cbf77442",
       "message": "Eliminate snprintf usage at setDeferredAggregateLen (#1234)",

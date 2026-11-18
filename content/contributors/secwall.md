@@ -2,8 +2,8 @@
   "title": "secwall",
   "login": "secwall",
   "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
-  "score": 41,
-  "commit_count": 39,
+  "score": 42,
+  "commit_count": 40,
   "review_count": 2,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-luau"
   ],
   "commit_list": [
+    {
+      "sha": "79bef3dc76",
+      "message": "Bump luau version",
+      "date": "2026-11-17",
+      "repo": "valkey-luau",
+      "pr_url": "https://github.com/valkey-io/valkey-luau/pull/35",
+      "commit_url": "https://github.com/valkey-io/valkey-luau/commit/79bef3dc7629df179594ae682c5d286cdb33999b"
+    },
     {
       "sha": "2a37519fd4",
       "message": "Join server.log() arguments in linear time (#34)",

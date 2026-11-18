@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 413,
-  "commit_count": 235,
+  "score": 415,
+  "commit_count": 237,
   "review_count": 178,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "9afb6f6f21",
+      "message": "chore: add TODOs and cleanup for issues from the Rust 0.10.0 bug bash (#7708)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7708",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9afb6f6f218c8beede6a47a1dda9a4b688d0bfdf"
+    },
+    {
+      "sha": "97542a8310",
+      "message": "fix(rust): backport #7750 (RUSTSEC-2026-0543) (#7764)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7764",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97542a8310516314b475462a3bd5ea34d8627af5"
+    },
     {
       "sha": "2fa983413c",
       "message": "chore(ci): check for shellcheck and pyflakes in actionlint (#625)",

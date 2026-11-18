@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 495,
+  "score": 498,
   "commit_count": 167,
-  "review_count": 328,
+  "review_count": 331,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1351,6 +1351,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1a3503abbf",
+      "message": "ci(php): stabilize PHP setup in build-php-wrapper on Ubuntu (#452)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/452",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/1a3503abbf62536a6ad9bab1613456c0ae53e337"
+    },
+    {
+      "sha": "0494a328d2",
+      "message": "test(php): use a non-shared integer in the OBJECT refcount test (#449)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/449",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/0494a328d221a2af53d537276d4198fff3cbbda1"
+    },
+    {
+      "sha": "cbc534e3d3",
+      "message": "test(php): skip cluster SORT GET patterns test on Valkey < 8.0 (#447)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/447",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/cbc534e3d3c61eb9d0edc1be78c56c16fd8aa3b9"
+    },
     {
       "sha": "39be0556ad",
       "message": "ci(deps): bump peter-evans/create-pull-request from 8.1.1 to 8.1.2 (#437)",

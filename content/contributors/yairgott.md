@@ -2,8 +2,8 @@
   "title": "yairgott",
   "login": "yairgott",
   "avatar_url": "https://avatars.githubusercontent.com/u/19560967?v=4",
-  "score": 139,
-  "commit_count": 42,
+  "score": 140,
+  "commit_count": 43,
   "review_count": 97,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "73dbb80710",
+      "message": "fix(vector-registry): handle RENAME/MOVE while keys await pending unshare (#1676)",
+      "date": "2026-11-17",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1676",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/73dbb80710b62a3847b7a5a0d0ad12951bd3a4c1"
+    },
     {
       "sha": "da73185d9d",
       "message": "fix(vector-registry): guard ValkeyModule_HashHasStringRef against missing hash fields (#1675)",

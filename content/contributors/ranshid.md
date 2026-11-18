@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 333,
+  "score": 334,
   "commit_count": 97,
-  "review_count": 236,
+  "review_count": 237,
   "repos": [
     "valkey",
     "valkey-container",
@@ -795,6 +795,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "39a17bfc71",
+      "message": "hotkeys: drop the INFO hotkeys fields, removed from the server (#562)",
+      "date": "2026-11-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/562",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/39a17bfc71c2b4b9c977c4ce374b2166d574e1de"
+    },
     {
       "sha": "d2466b90a2",
       "message": "Fix UAF in streams when XADD creates a new node (#4711)",

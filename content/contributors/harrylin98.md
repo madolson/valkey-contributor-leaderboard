@@ -2,9 +2,9 @@
   "title": "harrylin98",
   "login": "harrylin98",
   "avatar_url": "https://avatars.githubusercontent.com/u/49881386?v=4",
-  "score": 24,
+  "score": 25,
   "commit_count": 20,
-  "review_count": 4,
+  "review_count": 5,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -172,6 +172,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0be4771957",
+      "message": "Skip unblocked clients in processPendingCommandAndInputBuffer (#5438)",
+      "date": "2026-11-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5438",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0be4771957c2ead967bc05657893d2beae5d92a8"
+    },
     {
       "sha": "9abbfd2557",
       "message": "Use the effective replica output buffer limit for the steady-state throttle target (#5338)",

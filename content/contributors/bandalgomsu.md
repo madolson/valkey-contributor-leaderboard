@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 34,
-  "commit_count": 34,
+  "score": 35,
+  "commit_count": 35,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "df7de891b0",
+      "message": "Document EXEC IFEQ, IFNE, NX and XX conditions (#532)",
+      "date": "2026-11-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/532",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/df7de891b0f60dcea5167e1615168407f4d45c9b"
+    },
     {
       "sha": "cb9e6042fb",
       "message": "Add case function in aggregation expressions (#1433)",

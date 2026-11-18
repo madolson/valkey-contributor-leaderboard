@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 336,
-  "commit_count": 101,
-  "review_count": 235,
+  "score": 339,
+  "commit_count": 102,
+  "review_count": 237,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -14,6 +14,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "57bf601dfa",
+      "message": "fix(core): Stop discarding usable pooled clients on release (#7599)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7599",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/57bf601dfa22c00f087fbf11e66dc0135ed74746"
+    },
     {
       "sha": "061bd443a6",
       "message": "fix(core): Discard pooled connections that fail release reset (#7554) (#7592)",
@@ -831,6 +839,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7739",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7c0bc6552c5f57034ac4b5cc7eeb8914bbeb00d4"
+    },
+    {
+      "sha": "97542a8310",
+      "message": "fix(rust): backport #7750 (RUSTSEC-2026-0543) (#7764)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7764",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97542a8310516314b475462a3bd5ea34d8627af5"
+    },
+    {
+      "sha": "5b6325a687",
+      "message": "test(python): raise async large-value batch test timeout to 30 s (#7695)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7695",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5b6325a687219610c9956543d15cfe654c407938"
     },
     {
       "sha": "e6a3d638c9",

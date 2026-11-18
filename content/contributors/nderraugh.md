@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 117,
-  "commit_count": 40,
-  "review_count": 77,
+  "score": 121,
+  "commit_count": 41,
+  "review_count": 80,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "4fde6ae1cd",
+      "message": "ci(rdma): Regenerate glide-libfabric-sys bindings on Linux (#7687)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7687",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4fde6ae1cd3446b0463f692fb93e9731d5f3daf8"
+    },
     {
       "sha": "e851fa37c7",
       "message": "build(rdma): put the tcp provider behind a tcp-dev feature (#7567)",
@@ -335,6 +343,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "57bf601dfa",
+      "message": "fix(core): Stop discarding usable pooled clients on release (#7599)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7599",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/57bf601dfa22c00f087fbf11e66dc0135ed74746"
+    },
+    {
+      "sha": "97542a8310",
+      "message": "fix(rust): backport #7750 (RUSTSEC-2026-0543) (#7764)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7764",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97542a8310516314b475462a3bd5ea34d8627af5"
+    },
+    {
+      "sha": "5b6325a687",
+      "message": "test(python): raise async large-value batch test timeout to 30 s (#7695)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7695",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5b6325a687219610c9956543d15cfe654c407938"
+    },
     {
       "sha": "b00000a9f2",
       "message": "Port release-2.6 fixes to main (20 PRs) (#7700)",

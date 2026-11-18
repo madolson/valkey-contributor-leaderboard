@@ -2,9 +2,9 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 33,
+  "score": 37,
   "commit_count": 21,
-  "review_count": 12,
+  "review_count": 16,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -181,6 +181,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f0e172cc01",
+      "message": "docs: fix 'allows to build' grammar in cluster reshard note (#485)",
+      "date": "2026-11-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/485",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/f0e172cc015d462c8e51d9977288380200533b65"
+    },
+    {
+      "sha": "e12b22ee01",
+      "message": "Link Valkey Admin from the topics index under Core Management (#561)",
+      "date": "2026-11-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/561",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/e12b22ee0192879774c8ea09878cda57ff9116ee"
+    },
+    {
+      "sha": "9c040218fe",
+      "message": "Document dual certificates (#482)",
+      "date": "2026-11-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/482",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/9c040218fefdcc843d903915fe7953a289fd98d0"
+    },
+    {
+      "sha": "9c040218fe",
+      "message": "Document dual certificates (#482)",
+      "date": "2026-11-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/482",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/9c040218fefdcc843d903915fe7953a289fd98d0"
+    },
     {
       "sha": "0804ed65f4",
       "message": "Document maxmemory-scripts and SCRIPT LOAD DENYOOM (#546)",

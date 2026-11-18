@@ -2,8 +2,8 @@
   "title": "alon-arenberg",
   "login": "alon-arenberg",
   "avatar_url": "https://avatars.githubusercontent.com/u/93711356?v=4",
-  "score": 29,
-  "commit_count": 29,
+  "score": 30,
+  "commit_count": 30,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-glide"
   ],
   "commit_list": [
+    {
+      "sha": "39a17bfc71",
+      "message": "hotkeys: drop the INFO hotkeys fields, removed from the server (#562)",
+      "date": "2026-11-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/562",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/39a17bfc71c2b4b9c977c4ce374b2166d574e1de"
+    },
     {
       "sha": "3dc7c35ce2",
       "message": "Document HOTKEYS hot key detection (#460)",

@@ -2,8 +2,8 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 89,
-  "commit_count": 34,
+  "score": 90,
+  "commit_count": 35,
   "review_count": 55,
   "repos": [
     "valkey-ci-agent",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "f30b4c8b21",
+      "message": "Change 1.3.0-RC1 to 1.3.0 in command JSON files (#1730)",
+      "date": "2026-11-17",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1730",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/f30b4c8b21bcfa26091546ac30693b75d6e85cfa"
+    },
     {
       "sha": "41407640c9",
       "message": "test(vector-registry): poll for KNN hits in different-dimensions drop test (#1715)",

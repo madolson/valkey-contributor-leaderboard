@@ -2,9 +2,9 @@
   "title": "xdk-amz",
   "login": "xdk-amz",
   "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
-  "score": 12,
+  "score": 13,
   "commit_count": 7,
-  "review_count": 5,
+  "review_count": 6,
   "repos": [
     "valkey",
     "valkey-glide",
@@ -69,6 +69,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3fc96b1f5f",
+      "message": "Fix flaky \"Yielding EVAL caller is not evicted mid-script\" test on slow runners (#5456)",
+      "date": "2026-11-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5456",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3fc96b1f5f361901607a3d65d851b61fd4f5754f"
+    },
     {
       "sha": "79646e93ad",
       "message": "Add the data tiering benchmarks (#97)",

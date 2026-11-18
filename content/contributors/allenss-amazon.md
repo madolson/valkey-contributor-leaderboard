@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 363,
+  "score": 365,
   "commit_count": 100,
-  "review_count": 263,
+  "review_count": 265,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -815,6 +815,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f30b4c8b21",
+      "message": "Change 1.3.0-RC1 to 1.3.0 in command JSON files (#1730)",
+      "date": "2026-11-17",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1730",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/f30b4c8b21bcfa26091546ac30693b75d6e85cfa"
+    },
+    {
+      "sha": "73dbb80710",
+      "message": "fix(vector-registry): handle RENAME/MOVE while keys await pending unshare (#1676)",
+      "date": "2026-11-17",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1676",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/73dbb80710b62a3847b7a5a0d0ad12951bd3a4c1"
+    },
     {
       "sha": "fdce3b53b2",
       "message": "Apply queued MULTI/EXEC mutations before forking for a snapshot (#1659)",

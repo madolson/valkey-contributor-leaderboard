@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 132,
+  "score": 133,
   "commit_count": 26,
-  "review_count": 106,
+  "review_count": 107,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -224,6 +224,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "79bef3dc76",
+      "message": "Bump luau version",
+      "date": "2026-11-17",
+      "repo": "valkey-luau",
+      "pr_url": "https://github.com/valkey-io/valkey-luau/pull/35",
+      "commit_url": "https://github.com/valkey-io/valkey-luau/commit/79bef3dc7629df179594ae682c5d286cdb33999b"
+    },
     {
       "sha": "2a37519fd4",
       "message": "Join server.log() arguments in linear time (#34)",

@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 479,
-  "commit_count": 135,
-  "review_count": 344,
+  "score": 481,
+  "commit_count": 136,
+  "review_count": 345,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -18,6 +18,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "839300f942",
+      "message": "Add the 9.2.0-rc2 release page (#775)",
+      "date": "2026-11-18",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/775",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/839300f942f14f4475644c2dc7cea57bcec09e6e"
+    },
     {
       "sha": "704168b56e",
       "message": "Link the website release-page PR for release candidates (#169)",
@@ -1100,6 +1108,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8c82072a62",
+      "message": "Internal API for objectGetLFUFrequencyReadOnly (#5448)",
+      "date": "2026-11-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5448",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8c82072a62679690717b130c6674a782157e1465"
+    },
     {
       "sha": "9d8f3c003c",
       "message": "Reset slot migration snapshot pipes when the snapshot fork fails (#5359)",

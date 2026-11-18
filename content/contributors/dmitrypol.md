@@ -2,8 +2,8 @@
   "title": "dmitrypol",
   "login": "dmitrypol",
   "avatar_url": "https://avatars.githubusercontent.com/u/210308?v=4",
-  "score": 14,
-  "commit_count": 12,
+  "score": 15,
+  "commit_count": 13,
   "review_count": 2,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "ae6c68e1ac",
+      "message": "Add Valkey 9.2 compatibility and forkless module support (#259)",
+      "date": "2026-11-17",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/259",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/ae6c68e1ac2a82cd4ed3056b9f271107f01efc60"
+    },
     {
       "sha": "fd2753d8c6",
       "message": "added VALKEYMODULE_OPTIONS_HANDLE_REPL_ASYNC_LOAD (#89)",

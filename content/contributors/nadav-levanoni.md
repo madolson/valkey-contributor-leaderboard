@@ -2,8 +2,8 @@
   "title": "nadav-levanoni",
   "login": "nadav-levanoni",
   "avatar_url": "https://avatars.githubusercontent.com/u/38641521?v=4",
-  "score": 31,
-  "commit_count": 12,
+  "score": 32,
+  "commit_count": 13,
   "review_count": 19,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "339d8610e1",
+      "message": "Don't free the client that is executing a command when a blocked client's re-executed command evicts clients (#5435)",
+      "date": "2026-11-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5435",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/339d8610e1192ab1c02be1b1af7d6c57916d9747"
+    },
     {
       "sha": "58fcaae64b",
       "message": "Rename blob-decay-time config to lfu-decay-minutes (#173)",

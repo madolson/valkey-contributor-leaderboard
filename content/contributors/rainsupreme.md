@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 225,
+  "score": 226,
   "commit_count": 51,
-  "review_count": 174,
+  "review_count": 175,
   "repos": [
     "valkey",
     "valkey-container",
@@ -424,6 +424,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0bc71f0ea5",
+      "message": "Fix build of select and evport ae backends: undeclared UNUSED() (#5299)",
+      "date": "2026-11-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5299",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0bc71f0ea535ab2d96bc1bb76b50612e3bb789e7"
+    },
     {
       "sha": "9e58c3bea2",
       "message": "Fix flaky FLUSHDB forkless sync test with a to-disk primary save (#5314)",

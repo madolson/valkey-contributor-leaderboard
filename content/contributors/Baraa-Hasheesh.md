@@ -2,15 +2,23 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 84,
-  "commit_count": 35,
-  "review_count": 49,
+  "score": 86,
+  "commit_count": 36,
+  "review_count": 50,
   "repos": [
     "valkey",
     "valkey-container",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "3fc96b1f5f",
+      "message": "Fix flaky \"Yielding EVAL caller is not evicted mid-script\" test on slow runners (#5456)",
+      "date": "2026-11-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5456",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/3fc96b1f5f361901607a3d65d851b61fd4f5754f"
+    },
     {
       "sha": "9d8f3c003c",
       "message": "Reset slot migration snapshot pipes when the snapshot fork fails (#5359)",
@@ -293,6 +301,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "40e00fcaf1",
+      "message": "Fix cluster CLI exit status on slot migration failure (#4853)",
+      "date": "2026-11-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4853",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/40e00fcaf1b9a99a03b6f476239751b32c87866d"
+    },
     {
       "sha": "ec905ca512",
       "message": "Ignore SYNCSLOTS FINISH for an already finished import job (#5367)",

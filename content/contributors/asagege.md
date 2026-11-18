@@ -2,14 +2,22 @@
   "title": "asagege",
   "login": "asagege",
   "avatar_url": "https://avatars.githubusercontent.com/u/124027677?v=4",
-  "score": 11,
-  "commit_count": 10,
+  "score": 12,
+  "commit_count": 11,
   "review_count": 1,
   "repos": [
     "valkey",
     "valkey-ci-agent"
   ],
   "commit_list": [
+    {
+      "sha": "0be4771957",
+      "message": "Skip unblocked clients in processPendingCommandAndInputBuffer (#5438)",
+      "date": "2026-11-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5438",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/0be4771957c2ead967bc05657893d2beae5d92a8"
+    },
     {
       "sha": "74b0831392",
       "message": "Don't queue a throttled primary when a timed-out script ends (#5389)",

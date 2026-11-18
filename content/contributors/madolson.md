@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 1106,
-  "commit_count": 304,
-  "review_count": 802,
+  "score": 1112,
+  "commit_count": 306,
+  "review_count": 806,
   "repos": [
     ".github",
     "assets",
@@ -30,6 +30,22 @@
       "repo": "valkey-io.github.io",
       "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/741",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/543d5097b7c8d338ae27e693350dbc8ab71a708f"
+    },
+    {
+      "sha": "8008cad20f",
+      "message": "Don't write the LFU counter back when saving a key (#5445)",
+      "date": "2026-11-17",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5445",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8008cad20f7d2411d4cc091c6a40b21c25712339"
+    },
+    {
+      "sha": "e12b22ee01",
+      "message": "Link Valkey Admin from the topics index under Core Management (#561)",
+      "date": "2026-11-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/561",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/e12b22ee0192879774c8ea09878cda57ff9116ee"
     },
     {
       "sha": "b4a6e7d698",
@@ -2458,6 +2474,30 @@
   ],
   "review_list": [
     {
+      "sha": "355aeb4710",
+      "message": "bgiteration: fix for flush/swap/termination interaction (#5462)",
+      "date": "2026-11-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5462",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/355aeb471075d1cec9a48527d319ce63c0ea54e9"
+    },
+    {
+      "sha": "3bc9b0e09b",
+      "message": "Adding docs for INCREX (#536)",
+      "date": "2026-11-18",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/536",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/3bc9b0e09bc47c55e62182b16cd4a3d878ec20d7"
+    },
+    {
+      "sha": "839300f942",
+      "message": "Add the 9.2.0-rc2 release page (#775)",
+      "date": "2026-11-18",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/775",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/839300f942f14f4475644c2dc7cea57bcec09e6e"
+    },
+    {
       "sha": "88a8630f7a",
       "message": "Document AUTH option for CLUSTER MIGRATESLOTS (#540)",
       "date": "2026-11-17",
@@ -2472,6 +2512,14 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/550",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/85b2827043010b0ed95093262c811dd1ed1f1c49"
+    },
+    {
+      "sha": "9c040218fe",
+      "message": "Document dual certificates (#482)",
+      "date": "2026-11-17",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/482",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/9c040218fefdcc843d903915fe7953a289fd98d0"
     },
     {
       "sha": "0dbc5344ff",

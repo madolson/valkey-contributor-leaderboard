@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 407,
+  "score": 409,
   "commit_count": 87,
-  "review_count": 320,
+  "review_count": 322,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -712,12 +712,28 @@
   ],
   "review_list": [
     {
+      "sha": "9afb6f6f21",
+      "message": "chore: add TODOs and cleanup for issues from the Rust 0.10.0 bug bash (#7708)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7708",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9afb6f6f218c8beede6a47a1dda9a4b688d0bfdf"
+    },
+    {
       "sha": "00762b4b2a",
       "message": "test(go): run the pool and scope integration tests in CI (#7642)",
       "date": "2026-11-17",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7642",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/00762b4b2a01ec3c92c289c73b1a8a2c78fa8d9f"
+    },
+    {
+      "sha": "4fde6ae1cd",
+      "message": "ci(rdma): Regenerate glide-libfabric-sys bindings on Linux (#7687)",
+      "date": "2026-11-17",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7687",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4fde6ae1cd3446b0463f692fb93e9731d5f3daf8"
     },
     {
       "sha": "12991c3f1a",

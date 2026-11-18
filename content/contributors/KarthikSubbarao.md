@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 351,
+  "score": 352,
   "commit_count": 143,
-  "review_count": 208,
+  "review_count": 209,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -1164,6 +1164,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ae6c68e1ac",
+      "message": "Add Valkey 9.2 compatibility and forkless module support (#259)",
+      "date": "2026-11-17",
+      "repo": "valkeymodule-rs",
+      "pr_url": "https://github.com/valkey-io/valkeymodule-rs/pull/259",
+      "commit_url": "https://github.com/valkey-io/valkeymodule-rs/commit/ae6c68e1ac2a82cd4ed3056b9f271107f01efc60"
+    },
     {
       "sha": "5f10fa111d",
       "message": "docs: use the retry hint and drop stale enum case notes (#219)",
