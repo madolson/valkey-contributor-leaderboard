@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 498,
+  "score": 501,
   "commit_count": 167,
-  "review_count": 331,
+  "review_count": 334,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1351,6 +1351,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "11b00ffcdd",
+      "message": "ci: bump Valkey 9.2 to rc2 and key the engine cache on commit SHA (#7782)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7782",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/11b00ffcddea7e18ef92e8f3fa2b23b3727fb32f"
+    },
+    {
+      "sha": "585c94446c",
+      "message": "ci: run the nightly full matrix on macOS arm64 (#441)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/441",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/585c94446ce8aff728a813c2b42f224c22faa31d"
+    },
+    {
+      "sha": "b2fefe1f5f",
+      "message": "fix(php): refuse SCAN commands in multi() and pipeline() (#420)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/420",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b2fefe1f5f4290059c6f103c24a266c4b08f6852"
+    },
     {
       "sha": "1a3503abbf",
       "message": "ci(php): stabilize PHP setup in build-php-wrapper on Ubuntu (#452)",

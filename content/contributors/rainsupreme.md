@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 226,
+  "score": 227,
   "commit_count": 51,
-  "review_count": 175,
+  "review_count": 176,
   "repos": [
     "valkey",
     "valkey-container",
@@ -424,6 +424,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6357e3dc43",
+      "message": "Fix double mutex unlock when shrinking IO threads (#5366)",
+      "date": "2026-11-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5366",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6357e3dc4397b966341cc01a5cfbdff95a0932e9"
+    },
     {
       "sha": "0bc71f0ea5",
       "message": "Fix build of select and evport ae backends: undeclared UNUSED() (#5299)",

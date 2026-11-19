@@ -2,13 +2,21 @@
   "title": "uintaam",
   "login": "uintaam",
   "avatar_url": "https://avatars.githubusercontent.com/u/295346?v=4",
-  "score": 29,
-  "commit_count": 29,
+  "score": 30,
+  "commit_count": 30,
   "review_count": 0,
   "repos": [
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "b2fefe1f5f",
+      "message": "fix(php): refuse SCAN commands in multi() and pipeline() (#420)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/420",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b2fefe1f5f4290059c6f103c24a266c4b08f6852"
+    },
     {
       "sha": "8d775d6d09",
       "message": "fix(php): return false for missing fields from hGetEx() (#417)",

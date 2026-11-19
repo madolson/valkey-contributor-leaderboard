@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 529,
-  "commit_count": 156,
-  "review_count": 373,
+  "score": 536,
+  "commit_count": 159,
+  "review_count": 377,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,30 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "9e9cd2da8f",
+      "message": "ci: run client CI when the shared Rust inputs they build change (#7661)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7661",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9e9cd2da8f16433e3931bdefcccab6c5f3c01ef8"
+    },
+    {
+      "sha": "585c94446c",
+      "message": "ci: run the nightly full matrix on macOS arm64 (#441)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/441",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/585c94446ce8aff728a813c2b42f224c22faa31d"
+    },
+    {
+      "sha": "cbf90bd5ba",
+      "message": "test(php): create and use a new client in a forked child (#431)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/431",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/cbf90bd5bae641c51fcc8705b01ac177173bc584"
+    },
     {
       "sha": "00762b4b2a",
       "message": "test(go): run the pool and scope integration tests in CI (#7642)",
@@ -1265,6 +1289,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "797c96a0ac",
+      "message": "ci: draft release notes per release branch from PR titles (#7770)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7770",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/797c96a0aca70d498a2aabfca5eaef62aac83400"
+    },
+    {
+      "sha": "84e19d6398",
+      "message": "chore(ffi): update FFI Miri tests to drop `pin-utils` (RUSTSEC-2026-0441) (#7775)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7775",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/84e19d6398190ae3e6395bfec2ceba7f19c5e9a1"
+    },
+    {
+      "sha": "db0ec4e64e",
+      "message": "fix(core): isolate timeout watchdog pending counters (#7762)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7762",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/db0ec4e64e9d82269da89e55bbca6881584c98f1"
+    },
+    {
+      "sha": "4771a098ec",
+      "message": "fix(core): prevent missed refresh completion notifications (#7766)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7766",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4771a098ecc623fb3ce4c900014fdb7176e6c889"
+    },
     {
       "sha": "7c0bc6552c",
       "message": "Merge pull request #7739 from valkey-io/go/jamesx-fix-7648-strip-lto-bitcode",

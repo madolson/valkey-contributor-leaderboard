@@ -2,8 +2,8 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 214,
-  "commit_count": 74,
+  "score": 215,
+  "commit_count": 75,
   "review_count": 140,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "21be14055b",
+      "message": "docs(valkey-resources): limit templated cluster.spec values to free-form strings",
+      "date": "2026-11-17",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/331",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/21be14055b031aa10a3e1e7bdd48aaf18c72c5ed"
+    },
     {
       "sha": "734f10a710",
       "message": "Release valkey-operator 0.9.0 (#324)",

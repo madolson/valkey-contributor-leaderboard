@@ -2,13 +2,21 @@
   "title": "Bloodraven21",
   "login": "Bloodraven21",
   "avatar_url": "https://avatars.githubusercontent.com/u/60031755?v=4",
-  "score": 30,
-  "commit_count": 10,
-  "review_count": 20,
+  "score": 32,
+  "commit_count": 11,
+  "review_count": 21,
   "repos": [
     "valkey-helm"
   ],
   "commit_list": [
+    {
+      "sha": "5a5538bc28",
+      "message": "Merge pull request #331 from valkey-io/jdheyburn/resources-first-class-values",
+      "date": "2026-11-18",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/331",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/5a5538bc287b71cd2c2919c0fe9e5a2a0913488e"
+    },
     {
       "sha": "529962e052",
       "message": "Merge pull request #245 from bjosv/valkey-resources-0.2.0",
@@ -91,6 +99,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "21be14055b",
+      "message": "docs(valkey-resources): limit templated cluster.spec values to free-form strings",
+      "date": "2026-11-17",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/331",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/21be14055b031aa10a3e1e7bdd48aaf18c72c5ed"
+    },
     {
       "sha": "cfd36d6074",
       "message": "feat(valkey-resources)!: name the ValkeyCluster after the release (#299)",

@@ -2,9 +2,9 @@
   "title": "KarthikSubbarao",
   "login": "KarthikSubbarao",
   "avatar_url": "https://avatars.githubusercontent.com/u/104098378?v=4",
-  "score": 352,
+  "score": 354,
   "commit_count": 143,
-  "review_count": 209,
+  "review_count": 211,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -1164,6 +1164,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e8e4f1d1b5",
+      "message": "Fix clippy::needless_bool in BloomObject::validate_size (#128)",
+      "date": "2026-11-18",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/128",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/e8e4f1d1b562e645d05c653884e92fb36bb13635"
+    },
+    {
+      "sha": "085aeb9512",
+      "message": "Making PR's run unstable and latest only, adding a daily job for all versions (#101)",
+      "date": "2026-11-18",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/101",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/085aeb95128d4f70a32ce98bd098104e4ef3a260"
+    },
     {
       "sha": "ae6c68e1ac",
       "message": "Add Valkey 9.2 compatibility and forkless module support (#259)",

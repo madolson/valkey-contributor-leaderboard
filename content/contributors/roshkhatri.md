@@ -2,11 +2,12 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 477,
-  "commit_count": 170,
+  "score": 478,
+  "commit_count": 171,
   "review_count": 307,
   "repos": [
     "valkey",
+    "valkey-bloom",
     "valkey-bundle",
     "valkey-ci-agent",
     "valkey-container",
@@ -20,6 +21,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "4d34db2799",
+      "message": "Use the Valkeyrie bot app token to trigger the valkey-bundle update (#127)",
+      "date": "2026-11-18",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/127",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/4d34db27991f5b53b3e63b70a414001647040601"
+    },
     {
       "sha": "b0b6b63ece",
       "message": "Use the Valkeyrie bot app token to trigger the valkey-bundle update (#130)",
@@ -1382,6 +1391,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3e24dcc8db",
+      "message": "Update versions.json and Dockerfiles for version 7.2.16 (#179)",
+      "date": "2026-11-18",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/179",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/3e24dcc8dbe205149e42ea0429f3470b466e4485"
+    },
     {
       "sha": "704168b56e",
       "message": "Link the website release-page PR for release candidates (#169)",

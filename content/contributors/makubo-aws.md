@@ -2,9 +2,9 @@
   "title": "makubo-aws",
   "login": "makubo-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/203714000?v=4",
-  "score": 12,
+  "score": 13,
   "commit_count": 4,
-  "review_count": 8,
+  "review_count": 9,
   "repos": [
     "valkey-doc",
     "valkey-io.github.io"
@@ -44,6 +44,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5a464d2c95",
+      "message": "valkey-search 1.3.0 GA doc update (#519)",
+      "date": "2026-11-19",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/519",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/5a464d2c958094f1ece3a33fb14c4e45b3de983a"
+    },
     {
       "sha": "5900f066c3",
       "message": "Blog/testing without a server fakevalkey (#667)",

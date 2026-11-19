@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 371,
-  "commit_count": 144,
-  "review_count": 227,
+  "score": 376,
+  "commit_count": 146,
+  "review_count": 230,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "a2353a3090",
+      "message": "docs: document PHP logger path validation and false return (#380)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/380",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/a2353a309067d6c62e0a4348999252a6d211fac8"
+    },
+    {
+      "sha": "edb83ca491",
+      "message": "docs: fix Ruby publish argument order in pub/sub examples (#382)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/382",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/edb83ca49174aab157da7a32a02c5aa6502b00eb"
+    },
     {
       "sha": "12991c3f1a",
       "message": "fix(ruby): swap PubSub.publish args position (#432)",
@@ -1170,6 +1186,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "11b00ffcdd",
+      "message": "ci: bump Valkey 9.2 to rc2 and key the engine cache on commit SHA (#7782)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7782",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/11b00ffcddea7e18ef92e8f3fa2b23b3727fb32f"
+    },
+    {
+      "sha": "797c96a0ac",
+      "message": "ci: draft release notes per release branch from PR titles (#7770)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7770",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/797c96a0aca70d498a2aabfca5eaef62aac83400"
+    },
+    {
+      "sha": "268f634702",
+      "message": "chore(release): cherry-pick v1.2.0 release commits to `main` (#658)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/658",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/268f634702ad9f6ee00fd8c3463dc4ed477e160e"
+    },
     {
       "sha": "00762b4b2a",
       "message": "test(go): run the pool and scope integration tests in CI (#7642)",

@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 168,
+  "score": 170,
   "commit_count": 46,
-  "review_count": 122,
+  "review_count": 124,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -382,6 +382,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8433b8fff1",
+      "message": "docs: align 1.3.0 documentation and command JSON with the implementation (#1735)",
+      "date": "2026-11-18",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1735",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8433b8fff1b3329b6abfd994cb29f0b1e13669fa"
+    },
+    {
+      "sha": "3149bf1612",
+      "message": "ci(unittests-asan): limit build to 4 jobs and raise ccache to 2G (#1748)",
+      "date": "2026-11-18",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1748",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/3149bf1612d8f016315e30a3d223f29f2c7b91ba"
+    },
     {
       "sha": "6e378bd78d",
       "message": "Fix stem root distinct_docs undercount on concurrent deletes (#1722) (#1723)",

@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 334,
+  "score": 335,
   "commit_count": 97,
-  "review_count": 237,
+  "review_count": 238,
   "repos": [
     "valkey",
     "valkey-container",
@@ -795,6 +795,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "448950e83f",
+      "message": "Fix flaky \"BLMPOP + maxmemory-clients\" eviction test on slow runners (#5467)",
+      "date": "2026-11-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5467",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/448950e83f8fad14b2551c186fa0a968efd5dcd7"
+    },
     {
       "sha": "39a17bfc71",
       "message": "hotkeys: drop the INFO hotkeys fields, removed from the server (#562)",

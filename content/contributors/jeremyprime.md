@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 339,
-  "commit_count": 102,
-  "review_count": 237,
+  "score": 345,
+  "commit_count": 105,
+  "review_count": 240,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -14,6 +14,30 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "797c96a0ac",
+      "message": "ci: draft release notes per release branch from PR titles (#7770)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7770",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/797c96a0aca70d498a2aabfca5eaef62aac83400"
+    },
+    {
+      "sha": "bea8a7ec79",
+      "message": "ci: draft release notes per release branch from PR titles (#655)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/655",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/bea8a7ec793fcd93dbbcae321485859c066a37c5"
+    },
+    {
+      "sha": "caf7320e5e",
+      "message": "ci: draft release notes per release branch from PR titles (#453)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/453",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/caf7320e5e6e295dd4c68ba4ad6326c2d96f2d75"
+    },
     {
       "sha": "57bf601dfa",
       "message": "fix(core): Stop discarding usable pooled clients on release (#7599)",
@@ -832,6 +856,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "11b00ffcdd",
+      "message": "ci: bump Valkey 9.2 to rc2 and key the engine cache on commit SHA (#7782)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7782",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/11b00ffcddea7e18ef92e8f3fa2b23b3727fb32f"
+    },
+    {
+      "sha": "9e9cd2da8f",
+      "message": "ci: run client CI when the shared Rust inputs they build change (#7661)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7661",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9e9cd2da8f16433e3931bdefcccab6c5f3c01ef8"
+    },
+    {
+      "sha": "268f634702",
+      "message": "chore(release): cherry-pick v1.2.0 release commits to `main` (#658)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/658",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/268f634702ad9f6ee00fd8c3463dc4ed477e160e"
+    },
     {
       "sha": "7c0bc6552c",
       "message": "Merge pull request #7739 from valkey-io/go/jamesx-fix-7648-strip-lto-bitcode",

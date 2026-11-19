@@ -2,8 +2,8 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 121,
-  "commit_count": 32,
+  "score": 122,
+  "commit_count": 33,
   "review_count": 89,
   "repos": [
     "valkey",
@@ -17,6 +17,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/5462",
       "commit_url": "https://github.com/valkey-io/valkey/commit/355aeb471075d1cec9a48527d319ce63c0ea54e9"
+    },
+    {
+      "sha": "5c8a56e613",
+      "message": "bgiteration: handle replication of HDEL during field expiration (#5460)",
+      "date": "2026-11-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5460",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5c8a56e6132345fcb64811d57d0d95c820c27f10"
     },
     {
       "sha": "8c82072a62",

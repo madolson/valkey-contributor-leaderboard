@@ -2,12 +2,13 @@
   "title": "leslie-bq",
   "login": "leslie-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
-  "score": 32,
+  "score": 37,
   "commit_count": 9,
-  "review_count": 23,
+  "review_count": 28,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
+    "valkey-glide-docs",
     "valkey-glide-php"
   ],
   "commit_list": [
@@ -85,6 +86,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3c82b85ae6",
+      "message": "feat(python): add Python 3.15 support (#7416)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7416",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3c82b85ae6bb6e6cf1ec5d63da75228663b9e316"
+    },
+    {
+      "sha": "a2353a3090",
+      "message": "docs: document PHP logger path validation and false return (#380)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/380",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/a2353a309067d6c62e0a4348999252a6d211fac8"
+    },
+    {
+      "sha": "caf7320e5e",
+      "message": "ci: draft release notes per release branch from PR titles (#453)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/453",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/caf7320e5e6e295dd4c68ba4ad6326c2d96f2d75"
+    },
+    {
+      "sha": "cbf90bd5ba",
+      "message": "test(php): create and use a new client in a forked child (#431)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/431",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/cbf90bd5bae641c51fcc8705b01ac177173bc584"
+    },
+    {
+      "sha": "b2fefe1f5f",
+      "message": "fix(php): refuse SCAN commands in multi() and pipeline() (#420)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/420",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b2fefe1f5f4290059c6f103c24a266c4b08f6852"
+    },
     {
       "sha": "53ed216c3f",
       "message": "fix(php): fix issues from the rc2 bug bash (#442)",

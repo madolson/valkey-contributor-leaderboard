@@ -2,9 +2,9 @@
   "title": "JasonLi314",
   "login": "JasonLi314",
   "avatar_url": "https://avatars.githubusercontent.com/u/47095666?v=4",
-  "score": 11,
+  "score": 13,
   "commit_count": 11,
-  "review_count": 0,
+  "review_count": 2,
   "repos": [
     "valkey-search"
   ],
@@ -98,5 +98,22 @@
       "commit_url": "https://github.com/valkey-io/valkey-search/commit/bd6d2f238be340095a382a8031f40b96e76d0702"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "8433b8fff1",
+      "message": "docs: align 1.3.0 documentation and command JSON with the implementation (#1735)",
+      "date": "2026-11-18",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1735",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8433b8fff1b3329b6abfd994cb29f0b1e13669fa"
+    },
+    {
+      "sha": "2d99b27aea",
+      "message": "fix(vector-registry): keep shared vectors until a logically expired key or field is deleted (#1734)",
+      "date": "2026-11-18",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1734",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2d99b27aea578a3a733ab8ab3b30c5792771cddf"
+    }
+  ]
 }

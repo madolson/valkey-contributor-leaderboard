@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 1112,
-  "commit_count": 306,
-  "review_count": 806,
+  "score": 1114,
+  "commit_count": 307,
+  "review_count": 807,
   "repos": [
     ".github",
     "assets",
@@ -23,6 +23,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "bc803a45e0",
+      "message": "Close the deferring client leaked by a pause test (#5264)",
+      "date": "2026-11-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5264",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bc803a45e0c73e1c651312427a75623d8e40dacf"
+    },
     {
       "sha": "543d5097b7",
       "message": "[Bug fix] Pick the latest release by version, not date, on /download/ (#741)",
@@ -2496,6 +2504,14 @@
       "repo": "valkey-io.github.io",
       "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/775",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/839300f942f14f4475644c2dc7cea57bcec09e6e"
+    },
+    {
+      "sha": "5c8a56e613",
+      "message": "bgiteration: handle replication of HDEL during field expiration (#5460)",
+      "date": "2026-11-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5460",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5c8a56e6132345fcb64811d57d0d95c820c27f10"
     },
     {
       "sha": "88a8630f7a",

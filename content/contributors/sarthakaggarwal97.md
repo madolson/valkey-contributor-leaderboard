@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 481,
-  "commit_count": 136,
-  "review_count": 345,
+  "score": 483,
+  "commit_count": 137,
+  "review_count": 346,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -18,6 +18,14 @@
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "6357e3dc43",
+      "message": "Fix double mutex unlock when shrinking IO threads (#5366)",
+      "date": "2026-11-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5366",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6357e3dc4397b966341cc01a5cfbdff95a0932e9"
+    },
     {
       "sha": "839300f942",
       "message": "Add the 9.2.0-rc2 release page (#775)",
@@ -1108,6 +1116,94 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bc803a45e0",
+      "message": "Close the deferring client leaked by a pause test (#5264)",
+      "date": "2026-11-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5264",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bc803a45e0c73e1c651312427a75623d8e40dacf"
+    },
+    {
+      "sha": "a032b0d250",
+      "message": "Update versions.json and Dockerfiles for version 9.0.8 (#183)",
+      "date": "2026-11-18",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/183",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/a032b0d2500e968857ab944350709ccee7722817"
+    },
+    {
+      "sha": "c12e07f9d5",
+      "message": "Update versions.json and Dockerfiles for version 8.0.13 (#182)",
+      "date": "2026-11-18",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/182",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/c12e07f9d572fd7b776704f8caea96390c32bba9"
+    },
+    {
+      "sha": "6467929c7d",
+      "message": "Update versions.json and Dockerfiles for version 8.1.12 (#181)",
+      "date": "2026-11-18",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/181",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/6467929c7d4169b240203ad0955a49c9059ad847"
+    },
+    {
+      "sha": "32d10db65a",
+      "message": "Merge pull request #180 from valkey-io/update-9.1.4",
+      "date": "2026-11-18",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/180",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/32d10db65ab359827698cc5cc1dda2f8e660f2b4"
+    },
+    {
+      "sha": "3e24dcc8db",
+      "message": "Update versions.json and Dockerfiles for version 7.2.16 (#179)",
+      "date": "2026-11-18",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/179",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/3e24dcc8dbe205149e42ea0429f3470b466e4485"
+    },
+    {
+      "sha": "08e0a9fe36",
+      "message": "Update website for version 8.0.13 (#788)",
+      "date": "2026-11-18",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/788",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/08e0a9fe369d58ff447b1b1dfb72276b4fc767ca"
+    },
+    {
+      "sha": "84574ea15a",
+      "message": "Update website for version 8.1.12 (#787)",
+      "date": "2026-11-18",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/787",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/84574ea15a1b43416ed82bc4ba820fb349ca6d3a"
+    },
+    {
+      "sha": "3f02695655",
+      "message": "Update website for version 9.0.8 (#789)",
+      "date": "2026-11-18",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/789",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/3f0269565556656344b67d55a0b03506da5900b1"
+    },
+    {
+      "sha": "ee84276b58",
+      "message": "Update website for version 9.1.4 (#786)",
+      "date": "2026-11-18",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/786",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/ee84276b5846bc906f7b130240cb53a8f6b7fa9b"
+    },
+    {
+      "sha": "caec387974",
+      "message": "Update website for version 7.2.16 (#785)",
+      "date": "2026-11-18",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/785",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/caec3879746600a55630656d3a944e610306fe99"
+    },
     {
       "sha": "8c82072a62",
       "message": "Internal API for objectGetLFUFrequencyReadOnly (#5448)",

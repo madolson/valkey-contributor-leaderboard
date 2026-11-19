@@ -2,9 +2,9 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 86,
-  "commit_count": 36,
-  "review_count": 50,
+  "score": 89,
+  "commit_count": 37,
+  "review_count": 52,
   "repos": [
     "valkey",
     "valkey-container",
@@ -18,6 +18,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/5456",
       "commit_url": "https://github.com/valkey-io/valkey/commit/3fc96b1f5f361901607a3d65d851b61fd4f5754f"
+    },
+    {
+      "sha": "448950e83f",
+      "message": "Fix flaky \"BLMPOP + maxmemory-clients\" eviction test on slow runners (#5467)",
+      "date": "2026-11-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5467",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/448950e83f8fad14b2551c186fa0a968efd5dcd7"
     },
     {
       "sha": "9d8f3c003c",
@@ -301,6 +309,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6357e3dc43",
+      "message": "Fix double mutex unlock when shrinking IO threads (#5366)",
+      "date": "2026-11-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5366",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6357e3dc4397b966341cc01a5cfbdff95a0932e9"
+    },
+    {
+      "sha": "bc803a45e0",
+      "message": "Close the deferring client leaked by a pause test (#5264)",
+      "date": "2026-11-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5264",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bc803a45e0c73e1c651312427a75623d8e40dacf"
+    },
     {
       "sha": "40e00fcaf1",
       "message": "Fix cluster CLI exit status on slot migration failure (#4853)",

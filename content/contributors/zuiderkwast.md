@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1334,
+  "score": 1336,
   "commit_count": 161,
-  "review_count": 1173,
+  "review_count": 1175,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1310,6 +1310,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "06cded9e4f",
+      "message": "Support system jemalloc with MALLOC=system-jemalloc (#4439)",
+      "date": "2026-11-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4439",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/06cded9e4f118bd5ae4dc781f3c6aaeaf132af9d"
+    },
+    {
+      "sha": "b0be9f97b0",
+      "message": "Fix MSETEX key discovery in cluster mode (#4951)",
+      "date": "2026-11-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4951",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b0be9f97b08d6a6c761395dbb6a2f65eafe47374"
+    },
     {
       "sha": "df7de891b0",
       "message": "Document EXEC IFEQ, IFNE, NX and XX conditions (#532)",

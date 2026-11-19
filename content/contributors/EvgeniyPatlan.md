@@ -2,16 +2,25 @@
   "title": "EvgeniyPatlan",
   "login": "EvgeniyPatlan",
   "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
-  "score": 13,
-  "commit_count": 9,
+  "score": 14,
+  "commit_count": 10,
   "review_count": 4,
   "repos": [
+    "valkey",
     "valkey-go",
     "valkey-ldap",
     "valkey-luajit",
     "valkey-release-automation"
   ],
   "commit_list": [
+    {
+      "sha": "06cded9e4f",
+      "message": "Support system jemalloc with MALLOC=system-jemalloc (#4439)",
+      "date": "2026-11-18",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4439",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/06cded9e4f118bd5ae4dc781f3c6aaeaf132af9d"
+    },
     {
       "sha": "02f358553e",
       "message": "Add Valkey 9.2 packaging (lz4, zstd) and refresh Fedora/Debian platforms (#73)",

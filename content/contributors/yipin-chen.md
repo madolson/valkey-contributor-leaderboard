@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 955,
+  "score": 961,
   "commit_count": 45,
-  "review_count": 910,
+  "review_count": 916,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -384,6 +384,54 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7708",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9afb6f6f218c8beede6a47a1dda9a4b688d0bfdf"
+    },
+    {
+      "sha": "797c96a0ac",
+      "message": "ci: draft release notes per release branch from PR titles (#7770)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7770",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/797c96a0aca70d498a2aabfca5eaef62aac83400"
+    },
+    {
+      "sha": "db0ec4e64e",
+      "message": "fix(core): isolate timeout watchdog pending counters (#7762)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7762",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/db0ec4e64e9d82269da89e55bbca6881584c98f1"
+    },
+    {
+      "sha": "4771a098ec",
+      "message": "fix(core): prevent missed refresh completion notifications (#7766)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7766",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4771a098ecc623fb3ce4c900014fdb7176e6c889"
+    },
+    {
+      "sha": "bea8a7ec79",
+      "message": "ci: draft release notes per release branch from PR titles (#655)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/655",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/bea8a7ec793fcd93dbbcae321485859c066a37c5"
+    },
+    {
+      "sha": "268f634702",
+      "message": "chore(release): cherry-pick v1.2.0 release commits to `main` (#658)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/658",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/268f634702ad9f6ee00fd8c3463dc4ed477e160e"
+    },
+    {
+      "sha": "caf7320e5e",
+      "message": "ci: draft release notes per release branch from PR titles (#453)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/453",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/caf7320e5e6e295dd4c68ba4ad6326c2d96f2d75"
     },
     {
       "sha": "7c0bc6552c",

@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 415,
-  "commit_count": 237,
-  "review_count": 178,
+  "score": 419,
+  "commit_count": 240,
+  "review_count": 179,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -22,6 +22,30 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7708",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9afb6f6f218c8beede6a47a1dda9a4b688d0bfdf"
+    },
+    {
+      "sha": "11b00ffcdd",
+      "message": "ci: bump Valkey 9.2 to rc2 and key the engine cache on commit SHA (#7782)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7782",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/11b00ffcddea7e18ef92e8f3fa2b23b3727fb32f"
+    },
+    {
+      "sha": "84e19d6398",
+      "message": "chore(ffi): update FFI Miri tests to drop `pin-utils` (RUSTSEC-2026-0441) (#7775)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7775",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/84e19d6398190ae3e6395bfec2ceba7f19c5e9a1"
+    },
+    {
+      "sha": "268f634702",
+      "message": "chore(release): cherry-pick v1.2.0 release commits to `main` (#658)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/658",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/268f634702ad9f6ee00fd8c3463dc4ed477e160e"
     },
     {
       "sha": "97542a8310",
@@ -1913,6 +1937,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bea8a7ec79",
+      "message": "ci: draft release notes per release branch from PR titles (#655)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/655",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/bea8a7ec793fcd93dbbcae321485859c066a37c5"
+    },
     {
       "sha": "4efdacf73e",
       "message": "Bump the patch-updates group with 2 updates (#645)",

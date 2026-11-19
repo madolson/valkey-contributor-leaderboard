@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 409,
+  "score": 415,
   "commit_count": 87,
-  "review_count": 322,
+  "review_count": 328,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -718,6 +718,54 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7708",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9afb6f6f218c8beede6a47a1dda9a4b688d0bfdf"
+    },
+    {
+      "sha": "3c82b85ae6",
+      "message": "feat(python): add Python 3.15 support (#7416)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7416",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3c82b85ae6bb6e6cf1ec5d63da75228663b9e316"
+    },
+    {
+      "sha": "11b00ffcdd",
+      "message": "ci: bump Valkey 9.2 to rc2 and key the engine cache on commit SHA (#7782)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7782",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/11b00ffcddea7e18ef92e8f3fa2b23b3727fb32f"
+    },
+    {
+      "sha": "9e9cd2da8f",
+      "message": "ci: run client CI when the shared Rust inputs they build change (#7661)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7661",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9e9cd2da8f16433e3931bdefcccab6c5f3c01ef8"
+    },
+    {
+      "sha": "db0ec4e64e",
+      "message": "fix(core): isolate timeout watchdog pending counters (#7762)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7762",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/db0ec4e64e9d82269da89e55bbca6881584c98f1"
+    },
+    {
+      "sha": "4771a098ec",
+      "message": "fix(core): prevent missed refresh completion notifications (#7766)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7766",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4771a098ecc623fb3ce4c900014fdb7176e6c889"
+    },
+    {
+      "sha": "edb83ca491",
+      "message": "docs: fix Ruby publish argument order in pub/sub examples (#382)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/382",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/edb83ca49174aab157da7a32a02c5aa6502b00eb"
     },
     {
       "sha": "00762b4b2a",

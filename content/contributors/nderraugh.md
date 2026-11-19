@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 121,
-  "commit_count": 41,
-  "review_count": 80,
+  "score": 125,
+  "commit_count": 43,
+  "review_count": 82,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "db0ec4e64e",
+      "message": "fix(core): isolate timeout watchdog pending counters (#7762)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7762",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/db0ec4e64e9d82269da89e55bbca6881584c98f1"
+    },
+    {
+      "sha": "4771a098ec",
+      "message": "fix(core): prevent missed refresh completion notifications (#7766)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7766",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/4771a098ecc623fb3ce4c900014fdb7176e6c889"
+    },
     {
       "sha": "4fde6ae1cd",
       "message": "ci(rdma): Regenerate glide-libfabric-sys bindings on Linux (#7687)",
@@ -343,6 +359,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "84e19d6398",
+      "message": "chore(ffi): update FFI Miri tests to drop `pin-utils` (RUSTSEC-2026-0441) (#7775)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7775",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/84e19d6398190ae3e6395bfec2ceba7f19c5e9a1"
+    },
+    {
+      "sha": "9e9cd2da8f",
+      "message": "ci: run client CI when the shared Rust inputs they build change (#7661)",
+      "date": "2026-11-18",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7661",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9e9cd2da8f16433e3931bdefcccab6c5f3c01ef8"
+    },
     {
       "sha": "57bf601dfa",
       "message": "fix(core): Stop discarding usable pooled clients on release (#7599)",

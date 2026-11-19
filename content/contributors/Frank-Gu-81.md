@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 90,
-  "commit_count": 35,
-  "review_count": 55,
+  "score": 94,
+  "commit_count": 37,
+  "review_count": 57,
   "repos": [
     "valkey-ci-agent",
     "valkey-doc",
@@ -12,6 +12,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "5a464d2c95",
+      "message": "valkey-search 1.3.0 GA doc update (#519)",
+      "date": "2026-11-19",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/519",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/5a464d2c958094f1ece3a33fb14c4e45b3de983a"
+    },
+    {
+      "sha": "a25ed796a7",
+      "message": "Fix HNSW delete race on label_lookup_ with concurrent inserts (#1747)",
+      "date": "2026-11-18",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1747",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a25ed796a7a739ca1c9037be6bfa5a24cd56faee"
+    },
     {
       "sha": "f30b4c8b21",
       "message": "Change 1.3.0-RC1 to 1.3.0 in command JSON files (#1730)",
@@ -294,6 +310,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8433b8fff1",
+      "message": "docs: align 1.3.0 documentation and command JSON with the implementation (#1735)",
+      "date": "2026-11-18",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1735",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/8433b8fff1b3329b6abfd994cb29f0b1e13669fa"
+    },
+    {
+      "sha": "2d99b27aea",
+      "message": "fix(vector-registry): keep shared vectors until a logically expired key or field is deleted (#1734)",
+      "date": "2026-11-18",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1734",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/2d99b27aea578a3a733ab8ab3b30c5792771cddf"
+    },
     {
       "sha": "67e82c198c",
       "message": "Report compatibility-fix usage in a single INFO field (#1729)",

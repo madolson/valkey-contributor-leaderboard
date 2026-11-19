@@ -2,9 +2,9 @@
   "title": "zackcam",
   "login": "zackcam",
   "avatar_url": "https://avatars.githubusercontent.com/u/181388575?v=4",
-  "score": 123,
-  "commit_count": 66,
-  "review_count": 57,
+  "score": 126,
+  "commit_count": 67,
+  "review_count": 59,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -17,6 +17,14 @@
     "valkeymodule-rs"
   ],
   "commit_list": [
+    {
+      "sha": "085aeb9512",
+      "message": "Making PR's run unstable and latest only, adding a daily job for all versions (#101)",
+      "date": "2026-11-18",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/101",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/085aeb95128d4f70a32ce98bd098104e4ef3a260"
+    },
     {
       "sha": "417d328137",
       "message": "Adding path hash keytype and future proofing for future (#258)",
@@ -547,6 +555,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4d34db2799",
+      "message": "Use the Valkeyrie bot app token to trigger the valkey-bundle update (#127)",
+      "date": "2026-11-18",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/127",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/4d34db27991f5b53b3e63b70a414001647040601"
+    },
+    {
+      "sha": "e8e4f1d1b5",
+      "message": "Fix clippy::needless_bool in BloomObject::validate_size (#128)",
+      "date": "2026-11-18",
+      "repo": "valkey-bloom",
+      "pr_url": "https://github.com/valkey-io/valkey-bloom/pull/128",
+      "commit_url": "https://github.com/valkey-io/valkey-bloom/commit/e8e4f1d1b562e645d05c653884e92fb36bb13635"
+    },
     {
       "sha": "53c3b77867",
       "message": "Add a retry hint to the disk staging exhaustion error (#212)",

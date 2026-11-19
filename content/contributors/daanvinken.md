@@ -2,9 +2,9 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 48,
+  "score": 50,
   "commit_count": 26,
-  "review_count": 22,
+  "review_count": 24,
   "repos": [
     "valkey-helm",
     "valkey-operator"
@@ -220,6 +220,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5a5538bc28",
+      "message": "Merge pull request #331 from valkey-io/jdheyburn/resources-first-class-values",
+      "date": "2026-11-18",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/331",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/5a5538bc287b71cd2c2919c0fe9e5a2a0913488e"
+    },
+    {
+      "sha": "21be14055b",
+      "message": "docs(valkey-resources): limit templated cluster.spec values to free-form strings",
+      "date": "2026-11-17",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/331",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/21be14055b031aa10a3e1e7bdd48aaf18c72c5ed"
+    },
     {
       "sha": "95a6649686",
       "message": "feat: move spec.users to spec.acl.users (#558)",

@@ -2,17 +2,26 @@
   "title": "KIvanow",
   "login": "KIvanow",
   "avatar_url": "https://avatars.githubusercontent.com/u/541999?v=4",
-  "score": 19,
-  "commit_count": 13,
+  "score": 20,
+  "commit_count": 14,
   "review_count": 6,
   "repos": [
     "planet",
     "valkey",
     "valkey-admin",
     "valkey-glide-php",
-    "valkey-io.github.io"
+    "valkey-io.github.io",
+    "valkey-proxy"
   ],
   "commit_list": [
+    {
+      "sha": "f8f8a43f67",
+      "message": "Check the backend ACL before answering CLIENT LIST (#39)",
+      "date": "2026-11-18",
+      "repo": "valkey-proxy",
+      "pr_url": "https://github.com/valkey-io/valkey-proxy/pull/39",
+      "commit_url": "https://github.com/valkey-io/valkey-proxy/commit/f8f8a43f67c3cc8fde9e81ea1db2c789dc2c6041"
+    },
     {
       "sha": "e871916db2",
       "message": "Add BetterDB Blog (Valkey) feed",
