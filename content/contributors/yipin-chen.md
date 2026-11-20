@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 961,
+  "score": 966,
   "commit_count": 45,
-  "review_count": 916,
+  "review_count": 921,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dde6620eb3",
+      "message": "fix(core): reject writes in read-only standalone pipelines, transactions and scopes (#7761)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7761",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dde6620eb34bcda9aa91854d676964f21301c88e"
+    },
+    {
+      "sha": "6bbee9c5c4",
+      "message": "ci: bump Valkey 9.2 to GA (#7799)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7799",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6bbee9c5c4d7ab3f94a6abf064a1329009c94acd"
+    },
+    {
+      "sha": "c40178a7d4",
+      "message": "fix(ffi): run a lazy sync client's first connect on the runtime worker (#7671)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7671",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c40178a7d4a1e66cb25013710e195aa545bd0256"
+    },
+    {
+      "sha": "cd19c7a4fe",
+      "message": "ci: bump Valkey 9.2 to GA (#661)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/661",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/cd19c7a4fe47552f329bd6b4fa7cf7c5b1903345"
+    },
+    {
+      "sha": "4ecc4ac4a4",
+      "message": "ci: draft release notes per release branch from PR titles (#434)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/434",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/4ecc4ac4a4dc4502e29c7eeabbe94c8e0978cc25"
+    },
     {
       "sha": "9afb6f6f21",
       "message": "chore: add TODOs and cleanup for issues from the Rust 0.10.0 bug bash (#7708)",

@@ -2,8 +2,8 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 170,
-  "commit_count": 46,
+  "score": 171,
+  "commit_count": 47,
   "review_count": 124,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "42d6c8adb5",
+      "message": "Make OOM integration tests deterministic (#1755)",
+      "date": "2026-11-19",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1755",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/42d6c8adb54193b3dc6834b4efd167d4138557a9"
+    },
     {
       "sha": "730e7162a0",
       "message": "Own RecordsMap keys in content fetch and projection (#1690)",

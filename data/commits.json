@@ -217651,6 +217651,1138 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1748"
+    },
+    {
+      "sha": "6c11c7fb22d207f685ed992d9959cb648e125046",
+      "author_login": "madolson",
+      "author_id": 34459052,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
+      "message": "Pause rehashing of path hash payloads during background iteration (#5112)",
+      "date": "2026-11-19T16:57:33Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "JimB123",
+          "date": "2026-11-19T16:57:31Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5112"
+    },
+    {
+      "sha": "c4ca1dcc01a862909c5daf0df9e8d45bc2231e06",
+      "author_login": "Baraa-Hasheesh",
+      "author_id": 202973079,
+      "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
+      "message": "Close clients leaked by tracking, list and valkey-cli tests (#5501)",
+      "date": "2026-11-19T15:57:56Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "ranshid",
+          "date": "2026-11-19T15:57:49Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5501"
+    },
+    {
+      "sha": "8c9c4ac355a122773447e833e08c78f89a56d51f",
+      "author_login": "dgershko",
+      "author_id": 94839021,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94839021?v=4",
+      "message": "Don't resend data to a close_asap client after an IO-thread write (#5468)",
+      "date": "2026-11-19T11:07:44Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "xdk-amz",
+          "date": "2026-11-18T23:28:43Z"
+        },
+        {
+          "login": "ranshid",
+          "date": "2026-11-19T11:01:34Z"
+        },
+        {
+          "login": "Baraa-Hasheesh",
+          "date": "2026-11-19T11:07:00Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5468"
+    },
+    {
+      "sha": "16debeacecfda1c8e468f560209cb76db0d89224",
+      "author_login": "shohamazon",
+      "author_id": 116083498,
+      "avatar_url": "https://avatars.githubusercontent.com/u/116083498?v=4",
+      "message": "Abort dual-channel sync if the primary link breaks while streaming (#5417)",
+      "date": "2026-11-19T10:29:09Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "Baraa-Hasheesh",
+          "date": "2026-11-19T10:02:10Z"
+        },
+        {
+          "login": "naglera",
+          "date": "2026-11-19T10:03:09Z"
+        },
+        {
+          "login": "ranshid",
+          "date": "2026-11-19T10:23:21Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5417"
+    },
+    {
+      "sha": "66801e0f73104870a162bdb170968dd1898ccb4e",
+      "author_login": "nassery318",
+      "author_id": 86083902,
+      "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
+      "message": "Add a read-only MCP server (#592)",
+      "date": "2026-11-19T21:02:55Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ArgusLi",
+          "date": "2026-11-19T20:31:32Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/592"
+    },
+    {
+      "sha": "98dba090d3b2834a4dc470d97efe1066dc1280f0",
+      "author_login": "RajGahoi",
+      "author_id": 191273099,
+      "avatar_url": "https://avatars.githubusercontent.com/u/191273099?v=4",
+      "message": "docs(connection): add password persistence hint in web mode and docker docs (#564)",
+      "date": "2026-11-19T19:12:49Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "nassery318",
+          "date": "2026-11-19T16:20:07Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/564"
+    },
+    {
+      "sha": "858e13e6df6ed6fb9274b3ab3cbdd1e1cc53b5dc",
+      "author_login": "nassery318",
+      "author_id": 86083902,
+      "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
+      "message": "Stop forcing Discovery for hosts containing 'cfg' (#595)",
+      "date": "2026-11-19T17:09:43Z",
+      "repo": "valkey-admin",
+      "reviewed": [
+        {
+          "login": "ArgusLi",
+          "date": "2026-11-19T16:55:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/595"
+    },
+    {
+      "sha": "cad0a8622615c3db02881a9d361412ca22c3476e",
+      "author_login": "JimB123",
+      "author_id": 7267136,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
+      "message": "Merge pull request #135 from valkey-io/valkey-bundle-update",
+      "date": "2026-11-19T17:10:55Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-18T23:20:52Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-11-18T23:40:39Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T15:59:31Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135"
+    },
+    {
+      "sha": "7a11f571665f0eec9c553de1679ae59cec5cf61f",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Update alias for valkey version 9.2.0",
+      "date": "2026-11-19T10:48:48Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-18T23:20:52Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-11-18T23:40:39Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T15:59:31Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-11-19T17:07:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135"
+    },
+    {
+      "sha": "8d49616be7323fa96dc7798a443dd205b1f2c7a0",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Update DockerHub description for valkey 9.2.0",
+      "date": "2026-11-19T10:48:47Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-18T23:20:52Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-11-18T23:40:39Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T15:59:31Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-11-19T17:07:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135"
+    },
+    {
+      "sha": "ef5a9a83e25fcaee32c3daa644628fb58b6c1c7d",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Update Dockerfiles for valkey 9.2.0",
+      "date": "2026-11-19T10:48:18Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-18T23:20:52Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-11-18T23:40:39Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T15:59:31Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-11-19T17:07:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135"
+    },
+    {
+      "sha": "5fd811d06ff104f60dd45c379b35c9be543ae86c",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Update versions.json for valkey 9.2.0",
+      "date": "2026-11-19T10:48:17Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-18T23:20:52Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-11-18T23:40:39Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T15:59:31Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-11-19T17:07:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135"
+    },
+    {
+      "sha": "a659320a6cce768429f6e80e37d9f0ea28918d0b",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Update DockerHub description for valkey 9.0.8",
+      "date": "2026-11-19T02:11:14Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-18T23:20:52Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-11-18T23:40:39Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T15:59:31Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-11-19T17:07:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135"
+    },
+    {
+      "sha": "94a7d15568bead9727d5036e04e593f977ad2185",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Update Dockerfiles for valkey 9.0.8",
+      "date": "2026-11-19T02:10:44Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-18T23:20:52Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-11-18T23:40:39Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T15:59:31Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-11-19T17:07:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135"
+    },
+    {
+      "sha": "afac45e3dbe314812f7d6b7120f02c83a52415fb",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Update versions.json for valkey 9.0.8",
+      "date": "2026-11-19T02:10:43Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-18T23:20:52Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-11-18T23:40:39Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T15:59:31Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-11-19T17:07:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135"
+    },
+    {
+      "sha": "cc800d68b901f17e4f90e64c0fd82ea126d950b1",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Update DockerHub description for valkey 8.1.12",
+      "date": "2026-11-19T00:43:52Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-18T23:20:52Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-11-18T23:40:39Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T15:59:31Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-11-19T17:07:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135"
+    },
+    {
+      "sha": "c390964e6083716e5fb0106d6afbe63a368354d0",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Update Dockerfiles for valkey 8.1.12",
+      "date": "2026-11-19T00:43:26Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-18T23:20:52Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-11-18T23:40:39Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T15:59:31Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-11-19T17:07:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135"
+    },
+    {
+      "sha": "47390fdef720a419f4928cfd942799dbc9ab55c2",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Update versions.json for valkey 8.1.12",
+      "date": "2026-11-19T00:43:25Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-18T23:20:52Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-11-18T23:40:39Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T15:59:31Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-11-19T17:07:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135"
+    },
+    {
+      "sha": "530deb61a4c9aac48d45f2128ed8d029091664f6",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Update DockerHub description for valkey 9.1.4",
+      "date": "2026-11-18T23:12:55Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-18T23:20:52Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-11-18T23:40:39Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T15:59:31Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-11-19T17:07:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135"
+    },
+    {
+      "sha": "ca32ea146ec1d91b15fde950b87a1539e6e09ad6",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Update Dockerfiles for valkey 9.1.4",
+      "date": "2026-11-18T23:12:20Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-18T23:20:52Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-11-18T23:40:39Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T15:59:31Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-11-19T17:07:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135"
+    },
+    {
+      "sha": "d043c1f4574b249a9a5cf829d5a6ab40ab8bcfc2",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Update versions.json for valkey 9.1.4",
+      "date": "2026-11-18T23:12:18Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-18T23:20:52Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-11-18T23:40:39Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T15:59:31Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-11-19T17:07:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135"
+    },
+    {
+      "sha": "0867efeb78e32b77388a527f71a71ff3330d63c0",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Update DockerHub description for search 1.3.0",
+      "date": "2026-11-18T22:55:48Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-18T23:20:52Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-11-18T23:40:39Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T15:59:31Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-11-19T17:07:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135"
+    },
+    {
+      "sha": "1b6d3ed928718a4e91eed8184fa6d5e01608ee11",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Update Dockerfiles for search 1.3.0",
+      "date": "2026-11-18T22:55:09Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-18T23:20:52Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-11-18T23:40:39Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T15:59:31Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-11-19T17:07:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135"
+    },
+    {
+      "sha": "5d242b1931a65d33344e47f0b5f3f2038740b389",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Update versions.json for search 1.3.0",
+      "date": "2026-11-18T22:55:08Z",
+      "repo": "valkey-bundle",
+      "reviewed": [
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-18T23:20:52Z"
+        },
+        {
+          "login": "Nikhil-Manglore",
+          "date": "2026-11-18T23:40:39Z"
+        },
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T15:59:31Z"
+        },
+        {
+          "login": "JimB123",
+          "date": "2026-11-19T17:07:23Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135"
+    },
+    {
+      "sha": "916f2dd9bd902d84ee8ea151ad3b5fae1dba7fbc",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Run test failure detector at 06:00 UTC (#172)",
+      "date": "2026-11-19T19:32:42Z",
+      "repo": "valkey-ci-agent",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-11-19T19:32:05Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/172"
+    },
+    {
+      "sha": "5b08693a9ccdceab70cebb23a806390bc60d629b",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Build 9.2+ images with Zstandard support (#185)",
+      "date": "2026-11-19T18:41:47Z",
+      "repo": "valkey-container",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-11-19T18:41:26Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/185"
+    },
+    {
+      "sha": "392cc0291c744ab61a4f53d6feac71e22f2fdb0c",
+      "author_login": "valkeyrie-ops[bot]",
+      "author_id": 284117741,
+      "avatar_url": "https://avatars.githubusercontent.com/u/164458127?v=4",
+      "message": "Update to version 9.2.0 (#184)",
+      "date": "2026-11-19T08:54:10Z",
+      "repo": "valkey-container",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T08:53:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/184"
+    },
+    {
+      "sha": "7861fead771e4657a2686adfcc9cd116fc21f1d1",
+      "author_login": "Andriciuc",
+      "author_id": 9531841,
+      "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
+      "message": "Clarify hybrid search and fix link-check (#571)",
+      "date": "2026-11-19T20:02:17Z",
+      "repo": "valkey-doc",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-11-19T16:39:09Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/571"
+    },
+    {
+      "sha": "d82b1b6b8a88c295ce3659a5e4baa78d5807768c",
+      "author_login": "xdk-amz",
+      "author_id": 202004444,
+      "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
+      "message": "Fix five pages that differ from the server source (#572)",
+      "date": "2026-11-19T19:48:51Z",
+      "repo": "valkey-doc",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-11-19T19:48:49Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/572"
+    },
+    {
+      "sha": "f5942088c9664dd5ec3ee491c18bb0a105a700c7",
+      "author_login": "nitaicaro",
+      "author_id": 42576749,
+      "avatar_url": "https://avatars.githubusercontent.com/u/42576749?v=4",
+      "message": "Add CONFIG INFO command documentation (#458)",
+      "date": "2026-11-19T17:39:39Z",
+      "repo": "valkey-doc",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-17T20:29:53Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/458"
+    },
+    {
+      "sha": "ecb8ddf5ff31c558c14e5281eb6720f9616e57fc",
+      "author_login": "valkeyrie-ops[bot]",
+      "author_id": 284117741,
+      "avatar_url": "https://avatars.githubusercontent.com/u/164458127?v=4",
+      "message": "Update documentation for Valkey 9.2.0 (#568)",
+      "date": "2026-11-19T14:42:23Z",
+      "repo": "valkey-doc",
+      "reviewed": [
+        {
+          "login": "Andriciuc",
+          "date": "2026-11-19T09:13:33Z"
+        },
+        {
+          "login": "stockholmux",
+          "date": "2026-11-19T14:42:06Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/568"
+    },
+    {
+      "sha": "b8a6f94544dc123da33f9aded226a0b9e855216a",
+      "author_login": "RajGahoi",
+      "author_id": 191273099,
+      "avatar_url": "https://avatars.githubusercontent.com/u/191273099?v=4",
+      "message": "refactor(node): default omitted BaseClient configuration and type this.config as non-nullable (#2679) (#7613)",
+      "date": "2026-11-19T23:36:32Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-11-19T22:58:57Z"
+        },
+        {
+          "login": "prateek-kumar-improving",
+          "date": "2026-11-19T23:00:18Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7613"
+    },
+    {
+      "sha": "dde6620eb34bcda9aa91854d676964f21301c88e",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "fix(core): reject writes in read-only standalone pipelines, transactions and scopes (#7761)",
+      "date": "2026-11-19T21:23:53Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-11-18T23:49:53Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-11-19T20:22:39Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7761"
+    },
+    {
+      "sha": "3a01a25b62fa4bca0734684f866b54680f8d9d4a",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "fix(python): support trio in AsyncClientPool and async IsolatedScope (#7787)",
+      "date": "2026-11-19T18:07:47Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "jamesx-improving",
+          "date": "2026-11-18T23:49:39Z"
+        },
+        {
+          "login": "nderraugh",
+          "date": "2026-11-19T17:41:22Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7787"
+    },
+    {
+      "sha": "72d3a492e1f6537376335a3fc031f100a30c0fb1",
+      "author_login": "bluayer",
+      "author_id": 37579681,
+      "avatar_url": "https://avatars.githubusercontent.com/u/37579681?v=4",
+      "message": "feat(rdma): register device memory for RDMA transfers (#7609)",
+      "date": "2026-11-19T17:54:50Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "avifenesh",
+          "date": "2026-11-18T02:08:59Z"
+        },
+        {
+          "login": "nderraugh",
+          "date": "2026-11-18T23:53:50Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7609"
+    },
+    {
+      "sha": "6bbee9c5c4d7ab3f94a6abf064a1329009c94acd",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "ci: bump Valkey 9.2 to GA (#7799)",
+      "date": "2026-11-19T16:58:27Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-11-19T16:41:05Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-11-19T16:44:15Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-11-19T16:50:03Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7799"
+    },
+    {
+      "sha": "c40178a7d4a1e66cb25013710e195aa545bd0256",
+      "author_login": "xShinnRyuu",
+      "author_id": 54688146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
+      "message": "fix(ffi): run a lazy sync client's first connect on the runtime worker (#7671)",
+      "date": "2026-11-19T16:12:33Z",
+      "repo": "valkey-glide",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-11-12T18:27:50Z"
+        },
+        {
+          "login": "jamesx-improving",
+          "date": "2026-11-18T23:49:48Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7671"
+    },
+    {
+      "sha": "cd19c7a4fe47552f329bd6b4fa7cf7c5b1903345",
+      "author_login": "Aryex",
+      "author_id": 35547559,
+      "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
+      "message": "ci: bump Valkey 9.2 to GA (#661)",
+      "date": "2026-11-19T18:29:33Z",
+      "repo": "valkey-glide-csharp",
+      "reviewed": [
+        {
+          "login": "currantw",
+          "date": "2026-11-19T16:39:29Z"
+        },
+        {
+          "login": "xShinnRyuu",
+          "date": "2026-11-19T16:49:39Z"
+        },
+        {
+          "login": "yipin-chen",
+          "date": "2026-11-19T16:50:29Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/661"
+    },
+    {
+      "sha": "4ecc4ac4a4dc4502e29c7eeabbe94c8e0978cc25",
+      "author_login": "jeremyprime",
+      "author_id": 94406158,
+      "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
+      "message": "ci: draft release notes per release branch from PR titles (#434)",
+      "date": "2026-11-19T16:55:58Z",
+      "repo": "valkey-glide-ruby",
+      "reviewed": [
+        {
+          "login": "yipin-chen",
+          "date": "2026-11-17T22:10:04Z"
+        },
+        {
+          "login": "Aryex",
+          "date": "2026-11-19T16:53:54Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/434"
+    },
+    {
+      "sha": "1e7899654c54bd5212c2ccb1e3128609b9f0ec51",
+      "author_login": "github-actions[bot]",
+      "author_id": 41898282,
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "message": "Update hash for 9.2.0",
+      "date": "2026-11-19T08:46:41Z",
+      "repo": "valkey-hashes",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "46737733f0b0891a719ba2a5775b7c5cda516b1c",
+      "author_login": "rainsupreme",
+      "author_id": 20649182,
+      "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
+      "message": "Fix 9.2 release blog and download page accuracy (#792)",
+      "date": "2026-11-19T21:15:10Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-11-19T20:49:41Z"
+        },
+        {
+          "login": "stockholmux",
+          "date": "2026-11-19T21:14:58Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/792"
+    },
+    {
+      "sha": "afaa257b9a50ea16cee24872ccf23a4fa8079d6e",
+      "author_login": "Andriciuc",
+      "author_id": 9531841,
+      "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
+      "message": "Add Valkey 9.2 release announcement blog (#746)",
+      "date": "2026-11-19T14:48:18Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "madolson",
+          "date": "2026-11-13T20:56:36Z"
+        },
+        {
+          "login": "stockholmux",
+          "date": "2026-11-19T14:26:06Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/746"
+    },
+    {
+      "sha": "f657974acdbcdfc5611ef133ffe0b4fc0d1db9f3",
+      "author_login": "valkeyrie-ops[bot]",
+      "author_id": 284117741,
+      "avatar_url": "https://avatars.githubusercontent.com/u/164458127?v=4",
+      "message": "Update website for version 9.2.0 (#790)",
+      "date": "2026-11-19T14:43:25Z",
+      "repo": "valkey-io.github.io",
+      "reviewed": [
+        {
+          "login": "stockholmux",
+          "date": "2026-11-19T14:12:58Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/790"
+    },
+    {
+      "sha": "bf64e2af8e56d46d42b8e06f6f8e4e960d1fea95",
+      "author_login": "secwall",
+      "author_id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "message": "Add 9.2 to test matrix",
+      "date": "2026-11-19T15:30:27Z",
+      "repo": "valkey-lua5.5",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-11-19T15:30:18Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/35"
+    },
+    {
+      "sha": "ca5e113f6d623cbcb0a4a28fa5cfe7e3db060196",
+      "author_login": "secwall",
+      "author_id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "message": "Add 9.2 to test matrix",
+      "date": "2026-11-19T10:45:04Z",
+      "repo": "valkey-luajit",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-11-19T09:45:15Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/88"
+    },
+    {
+      "sha": "4f3e018ff889799401c00fe377193db722d0bd47",
+      "author_login": "secwall",
+      "author_id": 1869308,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1869308?v=4",
+      "message": "Add 9.2 to test matrix",
+      "date": "2026-11-19T14:43:58Z",
+      "repo": "valkey-luau",
+      "reviewed": [
+        {
+          "login": "dvkashapov",
+          "date": "2026-11-19T14:18:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-luau/pull/36"
+    },
+    {
+      "sha": "7de97c2da7a075ab1fe651b7ac191a3aa71ca9dd",
+      "author_login": "jdheyburn",
+      "author_id": 34041368,
+      "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
+      "message": "feat: dial nodes in parallel when scraping cluster state (#656)",
+      "date": "2026-11-19T17:13:33Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "bjosv",
+          "date": "2026-11-18T09:58:14Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/656"
+    },
+    {
+      "sha": "e31e51b3435b0f758c53b8c8e67389feda915f40",
+      "author_login": "daanvinken",
+      "author_id": 47114744,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
+      "message": "feat: do not reconcile a ValkeyNode without a known parent (#632) (#666)",
+      "date": "2026-11-19T12:15:29Z",
+      "repo": "valkey-operator",
+      "reviewed": [
+        {
+          "login": "jdheyburn",
+          "date": "2026-11-19T12:15:22Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/666"
+    },
+    {
+      "sha": "ea52d31a851af6a3fc265929a2f182e033b77c1a",
+      "author_login": "lucasyonge",
+      "author_id": 198354786,
+      "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
+      "message": "Add PROXY CONFIG GET | SET | SAVE | HELP commands (#52)",
+      "date": "2026-11-19T21:00:35Z",
+      "repo": "valkey-proxy",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "9c7233cd983bf4f00fa01a043f692c895c9294c3",
+      "author_login": "lucasyonge",
+      "author_id": 198354786,
+      "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
+      "message": "fix multiply db bug (#50)",
+      "date": "2026-11-19T16:49:31Z",
+      "repo": "valkey-proxy",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "37110a703be75f3ea2e98577221e1bcd85b4d217",
+      "author_login": "lucasyonge",
+      "author_id": 198354786,
+      "avatar_url": "https://avatars.githubusercontent.com/u/198354786?v=4",
+      "message": "update parameter naing style (#48)",
+      "date": "2026-11-19T16:00:17Z",
+      "repo": "valkey-proxy",
+      "reviewed": false,
+      "pr_url": ""
+    },
+    {
+      "sha": "08d9f1920e7464e6ed54bfa7f19815e72b509951",
+      "author_login": "roshkhatri",
+      "author_id": 117414976,
+      "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
+      "message": "Add selectable release components (#82)",
+      "date": "2026-11-19T21:54:18Z",
+      "repo": "valkey-release-automation",
+      "reviewed": [
+        {
+          "login": "sarthakaggarwal97",
+          "date": "2026-11-19T21:46:38Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/82"
+    },
+    {
+      "sha": "62f1778788644bf55638bf76dcd1566f93675790",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Build Linux archives with Zstandard support for 9.2+ (#81)",
+      "date": "2026-11-19T18:42:39Z",
+      "repo": "valkey-release-automation",
+      "reviewed": [
+        {
+          "login": "EvgeniyPatlan",
+          "date": "2026-11-19T18:14:44Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/81"
+    },
+    {
+      "sha": "fe0b94cc8bf5f0278c7ba91f5c1924919b1c5b72",
+      "author_login": "sarthakaggarwal97",
+      "author_id": 25262500,
+      "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
+      "message": "Make /etc/valkey writable by valkey in 9.2 RPMs so Sentinel starts (#80)",
+      "date": "2026-11-19T08:32:51Z",
+      "repo": "valkey-release-automation",
+      "reviewed": [
+        {
+          "login": "roshkhatri",
+          "date": "2026-11-19T08:32:30Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/80"
+    },
+    {
+      "sha": "42d6c8adb54193b3dc6834b4efd167d4138557a9",
+      "author_login": "BCathcart",
+      "author_id": 31714723,
+      "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
+      "message": "Make OOM integration tests deterministic (#1755)",
+      "date": "2026-11-19T19:11:43Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-11-19T17:01:01Z"
+        },
+        {
+          "login": "Frank-Gu-81",
+          "date": "2026-11-19T17:13:17Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1755"
     }
   ]
 }

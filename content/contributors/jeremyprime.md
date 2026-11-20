@@ -2,8 +2,8 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 345,
-  "commit_count": 105,
+  "score": 347,
+  "commit_count": 107,
   "review_count": 240,
   "repos": [
     "spring-data-valkey",
@@ -14,6 +14,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "3a01a25b62",
+      "message": "fix(python): support trio in AsyncClientPool and async IsolatedScope (#7787)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7787",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3a01a25b62fa4bca0734684f866b54680f8d9d4a"
+    },
+    {
+      "sha": "4ecc4ac4a4",
+      "message": "ci: draft release notes per release branch from PR titles (#434)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/434",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/4ecc4ac4a4dc4502e29c7eeabbe94c8e0978cc25"
+    },
     {
       "sha": "797c96a0ac",
       "message": "ci: draft release notes per release branch from PR titles (#7770)",

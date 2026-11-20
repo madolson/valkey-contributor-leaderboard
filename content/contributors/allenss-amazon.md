@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 370,
+  "score": 371,
   "commit_count": 103,
-  "review_count": 267,
+  "review_count": 268,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -846,6 +846,14 @@
       "repo": "valkey-doc",
       "pr_url": "https://github.com/valkey-io/valkey-doc/pull/519",
       "commit_url": "https://github.com/valkey-io/valkey-doc/commit/5a464d2c958094f1ece3a33fb14c4e45b3de983a"
+    },
+    {
+      "sha": "42d6c8adb5",
+      "message": "Make OOM integration tests deterministic (#1755)",
+      "date": "2026-11-19",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1755",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/42d6c8adb54193b3dc6834b4efd167d4138557a9"
     },
     {
       "sha": "a25ed796a7",

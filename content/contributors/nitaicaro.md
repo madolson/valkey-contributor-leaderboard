@@ -2,14 +2,22 @@
   "title": "nitaicaro",
   "login": "nitaicaro",
   "avatar_url": "https://avatars.githubusercontent.com/u/42576749?v=4",
-  "score": 23,
-  "commit_count": 17,
+  "score": 24,
+  "commit_count": 18,
   "review_count": 6,
   "repos": [
     "valkey",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "f5942088c9",
+      "message": "Add CONFIG INFO command documentation (#458)",
+      "date": "2026-11-19",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/458",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/f5942088c9664dd5ec3ee491c18bb0a105a700c7"
+    },
     {
       "sha": "1fae4b43dc",
       "message": "Remove the old RDB version forkless fallback (#5461)",

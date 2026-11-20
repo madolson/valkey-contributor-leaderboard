@@ -2,9 +2,9 @@
   "title": "avifenesh",
   "login": "avifenesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/55848801?v=4",
-  "score": 267,
+  "score": 268,
   "commit_count": 101,
-  "review_count": 166,
+  "review_count": 167,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -825,6 +825,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "72d3a492e1",
+      "message": "feat(rdma): register device memory for RDMA transfers (#7609)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7609",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/72d3a492e1f6537376335a3fc031f100a30c0fb1"
+    },
     {
       "sha": "1a2a4a3c48",
       "message": "Supersede stale facts in the valkey-review skill for 9.1.2",

@@ -2,8 +2,8 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 227,
-  "commit_count": 51,
+  "score": 228,
+  "commit_count": 52,
   "review_count": 176,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-skills"
   ],
   "commit_list": [
+    {
+      "sha": "46737733f0",
+      "message": "Fix 9.2 release blog and download page accuracy (#792)",
+      "date": "2026-11-19",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/792",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/46737733f0b0891a719ba2a5775b7c5cda516b1c"
+    },
     {
       "sha": "180283c3f2",
       "message": "[deflake] Wait for valkey-server to accept connections in external server tests (#5055)",

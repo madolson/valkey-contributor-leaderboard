@@ -2,8 +2,8 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 37,
-  "commit_count": 21,
+  "score": 39,
+  "commit_count": 23,
   "review_count": 16,
   "repos": [
     "valkey",
@@ -11,6 +11,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "7861fead77",
+      "message": "Clarify hybrid search and fix link-check (#571)",
+      "date": "2026-11-19",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/571",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/7861fead771e4657a2686adfcc9cd116fc21f1d1"
+    },
+    {
+      "sha": "afaa257b9a",
+      "message": "Add Valkey 9.2 release announcement blog (#746)",
+      "date": "2026-11-19",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/746",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/afaa257b9a50ea16cee24872ccf23a4fa8079d6e"
+    },
     {
       "sha": "5e6ab07802",
       "message": "Update Atomic Slot Migration topic with ACL requirements (#486)",
@@ -181,6 +197,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ecb8ddf5ff",
+      "message": "Update documentation for Valkey 9.2.0 (#568)",
+      "date": "2026-11-19",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/568",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/ecb8ddf5ff31c558c14e5281eb6720f9616e57fc"
+    },
     {
       "sha": "f0e172cc01",
       "message": "docs: fix 'allows to build' grammar in cluster reshard note (#485)",

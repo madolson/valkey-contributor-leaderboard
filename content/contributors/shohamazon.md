@@ -2,13 +2,22 @@
   "title": "shohamazon",
   "login": "shohamazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/116083498?v=4",
-  "score": 314,
-  "commit_count": 134,
+  "score": 315,
+  "commit_count": 135,
   "review_count": 180,
   "repos": [
+    "valkey",
     "valkey-glide"
   ],
   "commit_list": [
+    {
+      "sha": "16debeacec",
+      "message": "Abort dual-channel sync if the primary link breaks while streaming (#5417)",
+      "date": "2026-11-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5417",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/16debeacecfda1c8e468f560209cb76db0d89224"
+    },
     {
       "sha": "c335985bc8",
       "message": "Python: Optimize cache metrics retrieval to be synchronous (#5772) (#5856)",

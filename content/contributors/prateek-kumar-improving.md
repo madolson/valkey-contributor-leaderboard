@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 501,
+  "score": 502,
   "commit_count": 167,
-  "review_count": 334,
+  "review_count": 335,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1351,6 +1351,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b8a6f94544",
+      "message": "refactor(node): default omitted BaseClient configuration and type this.config as non-nullable (#2679) (#7613)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7613",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b8a6f94544dc123da33f9aded226a0b9e855216a"
+    },
     {
       "sha": "11b00ffcdd",
       "message": "ci: bump Valkey 9.2 to rc2 and key the engine cache on commit SHA (#7782)",

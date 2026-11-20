@@ -2,9 +2,9 @@
   "title": "naglera",
   "login": "naglera",
   "avatar_url": "https://avatars.githubusercontent.com/u/58042354?v=4",
-  "score": 43,
+  "score": 44,
   "commit_count": 23,
-  "review_count": 20,
+  "review_count": 21,
   "repos": [
     "valkey",
     "valkey-doc"
@@ -196,6 +196,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "16debeacec",
+      "message": "Abort dual-channel sync if the primary link breaks while streaming (#5417)",
+      "date": "2026-11-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5417",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/16debeacecfda1c8e468f560209cb76db0d89224"
+    },
     {
       "sha": "2937911003",
       "message": "Show replica dual-channel replication buffer memory in INFO MEMORY and MEMORY STATS (#2924)",

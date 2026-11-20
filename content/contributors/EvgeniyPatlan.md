@@ -2,9 +2,9 @@
   "title": "EvgeniyPatlan",
   "login": "EvgeniyPatlan",
   "avatar_url": "https://avatars.githubusercontent.com/u/18436759?v=4",
-  "score": 14,
+  "score": 15,
   "commit_count": 10,
-  "review_count": 4,
+  "review_count": 5,
   "repos": [
     "valkey",
     "valkey-go",
@@ -95,6 +95,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "62f1778788",
+      "message": "Build Linux archives with Zstandard support for 9.2+ (#81)",
+      "date": "2026-11-19",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/81",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/62f1778788644bf55638bf76dcd1566f93675790"
+    },
     {
       "sha": "4b66290e5b",
       "message": "remove Copr builds from packaging workflows",

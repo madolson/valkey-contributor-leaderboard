@@ -2,15 +2,23 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 89,
-  "commit_count": 37,
-  "review_count": 52,
+  "score": 92,
+  "commit_count": 38,
+  "review_count": 54,
   "repos": [
     "valkey",
     "valkey-container",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "c4ca1dcc01",
+      "message": "Close clients leaked by tracking, list and valkey-cli tests (#5501)",
+      "date": "2026-11-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5501",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c4ca1dcc01a862909c5daf0df9e8d45bc2231e06"
+    },
     {
       "sha": "3fc96b1f5f",
       "message": "Fix flaky \"Yielding EVAL caller is not evicted mid-script\" test on slow runners (#5456)",
@@ -316,6 +324,22 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/5366",
       "commit_url": "https://github.com/valkey-io/valkey/commit/6357e3dc4397b966341cc01a5cfbdff95a0932e9"
+    },
+    {
+      "sha": "8c9c4ac355",
+      "message": "Don't resend data to a close_asap client after an IO-thread write (#5468)",
+      "date": "2026-11-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5468",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8c9c4ac355a122773447e833e08c78f89a56d51f"
+    },
+    {
+      "sha": "16debeacec",
+      "message": "Abort dual-channel sync if the primary link breaks while streaming (#5417)",
+      "date": "2026-11-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5417",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/16debeacecfda1c8e468f560209cb76db0d89224"
     },
     {
       "sha": "bc803a45e0",

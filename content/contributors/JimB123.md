@@ -2,14 +2,23 @@
   "title": "JimB123",
   "login": "JimB123",
   "avatar_url": "https://avatars.githubusercontent.com/u/7267136?v=4",
-  "score": 122,
-  "commit_count": 33,
-  "review_count": 89,
+  "score": 124,
+  "commit_count": 34,
+  "review_count": 90,
   "repos": [
     "valkey",
+    "valkey-bundle",
     "valkey-doc"
   ],
   "commit_list": [
+    {
+      "sha": "cad0a86226",
+      "message": "Merge pull request #135 from valkey-io/valkey-bundle-update",
+      "date": "2026-11-19",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/cad0a8622615c3db02881a9d361412ca22c3476e"
+    },
     {
       "sha": "355aeb4710",
       "message": "bgiteration: fix for flush/swap/termination interaction (#5462)",
@@ -276,6 +285,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6c11c7fb22",
+      "message": "Pause rehashing of path hash payloads during background iteration (#5112)",
+      "date": "2026-11-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5112",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6c11c7fb22d207f685ed992d9959cb648e125046"
+    },
+    {
+      "sha": "7a11f57166",
+      "message": "Update alias for valkey version 9.2.0",
+      "date": "2026-11-19",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/7a11f571665f0eec9c553de1679ae59cec5cf61f"
+    },
     {
       "sha": "3fc96b1f5f",
       "message": "Fix flaky \"Yielding EVAL caller is not evicted mid-script\" test on slow runners (#5456)",

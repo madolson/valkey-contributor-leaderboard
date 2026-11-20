@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 376,
-  "commit_count": 146,
-  "review_count": 230,
+  "score": 379,
+  "commit_count": 148,
+  "review_count": 231,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "6bbee9c5c4",
+      "message": "ci: bump Valkey 9.2 to GA (#7799)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7799",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6bbee9c5c4d7ab3f94a6abf064a1329009c94acd"
+    },
+    {
+      "sha": "cd19c7a4fe",
+      "message": "ci: bump Valkey 9.2 to GA (#661)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/661",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/cd19c7a4fe47552f329bd6b4fa7cf7c5b1903345"
+    },
     {
       "sha": "a2353a3090",
       "message": "docs: document PHP logger path validation and false return (#380)",
@@ -1186,6 +1202,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4ecc4ac4a4",
+      "message": "ci: draft release notes per release branch from PR titles (#434)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/434",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/4ecc4ac4a4dc4502e29c7eeabbe94c8e0978cc25"
+    },
     {
       "sha": "11b00ffcdd",
       "message": "ci: bump Valkey 9.2 to rc2 and key the engine cache on commit SHA (#7782)",

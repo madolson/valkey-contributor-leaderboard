@@ -2,10 +2,11 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 94,
+  "score": 96,
   "commit_count": 37,
-  "review_count": 57,
+  "review_count": 59,
   "repos": [
+    "valkey-bundle",
     "valkey-ci-agent",
     "valkey-doc",
     "valkey-perf-benchmark",
@@ -310,6 +311,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cad0a86226",
+      "message": "Merge pull request #135 from valkey-io/valkey-bundle-update",
+      "date": "2026-11-19",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/cad0a8622615c3db02881a9d361412ca22c3476e"
+    },
+    {
+      "sha": "7a11f57166",
+      "message": "Update alias for valkey version 9.2.0",
+      "date": "2026-11-19",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/7a11f571665f0eec9c553de1679ae59cec5cf61f"
+    },
+    {
+      "sha": "42d6c8adb5",
+      "message": "Make OOM integration tests deterministic (#1755)",
+      "date": "2026-11-19",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1755",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/42d6c8adb54193b3dc6834b4efd167d4138557a9"
+    },
     {
       "sha": "8433b8fff1",
       "message": "docs: align 1.3.0 documentation and command JSON with the implementation (#1735)",

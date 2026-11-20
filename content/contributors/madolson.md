@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 1114,
-  "commit_count": 307,
-  "review_count": 807,
+  "score": 1119,
+  "commit_count": 308,
+  "review_count": 811,
   "repos": [
     ".github",
     "assets",
@@ -23,6 +23,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "6c11c7fb22",
+      "message": "Pause rehashing of path hash payloads during background iteration (#5112)",
+      "date": "2026-11-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5112",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6c11c7fb22d207f685ed992d9959cb648e125046"
+    },
     {
       "sha": "bc803a45e0",
       "message": "Close the deferring client leaked by a pause test (#5264)",
@@ -2481,6 +2489,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7861fead77",
+      "message": "Clarify hybrid search and fix link-check (#571)",
+      "date": "2026-11-19",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/571",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/7861fead771e4657a2686adfcc9cd116fc21f1d1"
+    },
+    {
+      "sha": "d82b1b6b8a",
+      "message": "Fix five pages that differ from the server source (#572)",
+      "date": "2026-11-19",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/572",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/d82b1b6b8a88c295ce3659a5e4baa78d5807768c"
+    },
+    {
+      "sha": "46737733f0",
+      "message": "Fix 9.2 release blog and download page accuracy (#792)",
+      "date": "2026-11-19",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/792",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/46737733f0b0891a719ba2a5775b7c5cda516b1c"
+    },
+    {
+      "sha": "afaa257b9a",
+      "message": "Add Valkey 9.2 release announcement blog (#746)",
+      "date": "2026-11-19",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/746",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/afaa257b9a50ea16cee24872ccf23a4fa8079d6e"
+    },
     {
       "sha": "355aeb4710",
       "message": "bgiteration: fix for flush/swap/termination interaction (#5462)",

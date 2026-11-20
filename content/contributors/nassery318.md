@@ -2,13 +2,29 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 163,
-  "commit_count": 120,
-  "review_count": 43,
+  "score": 166,
+  "commit_count": 122,
+  "review_count": 44,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "66801e0f73",
+      "message": "Add a read-only MCP server (#592)",
+      "date": "2026-11-19",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/592",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/66801e0f73104870a162bdb170968dd1898ccb4e"
+    },
+    {
+      "sha": "858e13e6df",
+      "message": "Stop forcing Discovery for hosts containing 'cfg' (#595)",
+      "date": "2026-11-19",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/595",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/858e13e6df6ed6fb9274b3ab3cbdd1e1cc53b5dc"
+    },
     {
       "sha": "0caa751125",
       "message": "Run LFU cluster, default cluster and standalone Valkey from one script (#584)",
@@ -971,6 +987,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "98dba090d3",
+      "message": "docs(connection): add password persistence hint in web mode and docker docs (#564)",
+      "date": "2026-11-19",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/564",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/98dba090d3b2834a4dc470d97efe1066dc1280f0"
+    },
     {
       "sha": "f0114a4177",
       "message": "Update version to 1.3.0 and add documentation. (#588)",

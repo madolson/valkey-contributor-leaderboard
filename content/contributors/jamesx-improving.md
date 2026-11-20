@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 415,
+  "score": 418,
   "commit_count": 87,
-  "review_count": 328,
+  "review_count": 331,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -711,6 +711,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "dde6620eb3",
+      "message": "fix(core): reject writes in read-only standalone pipelines, transactions and scopes (#7761)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7761",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dde6620eb34bcda9aa91854d676964f21301c88e"
+    },
+    {
+      "sha": "3a01a25b62",
+      "message": "fix(python): support trio in AsyncClientPool and async IsolatedScope (#7787)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7787",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3a01a25b62fa4bca0734684f866b54680f8d9d4a"
+    },
+    {
+      "sha": "c40178a7d4",
+      "message": "fix(ffi): run a lazy sync client's first connect on the runtime worker (#7671)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7671",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c40178a7d4a1e66cb25013710e195aa545bd0256"
+    },
     {
       "sha": "9afb6f6f21",
       "message": "chore: add TODOs and cleanup for issues from the Rust 0.10.0 bug bash (#7708)",

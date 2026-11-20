@@ -2,13 +2,21 @@
   "title": "dgershko",
   "login": "dgershko",
   "avatar_url": "https://avatars.githubusercontent.com/u/94839021?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "8c9c4ac355",
+      "message": "Don't resend data to a close_asap client after an IO-thread write (#5468)",
+      "date": "2026-11-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5468",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8c9c4ac355a122773447e833e08c78f89a56d51f"
+    },
     {
       "sha": "dfdea17995",
       "message": "bgiteration: process ITER_CLOSED after items queued behind it (#5326)",

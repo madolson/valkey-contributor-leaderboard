@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 125,
+  "score": 127,
   "commit_count": 43,
-  "review_count": 82,
+  "review_count": 84,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -359,6 +359,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3a01a25b62",
+      "message": "fix(python): support trio in AsyncClientPool and async IsolatedScope (#7787)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7787",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3a01a25b62fa4bca0734684f866b54680f8d9d4a"
+    },
+    {
+      "sha": "72d3a492e1",
+      "message": "feat(rdma): register device memory for RDMA transfers (#7609)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7609",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/72d3a492e1f6537376335a3fc031f100a30c0fb1"
+    },
     {
       "sha": "84e19d6398",
       "message": "chore(ffi): update FFI Miri tests to drop `pin-utils` (RUSTSEC-2026-0441) (#7775)",

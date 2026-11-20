@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 483,
-  "commit_count": 137,
-  "review_count": 346,
+  "score": 490,
+  "commit_count": 141,
+  "review_count": 349,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -25,6 +25,38 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/5366",
       "commit_url": "https://github.com/valkey-io/valkey/commit/6357e3dc4397b966341cc01a5cfbdff95a0932e9"
+    },
+    {
+      "sha": "916f2dd9bd",
+      "message": "Run test failure detector at 06:00 UTC (#172)",
+      "date": "2026-11-19",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/172",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/916f2dd9bd902d84ee8ea151ad3b5fae1dba7fbc"
+    },
+    {
+      "sha": "5b08693a9c",
+      "message": "Build 9.2+ images with Zstandard support (#185)",
+      "date": "2026-11-19",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/185",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/5b08693a9ccdceab70cebb23a806390bc60d629b"
+    },
+    {
+      "sha": "62f1778788",
+      "message": "Build Linux archives with Zstandard support for 9.2+ (#81)",
+      "date": "2026-11-19",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/81",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/62f1778788644bf55638bf76dcd1566f93675790"
+    },
+    {
+      "sha": "fe0b94cc8b",
+      "message": "Make /etc/valkey writable by valkey in 9.2 RPMs so Sentinel starts (#80)",
+      "date": "2026-11-19",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/80",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/fe0b94cc8bf5f0278c7ba91f5c1924919b1c5b72"
     },
     {
       "sha": "839300f942",
@@ -1116,6 +1148,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cad0a86226",
+      "message": "Merge pull request #135 from valkey-io/valkey-bundle-update",
+      "date": "2026-11-19",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/cad0a8622615c3db02881a9d361412ca22c3476e"
+    },
+    {
+      "sha": "7a11f57166",
+      "message": "Update alias for valkey version 9.2.0",
+      "date": "2026-11-19",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/7a11f571665f0eec9c553de1679ae59cec5cf61f"
+    },
+    {
+      "sha": "392cc0291c",
+      "message": "Update to version 9.2.0 (#184)",
+      "date": "2026-11-19",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/184",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/392cc0291c744ab61a4f53d6feac71e22f2fdb0c"
+    },
+    {
+      "sha": "f5942088c9",
+      "message": "Add CONFIG INFO command documentation (#458)",
+      "date": "2026-11-19",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/458",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/f5942088c9664dd5ec3ee491c18bb0a105a700c7"
+    },
+    {
+      "sha": "08d9f1920e",
+      "message": "Add selectable release components (#82)",
+      "date": "2026-11-19",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/82",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/08d9f1920e7464e6ed54bfa7f19815e72b509951"
+    },
     {
       "sha": "bc803a45e0",
       "message": "Close the deferring client leaked by a pause test (#5264)",

@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 144,
+  "score": 146,
   "commit_count": 79,
-  "review_count": 65,
+  "review_count": 67,
   "repos": [
     "valkey-admin"
   ],
@@ -643,6 +643,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "66801e0f73",
+      "message": "Add a read-only MCP server (#592)",
+      "date": "2026-11-19",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/592",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/66801e0f73104870a162bdb170968dd1898ccb4e"
+    },
+    {
+      "sha": "858e13e6df",
+      "message": "Stop forcing Discovery for hosts containing 'cfg' (#595)",
+      "date": "2026-11-19",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/595",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/858e13e6df6ed6fb9274b3ab3cbdd1e1cc53b5dc"
+    },
     {
       "sha": "9efb398076",
       "message": "Federate docs search with other Valkey sites (#586)",

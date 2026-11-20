@@ -2,9 +2,9 @@
   "title": "Nikhil-Manglore",
   "login": "Nikhil-Manglore",
   "avatar_url": "https://avatars.githubusercontent.com/u/46588759?v=4",
-  "score": 257,
+  "score": 258,
   "commit_count": 95,
-  "review_count": 162,
+  "review_count": 163,
   "repos": [
     "valkey",
     "valkey-admin",
@@ -785,6 +785,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cad0a86226",
+      "message": "Merge pull request #135 from valkey-io/valkey-bundle-update",
+      "date": "2026-11-19",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/cad0a8622615c3db02881a9d361412ca22c3476e"
+    },
+    {
+      "sha": "7a11f57166",
+      "message": "Update alias for valkey version 9.2.0",
+      "date": "2026-11-19",
+      "repo": "valkey-bundle",
+      "pr_url": "https://github.com/valkey-io/valkey-bundle/pull/135",
+      "commit_url": "https://github.com/valkey-io/valkey-bundle/commit/7a11f571665f0eec9c553de1679ae59cec5cf61f"
+    },
     {
       "sha": "20585a6049",
       "message": "Automated Updates for Valkey Bundle (#132)",

@@ -2,9 +2,9 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 168,
+  "score": 170,
   "commit_count": 22,
-  "review_count": 146,
+  "review_count": 148,
   "repos": [
     "valkey",
     "valkey-container",
@@ -192,6 +192,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ecb8ddf5ff",
+      "message": "Update documentation for Valkey 9.2.0 (#568)",
+      "date": "2026-11-19",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/568",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/ecb8ddf5ff31c558c14e5281eb6720f9616e57fc"
+    },
+    {
+      "sha": "46737733f0",
+      "message": "Fix 9.2 release blog and download page accuracy (#792)",
+      "date": "2026-11-19",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/792",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/46737733f0b0891a719ba2a5775b7c5cda516b1c"
+    },
+    {
+      "sha": "afaa257b9a",
+      "message": "Add Valkey 9.2 release announcement blog (#746)",
+      "date": "2026-11-19",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/746",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/afaa257b9a50ea16cee24872ccf23a4fa8079d6e"
+    },
+    {
+      "sha": "f657974acd",
+      "message": "Update website for version 9.2.0 (#790)",
+      "date": "2026-11-19",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/790",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f657974acdbcdfc5611ef133ffe0b4fc0d1db9f3"
+    },
     {
       "sha": "a8e233e1c9",
       "message": "Add blog post: Valkey Helm chart 1.0.0 generally available (#752)",

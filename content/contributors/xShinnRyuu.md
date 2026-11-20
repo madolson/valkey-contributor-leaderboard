@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 536,
-  "commit_count": 159,
-  "review_count": 377,
+  "score": 541,
+  "commit_count": 161,
+  "review_count": 380,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "dde6620eb3",
+      "message": "fix(core): reject writes in read-only standalone pipelines, transactions and scopes (#7761)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7761",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/dde6620eb34bcda9aa91854d676964f21301c88e"
+    },
+    {
+      "sha": "c40178a7d4",
+      "message": "fix(ffi): run a lazy sync client's first connect on the runtime worker (#7671)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7671",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c40178a7d4a1e66cb25013710e195aa545bd0256"
+    },
     {
       "sha": "9e9cd2da8f",
       "message": "ci: run client CI when the shared Rust inputs they build change (#7661)",
@@ -1289,6 +1305,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b8a6f94544",
+      "message": "refactor(node): default omitted BaseClient configuration and type this.config as non-nullable (#2679) (#7613)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7613",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b8a6f94544dc123da33f9aded226a0b9e855216a"
+    },
+    {
+      "sha": "6bbee9c5c4",
+      "message": "ci: bump Valkey 9.2 to GA (#7799)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7799",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6bbee9c5c4d7ab3f94a6abf064a1329009c94acd"
+    },
+    {
+      "sha": "cd19c7a4fe",
+      "message": "ci: bump Valkey 9.2 to GA (#661)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/661",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/cd19c7a4fe47552f329bd6b4fa7cf7c5b1903345"
+    },
     {
       "sha": "797c96a0ac",
       "message": "ci: draft release notes per release branch from PR titles (#7770)",

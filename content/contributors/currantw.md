@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 419,
+  "score": 421,
   "commit_count": 240,
-  "review_count": 179,
+  "review_count": 181,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -1937,6 +1937,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6bbee9c5c4",
+      "message": "ci: bump Valkey 9.2 to GA (#7799)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7799",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6bbee9c5c4d7ab3f94a6abf064a1329009c94acd"
+    },
+    {
+      "sha": "cd19c7a4fe",
+      "message": "ci: bump Valkey 9.2 to GA (#661)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/661",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/cd19c7a4fe47552f329bd6b4fa7cf7c5b1903345"
+    },
     {
       "sha": "bea8a7ec79",
       "message": "ci: draft release notes per release branch from PR titles (#655)",

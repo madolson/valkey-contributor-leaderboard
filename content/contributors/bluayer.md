@@ -2,15 +2,24 @@
   "title": "bluayer",
   "login": "bluayer",
   "avatar_url": "https://avatars.githubusercontent.com/u/37579681?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey",
     "valkey-doc",
+    "valkey-glide",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "72d3a492e1",
+      "message": "feat(rdma): register device memory for RDMA transfers (#7609)",
+      "date": "2026-11-19",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7609",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/72d3a492e1f6537376335a3fc031f100a30c0fb1"
+    },
     {
       "sha": "feccde4ad3",
       "message": "fix: guard HNSW prefetches against empty neighbor lists (#1320)",

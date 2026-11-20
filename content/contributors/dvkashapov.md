@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 133,
+  "score": 136,
   "commit_count": 26,
-  "review_count": 107,
+  "review_count": 110,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -224,6 +224,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bf64e2af8e",
+      "message": "Add 9.2 to test matrix",
+      "date": "2026-11-19",
+      "repo": "valkey-lua5.5",
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/35",
+      "commit_url": "https://github.com/valkey-io/valkey-lua5.5/commit/bf64e2af8e56d46d42b8e06f6f8e4e960d1fea95"
+    },
+    {
+      "sha": "ca5e113f6d",
+      "message": "Add 9.2 to test matrix",
+      "date": "2026-11-19",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/88",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/ca5e113f6d623cbcb0a4a28fa5cfe7e3db060196"
+    },
+    {
+      "sha": "4f3e018ff8",
+      "message": "Add 9.2 to test matrix",
+      "date": "2026-11-19",
+      "repo": "valkey-luau",
+      "pr_url": "https://github.com/valkey-io/valkey-luau/pull/36",
+      "commit_url": "https://github.com/valkey-io/valkey-luau/commit/4f3e018ff889799401c00fe377193db722d0bd47"
+    },
     {
       "sha": "79bef3dc76",
       "message": "Bump luau version",

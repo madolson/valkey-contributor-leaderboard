@@ -2,9 +2,9 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 478,
-  "commit_count": 171,
-  "review_count": 307,
+  "score": 482,
+  "commit_count": 172,
+  "review_count": 310,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -21,6 +21,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "08d9f1920e",
+      "message": "Add selectable release components (#82)",
+      "date": "2026-11-19",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/82",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/08d9f1920e7464e6ed54bfa7f19815e72b509951"
+    },
     {
       "sha": "4d34db2799",
       "message": "Use the Valkeyrie bot app token to trigger the valkey-bundle update (#127)",
@@ -1391,6 +1399,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "916f2dd9bd",
+      "message": "Run test failure detector at 06:00 UTC (#172)",
+      "date": "2026-11-19",
+      "repo": "valkey-ci-agent",
+      "pr_url": "https://github.com/valkey-io/valkey-ci-agent/pull/172",
+      "commit_url": "https://github.com/valkey-io/valkey-ci-agent/commit/916f2dd9bd902d84ee8ea151ad3b5fae1dba7fbc"
+    },
+    {
+      "sha": "5b08693a9c",
+      "message": "Build 9.2+ images with Zstandard support (#185)",
+      "date": "2026-11-19",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/185",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/5b08693a9ccdceab70cebb23a806390bc60d629b"
+    },
+    {
+      "sha": "fe0b94cc8b",
+      "message": "Make /etc/valkey writable by valkey in 9.2 RPMs so Sentinel starts (#80)",
+      "date": "2026-11-19",
+      "repo": "valkey-release-automation",
+      "pr_url": "https://github.com/valkey-io/valkey-release-automation/pull/80",
+      "commit_url": "https://github.com/valkey-io/valkey-release-automation/commit/fe0b94cc8bf5f0278c7ba91f5c1924919b1c5b72"
+    },
     {
       "sha": "3e24dcc8db",
       "message": "Update versions.json and Dockerfiles for version 7.2.16 (#179)",

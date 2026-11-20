@@ -2,15 +2,24 @@
   "title": "xdk-amz",
   "login": "xdk-amz",
   "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
-  "score": 13,
-  "commit_count": 7,
-  "review_count": 6,
+  "score": 15,
+  "commit_count": 8,
+  "review_count": 7,
   "repos": [
     "valkey",
+    "valkey-doc",
     "valkey-glide",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "d82b1b6b8a",
+      "message": "Fix five pages that differ from the server source (#572)",
+      "date": "2026-11-19",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/572",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/d82b1b6b8a88c295ce3659a5e4baa78d5807768c"
+    },
     {
       "sha": "ee247dbd4b",
       "message": "[Bug Fix] Fix fast-fail double-counting a NACK voter that later fails (#4655)",
@@ -69,6 +78,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8c9c4ac355",
+      "message": "Don't resend data to a close_asap client after an IO-thread write (#5468)",
+      "date": "2026-11-19",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5468",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/8c9c4ac355a122773447e833e08c78f89a56d51f"
+    },
     {
       "sha": "3fc96b1f5f",
       "message": "Fix flaky \"Yielding EVAL caller is not evicted mid-script\" test on slow runners (#5456)",

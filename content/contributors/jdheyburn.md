@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 215,
-  "commit_count": 75,
-  "review_count": 140,
+  "score": 217,
+  "commit_count": 76,
+  "review_count": 141,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "7de97c2da7",
+      "message": "feat: dial nodes in parallel when scraping cluster state (#656)",
+      "date": "2026-11-19",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/656",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/7de97c2da7a075ab1fe651b7ac191a3aa71ca9dd"
+    },
     {
       "sha": "21be14055b",
       "message": "docs(valkey-resources): limit templated cluster.spec values to free-form strings",
@@ -615,6 +623,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e31e51b343",
+      "message": "feat: do not reconcile a ValkeyNode without a known parent (#632) (#666)",
+      "date": "2026-11-19",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/666",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/e31e51b3435b0f758c53b8c8e67389feda915f40"
+    },
     {
       "sha": "13c5441aac",
       "message": "feat: pause reconciliation with the valkey.io/pause-reconciliation annotation (#564)",

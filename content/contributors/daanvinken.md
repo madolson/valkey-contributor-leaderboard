@@ -2,14 +2,22 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 50,
-  "commit_count": 26,
+  "score": 51,
+  "commit_count": 27,
   "review_count": 24,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "e31e51b343",
+      "message": "feat: do not reconcile a ValkeyNode without a known parent (#632) (#666)",
+      "date": "2026-11-19",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/666",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/e31e51b3435b0f758c53b8c8e67389feda915f40"
+    },
     {
       "sha": "01d6e6d0c5",
       "message": "feat: add spec.replicasPerShard and deprecate spec.replicas (#559) (#590)",

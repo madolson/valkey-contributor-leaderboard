@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 313,
+  "score": 314,
   "commit_count": 139,
-  "review_count": 174,
+  "review_count": 175,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1127,6 +1127,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7de97c2da7",
+      "message": "feat: dial nodes in parallel when scraping cluster state (#656)",
+      "date": "2026-11-19",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/656",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/7de97c2da7a075ab1fe651b7ac191a3aa71ca9dd"
+    },
     {
       "sha": "734f10a710",
       "message": "Release valkey-operator 0.9.0 (#324)",
