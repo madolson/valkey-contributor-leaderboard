@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 311,
+  "score": 312,
   "commit_count": 103,
-  "review_count": 208,
+  "review_count": 209,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -840,6 +840,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cd9823d60f",
+      "message": "feat(build): Add PHP 8.6 support (#464)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/464",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/cd9823d60f4c47cb010b84c98eac71a7ed5ddbfa"
+    },
     {
       "sha": "f1b01a6b54",
       "message": "docs: catch up recently added client features (#369)",

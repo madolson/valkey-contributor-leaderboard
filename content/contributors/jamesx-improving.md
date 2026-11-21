@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 418,
-  "commit_count": 87,
-  "review_count": 331,
+  "score": 423,
+  "commit_count": 88,
+  "review_count": 335,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "b3d9943230",
+      "message": "fix(go): link CoreFoundation on macOS arm64 for Go 1.27 (#7785)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7785",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b3d9943230eb445337073869c343c80c177a8afa"
+    },
     {
       "sha": "7c0bc6552c",
       "message": "Merge pull request #7739 from valkey-io/go/jamesx-fix-7648-strip-lto-bitcode",
@@ -711,6 +719,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9b6bd50dbc",
+      "message": "fix(python): register the sync client's fork hook only after it connects (#7660)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7660",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9b6bd50dbcb4e8db792b398e8e5643dbfc57a1d6"
+    },
+    {
+      "sha": "a5de6299cf",
+      "message": "feat(core): route read-only pipelines using read strategy (#7509)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7509",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a5de6299cf70dc0d72f5686e03e6beff67da5706"
+    },
+    {
+      "sha": "a5de6299cf",
+      "message": "feat(core): route read-only pipelines using read strategy (#7509)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7509",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a5de6299cf70dc0d72f5686e03e6beff67da5706"
+    },
+    {
+      "sha": "45fa0ac727",
+      "message": "fix(core): deliver reconnect errors to cluster callers instead of dropping them (#7737)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7737",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/45fa0ac72781d1595b5eee6814c008e9ee3cf437"
+    },
     {
       "sha": "dde6620eb3",
       "message": "fix(core): reject writes in read-only standalone pipelines, transactions and scopes (#7761)",

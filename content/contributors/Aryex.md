@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 379,
-  "commit_count": 148,
-  "review_count": 231,
+  "score": 382,
+  "commit_count": 150,
+  "review_count": 232,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "a64ef9e3d2",
+      "message": "docs: add Valkey 9.2 to supported engines (#390)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/390",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/a64ef9e3d2e56626898767334a3362d4713efd20"
+    },
+    {
+      "sha": "d955a0426e",
+      "message": "docs(ruby): add Valkey 9.2 to supported engines",
+      "date": "2026-11-20",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/436",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d955a0426eed55bbe321fe1292dda8fd3eaae007"
+    },
     {
       "sha": "6bbee9c5c4",
       "message": "ci: bump Valkey 9.2 to GA (#7799)",
@@ -1202,6 +1218,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b3d9943230",
+      "message": "fix(go): link CoreFoundation on macOS arm64 for Go 1.27 (#7785)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7785",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b3d9943230eb445337073869c343c80c177a8afa"
+    },
     {
       "sha": "4ecc4ac4a4",
       "message": "ci: draft release notes per release branch from PR titles (#434)",

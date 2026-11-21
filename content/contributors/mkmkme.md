@@ -2,9 +2,9 @@
   "title": "mkmkme",
   "login": "mkmkme",
   "avatar_url": "https://avatars.githubusercontent.com/u/4062234?v=4",
-  "score": 136,
+  "score": 137,
   "commit_count": 38,
-  "review_count": 98,
+  "review_count": 99,
   "repos": [
     "libvalkey",
     "libvalkey-py",
@@ -318,6 +318,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "668cd5f0d2",
+      "message": "Accept the new XINFO GROUPS lag in test_xgroup_create_entries_read",
+      "date": "2026-11-20",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/384",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/668cd5f0d22147c65f41aeb062e3117a5eddd9f8"
+    },
     {
       "sha": "3ed4ef2377",
       "message": "build(deps): bump astral-sh/setup-uv from 10.3.0 to 10.3.3",

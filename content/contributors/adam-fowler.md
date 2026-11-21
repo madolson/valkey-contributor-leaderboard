@@ -2,8 +2,8 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 182,
-  "commit_count": 139,
+  "score": 183,
+  "commit_count": 140,
   "review_count": 43,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-swift"
   ],
   "commit_list": [
+    {
+      "sha": "c5553826c3",
+      "message": " Update for valkey-search 1.3.0 (#415)",
+      "date": "2026-11-20",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/415",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/c5553826c33e3493775e83ed857736aabe2d7e94"
+    },
     {
       "sha": "3ba6e68937",
       "message": "Add command changes for valkey-json 1.1 (#418)",

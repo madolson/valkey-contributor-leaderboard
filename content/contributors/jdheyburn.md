@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 217,
-  "commit_count": 76,
-  "review_count": 141,
+  "score": 228,
+  "commit_count": 80,
+  "review_count": 148,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,38 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "d5644bd666",
+      "message": "perf: read only the INFO sections the ValkeyNode controller uses (#681)",
+      "date": "2026-11-20",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/681",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d5644bd666030636f76ec83a2a94c6da009a865d"
+    },
+    {
+      "sha": "13132569f0",
+      "message": "feat: add pre-pr-review agent skill for contributors (#507)",
+      "date": "2026-11-20",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/507",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/13132569f029d03b4053718829a1c82fc9906bbe"
+    },
+    {
+      "sha": "7011ecd55f",
+      "message": "test(e2e): delete a leftover client pod before each cluster access attempt (#685)",
+      "date": "2026-11-20",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/685",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/7011ecd55fd7489c53ccc8f79dc72cf5c5327df3"
+    },
+    {
+      "sha": "38116642e5",
+      "message": "perf: parse only the myself line when reading a ValkeyNode's role (#677)",
+      "date": "2026-11-20",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/677",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/38116642e599c77458d30ebdb00cd9fe40f48e77"
+    },
     {
       "sha": "7de97c2da7",
       "message": "feat: dial nodes in parallel when scraping cluster state (#656)",
@@ -623,6 +655,62 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ff52e55ee0",
+      "message": "fix: stop no-op StatefulSet updates on Kubernetes 1.35+ (#683)",
+      "date": "2026-11-20",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/683",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/ff52e55ee0fed10294ad0a9768cabeaaad26dd2e"
+    },
+    {
+      "sha": "102a3b9469",
+      "message": "perf: read only the INFO sections the cluster-state scrape uses (#658)",
+      "date": "2026-11-20",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/658",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/102a3b9469afe6289c4b5808885051f8a063a1ac"
+    },
+    {
+      "sha": "cc60f30348",
+      "message": "perf: size pooled Valkey client buffers for control-plane use (#659)",
+      "date": "2026-11-20",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/659",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/cc60f30348118e8454d77641c96624cc6376371a"
+    },
+    {
+      "sha": "57bad6c931",
+      "message": "perf: strip managedFields from cached objects (#660)",
+      "date": "2026-11-20",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/660",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/57bad6c9315f200232ed657b7b80097f1fd63da1"
+    },
+    {
+      "sha": "9a2319068f",
+      "message": "fix(controller): gate pod readiness on the initial sync (#552) (#637)",
+      "date": "2026-11-20",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/637",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9a2319068f9f83ff464273e1ba44f70f7024f169"
+    },
+    {
+      "sha": "cac263b02d",
+      "message": "perf: parse CLUSTER NODES with less memory (#665)",
+      "date": "2026-11-20",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/665",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/cac263b02d2384bed07e7112f24eb1d78482e98c"
+    },
+    {
+      "sha": "c8c8cf1d78",
+      "message": "feat: rotate system user passwords without dropping the one in use (#567)",
+      "date": "2026-11-20",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/567",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c8c8cf1d785a8b88f99d35513ffd08e707ca41b6"
+    },
     {
       "sha": "e31e51b343",
       "message": "feat: do not reconcile a ValkeyNode without a known parent (#632) (#666)",

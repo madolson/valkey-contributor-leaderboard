@@ -2,9 +2,9 @@
   "title": "leslie-bq",
   "login": "leslie-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
-  "score": 37,
-  "commit_count": 9,
-  "review_count": 28,
+  "score": 40,
+  "commit_count": 10,
+  "review_count": 30,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "cd9823d60f",
+      "message": "feat(build): Add PHP 8.6 support (#464)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/464",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/cd9823d60f4c47cb010b84c98eac71a7ed5ddbfa"
+    },
     {
       "sha": "1a3503abbf",
       "message": "ci(php): stabilize PHP setup in build-php-wrapper on Ubuntu (#452)",
@@ -86,6 +94,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "60350beba1",
+      "message": "feat(python): support `DELEX` command (#7808)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7808",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/60350beba1f294122486854051e8be6371757cd8"
+    },
+    {
+      "sha": "50fc87a0c8",
+      "message": "fix(core): make numeric formatting and parsing culture-invariant (#663)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/663",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/50fc87a0c846c5ea056bb83a79aeefde2dd7bf5d"
+    },
     {
       "sha": "3c82b85ae6",
       "message": "feat(python): add Python 3.15 support (#7416)",

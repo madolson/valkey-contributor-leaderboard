@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 421,
-  "commit_count": 240,
-  "review_count": 181,
+  "score": 427,
+  "commit_count": 242,
+  "review_count": 185,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -15,6 +15,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "60350beba1",
+      "message": "feat(python): support `DELEX` command (#7808)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7808",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/60350beba1f294122486854051e8be6371757cd8"
+    },
+    {
+      "sha": "50fc87a0c8",
+      "message": "fix(core): make numeric formatting and parsing culture-invariant (#663)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/663",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/50fc87a0c846c5ea056bb83a79aeefde2dd7bf5d"
+    },
     {
       "sha": "9afb6f6f21",
       "message": "chore: add TODOs and cleanup for issues from the Rust 0.10.0 bug bash (#7708)",
@@ -1937,6 +1953,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "462e49fab0",
+      "message": "feat(rust): add HGETDEL and DELIFEQ command support (#7800)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7800",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/462e49fab0efeb33cc3dc3a758ff16b9e0ce8211"
+    },
+    {
+      "sha": "a64ef9e3d2",
+      "message": "docs: add Valkey 9.2 to supported engines (#390)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/390",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/a64ef9e3d2e56626898767334a3362d4713efd20"
+    },
+    {
+      "sha": "d955a0426e",
+      "message": "docs(ruby): add Valkey 9.2 to supported engines",
+      "date": "2026-11-20",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/436",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d955a0426eed55bbe321fe1292dda8fd3eaae007"
+    },
+    {
+      "sha": "d955a0426e",
+      "message": "docs(ruby): add Valkey 9.2 to supported engines",
+      "date": "2026-11-20",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/436",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d955a0426eed55bbe321fe1292dda8fd3eaae007"
+    },
     {
       "sha": "6bbee9c5c4",
       "message": "ci: bump Valkey 9.2 to GA (#7799)",

@@ -2,9 +2,9 @@
   "title": "sarthakaggarwal97",
   "login": "sarthakaggarwal97",
   "avatar_url": "https://avatars.githubusercontent.com/u/25262500?v=4",
-  "score": 490,
+  "score": 491,
   "commit_count": 141,
-  "review_count": 349,
+  "review_count": 350,
   "repos": [
     "valkey",
     "valkey-bundle",
@@ -12,6 +12,7 @@
     "valkey-container",
     "valkey-doc",
     "valkey-fuzzer",
+    "valkey-hashes",
     "valkey-io.github.io",
     "valkey-json",
     "valkey-perf-benchmark",
@@ -1148,6 +1149,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "264e856d12",
+      "message": "Remove superseded hash for Valkey 8.0.4 (#15)",
+      "date": "2026-11-21",
+      "repo": "valkey-hashes",
+      "pr_url": "https://github.com/valkey-io/valkey-hashes/pull/15",
+      "commit_url": "https://github.com/valkey-io/valkey-hashes/commit/264e856d12eaa7b6ae15ba3b991522f1d2d71616"
+    },
     {
       "sha": "cad0a86226",
       "message": "Merge pull request #135 from valkey-io/valkey-bundle-update",

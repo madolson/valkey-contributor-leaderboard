@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 502,
-  "commit_count": 167,
-  "review_count": 335,
+  "score": 504,
+  "commit_count": 168,
+  "review_count": 336,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "462e49fab0",
+      "message": "feat(rust): add HGETDEL and DELIFEQ command support (#7800)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7800",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/462e49fab0efeb33cc3dc3a758ff16b9e0ce8211"
+    },
     {
       "sha": "53ed216c3f",
       "message": "fix(php): fix issues from the rc2 bug bash (#442)",
@@ -1351,6 +1359,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "60350beba1",
+      "message": "feat(python): support `DELEX` command (#7808)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7808",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/60350beba1f294122486854051e8be6371757cd8"
+    },
     {
       "sha": "b8a6f94544",
       "message": "refactor(node): default omitted BaseClient configuration and type this.config as non-nullable (#2679) (#7613)",

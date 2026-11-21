@@ -2,9 +2,9 @@
   "title": "deepakpunjabi",
   "login": "deepakpunjabi",
   "avatar_url": "https://avatars.githubusercontent.com/u/17640076?v=4",
-  "score": 8,
+  "score": 9,
   "commit_count": 7,
-  "review_count": 1,
+  "review_count": 2,
   "repos": [
     "valkey-helm",
     "valkey-operator"
@@ -68,6 +68,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9a2319068f",
+      "message": "fix(controller): gate pod readiness on the initial sync (#552) (#637)",
+      "date": "2026-11-20",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/637",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/9a2319068f9f83ff464273e1ba44f70f7024f169"
+    },
     {
       "sha": "8a253112cb",
       "message": "added metrics auth rbac (#198)",

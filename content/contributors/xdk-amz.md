@@ -2,9 +2,9 @@
   "title": "xdk-amz",
   "login": "xdk-amz",
   "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
-  "score": 15,
+  "score": 16,
   "commit_count": 8,
-  "review_count": 7,
+  "review_count": 8,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -78,6 +78,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ac6691ebf4",
+      "message": "Add data tiering per-commit benchmarking and Grafana dashboard (#98)",
+      "date": "2026-11-21",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/98",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/ac6691ebf4806b2805a997ef74d01a751d7b9912"
+    },
     {
       "sha": "8c9c4ac355",
       "message": "Don't resend data to a close_asap client after an IO-thread write (#5468)",

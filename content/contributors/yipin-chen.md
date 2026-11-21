@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 966,
+  "score": 971,
   "commit_count": 45,
-  "review_count": 921,
+  "review_count": 926,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b3d9943230",
+      "message": "fix(go): link CoreFoundation on macOS arm64 for Go 1.27 (#7785)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7785",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b3d9943230eb445337073869c343c80c177a8afa"
+    },
+    {
+      "sha": "9b6bd50dbc",
+      "message": "fix(python): register the sync client's fork hook only after it connects (#7660)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7660",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9b6bd50dbcb4e8db792b398e8e5643dbfc57a1d6"
+    },
+    {
+      "sha": "462e49fab0",
+      "message": "feat(rust): add HGETDEL and DELIFEQ command support (#7800)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7800",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/462e49fab0efeb33cc3dc3a758ff16b9e0ce8211"
+    },
+    {
+      "sha": "a5de6299cf",
+      "message": "feat(core): route read-only pipelines using read strategy (#7509)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7509",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a5de6299cf70dc0d72f5686e03e6beff67da5706"
+    },
+    {
+      "sha": "d955a0426e",
+      "message": "docs(ruby): add Valkey 9.2 to supported engines",
+      "date": "2026-11-20",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/436",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d955a0426eed55bbe321fe1292dda8fd3eaae007"
+    },
     {
       "sha": "dde6620eb3",
       "message": "fix(core): reject writes in read-only standalone pipelines, transactions and scopes (#7761)",

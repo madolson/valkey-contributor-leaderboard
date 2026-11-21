@@ -2,8 +2,8 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 482,
-  "commit_count": 172,
+  "score": 484,
+  "commit_count": 174,
   "review_count": 310,
   "repos": [
     "valkey",
@@ -21,6 +21,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "264e856d12",
+      "message": "Remove superseded hash for Valkey 8.0.4 (#15)",
+      "date": "2026-11-21",
+      "repo": "valkey-hashes",
+      "pr_url": "https://github.com/valkey-io/valkey-hashes/pull/15",
+      "commit_url": "https://github.com/valkey-io/valkey-hashes/commit/264e856d12eaa7b6ae15ba3b991522f1d2d71616"
+    },
+    {
+      "sha": "ac6691ebf4",
+      "message": "Add data tiering per-commit benchmarking and Grafana dashboard (#98)",
+      "date": "2026-11-21",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/98",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/ac6691ebf4806b2805a997ef74d01a751d7b9912"
+    },
     {
       "sha": "08d9f1920e",
       "message": "Add selectable release components (#82)",

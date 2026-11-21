@@ -2,9 +2,9 @@
   "title": "nilanshu-sharma",
   "login": "nilanshu-sharma",
   "avatar_url": "https://avatars.githubusercontent.com/u/220134298?v=4",
-  "score": 125,
+  "score": 126,
   "commit_count": 15,
-  "review_count": 110,
+  "review_count": 111,
   "repos": [
     "valkey",
     "valkey-swift"
@@ -132,6 +132,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c5553826c3",
+      "message": " Update for valkey-search 1.3.0 (#415)",
+      "date": "2026-11-20",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/415",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/c5553826c33e3493775e83ed857736aabe2d7e94"
+    },
     {
       "sha": "3ba6e68937",
       "message": "Add command changes for valkey-json 1.1 (#418)",

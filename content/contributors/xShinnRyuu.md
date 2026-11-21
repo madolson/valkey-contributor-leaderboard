@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 541,
-  "commit_count": 161,
-  "review_count": 380,
+  "score": 547,
+  "commit_count": 163,
+  "review_count": 384,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "9b6bd50dbc",
+      "message": "fix(python): register the sync client's fork hook only after it connects (#7660)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7660",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/9b6bd50dbcb4e8db792b398e8e5643dbfc57a1d6"
+    },
+    {
+      "sha": "45fa0ac727",
+      "message": "fix(core): deliver reconnect errors to cluster callers instead of dropping them (#7737)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7737",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/45fa0ac72781d1595b5eee6814c008e9ee3cf437"
+    },
     {
       "sha": "dde6620eb3",
       "message": "fix(core): reject writes in read-only standalone pipelines, transactions and scopes (#7761)",
@@ -1305,6 +1321,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8b5b4387fc",
+      "message": "fix(core): release connections when a reconnecting client closes (#7492)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7492",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8b5b4387fc7e45b507d578a916fc2d637327b29f"
+    },
+    {
+      "sha": "a189adf263",
+      "message": "fix(core): flush server-assisted cache when its connection closes (#7493)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7493",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a189adf263e845ed20493239f2c40b5468076631"
+    },
+    {
+      "sha": "d955a0426e",
+      "message": "docs(ruby): add Valkey 9.2 to supported engines",
+      "date": "2026-11-20",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/436",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d955a0426eed55bbe321fe1292dda8fd3eaae007"
+    },
+    {
+      "sha": "d955a0426e",
+      "message": "docs(ruby): add Valkey 9.2 to supported engines",
+      "date": "2026-11-20",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/436",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/d955a0426eed55bbe321fe1292dda8fd3eaae007"
+    },
     {
       "sha": "b8a6f94544",
       "message": "refactor(node): default omitted BaseClient configuration and type this.config as non-nullable (#2679) (#7613)",

@@ -2,9 +2,9 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 51,
+  "score": 53,
   "commit_count": 27,
-  "review_count": 24,
+  "review_count": 26,
   "repos": [
     "valkey-helm",
     "valkey-operator"
@@ -228,6 +228,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c8c8cf1d78",
+      "message": "feat: rotate system user passwords without dropping the one in use (#567)",
+      "date": "2026-11-20",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/567",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c8c8cf1d785a8b88f99d35513ffd08e707ca41b6"
+    },
+    {
+      "sha": "c8c8cf1d78",
+      "message": "feat: rotate system user passwords without dropping the one in use (#567)",
+      "date": "2026-11-20",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/567",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/c8c8cf1d785a8b88f99d35513ffd08e707ca41b6"
+    },
     {
       "sha": "5a5538bc28",
       "message": "Merge pull request #331 from valkey-io/jdheyburn/resources-first-class-values",

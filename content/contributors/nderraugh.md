@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 127,
+  "score": 131,
   "commit_count": 43,
-  "review_count": 84,
+  "review_count": 88,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -359,6 +359,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8b5b4387fc",
+      "message": "fix(core): release connections when a reconnecting client closes (#7492)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7492",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/8b5b4387fc7e45b507d578a916fc2d637327b29f"
+    },
+    {
+      "sha": "a189adf263",
+      "message": "fix(core): flush server-assisted cache when its connection closes (#7493)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7493",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a189adf263e845ed20493239f2c40b5468076631"
+    },
+    {
+      "sha": "45fa0ac727",
+      "message": "fix(core): deliver reconnect errors to cluster callers instead of dropping them (#7737)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7737",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/45fa0ac72781d1595b5eee6814c008e9ee3cf437"
+    },
+    {
+      "sha": "50fc87a0c8",
+      "message": "fix(core): make numeric formatting and parsing culture-invariant (#663)",
+      "date": "2026-11-20",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/663",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/50fc87a0c846c5ea056bb83a79aeefde2dd7bf5d"
+    },
     {
       "sha": "3a01a25b62",
       "message": "fix(python): support trio in AsyncClientPool and async IsolatedScope (#7787)",

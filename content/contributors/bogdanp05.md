@@ -2,9 +2,9 @@
   "title": "bogdanp05",
   "login": "bogdanp05",
   "avatar_url": "https://avatars.githubusercontent.com/u/7281856?v=4",
-  "score": 72,
-  "commit_count": 10,
-  "review_count": 62,
+  "score": 74,
+  "commit_count": 11,
+  "review_count": 63,
   "repos": [
     "libvalkey-py",
     "one-time-for-planet",
@@ -14,6 +14,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "668cd5f0d2",
+      "message": "Accept the new XINFO GROUPS lag in test_xgroup_create_entries_read",
+      "date": "2026-11-20",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/384",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/668cd5f0d22147c65f41aeb062e3117a5eddd9f8"
+    },
     {
       "sha": "b7cd0cfbad",
       "message": "Merge pull request #2 from valkey-io/bogdanp05/oci_valkey",
@@ -96,6 +104,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2dd65b14e3",
+      "message": "Run the CLIENT UNBLOCK test on standalone servers only",
+      "date": "2026-11-20",
+      "repo": "valkey-py",
+      "pr_url": "https://github.com/valkey-io/valkey-py/pull/367",
+      "commit_url": "https://github.com/valkey-io/valkey-py/commit/2dd65b14e33c44f70202f66efb22eeec80cd4014"
+    },
     {
       "sha": "7f0ba208d9",
       "message": "build(deps): bump pypa/cibuildwheel from 4.3.1 to 4.3.5 (#94)",
