@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 423,
+  "score": 424,
   "commit_count": 88,
-  "review_count": 335,
+  "review_count": 336,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -719,6 +719,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a1254189b1",
+      "message": "refactor(core): use `#[repr(u32)]` for enums passed over FFI (#7820)",
+      "date": "2026-11-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7820",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a1254189b1f8830a665de851c543543ae01c6dbb"
+    },
     {
       "sha": "9b6bd50dbc",
       "message": "fix(python): register the sync client's fork hook only after it connects (#7660)",

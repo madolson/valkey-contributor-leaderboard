@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 171,
+  "score": 172,
   "commit_count": 47,
-  "review_count": 124,
+  "review_count": 125,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -390,6 +390,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "688431a2b6",
+      "message": "CI: fix clang-tidy crashing on every file in the thread-safety check (#1733)",
+      "date": "2026-11-21",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1733",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/688431a2b6a036ddbaf86ed0db681604f9ee6aa2"
+    },
     {
       "sha": "8433b8fff1",
       "message": "docs: align 1.3.0 documentation and command JSON with the implementation (#1735)",

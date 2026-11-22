@@ -2,8 +2,8 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 92,
-  "commit_count": 38,
+  "score": 93,
+  "commit_count": 39,
   "review_count": 54,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "80bb13e2a8",
+      "message": "Fix flaky dual-channel mid-stream abort test under valgrind (#5526)",
+      "date": "2026-11-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5526",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/80bb13e2a82b331512af2175a7f1117c313e4db2"
+    },
     {
       "sha": "c4ca1dcc01",
       "message": "Close clients leaked by tracking, list and valkey-cli tests (#5501)",

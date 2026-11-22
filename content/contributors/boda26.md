@@ -2,9 +2,9 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 97,
+  "score": 98,
   "commit_count": 58,
-  "review_count": 39,
+  "review_count": 40,
   "repos": [
     "valkey-search"
   ],
@@ -475,6 +475,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d46a7541c0",
+      "message": "Make the cluster compatibility generator work on Docker Desktop (#1655)",
+      "date": "2026-11-22",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1655",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d46a7541c03b9514e377c5dab70911c69b2f57a1"
+    },
     {
       "sha": "ab8e70a222",
       "message": "docs: add a scoring topic page (#1506)",

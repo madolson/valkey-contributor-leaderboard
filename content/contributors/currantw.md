@@ -2,8 +2,8 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 427,
-  "commit_count": 242,
+  "score": 428,
+  "commit_count": 243,
   "review_count": 185,
   "repos": [
     "valkey-doc",
@@ -15,6 +15,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "a1254189b1",
+      "message": "refactor(core): use `#[repr(u32)]` for enums passed over FFI (#7820)",
+      "date": "2026-11-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7820",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a1254189b1f8830a665de851c543543ae01c6dbb"
+    },
     {
       "sha": "60350beba1",
       "message": "feat(python): support `DELEX` command (#7808)",

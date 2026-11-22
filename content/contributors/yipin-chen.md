@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 971,
+  "score": 972,
   "commit_count": 45,
-  "review_count": 926,
+  "review_count": 927,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a1254189b1",
+      "message": "refactor(core): use `#[repr(u32)]` for enums passed over FFI (#7820)",
+      "date": "2026-11-21",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7820",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a1254189b1f8830a665de851c543543ae01c6dbb"
+    },
     {
       "sha": "b3d9943230",
       "message": "fix(go): link CoreFoundation on macOS arm64 for Go 1.27 (#7785)",

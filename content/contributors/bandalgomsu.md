@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 35,
-  "commit_count": 35,
+  "score": 36,
+  "commit_count": 36,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "d46a7541c0",
+      "message": "Make the cluster compatibility generator work on Docker Desktop (#1655)",
+      "date": "2026-11-22",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1655",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d46a7541c03b9514e377c5dab70911c69b2f57a1"
+    },
     {
       "sha": "df7de891b0",
       "message": "Document EXEC IFEQ, IFNE, NX and XX conditions (#532)",

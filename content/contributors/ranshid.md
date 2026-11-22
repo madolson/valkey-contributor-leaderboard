@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 338,
+  "score": 339,
   "commit_count": 97,
-  "review_count": 241,
+  "review_count": 242,
   "repos": [
     "valkey",
     "valkey-container",
@@ -795,6 +795,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "80bb13e2a8",
+      "message": "Fix flaky dual-channel mid-stream abort test under valgrind (#5526)",
+      "date": "2026-11-21",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5526",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/80bb13e2a82b331512af2175a7f1117c313e4db2"
+    },
     {
       "sha": "c4ca1dcc01",
       "message": "Close clients leaked by tracking, list and valkey-cli tests (#5501)",

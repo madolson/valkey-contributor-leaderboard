@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 371,
-  "commit_count": 103,
-  "review_count": 268,
+  "score": 374,
+  "commit_count": 105,
+  "review_count": 269,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "688431a2b6",
+      "message": "CI: fix clang-tidy crashing on every file in the thread-safety check (#1733)",
+      "date": "2026-11-21",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1733",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/688431a2b6a036ddbaf86ed0db681604f9ee6aa2"
+    },
+    {
+      "sha": "fb06e2a116",
+      "message": "test: verify pre-1.3 behavior is preserved at search.emulate-release 1.2.0 (#1754)",
+      "date": "2026-11-21",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1754",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/fb06e2a116cdbb70bb1e923b0bc24f57a452877c"
+    },
     {
       "sha": "8433b8fff1",
       "message": "docs: align 1.3.0 documentation and command JSON with the implementation (#1735)",
@@ -839,6 +855,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "d46a7541c0",
+      "message": "Make the cluster compatibility generator work on Docker Desktop (#1655)",
+      "date": "2026-11-22",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1655",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/d46a7541c03b9514e377c5dab70911c69b2f57a1"
+    },
     {
       "sha": "5a464d2c95",
       "message": "valkey-search 1.3.0 GA doc update (#519)",

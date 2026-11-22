@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 96,
+  "score": 97,
   "commit_count": 37,
-  "review_count": 59,
+  "review_count": 60,
   "repos": [
     "valkey-bundle",
     "valkey-ci-agent",
@@ -311,6 +311,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "fb06e2a116",
+      "message": "test: verify pre-1.3 behavior is preserved at search.emulate-release 1.2.0 (#1754)",
+      "date": "2026-11-21",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1754",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/fb06e2a116cdbb70bb1e923b0bc24f57a452877c"
+    },
     {
       "sha": "cad0a86226",
       "message": "Merge pull request #135 from valkey-io/valkey-bundle-update",
