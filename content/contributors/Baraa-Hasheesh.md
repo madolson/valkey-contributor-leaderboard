@@ -2,8 +2,8 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 93,
-  "commit_count": 39,
+  "score": 95,
+  "commit_count": 41,
   "review_count": 54,
   "repos": [
     "valkey",
@@ -11,6 +11,22 @@
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "28ef86b443",
+      "message": "Ignore replica claims that would close a replicaof cycle (#5452)",
+      "date": "2026-11-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5452",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/28ef86b44342797ba1512b623b279287eaf979ba"
+    },
+    {
+      "sha": "c28334e47b",
+      "message": "Zero module key handle so CloseKey is safe after Call changes key type (#5358)",
+      "date": "2026-11-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5358",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c28334e47b7d83b845593750d05bd5f046fa68e1"
+    },
     {
       "sha": "80bb13e2a8",
       "message": "Fix flaky dual-channel mid-stream abort test under valgrind (#5526)",

@@ -219509,6 +219509,130 @@
         }
       ],
       "pr_url": "https://github.com/valkey-io/valkey-search/pull/1754"
+    },
+    {
+      "sha": "28ef86b44342797ba1512b623b279287eaf979ba",
+      "author_login": "Baraa-Hasheesh",
+      "author_id": 202973079,
+      "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
+      "message": "Ignore replica claims that would close a replicaof cycle (#5452)",
+      "date": "2026-11-23T02:33:46Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "xdk-amz",
+          "date": "2026-11-18T04:40:03Z"
+        },
+        {
+          "login": "enjoy-binbin",
+          "date": "2026-11-23T02:30:20Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5452"
+    },
+    {
+      "sha": "c28334e47b7d83b845593750d05bd5f046fa68e1",
+      "author_login": "Baraa-Hasheesh",
+      "author_id": 202973079,
+      "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
+      "message": "Zero module key handle so CloseKey is safe after Call changes key type (#5358)",
+      "date": "2026-11-22T19:15:36Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-11-19T21:21:14Z"
+        },
+        {
+          "login": "xdk-amz",
+          "date": "2026-11-19T21:53:08Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5358"
+    },
+    {
+      "sha": "d683f33e0afbcf828e6d799d8a1b6e27875a9c4f",
+      "author_login": "pirate329",
+      "author_id": 95901729,
+      "avatar_url": "https://avatars.githubusercontent.com/u/95901729?v=4",
+      "message": "Use shortest score format in ZSCAN replies (#5097)",
+      "date": "2026-11-22T17:40:23Z",
+      "repo": "valkey",
+      "reviewed": [
+        {
+          "login": "rainsupreme",
+          "date": "2026-11-22T16:29:10Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5097"
+    },
+    {
+      "sha": "b9aeeb1d1dd85f8089c204791c8c473e4ff82fd6",
+      "author_login": "PerryLink",
+      "author_id": 255665900,
+      "avatar_url": "https://avatars.githubusercontent.com/u/255665900?v=4",
+      "message": "docs: drop the outdated Google Cloud Memorystore caching note (#230)",
+      "date": "2026-11-22T07:19:11Z",
+      "repo": "valkey-go",
+      "reviewed": [
+        {
+          "login": "rueian",
+          "date": "2026-11-22T07:18:43Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/230"
+    },
+    {
+      "sha": "deebfcb1806e051a017ceb376c0528c8f92895e8",
+      "author_login": "bandalgomsu",
+      "author_id": 121839239,
+      "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
+      "message": "Implement Index Default Timeout (#936)",
+      "date": "2026-11-23T05:13:19Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "allenss-amazon",
+          "date": "2026-11-23T05:13:02Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/936"
+    },
+    {
+      "sha": "ca892ce7c731e9127bcfaf36ce8985e9305a91f0",
+      "author_login": "allenss-amazon",
+      "author_id": 179737276,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
+      "message": "ci: speed up CI with right-sized ccache, cache pruning, and macOS caching (#1759)",
+      "date": "2026-11-23T04:25:41Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "mohanrajendran",
+          "date": "2026-11-23T01:02:46Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1759"
+    },
+    {
+      "sha": "ab2ac3b7a4e352116da6f33f36129365ae0e1b69",
+      "author_login": "bandalgomsu",
+      "author_id": 121839239,
+      "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
+      "message": "Add REGEX filter to FT._LIST (#864)",
+      "date": "2026-11-23T04:25:09Z",
+      "repo": "valkey-search",
+      "reviewed": [
+        {
+          "login": "mohanrajendran",
+          "date": "2026-08-13T22:11:54Z"
+        },
+        {
+          "login": "allenss-amazon",
+          "date": "2026-11-23T04:25:00Z"
+        }
+      ],
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/864"
     }
   ]
 }

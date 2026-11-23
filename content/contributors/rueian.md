@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 76,
+  "score": 77,
   "commit_count": 9,
-  "review_count": 67,
+  "review_count": 68,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b9aeeb1d1d",
+      "message": "docs: drop the outdated Google Cloud Memorystore caching note (#230)",
+      "date": "2026-11-22",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/230",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/b9aeeb1d1dd85f8089c204791c8c473e4ff82fd6"
+    },
     {
       "sha": "f5c6d2b9b7",
       "message": "feat(valkeygcp): add IAM authentication for Memorystore for Valkey (#215)",

@@ -2,9 +2,9 @@
   "title": "mohanrajendran",
   "login": "mohanrajendran",
   "avatar_url": "https://avatars.githubusercontent.com/u/4929558?v=4",
-  "score": 34,
+  "score": 36,
   "commit_count": 15,
-  "review_count": 19,
+  "review_count": 21,
   "repos": [
     "valkey-json",
     "valkey-search"
@@ -132,6 +132,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ca892ce7c7",
+      "message": "ci: speed up CI with right-sized ccache, cache pruning, and macOS caching (#1759)",
+      "date": "2026-11-23",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1759",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ca892ce7c731e9127bcfaf36ce8985e9305a91f0"
+    },
+    {
+      "sha": "ab2ac3b7a4",
+      "message": "Add REGEX filter to FT._LIST (#864)",
+      "date": "2026-11-23",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/864",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ab2ac3b7a4e352116da6f33f36129365ae0e1b69"
+    },
     {
       "sha": "57ae2bcfff",
       "message": "Implement metric to CPU consumption for remote query (#923)",

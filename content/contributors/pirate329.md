@@ -2,13 +2,21 @@
   "title": "pirate329",
   "login": "pirate329",
   "avatar_url": "https://avatars.githubusercontent.com/u/95901729?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "d683f33e0a",
+      "message": "Use shortest score format in ZSCAN replies (#5097)",
+      "date": "2026-11-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5097",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d683f33e0afbcf828e6d799d8a1b6e27875a9c4f"
+    },
     {
       "sha": "734bca3977",
       "message": "Retry creating the nodes.conf folder in cluster misc tests (#5026)",

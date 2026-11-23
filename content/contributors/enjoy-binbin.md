@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 1046,
+  "score": 1047,
   "commit_count": 400,
-  "review_count": 646,
+  "review_count": 647,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3216,6 +3216,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "28ef86b443",
+      "message": "Ignore replica claims that would close a replicaof cycle (#5452)",
+      "date": "2026-11-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5452",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/28ef86b44342797ba1512b623b279287eaf979ba"
+    },
     {
       "sha": "3fc96b1f5f",
       "message": "Fix flaky \"Yielding EVAL caller is not evicted mid-script\" test on slow runners (#5456)",

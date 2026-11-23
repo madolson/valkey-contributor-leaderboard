@@ -2,9 +2,9 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 374,
-  "commit_count": 105,
-  "review_count": 269,
+  "score": 377,
+  "commit_count": 106,
+  "review_count": 271,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "ca892ce7c7",
+      "message": "ci: speed up CI with right-sized ccache, cache pruning, and macOS caching (#1759)",
+      "date": "2026-11-23",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1759",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ca892ce7c731e9127bcfaf36ce8985e9305a91f0"
+    },
     {
       "sha": "688431a2b6",
       "message": "CI: fix clang-tidy crashing on every file in the thread-safety check (#1733)",
@@ -855,6 +863,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "deebfcb180",
+      "message": "Implement Index Default Timeout (#936)",
+      "date": "2026-11-23",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/936",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/deebfcb1806e051a017ceb376c0528c8f92895e8"
+    },
+    {
+      "sha": "ab2ac3b7a4",
+      "message": "Add REGEX filter to FT._LIST (#864)",
+      "date": "2026-11-23",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/864",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ab2ac3b7a4e352116da6f33f36129365ae0e1b69"
+    },
     {
       "sha": "d46a7541c0",
       "message": "Make the cluster compatibility generator work on Docker Desktop (#1655)",

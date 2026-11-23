@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 228,
+  "score": 230,
   "commit_count": 52,
-  "review_count": 176,
+  "review_count": 178,
   "repos": [
     "valkey",
     "valkey-container",
@@ -432,6 +432,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c28334e47b",
+      "message": "Zero module key handle so CloseKey is safe after Call changes key type (#5358)",
+      "date": "2026-11-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5358",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c28334e47b7d83b845593750d05bd5f046fa68e1"
+    },
+    {
+      "sha": "d683f33e0a",
+      "message": "Use shortest score format in ZSCAN replies (#5097)",
+      "date": "2026-11-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5097",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/d683f33e0afbcf828e6d799d8a1b6e27875a9c4f"
+    },
     {
       "sha": "6357e3dc43",
       "message": "Fix double mutex unlock when shrinking IO threads (#5366)",

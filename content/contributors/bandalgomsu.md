@@ -2,8 +2,8 @@
   "title": "bandalgomsu",
   "login": "bandalgomsu",
   "avatar_url": "https://avatars.githubusercontent.com/u/121839239?v=4",
-  "score": 36,
-  "commit_count": 36,
+  "score": 38,
+  "commit_count": 38,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,22 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "deebfcb180",
+      "message": "Implement Index Default Timeout (#936)",
+      "date": "2026-11-23",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/936",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/deebfcb1806e051a017ceb376c0528c8f92895e8"
+    },
+    {
+      "sha": "ab2ac3b7a4",
+      "message": "Add REGEX filter to FT._LIST (#864)",
+      "date": "2026-11-23",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/864",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/ab2ac3b7a4e352116da6f33f36129365ae0e1b69"
+    },
     {
       "sha": "d46a7541c0",
       "message": "Make the cluster compatibility generator work on Docker Desktop (#1655)",

@@ -2,9 +2,9 @@
   "title": "xdk-amz",
   "login": "xdk-amz",
   "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
-  "score": 16,
+  "score": 18,
   "commit_count": 8,
-  "review_count": 8,
+  "review_count": 10,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -78,6 +78,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "28ef86b443",
+      "message": "Ignore replica claims that would close a replicaof cycle (#5452)",
+      "date": "2026-11-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5452",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/28ef86b44342797ba1512b623b279287eaf979ba"
+    },
+    {
+      "sha": "c28334e47b",
+      "message": "Zero module key handle so CloseKey is safe after Call changes key type (#5358)",
+      "date": "2026-11-22",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5358",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c28334e47b7d83b845593750d05bd5f046fa68e1"
+    },
     {
       "sha": "ac6691ebf4",
       "message": "Add data tiering per-commit benchmarking and Grafana dashboard (#98)",

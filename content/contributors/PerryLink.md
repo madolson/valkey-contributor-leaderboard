@@ -2,13 +2,21 @@
   "title": "PerryLink",
   "login": "PerryLink",
   "avatar_url": "https://avatars.githubusercontent.com/u/255665900?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-go"
   ],
   "commit_list": [
+    {
+      "sha": "b9aeeb1d1d",
+      "message": "docs: drop the outdated Google Cloud Memorystore caching note (#230)",
+      "date": "2026-11-22",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/230",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/b9aeeb1d1dd85f8089c204791c8c473e4ff82fd6"
+    },
     {
       "sha": "9e20d6f07c",
       "message": "fix: send MIGRATE and CLIENT PAUSE timeouts in milliseconds (#214)",
