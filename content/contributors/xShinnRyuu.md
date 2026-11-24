@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 547,
-  "commit_count": 163,
-  "review_count": 384,
+  "score": 550,
+  "commit_count": 165,
+  "review_count": 385,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "b097678fed",
+      "message": "test(python): run the scoped Unix socket test on trio (#7841)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7841",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b097678fed6985b6c445d451291ac1cb24141673"
+    },
+    {
+      "sha": "cd7c5c98f2",
+      "message": "fix: bump url to 2.5.9 in every lockfile (RUSTSEC-2026-0592) (#7838)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7838",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cd7c5c98f2a86158b259893133e60500e8965154"
+    },
     {
       "sha": "9b6bd50dbc",
       "message": "fix(python): register the sync client's fork hook only after it connects (#7660)",
@@ -1321,6 +1337,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "97ac2dd4ad",
+      "message": "fix(core, python): make pools and scopes work in forked children (#7805)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7805",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97ac2dd4ad00d4f2500d258262c60b94f97f4992"
+    },
+    {
+      "sha": "e0fc2294bd",
+      "message": "chore(deps): bump actions/setup-java from 6.2.0 to 6.3.0 in the minor-updates group (#668)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/668",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e0fc2294bdac29d9292e448ffd8bc1529437108b"
+    },
+    {
+      "sha": "69bcdb9ccd",
+      "message": "chore(deps): bump the patch-updates group with 2 updates (#666)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/666",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/69bcdb9ccd03d9ee84b63325fa2b267eb07451a4"
+    },
+    {
+      "sha": "107ec476cb",
+      "message": "fix(deps): bump `valkey-glide` to `cd7c5c9` and url to `2.5.9` (RUSTSEC-2026-0592) (#670)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/670",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/107ec476cbe1a294431cc9f2f887f2d96f55ac23"
+    },
     {
       "sha": "8b5b4387fc",
       "message": "fix(core): release connections when a reconnecting client closes (#7492)",

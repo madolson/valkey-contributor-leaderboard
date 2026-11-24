@@ -2,8 +2,8 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 484,
-  "commit_count": 174,
+  "score": 485,
+  "commit_count": 175,
   "review_count": 310,
   "repos": [
     "valkey",
@@ -21,6 +21,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "b5c423aa88",
+      "message": "Fix cluster bus self-forget use-after-free (#4675)",
+      "date": "2026-11-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4675",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b5c423aa88103554ca2a7b0cdd971d6e5290f600"
+    },
     {
       "sha": "264e856d12",
       "message": "Remove superseded hash for Valkey 8.0.4 (#15)",

@@ -2,9 +2,9 @@
   "title": "hpatro",
   "login": "hpatro",
   "avatar_url": "https://avatars.githubusercontent.com/u/30795839?v=4",
-  "score": 313,
+  "score": 314,
   "commit_count": 67,
-  "review_count": 246,
+  "review_count": 247,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -555,6 +555,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b5c423aa88",
+      "message": "Fix cluster bus self-forget use-after-free (#4675)",
+      "date": "2026-11-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4675",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b5c423aa88103554ca2a7b0cdd971d6e5290f600"
+    },
     {
       "sha": "838999bd52",
       "message": "Document the design doc process and restructure patch submission (#5062)",

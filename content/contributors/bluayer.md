@@ -2,8 +2,8 @@
   "title": "bluayer",
   "login": "bluayer",
   "avatar_url": "https://avatars.githubusercontent.com/u/37579681?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 5,
+  "commit_count": 5,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "bb916c664e",
+      "message": "feat(rdma): add fabric groups and shared regions (#7587)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7587",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bb916c664eb587cd7202a7c1321d7cceb6c4b75b"
+    },
     {
       "sha": "72d3a492e1",
       "message": "feat(rdma): register device memory for RDMA transfers (#7609)",

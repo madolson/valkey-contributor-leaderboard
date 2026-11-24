@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 131,
+  "score": 132,
   "commit_count": 43,
-  "review_count": 88,
+  "review_count": 89,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -359,6 +359,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bb916c664e",
+      "message": "feat(rdma): add fabric groups and shared regions (#7587)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7587",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bb916c664eb587cd7202a7c1321d7cceb6c4b75b"
+    },
     {
       "sha": "8b5b4387fc",
       "message": "fix(core): release connections when a reconnecting client closes (#7492)",

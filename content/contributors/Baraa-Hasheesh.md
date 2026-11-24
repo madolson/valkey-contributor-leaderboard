@@ -2,8 +2,8 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 95,
-  "commit_count": 41,
+  "score": 96,
+  "commit_count": 42,
   "review_count": 54,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "5b16df2e55",
+      "message": "Refuse to load a replicaof cycle from nodes.conf (#5556)",
+      "date": "2026-11-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5556",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5b16df2e55e3ab5e530085fd6fec312bf55f1b99"
+    },
     {
       "sha": "28ef86b443",
       "message": "Ignore replica claims that would close a replicaof cycle (#5452)",

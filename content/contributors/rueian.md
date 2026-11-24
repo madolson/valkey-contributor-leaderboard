@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 77,
+  "score": 78,
   "commit_count": 9,
-  "review_count": 68,
+  "review_count": 69,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "da4bbc1b82",
+      "message": "fix(valkeygcp): keep the discovery endpoint refresh when other cluster settings are set (#222)",
+      "date": "2026-11-23",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/222",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/da4bbc1b821bb6f11226cf79644e2a7eecb09b21"
+    },
     {
       "sha": "b9aeeb1d1d",
       "message": "docs: drop the outdated Google Cloud Memorystore caching note (#230)",

@@ -359,6 +359,22 @@
   ],
   "review_list": [
     {
+      "sha": "5dc1e47b20",
+      "message": "Bump deps/luajit from `63c8f1a` to `96f7b29`",
+      "date": "2026-11-23",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/90",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/5dc1e47b207f91f7f3249b8dd9b1d6f9aee44c52"
+    },
+    {
+      "sha": "edb8868e2a",
+      "message": "Bump github/codeql-action from 4.39.3 to 4.39.4",
+      "date": "2026-11-23",
+      "repo": "valkey-luajit",
+      "pr_url": "https://github.com/valkey-io/valkey-luajit/pull/89",
+      "commit_url": "https://github.com/valkey-io/valkey-luajit/commit/edb8868e2a2415f9aa02574377f0b68d8651d9df"
+    },
+    {
       "sha": "4bb8f5178c",
       "message": "Bump deps/luajit from `c4b1e2f` to `63c8f1a`",
       "date": "2026-11-16",

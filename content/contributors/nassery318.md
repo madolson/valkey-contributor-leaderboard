@@ -2,9 +2,9 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 166,
+  "score": 167,
   "commit_count": 122,
-  "review_count": 44,
+  "review_count": 45,
   "repos": [
     "valkey-admin"
   ],
@@ -987,6 +987,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "e00fea01b9",
+      "message": "OTel Metrics Export from Valkey Admin Collectors (#594)",
+      "date": "2026-11-23",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/594",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/e00fea01b9e7e13872aefa03effd627c854fbc2a"
+    },
     {
       "sha": "98dba090d3",
       "message": "docs(connection): add password persistence hint in web mode and docker docs (#564)",

@@ -2950,5 +2950,13 @@
   "tdameh-amazon": {
     "name": "Taher Dameh",
     "company": ""
+  },
+  "gkorland": {
+    "name": "Guy Korland",
+    "company": "FalkorDB"
+  },
+  "mschuwalow": {
+    "name": "Maxim Schuwalow",
+    "company": "LiveIntent"
   }
 }

@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 428,
+  "score": 429,
   "commit_count": 243,
-  "review_count": 185,
+  "review_count": 186,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -1961,6 +1961,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b097678fed",
+      "message": "test(python): run the scoped Unix socket test on trio (#7841)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7841",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b097678fed6985b6c445d451291ac1cb24141673"
+    },
+    {
+      "sha": "e0fc2294bd",
+      "message": "chore(deps): bump actions/setup-java from 6.2.0 to 6.3.0 in the minor-updates group (#668)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/668",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/e0fc2294bdac29d9292e448ffd8bc1529437108b"
+    },
+    {
+      "sha": "69bcdb9ccd",
+      "message": "chore(deps): bump the patch-updates group with 2 updates (#666)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/666",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/69bcdb9ccd03d9ee84b63325fa2b267eb07451a4"
+    },
+    {
+      "sha": "107ec476cb",
+      "message": "fix(deps): bump `valkey-glide` to `cd7c5c9` and url to `2.5.9` (RUSTSEC-2026-0592) (#670)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/670",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/107ec476cbe1a294431cc9f2f887f2d96f55ac23"
+    },
     {
       "sha": "462e49fab0",
       "message": "feat(rust): add HGETDEL and DELIFEQ command support (#7800)",

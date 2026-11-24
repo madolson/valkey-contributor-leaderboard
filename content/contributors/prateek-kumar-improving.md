@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 504,
+  "score": 505,
   "commit_count": 168,
-  "review_count": 336,
+  "review_count": 337,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1359,6 +1359,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "64bb96c7e4",
+      "message": "ci(deps): bump actions/setup-java from 6.1.0 to 6.3.0 (#466)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/466",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/64bb96c7e4ff566ddaaf3a1d4cc5c8fcabea229c"
+    },
+    {
+      "sha": "b8b53e40dc",
+      "message": "ci(deps): bump peter-evans/create-pull-request from 8.1.2 to 8.1.3 (#467)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/467",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/b8b53e40dcb357b2ffbf6156e25b7495fd9e965f"
+    },
+    {
+      "sha": "24546a1bfd",
+      "message": "test(php): cover the PHPRedis-style connection parameters (#456)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/456",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/24546a1bfdffda3139a016457193e86557415674"
+    },
     {
       "sha": "60350beba1",
       "message": "feat(python): support `DELEX` command (#7808)",

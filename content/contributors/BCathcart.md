@@ -2,9 +2,9 @@
   "title": "BCathcart",
   "login": "BCathcart",
   "avatar_url": "https://avatars.githubusercontent.com/u/31714723?v=4",
-  "score": 172,
+  "score": 173,
   "commit_count": 47,
-  "review_count": 125,
+  "review_count": 126,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -390,6 +390,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a386f70600",
+      "message": "Embed ThreadMonitor in ThreadPool::Thread to avoid allocation on worker startup (#1763)",
+      "date": "2026-11-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1763",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a386f70600141c5d4959d6c54db84bb88ab3c412"
+    },
     {
       "sha": "688431a2b6",
       "message": "CI: fix clang-tidy crashing on every file in the thread-safety check (#1733)",

@@ -2,13 +2,21 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 146,
-  "commit_count": 79,
+  "score": 147,
+  "commit_count": 80,
   "review_count": 67,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "e00fea01b9",
+      "message": "OTel Metrics Export from Valkey Admin Collectors (#594)",
+      "date": "2026-11-23",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/594",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/e00fea01b9e7e13872aefa03effd627c854fbc2a"
+    },
     {
       "sha": "f0114a4177",
       "message": "Update version to 1.3.0 and add documentation. (#588)",

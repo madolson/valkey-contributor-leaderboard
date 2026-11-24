@@ -2,13 +2,21 @@
   "title": "praveenc7",
   "login": "praveenc7",
   "avatar_url": "https://avatars.githubusercontent.com/u/180790988?v=4",
-  "score": 2,
-  "commit_count": 2,
+  "score": 3,
+  "commit_count": 3,
   "review_count": 0,
   "repos": [
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "528b502f83",
+      "message": "feat!: name operator-owned Secrets valkey-<cluster>-<purpose> (#661)",
+      "date": "2026-11-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/661",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/528b502f8318ab35a04270ded1efcedfafe67d94"
+    },
     {
       "sha": "9a2319068f",
       "message": "fix(controller): gate pod readiness on the initial sync (#552) (#637)",

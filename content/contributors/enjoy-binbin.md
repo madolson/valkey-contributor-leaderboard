@@ -2,9 +2,9 @@
   "title": "enjoy-binbin",
   "login": "enjoy-binbin",
   "avatar_url": "https://avatars.githubusercontent.com/u/22811481?v=4",
-  "score": 1047,
+  "score": 1048,
   "commit_count": 400,
-  "review_count": 647,
+  "review_count": 648,
   "repos": [
     "valkey",
     "valkey-bloom",
@@ -3216,6 +3216,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "5b16df2e55",
+      "message": "Refuse to load a replicaof cycle from nodes.conf (#5556)",
+      "date": "2026-11-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5556",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/5b16df2e55e3ab5e530085fd6fec312bf55f1b99"
+    },
     {
       "sha": "28ef86b443",
       "message": "Ignore replica claims that would close a replicaof cycle (#5452)",

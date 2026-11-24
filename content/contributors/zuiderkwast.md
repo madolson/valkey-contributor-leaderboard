@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1336,
+  "score": 1339,
   "commit_count": 161,
-  "review_count": 1175,
+  "review_count": 1178,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1310,6 +1310,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b5c423aa88",
+      "message": "Fix cluster bus self-forget use-after-free (#4675)",
+      "date": "2026-11-23",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4675",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b5c423aa88103554ca2a7b0cdd971d6e5290f600"
+    },
+    {
+      "sha": "272629be97",
+      "message": "Put the docs menu above the content on phones and add previous/next topic links (#773)",
+      "date": "2026-11-23",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/773",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/272629be97c665291af9094e7a40d80e2393c4e1"
+    },
+    {
+      "sha": "3acee276de",
+      "message": "Give the download pages their own menu (#774)",
+      "date": "2026-11-23",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/774",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/3acee276de6ddcc0e051edeb0249bf58d537ac34"
+    },
     {
       "sha": "06cded9e4f",
       "message": "Support system jemalloc with MALLOC=system-jemalloc (#4439)",

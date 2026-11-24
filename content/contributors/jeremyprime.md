@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 347,
-  "commit_count": 107,
-  "review_count": 240,
+  "score": 351,
+  "commit_count": 108,
+  "review_count": 243,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -14,6 +14,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "97ac2dd4ad",
+      "message": "fix(core, python): make pools and scopes work in forked children (#7805)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7805",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97ac2dd4ad00d4f2500d258262c60b94f97f4992"
+    },
     {
       "sha": "3a01a25b62",
       "message": "fix(python): support trio in AsyncClientPool and async IsolatedScope (#7787)",
@@ -872,6 +880,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "97f658ebc4",
+      "message": "perf(core): use atomics for telemetry instead of shared lock (#7497)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7497",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97f658ebc45e33e3385b5aab060b52d5d3112752"
+    },
+    {
+      "sha": "b097678fed",
+      "message": "test(python): run the scoped Unix socket test on trio (#7841)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7841",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b097678fed6985b6c445d451291ac1cb24141673"
+    },
+    {
+      "sha": "cd7c5c98f2",
+      "message": "fix: bump url to 2.5.9 in every lockfile (RUSTSEC-2026-0592) (#7838)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7838",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cd7c5c98f2a86158b259893133e60500e8965154"
+    },
     {
       "sha": "11b00ffcdd",
       "message": "ci: bump Valkey 9.2 to rc2 and key the engine cache on commit SHA (#7782)",

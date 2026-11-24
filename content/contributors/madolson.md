@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 1119,
-  "commit_count": 308,
-  "review_count": 811,
+  "score": 1123,
+  "commit_count": 311,
+  "review_count": 812,
   "repos": [
     ".github",
     "assets",
@@ -23,6 +23,30 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "272629be97",
+      "message": "Put the docs menu above the content on phones and add previous/next topic links (#773)",
+      "date": "2026-11-23",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/773",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/272629be97c665291af9094e7a40d80e2393c4e1"
+    },
+    {
+      "sha": "3acee276de",
+      "message": "Give the download pages their own menu (#774)",
+      "date": "2026-11-23",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/774",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/3acee276de6ddcc0e051edeb0249bf58d537ac34"
+    },
+    {
+      "sha": "82cf7ba473",
+      "message": "Recategorize the FalkorDB 6.2 post as a Community Highlight (#799)",
+      "date": "2026-11-23",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/799",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/82cf7ba473c5590816faf1bd963c0baa61cef595"
+    },
     {
       "sha": "6c11c7fb22",
       "message": "Pause rehashing of path hash payloads during background iteration (#5112)",
@@ -2489,6 +2513,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "f1ee2f1f31",
+      "message": "Add FalkorDB to the Valkey participant list (#794)",
+      "date": "2026-11-23",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/794",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f1ee2f1f3137ef26970ace20fdd346ac0609ca82"
+    },
     {
       "sha": "7861fead77",
       "message": "Clarify hybrid search and fix link-check (#571)",

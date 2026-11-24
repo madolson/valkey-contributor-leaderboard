@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 228,
-  "commit_count": 80,
-  "review_count": 148,
+  "score": 233,
+  "commit_count": 83,
+  "review_count": 150,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,30 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "84b09f1a21",
+      "message": "feat: require sharedConfigMapName and stop making a scripts ConfigMap per node (#674)",
+      "date": "2026-11-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/674",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/84b09f1a21faec69777af0dd3052f9c6ca812815"
+    },
+    {
+      "sha": "bdd081d64f",
+      "message": "feat: roll ValkeyNodes on a pinned config revision (#669)",
+      "date": "2026-11-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/669",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/bdd081d64f3dd43cbe507809bfc8230999dce738"
+    },
+    {
+      "sha": "29f5881b56",
+      "message": "feat: record the live config a ValkeyNode last applied (#668)",
+      "date": "2026-11-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/668",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/29f5881b56673482090dc8cde02188f2ffc14a64"
+    },
     {
       "sha": "d5644bd666",
       "message": "perf: read only the INFO sections the ValkeyNode controller uses (#681)",
@@ -655,6 +679,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a1034088b4",
+      "message": "fix: wait for PodReady before marking the cluster ready (#687)",
+      "date": "2026-11-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/687",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a1034088b4a3f8ad4973672d38940aad07b01626"
+    },
+    {
+      "sha": "528b502f83",
+      "message": "feat!: name operator-owned Secrets valkey-<cluster>-<purpose> (#661)",
+      "date": "2026-11-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/661",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/528b502f8318ab35a04270ded1efcedfafe67d94"
+    },
     {
       "sha": "ff52e55ee0",
       "message": "fix: stop no-op StatefulSet updates on Kubernetes 1.35+ (#683)",

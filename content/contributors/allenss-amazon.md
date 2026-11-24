@@ -2,8 +2,8 @@
   "title": "allenss-amazon",
   "login": "allenss-amazon",
   "avatar_url": "https://avatars.githubusercontent.com/u/179737276?v=4",
-  "score": 377,
-  "commit_count": 106,
+  "score": 378,
+  "commit_count": 107,
   "review_count": 271,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "a386f70600",
+      "message": "Embed ThreadMonitor in ThreadPool::Thread to avoid allocation on worker startup (#1763)",
+      "date": "2026-11-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1763",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a386f70600141c5d4959d6c54db84bb88ab3c412"
+    },
     {
       "sha": "ca892ce7c7",
       "message": "ci: speed up CI with right-sized ccache, cache pruning, and macOS caching (#1759)",

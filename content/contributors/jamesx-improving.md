@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 424,
+  "score": 426,
   "commit_count": 88,
-  "review_count": 336,
+  "review_count": 338,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -719,6 +719,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bb916c664e",
+      "message": "feat(rdma): add fabric groups and shared regions (#7587)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7587",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bb916c664eb587cd7202a7c1321d7cceb6c4b75b"
+    },
+    {
+      "sha": "97ac2dd4ad",
+      "message": "fix(core, python): make pools and scopes work in forked children (#7805)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7805",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97ac2dd4ad00d4f2500d258262c60b94f97f4992"
+    },
     {
       "sha": "a1254189b1",
       "message": "refactor(core): use `#[repr(u32)]` for enums passed over FFI (#7820)",

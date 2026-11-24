@@ -2,8 +2,8 @@
   "title": "melancholictheory",
   "login": "melancholictheory",
   "avatar_url": "https://avatars.githubusercontent.com/u/61789920?v=4",
-  "score": 24,
-  "commit_count": 23,
+  "score": 25,
+  "commit_count": 24,
   "review_count": 1,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "a1034088b4",
+      "message": "fix: wait for PodReady before marking the cluster ready (#687)",
+      "date": "2026-11-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/687",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/a1034088b4a3f8ad4973672d38940aad07b01626"
+    },
     {
       "sha": "13c5441aac",
       "message": "feat: pause reconciliation with the valkey.io/pause-reconciliation annotation (#564)",

@@ -2,9 +2,9 @@
   "title": "leslie-bq",
   "login": "leslie-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
-  "score": 40,
+  "score": 42,
   "commit_count": 10,
-  "review_count": 30,
+  "review_count": 32,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -94,6 +94,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "97f658ebc4",
+      "message": "perf(core): use atomics for telemetry instead of shared lock (#7497)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7497",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/97f658ebc45e33e3385b5aab060b52d5d3112752"
+    },
+    {
+      "sha": "24546a1bfd",
+      "message": "test(php): cover the PHPRedis-style connection parameters (#456)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/456",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/24546a1bfdffda3139a016457193e86557415674"
+    },
     {
       "sha": "60350beba1",
       "message": "feat(python): support `DELEX` command (#7808)",

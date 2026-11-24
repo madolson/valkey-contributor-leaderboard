@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 972,
+  "score": 973,
   "commit_count": 45,
-  "review_count": 927,
+  "review_count": 928,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "cd7c5c98f2",
+      "message": "fix: bump url to 2.5.9 in every lockfile (RUSTSEC-2026-0592) (#7838)",
+      "date": "2026-11-23",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7838",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/cd7c5c98f2a86158b259893133e60500e8965154"
+    },
     {
       "sha": "a1254189b1",
       "message": "refactor(core): use `#[repr(u32)]` for enums passed over FFI (#7820)",

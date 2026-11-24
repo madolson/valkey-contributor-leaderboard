@@ -2,9 +2,9 @@
   "title": "Frank-Gu-81",
   "login": "Frank-Gu-81",
   "avatar_url": "https://avatars.githubusercontent.com/u/93494304?v=4",
-  "score": 97,
+  "score": 98,
   "commit_count": 37,
-  "review_count": 60,
+  "review_count": 61,
   "repos": [
     "valkey-bundle",
     "valkey-ci-agent",
@@ -311,6 +311,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "a386f70600",
+      "message": "Embed ThreadMonitor in ThreadPool::Thread to avoid allocation on worker startup (#1763)",
+      "date": "2026-11-24",
+      "repo": "valkey-search",
+      "pr_url": "https://github.com/valkey-io/valkey-search/pull/1763",
+      "commit_url": "https://github.com/valkey-io/valkey-search/commit/a386f70600141c5d4959d6c54db84bb88ab3c412"
+    },
     {
       "sha": "fb06e2a116",
       "message": "test: verify pre-1.3 behavior is preserved at search.emulate-release 1.2.0 (#1754)",

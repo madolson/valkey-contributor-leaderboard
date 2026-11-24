@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 323,
+  "score": 326,
   "commit_count": 144,
-  "review_count": 179,
+  "review_count": 182,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1167,6 +1167,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "84b09f1a21",
+      "message": "feat: require sharedConfigMapName and stop making a scripts ConfigMap per node (#674)",
+      "date": "2026-11-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/674",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/84b09f1a21faec69777af0dd3052f9c6ca812815"
+    },
+    {
+      "sha": "bdd081d64f",
+      "message": "feat: roll ValkeyNodes on a pinned config revision (#669)",
+      "date": "2026-11-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/669",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/bdd081d64f3dd43cbe507809bfc8230999dce738"
+    },
+    {
+      "sha": "29f5881b56",
+      "message": "feat: record the live config a ValkeyNode last applied (#668)",
+      "date": "2026-11-23",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/668",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/29f5881b56673482090dc8cde02188f2ffc14a64"
+    },
     {
       "sha": "d5644bd666",
       "message": "perf: read only the INFO sections the ValkeyNode controller uses (#681)",

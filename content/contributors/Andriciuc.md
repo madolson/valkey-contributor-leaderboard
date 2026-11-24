@@ -2,9 +2,9 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 39,
+  "score": 40,
   "commit_count": 23,
-  "review_count": 16,
+  "review_count": 17,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -197,6 +197,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "272629be97",
+      "message": "Put the docs menu above the content on phones and add previous/next topic links (#773)",
+      "date": "2026-11-23",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/773",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/272629be97c665291af9094e7a40d80e2393c4e1"
+    },
     {
       "sha": "ecb8ddf5ff",
       "message": "Update documentation for Valkey 9.2.0 (#568)",
