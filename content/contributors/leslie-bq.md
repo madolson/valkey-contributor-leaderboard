@@ -2,8 +2,8 @@
   "title": "leslie-bq",
   "login": "leslie-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
-  "score": 42,
-  "commit_count": 10,
+  "score": 43,
+  "commit_count": 11,
   "review_count": 32,
   "repos": [
     "valkey-glide",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "494da9ac79",
+      "message": "fix(php): test and document SET IFEQ rejection under compression (#459)",
+      "date": "2026-11-24",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/459",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/494da9ac79d395de4c75c761558964c9a22903ca"
+    },
     {
       "sha": "cd9823d60f",
       "message": "feat(build): Add PHP 8.6 support (#464)",

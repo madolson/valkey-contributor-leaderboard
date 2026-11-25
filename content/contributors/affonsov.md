@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 312,
+  "score": 313,
   "commit_count": 103,
-  "review_count": 209,
+  "review_count": 210,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -840,6 +840,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3b08fe2976",
+      "message": "feat(node): valkey-search 1.3 stable surface (#7378)",
+      "date": "2026-11-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7378",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3b08fe297664595c336efbc1754018ac187f532f"
+    },
     {
       "sha": "cd9823d60f",
       "message": "feat(build): Add PHP 8.6 support (#464)",

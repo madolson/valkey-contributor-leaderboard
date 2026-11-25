@@ -1962,6 +1962,14 @@
   ],
   "review_list": [
     {
+      "sha": "8885f15d60",
+      "message": "Bump the minor-updates group with 3 updates (#669)",
+      "date": "2026-11-24",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/669",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8885f15d60ea03211fc596044cf3b2f7fcc7322c"
+    },
+    {
       "sha": "b097678fed",
       "message": "test(python): run the scoped Unix socket test on trio (#7841)",
       "date": "2026-11-23",

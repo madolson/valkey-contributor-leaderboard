@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 147,
+  "score": 150,
   "commit_count": 80,
-  "review_count": 67,
+  "review_count": 70,
   "repos": [
     "valkey-admin"
   ],
@@ -651,6 +651,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "9400984d11",
+      "message": "fix(connection): Reset the retry count after a standalone reconnect (#598)",
+      "date": "2026-11-24",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/598",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/9400984d11113a4c5ebde0106a8e3fb09561f715"
+    },
+    {
+      "sha": "dba3f42163",
+      "message": "fix(key-browser): use defaultConnectionState.totalKeys as fallback in selectTotalKeys (#597)",
+      "date": "2026-11-24",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/597",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/dba3f421637d9f9fcd39fae375b8da1033ef1812"
+    },
+    {
+      "sha": "97c7b108da",
+      "message": "fix(common): Show TB and PB in formatBytes instead of undefined (#596)",
+      "date": "2026-11-24",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/596",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/97c7b108da5fb1f11b640bf5d6579d708c8db3a1"
+    },
     {
       "sha": "66801e0f73",
       "message": "Add a read-only MCP server (#592)",

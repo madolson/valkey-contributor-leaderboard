@@ -2,9 +2,9 @@
   "title": "gkorland",
   "login": "gkorland",
   "avatar_url": "https://avatars.githubusercontent.com/u/753206?v=4",
-  "score": 3,
+  "score": 4,
   "commit_count": 3,
-  "review_count": 0,
+  "review_count": 1,
   "repos": [
     "valkey-io.github.io"
   ],
@@ -34,5 +34,14 @@
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/f1ee2f1f3137ef26970ace20fdd346ac0609ca82"
     }
   ],
-  "review_list": []
+  "review_list": [
+    {
+      "sha": "fed4b24af5",
+      "message": "adds Guy Korland's photo to bio (#800)",
+      "date": "2026-11-24",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/800",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/fed4b24af53be5c46d2117b857322f8544b8cafb"
+    }
+  ]
 }

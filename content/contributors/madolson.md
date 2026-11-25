@@ -2,8 +2,8 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 1123,
-  "commit_count": 311,
+  "score": 1124,
+  "commit_count": 312,
   "review_count": 812,
   "repos": [
     ".github",
@@ -23,6 +23,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "74b97e40dd",
+      "message": "Describe what each Valkey 9.2 highlight does for users (#801)",
+      "date": "2026-11-25",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/801",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/74b97e40ddba74c830092a006be1300bf2085001"
+    },
     {
       "sha": "272629be97",
       "message": "Put the docs menu above the content on phones and add previous/next topic links (#773)",

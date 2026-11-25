@@ -2,14 +2,22 @@
   "title": "RajGahoi",
   "login": "RajGahoi",
   "avatar_url": "https://avatars.githubusercontent.com/u/191273099?v=4",
-  "score": 3,
-  "commit_count": 3,
+  "score": 4,
+  "commit_count": 4,
   "review_count": 0,
   "repos": [
     "valkey-admin",
     "valkey-glide"
   ],
   "commit_list": [
+    {
+      "sha": "dba3f42163",
+      "message": "fix(key-browser): use defaultConnectionState.totalKeys as fallback in selectTotalKeys (#597)",
+      "date": "2026-11-24",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/597",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/dba3f421637d9f9fcd39fae375b8da1033ef1812"
+    },
     {
       "sha": "98dba090d3",
       "message": "docs(connection): add password persistence hint in web mode and docker docs (#564)",

@@ -2,9 +2,9 @@
   "title": "deepakpunjabi",
   "login": "deepakpunjabi",
   "avatar_url": "https://avatars.githubusercontent.com/u/17640076?v=4",
-  "score": 9,
+  "score": 10,
   "commit_count": 7,
-  "review_count": 2,
+  "review_count": 3,
   "repos": [
     "valkey-helm",
     "valkey-operator"
@@ -68,6 +68,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2d7a957e47",
+      "message": "feat(valkey-operator): grant the manager get and patch on pods/status (#339)",
+      "date": "2026-11-24",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/339",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/2d7a957e47468df751ed596ae9d474ac7b89a925"
+    },
     {
       "sha": "9a2319068f",
       "message": "fix(controller): gate pod readiness on the initial sync (#552) (#637)",

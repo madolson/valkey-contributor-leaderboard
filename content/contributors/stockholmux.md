@@ -2,8 +2,8 @@
   "title": "stockholmux",
   "login": "stockholmux",
   "avatar_url": "https://avatars.githubusercontent.com/u/1152927?v=4",
-  "score": 171,
-  "commit_count": 22,
+  "score": 172,
+  "commit_count": 23,
   "review_count": 149,
   "repos": [
     "valkey",
@@ -14,6 +14,14 @@
     "valkey-proxy"
   ],
   "commit_list": [
+    {
+      "sha": "fed4b24af5",
+      "message": "adds Guy Korland's photo to bio (#800)",
+      "date": "2026-11-24",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/800",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/fed4b24af53be5c46d2117b857322f8544b8cafb"
+    },
     {
       "sha": "888c79deae",
       "message": "Adds a deprecation notice to command list (#308)",

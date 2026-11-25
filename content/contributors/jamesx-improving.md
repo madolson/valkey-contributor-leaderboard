@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 426,
+  "score": 429,
   "commit_count": 88,
-  "review_count": 338,
+  "review_count": 341,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -719,6 +719,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3b08fe2976",
+      "message": "feat(node): valkey-search 1.3 stable surface (#7378)",
+      "date": "2026-11-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7378",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3b08fe297664595c336efbc1754018ac187f532f"
+    },
+    {
+      "sha": "3b08fe2976",
+      "message": "feat(node): valkey-search 1.3 stable surface (#7378)",
+      "date": "2026-11-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7378",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3b08fe297664595c336efbc1754018ac187f532f"
+    },
+    {
+      "sha": "2308b2e276",
+      "message": "fix(core,python,go): trim the client availability zone and reject a whitespace-only one (#7788)",
+      "date": "2026-11-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7788",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2308b2e2764a01d89631dfc5a81fb50f4c429a11"
+    },
     {
       "sha": "bb916c664e",
       "message": "feat(rdma): add fabric groups and shared regions (#7587)",

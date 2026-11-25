@@ -2,8 +2,8 @@
   "title": "Jonathan-Improving",
   "login": "Jonathan-Improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
-  "score": 20,
-  "commit_count": 9,
+  "score": 21,
+  "commit_count": 10,
   "review_count": 11,
   "repos": [
     "valkey-developer-resources",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "3b08fe2976",
+      "message": "feat(node): valkey-search 1.3 stable surface (#7378)",
+      "date": "2026-11-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7378",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3b08fe297664595c336efbc1754018ac187f532f"
+    },
     {
       "sha": "b973be0d66",
       "message": "feat(go): valkey-search 1.3 stable surface (#7380)",

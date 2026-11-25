@@ -359,6 +359,30 @@
   ],
   "review_list": [
     {
+      "sha": "4342dc83ff",
+      "message": "Bump github/codeql-action from 4.39.3 to 4.39.4",
+      "date": "2026-11-24",
+      "repo": "valkey-lua5.5",
+      "pr_url": "https://github.com/valkey-io/valkey-lua5.5/pull/36",
+      "commit_url": "https://github.com/valkey-io/valkey-lua5.5/commit/4342dc83ffc030bc7c70bcb4e8067ac37db6e5b2"
+    },
+    {
+      "sha": "3fcb5e03e5",
+      "message": "Bump deps/luau from `c87565b` to `3d91c9d`",
+      "date": "2026-11-24",
+      "repo": "valkey-luau",
+      "pr_url": "https://github.com/valkey-io/valkey-luau/pull/37",
+      "commit_url": "https://github.com/valkey-io/valkey-luau/commit/3fcb5e03e55f443b89f8cd24e8e20170d5c1b8a2"
+    },
+    {
+      "sha": "63cb5017b6",
+      "message": "Bump github/codeql-action from 4.39.3 to 4.39.4",
+      "date": "2026-11-24",
+      "repo": "valkey-luau",
+      "pr_url": "https://github.com/valkey-io/valkey-luau/pull/38",
+      "commit_url": "https://github.com/valkey-io/valkey-luau/commit/63cb5017b6d991af85c3643346e19f81f02367e4"
+    },
+    {
       "sha": "5dc1e47b20",
       "message": "Bump deps/luajit from `63c8f1a` to `96f7b29`",
       "date": "2026-11-23",

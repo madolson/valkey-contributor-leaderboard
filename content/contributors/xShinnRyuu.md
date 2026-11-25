@@ -2,8 +2,8 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 550,
-  "commit_count": 165,
+  "score": 551,
+  "commit_count": 166,
   "review_count": 385,
   "repos": [
     ".github",
@@ -15,6 +15,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "2308b2e276",
+      "message": "fix(core,python,go): trim the client availability zone and reject a whitespace-only one (#7788)",
+      "date": "2026-11-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7788",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2308b2e2764a01d89631dfc5a81fb50f4c429a11"
+    },
     {
       "sha": "b097678fed",
       "message": "test(python): run the scoped Unix socket test on trio (#7841)",
@@ -1337,6 +1345,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "8885f15d60",
+      "message": "Bump the minor-updates group with 3 updates (#669)",
+      "date": "2026-11-24",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/669",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/8885f15d60ea03211fc596044cf3b2f7fcc7322c"
+    },
     {
       "sha": "97ac2dd4ad",
       "message": "fix(core, python): make pools and scopes work in forked children (#7805)",

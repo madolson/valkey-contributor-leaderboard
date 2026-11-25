@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 339,
+  "score": 342,
   "commit_count": 97,
-  "review_count": 242,
+  "review_count": 245,
   "repos": [
     "valkey",
     "valkey-container",
@@ -795,6 +795,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "38e5b3aefd",
+      "message": "Fix double free of the key iterator on AOF rewrite write error (#5584)",
+      "date": "2026-11-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5584",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/38e5b3aefdc0cea0bd2ff855360ff452a647997a"
+    },
+    {
+      "sha": "c2c9f9f728",
+      "message": "Fix assertion crash in processIOThreadsReadDone when DONT_PARSE client has stale argc (#3245)",
+      "date": "2026-11-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3245",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c2c9f9f72861b244814106f949e180334b601aff"
+    },
+    {
+      "sha": "bd169bc177",
+      "message": "Iterate only created databases instead of all configured databases (#5334)",
+      "date": "2026-11-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5334",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bd169bc17797d73a7141ddbd112e0c8a77e5f529"
+    },
     {
       "sha": "80bb13e2a8",
       "message": "Fix flaky dual-channel mid-stream abort test under valgrind (#5526)",

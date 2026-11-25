@@ -2,9 +2,9 @@
   "title": "Bloodraven21",
   "login": "Bloodraven21",
   "avatar_url": "https://avatars.githubusercontent.com/u/60031755?v=4",
-  "score": 32,
+  "score": 33,
   "commit_count": 11,
-  "review_count": 21,
+  "review_count": 22,
   "repos": [
     "valkey-helm"
   ],
@@ -99,6 +99,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2d7a957e47",
+      "message": "feat(valkey-operator): grant the manager get and patch on pods/status (#339)",
+      "date": "2026-11-24",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/339",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/2d7a957e47468df751ed596ae9d474ac7b89a925"
+    },
     {
       "sha": "21be14055b",
       "message": "docs(valkey-resources): limit templated cluster.spec values to free-form strings",

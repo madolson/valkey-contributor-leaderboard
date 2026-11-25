@@ -2,14 +2,22 @@
   "title": "aradz44",
   "login": "aradz44",
   "avatar_url": "https://avatars.githubusercontent.com/u/112960166?v=4",
-  "score": 8,
-  "commit_count": 8,
+  "score": 9,
+  "commit_count": 9,
   "review_count": 0,
   "repos": [
     "valkey",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "c2c9f9f728",
+      "message": "Fix assertion crash in processIOThreadsReadDone when DONT_PARSE client has stale argc (#3245)",
+      "date": "2026-11-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/3245",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/c2c9f9f72861b244814106f949e180334b601aff"
+    },
     {
       "sha": "e19ceb7a6d",
       "message": "deflake \"Hash field TTL and active expiry propagates correctly\" (#2856)",

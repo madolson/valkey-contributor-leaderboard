@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 973,
+  "score": 975,
   "commit_count": 45,
-  "review_count": 928,
+  "review_count": 930,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2308b2e276",
+      "message": "fix(core,python,go): trim the client availability zone and reject a whitespace-only one (#7788)",
+      "date": "2026-11-24",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7788",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2308b2e2764a01d89631dfc5a81fb50f4c429a11"
+    },
+    {
+      "sha": "494da9ac79",
+      "message": "fix(php): test and document SET IFEQ rejection under compression (#459)",
+      "date": "2026-11-24",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/459",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/494da9ac79d395de4c75c761558964c9a22903ca"
+    },
     {
       "sha": "cd7c5c98f2",
       "message": "fix: bump url to 2.5.9 in every lockfile (RUSTSEC-2026-0592) (#7838)",

@@ -2,9 +2,9 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 96,
-  "commit_count": 42,
-  "review_count": 54,
+  "score": 98,
+  "commit_count": 43,
+  "review_count": 55,
   "repos": [
     "valkey",
     "valkey-container",
@@ -18,6 +18,14 @@
       "repo": "valkey",
       "pr_url": "https://github.com/valkey-io/valkey/pull/5556",
       "commit_url": "https://github.com/valkey-io/valkey/commit/5b16df2e55e3ab5e530085fd6fec312bf55f1b99"
+    },
+    {
+      "sha": "38e5b3aefd",
+      "message": "Fix double free of the key iterator on AOF rewrite write error (#5584)",
+      "date": "2026-11-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5584",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/38e5b3aefdc0cea0bd2ff855360ff452a647997a"
     },
     {
       "sha": "28ef86b443",
@@ -349,6 +357,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bd169bc177",
+      "message": "Iterate only created databases instead of all configured databases (#5334)",
+      "date": "2026-11-24",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5334",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/bd169bc17797d73a7141ddbd112e0c8a77e5f529"
+    },
     {
       "sha": "6357e3dc43",
       "message": "Fix double mutex unlock when shrinking IO threads (#5366)",

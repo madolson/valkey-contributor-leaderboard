@@ -2,8 +2,8 @@
   "title": "adam-fowler",
   "login": "adam-fowler",
   "avatar_url": "https://avatars.githubusercontent.com/u/9382567?v=4",
-  "score": 183,
-  "commit_count": 140,
+  "score": 184,
+  "commit_count": 141,
   "review_count": 43,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-swift"
   ],
   "commit_list": [
+    {
+      "sha": "6478a928ac",
+      "message": "Use ValkeySentinelClient to provide sentinel support to ValkeyClient (#412)",
+      "date": "2026-11-25",
+      "repo": "valkey-swift",
+      "pr_url": "https://github.com/valkey-io/valkey-swift/pull/412",
+      "commit_url": "https://github.com/valkey-io/valkey-swift/commit/6478a928ac3cd204d82f0e734af4f3435b35f426"
+    },
     {
       "sha": "c5553826c3",
       "message": " Update for valkey-search 1.3.0 (#415)",

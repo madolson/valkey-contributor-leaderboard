@@ -2,9 +2,9 @@
   "title": "VoletiRam",
   "login": "VoletiRam",
   "avatar_url": "https://avatars.githubusercontent.com/u/90425341?v=4",
-  "score": 65,
+  "score": 66,
   "commit_count": 25,
-  "review_count": 40,
+  "review_count": 41,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -215,6 +215,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "99aa23923f",
+      "message": "Clean cluster config files only after nodes have exited (#102)",
+      "date": "2026-11-24",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/102",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/99aa23923f3ed6b7fdfc6dfd3d9505c6b0ddb649"
+    },
     {
       "sha": "01e60d3e82",
       "message": "Update Benchmark topic with latest valkey-benchmark.c changes (#441)",

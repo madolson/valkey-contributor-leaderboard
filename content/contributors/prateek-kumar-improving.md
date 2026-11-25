@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 505,
+  "score": 506,
   "commit_count": 168,
-  "review_count": 337,
+  "review_count": 338,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1359,6 +1359,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "494da9ac79",
+      "message": "fix(php): test and document SET IFEQ rejection under compression (#459)",
+      "date": "2026-11-24",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/459",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/494da9ac79d395de4c75c761558964c9a22903ca"
+    },
     {
       "sha": "64bb96c7e4",
       "message": "ci(deps): bump actions/setup-java from 6.1.0 to 6.3.0 (#466)",

@@ -2,9 +2,9 @@
   "title": "makubo-aws",
   "login": "makubo-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/203714000?v=4",
-  "score": 18,
+  "score": 20,
   "commit_count": 4,
-  "review_count": 14,
+  "review_count": 16,
   "repos": [
     "valkey-doc",
     "valkey-io.github.io"
@@ -44,6 +44,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "74b97e40dd",
+      "message": "Describe what each Valkey 9.2 highlight does for users (#801)",
+      "date": "2026-11-25",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/801",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/74b97e40ddba74c830092a006be1300bf2085001"
+    },
+    {
+      "sha": "fed4b24af5",
+      "message": "adds Guy Korland's photo to bio (#800)",
+      "date": "2026-11-24",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/800",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/fed4b24af53be5c46d2117b857322f8544b8cafb"
+    },
     {
       "sha": "82cf7ba473",
       "message": "Recategorize the FalkorDB 6.2 post as a Community Highlight (#799)",

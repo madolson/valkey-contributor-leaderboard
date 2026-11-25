@@ -2,15 +2,32 @@
   "title": "yanamolo",
   "login": "yanamolo",
   "avatar_url": "https://avatars.githubusercontent.com/u/59420437?v=4",
-  "score": 16,
-  "commit_count": 16,
+  "score": 18,
+  "commit_count": 18,
   "review_count": 0,
   "repos": [
     "valkey",
+    "valkey-admin",
     "valkey-doc",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "9400984d11",
+      "message": "fix(connection): Reset the retry count after a standalone reconnect (#598)",
+      "date": "2026-11-24",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/598",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/9400984d11113a4c5ebde0106a8e3fb09561f715"
+    },
+    {
+      "sha": "97c7b108da",
+      "message": "fix(common): Show TB and PB in formatBytes instead of undefined (#596)",
+      "date": "2026-11-24",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/596",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/97c7b108da5fb1f11b640bf5d6579d708c8db3a1"
+    },
     {
       "sha": "b6a2619fa4",
       "message": "Document CLIENT CAPA redirect for keyless commands on cluster replicas (#534)",

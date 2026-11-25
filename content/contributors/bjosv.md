@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 326,
-  "commit_count": 144,
-  "review_count": 182,
+  "score": 328,
+  "commit_count": 145,
+  "review_count": 183,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "1b61f76c88",
+      "message": "perf: store CLUSTER NODES flags as a bit set (#693)",
+      "date": "2026-11-24",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/693",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/1b61f76c88a2a55f0fc289689f36e8bd11f55efd"
+    },
     {
       "sha": "ff52e55ee0",
       "message": "fix: stop no-op StatefulSet updates on Kubernetes 1.35+ (#683)",
@@ -1167,6 +1175,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6eb88cd696",
+      "message": "feat: per-node config ConfigMap written by the node controller (#670)",
+      "date": "2026-11-24",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/670",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6eb88cd696847882f7c9936b5278f6489f5ff15b"
+    },
     {
       "sha": "84b09f1a21",
       "message": "feat: require sharedConfigMapName and stop making a scripts ConfigMap per node (#674)",

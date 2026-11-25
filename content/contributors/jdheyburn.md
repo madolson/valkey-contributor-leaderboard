@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 233,
-  "commit_count": 83,
-  "review_count": 150,
+  "score": 238,
+  "commit_count": 84,
+  "review_count": 154,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "6eb88cd696",
+      "message": "feat: per-node config ConfigMap written by the node controller (#670)",
+      "date": "2026-11-24",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/670",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6eb88cd696847882f7c9936b5278f6489f5ff15b"
+    },
     {
       "sha": "84b09f1a21",
       "message": "feat: require sharedConfigMapName and stop making a scripts ConfigMap per node (#674)",
@@ -679,6 +687,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2d7a957e47",
+      "message": "feat(valkey-operator): grant the manager get and patch on pods/status (#339)",
+      "date": "2026-11-24",
+      "repo": "valkey-helm",
+      "pr_url": "https://github.com/valkey-io/valkey-helm/pull/339",
+      "commit_url": "https://github.com/valkey-io/valkey-helm/commit/2d7a957e47468df751ed596ae9d474ac7b89a925"
+    },
+    {
+      "sha": "1b61f76c88",
+      "message": "perf: store CLUSTER NODES flags as a bit set (#693)",
+      "date": "2026-11-24",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/693",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/1b61f76c88a2a55f0fc289689f36e8bd11f55efd"
+    },
+    {
+      "sha": "15c8341ce7",
+      "message": "fix: drop a node whose scrape lacks identity or topology (#557)",
+      "date": "2026-11-24",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/557",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/15c8341ce746ff312d4913cdf286e2dd7d5efbe3"
+    },
+    {
+      "sha": "009e06b416",
+      "message": "fix: handle empty ACL passwords (#643)",
+      "date": "2026-11-24",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/643",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/009e06b41685001f1429b98617e82e36a332385f"
+    },
     {
       "sha": "a1034088b4",
       "message": "fix: wait for PodReady before marking the cluster ready (#687)",

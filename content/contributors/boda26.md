@@ -2,13 +2,22 @@
   "title": "boda26",
   "login": "boda26",
   "avatar_url": "https://avatars.githubusercontent.com/u/54991825?v=4",
-  "score": 98,
-  "commit_count": 58,
+  "score": 99,
+  "commit_count": 59,
   "review_count": 40,
   "repos": [
+    "valkey-perf-benchmark",
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "99aa23923f",
+      "message": "Clean cluster config files only after nodes have exited (#102)",
+      "date": "2026-11-24",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/102",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/99aa23923f3ed6b7fdfc6dfd3d9505c6b0ddb649"
+    },
     {
       "sha": "7e7adf25ef",
       "message": "FT.HYBRID: rescore mutated documents in a match-all SEARCH arm (#1634)",
