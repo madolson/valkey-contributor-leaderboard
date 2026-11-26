@@ -2,9 +2,9 @@
   "title": "makubo-aws",
   "login": "makubo-aws",
   "avatar_url": "https://avatars.githubusercontent.com/u/203714000?v=4",
-  "score": 20,
+  "score": 22,
   "commit_count": 4,
-  "review_count": 16,
+  "review_count": 18,
   "repos": [
     "valkey-doc",
     "valkey-io.github.io"
@@ -44,6 +44,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "722068efae",
+      "message": "Redesign /blog/ as a featured lead post and list, and put posts in /community/ cards (#749)",
+      "date": "2026-11-26",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/749",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/722068efae831abab0413cfad79ea266e30bc1b7"
+    },
+    {
+      "sha": "722068efae",
+      "message": "Redesign /blog/ as a featured lead post and list, and put posts in /community/ cards (#749)",
+      "date": "2026-11-26",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/749",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/722068efae831abab0413cfad79ea266e30bc1b7"
+    },
     {
       "sha": "74b97e40dd",
       "message": "Describe what each Valkey 9.2 highlight does for users (#801)",

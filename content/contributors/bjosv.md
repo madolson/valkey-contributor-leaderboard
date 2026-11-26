@@ -2,9 +2,9 @@
   "title": "bjosv",
   "login": "bjosv",
   "avatar_url": "https://avatars.githubusercontent.com/u/60651423?v=4",
-  "score": 328,
-  "commit_count": 145,
-  "review_count": 183,
+  "score": 331,
+  "commit_count": 146,
+  "review_count": 185,
   "repos": [
     "libvalkey",
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "3446643371",
+      "message": "fix: join recreated nodes to the cluster when every primary is lost (#536)",
+      "date": "2026-11-25",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/536",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/344664337172bbe744487107f76d662318664862"
+    },
     {
       "sha": "1b61f76c88",
       "message": "perf: store CLUSTER NODES flags as a bit set (#693)",
@@ -1175,6 +1183,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bd0bb7e4b1",
+      "message": "feat: let users choose the valkey-cli user in the server container (#678)",
+      "date": "2026-11-25",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/678",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/bd0bb7e4b188ac54db14844a9013fcd9cbaa870a"
+    },
+    {
+      "sha": "6e2cab3f39",
+      "message": "feat: tune the server container's probes and disable liveness through spec.probes (#686)",
+      "date": "2026-11-25",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/686",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6e2cab3f39d42ba1f7594379f7096b24e832ce30"
+    },
     {
       "sha": "6eb88cd696",
       "message": "feat: per-node config ConfigMap written by the node controller (#670)",

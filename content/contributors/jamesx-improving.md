@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 429,
+  "score": 436,
   "commit_count": 88,
-  "review_count": 341,
+  "review_count": 348,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -719,6 +719,70 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2687b3ed7c",
+      "message": "feat(core): add FtHybrid, FtCursorRead, FtCursorDel request types (#7456)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7456",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2687b3ed7cc81ed2004fae183fe6292da6a9375b"
+    },
+    {
+      "sha": "2687b3ed7c",
+      "message": "feat(core): add FtHybrid, FtCursorRead, FtCursorDel request types (#7456)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7456",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2687b3ed7cc81ed2004fae183fe6292da6a9375b"
+    },
+    {
+      "sha": "bdc8aadf0c",
+      "message": "fix(ffi): run address resolver callbacks on the blocked caller thread (#7818)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7818",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bdc8aadf0c850a19217f1954a504cd6e8ed3d21d"
+    },
+    {
+      "sha": "836f68ecaf",
+      "message": "test: run core and Python standalone suites over Unix sockets (#7735)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7735",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/836f68ecaf24eb60f622c53585b8f307250b1da4"
+    },
+    {
+      "sha": "478c5248f7",
+      "message": "fix(core): cap the socket listener worker pool and report pool failures via init callback (#7588)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7588",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/478c5248f756f8a1574d62569d9df85bdac007f5"
+    },
+    {
+      "sha": "c81fcbb7f1",
+      "message": "fix(php): Fix hash for setup-protoc action (#383)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/383",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/c81fcbb7f1a188e2494a6717aa2034f33bba1ae8"
+    },
+    {
+      "sha": "5fbad58f8e",
+      "message": "feat!: error handling similar to redis-rb (#414)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/414",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/5fbad58f8e21893e52a45c931871509de0aab5b8"
+    },
+    {
+      "sha": "0c25af0668",
+      "message": "chore(deps): Bump valkey-glide from `6bbee9c` to `b8a6f94`",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/443",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/0c25af066822dec3e9e4cfc38f9c9a2b7ae1848f"
+    },
     {
       "sha": "3b08fe2976",
       "message": "feat(node): valkey-search 1.3 stable surface (#7378)",

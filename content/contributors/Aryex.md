@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 382,
+  "score": 386,
   "commit_count": 150,
-  "review_count": 232,
+  "review_count": 236,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -1218,6 +1218,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "836f68ecaf",
+      "message": "test: run core and Python standalone suites over Unix sockets (#7735)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7735",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/836f68ecaf24eb60f622c53585b8f307250b1da4"
+    },
+    {
+      "sha": "62922eec19",
+      "message": "docs: add \"Why use\" sections to client pool and isolated scope (#396)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/396",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/62922eec197bed281c543cd6fabb2fc1b4ae9bd8"
+    },
+    {
+      "sha": "9d7547da27",
+      "message": "chore(php): update valkey-glide submodule to latest main (bdc8aadf0) (#471)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/471",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9d7547da27799004aad734f30e562bf388641121"
+    },
+    {
+      "sha": "5fbad58f8e",
+      "message": "feat!: error handling similar to redis-rb (#414)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/414",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/5fbad58f8e21893e52a45c931871509de0aab5b8"
+    },
+    {
+      "sha": "533d66f6be",
+      "message": "chore(deps): Bump ruby/setup-ruby from 1.336.0 to 1.338.0 in the minor-updates group (#430)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/430",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/533d66f6be4f036e85ae4b0f3fa56c91cf55918f"
+    },
+    {
+      "sha": "0c25af0668",
+      "message": "chore(deps): Bump valkey-glide from `6bbee9c` to `b8a6f94`",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/443",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/0c25af066822dec3e9e4cfc38f9c9a2b7ae1848f"
+    },
     {
       "sha": "b3d9943230",
       "message": "fix(go): link CoreFoundation on macOS arm64 for Go 1.27 (#7785)",

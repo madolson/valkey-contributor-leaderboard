@@ -2,9 +2,9 @@
   "title": "xdk-amz",
   "login": "xdk-amz",
   "avatar_url": "https://avatars.githubusercontent.com/u/202004444?v=4",
-  "score": 18,
+  "score": 19,
   "commit_count": 8,
-  "review_count": 10,
+  "review_count": 11,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -78,6 +78,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ac4130d401",
+      "message": "Keep an IFEQ/IFNE value spelled GET when propagating SET GET (#5090)",
+      "date": "2026-11-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5090",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ac4130d401a2bf4a2a876910dd59b4206a7ad000"
+    },
     {
       "sha": "28ef86b443",
       "message": "Ignore replica claims that would close a replicaof cycle (#5452)",

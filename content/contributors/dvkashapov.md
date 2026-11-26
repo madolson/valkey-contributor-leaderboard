@@ -2,9 +2,9 @@
   "title": "dvkashapov",
   "login": "dvkashapov",
   "avatar_url": "https://avatars.githubusercontent.com/u/81564730?v=4",
-  "score": 136,
+  "score": 137,
   "commit_count": 26,
-  "review_count": 110,
+  "review_count": 111,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -224,6 +224,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "6f722fe06f",
+      "message": "Allow EXEC without conditions from a database the user cannot access (#4889)",
+      "date": "2026-11-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4889",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6f722fe06f331e665a0eb1cae43db4cc8a0170ee"
+    },
     {
       "sha": "bf64e2af8e",
       "message": "Add 9.2 to test matrix",

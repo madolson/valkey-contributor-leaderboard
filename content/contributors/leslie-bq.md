@@ -2,9 +2,9 @@
   "title": "leslie-bq",
   "login": "leslie-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
-  "score": 43,
-  "commit_count": 11,
-  "review_count": 32,
+  "score": 47,
+  "commit_count": 12,
+  "review_count": 35,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -12,6 +12,14 @@
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "c81fcbb7f1",
+      "message": "fix(php): Fix hash for setup-protoc action (#383)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/383",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/c81fcbb7f1a188e2494a6717aa2034f33bba1ae8"
+    },
     {
       "sha": "494da9ac79",
       "message": "fix(php): test and document SET IFEQ rejection under compression (#459)",
@@ -102,6 +110,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "478c5248f7",
+      "message": "fix(core): cap the socket listener worker pool and report pool failures via init callback (#7588)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7588",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/478c5248f756f8a1574d62569d9df85bdac007f5"
+    },
+    {
+      "sha": "478c5248f7",
+      "message": "fix(core): cap the socket listener worker pool and report pool failures via init callback (#7588)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7588",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/478c5248f756f8a1574d62569d9df85bdac007f5"
+    },
+    {
+      "sha": "c4f817c3ba",
+      "message": "fix(php): apply PHPRedis-style $auth and $timeout in ValkeyGlideCluster (#457)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/457",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/c4f817c3ba71535d729bfca0fc2b1d48301927a8"
+    },
     {
       "sha": "97f658ebc4",
       "message": "perf(core): use atomics for telemetry instead of shared lock (#7497)",

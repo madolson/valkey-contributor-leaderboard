@@ -2,9 +2,9 @@
   "title": "ArgusLi",
   "login": "ArgusLi",
   "avatar_url": "https://avatars.githubusercontent.com/u/43020525?v=4",
-  "score": 150,
+  "score": 152,
   "commit_count": 80,
-  "review_count": 70,
+  "review_count": 72,
   "repos": [
     "valkey-admin"
   ],
@@ -651,6 +651,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "af06bec299",
+      "message": "Allow WebSocket origin in ElastiCache template (#601)",
+      "date": "2026-11-25",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/601",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/af06bec299ab91b05b0fd716dc4b54653003074e"
+    },
+    {
+      "sha": "c0f0b590eb",
+      "message": "Paginate hash, list, set and sorted set elements in key details (#599)",
+      "date": "2026-11-25",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/599",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/c0f0b590eb14f2d91b1a9fc1fac1217f2d39a422"
+    },
     {
       "sha": "9400984d11",
       "message": "fix(connection): Reset the retry count after a standalone reconnect (#598)",

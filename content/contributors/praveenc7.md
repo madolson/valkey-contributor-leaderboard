@@ -2,14 +2,22 @@
   "title": "praveenc7",
   "login": "praveenc7",
   "avatar_url": "https://avatars.githubusercontent.com/u/180790988?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "6e2cab3f39",
+      "message": "feat: tune the server container's probes and disable liveness through spec.probes (#686)",
+      "date": "2026-11-25",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/686",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6e2cab3f39d42ba1f7594379f7096b24e832ce30"
+    },
     {
       "sha": "2d7a957e47",
       "message": "feat(valkey-operator): grant the manager get and patch on pods/status (#339)",

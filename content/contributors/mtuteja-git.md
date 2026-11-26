@@ -2,13 +2,21 @@
   "title": "mtuteja-git",
   "login": "mtuteja-git",
   "avatar_url": "https://avatars.githubusercontent.com/u/93806838?v=4",
-  "score": 7,
-  "commit_count": 5,
+  "score": 8,
+  "commit_count": 6,
   "review_count": 2,
   "repos": [
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "4fe4f7c748",
+      "message": "Fix community logo strip and flatten background (#776)",
+      "date": "2026-11-25",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/776",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/4fe4f7c748130a76bd68536c4acd148f496db30c"
+    },
     {
       "sha": "1e2f6a3041",
       "message": "Community Page Revamp (#660)",

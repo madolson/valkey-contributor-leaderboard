@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 429,
+  "score": 430,
   "commit_count": 243,
-  "review_count": 186,
+  "review_count": 187,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -1961,6 +1961,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2687b3ed7c",
+      "message": "feat(core): add FtHybrid, FtCursorRead, FtCursorDel request types (#7456)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7456",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2687b3ed7cc81ed2004fae183fe6292da6a9375b"
+    },
     {
       "sha": "8885f15d60",
       "message": "Bump the minor-updates group with 3 updates (#669)",

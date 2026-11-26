@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 551,
-  "commit_count": 166,
-  "review_count": 385,
+  "score": 555,
+  "commit_count": 167,
+  "review_count": 388,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "bdc8aadf0c",
+      "message": "fix(ffi): run address resolver callbacks on the blocked caller thread (#7818)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7818",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bdc8aadf0c850a19217f1954a504cd6e8ed3d21d"
+    },
     {
       "sha": "2308b2e276",
       "message": "fix(core,python,go): trim the client availability zone and reject a whitespace-only one (#7788)",
@@ -1345,6 +1353,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "478c5248f7",
+      "message": "fix(core): cap the socket listener worker pool and report pool failures via init callback (#7588)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7588",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/478c5248f756f8a1574d62569d9df85bdac007f5"
+    },
+    {
+      "sha": "9d7547da27",
+      "message": "chore(php): update valkey-glide submodule to latest main (bdc8aadf0) (#471)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/471",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9d7547da27799004aad734f30e562bf388641121"
+    },
+    {
+      "sha": "5fbad58f8e",
+      "message": "feat!: error handling similar to redis-rb (#414)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/414",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/5fbad58f8e21893e52a45c931871509de0aab5b8"
+    },
     {
       "sha": "8885f15d60",
       "message": "Bump the minor-updates group with 3 updates (#669)",

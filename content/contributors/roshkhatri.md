@@ -2,8 +2,8 @@
   "title": "roshkhatri",
   "login": "roshkhatri",
   "avatar_url": "https://avatars.githubusercontent.com/u/117414976?v=4",
-  "score": 485,
-  "commit_count": 175,
+  "score": 486,
+  "commit_count": 176,
   "review_count": 310,
   "repos": [
     "valkey",
@@ -21,6 +21,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "666bebb8e4",
+      "message": "Shorten the summary lines in the comparison report (#107)",
+      "date": "2026-11-25",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/107",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/666bebb8e42ea83bfda0d1b583223f06cf80c717"
+    },
     {
       "sha": "b5c423aa88",
       "message": "Fix cluster bus self-forget use-after-free (#4675)",

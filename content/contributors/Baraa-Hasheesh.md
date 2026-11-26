@@ -2,15 +2,23 @@
   "title": "Baraa-Hasheesh",
   "login": "Baraa-Hasheesh",
   "avatar_url": "https://avatars.githubusercontent.com/u/202973079?v=4",
-  "score": 98,
-  "commit_count": 43,
-  "review_count": 55,
+  "score": 101,
+  "commit_count": 44,
+  "review_count": 57,
   "repos": [
     "valkey",
     "valkey-container",
     "valkey-perf-benchmark"
   ],
   "commit_list": [
+    {
+      "sha": "334dd6cc8c",
+      "message": "Extend offset-sync wait after mid-stream abort in dual-channel test (#5558)",
+      "date": "2026-11-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5558",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/334dd6cc8c759084e7faae25da5300ab1be9a780"
+    },
     {
       "sha": "5b16df2e55",
       "message": "Refuse to load a replicaof cycle from nodes.conf (#5556)",
@@ -357,6 +365,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ac4130d401",
+      "message": "Keep an IFEQ/IFNE value spelled GET when propagating SET GET (#5090)",
+      "date": "2026-11-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5090",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ac4130d401a2bf4a2a876910dd59b4206a7ad000"
+    },
+    {
+      "sha": "1c9b6a3815",
+      "message": "Optimize bulk integer replies by building them in a single buffer (#4828)",
+      "date": "2026-11-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4828",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1c9b6a3815de07c78d3c7d315f756138073ab526"
+    },
     {
       "sha": "bd169bc177",
       "message": "Iterate only created databases instead of all configured databases (#5334)",

@@ -2,8 +2,8 @@
   "title": "Sasidharan3094",
   "login": "Sasidharan3094",
   "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
-  "score": 47,
-  "commit_count": 33,
+  "score": 48,
+  "commit_count": 34,
   "review_count": 14,
   "repos": [
     "valkey",
@@ -13,6 +13,14 @@
     "valkey-namespace"
   ],
   "commit_list": [
+    {
+      "sha": "5fbad58f8e",
+      "message": "feat!: error handling similar to redis-rb (#414)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/414",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/5fbad58f8e21893e52a45c931871509de0aab5b8"
+    },
     {
       "sha": "7836c5afe1",
       "message": "Fix for XINFO GROUPS reports too-high lag after XTRIM removes unread \u2026 (#4983)",

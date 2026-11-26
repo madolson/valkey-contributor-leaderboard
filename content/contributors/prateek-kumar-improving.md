@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 506,
-  "commit_count": 168,
-  "review_count": 338,
+  "score": 509,
+  "commit_count": 169,
+  "review_count": 340,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "9d7547da27",
+      "message": "chore(php): update valkey-glide submodule to latest main (bdc8aadf0) (#471)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/471",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/9d7547da27799004aad734f30e562bf388641121"
+    },
     {
       "sha": "462e49fab0",
       "message": "feat(rust): add HGETDEL and DELIFEQ command support (#7800)",
@@ -1359,6 +1367,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bdc8aadf0c",
+      "message": "fix(ffi): run address resolver callbacks on the blocked caller thread (#7818)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7818",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bdc8aadf0c850a19217f1954a504cd6e8ed3d21d"
+    },
+    {
+      "sha": "c4f817c3ba",
+      "message": "fix(php): apply PHPRedis-style $auth and $timeout in ValkeyGlideCluster (#457)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/457",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/c4f817c3ba71535d729bfca0fc2b1d48301927a8"
+    },
     {
       "sha": "494da9ac79",
       "message": "fix(php): test and document SET IFEQ rejection under compression (#459)",

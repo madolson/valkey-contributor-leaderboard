@@ -2,9 +2,9 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 40,
+  "score": 43,
   "commit_count": 23,
-  "review_count": 17,
+  "review_count": 20,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -197,6 +197,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "0841ced5d8",
+      "message": "Add link preview metadata to blog posts (#750)",
+      "date": "2026-11-25",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/750",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/0841ced5d8048344cebd7f4580444017f6633e0b"
+    },
+    {
+      "sha": "11cab3aaf2",
+      "message": "Move Participants under the Community menu (#740)",
+      "date": "2026-11-25",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/740",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/11cab3aaf270d04ac7b1c9b7cd9fd8f8fef2dcb5"
+    },
+    {
+      "sha": "db6c28777e",
+      "message": "Route /docs/ to the topics index and link Clients and Integrations in the docs menu (#742)",
+      "date": "2026-11-25",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/742",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/db6c28777ef5b33f7cef653b08b13ed39471907a"
+    },
     {
       "sha": "272629be97",
       "message": "Put the docs menu above the content on phones and add previous/next topic links (#773)",

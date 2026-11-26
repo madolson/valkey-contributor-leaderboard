@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 975,
+  "score": 977,
   "commit_count": 45,
-  "review_count": 930,
+  "review_count": 932,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bdc8aadf0c",
+      "message": "fix(ffi): run address resolver callbacks on the blocked caller thread (#7818)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7818",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/bdc8aadf0c850a19217f1954a504cd6e8ed3d21d"
+    },
+    {
+      "sha": "62922eec19",
+      "message": "docs: add \"Why use\" sections to client pool and isolated scope (#396)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/396",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/62922eec197bed281c543cd6fabb2fc1b4ae9bd8"
+    },
+    {
+      "sha": "533d66f6be",
+      "message": "chore(deps): Bump ruby/setup-ruby from 1.336.0 to 1.338.0 in the minor-updates group (#430)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/430",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/533d66f6be4f036e85ae4b0f3fa56c91cf55918f"
+    },
     {
       "sha": "2308b2e276",
       "message": "fix(core,python,go): trim the client availability zone and reject a whitespace-only one (#7788)",

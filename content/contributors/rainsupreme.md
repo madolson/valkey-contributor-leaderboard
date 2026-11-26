@@ -2,9 +2,9 @@
   "title": "rainsupreme",
   "login": "rainsupreme",
   "avatar_url": "https://avatars.githubusercontent.com/u/20649182?v=4",
-  "score": 230,
+  "score": 231,
   "commit_count": 52,
-  "review_count": 178,
+  "review_count": 179,
   "repos": [
     "valkey",
     "valkey-container",
@@ -432,6 +432,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ac4130d401",
+      "message": "Keep an IFEQ/IFNE value spelled GET when propagating SET GET (#5090)",
+      "date": "2026-11-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5090",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ac4130d401a2bf4a2a876910dd59b4206a7ad000"
+    },
     {
       "sha": "c28334e47b",
       "message": "Zero module key handle so CloseKey is safe after Call changes key type (#5358)",

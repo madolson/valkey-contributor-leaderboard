@@ -2,9 +2,9 @@
   "title": "pnbrown",
   "login": "pnbrown",
   "avatar_url": "https://avatars.githubusercontent.com/u/10396286?v=4",
-  "score": 16,
+  "score": 17,
   "commit_count": 9,
-  "review_count": 7,
+  "review_count": 8,
   "repos": [
     "valkey-io.github.io"
   ],
@@ -83,6 +83,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "4fe4f7c748",
+      "message": "Fix community logo strip and flatten background (#776)",
+      "date": "2026-11-25",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/776",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/4fe4f7c748130a76bd68536c4acd148f496db30c"
+    },
     {
       "sha": "70713984c8",
       "message": "Add ValkeyConf session recap - Valkey Operator blog (#713)",

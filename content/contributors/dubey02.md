@@ -2,11 +2,12 @@
   "title": "dubey02",
   "login": "dubey02",
   "avatar_url": "https://avatars.githubusercontent.com/u/19818774?v=4",
-  "score": 9,
+  "score": 10,
   "commit_count": 2,
-  "review_count": 7,
+  "review_count": 8,
   "repos": [
-    "valkey"
+    "valkey",
+    "valkey-perf-benchmark"
   ],
   "commit_list": [
     {
@@ -27,6 +28,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "666bebb8e4",
+      "message": "Shorten the summary lines in the comparison report (#107)",
+      "date": "2026-11-25",
+      "repo": "valkey-perf-benchmark",
+      "pr_url": "https://github.com/valkey-io/valkey-perf-benchmark/pull/107",
+      "commit_url": "https://github.com/valkey-io/valkey-perf-benchmark/commit/666bebb8e42ea83bfda0d1b583223f06cf80c717"
+    },
     {
       "sha": "6902fdc965",
       "message": "Make quicklist read-only iteration non-mutating on compressed nodes (#4782)",

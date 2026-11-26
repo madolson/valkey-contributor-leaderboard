@@ -2,9 +2,9 @@
   "title": "zuiderkwast",
   "login": "zuiderkwast",
   "avatar_url": "https://avatars.githubusercontent.com/u/273886?v=4",
-  "score": 1339,
+  "score": 1340,
   "commit_count": 161,
-  "review_count": 1178,
+  "review_count": 1179,
   "repos": [
     "libvalkey",
     "valkey",
@@ -1310,6 +1310,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "1c9b6a3815",
+      "message": "Optimize bulk integer replies by building them in a single buffer (#4828)",
+      "date": "2026-11-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4828",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1c9b6a3815de07c78d3c7d315f756138073ab526"
+    },
     {
       "sha": "b5c423aa88",
       "message": "Fix cluster bus self-forget use-after-free (#4675)",

@@ -2,9 +2,9 @@
   "title": "madolson",
   "login": "madolson",
   "avatar_url": "https://avatars.githubusercontent.com/u/34459052?v=4",
-  "score": 1124,
-  "commit_count": 312,
-  "review_count": 812,
+  "score": 1133,
+  "commit_count": 318,
+  "review_count": 815,
   "repos": [
     ".github",
     "assets",
@@ -24,12 +24,60 @@
   ],
   "commit_list": [
     {
+      "sha": "722068efae",
+      "message": "Redesign /blog/ as a featured lead post and list, and put posts in /community/ cards (#749)",
+      "date": "2026-11-26",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/749",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/722068efae831abab0413cfad79ea266e30bc1b7"
+    },
+    {
       "sha": "74b97e40dd",
       "message": "Describe what each Valkey 9.2 highlight does for users (#801)",
       "date": "2026-11-25",
       "repo": "valkey-io.github.io",
       "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/801",
       "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/74b97e40ddba74c830092a006be1300bf2085001"
+    },
+    {
+      "sha": "ac4130d401",
+      "message": "Keep an IFEQ/IFNE value spelled GET when propagating SET GET (#5090)",
+      "date": "2026-11-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5090",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/ac4130d401a2bf4a2a876910dd59b4206a7ad000"
+    },
+    {
+      "sha": "6f722fe06f",
+      "message": "Allow EXEC without conditions from a database the user cannot access (#4889)",
+      "date": "2026-11-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4889",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6f722fe06f331e665a0eb1cae43db4cc8a0170ee"
+    },
+    {
+      "sha": "0841ced5d8",
+      "message": "Add link preview metadata to blog posts (#750)",
+      "date": "2026-11-25",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/750",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/0841ced5d8048344cebd7f4580444017f6633e0b"
+    },
+    {
+      "sha": "11cab3aaf2",
+      "message": "Move Participants under the Community menu (#740)",
+      "date": "2026-11-25",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/740",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/11cab3aaf270d04ac7b1c9b7cd9fd8f8fef2dcb5"
+    },
+    {
+      "sha": "db6c28777e",
+      "message": "Route /docs/ to the topics index and link Clients and Integrations in the docs menu (#742)",
+      "date": "2026-11-25",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/742",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/db6c28777ef5b33f7cef653b08b13ed39471907a"
     },
     {
       "sha": "272629be97",
@@ -2521,6 +2569,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "bc2f143820",
+      "message": "Added kotlin-valkey client reference (#726)",
+      "date": "2026-11-25",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/726",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/bc2f1438207ef95909af8284358504f902e9b3af"
+    },
+    {
+      "sha": "99afa2866a",
+      "message": "Add Sage (Scala) client (#727)",
+      "date": "2026-11-25",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/727",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/99afa2866a3cc3ab93ca08c017ca79fd8b846033"
+    },
+    {
+      "sha": "4541242c1d",
+      "message": "Add DBine to the Integrations page (CLI & GUI) (#704)",
+      "date": "2026-11-25",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/704",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/4541242c1d5555bae699784882c0ef210b57214a"
+    },
     {
       "sha": "f1ee2f1f31",
       "message": "Add FalkorDB to the Valkey participant list (#794)",

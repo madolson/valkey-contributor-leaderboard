@@ -2,8 +2,8 @@
   "title": "Jonathan-Improving",
   "login": "Jonathan-Improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
-  "score": 21,
-  "commit_count": 10,
+  "score": 22,
+  "commit_count": 11,
   "review_count": 11,
   "repos": [
     "valkey-developer-resources",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "2687b3ed7c",
+      "message": "feat(core): add FtHybrid, FtCursorRead, FtCursorDel request types (#7456)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7456",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2687b3ed7cc81ed2004fae183fe6292da6a9375b"
+    },
     {
       "sha": "3b08fe2976",
       "message": "feat(node): valkey-search 1.3 stable surface (#7378)",

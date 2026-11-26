@@ -2,13 +2,21 @@
   "title": "uintaam",
   "login": "uintaam",
   "avatar_url": "https://avatars.githubusercontent.com/u/295346?v=4",
-  "score": 31,
-  "commit_count": 31,
+  "score": 32,
+  "commit_count": 32,
   "review_count": 0,
   "repos": [
     "valkey-glide-php"
   ],
   "commit_list": [
+    {
+      "sha": "c4f817c3ba",
+      "message": "fix(php): apply PHPRedis-style $auth and $timeout in ValkeyGlideCluster (#457)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/457",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/c4f817c3ba71535d729bfca0fc2b1d48301927a8"
+    },
     {
       "sha": "24546a1bfd",
       "message": "test(php): cover the PHPRedis-style connection parameters (#456)",

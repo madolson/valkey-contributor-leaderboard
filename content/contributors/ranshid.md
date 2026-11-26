@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 342,
+  "score": 345,
   "commit_count": 97,
-  "review_count": 245,
+  "review_count": 248,
   "repos": [
     "valkey",
     "valkey-container",
@@ -795,6 +795,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "48aaf97596",
+      "message": "Merge pull request #40 from valkey-io/reviewer/valkey-admin",
+      "date": "2026-11-26",
+      "repo": "valkey-review-bot",
+      "pr_url": "https://github.com/valkey-io/valkey-review-bot/pull/32",
+      "commit_url": "https://github.com/valkey-io/valkey-review-bot/commit/48aaf97596abda0470b37554b94762992c818f22"
+    },
+    {
+      "sha": "6f722fe06f",
+      "message": "Allow EXEC without conditions from a database the user cannot access (#4889)",
+      "date": "2026-11-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4889",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/6f722fe06f331e665a0eb1cae43db4cc8a0170ee"
+    },
+    {
+      "sha": "334dd6cc8c",
+      "message": "Extend offset-sync wait after mid-stream abort in dual-channel test (#5558)",
+      "date": "2026-11-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/5558",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/334dd6cc8c759084e7faae25da5300ab1be9a780"
+    },
     {
       "sha": "38e5b3aefd",
       "message": "Fix double free of the key iterator on AOF rewrite write error (#5584)",

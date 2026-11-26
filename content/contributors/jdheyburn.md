@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 238,
-  "commit_count": 84,
-  "review_count": 154,
+  "score": 242,
+  "commit_count": 85,
+  "review_count": 157,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,14 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "bd0bb7e4b1",
+      "message": "feat: let users choose the valkey-cli user in the server container (#678)",
+      "date": "2026-11-25",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/678",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/bd0bb7e4b188ac54db14844a9013fcd9cbaa870a"
+    },
     {
       "sha": "6eb88cd696",
       "message": "feat: per-node config ConfigMap written by the node controller (#670)",
@@ -687,6 +695,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "3446643371",
+      "message": "fix: join recreated nodes to the cluster when every primary is lost (#536)",
+      "date": "2026-11-25",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/536",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/344664337172bbe744487107f76d662318664862"
+    },
+    {
+      "sha": "6e2cab3f39",
+      "message": "feat: tune the server container's probes and disable liveness through spec.probes (#686)",
+      "date": "2026-11-25",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/686",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/6e2cab3f39d42ba1f7594379f7096b24e832ce30"
+    },
+    {
+      "sha": "df4bf1e4e3",
+      "message": "fix: accept only a 64-character hex hash as a pre-hashed ACL password (#695)",
+      "date": "2026-11-25",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/695",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/df4bf1e4e3c410a6c5216ad35086ffa7fd162cb4"
+    },
     {
       "sha": "2d7a957e47",
       "message": "feat(valkey-operator): grant the manager get and patch on pods/status (#339)",

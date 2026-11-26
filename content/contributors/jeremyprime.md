@@ -2,8 +2,8 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 351,
-  "commit_count": 108,
+  "score": 352,
+  "commit_count": 109,
   "review_count": 243,
   "repos": [
     "spring-data-valkey",
@@ -14,6 +14,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "62922eec19",
+      "message": "docs: add \"Why use\" sections to client pool and isolated scope (#396)",
+      "date": "2026-11-25",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/396",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/62922eec197bed281c543cd6fabb2fc1b4ae9bd8"
+    },
     {
       "sha": "97ac2dd4ad",
       "message": "fix(core, python): make pools and scopes work in forked children (#7805)",

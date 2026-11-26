@@ -2,13 +2,21 @@
   "title": "imasahiro",
   "login": "imasahiro",
   "avatar_url": "https://avatars.githubusercontent.com/u/73532?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "valkey"
   ],
   "commit_list": [
+    {
+      "sha": "1c9b6a3815",
+      "message": "Optimize bulk integer replies by building them in a single buffer (#4828)",
+      "date": "2026-11-25",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4828",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/1c9b6a3815de07c78d3c7d315f756138073ab526"
+    },
     {
       "sha": "40e00fcaf1",
       "message": "Fix cluster CLI exit status on slot migration failure (#4853)",
