@@ -2,14 +2,15 @@
   "title": "leslie-bq",
   "login": "leslie-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
-  "score": 47,
+  "score": 55,
   "commit_count": 12,
-  "review_count": 35,
+  "review_count": 43,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
     "valkey-glide-docs",
-    "valkey-glide-php"
+    "valkey-glide-php",
+    "valkey-glide-ruby"
   ],
   "commit_list": [
     {
@@ -110,6 +111,70 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2bb23b5d0e",
+      "message": "feat(core): opt-in per-node results for multi-node commands (#7751)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7751",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2bb23b5d0e3a56a29303ea3eac932013dd0b8ca4"
+    },
+    {
+      "sha": "c95082b4d9",
+      "message": "fix(node): validate cursor instance in GlideClusterClient.scan (#7610)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7610",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c95082b4d9aca51bb4d7db6ff2156cc7f3c57e70"
+    },
+    {
+      "sha": "5e361bec7b",
+      "message": "feat(go, java, node, rust): support `DELEX` command (#7843)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7843",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5e361bec7b35f44297df2dd0221c4876793a9f67"
+    },
+    {
+      "sha": "29acc288d5",
+      "message": "fix(python): avoid deprecation warning on legacy module introspection (#7452)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7452",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/29acc288d59e9f2f09ce34d99336fc13e32262c4"
+    },
+    {
+      "sha": "096658afef",
+      "message": "feat(command): support `DELEX` command (#672)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/672",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/096658afef2ba231ee4f976d7f5605901e74be9e"
+    },
+    {
+      "sha": "ea907c9570",
+      "message": "chore(php): release 1.2.0 (#317)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/317",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/ea907c9570236233f5c499d5433fbac0dbf3a119"
+    },
+    {
+      "sha": "331f76b87f",
+      "message": "feat(ruby): add SET IFEQ support (#449)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/449",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/331f76b87f0b4baf83f85ccba640660fb81a116a"
+    },
+    {
+      "sha": "b9f82445a6",
+      "message": "feat(ruby): add SET IFNE support (#440)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/440",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/b9f82445a60e199a6d47dcf7301314533671ad98"
+    },
     {
       "sha": "478c5248f7",
       "message": "fix(core): cap the socket listener worker pool and report pool failures via init callback (#7588)",

@@ -2,9 +2,9 @@
   "title": "charsyam",
   "login": "charsyam",
   "avatar_url": "https://avatars.githubusercontent.com/u/439301?v=4",
-  "score": 19,
+  "score": 20,
   "commit_count": 15,
-  "review_count": 4,
+  "review_count": 5,
   "repos": [
     "valkey"
   ],
@@ -131,6 +131,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "b8d6a54e7a",
+      "message": "Skip pubsub channel defrag while a pending reply holds a reference (#4971)",
+      "date": "2026-11-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4971",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b8d6a54e7a5eb2adf7e71a18a8731e83f548d767"
+    },
     {
       "sha": "0a9fe22aff",
       "message": "Guard NULL replica_primary_host in Sentinel INFO handling (#4929)",

@@ -2,9 +2,9 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 386,
-  "commit_count": 150,
-  "review_count": 236,
+  "score": 390,
+  "commit_count": 152,
+  "review_count": 238,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -16,6 +16,22 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "331f76b87f",
+      "message": "feat(ruby): add SET IFEQ support (#449)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/449",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/331f76b87f0b4baf83f85ccba640660fb81a116a"
+    },
+    {
+      "sha": "b9f82445a6",
+      "message": "feat(ruby): add SET IFNE support (#440)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/440",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/b9f82445a60e199a6d47dcf7301314533671ad98"
+    },
     {
       "sha": "a64ef9e3d2",
       "message": "docs: add Valkey 9.2 to supported engines (#390)",
@@ -1218,6 +1234,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "74524ac6f8",
+      "message": "feat(ruby): valkey-search 1.3 support and RediSearch parity (#412)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/412",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/74524ac6f828fe8332fa3fc07a21722950338453"
+    },
+    {
+      "sha": "0be4dcbf07",
+      "message": "test(core): stop circuit breaker unit tests from timing out of the Open state (#7886)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7886",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0be4dcbf0710fe95840740ce0dcf6a59e2baf5d8"
+    },
     {
       "sha": "836f68ecaf",
       "message": "test: run core and Python standalone suites over Unix sockets (#7735)",

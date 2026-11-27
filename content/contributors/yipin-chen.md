@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 977,
+  "score": 983,
   "commit_count": 45,
-  "review_count": 932,
+  "review_count": 938,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "aee90f3fc6",
+      "message": "feat(core): per-node partial results in the redis-rs cluster fan-out (#7819)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7819",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/aee90f3fc60cefcedbc2565c6cf05098403fb899"
+    },
+    {
+      "sha": "c33ab96b69",
+      "message": "fix(glide-telemetry): reject an OpenTelemetry config with no exporter (#7718)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7718",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c33ab96b694872328559657319bbf33ce1ca87f1"
+    },
+    {
+      "sha": "c4f4a185c2",
+      "message": "fix(core): send ASKING in the same write as the redirected command (#7778)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7778",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c4f4a185c273564e8bd1500df8151be21c635b0a"
+    },
+    {
+      "sha": "096658afef",
+      "message": "feat(command): support `DELEX` command (#672)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/672",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/096658afef2ba231ee4f976d7f5605901e74be9e"
+    },
+    {
+      "sha": "ea907c9570",
+      "message": "chore(php): release 1.2.0 (#317)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/317",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/ea907c9570236233f5c499d5433fbac0dbf3a119"
+    },
+    {
+      "sha": "331f76b87f",
+      "message": "feat(ruby): add SET IFEQ support (#449)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/449",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/331f76b87f0b4baf83f85ccba640660fb81a116a"
+    },
     {
       "sha": "bdc8aadf0c",
       "message": "fix(ffi): run address resolver callbacks on the blocked caller thread (#7818)",

@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 430,
-  "commit_count": 243,
-  "review_count": 187,
+  "score": 435,
+  "commit_count": 246,
+  "review_count": 189,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -15,6 +15,30 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "5e361bec7b",
+      "message": "feat(go, java, node, rust): support `DELEX` command (#7843)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7843",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5e361bec7b35f44297df2dd0221c4876793a9f67"
+    },
+    {
+      "sha": "83cd8fc02f",
+      "message": "fix(scripting): binary-safe script keys and arguments, and IServer.ScriptLoadAsync(LuaScript) parameters (#674)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/674",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/83cd8fc02f13ed3472e67b4b11c9dafc728b6465"
+    },
+    {
+      "sha": "096658afef",
+      "message": "feat(command): support `DELEX` command (#672)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/672",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/096658afef2ba231ee4f976d7f5605901e74be9e"
+    },
     {
       "sha": "a1254189b1",
       "message": "refactor(core): use `#[repr(u32)]` for enums passed over FFI (#7820)",
@@ -1961,6 +1985,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "331f76b87f",
+      "message": "feat(ruby): add SET IFEQ support (#449)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/449",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/331f76b87f0b4baf83f85ccba640660fb81a116a"
+    },
+    {
+      "sha": "b9f82445a6",
+      "message": "feat(ruby): add SET IFNE support (#440)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/440",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/b9f82445a60e199a6d47dcf7301314533671ad98"
+    },
     {
       "sha": "2687b3ed7c",
       "message": "feat(core): add FtHybrid, FtCursorRead, FtCursorDel request types (#7456)",

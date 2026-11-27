@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 509,
-  "commit_count": 169,
-  "review_count": 340,
+  "score": 513,
+  "commit_count": 170,
+  "review_count": 343,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "ea907c9570",
+      "message": "chore(php): release 1.2.0 (#317)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/317",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/ea907c9570236233f5c499d5433fbac0dbf3a119"
+    },
     {
       "sha": "9d7547da27",
       "message": "chore(php): update valkey-glide submodule to latest main (bdc8aadf0) (#471)",
@@ -1367,6 +1375,30 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "62f02fc152",
+      "message": "fix(core): respect command option boundaries in reply conversion (#7748)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7748",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/62f02fc152b50487252a76f92e0a56bf2cbd5b52"
+    },
+    {
+      "sha": "5e361bec7b",
+      "message": "feat(go, java, node, rust): support `DELEX` command (#7843)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7843",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5e361bec7b35f44297df2dd0221c4876793a9f67"
+    },
+    {
+      "sha": "096658afef",
+      "message": "feat(command): support `DELEX` command (#672)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/672",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/096658afef2ba231ee4f976d7f5605901e74be9e"
+    },
     {
       "sha": "bdc8aadf0c",
       "message": "fix(ffi): run address resolver callbacks on the blocked caller thread (#7818)",

@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 436,
+  "score": 445,
   "commit_count": 88,
-  "review_count": 348,
+  "review_count": 357,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -719,6 +719,78 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "2bb23b5d0e",
+      "message": "feat(core): opt-in per-node results for multi-node commands (#7751)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7751",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2bb23b5d0e3a56a29303ea3eac932013dd0b8ca4"
+    },
+    {
+      "sha": "225e0ebf42",
+      "message": "chore(python): remove comments and out-of-scope changes from the search 1.3 work (#7867)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7867",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/225e0ebf42b97edaaafbc0cf18a7e13ce3b36307"
+    },
+    {
+      "sha": "aee90f3fc6",
+      "message": "feat(core): per-node partial results in the redis-rs cluster fan-out (#7819)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7819",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/aee90f3fc60cefcedbc2565c6cf05098403fb899"
+    },
+    {
+      "sha": "a19098e048",
+      "message": "chore(go): rectify valkey-search 1.3 drift and name tests by feature (#7862)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7862",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a19098e048c17cba07b1d133a3a73c720b29c36e"
+    },
+    {
+      "sha": "3c1e0b026c",
+      "message": "feat(java): valkey-search 1.3 stable surface, scoring, cursors, FT.HYBRID (#7379)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7379",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3c1e0b026cc7c1890ed14039764a395954a6ef3d"
+    },
+    {
+      "sha": "3c1e0b026c",
+      "message": "feat(java): valkey-search 1.3 stable surface, scoring, cursors, FT.HYBRID (#7379)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7379",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3c1e0b026cc7c1890ed14039764a395954a6ef3d"
+    },
+    {
+      "sha": "66a448cdd8",
+      "message": "fix(core): bound cluster_scan by the client's request timeout and retries (#6892)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/6892",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/66a448cdd80ebe7734f102811d190f99b9243e42"
+    },
+    {
+      "sha": "c4f4a185c2",
+      "message": "fix(core): send ASKING in the same write as the redirected command (#7778)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7778",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c4f4a185c273564e8bd1500df8151be21c635b0a"
+    },
+    {
+      "sha": "83cd8fc02f",
+      "message": "fix(scripting): binary-safe script keys and arguments, and IServer.ScriptLoadAsync(LuaScript) parameters (#674)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/674",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/83cd8fc02f13ed3472e67b4b11c9dafc728b6465"
+    },
     {
       "sha": "2687b3ed7c",
       "message": "feat(core): add FtHybrid, FtCursorRead, FtCursorDel request types (#7456)",

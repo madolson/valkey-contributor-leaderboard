@@ -1150,6 +1150,14 @@
   ],
   "review_list": [
     {
+      "sha": "68e3c56e97",
+      "message": "Update versions.json and Dockerfiles for version 9.2.1 (#186)",
+      "date": "2026-11-26",
+      "repo": "valkey-container",
+      "pr_url": "https://github.com/valkey-io/valkey-container/pull/186",
+      "commit_url": "https://github.com/valkey-io/valkey-container/commit/68e3c56e97f9d4120a44c8c2f3d4515b0c0bf316"
+    },
+    {
       "sha": "264e856d12",
       "message": "Remove superseded hash for Valkey 8.0.4 (#15)",
       "date": "2026-11-21",

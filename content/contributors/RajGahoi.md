@@ -2,14 +2,38 @@
   "title": "RajGahoi",
   "login": "RajGahoi",
   "avatar_url": "https://avatars.githubusercontent.com/u/191273099?v=4",
-  "score": 4,
-  "commit_count": 4,
+  "score": 7,
+  "commit_count": 7,
   "review_count": 0,
   "repos": [
     "valkey-admin",
     "valkey-glide"
   ],
   "commit_list": [
+    {
+      "sha": "c95082b4d9",
+      "message": "fix(node): validate cursor instance in GlideClusterClient.scan (#7610)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7610",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c95082b4d9aca51bb4d7db6ff2156cc7f3c57e70"
+    },
+    {
+      "sha": "c33ab96b69",
+      "message": "fix(glide-telemetry): reject an OpenTelemetry config with no exporter (#7718)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7718",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c33ab96b694872328559657319bbf33ce1ca87f1"
+    },
+    {
+      "sha": "29acc288d5",
+      "message": "fix(python): avoid deprecation warning on legacy module introspection (#7452)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7452",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/29acc288d59e9f2f09ce34d99336fc13e32262c4"
+    },
     {
       "sha": "dba3f42163",
       "message": "fix(key-browser): use defaultConnectionState.totalKeys as fallback in selectTotalKeys (#597)",

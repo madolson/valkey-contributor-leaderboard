@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 555,
-  "commit_count": 167,
-  "review_count": 388,
+  "score": 564,
+  "commit_count": 171,
+  "review_count": 393,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -15,6 +15,38 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "2bb23b5d0e",
+      "message": "feat(core): opt-in per-node results for multi-node commands (#7751)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7751",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2bb23b5d0e3a56a29303ea3eac932013dd0b8ca4"
+    },
+    {
+      "sha": "ea0f1c980a",
+      "message": "fix(core): send multi-node cluster requests while another request is pending (#7855)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7855",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ea0f1c980a2fd88f4c73f3151412169c61b992fb"
+    },
+    {
+      "sha": "0be4dcbf07",
+      "message": "test(core): stop circuit breaker unit tests from timing out of the Open state (#7886)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7886",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/0be4dcbf0710fe95840740ce0dcf6a59e2baf5d8"
+    },
+    {
+      "sha": "aee90f3fc6",
+      "message": "feat(core): per-node partial results in the redis-rs cluster fan-out (#7819)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7819",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/aee90f3fc60cefcedbc2565c6cf05098403fb899"
+    },
     {
       "sha": "bdc8aadf0c",
       "message": "fix(ffi): run address resolver callbacks on the blocked caller thread (#7818)",
@@ -1353,6 +1385,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "c95082b4d9",
+      "message": "fix(node): validate cursor instance in GlideClusterClient.scan (#7610)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7610",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c95082b4d9aca51bb4d7db6ff2156cc7f3c57e70"
+    },
+    {
+      "sha": "62f02fc152",
+      "message": "fix(core): respect command option boundaries in reply conversion (#7748)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7748",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/62f02fc152b50487252a76f92e0a56bf2cbd5b52"
+    },
+    {
+      "sha": "c33ab96b69",
+      "message": "fix(glide-telemetry): reject an OpenTelemetry config with no exporter (#7718)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7718",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c33ab96b694872328559657319bbf33ce1ca87f1"
+    },
+    {
+      "sha": "29acc288d5",
+      "message": "fix(python): avoid deprecation warning on legacy module introspection (#7452)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7452",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/29acc288d59e9f2f09ce34d99336fc13e32262c4"
+    },
+    {
+      "sha": "83cd8fc02f",
+      "message": "fix(scripting): binary-safe script keys and arguments, and IServer.ScriptLoadAsync(LuaScript) parameters (#674)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide-csharp",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-csharp/pull/674",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-csharp/commit/83cd8fc02f13ed3472e67b4b11c9dafc728b6465"
+    },
     {
       "sha": "478c5248f7",
       "message": "fix(core): cap the socket listener worker pool and report pool failures via init callback (#7588)",

@@ -2,9 +2,9 @@
   "title": "ranshid",
   "login": "ranshid",
   "avatar_url": "https://avatars.githubusercontent.com/u/88133677?v=4",
-  "score": 345,
+  "score": 346,
   "commit_count": 97,
-  "review_count": 248,
+  "review_count": 249,
   "repos": [
     "valkey",
     "valkey-container",
@@ -802,6 +802,14 @@
       "repo": "valkey-review-bot",
       "pr_url": "https://github.com/valkey-io/valkey-review-bot/pull/32",
       "commit_url": "https://github.com/valkey-io/valkey-review-bot/commit/48aaf97596abda0470b37554b94762992c818f22"
+    },
+    {
+      "sha": "b8d6a54e7a",
+      "message": "Skip pubsub channel defrag while a pending reply holds a reference (#4971)",
+      "date": "2026-11-26",
+      "repo": "valkey",
+      "pr_url": "https://github.com/valkey-io/valkey/pull/4971",
+      "commit_url": "https://github.com/valkey-io/valkey/commit/b8d6a54e7a5eb2adf7e71a18a8731e83f548d767"
     },
     {
       "sha": "6f722fe06f",

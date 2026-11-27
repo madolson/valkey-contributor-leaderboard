@@ -2,8 +2,8 @@
   "title": "omerrubi-amzn",
   "login": "omerrubi-amzn",
   "avatar_url": "https://avatars.githubusercontent.com/u/169974275?v=4",
-  "score": 12,
-  "commit_count": 12,
+  "score": 13,
+  "commit_count": 13,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -11,6 +11,14 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "c4f4a185c2",
+      "message": "fix(core): send ASKING in the same write as the redirected command (#7778)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7778",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c4f4a185c273564e8bd1500df8151be21c635b0a"
+    },
     {
       "sha": "2c11a10f49",
       "message": "Fix false sharing in IO thread active-time and job-finished counters (#4976)",

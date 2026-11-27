@@ -2,9 +2,9 @@
   "title": "Andriciuc",
   "login": "Andriciuc",
   "avatar_url": "https://avatars.githubusercontent.com/u/9531841?v=4",
-  "score": 43,
+  "score": 44,
   "commit_count": 23,
-  "review_count": 20,
+  "review_count": 21,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -197,6 +197,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7c5512ae34",
+      "message": "Fix command examples that no longer match server output (#565)",
+      "date": "2026-11-26",
+      "repo": "valkey-doc",
+      "pr_url": "https://github.com/valkey-io/valkey-doc/pull/565",
+      "commit_url": "https://github.com/valkey-io/valkey-doc/commit/7c5512ae34b8c066db77e04058459c3603c958b5"
+    },
     {
       "sha": "0841ced5d8",
       "message": "Add link preview metadata to blog posts (#750)",

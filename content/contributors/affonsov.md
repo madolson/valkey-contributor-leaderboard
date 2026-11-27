@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 313,
+  "score": 318,
   "commit_count": 103,
-  "review_count": 210,
+  "review_count": 215,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -840,6 +840,46 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "ea0f1c980a",
+      "message": "fix(core): send multi-node cluster requests while another request is pending (#7855)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7855",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ea0f1c980a2fd88f4c73f3151412169c61b992fb"
+    },
+    {
+      "sha": "74524ac6f8",
+      "message": "feat(ruby): valkey-search 1.3 support and RediSearch parity (#412)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/412",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/74524ac6f828fe8332fa3fc07a21722950338453"
+    },
+    {
+      "sha": "225e0ebf42",
+      "message": "chore(python): remove comments and out-of-scope changes from the search 1.3 work (#7867)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7867",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/225e0ebf42b97edaaafbc0cf18a7e13ce3b36307"
+    },
+    {
+      "sha": "a19098e048",
+      "message": "chore(go): rectify valkey-search 1.3 drift and name tests by feature (#7862)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7862",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a19098e048c17cba07b1d133a3a73c720b29c36e"
+    },
+    {
+      "sha": "3c1e0b026c",
+      "message": "feat(java): valkey-search 1.3 stable surface, scoring, cursors, FT.HYBRID (#7379)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7379",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3c1e0b026cc7c1890ed14039764a395954a6ef3d"
+    },
     {
       "sha": "3b08fe2976",
       "message": "feat(node): valkey-search 1.3 stable surface (#7378)",

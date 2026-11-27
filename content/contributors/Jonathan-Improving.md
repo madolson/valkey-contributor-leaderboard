@@ -2,8 +2,8 @@
   "title": "Jonathan-Improving",
   "login": "Jonathan-Improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/235582407?v=4",
-  "score": 22,
-  "commit_count": 11,
+  "score": 26,
+  "commit_count": 15,
   "review_count": 11,
   "repos": [
     "valkey-developer-resources",
@@ -13,6 +13,38 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "74524ac6f8",
+      "message": "feat(ruby): valkey-search 1.3 support and RediSearch parity (#412)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide-ruby",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/412",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/74524ac6f828fe8332fa3fc07a21722950338453"
+    },
+    {
+      "sha": "225e0ebf42",
+      "message": "chore(python): remove comments and out-of-scope changes from the search 1.3 work (#7867)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7867",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/225e0ebf42b97edaaafbc0cf18a7e13ce3b36307"
+    },
+    {
+      "sha": "a19098e048",
+      "message": "chore(go): rectify valkey-search 1.3 drift and name tests by feature (#7862)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7862",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/a19098e048c17cba07b1d133a3a73c720b29c36e"
+    },
+    {
+      "sha": "3c1e0b026c",
+      "message": "feat(java): valkey-search 1.3 stable surface, scoring, cursors, FT.HYBRID (#7379)",
+      "date": "2026-11-26",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7379",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/3c1e0b026cc7c1890ed14039764a395954a6ef3d"
+    },
     {
       "sha": "2687b3ed7c",
       "message": "feat(core): add FtHybrid, FtCursorRead, FtCursorDel request types (#7456)",
