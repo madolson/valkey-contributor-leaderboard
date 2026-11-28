@@ -2,14 +2,22 @@
   "title": "praveenc7",
   "login": "praveenc7",
   "avatar_url": "https://avatars.githubusercontent.com/u/180790988?v=4",
-  "score": 6,
-  "commit_count": 6,
+  "score": 7,
+  "commit_count": 7,
   "review_count": 0,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "5ffc9cfc8e",
+      "message": "fix(controller): keep the workload when a container probe has no handler or more than one (#702)",
+      "date": "2026-11-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/702",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/5ffc9cfc8e065f782291ea34529d82bab82858ba"
+    },
     {
       "sha": "6e2cab3f39",
       "message": "feat: tune the server container's probes and disable liveness through spec.probes (#686)",

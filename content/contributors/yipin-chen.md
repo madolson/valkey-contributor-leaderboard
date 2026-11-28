@@ -2,9 +2,9 @@
   "title": "yipin-chen",
   "login": "yipin-chen",
   "avatar_url": "https://avatars.githubusercontent.com/u/169104400?v=4",
-  "score": 983,
+  "score": 987,
   "commit_count": 45,
-  "review_count": 938,
+  "review_count": 942,
   "repos": [
     "spring-data-valkey",
     "valkey-doc",
@@ -377,6 +377,38 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "256bf295da",
+      "message": "fix(ci): add retry with backoff for PyPI package installation in test-release (#7374)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7374",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/256bf295daf92c8e3c3b06c21523f63c712e0a63"
+    },
+    {
+      "sha": "5713e4acfd",
+      "message": "feat(ffi): add credential provider arguments to create_client_from_uri (#7847)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7847",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5713e4acfd1d09c18cd73756239b24cea23bcf64"
+    },
+    {
+      "sha": "24b6d185e6",
+      "message": "fix(core): honor `raise_on_error=false` in batch decompression path. (#7621)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7621",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/24b6d185e69a6ff52aeb9bd0e3671d116ded744d"
+    },
+    {
+      "sha": "678622091f",
+      "message": "feat(hash): Add PhpRedis-compatible hSetEx with NX/XX support; deprecate legacy hSetEx/hPSetEx (#400)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/400",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/678622091ff7bd641d190cb58a35414c401aa6cd"
+    },
     {
       "sha": "aee90f3fc6",
       "message": "feat(core): per-node partial results in the redis-rs cluster fan-out (#7819)",

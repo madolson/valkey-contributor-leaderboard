@@ -2,9 +2,9 @@
   "title": "prateek-kumar-improving",
   "login": "prateek-kumar-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/178204713?v=4",
-  "score": 513,
+  "score": 517,
   "commit_count": 170,
-  "review_count": 343,
+  "review_count": 347,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -1376,12 +1376,44 @@
   ],
   "review_list": [
     {
+      "sha": "d4e726a2ca",
+      "message": "docs: PHP SCAN commands are refused in multi() and pipeline() (#387)",
+      "date": "2026-11-28",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/387",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/d4e726a2ca0d2d253a4117b7566729866e62b2ec"
+    },
+    {
       "sha": "62f02fc152",
       "message": "fix(core): respect command option boundaries in reply conversion (#7748)",
       "date": "2026-11-27",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7748",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/62f02fc152b50487252a76f92e0a56bf2cbd5b52"
+    },
+    {
+      "sha": "40da7fea6b",
+      "message": "fix(core): make pub/sub subscribe cost independent of channels held (#7872)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7872",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/40da7fea6bb3a763db2b101d96293dc05f6f15a9"
+    },
+    {
+      "sha": "678622091f",
+      "message": "feat(hash): Add PhpRedis-compatible hSetEx with NX/XX support; deprecate legacy hSetEx/hPSetEx (#400)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/400",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/678622091ff7bd641d190cb58a35414c401aa6cd"
+    },
+    {
+      "sha": "ffb13fff0d",
+      "message": "feat(php): Add IFNE option support for SET (#407)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/407",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/ffb13fff0d12713506a0a6207fa9fefa790ced55"
     },
     {
       "sha": "5e361bec7b",

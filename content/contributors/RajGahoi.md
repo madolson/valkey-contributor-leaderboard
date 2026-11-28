@@ -2,8 +2,8 @@
   "title": "RajGahoi",
   "login": "RajGahoi",
   "avatar_url": "https://avatars.githubusercontent.com/u/191273099?v=4",
-  "score": 7,
-  "commit_count": 7,
+  "score": 8,
+  "commit_count": 8,
   "review_count": 0,
   "repos": [
     "valkey-admin",
@@ -17,6 +17,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7610",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c95082b4d9aca51bb4d7db6ff2156cc7f3c57e70"
+    },
+    {
+      "sha": "256bf295da",
+      "message": "fix(ci): add retry with backoff for PyPI package installation in test-release (#7374)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7374",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/256bf295daf92c8e3c3b06c21523f63c712e0a63"
     },
     {
       "sha": "c33ab96b69",

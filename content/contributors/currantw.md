@@ -2,9 +2,9 @@
   "title": "currantw",
   "login": "currantw",
   "avatar_url": "https://avatars.githubusercontent.com/u/181785993?v=4",
-  "score": 435,
+  "score": 436,
   "commit_count": 246,
-  "review_count": 189,
+  "review_count": 190,
   "repos": [
     "valkey-doc",
     "valkey-glide",
@@ -1985,6 +1985,14 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "678622091f",
+      "message": "feat(hash): Add PhpRedis-compatible hSetEx with NX/XX support; deprecate legacy hSetEx/hPSetEx (#400)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/400",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/678622091ff7bd641d190cb58a35414c401aa6cd"
+    },
     {
       "sha": "331f76b87f",
       "message": "feat(ruby): add SET IFEQ support (#449)",

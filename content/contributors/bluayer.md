@@ -2,8 +2,8 @@
   "title": "bluayer",
   "login": "bluayer",
   "avatar_url": "https://avatars.githubusercontent.com/u/37579681?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 6,
+  "commit_count": 6,
   "review_count": 0,
   "repos": [
     "valkey",
@@ -12,6 +12,14 @@
     "valkey-search"
   ],
   "commit_list": [
+    {
+      "sha": "7deb23af96",
+      "message": "feat(python): register CUDA memory for RDMA in glide-sync (#7812)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7812",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7deb23af968cab26eca6df71edd895897f868d3d"
+    },
     {
       "sha": "bb916c664e",
       "message": "feat(rdma): add fabric groups and shared regions (#7587)",

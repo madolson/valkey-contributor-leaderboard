@@ -2,9 +2,9 @@
   "title": "rueian",
   "login": "rueian",
   "avatar_url": "https://avatars.githubusercontent.com/u/2727535?v=4",
-  "score": 78,
+  "score": 80,
   "commit_count": 9,
-  "review_count": 69,
+  "review_count": 71,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -87,6 +87,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "30c92f1ea6",
+      "message": "feat(valkeygcp): add Token Auth (WithTokenAuth) (#223)",
+      "date": "2026-11-28",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/223",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/30c92f1ea6a35e8e11440435c0bd0eeb6a3ea678"
+    },
+    {
+      "sha": "1306457520",
+      "message": "docs(valkeygcp): document in-transit encryption (TLS) with ClientOption.TLSConfig (#220)",
+      "date": "2026-11-27",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/220",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/1306457520707d716441a51a7deb99a6d3d9f48c"
+    },
     {
       "sha": "da4bbc1b82",
       "message": "fix(valkeygcp): keep the discovery endpoint refresh when other cluster settings are set (#222)",

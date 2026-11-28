@@ -2,9 +2,9 @@
   "title": "leslie-bq",
   "login": "leslie-bq",
   "avatar_url": "https://avatars.githubusercontent.com/u/70974092?v=4",
-  "score": 55,
-  "commit_count": 12,
-  "review_count": 43,
+  "score": 59,
+  "commit_count": 14,
+  "review_count": 45,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,22 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "678622091f",
+      "message": "feat(hash): Add PhpRedis-compatible hSetEx with NX/XX support; deprecate legacy hSetEx/hPSetEx (#400)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/400",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/678622091ff7bd641d190cb58a35414c401aa6cd"
+    },
+    {
+      "sha": "ffb13fff0d",
+      "message": "feat(php): Add IFNE option support for SET (#407)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/407",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/ffb13fff0d12713506a0a6207fa9fefa790ced55"
+    },
     {
       "sha": "c81fcbb7f1",
       "message": "fix(php): Fix hash for setup-protoc action (#383)",
@@ -112,6 +128,14 @@
   ],
   "review_list": [
     {
+      "sha": "d4e726a2ca",
+      "message": "docs: PHP SCAN commands are refused in multi() and pipeline() (#387)",
+      "date": "2026-11-28",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/387",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/d4e726a2ca0d2d253a4117b7566729866e62b2ec"
+    },
+    {
       "sha": "2bb23b5d0e",
       "message": "feat(core): opt-in per-node results for multi-node commands (#7751)",
       "date": "2026-11-27",
@@ -126,6 +150,14 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7610",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/c95082b4d9aca51bb4d7db6ff2156cc7f3c57e70"
+    },
+    {
+      "sha": "47e931f5e4",
+      "message": "docs: add Python 3.15 to supported Python versions (#388)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/388",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/47e931f5e45e4bc3c1692e16e1d8e5d33f0d29ec"
     },
     {
       "sha": "5e361bec7b",

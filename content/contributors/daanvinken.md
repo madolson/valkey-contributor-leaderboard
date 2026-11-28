@@ -2,14 +2,22 @@
   "title": "daanvinken",
   "login": "daanvinken",
   "avatar_url": "https://avatars.githubusercontent.com/u/47114744?v=4",
-  "score": 56,
-  "commit_count": 27,
+  "score": 57,
+  "commit_count": 28,
   "review_count": 29,
   "repos": [
     "valkey-helm",
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "577acae614",
+      "message": "feat: reject new or changed spec.replicas and spec.users (#662) (#697)",
+      "date": "2026-11-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/697",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/577acae6143394711d3618647ac84996dc6c0d02"
+    },
     {
       "sha": "e31e51b343",
       "message": "feat: do not reconcile a ValkeyNode without a known parent (#632) (#666)",

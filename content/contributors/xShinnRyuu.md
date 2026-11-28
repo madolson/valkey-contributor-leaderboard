@@ -2,9 +2,9 @@
   "title": "xShinnRyuu",
   "login": "xShinnRyuu",
   "avatar_url": "https://avatars.githubusercontent.com/u/54688146?v=4",
-  "score": 564,
+  "score": 568,
   "commit_count": 171,
-  "review_count": 393,
+  "review_count": 397,
   "repos": [
     ".github",
     "spring-data-valkey",
@@ -1400,6 +1400,38 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7748",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/62f02fc152b50487252a76f92e0a56bf2cbd5b52"
+    },
+    {
+      "sha": "156406c06e",
+      "message": "fix(core): restore constant-time argument lookup for cluster routing",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7882",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/156406c06e0832d5479c43b8a3ada7d31818f6ed"
+    },
+    {
+      "sha": "6b58c7b364",
+      "message": "fix(core): bound the explicit GLIDE_SOCKET_LISTENER_WORKERS override at 64 (#7712)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7712",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6b58c7b364c2cefacc2b463f1b35dfd42b436e0f"
+    },
+    {
+      "sha": "256bf295da",
+      "message": "fix(ci): add retry with backoff for PyPI package installation in test-release (#7374)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7374",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/256bf295daf92c8e3c3b06c21523f63c712e0a63"
+    },
+    {
+      "sha": "b445a8028c",
+      "message": "fix(core): handle groups named consumers in XINFO STREAM FULL (#7781)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7781",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b445a8028c597ddb20c7e9e32a5b931d6b349008"
     },
     {
       "sha": "c33ab96b69",

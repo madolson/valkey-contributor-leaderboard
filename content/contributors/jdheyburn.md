@@ -2,9 +2,9 @@
   "title": "jdheyburn",
   "login": "jdheyburn",
   "avatar_url": "https://avatars.githubusercontent.com/u/34041368?v=4",
-  "score": 242,
-  "commit_count": 85,
-  "review_count": 157,
+  "score": 250,
+  "commit_count": 87,
+  "review_count": 163,
   "repos": [
     "valkey",
     "valkey-doc",
@@ -13,6 +13,22 @@
     "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "2c6a3357bb",
+      "message": "fix: wait for the destination to see the source's slots before migrating them (#716)",
+      "date": "2026-11-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/716",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/2c6a3357bb9808c7bb4b63a12293d7b6a3c35503"
+    },
+    {
+      "sha": "67d8a49a99",
+      "message": "fix: harden per-node config revision handling (#671)",
+      "date": "2026-11-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/671",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/67d8a49a995899f2c18bea5896853f953172c12f"
+    },
     {
       "sha": "bd0bb7e4b1",
       "message": "feat: let users choose the valkey-cli user in the server container (#678)",
@@ -695,6 +711,54 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "10d9b7c03c",
+      "message": "fix: keep a deleted primary's slots while a replica still follows it (#705)",
+      "date": "2026-11-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/705",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/10d9b7c03c6eec70a5fc3e1e2b936f499237914e"
+    },
+    {
+      "sha": "d88a8f94be",
+      "message": "Fixing aftersuite for wait valkeynodes (#699)",
+      "date": "2026-11-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/699",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d88a8f94bee202583658abd744dc8c89193e847d"
+    },
+    {
+      "sha": "d88a8f94be",
+      "message": "Fixing aftersuite for wait valkeynodes (#699)",
+      "date": "2026-11-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/699",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d88a8f94bee202583658abd744dc8c89193e847d"
+    },
+    {
+      "sha": "5d430df359",
+      "message": "fix: promote orphaned replicas with persistence after user intervention (#494)",
+      "date": "2026-11-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/494",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/5d430df359ab0999becde597fad7abbbeb8851c0"
+    },
+    {
+      "sha": "5ffc9cfc8e",
+      "message": "fix(controller): keep the workload when a container probe has no handler or more than one (#702)",
+      "date": "2026-11-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/702",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/5ffc9cfc8e065f782291ea34529d82bab82858ba"
+    },
+    {
+      "sha": "7c1873ec6c",
+      "message": "fix: require slot assignment before the primary handoff wipes the data dir (#654)",
+      "date": "2026-11-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/654",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/7c1873ec6c61021645961687cc1fbbfb8129433c"
+    },
     {
       "sha": "3446643371",
       "message": "fix: join recreated nodes to the cluster when every primary is lost (#536)",

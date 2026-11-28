@@ -2,13 +2,21 @@
   "title": "nassery318",
   "login": "nassery318",
   "avatar_url": "https://avatars.githubusercontent.com/u/86083902?v=4",
-  "score": 169,
-  "commit_count": 124,
-  "review_count": 45,
+  "score": 172,
+  "commit_count": 125,
+  "review_count": 47,
   "repos": [
     "valkey-admin"
   ],
   "commit_list": [
+    {
+      "sha": "c0026e644c",
+      "message": "Keep Valkey credentials out of the MCP child and collector logs (#602)",
+      "date": "2026-11-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/602",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/c0026e644c7ba4ba78ad0abe0da3425a618b98f4"
+    },
     {
       "sha": "af06bec299",
       "message": "Allow WebSocket origin in ElastiCache template (#601)",
@@ -1003,6 +1011,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "afc16e1a4b",
+      "message": "Update version to 1.4.0. (#604)",
+      "date": "2026-11-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/604",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/afc16e1a4b3505a755d5dd2c373b39e66d8465f8"
+    },
+    {
+      "sha": "7c781de463",
+      "message": "Fix leaked AUTH probe clients and the failed-AUTH limit race (#603)",
+      "date": "2026-11-27",
+      "repo": "valkey-admin",
+      "pr_url": "https://github.com/valkey-io/valkey-admin/pull/603",
+      "commit_url": "https://github.com/valkey-io/valkey-admin/commit/7c781de463953f52f26a76020d599c2af6151525"
+    },
     {
       "sha": "e00fea01b9",
       "message": "OTel Metrics Export from Valkey Admin Collectors (#594)",

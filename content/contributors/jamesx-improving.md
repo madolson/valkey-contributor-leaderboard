@@ -2,9 +2,9 @@
   "title": "jamesx-improving",
   "login": "jamesx-improving",
   "avatar_url": "https://avatars.githubusercontent.com/u/126831592?v=4",
-  "score": 445,
+  "score": 453,
   "commit_count": 88,
-  "review_count": 357,
+  "review_count": 365,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -720,12 +720,76 @@
   ],
   "review_list": [
     {
+      "sha": "85344265f1",
+      "message": "docs: update pipeline read-only behavior (#391)",
+      "date": "2026-11-28",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/391",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/85344265f1b1b76e4e2f93249f64e8feff381b34"
+    },
+    {
       "sha": "2bb23b5d0e",
       "message": "feat(core): opt-in per-node results for multi-node commands (#7751)",
       "date": "2026-11-27",
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7751",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/2bb23b5d0e3a56a29303ea3eac932013dd0b8ca4"
+    },
+    {
+      "sha": "156406c06e",
+      "message": "fix(core): restore constant-time argument lookup for cluster routing",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7882",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/156406c06e0832d5479c43b8a3ada7d31818f6ed"
+    },
+    {
+      "sha": "6b58c7b364",
+      "message": "fix(core): bound the explicit GLIDE_SOCKET_LISTENER_WORKERS override at 64 (#7712)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7712",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/6b58c7b364c2cefacc2b463f1b35dfd42b436e0f"
+    },
+    {
+      "sha": "256bf295da",
+      "message": "fix(ci): add retry with backoff for PyPI package installation in test-release (#7374)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7374",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/256bf295daf92c8e3c3b06c21523f63c712e0a63"
+    },
+    {
+      "sha": "b445a8028c",
+      "message": "fix(core): handle groups named consumers in XINFO STREAM FULL (#7781)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7781",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/b445a8028c597ddb20c7e9e32a5b931d6b349008"
+    },
+    {
+      "sha": "7deb23af96",
+      "message": "feat(python): register CUDA memory for RDMA in glide-sync (#7812)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7812",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7deb23af968cab26eca6df71edd895897f868d3d"
+    },
+    {
+      "sha": "47e931f5e4",
+      "message": "docs: add Python 3.15 to supported Python versions (#388)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/388",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/47e931f5e45e4bc3c1692e16e1d8e5d33f0d29ec"
+    },
+    {
+      "sha": "33e50f7745",
+      "message": "docs: Python async pools and isolated scopes support trio (#389)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/389",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/33e50f77451c48279fa4b3b6c1f0943221c1dea2"
     },
     {
       "sha": "225e0ebf42",

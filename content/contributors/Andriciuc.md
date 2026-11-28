@@ -198,6 +198,14 @@
   ],
   "review_list": [
     {
+      "sha": "49046da323",
+      "message": "Update website for version 9.2.1 (#808)",
+      "date": "2026-11-27",
+      "repo": "valkey-io.github.io",
+      "pr_url": "https://github.com/valkey-io/valkey-io.github.io/pull/808",
+      "commit_url": "https://github.com/valkey-io/valkey-io.github.io/commit/49046da32385eebf991d51c85861718db50ae15a"
+    },
+    {
       "sha": "7c5512ae34",
       "message": "Fix command examples that no longer match server output (#565)",
       "date": "2026-11-26",

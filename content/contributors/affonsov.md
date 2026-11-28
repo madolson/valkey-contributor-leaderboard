@@ -2,9 +2,9 @@
   "title": "affonsov",
   "login": "affonsov",
   "avatar_url": "https://avatars.githubusercontent.com/u/67347924?v=4",
-  "score": 318,
+  "score": 321,
   "commit_count": 103,
-  "review_count": 215,
+  "review_count": 218,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -855,6 +855,30 @@
       "repo": "valkey-glide-ruby",
       "pr_url": "https://github.com/valkey-io/valkey-glide-ruby/pull/412",
       "commit_url": "https://github.com/valkey-io/valkey-glide-ruby/commit/74524ac6f828fe8332fa3fc07a21722950338453"
+    },
+    {
+      "sha": "40da7fea6b",
+      "message": "fix(core): make pub/sub subscribe cost independent of channels held (#7872)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7872",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/40da7fea6bb3a763db2b101d96293dc05f6f15a9"
+    },
+    {
+      "sha": "5713e4acfd",
+      "message": "feat(ffi): add credential provider arguments to create_client_from_uri (#7847)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7847",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5713e4acfd1d09c18cd73756239b24cea23bcf64"
+    },
+    {
+      "sha": "5713e4acfd",
+      "message": "feat(ffi): add credential provider arguments to create_client_from_uri (#7847)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7847",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5713e4acfd1d09c18cd73756239b24cea23bcf64"
     },
     {
       "sha": "225e0ebf42",

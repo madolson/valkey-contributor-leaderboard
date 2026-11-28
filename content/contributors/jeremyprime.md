@@ -2,9 +2,9 @@
   "title": "jeremyprime",
   "login": "jeremyprime",
   "avatar_url": "https://avatars.githubusercontent.com/u/94406158?v=4",
-  "score": 357,
-  "commit_count": 109,
-  "review_count": 248,
+  "score": 360,
+  "commit_count": 110,
+  "review_count": 250,
   "repos": [
     "spring-data-valkey",
     "valkey-glide",
@@ -14,6 +14,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "40da7fea6b",
+      "message": "fix(core): make pub/sub subscribe cost independent of channels held (#7872)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7872",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/40da7fea6bb3a763db2b101d96293dc05f6f15a9"
+    },
     {
       "sha": "62922eec19",
       "message": "docs: add \"Why use\" sections to client pool and isolated scope (#396)",
@@ -903,6 +911,22 @@
       "repo": "valkey-glide",
       "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7855",
       "commit_url": "https://github.com/valkey-io/valkey-glide/commit/ea0f1c980a2fd88f4c73f3151412169c61b992fb"
+    },
+    {
+      "sha": "24b6d185e6",
+      "message": "fix(core): honor `raise_on_error=false` in batch decompression path. (#7621)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7621",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/24b6d185e69a6ff52aeb9bd0e3671d116ded744d"
+    },
+    {
+      "sha": "33e50f7745",
+      "message": "docs: Python async pools and isolated scopes support trio (#389)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/389",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/33e50f77451c48279fa4b3b6c1f0943221c1dea2"
     },
     {
       "sha": "0be4dcbf07",

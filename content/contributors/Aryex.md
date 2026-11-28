@@ -2,8 +2,8 @@
   "title": "Aryex",
   "login": "Aryex",
   "avatar_url": "https://avatars.githubusercontent.com/u/35547559?v=4",
-  "score": 390,
-  "commit_count": 152,
+  "score": 396,
+  "commit_count": 158,
   "review_count": 238,
   "repos": [
     "spring-data-valkey",
@@ -16,6 +16,54 @@
     "valkey-io.github.io"
   ],
   "commit_list": [
+    {
+      "sha": "85344265f1",
+      "message": "docs: update pipeline read-only behavior (#391)",
+      "date": "2026-11-28",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/391",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/85344265f1b1b76e4e2f93249f64e8feff381b34"
+    },
+    {
+      "sha": "d4e726a2ca",
+      "message": "docs: PHP SCAN commands are refused in multi() and pipeline() (#387)",
+      "date": "2026-11-28",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/387",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/d4e726a2ca0d2d253a4117b7566729866e62b2ec"
+    },
+    {
+      "sha": "5713e4acfd",
+      "message": "feat(ffi): add credential provider arguments to create_client_from_uri (#7847)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7847",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/5713e4acfd1d09c18cd73756239b24cea23bcf64"
+    },
+    {
+      "sha": "24b6d185e6",
+      "message": "fix(core): honor `raise_on_error=false` in batch decompression path. (#7621)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7621",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/24b6d185e69a6ff52aeb9bd0e3671d116ded744d"
+    },
+    {
+      "sha": "47e931f5e4",
+      "message": "docs: add Python 3.15 to supported Python versions (#388)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/388",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/47e931f5e45e4bc3c1692e16e1d8e5d33f0d29ec"
+    },
+    {
+      "sha": "33e50f7745",
+      "message": "docs: Python async pools and isolated scopes support trio (#389)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide-docs",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-docs/pull/389",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-docs/commit/33e50f77451c48279fa4b3b6c1f0943221c1dea2"
+    },
     {
       "sha": "331f76b87f",
       "message": "feat(ruby): add SET IFEQ support (#449)",

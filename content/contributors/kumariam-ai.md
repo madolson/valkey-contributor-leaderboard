@@ -2,13 +2,29 @@
   "title": "kumariam-ai",
   "login": "kumariam-ai",
   "avatar_url": "https://avatars.githubusercontent.com/u/321359226?v=4",
-  "score": 5,
-  "commit_count": 5,
+  "score": 7,
+  "commit_count": 7,
   "review_count": 0,
   "repos": [
     "valkey-go"
   ],
   "commit_list": [
+    {
+      "sha": "30c92f1ea6",
+      "message": "feat(valkeygcp): add Token Auth (WithTokenAuth) (#223)",
+      "date": "2026-11-28",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/223",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/30c92f1ea6a35e8e11440435c0bd0eeb6a3ea678"
+    },
+    {
+      "sha": "1306457520",
+      "message": "docs(valkeygcp): document in-transit encryption (TLS) with ClientOption.TLSConfig (#220)",
+      "date": "2026-11-27",
+      "repo": "valkey-go",
+      "pr_url": "https://github.com/valkey-io/valkey-go/pull/220",
+      "commit_url": "https://github.com/valkey-io/valkey-go/commit/1306457520707d716441a51a7deb99a6d3d9f48c"
+    },
     {
       "sha": "3ca7cfe221",
       "message": "feat(valkeycompat): add Wait and WaitAOF command compatibility (#202)",

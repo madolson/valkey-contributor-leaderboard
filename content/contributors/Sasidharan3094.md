@@ -2,17 +2,26 @@
   "title": "Sasidharan3094",
   "login": "Sasidharan3094",
   "avatar_url": "https://avatars.githubusercontent.com/u/56465593?v=4",
-  "score": 48,
-  "commit_count": 34,
+  "score": 49,
+  "commit_count": 35,
   "review_count": 14,
   "repos": [
     "valkey",
     "valkey-glide",
     "valkey-glide-ruby",
     "valkey-io.github.io",
-    "valkey-namespace"
+    "valkey-namespace",
+    "valkey-operator"
   ],
   "commit_list": [
+    {
+      "sha": "d88a8f94be",
+      "message": "Fixing aftersuite for wait valkeynodes (#699)",
+      "date": "2026-11-27",
+      "repo": "valkey-operator",
+      "pr_url": "https://github.com/valkey-io/valkey-operator/pull/699",
+      "commit_url": "https://github.com/valkey-io/valkey-operator/commit/d88a8f94bee202583658abd744dc8c89193e847d"
+    },
     {
       "sha": "5fbad58f8e",
       "message": "feat!: error handling similar to redis-rb (#414)",

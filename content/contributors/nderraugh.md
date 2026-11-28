@@ -2,9 +2,9 @@
   "title": "nderraugh",
   "login": "nderraugh",
   "avatar_url": "https://avatars.githubusercontent.com/u/970382?v=4",
-  "score": 132,
-  "commit_count": 43,
-  "review_count": 89,
+  "score": 135,
+  "commit_count": 44,
+  "review_count": 91,
   "repos": [
     "valkey-glide",
     "valkey-glide-csharp",
@@ -13,6 +13,14 @@
     "valkey-glide-ruby"
   ],
   "commit_list": [
+    {
+      "sha": "156406c06e",
+      "message": "fix(core): restore constant-time argument lookup for cluster routing",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7882",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/156406c06e0832d5479c43b8a3ada7d31818f6ed"
+    },
     {
       "sha": "db0ec4e64e",
       "message": "fix(core): isolate timeout watchdog pending counters (#7762)",
@@ -359,6 +367,22 @@
     }
   ],
   "review_list": [
+    {
+      "sha": "7deb23af96",
+      "message": "feat(python): register CUDA memory for RDMA in glide-sync (#7812)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide",
+      "pr_url": "https://github.com/valkey-io/valkey-glide/pull/7812",
+      "commit_url": "https://github.com/valkey-io/valkey-glide/commit/7deb23af968cab26eca6df71edd895897f868d3d"
+    },
+    {
+      "sha": "678622091f",
+      "message": "feat(hash): Add PhpRedis-compatible hSetEx with NX/XX support; deprecate legacy hSetEx/hPSetEx (#400)",
+      "date": "2026-11-27",
+      "repo": "valkey-glide-php",
+      "pr_url": "https://github.com/valkey-io/valkey-glide-php/pull/400",
+      "commit_url": "https://github.com/valkey-io/valkey-glide-php/commit/678622091ff7bd641d190cb58a35414c401aa6cd"
+    },
     {
       "sha": "bb916c664e",
       "message": "feat(rdma): add fabric groups and shared regions (#7587)",
